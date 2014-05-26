@@ -2602,6 +2602,45 @@ V2.13 (ONGOING)
 2226) terraform (+ing)
 2227) terraformer (+plural)
 
+26-MAY-2014
+2228) airscrew (+plural)
+2229) triplanes (added plural)
+2230) airside
+2231) buff-tip
+2232) dialectology + dialectological + dialectologist
+2233) diatheses (plural of diathesis)
+2234) sterol (+plural)
+2235) sphingolipid (+plural)
+2236) condonation (merged into condone)
+2237) neo-Nazi (+plural)
+2238) neo-Nazism
+2239) neo-Marxist (+plural)
+2240) neo-Marxism
+2241) neo-liberal (+plural)
+2242) neo-liberalism
+2243) communalism
+2244) communalist (+plural +ic)
+2245) neocolonial
+2246) neocolonialist (+plural)
+2247) neoconservative (+plural)
+2248) neoconservatism
+2249) neocortices (plural of neocortex)
+2250) neocortical
+2251) neurologic (merged into neurology)
+2252) neurolinguistic (+plural)
+2253) analphabetic
+2254) aspheric (+ally)
+2255) aspherical
+2256) fluxional
+2257) fluxion (+plural)
+2258) fluxgate
+2259) demagnetizer
+2260) demagnetiser
+2261) chaology (+ist)
+2262) semi-classical
+2263) semi-conservative
+
+
 ===============
 
 British English Dictionary (Forked) 2.13
