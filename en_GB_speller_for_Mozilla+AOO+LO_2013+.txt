@@ -2640,6 +2640,45 @@ V2.13 (ONGOING)
 2262) semi-classical
 2263) semi-conservative
 
+27-MAY-2014
+2264) reinstalment
+2265) Gerrit (software)
+2266) occultation (merged into occult)
+2267) occultist (+plural)
+2268) occultness (merged into occult)
+2269) contactless
+2270) contact-breaker
+2271) gnomon (+plural)
+2272) (merged gnomonic into gnomon)
+2273) Arminian (+plural)
+2274) Arminianism
+2275) popery
+2276) Popemobile
+2277) jokester
+2278) jokesmith (+plural)
+2279) biggies (added plural)
+2280) Bigfoot
+2281) Bigfeet (plural of previous word)
+2282) bigeneric
+2283) falcate
+2284) emerald-cut
+2285) dustheap
+2286) dustcoat (+plural)
+2287) dustcarts (added plural)
+2288) barney (+plural)
+2289) bunfight (+plural)
+2290) backstabbings (added plural)
+2291) Milroy (name)
+2292) bungarotoxin
+2293) neurotoxin (+plural)
+2294) neurotoxic
+2295) neurotoxicity
+2296) neurotoxicology
+2297) neurotrophic
+2298) neurotypical
+2299) user-definable
+2300) user-generated
+
 
 ===============
 
