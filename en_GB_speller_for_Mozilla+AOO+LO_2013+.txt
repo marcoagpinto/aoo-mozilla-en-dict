@@ -2493,7 +2493,7 @@ V2.12
 2135) Quakerism
 
 
-V2.13 (ONGOING)
+V2.13 
 --------------
 
 8-MAY-2014
@@ -2679,6 +2679,48 @@ V2.13 (ONGOING)
 2299) user-definable
 2300) user-generated
 
+28-MAY-2014
+2301) unlikeable (merged into likeable)
+2302) unliberated
+2303) unlet (merged into let)
+2304) unlearnedly
+2305) unlay (+ing)
+2306) unlaid (past and past participle of previous word)
+2307) sensorimotor
+2308) sensorineural
+2309) sensorily (merged into sensory)
+2310) subclavian
+2311) semi-retired
+2312) semi-opera (+plural)
+2313) semi-modal
+2314) semi-liquid (+plural)
+2315) semi-invalid
+2316) semi-lethal
+2317) semi-fluid
+2318) semi-finalist (+plural)
+2319) semi-double
+2320) semi-documentary (+plural)
+2321) clock-watch (+ing +er)
+2322) clockmakers (added plural)
+2323) clockmaking
+2324) chronographic (merged into chronograph)
+2325) chronobiology
+2326) chronobiologist (+plural)
+2327) viewports (added plural)
+2328) viewscreen
+2329) hi-fi (+plural - fix: made it lowercase like in Oxford)
+2330) hi-res (Oxford: informal)
+2331) high-res (Oxford: informal - another form of the previous word)
+2332) biopharma (+plural)
+
+30-MAY-2014
+2333) unmunch (+s +ed +ing)
+2334) focaccia
+2335) Mailänder (name)
+2336) backwards-compatible
+2337) backward-compatible
+2338) bottom-dwelling
+2339) bottom-dweller (+plural)
 
 ===============
 
