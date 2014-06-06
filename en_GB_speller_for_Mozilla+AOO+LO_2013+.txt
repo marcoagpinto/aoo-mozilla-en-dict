@@ -2722,8 +2722,51 @@ V2.13
 2338) bottom-dwelling
 2339) bottom-dweller (+plural)
 
+
+V2.14 (ongoing)
+--------------
+
+4-JUN-2014
+2340) hard-code (+ed)
+2341) autocorrecting (merged into autocorrect)
+2342) autarchy (+ic +plural +al)
+
+6-JUN-2014
+2343) autarky (same as the previous word - +plural +ic)
+2344) marcasite
+2345) microcrystalline
+2346) microcredit
+2347) irredeemability
+2348) irrecusable
+2349) bullseyes (added plural)
+2350) bullshot
+2351) inter-agency
+2352) inter-allied
+2353) inter-class
+2354) interactant
+2355) interactionism
+2356) interactionist
+2357) interarticular
+2358) interatomic
+2359) interbed (+ed)
+2360) mudstones (added plural)
+2361) shakuhachi (+plural)
+2362) flat-top (+plural)
+2363) flatbed
+2364) formational (merged into formation)
+2365) endpaper (added singular)
+2366) electrotyper (added singular)
+2367) electrotherapeutic
+2368) electrotherapeutical
+2369) electrosurgery
+2370) electrosurgical
+2371) electrotechnology
+2372) electrotechnic (+s)
+2373) electrotechnical
+2374) electrothermal
+
 ===============
 
-British English Dictionary (Forked) 2.13
+British English Dictionary (Forked) 2.14
 by Marco A.G.Pinto
 
