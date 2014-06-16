@@ -2765,6 +2765,90 @@ V2.14 (ongoing)
 2373) electrotechnical
 2374) electrothermal
 
+10-JUN-2014
+2375) toolkit
+2376) drop-dead
+2377) englacial
+2378) enginery
+2379) gearhead (+plural)
+2380) notchy (+ier +est)
+2381) telemark (+ing)
+2382) triclinic
+2383) tricot
+2384) catteries (added plural)
+2385) diphtherial (merged into diphtheria)
+2386) diphtheritic
+2387) porphyria
+2388) neuropathies (added plural)
+2389) neuropath (+plural) (+ merged ic into it)
+2390) acetylcholine
+2391) Alzheimer (+ 's)
+2392) alyssum (+plural)
+2393) Solaris (OS)
+2394) Arial (font)
+2395) Verisign (+'s - company name)
+2396) DNS
+2397) Symantec (+'s - company name)
+2398) courseware
+2399) coursebook (+plural)
+2400) blipvert (+plural)
+2401) offshores + offshored (merged into offshore)
+2402) eBay (+er)
+2403) shovelboard
+2404) shovelhead (shark)
+2405) bonnethead (shark)
+2406) blackfish (+plural)
+2407) blackfly (+plural)
+
+11-JUN-2014
+2408) astroturfing
+2409) astrophotography
+2410) astrophotographer (+plural)
+2411) astrophotographic
+2412) breakbeat (+plural)
+2413) breakdance (+ing +er +ed)
+
+16-JUN-2014
+2414) PCI
+2415) HDDs (added plural)
+2416) headquarter (added singular + ed)
+2417) OEMs (added plural)
+2418) Gb
+2419) NAS
+2420) drive's (added the 's)
+2421) MMX
+2422) cacheing (it can also be written caching)
+2423) cacheable (merged into cache)
+2424) cacheless (merged into cache)
+2425) uncached
+2426) rebrand (+ing)
+2427) webcast (+plural +ing +er)
+2428) videoconferences (added plural)
+2429) videogram (+plural)
+2430) headnotes (added plural)
+2431) accretive
+2432) amassment (+plural)
+2433) bodger (+plural - Oxford: British informal)
+2434) 'gainst (Oxford: short for against)
+2435) unsex (+ed +s)
+2436) epicene
+2437) stepdad (+plural - Oxford: informal)
+2438) stepfamily (+plural)
+2439) stepmum (+plural - Oxford: informal)
+2440) Stepford (name)
+2441) robotically
+2442) robotisation
+2443) shitless (merged into shit - Oxford: vulgar slang)
+2444) shithouse (Oxford: vulgar slang)
+2445) shithead (Oxford: vulgar slang)
+2446) shitface (Oxford: vulgar slang)
+2447) shithole (Oxford: vulgar slang)
+2448) trafficless (merged into traffic)
+2449) downslope (+plural)
+2450) eyeballed + eyeballing (merged into eyeball)
+2451) brachycephalic
+2452) brachycephaly
+
 ===============
 
 British English Dictionary (Forked) 2.14
