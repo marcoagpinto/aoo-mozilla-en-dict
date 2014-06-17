@@ -2849,6 +2849,50 @@ V2.14 (ongoing)
 2451) brachycephalic
 2452) brachycephaly
 
+17-JUN-2014
+2453) registrant (+plural)
+2454) registrarship
+2455) rheumatology (+ist)
+2456) rheumatological
+2457) francophones (added plural)
+2458) simple-mindedness (merged into simple-minded)
+2459) uncompounded
+2460) uncompanionable
+2461) uncommunicated
+2462) undeciphered
+2463) undecided (+s +ly - merged into a new word)
+2464) shilly-shally (+s +ing +ed +ier)
+2465) shilly-shallyer (previous word can also have this form)
+2466) precoital (+ally)
+2467) precolonial
+2468) preconcert (+ed)
+2469) preconsciousness (merged into preconscious)
+2470) precycling
+2471) showbizzy (merged into showbiz)
+2472) showband (+plural)
+2473) bandmate
+2474) bandleader (+plural)
+2475) banditti (another plural of bandit)
+2476) arse (+ed - Oxford: vulgar slang)
+2477) interceders (added plural)
+2478) interdental
+2479) intercut (+s +ing)
+2480) intercultural
+2481) interculturalism
+2482) intercross (+plural +ing)
+2483) intercostals (added plural)
+2484) intercool (+ed +er)
+2485) intercontinentally
+2486) intercommunity
+2487) intercommunion
+2488) anthropomorphize
+2489) anthropomorphise (another form of the previous word)
+2490) antinomians (added plural)
+2491) antinomianism
+2492) catechetics
+2493) catechesis
+2494) catchily + catchiness (merged into catchy)
+
 ===============
 
 British English Dictionary (Forked) 2.14
