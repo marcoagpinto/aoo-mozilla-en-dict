@@ -2893,6 +2893,84 @@ V2.14 (ongoing)
 2493) catechesis
 2494) catchily + catchiness (merged into catchy)
 
+18-JUN-2014
+2495) Chiu's (name - added the 's)
+2496) examinee (added singular)
+2497) backflip (+plural)
+2498) backflow
+
+19-JUN-2014
+2499) ATX
+2500) reaccept (+ed)
+2501) reacceptance
+2502) reabsorption
+2503) re-sort (+ing)
+2504) compostable (merged into compost)
+2505) composter (merged into compost)
+2506) budstick (+plural)
+2507) budwood
+2508) budworm (+plural)
+2509) earworm (+plural)
+2510) silviculture (+al +ist)
+2511) agro-industry (+plural +al)
+2512) foodgrain (+plural)
+2513) agronomical
+2514) agronomically
+2515) agrobiology
+2516) agrobiological
+2517) agrobiologist
+2518) agroecosystem (+plural)
+2519) algicide (+plural)
+2520) aeroponic (+s)
+2521) aeroponically
+2522) aerophone (+plural)
+2523) gyroplane (+plural)
+2524) fixed-wing
+
+20-JUN-2014
+2525) crowdsource (+ed +ing)
+2526) crowdfunding
+2527) crowdfunded
+2528) creatives (added plural)
+2529) Johnson's (added the 's)
+2530) astrobiology
+2531) astrobiological
+2532) astrobiologist (+plural)
+2533) archipelagoes (Oxford: another way of archipelagos)
+2534) circumnavigator
+2535) subalpine
+2536) treeline
+2537) boreal + Boreal 
+2538) geotechnic (+s)
+2539) geotechnical
+2540) geothermally (merged into geothermal)
+2541) cataclysmically
+2542) Phoenician (+plural)
+2543) Phoenicia
+2544) bc ("Before Christ" in dates, can also be written in lower case)
+2545) cross-post (+ing)
+2546) cross-point
+2547) rebreathe (+ed)
+2548) rebreather (+plural)
+2549) rebuildable (merged into rebuild)
+2550) rebuilder (+plural)
+2551) pumpkinseed (+plural)
+2552) amberjack
+2553) boxfish (+plural)
+2554) trunkfish (+plural)
+2555) brickyards (added plural)
+2556) bricolage (+plural)
+2557) genomics (added plural, suggested by the IRC nick on Mozilla wsmwk)
+2558) proteomic (+plural)
+2559) biomarker (+plural)
+2560) microarray (+plural)
+2561) proteome (+plural)
+2562) bioinformatic (+plural)
+2563) biographee (+plural)
+2564) Lepidoptera + lepidoptera
+2565) lepidopteran (+plural)
+2566) lepidopterous
+
 ===============
 
 British English Dictionary (Forked) 2.14
