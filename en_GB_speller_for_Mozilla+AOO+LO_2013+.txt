@@ -2417,7 +2417,7 @@ V2.12
 2063) fah (Oxford: also fa)
 2064) soybean (+plural)
 2065) satanize + satanise (both possible - +s +ed)
-2066) shitted (merged into shit)
+2066) sh*tted (merged into shit)
 2067) shat (Oxford: past participle shitted or shit or shat)
 2068) autocephalous
 2069) coachwood (+plural)
@@ -2838,11 +2838,11 @@ V2.14 (ongoing)
 2440) Stepford (name)
 2441) robotically
 2442) robotisation
-2443) shitless (merged into shit - Oxford: vulgar slang)
-2444) shithouse (Oxford: vulgar slang)
-2445) shithead (Oxford: vulgar slang)
-2446) shitface (Oxford: vulgar slang)
-2447) shithole (Oxford: vulgar slang)
+2443) sh*tless (merged into sh*t - Oxford: vulgar slang)
+2444) sh*thouse (Oxford: vulgar slang)
+2445) sh*thead (Oxford: vulgar slang)
+2446) sh*tface (Oxford: vulgar slang)
+2447) shi*hole (Oxford: vulgar slang)
 2448) trafficless (merged into traffic)
 2449) downslope (+plural)
 2450) eyeballed + eyeballing (merged into eyeball)
@@ -2970,6 +2970,43 @@ V2.14 (ongoing)
 2564) Lepidoptera + lepidoptera
 2565) lepidopteran (+plural)
 2566) lepidopterous
+
+23-JUN-2014
+2567) decor (+plural)
+2568) cliche (+plural)
+2569) texted +  texting + texter + textless (merged into text)
+2570) merged self-consciousness into self-conscious
+2571) check-ins (added plural)
+2572) pissy (Oxford: vulgar slang)
+2573) low-cut
+2574) firefighter (+plural)
+2575) firefight (+plural)
+2576) firefighting (merged into firefight)
+2577) firefish (+plural)
+2578) fireguard
+2579) firelit
+2580) firelock (+plural)
+2581) blowouts (added plural)
+2582) blowlamp
+2583) blown-up
+2584) blowing-up
+2585) blowhole (+plural)
+2586) blowfishes (added plural - Oxford: it can also be blowfish)
+2587) blowback
+2588) karateka (+plural)
+2589) judoka (+plural)
+2590) sensei (karate teacher)
+2591) break-fall
+2592) break-off
+2593) karate-chop
+2594) off-message
+2595) off-patent
+2596) off-pitch
+2597) off-plan
+2598) 4x4 (+plural - vehicles)
+2599) protestor (+plural - Oxford: another way for protester)
+2600) Proteus (a God + satellite)
+2601) penistone
 
 ===============
 
