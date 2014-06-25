@@ -3008,6 +3008,27 @@ V2.14 (ongoing)
 2600) Proteus (a God + satellite)
 2601) penistone
 
+24-JUN-2014
+2602) telepaths (added plural)
+2603) teleost (+plural)
+2604) paddlefish (+plural)
+2605) garfish (+plural)
+2606) bowfin (+plural)
+2607) infraclass (+plural)
+2608) ruche (+plural +ed +ing)
+2609) dolman (+plural)
+2610) batwing
+2611) storylines (added plural)
+2612) hairband (+plural)
+2613) batwoman
+2614) batwomen
+2615) megalopolitan (+plural)
+2616) megalosaurus (+plural)
+2617) iguanodon (+plural)
+2618) carnosaur (+plural)
+2619) infraorder (+plural)
+2620) decapod (+plural)
+
 ===============
 
 British English Dictionary (Forked) 2.14
