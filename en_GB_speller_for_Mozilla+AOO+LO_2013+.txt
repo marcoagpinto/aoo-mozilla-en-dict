@@ -3029,6 +3029,47 @@ V2.14 (ongoing)
 2619) infraorder (+plural)
 2620) decapod (+plural)
 
+25-JUN-2014
+2621) allée (+plural)
+2622) averment (+plural)
+2623) gratifier (merged into gratify)
+2624) assuagement (merged into assuage)
+2625) sangfroid
+2626) unflashy (merged into flashy)
+2627) ugly-looking
+2628) ill-smelling
+2629) ill-shaped
+2630) ill-prepared
+2631) ill-proportioned
+2632) masturbator
+2633) mastoiditis
+2634) otitis
+2635) otoscope
+2636) otoscopic
+2637) otoscopically
+2638) uncultivable
+2639) uncured
+2640) uncurtained
+2641) uncustomary
+2642) undead
+2643) undebatable
+2644) undecidable
+2645) undecidability
+2646) facades (added plural)
+
+27-JUN-2014
+2647) wodge (+plural)
+2648) gloop (+y)
+2649) herby (+ier +iest)
+2650) bakeware
+2651) swigger (+plural)
+2652) citrusy
+2653) citrussy (another way of the previous word - merged into citrus)
+2654) swifty (+plural)
+2655) swiftie (another way of previous word)
+2656) enchantedly
+2657) enchainment (merged into enchain)
+
 ===============
 
 British English Dictionary (Forked) 2.14
