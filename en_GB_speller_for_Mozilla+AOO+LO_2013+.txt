@@ -2723,7 +2723,7 @@ V2.13
 2339) bottom-dweller (+plural)
 
 
-V2.14 (ongoing)
+V2.14
 --------------
 
 4-JUN-2014
