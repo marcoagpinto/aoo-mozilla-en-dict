@@ -20,7 +20,7 @@ https://sourceforge.net/projects/wordlist/files/Hunspell
 
 Every month I will release an update for Mozilla and for OpenOffice it will take longer because there are 10 000s of people downloading and I don't want to overload the servers.
 
-Please notice here the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
+Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
 I always keep a note of the most recent version released for Mozilla and AOO on the official site of Proofing Tool GUI:
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
