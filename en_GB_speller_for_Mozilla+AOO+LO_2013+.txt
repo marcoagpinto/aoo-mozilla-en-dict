@@ -3070,8 +3070,91 @@ V2.14
 2656) enchantedly
 2657) enchainment (merged into enchain)
 
+
+V2.15 (ongoing)
+--------------
+
+2-JUL-2014
+2658) Cordova (name)
+2659) upsize (+ing)
+2660) downshift (+s +ing)
+2661) righto (Oxford: informal)
+2662) righty-ho (Oxford: another way of the previous word)
+2663) burbot (+plural)
+2664) non-black
+2665) non-biodegradable
+2666) non-biological
+2667) non-capital
+2668) non-chemical
+2669) non-Christian
+2670) non-Catholic
+2671) portrayers (added plural)
+2672) filmdom (+'s)
+2673) portrayable (merged into portray)
+2674) autochrome
+2675) over-simplistic
+2676) over-sentimental
+2677) nonsensicality
+2678) Nonya
+2679) noob (+plural Oxford: informal)
+2680) cancelbot (+plural)
+2681) backloaded (merged into backload)
+2682) backlist (+plural)
+2683) gilet (+plural)
+2684) blaxploitation
+2685) bardolatry
+2686) bardolater (+plural)
+2687) bardolator (+plural Oxford: another way of the previous word)
+2688) florilegium (+plural)
+2689) florilegia (another plural of the previous word)
+2690) floriferous
+2691) aide-memoire
+2692) aides-memoire + aides-memoires (both plural of previous word)
+2693) breveted + breveting (merged into brevet)
+          (Oxford says: brevets, breveting or brevetting, breveted or brevetted)
+2694) compendiously + compendiousness (merged into compendious)
+2695) addictively
+2696) audiobook (+plural)
+2697) audiogram (+plural)
+2698) LP (+plural)
+2699) boomy + boomier + boomiest + boominess
+2700) boomers (added plural)
+2701) bicolour (+ed)
+2702) bicultural
+2703) biculturalism
+2704) areolate
+2705) papule (+plural)
+2706) papulae (another plural form of previous word)
+2707) papular
+2708) papulose
+2709) papulous
+2710) cholerically
+2711) counterproductive
+2712) counterproliferation
+2713) counterpunch (+s +ed +ing)
+2714) counterpuncher (+plural)
+2715) counterrotate (+ing +ion)
+2716) countershading
+2717) countershaded
+2718) counterstatement (+plural)
+2719) countersubject
+2720) counterterrorists (added plural)
+2721) runaround
+2722) juvenility
+2723) juvenescence
+2724) juvenescent
+2725) ovotestis
+2726) ovotestes (plural of previous word)
+2727) ovoviviparous
+2728) ovoviviparity
+2729) coroneted (fix: coronetted and merged into coronet)
+2730) bagwash
+2731) bagworm (+plural)
+2732) porkling
+2733) cowhand
+
 ===============
 
-British English Dictionary (Forked) 2.14
+British English Dictionary (Forked) 2.15
 by Marco A.G.Pinto
 
