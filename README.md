@@ -13,7 +13,7 @@ So, in some cases we will have to start from a low position, which is the last c
 
 This is a hard task but an important one for current and future generations.
 
-The idea was that also other projects could go to this GitHub and take the .AFF and .DIC and use them in projects which use spell checking.
+The idea was that other projects could also use this GitHub and take the .AFF and .DIC and use them in projects which use spell checking.
 
 I am only improving the en_GB... en_US and en_CA are improved by Kevin Atkinson with whom I am in contact... for those two the best is to contact Kevin directly in his repository:
 https://sourceforge.net/projects/wordlist/files/Hunspell
