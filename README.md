@@ -18,7 +18,7 @@ The idea was that other projects could also use this GitHub and take the .AFF an
 I am only improving the en_GB... en_US and en_CA are improved by Kevin Atkinson and, for those two, the best is to contact Kevin directly in his repositories:
 http://wordlist.aspell.net AND https://sourceforge.net/projects/wordlist/files/Hunspell
 
-Every month I will release an update for Mozilla and for OpenOffice it will take longer because there are 10 000s of people downloading and I don't want to overload the servers.
+Every month I will release an en_GB update for Mozilla and for OpenOffice it will take longer because there are 10 000s of people downloading and I don't want to overload the servers.
 
 Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
