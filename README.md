@@ -16,8 +16,10 @@ This is a hard task but an important one for current and future generations.
 The idea was that other projects could also use this GitHub and take the .AFF and .DIC and use them in projects which use spell checking.
 
 I am only improving the en_GB... en_US and en_CA are improved by Kevin Atkinson with whom I am in contact... for those two the best is to contact Kevin directly in his repositories:
-1) http://wordlist.aspell.net
-2) https://sourceforge.net/projects/wordlist/files/Hunspell
+
+http://wordlist.aspell.net
+
+https://sourceforge.net/projects/wordlist/files/Hunspell
 
 Every month I will release an update for Mozilla and for OpenOffice it will take longer because there are 10 000s of people downloading and I don't want to overload the servers.
 
