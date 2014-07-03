@@ -3153,6 +3153,34 @@ V2.15 (ongoing)
 2732) porkling
 2733) cowhand
 
+3-JUL-2014
+2734) Mb
+2735) SecurDisc
+2736) securable + securement + secureness (merged into secure)
+2737) unthreatening
+2738) unthreatened
+2739) unthinkingness (merged into unthinking)
+2740) unthinkability
+2741) unthought
+2742) unthread (+ed +ing)
+2743) unthrifty + unthriftiness + unthriftily
+2744) unthrone (+s +ed)
+2745) Melbourne's (added the 's)
+2746) DPhil (another way for PhD)
+2747) nobble (+ing +ed)
+2748) nobbler (+plural)
+2749) bribable (merged into bribe)
+2750) sawlog (+plural)
+2751) peelers (added plural)
+2752) bloodwort
+2753) bloodwood (+plural)
+2754) coastland (+plural)
+2755) coasteering
+2756) tuberculoid
+2757) Hansen's (added the 's)
+2758) lepromatous
+2759) leprosarium (+plural)
+
 ===============
 
 British English Dictionary (Forked) 2.15
