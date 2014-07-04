@@ -3181,6 +3181,45 @@ V2.15 (ongoing)
 2758) lepromatous
 2759) leprosarium (+plural)
 
+4-JUL-2014
+2760) chemo (Oxford: informal)
+2761) chemoattractant (+plural)
+2762) granuloma (+plural)
+2763) granulomata (another plural of previous word)
+2764) granulomatous
+2765) lurgy (+plural)
+2766) bizarrerie (+plural)
+2767) protogynous
+2768) protogyny
+2769) prolificacy
+2770) geitonogamy
+2771) geitonogamous
+2772) xenogamy
+2773) xenogamous
+2774) autogamy
+2775) autogamous
+2776) agamospermy
+2777) agamospermous
+2778) unfertilized (ize)
+2779) unfertilised (ise)
+2780) enucleate (+ed +ion)
+2781) protoplast (+plural)
+2782) protoplanet
+2783) protostar (+plural)
+2784) circumlunar
+2785) gibbosity
+2786) Rushdie (name)
+2787) Levinson (name)
+2788) Patton (name)
+2789) Naber (name)
+2790) Moore’s (added the 's)
+2791) narrational
+2792) sidecar (+plural)
+2793) indiscrete
+2794) tonner
+2795) doddle
+2796) incidently
+
 ===============
 
 British English Dictionary (Forked) 2.15
