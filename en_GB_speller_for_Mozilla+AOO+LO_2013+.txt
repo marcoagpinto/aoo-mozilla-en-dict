@@ -3220,6 +3220,59 @@ V2.15 (ongoing)
 2795) doddle
 2796) incidently
 
+5-JUL-2014
+2797) imagesetter (+plural)
+2798) imager (+plural)
+2799) image-maker (+plural)
+2800) dealmakers (added plural)
+2801) dealign (+ed +ing +ment)
+2802) dealfish (+plural)
+2803) deal-breaker
+2804) cardholder (added singular)
+2805) B-movie (+plural)
+2806) B-film (+plural)
+2807) b'day (Oxford: informal - another short word for birthday)
+2808) visuomotor
+2809) visuospatial
+2810) deistical
+2811) carbon-14
+2812) carbo-load (+ing)
+2813) spiderweb (+s +ed +ing)
+2814) Kasparov (name)
+2815) Abdullah (name)
+2816) childmind
+2817) childbed
+2818) childminder (added singular + 's)
+2819) childminding
+2820) paraphrasable
+2821) paraphrastic
+2822) deverbal (+plural)
+2823) primordium
+2824) primordia (plural of previous word)
+2825) autoradiograph (+s +ed +ic +y)
+2826) acentric
+2827) dicentric
+2828) biotech (Oxford: short for biotechnology)
+
+6-JUL-2014
+2829) morphologic + morphologist (merged into morphology)
+2830) morphogenetic
+2831) morphogenic
+2832) morpholine
+2833) basicity
+2834) chromous
+2835) chromospheric (merged into chromosphere)
+2836) plage (+plural)
+2837) plagiaristic
+2838) morphometry (+ic)
+2839) morphometrically
+2840) morphometrics
+2841) neuroimaging
+2842) neurohormone (+plural)
+2843) vasopressin
+2844) procoagulant (+plural)
+2845) glycoprotein (+plural)
+2846) ecdysone
 ===============
 
 British English Dictionary (Forked) 2.15
