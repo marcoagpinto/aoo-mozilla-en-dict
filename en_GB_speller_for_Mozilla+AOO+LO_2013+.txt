@@ -3273,6 +3273,78 @@ V2.15 (ongoing)
 2844) procoagulant (+plural)
 2845) glycoprotein (+plural)
 2846) ecdysone
+
+7-JUL-2014
+2847) synchronic
+2848) synchronically
+2849) Darwin's (added the 's)
+2850) evolutional (+ly)
+2851) evolutive
+2852) complementarily (merged into complementary)
+2853) semiosis
+2854) personhood
+2855) acrolect (+plural +al)
+2856) syntagmatic (+s)
+2857) syntagmatically
+2858) syntagm (+plural)
+2859) syntagmas (another plural of syntagm)
+2860) syntagmata (another plural of syntagm)
+2861) cognitivist (+plural)
+2862) cognitivism
+2863) functionalist (+plural)
+2864) electrophysiology (+ist)
+2865) electrophysiological (+ly)
+2866) electroplax
+2867) electroplaque (another way of the previous word)
+2868) electropolish (+ed +ing)
+2869) nitinol
+2870) stent (+plural)
+2871) stenotypes (added plural)
+2872) stenotypist (+plural)
+2873) stenothermal
+2874) Princeton (name)
+2875) steepled (merged into steeple)
+2876) steeplechasers (added plural)
+2877) bookman
+2878) bookmen (plural of previous word)
+2879) booklouse
+2880) booklice (plural of previous word)
+2881) bookland
+2882) bumf
+2883) bumph (another way of previous word)
+2884) bumboy (Oxford: vulgar slang)
+2885) bumbledom
+2886) bumbag (+plural - Oxford: informal)
+2887) bum-sucking (Oxford: vulgar slang)
+2888) bum-sucker (Oxford: vulgar slang)
+2889) bum-bailiff (+plural)
+2890) crookery
+2891) cronyism
+2892) croneyism (another way of previous word)
+2893) depositaries (added plural)
+2894) redeposition
+2895) upwelling
+2896) multistage
+2897) multitalented
+2898) dequeueing (another way of dequeuing)
+2899) defriend
+2900) unsecure
+2901) unsectarian
+2902) unseaworthiness
+2903) utopians (added plural)
+2904) decontrols (added +s)
+2905) decontaminant
+2906) deconstructionism
+2907) deconstructionist (+plural)
+2908) postmodern (fix: removed post-modern)
+2909) postmodify (+s +ing +ed +tion +er)
+2910) postorbital (+plural)
+2911) postmodernism (fix: removed post-modernism)
+2912) postmodernist (fix: removed post-modernist)
+2913) postmodernity
+2914) postdoctoral (fix: removed post-doctoral)
+2915) postcolonial (fix: removed post-colonial)
+2916) fix: removed post-office as actually it is "post office"
 ===============
 
 British English Dictionary (Forked) 2.15
