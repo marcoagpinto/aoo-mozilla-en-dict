@@ -18,14 +18,14 @@ The idea was that other projects could also use this GitHub and take the .AFF an
 I am only improving the en_GB... en_US and en_CA are maintained by Kevin Atkinson and, for those two, please contact Kevin directly:
 http://wordlist.aspell.net AND https://sourceforge.net/projects/wordlist/files/Hunspell
 
-Every month I will release an en_GB update for Mozilla. For OpenOffice it will take longer because there are 10 000s of people downloading and I don't want to overload the servers.
+Every month I will release an en_GB update for Mozilla. For OpenOffice it will take longer because there are 10'000s of people downloading and I don't want to overload the servers.
 
 Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
 I always keep a note of the most recent version released for Mozilla and AOO on the official Proofing Tool GUI site:
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
-Licences for wordlists:
+Licences for the wordlists:
 - en_CA (Kevin Atkinson) - BSD/MIT-Like
 - en_GB (Marco A.G.Pinto) - LGPL
 - en_US (Kevin Atkinson) - BSD/MIT-Like
