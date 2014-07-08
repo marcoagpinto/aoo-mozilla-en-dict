@@ -3345,6 +3345,40 @@ V2.15 (ongoing)
 2914) postdoctoral (fix: removed post-doctoral)
 2915) postcolonial (fix: removed post-colonial)
 2916) fix: removed post-office as actually it is "post office"
+
+8-JUL-2014
+2917) dreck (+y)
+2918) dreckish
+2919) savvy (+er +est +s +ing +ed)
+2920) salaryman
+2921) salarymen (plural of previous word)
+2922) untether (+s +ed +ing)
+2923) reframe (+s +ed)
+2924) GMOs (added plural)
+2925) sext (+ing +er)
+2926) selfie (+plural)
+2927) selfy (another way of the previous word)
+2928) tagger (+plural)
+2929) tagetes
+2930) fulminant
+2931) haemoptysis
+2932) telepathize (IZE - +s +ed +ing)
+2933) cryptocrystalline
+2934) cryptocurrency (+plural)
+2935) cryptogam (+s)
+2936) cryptogamic
+2937) orthoepy (+ic)
+2938) orthoepist
+2939) orthogenesis
+2940) orthogenesist
+2941) orthogenetic
+2942) orthogenetically
+2943) myosin
+2944) actin
+2945) antiparallel
+2946) palaeopathology
+2947) palaeopathological
+2948) palaeopathologist (+plural)
 ===============
 
 British English Dictionary (Forked) 2.15
