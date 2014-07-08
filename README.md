@@ -26,7 +26,6 @@ I always keep a note of the most recent version released for Mozilla and AOO on 
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 Licences for wordlists:
-
 - en_CA (Kevin Atkinson) - BSD/MIT-Like
 
 - en_GB (Marco A.G.Pinto) - LGPL
