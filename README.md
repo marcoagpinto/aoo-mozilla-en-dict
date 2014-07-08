@@ -29,4 +29,4 @@ Licences for wordlists:
 en_CA (Kevin Atkinson) - BSD/MIT-Like
 en_GB (Marco A.G.Pinto) - LGPL
 en_US (Kevin Atkinson) - BSD/MIT-Like
- 
+
