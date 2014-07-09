@@ -27,11 +27,11 @@ http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 
 Each GitHub folder has:
-- ZIP (.AFF + .DIC + README + WORDLIST)
-- WORDLIST for people to see
+- ZIP (.AFF + .DIC + README + WORDLIST);
+- WORDLIST for people to see.
 
 
 Licences for the wordlists:
-- en_CA (Kevin Atkinson) - BSD/MIT-Like
-- en_GB (Marco A.G.Pinto) - LGPL
-- en_US (Kevin Atkinson) - BSD/MIT-Like
+- en_CA (Kevin Atkinson) - BSD/MIT-Like;
+- en_GB (Marco A.G.Pinto) - LGPL;
+- en_US (Kevin Atkinson) - BSD/MIT-Like.
