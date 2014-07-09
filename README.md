@@ -25,6 +25,16 @@ Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I kee
 I always keep a note of the most recent version released for Mozilla and AOO on the official Proofing Tool GUI site:
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
+
+Each folder has:
+- .AFF
+- .DIC
+- README
+- full wordlist for people to see
+
+Just right-click over a file and select to save it.
+
+
 Licences for the wordlists:
 - en_CA (Kevin Atkinson) - BSD/MIT-Like
 - en_GB (Marco A.G.Pinto) - LGPL
