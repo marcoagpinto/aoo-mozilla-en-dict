@@ -26,12 +26,11 @@ I always keep a note of the most recent version released for Mozilla and AOO on 
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 
-Each folder has:
+Each folder has (just right-click over a file and select to save it):
 - .AFF
 - .DIC
 - README
 - full wordlist for people to see
-Just right-click over a file and select to save it.
 
 
 Licences for the wordlists:
