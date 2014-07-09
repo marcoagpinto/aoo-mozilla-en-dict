@@ -31,7 +31,6 @@ Each folder has:
 - .DIC
 - README
 - full wordlist for people to see
-
 Just right-click over a file and select to save it.
 
 
