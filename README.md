@@ -27,10 +27,8 @@ http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 
 Each folder has (just right-click over a file and select to save it):
-- .AFF
-- .DIC
-- README
-- full wordlist for people to see
+- ZIP (.AFF + .DIC + README + WORDLIST)
+- WORDLIST for people to see
 
 
 Licences for the wordlists:
