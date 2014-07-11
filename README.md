@@ -39,4 +39,4 @@ Licences for the wordlists:
 - en_US (Kevin Atkinson) - BSD/MIT-Like.
 
 Suggesting words:
-- File a case with the suggested words.
+- Open a case with the suggested words.
