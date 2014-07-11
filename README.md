@@ -16,7 +16,7 @@ Modifying, updating and maintaining a dictionary is a hard task but an important
 The initial idea was that other projects could also use this GitHub entry and take the .AFF and .DIC files and use them in projects which use proofing -or spellchecking- functionalities.
 
 
-I (Marco Pinto) am only improving the en_GB. The en_US and en_CA are maintained by Kevin Atkinson/
+I (Marco Pinto) am only improving the en_GB. The en_US and en_CA are maintained by Kevin Atkinson.
 Please please contact Kevin directly for the latter two:
 see http://wordlist.aspell.net 
 and https://sourceforge.net/projects/wordlist/files/Hunspell
