@@ -3379,6 +3379,95 @@ V2.15 (ongoing)
 2946) palaeopathology
 2947) palaeopathological
 2948) palaeopathologist (+plural)
+
+9-JUL-2014
+2949) playsuit
+2950) playscheme (+plural)
+2951) after-school
+2952) aftercare (fix: removed after-care)
+2953) afterdamp
+2954) afterworld
+2955) aftersun
+2956) bergamot
+2957) inswing (+ing +er)
+2958) insurrectionary
+2959) underage (fix: removed under-age)
+2960) underactive
+2961) put-you-up
+2962) cragsman
+2963) cragsmen (plural of previous word)
+
+10-JUL-2014
+2964) wisecracker (+plural)
+2965) campfire (fix: removed camp-fire)
+2966) campsite (fix: removed camp-site)
+2967) Caesar's (added the 's)
+2968) bedload
+2969) wordlists (added plural)
+2970) bedjacket
+2971) bedight
+2972) bedhead (+plural)
+2973) lustrate (+ed +ion)
+2974) lustral
+2975) contemporarily (merged into contemporary)
+2976) Moldovan (+plural)
+2977) Andorran (+plural)
+2978) NW (North-west)
+2979) Azerbaijani (+plural)
+2980) acetaldehyde
+2981) bailor
+2982) bailment
+2983) recognisance (added singular)
+2984) distraint
+2985) disquisitional (merged into disquisition)
+2986) disputatiousness (merged into disputatious)
+2987) preadaptation (+plural)
+2988) preadapt (+ed)
+2989) theropod (+plural)
+2990) cowbird (+plural)
+2991) preachiness
+2992) pre-vocational
+2993) pre-wash
+2994) pre-shrunk
+2995) pre-shrink
+2996) pre-sell
+2997) pre-Roman
+2998) pre-release
+2999) pre-scientific
+3000) pre-service
+3001) pre-tension (+s)
+3002) punctum
+3003) puncta (plural of previous word)
+3004) biomechanics
+3005) biomechanical
+3006) biomechanically
+3007) biomechanist
+3008) phagocytic (merged into phagocyte)
+3009) degranulate (+ion)
+3010) neutrophil (+plural)
+3011) prostaglandin (+plural)
+3012) reticuloendothelial
+3013) mononuclear
+3014) histologic (merged into histology)
+3015) monomorphic
+3016) monomorphism
+3017) monomorphous
+3018) lysozyme
+3019) ferritin
+3020) ferrimagnetic
+3021) ferrimagnetism
+3022) rhizosphere
+3023) translocate (+s +ing +ed +ion)
+3024) transmarine
+3025) transman
+3026) transmen (plural of previous word)
+3027) transmembrane
+3028) transmigrant (+plural)
+3029) Pilates
+3030) Pilate (name)
+3031) pilastered (merged into pilaster)
+3032) dentil (+plural)
+3033) pyrolysed (merged into pyrolyse)
 ===============
 
 British English Dictionary (Forked) 2.15
