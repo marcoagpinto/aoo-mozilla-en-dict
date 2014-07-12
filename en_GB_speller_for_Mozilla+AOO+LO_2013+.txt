@@ -3468,6 +3468,60 @@ V2.15 (ongoing)
 3031) pilastered (merged into pilaster)
 3032) dentil (+plural)
 3033) pyrolysed (merged into pyrolyse)
+
+11-JUL-2014
+3034) spellchecks + spellchecked + spellchecking (merged into spellcheck)
+3035) unpowered
+3036) unpractical
+3037) unpracticality
+3038) unpossessed
+3039) unpolitical
+3040) unpolitic
+3041) unpointed
+3042) unpoetic
+3043) unpoetical
+3044) unpoetically
+3045) Prometheus (name)
+3046) unplumbable
+3047) unacademic
+3048) Unabomber (name)
+3049) unabating
+3050) unscalable
+3051) unscaleable (another way of previous word)
+3052) unsay (+s +ing)
+3053) unsatisfyingly
+3054) unsatisfactoriness
+3055) unsanctified
+3056) unsalaried
+
+12-JUL-2014
+3057) biosignature
+3058) downwash
+3059) airstream (+plural)
+3060) landside
+3061) airmobile
+3062) airmanship
+3063) divulgation (+plural)
+3064) divulgence
+3065) Diwali
+3066) Divali (another way of previous word)
+3067) Lakshmi (name)
+3068) Lakshadweep (name)
+3069) long-termism
+3070) long-windedly
+3071) longboard
+3072) longdog
+3073) goldendoodle (+plural)
+3074) labradoodle (+plural)
+3075) cockapoos (added plural)
+3076) colourpoint
+3077) Himalayan
+3078) Birman
+3079) Clermont-Ferrand (name)
+3080) Auvergne (name)
+3081) derivate (+plural)
+3082) butyric (acid)
+3083) Grammy + Grammies + Grammys (annual awards)
 ===============
 
 British English Dictionary (Forked) 2.15
