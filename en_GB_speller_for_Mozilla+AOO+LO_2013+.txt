@@ -3522,6 +3522,80 @@ V2.15 (ongoing)
 3081) derivate (+plural)
 3082) butyric (acid)
 3083) Grammy + Grammies + Grammys (annual awards)
+
+13-JUL-2014
+3084) heartbreaker (+plural)
+3085) hyperacidity
+3086) pyrosis
+3087) calcific (merged into calcify)
+3088) myxoma (+plural)
+3089) myxomata (another plural of previous word)
+3090) myxomatous
+3091) bartholinitis
+3092) asthmatically
+3093) autohypnotic
+3094) colectomy (+plural)
+3095) chlamydial (merged into chlamydia)
+3096) bronchospasm
+3097) balanitis
+3098) erythema (+al)
+3099) erythematous
+3100) chancroid (+plural)
+3102) trichomoniasis
+3103) candidiasis
+3104) neutropenia
+3105) neutropenic
+3106) thrombocytopenia
+3107) anticonvulsant (+plural)
+3108) diazepam
+3109) temazepam (fix: removed tamazepam)
+3110) nitrazepam
+3111) nitpicky (merged into nitpick)
+3112) nitid
+3113) Niterói (Oxford:  industrial port on Brazil)
+3114) Folkestone (fix: removed Folkstone)
+3115) barbican (+plural)
+3116) Ragusa (name)
+3117) ragworm
+3118) lugworm (+plural)
+3119) gapers (added plural)
+3120) geoduck (+plural)
+3121) geoengineering
+3122) smily (another way of the word smiley) (+er +est)
+3123) smileys (added plural - notice also smilies)
+3124) gallberry (+plural)
+3125) inkberry (+plural)
+3126) inkhorn
+3127) narratological
+3128) narratologist (merged into narratology)
+3129) narrativity
+3130) eucatastrophe
+3131) euchologion
+3132) euchology (another way of the previous word)
+3133) euchromatin
+3134) euchromatic
+3135) telomere (+plural +ic)
+3136) telomerase
+
+14-JUL-2014
+3137) cross-curricular
+3138) cross-cultural
+3139) cross-court
+3140) forehanded (merged info forehand)
+3141) forehock
+3142) tapas
+3143) tundish
+3144) alloxan
+3145) fenugreek
+3146) diphtheroid
+3147) blastomycosis
+3148) granulocyte (+plural)
+3149) ectomorph (+plural)
+3150) ectoparasite (+plural)
+3151) carboxylase
+3152) cat-sit (+er +ers +ing)
+3153) cat-bear
+3154) -> 12) Ph.D. (removed one entry since it was there twice. Thanks, Filiep)
 ===============
 
 British English Dictionary (Forked) 2.15
