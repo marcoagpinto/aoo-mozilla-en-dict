@@ -3624,6 +3624,46 @@ V2.15 (ongoing)
 3178) osteosarcomata (another plural way of previous word)
 3179) osteoblast (+plural +ic)
 3180) osteoarthritic
+
+17-JUL-2014
+3181) LTR
+3182) uncheck (+s +ing +ed)
+3183) unselect (+s +ing +ed)
+3184) unsentimentally (merged into unsentimental)
+3185) unsensational (+ally)
+3186) unseparated
+3187) unserious
+3188) unserviceability
+3189) unsewn
+3190) Macbeth (name)
+3191) Ethelred's (added the 's)
+3192) Gmail + gmail
+3193) SETI
+3194) doughboy (+plural)
+3195) croquembouche
+3196) choux
+3197) loudmouth (+s - Fixed: loud-mouth)
+3198) loud-mouthed (Oxford, it has a "-")
+3199) loudhailer (+plural)
+3200) biochips (added plural)
+3201) biocircuits (added plural)
+3202) high-security
+3203) infirmarer
+3204) infixed + infixing (merged into infix)
+3205) septics (added plural)
+3206) septically
+3207) septicity
+3208) embolus
+3209) emboli (plural of previous word)
+3210) cavitary
+3211) cavernulous
+3212) vermiculate (+ed)
+3213) vermicular
+3214) vermicide (+plural)
+3215) vermicomposting
+3216) vermicomposter
+3217) esparto (+plural)
+3218) espial
 ===============
 
 British English Dictionary (Forked) 2.15
