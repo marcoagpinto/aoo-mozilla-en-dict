@@ -3596,6 +3596,34 @@ V2.15 (ongoing)
 3152) cat-sit (+er +ers +ing)
 3153) cat-bear
 3154) -> 12) Ph.D. (removed one entry since it was there twice. Thanks, Filiep)
+
+16-JUL-2014
+3155) groupset (+plural)
+3156) beaconfish (+plural)
+3157) characin (+plural)
+3158) killifish (+plural)
+3159) toothcarp
+3160) topminnow (+plural)
+3161) topman
+3162) topmen (plural of previous word)
+3163) toplessness
+3164) Templar (+plural)
+3165) withering
+3166) withers (merged into wither)
+3167) witherite
+3168) analytics (merged into analytic)
+3169) braincase
+3170) sagittal (+ly)
+3171) condyle (+plural)
+3172) tibias (another plural of tibia)
+3173) tibial (merged into tibia)
+3174) medullary (merged into medulla)
+3175) osteotomy (+plural)
+3176) osteospermum (+plural)
+3177) osteosarcoma (+plural)
+3178) osteosarcomata (another plural way of previous word)
+3179) osteoblast (+plural +ic)
+3180) osteoarthritic
 ===============
 
 British English Dictionary (Forked) 2.15
