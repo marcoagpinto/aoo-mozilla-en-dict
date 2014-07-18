@@ -3664,6 +3664,38 @@ V2.15 (ongoing)
 3216) vermicomposter
 3217) esparto (+plural)
 3218) espial
+
+18-JUL-2014
+3119) leftish
+3120) malcontents (added plural)
+3121) Malbec
+3122) Labrusca
+3123) labradorite
+3124) plagioclase
+3125) aluminosilicate (+plural)
+3126) muscovite (added lower case too)
+3127) euhedral
+3128) biotite
+3129) titanite
+3130) monazite
+3131) xenotime
+3132) chlorite (+ic)
+3133) slaty (merged into slate)
+3134) epidote
+3135) chalcopyrite
+3136) tetrahedrite
+3137) electrum
+3138) pyrargyrite
+3139) pyrrhotite
+3140) goethite
+3141) kaolinite
+3142) wurtzite
+3143) ferberite
+3144) tungstate
+3145) tunesmith (+plural Oxford: informal)
+3146) tunelessness (merged into tuneless)
+3147) tuneage (Oxford: informal)
+3148) Zhangjiakou (name of city in China)
 ===============
 
 British English Dictionary (Forked) 2.15
