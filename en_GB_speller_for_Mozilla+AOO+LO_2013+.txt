@@ -3696,6 +3696,81 @@ V2.15 (ongoing)
 3146) tunelessness (merged into tuneless)
 3147) tuneage (Oxford: informal)
 3148) Zhangjiakou (name of city in China)
+
+21-JUL-2014
+3149) Kevin's (added the 's)
+3150) non-compete
+3151) non-communist
+3152) barracouta (+plural)
+3153) clownfish (+plural)
+3154) damselfish (+plural)
+3155) ghee
+3156) Ghaznavid (+plural)
+3157) Edwy (+'s - name)
+3158) Antiochus (name)
+3159) antinovel (+plural)
+3160) disrelish
+3161) louche (+ness)
+3162) motorsailer
+3163) motormouth (+ed)
+3164) incentivize (+ed)
+3165) incentivise (+ed - ize/ise)
+
+22-JUL-2014
+3166) immunosuppressive (+plural)
+3167) IMO (Oxford: informal: In My Opinion)
+3168) blogosphere
+3169) bloggy (+ier +est)
+3170) blogroll
+3171) liposome (+plural)
+3172) liposculpture
+3173) lipoprotein (+plural)
+3174) lipopolysaccharide (+plural)
+3175) aldosterone
+3176) folate
+3177) Cenozoic
+3178) Cainozoic (another way of previous word)
+3179) terebratulid (+plural)
+3180) pedicle (+plural)
+3181) pedicel (+plural)
+3182) pedicellate
+3183) intervertebral
+3184) congruencies (added plural to congruency)
+3185) quadrics (added plural)
+3186) bilocation
+3187) OBE (+plural)
+3188) psoriatic
+3189) whoever's (added the 's)
+3190) multicellularity
+3191) organismal (merged into organism)
+3192) ODF
+3193) copyleft (+ed)
+3194) copyhold
+3195) copyholder (+plural)
+3196) copy-edit (+s +ed +ing)
+3197) preamplifier (+plural - Fix: removed pre-amplifier)
+3198) preamplify (+s +ing +ed)
+3199) EQ
+3200) epyllion
+3201) epyllia (plural of previous word)
+3202) unexcitable
+3203) unexcitability
+3204) unexaggerated
+3205) uneventfulness (merged into uneventful)
+3206) unevangelical
+3207) equanimous
+3208) Redditch (name of city)
+3209) brutalism
+3210) brutalist
+3211) DDR
+3212) backsight (+plural)
+3213) kickflip (+plural)
+3214) heelflip (+plural)
+3215) frontside
+3216) bodysurf (+er +ers +ing)
+3217) bodyworker (+plural - merged into bodywork)
+3218) thicknesses (added plural)
+3219) thickheaded (fix: removed thick-headed) (added +ness)
 ===============
 
 British English Dictionary (Forked) 2.15
