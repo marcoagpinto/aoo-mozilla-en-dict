@@ -3771,6 +3771,45 @@ V2.15 (ongoing)
 3217) bodyworker (+plural - merged into bodywork)
 3218) thicknesses (added plural)
 3219) thickheaded (fix: removed thick-headed) (added +ness)
+
+23-JUL-2014
+3220) curation (merged into curate)
+3221) cinephile (+plural)
+3222) cinephilia
+3223) cinematograph (+plural)
+3224) cinematheque (+plural)
+3225) Rohmer (name)
+3226) summarization (-ize)
+3227) summarisation (-ise)
+3228) CVs (added plural)
+3229) catechetical
+3230) Christianity's (added the 's)
+3231) catechetically
+3232) anticlericalism
+3233) warfarin
+3234) taipan (+plural)
+3235) workwear
+3236) Adolf (+'s)
+3237) MPLA
+3238) UNITA
+3239) Angolan (+plural +'s)
+3240) Peter's (added upper case as name +'s)
+3241) peterman
+3242) petermen (plural of previous word)
+3243) petersham
+3244) grosgrain
+3245) fieldfare (+plural)
+3246) redwings (added plural)
+
+24-JUL-2014
+3247) Zhu (name)
+3248) Yuanzhang (name)
+3249) minesweeping
+3250) mineshafts (added plural)
+3251) mineworker (added singular)
+3252) Hohenzollern (name)
+3253) hogweed (+plural)
+3254) hognut
 ===============
 
 British English Dictionary (Forked) 2.15
