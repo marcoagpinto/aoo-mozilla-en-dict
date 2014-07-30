@@ -3071,7 +3071,7 @@ V2.14
 2657) enchainment (merged into enchain)
 
 
-V2.15 (ongoing)
+V2.15
 --------------
 
 2-JUL-2014
@@ -3810,6 +3810,55 @@ V2.15 (ongoing)
 3252) Hohenzollern (name)
 3253) hogweed (+plural)
 3254) hognut
+
+25-JUL-2014
+3255) Eminem (+'s - name)
+3256) Elvira's (added 's - name)
+3257) Elsa (+'s - name)
+3258) Elisa (+'s - name)
+3259) Elanor (+'s - name)
+3260) Edison's (added 's - name)
+3261) Egyptian's (added 's - name)
+3262) Edwin's (added 's - name)
+3263) Edwina's (added 's - name)
+3264) Eleanor's (added 's - name)
+3265) Eloise's (added 's - name)
+3266) Eloy (+'s - name)
+3267) Elias's (added 's - name)
+3268) Emilia (+'s - name)
+3269) Ernesto (+'s - name)
+3270) Esmeralda (+'s - name)
+3271) Evangelina (+'s - name)
+3272) FBI's (added 's)
+3273) Fernandez (+'s - name)
+3274) Fernando's (added 's - name)
+3275) Fiona (+'s - name)
+3276) Firefox's (added 's)
+3277) Flintstones (name)
+3278) Florence's (added 's - name)
+3279) Fitzgerald's (added 's - name)
+3280) Fisher (+'s - name)
+3281) Fischer's (added 's - name)
+3282) Francesca's (added 's - name)
+3283) Francis's (added 's - name)
+3284) Francisca (+'s - name)
+3285) Franks (+'s - name)
+3286) Putin (+'s - name)
+3287) Python (+'s - name)
+3288) QWERTY (added upper case and removed lower case)
+3289) AZERTY
+3290) Rachael (+'s - name)
+3291) Ramirez (+'s - name)
+3292) Rambo (+'s - name)
+
+28-JUL-2014
+3293) Coke (+plural + 's - the drink)
+3294) Catholic + Catholic's (already had plural)
+3295) Latinos (added plural - Oxford: Chiefly North American)
+3296) KO + KO's + KO'ing + KO'd
+3297) US (+'s - Country: United States in upper case)
+3298) eclair (+s +'s)
+3299) RTL
 ===============
 
 British English Dictionary (Forked) 2.15
