@@ -39,4 +39,4 @@ Licences for the wordlists:
 - en_US (Kevin Atkinson) - BSD/MIT-Like.
 
 Suggesting words:
-- Open a case with the suggested words.
+- Open a case OR e-mail Marco Pinto with the suggested words.
