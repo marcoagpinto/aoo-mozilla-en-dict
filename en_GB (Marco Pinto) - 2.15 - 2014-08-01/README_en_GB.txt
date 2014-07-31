@@ -2793,3 +2793,749 @@ V2.13 - 1-JUN-2014
 2655) swiftie (another way of previous word)
 2656) enchantedly
 2657) enchainment (merged into enchain)
+
+
+2.15 - 1-AUG-2014
+------------------
+2658) Cordova (name)
+2659) upsize (+ing)
+2660) downshift (+s +ing)
+2661) righto (Oxford: informal)
+2662) righty-ho (Oxford: another way of the previous word)
+2663) burbot (+plural)
+2664) non-black
+2665) non-biodegradable
+2666) non-biological
+2667) non-capital
+2668) non-chemical
+2669) non-Christian
+2670) non-Catholic
+2671) portrayers (added plural)
+2672) filmdom (+'s)
+2673) portrayable (merged into portray)
+2674) autochrome
+2675) over-simplistic
+2676) over-sentimental
+2677) nonsensicality
+2678) Nonya
+2679) noob (+plural Oxford: informal)
+2680) cancelbot (+plural)
+2681) backloaded (merged into backload)
+2682) backlist (+plural)
+2683) gilet (+plural)
+2684) blaxploitation
+2685) bardolatry
+2686) bardolater (+plural)
+2687) bardolator (+plural Oxford: another way of the previous word)
+2688) florilegium (+plural)
+2689) florilegia (another plural of the previous word)
+2690) floriferous
+2691) aide-memoire
+2692) aides-memoire + aides-memoires (both plural of previous word)
+2693) breveted + breveting (merged into brevet)
+          (Oxford says: brevets, breveting or brevetting, breveted or brevetted)
+2694) compendiously + compendiousness (merged into compendious)
+2695) addictively
+2696) audiobook (+plural)
+2697) audiogram (+plural)
+2698) LP (+plural)
+2699) boomy + boomier + boomiest + boominess
+2700) boomers (added plural)
+2701) bicolour (+ed)
+2702) bicultural
+2703) biculturalism
+2704) areolate
+2705) papule (+plural)
+2706) papulae (another plural form of previous word)
+2707) papular
+2708) papulose
+2709) papulous
+2710) cholerically
+2711) counterproductive
+2712) counterproliferation
+2713) counterpunch (+s +ed +ing)
+2714) counterpuncher (+plural)
+2715) counterrotate (+ing +ion)
+2716) countershading
+2717) countershaded
+2718) counterstatement (+plural)
+2719) countersubject
+2720) counterterrorists (added plural)
+2721) runaround
+2722) juvenility
+2723) juvenescence
+2724) juvenescent
+2725) ovotestis
+2726) ovotestes (plural of previous word)
+2727) ovoviviparous
+2728) ovoviviparity
+2729) coroneted (fix: coronetted and merged into coronet)
+2730) bagwash
+2731) bagworm (+plural)
+2732) porkling
+2733) cowhand
+2734) Mb
+2735) SecurDisc
+2736) securable + securement + secureness (merged into secure)
+2737) unthreatening
+2738) unthreatened
+2739) unthinkingness (merged into unthinking)
+2740) unthinkability
+2741) unthought
+2742) unthread (+ed +ing)
+2743) unthrifty + unthriftiness + unthriftily
+2744) unthrone (+s +ed)
+2745) Melbourne's (added the 's)
+2746) DPhil (another way for PhD)
+2747) nobble (+ing +ed)
+2748) nobbler (+plural)
+2749) bribable (merged into bribe)
+2750) sawlog (+plural)
+2751) peelers (added plural)
+2752) bloodwort
+2753) bloodwood (+plural)
+2754) coastland (+plural)
+2755) coasteering
+2756) tuberculoid
+2757) Hansen's (added the 's)
+2758) lepromatous
+2759) leprosarium (+plural)
+2760) chemo (Oxford: informal)
+2761) chemoattractant (+plural)
+2762) granuloma (+plural)
+2763) granulomata (another plural of previous word)
+2764) granulomatous
+2765) lurgy (+plural)
+2766) bizarrerie (+plural)
+2767) protogynous
+2768) protogyny
+2769) prolificacy
+2770) geitonogamy
+2771) geitonogamous
+2772) xenogamy
+2773) xenogamous
+2774) autogamy
+2775) autogamous
+2776) agamospermy
+2777) agamospermous
+2778) unfertilized (ize)
+2779) unfertilised (ise)
+2780) enucleate (+ed +ion)
+2781) protoplast (+plural)
+2782) protoplanet
+2783) protostar (+plural)
+2784) circumlunar
+2785) gibbosity
+2786) Rushdie (name)
+2787) Levinson (name)
+2788) Patton (name)
+2789) Naber (name)
+2790) Moore’s (added the 's)
+2791) narrational
+2792) sidecar (+plural)
+2793) indiscrete
+2794) tonner
+2795) doddle
+2796) incidently
+2797) imagesetter (+plural)
+2798) imager (+plural)
+2799) image-maker (+plural)
+2800) dealmakers (added plural)
+2801) dealign (+ed +ing +ment)
+2802) dealfish (+plural)
+2803) deal-breaker
+2804) cardholder (added singular)
+2805) B-movie (+plural)
+2806) B-film (+plural)
+2807) b'day (Oxford: informal - another short word for birthday)
+2808) visuomotor
+2809) visuospatial
+2810) deistical
+2811) carbon-14
+2812) carbo-load (+ing)
+2813) spiderweb (+s +ed +ing)
+2814) Kasparov (name)
+2815) Abdullah (name)
+2816) childmind
+2817) childbed
+2818) childminder (added singular + 's)
+2819) childminding
+2820) paraphrasable
+2821) paraphrastic
+2822) deverbal (+plural)
+2823) primordium
+2824) primordia (plural of previous word)
+2825) autoradiograph (+s +ed +ic +y)
+2826) acentric
+2827) dicentric
+2828) biotech (Oxford: short for biotechnology)
+2829) morphologic + morphologist (merged into morphology)
+2830) morphogenetic
+2831) morphogenic
+2832) morpholine
+2833) basicity
+2834) chromous
+2835) chromospheric (merged into chromosphere)
+2836) plage (+plural)
+2837) plagiaristic
+2838) morphometry (+ic)
+2839) morphometrically
+2840) morphometrics
+2841) neuroimaging
+2842) neurohormone (+plural)
+2843) vasopressin
+2844) procoagulant (+plural)
+2845) glycoprotein (+plural)
+2846) ecdysone
+2847) synchronic
+2848) synchronically
+2849) Darwin's (added the 's)
+2850) evolutional (+ly)
+2851) evolutive
+2852) complementarily (merged into complementary)
+2853) semiosis
+2854) personhood
+2855) acrolect (+plural +al)
+2856) syntagmatic (+s)
+2857) syntagmatically
+2858) syntagm (+plural)
+2859) syntagmas (another plural of syntagm)
+2860) syntagmata (another plural of syntagm)
+2861) cognitivist (+plural)
+2862) cognitivism
+2863) functionalist (+plural)
+2864) electrophysiology (+ist)
+2865) electrophysiological (+ly)
+2866) electroplax
+2867) electroplaque (another way of the previous word)
+2868) electropolish (+ed +ing)
+2869) nitinol
+2870) stent (+plural)
+2871) stenotypes (added plural)
+2872) stenotypist (+plural)
+2873) stenothermal
+2874) Princeton (name)
+2875) steepled (merged into steeple)
+2876) steeplechasers (added plural)
+2877) bookman
+2878) bookmen (plural of previous word)
+2879) booklouse
+2880) booklice (plural of previous word)
+2881) bookland
+2882) bumf
+2883) bumph (another way of previous word)
+2884) bumboy (Oxford: vulgar slang)
+2885) bumbledom
+2886) bumbag (+plural - Oxford: informal)
+2887) bum-sucking (Oxford: vulgar slang)
+2888) bum-sucker (Oxford: vulgar slang)
+2889) bum-bailiff (+plural)
+2890) crookery
+2891) cronyism
+2892) croneyism (another way of previous word)
+2893) depositaries (added plural)
+2894) redeposition
+2895) upwelling
+2896) multistage
+2897) multitalented
+2898) dequeueing (another way of dequeuing)
+2899) defriend
+2900) unsecure
+2901) unsectarian
+2902) unseaworthiness
+2903) utopians (added plural)
+2904) decontrols (added +s)
+2905) decontaminant
+2906) deconstructionism
+2907) deconstructionist (+plural)
+2908) postmodern (fix: removed post-modern)
+2909) postmodify (+s +ing +ed +tion +er)
+2910) postorbital (+plural)
+2911) postmodernism (fix: removed post-modernism)
+2912) postmodernist (fix: removed post-modernist)
+2913) postmodernity
+2914) postdoctoral (fix: removed post-doctoral)
+2915) postcolonial (fix: removed post-colonial)
+2916) fix: removed post-office as actually it is "post office"
+2917) dreck (+y)
+2918) dreckish
+2919) savvy (+er +est +s +ing +ed)
+2920) salaryman
+2921) salarymen (plural of previous word)
+2922) untether (+s +ed +ing)
+2923) reframe (+s +ed)
+2924) GMOs (added plural)
+2925) sext (+ing +er)
+2926) selfie (+plural)
+2927) selfy (another way of the previous word)
+2928) tagger (+plural)
+2929) tagetes
+2930) fulminant
+2931) haemoptysis
+2932) telepathize (IZE - +s +ed +ing)
+2933) cryptocrystalline
+2934) cryptocurrency (+plural)
+2935) cryptogam (+s)
+2936) cryptogamic
+2937) orthoepy (+ic)
+2938) orthoepist
+2939) orthogenesis
+2940) orthogenesist
+2941) orthogenetic
+2942) orthogenetically
+2943) myosin
+2944) actin
+2945) antiparallel
+2946) palaeopathology
+2947) palaeopathological
+2948) palaeopathologist (+plural)
+2949) playsuit
+2950) playscheme (+plural)
+2951) after-school
+2952) aftercare (fix: removed after-care)
+2953) afterdamp
+2954) afterworld
+2955) aftersun
+2956) bergamot
+2957) inswing (+ing +er)
+2958) insurrectionary
+2959) underage (fix: removed under-age)
+2960) underactive
+2961) put-you-up
+2962) cragsman
+2963) cragsmen (plural of previous word)
+2964) wisecracker (+plural)
+2965) campfire (fix: removed camp-fire)
+2966) campsite (fix: removed camp-site)
+2967) Caesar's (added the 's)
+2968) bedload
+2969) wordlists (added plural)
+2970) bedjacket
+2971) bedight
+2972) bedhead (+plural)
+2973) lustrate (+ed +ion)
+2974) lustral
+2975) contemporarily (merged into contemporary)
+2976) Moldovan (+plural)
+2977) Andorran (+plural)
+2978) NW (North-west)
+2979) Azerbaijani (+plural)
+2980) acetaldehyde
+2981) bailor
+2982) bailment
+2983) recognisance (added singular)
+2984) distraint
+2985) disquisitional (merged into disquisition)
+2986) disputatiousness (merged into disputatious)
+2987) preadaptation (+plural)
+2988) preadapt (+ed)
+2989) theropod (+plural)
+2990) cowbird (+plural)
+2991) preachiness
+2992) pre-vocational
+2993) pre-wash
+2994) pre-shrunk
+2995) pre-shrink
+2996) pre-sell
+2997) pre-Roman
+2998) pre-release
+2999) pre-scientific
+3000) pre-service
+3001) pre-tension (+s)
+3002) punctum
+3003) puncta (plural of previous word)
+3004) biomechanics
+3005) biomechanical
+3006) biomechanically
+3007) biomechanist
+3008) phagocytic (merged into phagocyte)
+3009) degranulate (+ion)
+3010) neutrophil (+plural)
+3011) prostaglandin (+plural)
+3012) reticuloendothelial
+3013) mononuclear
+3014) histologic (merged into histology)
+3015) monomorphic
+3016) monomorphism
+3017) monomorphous
+3018) lysozyme
+3019) ferritin
+3020) ferrimagnetic
+3021) ferrimagnetism
+3022) rhizosphere
+3023) translocate (+s +ing +ed +ion)
+3024) transmarine
+3025) transman
+3026) transmen (plural of previous word)
+3027) transmembrane
+3028) transmigrant (+plural)
+3029) Pilates
+3030) Pilate (name)
+3031) pilastered (merged into pilaster)
+3032) dentil (+plural)
+3033) pyrolysed (merged into pyrolyse)
+3034) spellchecks + spellchecked + spellchecking (merged into spellcheck)
+3035) unpowered
+3036) unpractical
+3037) unpracticality
+3038) unpossessed
+3039) unpolitical
+3040) unpolitic
+3041) unpointed
+3042) unpoetic
+3043) unpoetical
+3044) unpoetically
+3045) Prometheus (name)
+3046) unplumbable
+3047) unacademic
+3048) Unabomber (name)
+3049) unabating
+3050) unscalable
+3051) unscaleable (another way of previous word)
+3052) unsay (+s +ing)
+3053) unsatisfyingly
+3054) unsatisfactoriness
+3055) unsanctified
+3056) unsalaried
+3057) biosignature
+3058) downwash
+3059) airstream (+plural)
+3060) landside
+3061) airmobile
+3062) airmanship
+3063) divulgation (+plural)
+3064) divulgence
+3065) Diwali
+3066) Divali (another way of previous word)
+3067) Lakshmi (name)
+3068) Lakshadweep (name)
+3069) long-termism
+3070) long-windedly
+3071) longboard
+3072) longdog
+3073) goldendoodle (+plural)
+3074) labradoodle (+plural)
+3075) cockapoos (added plural)
+3076) colourpoint
+3077) Himalayan
+3078) Birman
+3079) Clermont-Ferrand (name)
+3080) Auvergne (name)
+3081) derivate (+plural)
+3082) butyric (acid)
+3083) Grammy + Grammies + Grammys (annual awards)
+3084) heartbreaker (+plural)
+3085) hyperacidity
+3086) pyrosis
+3087) calcific (merged into calcify)
+3088) myxoma (+plural)
+3089) myxomata (another plural of previous word)
+3090) myxomatous
+3091) bartholinitis
+3092) asthmatically
+3093) autohypnotic
+3094) colectomy (+plural)
+3095) chlamydial (merged into chlamydia)
+3096) bronchospasm
+3097) balanitis
+3098) erythema (+al)
+3099) erythematous
+3100) chancroid (+plural)
+3102) trichomoniasis
+3103) candidiasis
+3104) neutropenia
+3105) neutropenic
+3106) thrombocytopenia
+3107) anticonvulsant (+plural)
+3108) diazepam
+3109) temazepam (fix: removed tamazepam)
+3110) nitrazepam
+3111) nitpicky (merged into nitpick)
+3112) nitid
+3113) Niterói (Oxford:  industrial port on Brazil)
+3114) Folkestone (fix: removed Folkstone)
+3115) barbican (+plural)
+3116) Ragusa (name)
+3117) ragworm
+3118) lugworm (+plural)
+3119) gapers (added plural)
+3120) geoduck (+plural)
+3121) geoengineering
+3122) smily (another way of the word smiley) (+er +est)
+3123) smileys (added plural - notice also smilies)
+3124) gallberry (+plural)
+3125) inkberry (+plural)
+3126) inkhorn
+3127) narratological
+3128) narratologist (merged into narratology)
+3129) narrativity
+3130) eucatastrophe
+3131) euchologion
+3132) euchology (another way of the previous word)
+3133) euchromatin
+3134) euchromatic
+3135) telomere (+plural +ic)
+3136) telomerase
+3137) cross-curricular
+3138) cross-cultural
+3139) cross-court
+3140) forehanded (merged info forehand)
+3141) forehock
+3142) tapas
+3143) tundish
+3144) alloxan
+3145) fenugreek
+3146) diphtheroid
+3147) blastomycosis
+3148) granulocyte (+plural)
+3149) ectomorph (+plural)
+3150) ectoparasite (+plural)
+3151) carboxylase
+3152) cat-sit (+er +ers +ing)
+3153) cat-bear
+3154) -> 12) Ph.D. (removed one entry since it was there twice. Thanks, Filiep)
+3155) groupset (+plural)
+3156) beaconfish (+plural)
+3157) characin (+plural)
+3158) killifish (+plural)
+3159) toothcarp
+3160) topminnow (+plural)
+3161) topman
+3162) topmen (plural of previous word)
+3163) toplessness
+3164) Templar (+plural)
+3165) withering
+3166) withers (merged into wither)
+3167) witherite
+3168) analytics (merged into analytic)
+3169) braincase
+3170) sagittal (+ly)
+3171) condyle (+plural)
+3172) tibias (another plural of tibia)
+3173) tibial (merged into tibia)
+3174) medullary (merged into medulla)
+3175) osteotomy (+plural)
+3176) osteospermum (+plural)
+3177) osteosarcoma (+plural)
+3178) osteosarcomata (another plural way of previous word)
+3179) osteoblast (+plural +ic)
+3180) osteoarthritic
+3181) LTR
+3182) uncheck (+s +ing +ed)
+3183) unselect (+s +ing +ed)
+3184) unsentimentally (merged into unsentimental)
+3185) unsensational (+ally)
+3186) unseparated
+3187) unserious
+3188) unserviceability
+3189) unsewn
+3190) Macbeth (name)
+3191) Ethelred's (added the 's)
+3192) Gmail + gmail
+3193) SETI
+3194) doughboy (+plural)
+3195) croquembouche
+3196) choux
+3197) loudmouth (+s - Fixed: loud-mouth)
+3198) loud-mouthed (Oxford, it has a "-")
+3199) loudhailer (+plural)
+3200) biochips (added plural)
+3201) biocircuits (added plural)
+3202) high-security
+3203) infirmarer
+3204) infixed + infixing (merged into infix)
+3205) septics (added plural)
+3206) septically
+3207) septicity
+3208) embolus
+3209) emboli (plural of previous word)
+3210) cavitary
+3211) cavernulous
+3212) vermiculate (+ed)
+3213) vermicular
+3214) vermicide (+plural)
+3215) vermicomposting
+3216) vermicomposter
+3217) esparto (+plural)
+3218) espial
+3119) leftish
+3120) malcontents (added plural)
+3121) Malbec
+3122) Labrusca
+3123) labradorite
+3124) plagioclase
+3125) aluminosilicate (+plural)
+3126) muscovite (added lower case too)
+3127) euhedral
+3128) biotite
+3129) titanite
+3130) monazite
+3131) xenotime
+3132) chlorite (+ic)
+3133) slaty (merged into slate)
+3134) epidote
+3135) chalcopyrite
+3136) tetrahedrite
+3137) electrum
+3138) pyrargyrite
+3139) pyrrhotite
+3140) goethite
+3141) kaolinite
+3142) wurtzite
+3143) ferberite
+3144) tungstate
+3145) tunesmith (+plural Oxford: informal)
+3146) tunelessness (merged into tuneless)
+3147) tuneage (Oxford: informal)
+3148) Zhangjiakou (name of city in China)
+3149) Kevin's (added the 's)
+3150) non-compete
+3151) non-communist
+3152) barracouta (+plural)
+3153) clownfish (+plural)
+3154) damselfish (+plural)
+3155) ghee
+3156) Ghaznavid (+plural)
+3157) Edwy (+'s - name)
+3158) Antiochus (name)
+3159) antinovel (+plural)
+3160) disrelish
+3161) louche (+ness)
+3162) motorsailer
+3163) motormouth (+ed)
+3164) incentivize (+ed)
+3165) incentivise (+ed - ize/ise)
+3166) immunosuppressive (+plural)
+3167) IMO (Oxford: informal: In My Opinion)
+3168) blogosphere
+3169) bloggy (+ier +est)
+3170) blogroll
+3171) liposome (+plural)
+3172) liposculpture
+3173) lipoprotein (+plural)
+3174) lipopolysaccharide (+plural)
+3175) aldosterone
+3176) folate
+3177) Cenozoic
+3178) Cainozoic (another way of previous word)
+3179) terebratulid (+plural)
+3180) pedicle (+plural)
+3181) pedicel (+plural)
+3182) pedicellate
+3183) intervertebral
+3184) congruencies (added plural to congruency)
+3185) quadrics (added plural)
+3186) bilocation
+3187) OBE (+plural)
+3188) psoriatic
+3189) whoever's (added the 's)
+3190) multicellularity
+3191) organismal (merged into organism)
+3192) ODF
+3193) copyleft (+ed)
+3194) copyhold
+3195) copyholder (+plural)
+3196) copy-edit (+s +ed +ing)
+3197) preamplifier (+plural - Fix: removed pre-amplifier)
+3198) preamplify (+s +ing +ed)
+3199) EQ
+3200) epyllion
+3201) epyllia (plural of previous word)
+3202) unexcitable
+3203) unexcitability
+3204) unexaggerated
+3205) uneventfulness (merged into uneventful)
+3206) unevangelical
+3207) equanimous
+3208) Redditch (name of city)
+3209) brutalism
+3210) brutalist
+3211) DDR
+3212) backsight (+plural)
+3213) kickflip (+plural)
+3214) heelflip (+plural)
+3215) frontside
+3216) bodysurf (+er +ers +ing)
+3217) bodyworker (+plural - merged into bodywork)
+3218) thicknesses (added plural)
+3219) thickheaded (fix: removed thick-headed) (added +ness)
+3220) curation (merged into curate)
+3221) cinephile (+plural)
+3222) cinephilia
+3223) cinematograph (+plural)
+3224) cinematheque (+plural)
+3225) Rohmer (name)
+3226) summarization (-ize)
+3227) summarisation (-ise)
+3228) CVs (added plural)
+3229) catechetical
+3230) Christianity's (added the 's)
+3231) catechetically
+3232) anticlericalism
+3233) warfarin
+3234) taipan (+plural)
+3235) workwear
+3236) Adolf (+'s)
+3237) MPLA
+3238) UNITA
+3239) Angolan (+plural +'s)
+3240) Peter's (added upper case as name +'s)
+3241) peterman
+3242) petermen (plural of previous word)
+3243) petersham
+3244) grosgrain
+3245) fieldfare (+plural)
+3246) redwings (added plural)
+3247) Zhu (name)
+3248) Yuanzhang (name)
+3249) minesweeping
+3250) mineshafts (added plural)
+3251) mineworker (added singular)
+3252) Hohenzollern (name)
+3253) hogweed (+plural)
+3254) hognut
+3255) Eminem (+'s - name)
+3256) Elvira's (added 's - name)
+3257) Elsa (+'s - name)
+3258) Elisa (+'s - name)
+3259) Elanor (+'s - name)
+3260) Edison's (added 's - name)
+3261) Egyptian's (added 's - name)
+3262) Edwin's (added 's - name)
+3263) Edwina's (added 's - name)
+3264) Eleanor's (added 's - name)
+3265) Eloise's (added 's - name)
+3266) Eloy (+'s - name)
+3267) Elias's (added 's - name)
+3268) Emilia (+'s - name)
+3269) Ernesto (+'s - name)
+3270) Esmeralda (+'s - name)
+3271) Evangelina (+'s - name)
+3272) FBI's (added 's)
+3273) Fernandez (+'s - name)
+3274) Fernando's (added 's - name)
+3275) Fiona (+'s - name)
+3276) Firefox's (added 's)
+3277) Flintstones (name)
+3278) Florence's (added 's - name)
+3279) Fitzgerald's (added 's - name)
+3280) Fisher (+'s - name)
+3281) Fischer's (added 's - name)
+3282) Francesca's (added 's - name)
+3283) Francis's (added 's - name)
+3284) Francisca (+'s - name)
+3285) Franks (+'s - name)
+3286) Putin (+'s - name)
+3287) Python (+'s - name)
+3288) QWERTY (added upper case and removed lower case)
+3289) AZERTY
+3290) Rachael (+'s - name)
+3291) Ramirez (+'s - name)
+3292) Rambo (+'s - name)
+3293) Coke (+plural + 's - the drink)
+3294) Catholic + Catholic's (already had plural)
+3295) Latinos (added plural - Oxford: Chiefly North American)
+3296) KO + KO's + KO'ing + KO'd
+3297) US (+'s - Country: United States in upper case)
+3298) eclair (+s +'s)
+3299) RTL
