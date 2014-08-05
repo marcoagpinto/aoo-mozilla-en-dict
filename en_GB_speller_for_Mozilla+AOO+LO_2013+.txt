@@ -3859,8 +3859,112 @@ V2.15
 3297) US (+'s - Country: United States in upper case)
 3298) eclair (+s +'s)
 3299) RTL
+
+
+V2.16 (ONGOING)
+--------------
+1-AUG-2014
+3300) Pinto (+'s - my name)
+3301) add-on's (added the 's)
+3302) Sagan (+'s - name)
+3303) Steckling (name)
+3304) Adamski's (added the 's - name)
+3305) Ruppelt (+'s - name)
+3306) Keyhoe (name)
+3307) exoplanet (+plural)
+3308) extrapyramidal
+3309) antipsychotic (+plural)
+3310) neuroleptic (+plural)
+3311) benzodiazepine (+plural)
+3312) benzocaine
+3313) colposcope (+y)
+3314) cytologically
+3315) interspecific (+ally)
+3316) bronchogenic
+
+4-AUG-2014
+3317) amuck (other way of amock)
+3318) amoebiasis
+3319) superconscious (+ness +ly)
+3320) unitive
+3321) weakliness
+3322) softie (added singular)
+3323) softphone
+3324) softshell (+plural)
+3325) circumvallation (+plural)
+3326) castellation (+plural)
+3327) stats (Oxford: short for statistics)
+3328) statoscope
+3329) altimetry (+ic)
+3330) innovational (merged into innovation)
+3331) neoteric (+plural)
+3332) Catullus (name)
+3333) Vincenzo (name)
+3334) Bellinis (added plural - Oxford: name + cocktail)
+3335) catchfly (+plural)
+3336) earthfall (+plural)
+3337) foreshock (+plural)
+3338) microseism (+plural +ic)
+3339) microsite (+plural)
+3340) biocompatible
+3341) biocompatibility
+3342) biocomputers (added plural)
+3343) scopolamine
+3344) hyoscyamine
+3345) sexualize (+ion +ed -IZE)
+3346) sexualise (+ion +ed -ISE)
+3347) pansexual (+plural)
+3348) pansexuality
+3349) panspermia
+3350) Cretans (added plural - Kevin Atkinson wordlist 60)
+3351) Byzantines (added plural)
+3352) Micmac (+plural - Kevin Atkinson wordlist 60)
+3353) aberrational (merged into aberration -  Kevin Atkinson wordlist 60)
+3354) anywise (Kevin Atkinson wordlist 60)
+3355) armloads (added plural - Kevin Atkinson wordlist 60)
+3356) backchat (Oxford: informal - Kevin Atkinson wordlist 60)
+
+5-AUG-2014
+3357) zappy (+ier +iest Oxford: informal - Kevin Atkinson wordlist 60)
+3358) Zarathustra
+3359) Zarathustrian (+plural)
+3360) ZAPU
+3361) zeitgeist (+y - added lower case)
+3362) whited (Kevin Atkinson wordlist 60)
+3363) whensoever (Kevin Atkinson wordlist 60)
+3364) whencesoever
+3365) utilizable + utilizer (merged into utilize - Kevin Atkinson wordlist 60)
+3366) 3365 + derivates with -ISE
+3367) untasted (Kevin Atkinson wordlist 60)
+3368) unrated (Kevin Atkinson wordlist 60)
+3369) thingy (+plural - Kevin Atkinson wordlist 60)
+3370) thingummy (+plural - Oxford: informal)
+3371) taildragger (+plural)
+3372) tailwheel
+3373) unstick (+s +ing)
+3374) unstimulating
+3375) superglue (+s +ing +ed - Kevin Atkinson wordlist 60)
+3376) superglueing (another way of previous word - ing)
+3377) Lucifer's (added the 's)
+3378) Cain's (added the 's)
+3379) supergroups (added plural)
+3380) supercoil (+s +ed +ing)
+3381) osmolarity
+3382) supergene (+plural)
+3383) supergalaxy (+plural)
+3384) supercluster (+plural)
+3385) supercollider (+plural)
+3386) superconduct (+ive)
+3387) antiferromagnetic
+3388) antiglobalization (-IZE)
+3389) antiglobalisation (-ISE)
+3390) counterparty (+plural)
+3391) counterplot (+s +ing +ed)
 ===============
 
-British English Dictionary (Forked) 2.15
+civilisational 
+
+
+British English Dictionary (Forked) 2.16
 by Marco A.G.Pinto
 
