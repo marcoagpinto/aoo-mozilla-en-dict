@@ -3960,10 +3960,68 @@ V2.16 (ONGOING)
 3389) antiglobalisation (-ISE)
 3390) counterparty (+plural)
 3391) counterplot (+s +ing +ed)
+
+7-AUG-2014
+3392) swansongs (added plural - Kevin Atkinson wordlist 60)
+3393) syndicalists (added plural - Kevin Atkinson wordlist 60) 
+3394) Trotskyism
+3395) Trotskyist (+plural)
+3396) Trotskyite (+plural)
+3397) Stalinism
+3398) Stalinists (added plural)
+3399) recomposition
+3400) 8-bit
+3401) 16-bit
+3402) 24-bit
+3403) 32-bit
+3404) 64-bit
+3405) recommitment (merged into recommit)
+3406) hypermutable
+3407) hypermutation
+3408) microsatellite (+plural)
+3409) microreader (+plural)
+3410) microprint (+ing)
+3411) microform (+plural)
+3412) microfungus
+3413) microfungi (plural of previous word)
+3414) microfossil (added singular)
+3415) microflora
+3416) microfauna
+3417) microevolution
+3418) microevolutionary
+3419) macroevolution
+3420) macroevolutionary
+3421) microenterprise
+3422) microelectromechanical
+3423) microcyte (+plural +ic)
+3424) Arabic (removed duplicate - PTG V3 build 64+)
+3425) Atlantic (removed duplicate - PTG V3 build 64+)
+3426) Lucy (removed duplicate - PTG V3 build 64+)
+3427) ElGamal (cryptography)
+3428) Elgamal (name of who created 3427)
+3429) cryptosystem (+'s +plural)
+3430) DES (+'s - cryptography)
+3431) DSA (cryptography)
+3432) TLS (cryptography)
+3433) Diffie-Hellman (cryptography)
+3434) VPNs (added plural)
+3435) cryptanalysts (added plural)
+3436) cryptanalytical
+3437) AES (cryptography)
+3438) Lagrange's (added 's)
+3439) cryotherapy
+3440) brachytherapy
+3441) prostatectomy (+plural)
+3442) photodynamic
+3443) adjuvant (+plural)
+3444) anorectal
+3445) windproof
+3446) dermabrasion
+3447) sclerotherapy
+3448) dermatoglyphics
 ===============
 
 civilisational 
-
 
 British English Dictionary (Forked) 2.16
 by Marco A.G.Pinto
