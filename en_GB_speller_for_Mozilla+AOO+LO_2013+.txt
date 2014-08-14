@@ -4019,6 +4019,155 @@ V2.16 (ONGOING)
 3446) dermabrasion
 3447) sclerotherapy
 3448) dermatoglyphics
+
+8-AUG-2014
+3449) internegative (+plural)
+3450) documentarian (+plural)
+3451) documentarist (+plural)
+3452) documentalist (+plural)
+3453) toxophilite (+plural - Oxford: word of the day)
+3454) pandanus
+3455) pandan (another way of previous word)
+3456) photomontage (+plural)
+3457) photomosaic
+3458) gluons (added plural)
+3459) pions (added plural)
+3460) antiquark (+plural)
+3461) kaon (+plural)
+3462) Easter (removed duplicate - PTG V3 build 64+)
+3463) yogic
+3464) asana (+plural)
+3465) pranayama
+3466) ashtanga
+3467) astanga (another way of previous word)
+3468) e-cigarette (+plural)
+3469) cig (+plural - Oxford: informal for cigar)
+3470) burley
+3471) chromodynamics
+3472) QCD (Oxford: short for quantum chromodynamics)
+3473) backwind (+plural)
+3474) forepart (+plural)
+3475) voluted (merged to volute)
+3476) volupté
+3477) cristobalite
+
+11-AUG-2014
+3478) suaver + suavest (merged into suave)
+3479) suaveness (merged into suave)
+3480) Rimbaud (+'s - name - Kevin Atkinson wordlist 50)
+3481) Ringo (+'s - name - Kevin Atkinson wordlist 50)
+3482) bluethroat (+plural)
+3483) oxpecker (+plural)
+3484) dunnock (+plural)
+3485) credentialism
+3486) camelback
+3487) purslane
+3488) glutathione
+3489) cysteine
+3490) glutamic
+3491) asparagine
+3492) histidine
+3493) proline
+3494) proliferous
+3495) prolly (Oxford: informal of "probably")
+3496) pleonastic
+3497) pleonastically
+3498) antistrophe (+plural)
+3499) stanzaed (merged into stanza)
+3500) stanzaic
+3501) tailpiece (+plural - Kevin Atkinson wordlist 60)
+3502) thumbprints (added plural - Kevin Atkinson wordlist 60)
+3503) underclasses (added plural - Kevin Atkinson wordlist 60)
+
+12-AUG-2014
+3504) Riefenstahl (+'s - name - Kevin Atkinson wordlist 50)
+3505) Ragnarök
+3506) Prozac (+'s - Kevin Atkinson wordlist 50)
+3507) Karloff (+'s - name - Kevin Atkinson wordlist 50)
+3508) Kasparov's (added +'s - name - Kevin Atkinson wordlist 50)
+3509) KKK (+'s - Ku Klux Klan - Kevin Atkinson wordlist 50)
+3510) Islamism (+'s - Kevin Atkinson wordlist 50)
+3511) Islamist (Kevin Atkinson wordlist 50)
+3512) Invar (+'s - Kevin Atkinson wordlist 50)
+3513) Ingrid (+'s - name - Kevin Atkinson wordlist 50)
+3514) highlandman
+3515) highlandmen (plural of previous word)
+3516) Aymara (+plural)
+3517) Ayrshires (added plural - animal breed)
+3518) Aboriginals + aboriginals (added the 's)
+3519) ethnomusicologist (+plural)
+3520) ethnomusicologic
+3521) ethnomusicological
+3522) ethnomusicology
+
+13-AUG-2014
+3523) intranet (fix: + added plural - changed to lower case)
+3524) Parkinson (+'s - name)
+3525) workaholism
+3526) timepass
+3527) watchmaking
+3528) saddlers (added plural)
+3529) saddlery (+plural)
+3530) decompilations (added plural)
+3531) cross-assembler (+plural)
+3532) antitype (+plural)
+3533) demerge (+ed +er)
+3534) Demerol
+3535) sloshy (+ier +iest)
+3536) captivatingly
+3537) captchas (added plural)
+3538) abandonware
+3539) freeware (fix: changed to lower case)
+3540) entrepreneurially (merged into entrepreneurial)
+3541) entrepreneurialism
+3542) gunsight (+plural)
+3543) gunslinger (+plural - Oxford: informal)
+3544) gunslinging (Oxford: informal)
+3545) gunstock (+plural)
+3546) cannoneer (+plural)
+3547) cannonry
+3548) anti-piracy
+3549) anti-racists (added plural)
+3550) blockheaded (merged into blockhead)
+3551) blockish
+
+14-AUG-2014
+3552) supervillain (+plural)
+3553) sysop (+plural - Oxford: informal - A system operator)
+3554) sysadmin (+plural - Oxford: informal - A system administrator)
+3555) CRC
+3556) choccy (+plural - Oxford: informal)
+3557) G7
+3558) G8
+3559) G2B
+3560) drippy (removed duplicate - PTG V3 build 64+)
+3561) OSes (added plural)
+3562) sexennial
+3563) sexcentenary (+plural)
+3564) sexagesimal (+plural +ly)
+3565) unpicks (merged into unpick - Kevin Atkinson wordlist 60)
+3566) viewership (+'s - Kevin Atkinson wordlist 60)
+3567) vitriolically (Kevin Atkinson wordlist 60)
+3568) walkies (merged into walkie - Kevin Atkinson wordlist 60)
+3569) wanker (+plural - Oxford: vulgar slang - Kevin Atkinson wordlist 60)
+3570) weepily + weepiness (merged into weepy)
+3571) weepie (Kevin Atkinson wordlist 60)
+3572) whatshername + whatsername (Kevin Atkinson wordlist 60)
+3573) whatshisname + whatsisname (Kevin Atkinson wordlist 60)
+3574) wheatmeal (Kevin Atkinson wordlist 60)
+3575) wheatish
+3576) wheatgrass
+3577) wheatgerm
+3578) borage
+3579) echinacea
+3580) ginkgos (another plural form of ginkgo)
+3581) cocobolo (+plural)
+3582) hardwoods (added plural)
+3583) tablemate
+3584) penne
+3585) tortelli
+3586) gnocchi
+3587) woodworms (added plural - Kevin Atkinson wordlist 60)
 ===============
 
 civilisational 
