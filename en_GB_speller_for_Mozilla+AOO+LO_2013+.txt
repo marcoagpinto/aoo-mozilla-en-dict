@@ -4168,9 +4168,50 @@ V2.16 (ONGOING)
 3585) tortelli
 3586) gnocchi
 3587) woodworms (added plural - Kevin Atkinson wordlist 60)
-===============
 
-civilisational 
+15-AUG-2014
+3588) OpenSSL (cryptography)
+3589) https
+3590) subdomain (+s +'s)
+3591) ChatZilla (+'s)
+3592) Bugzilla (+'s)
+3593) XULRunner (+'s)
+3594) Instantbird
+3595) rheme (+plural)
+3596) gonna (Oxford: informal)
+3597) subcritical
+3598) subcostal
+3599) amygdaloid
+3600) ventromedial (+ly)
+3601) trigeminal
+3602) endothelium
+3603) undersurface
+3604) mesoderm (+al)
+3605) mesogastrium
+3606) mesogastria (plural of previous word)
+3607) epigastrium
+3608) epigastria (plural of previous word)
+3609) hypogastrium
+3610) hypogastria (plural of previous word)
+3611) epifluorescence
+3612) epifauna (+al)
+3613) botanicals (added plural)
+3614) funguses (Oxford: another plural of fungus)
+3615) pelecypod (+plural)
+3616) lamellibranch
+3617) lamellibranchs (plural of previous word)
+3618) wholefood (+plural - Kevin Atkinson wordlist 60)
+3619) weekenders (added plural - Kevin Atkinson wordlist 60)
+3620) wog (+plural - Oxford: offensive - Kevin Atkinson wordlist 60)
+3621) woggle (+plural)
+3622) neckwear
+3623) necrobiosis
+3624) necrobiotic
+3625) Gregorio (+'s - name - Kevin Atkinson wordlist 50)
+3626) Guantánamo (+'s - added accent - name - Kevin Atkinson wordlist 50)
+3627) Hammarskjöld (+'s - added accent - name - Kevin Atkinson wordlist 50)
+3628) Hayworth (+'s - name - Kevin Atkinson wordlist 50)
+===============
 
 British English Dictionary (Forked) 2.16
 by Marco A.G.Pinto
