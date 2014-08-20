@@ -4211,6 +4211,118 @@ V2.16 (ONGOING)
 3626) Guantánamo (+'s - added accent - name - Kevin Atkinson wordlist 50)
 3627) Hammarskjöld (+'s - added accent - name - Kevin Atkinson wordlist 50)
 3628) Hayworth (+'s - name - Kevin Atkinson wordlist 50)
+
+16-AUG-2014
+3629) Margolin (+'s - name)
+
+18-AUG-2014
+3630) l10n
+3631) i18n
+3632) glocalization (-ize)
+3633) glocalisation (-ise)
+3634) localizable (-ize)
+3635) localisable (-ise)
+3636) logogram (+plural)
+3637) foreseeably (merged into foreseeable)
+3638) destructors (added plural)
+3639) prepend + prepends + prepending + prepended
+3640) tuple (+plural)
+3641) ISO's + ISOs (added +'s +s)
+3642) metrology (+ist)
+3643) metrological
+3644) somatosensory
+3645) paraphilia (+plural)
+3646) paraphiliac (+plural)
+3647) asexuals (added plural)
+3648) subgenre (+plural)
+3649) standout (+plural)
+3650) psychosexual (+ally)
+3651) psychophysiologist (+plural - merged into psychophysiology)
+3652) neuropsychology (+ist +ists)
+3653) neuropsychological
+3654) electrodermal
+3655) CIA's (added the 's)
+3656) cryptomeria (+plural)
+3657) cryptonym (+plural)
+3658) cryptorchid (+plural)
+3659) cryptorchidism
+3660) spermatic
+3661) suprarenal
+
+19-AUG-2014
+3662) midlife (fixed mid-life)
+3663) Harleys (motorcycle)
+3664) Harley-Davidson (+'s)
+3665) flathead (+plural)
+3666) teardrop (+plural +'s - fixed: tear-drop)
+3667) knucklehead (+s +ed - Oxford: informal)
+3668) motorhome (+plural)
+3669) pushrod (+plural)
+3670) Cadillac's (added the 's)
+3671) drivetrain (+plural)
+3672) sportster (+plural)
+3673) crankpin (+plural)
+3674) Porsche (name)
+3675) unsourced
+3676) woody (removed duplicate - PTG V3 build 64+)
+3677) wonderful (removed duplicate - PTG V3 build 64+)
+3678) Branson (+'s - name)
+3679) Bramah (+'s - name)
+3680) Keble (+'s - name)
+3681) scholasticism
+3682) scholarliness
+3683) Confucians (added plural)
+3684) quietism
+
+20-AUG-2014
+3685) shamanic
+3686) shamanist (+plural)
+3687) shamanize (+ed - ize)
+3688) shamanise (+ed - ise)
+3689) archpriest (+plural)
+3690) archosaur (+plural)
+3691) basilosaurus
+3692) deinstall (+s +ing +ed +er +ion +ions)
+3693) deinstal (+s - another way of previous word)
+3694) hot-swap (+ed +ing +able)
+3695) blokeish (+ness)
+3696) cochoa (+plural)
+3697) barbet (+plural)
+3698) tinkerbird (+plural)
+3699) greenbul (+plural)
+3700) hornbill (+plural)
+3701) hornbook (+plural)
+3702) deliration
+3703) Delian (+plural)
+3704) Delos (island)
+3705) paralogy
+3706) paralogous
+3707) paralogism (+plural)
+3708) speciate (+ed +ing +ion)
+3709) centromere (+plural)
+3710) centromeric
+3711) centuple (+ed +ing)
+3712) centrum (+plural)
+3713) centra (another plural way of previous word)
+3714) discoverability
+3715) Chevy's (added the 's)
+3716) thermite
+3717) cutlassfish (+plural)
+3718) Porsche (added 's + plural)
+3719) cetology (+ist +ists)
+3720) orca (+plural)
+3721) Payne (+'s - name)
+3722) Patagonia (name of place)
+3723) Patagonian (+plural)
+3724) non-humans (added plural)
+3725) axonal (merged into axon)
+3726) capsid (+plural)
+3727) dendritic (+ally)
+3728) Palaeolithic (fix: now starts with upper case)
+3729) mutualism (+plural)
+3730) mutualist (+plural +ic +ically)
+3731) perioperative
+3732) bruxism
 ===============
 
 British English Dictionary (Forked) 2.16
