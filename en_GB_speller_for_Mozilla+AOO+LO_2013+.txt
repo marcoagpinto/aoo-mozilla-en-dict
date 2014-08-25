@@ -4323,6 +4323,108 @@ V2.16 (ONGOING)
 3730) mutualist (+plural +ic +ically)
 3731) perioperative
 3732) bruxism
+
+21-AUG-2014
+3733) assistive
+3734) wikis (added plural)
+3735) odt
+3736) docx
+3737) pdf (added also in lower case)
+3738) OpenDocument
+3739) mouseover (+plural)
+3740) goaty (merged into goat)
+3741) goatish
+3742) ballotine (+plural)
+3743) galantine (+plural)
+3744) terrines (added plural)
+3745) saltimbocca
+3746) zipx
+3747) brill
+3748) gratin
+3749) ovenproof
+3750) monkfish (+plural)
+3751) anglerfish (+plural)
+3752) Bokmål (language)
+3753) mash-up
+
+22-AUG-2014
+3754) ID + ID's + ID'ing + ID'd (Oxford: don't confuse with "id" in lower case)
+3755) downloader (+plural)
+3756) downmost
+3757) supercell (+plural)
+3758) turbocharge + turbocharging + turbocharged (merged into one entry)
+3759) turboboost
+3760) crashworthy (+ness)
+3761) afterdeck
+3762) foresheet (+plural)
+3763) Paki (+plural - Oxford: offensive, used in GB)
+3764) Lillee (+'s - name)
+3765) Bradman (+'s - name)
+3766) Dryopithecus
+3767) cryptobiotic
+3768) cryptobiosis
+3769) saccharide (+plural)
+3770) defat (+s +ed +ing)
+3771) defeasance (+plural)
+3772) defeasible
+3773) defeatedly (merged into defeated)
+3774) defeminize (+ed +ing - IZE)
+3775) defeminise (+ed +ing - ISE)
+3776) Apelles (+'s - name)
+
+25-AUG-2014
+3777) mesmerize (+s +r +ing +ed - IZE)
+3778) mesmerically (merged into mesmeric)
+3779) unpersuadable
+3780) unperson (+plural)
+3781) unperfumed
+3782) unpersuaded
+3783) unphysical
+3784) unphilosophic (+ally)
+3785) unphilosophical
+3786) unphysiological
+3787) unphysiologic (+ally)
+3788) unpicturesque
+3789) unpigmented
+3790) exfoliate (+s +ed +ing)
+3791) exfoliant (+plural)
+3792) Ardennes (name of place)
+3793) unamplified
+3794) unamiable
+3795) unamended
+3796) zing + zed (removed duplicate - PTG V3 build 64+)
+3797) z's + zs (Z - can be either in upper or lower case)
+3798) unambivalent (+ly)
+3799) ready (removed duplicate - PTG V3 build 64+)
+3800) unambitiousness
+3801) unambiguity
+3802) weaponed (merged into weapon)
+3803) weaponless (merged into weapon -  Kevin Atkinson wordlist 50)
+3804) whitefish + whitefishes + whitefish's (Kevin Atkinson wordlist 50)
+3805) wheresoever (Kevin Atkinson wordlist 50)
+3806) weeper (+s +'s - Kevin Atkinson wordlist 50)
+3807) weenier + weeniest (merged into weeny)
+3808) unskilful (+ly +ness)
+3809) unready
+3810) unreadably
+3811) unreachableness
+3812) unreachably
+3813) unratified
+3814) preseason (+plural)
+3815) preselector
+3816) preselections (added plural)
+3817) unquotable (merged into unquote)
+3818) unquiet (+ly +ness)
+3819) unsuspected (+ly - Kevin Atkinson wordlist 50)
+3820) jackrabbit jackrabbit's jackrabbits (Kevin Atkinson wordlist 50)
+3821) amazon (added also lower case because of some animal names)
+3822) Amazonas (name of state in Brazil)
+3823) Trekkie (+'s +plural - Oxford: informal - another way of Trekker)
+3824) trelliswork (fixed: trellis-work)
+3825) Tharp (+'s - name - Kevin Atkinson wordlist 50)
+3826) Sumerians (added plural)
+3827) sudoku
+3828) sudoriferous
 ===============
 
 British English Dictionary (Forked) 2.16
