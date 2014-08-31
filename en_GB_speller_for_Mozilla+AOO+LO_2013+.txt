@@ -3861,7 +3861,7 @@ V2.15
 3299) RTL
 
 
-V2.16 (ONGOING)
+V2.16
 --------------
 1-AUG-2014
 3300) Pinto (+'s - my name)
@@ -4425,6 +4425,76 @@ V2.16 (ONGOING)
 3826) Sumerians (added plural)
 3827) sudoku
 3828) sudoriferous
+
+26-AUG-2014
+3829) ecoterrorism
+3830) ecoterrorist (+plural)
+3831) ecosphere
+3832) bioregionalism
+3833) bioregionalist (+plural)
+3834) biodynamic (+plural)
+3835) bioenergetic (added plural)
+3836) bioethanol
+3837) biotransformation
+3838) biotype (+plural)
+3839) biowarfare
+3840) bioweapon (+plural)
+3841) firepower (fixed: fire-power)
+3842) fireship (+plural)
+3843) Cmdre (Oxford: abbreviation of Commodore)
+3844) Cmdr (Oxford: abbreviation of Commander)
+3845) Bdr (Oxford: abbreviation of Bombardier)
+3846) aircraftman
+3847) aircraftmen (plural of previous word)
+3848) aircraftwoman
+3849) aircraftwomen (plural of previous word)
+3850) airdrop (+s +ing +ed)
+3851) combfish (+plural)
+3852) nannygai (+plural)
+3853) redfish (+plural)
+3854) rockfish (+plural)
+3855) scorpionfish (+plural)
+
+27-AUG-2014
+3856) calvary (added lower case too - Oxford: when used as noun)
+3857) parasail (+ing)
+3858) ballgirl (+plural)
+3859) backcourt (+plural)
+3860) foredawn
+3861) multilateralism
+3862) multilateralist (added singular)
+3863) unheroic (+ally)
+3864) unheretical
+3865) unheedingly
+3866) unheedful
+3867) unhedged
+3868) unhearing
+3869) unhealthiness
+3870) untaken
+3871) untalkative
+3872) talkboard (+plural)
+3873) talkback
+3874) talkathon (+plural - Oxford: informal)
+3875) over-talkative (+ness)
+3876) overabundant (fix: over-abundant)
+3877) overabundance (fix: over-abundance)
+3878) overabundantly
+3879) overachievement (merged into overachieve)
+3880) DirectX
+3881) XP (therefore removed "Windows XP")
+3882) AVCHD
+3883) BD-R (+plural)
+3884) BD-RE (+plural)
+3885) M-DISC (+'s)
+3886) LightScribe
+3887) CD-R (+plural)
+3888) pre-plan (+ed)
+3889) BD-ROM (+plural)
+3890) BD-XL
+3891) BDXL
+3892) H.265
+3893) DivX
+3894) divx (also in lower case)
 ===============
 
 British English Dictionary (Forked) 2.16

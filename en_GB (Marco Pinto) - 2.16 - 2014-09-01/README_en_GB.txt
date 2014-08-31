@@ -2473,7 +2473,7 @@ V2.13 - 1-JUN-2014
 2339) bottom-dweller (+plural)
 
 
-2.14 - 1-JUL-2014
+V2.14 - 1-JUL-2014
 ------------------
 2340) hard-code (+ed)
 2341) autocorrecting (merged into autocorrect)
@@ -2795,7 +2795,7 @@ V2.13 - 1-JUN-2014
 2657) enchainment (merged into enchain)
 
 
-2.15 - 1-AUG-2014
+V2.15 - 1-AUG-2014
 ------------------
 2658) Cordova (name)
 2659) upsize (+ing)
@@ -3539,3 +3539,602 @@ V2.13 - 1-JUN-2014
 3297) US (+'s - Country: United States in upper case)
 3298) eclair (+s +'s)
 3299) RTL
+
+
+V2.16 - 1-SEP-2014
+------------------
+3300) Pinto (+'s - my name)
+3301) add-on's (added the 's)
+3302) Sagan (+'s - name)
+3303) Steckling (name)
+3304) Adamski's (added the 's - name)
+3305) Ruppelt (+'s - name)
+3306) Keyhoe (name)
+3307) exoplanet (+plural)
+3308) extrapyramidal
+3309) antipsychotic (+plural)
+3310) neuroleptic (+plural)
+3311) benzodiazepine (+plural)
+3312) benzocaine
+3313) colposcope (+y)
+3314) cytologically
+3315) interspecific (+ally)
+3316) bronchogenic
+3317) amuck (other way of amock)
+3318) amoebiasis
+3319) superconscious (+ness +ly)
+3320) unitive
+3321) weakliness
+3322) softie (added singular)
+3323) softphone
+3324) softshell (+plural)
+3325) circumvallation (+plural)
+3326) castellation (+plural)
+3327) stats (Oxford: short for statistics)
+3328) statoscope
+3329) altimetry (+ic)
+3330) innovational (merged into innovation)
+3331) neoteric (+plural)
+3332) Catullus (name)
+3333) Vincenzo (name)
+3334) Bellinis (added plural - Oxford: name + cocktail)
+3335) catchfly (+plural)
+3336) earthfall (+plural)
+3337) foreshock (+plural)
+3338) microseism (+plural +ic)
+3339) microsite (+plural)
+3340) biocompatible
+3341) biocompatibility
+3342) biocomputers (added plural)
+3343) scopolamine
+3344) hyoscyamine
+3345) sexualize (+ion +ed -IZE)
+3346) sexualise (+ion +ed -ISE)
+3347) pansexual (+plural)
+3348) pansexuality
+3349) panspermia
+3350) Cretans (added plural - Kevin Atkinson wordlist 60)
+3351) Byzantines (added plural)
+3352) Micmac (+plural - Kevin Atkinson wordlist 60)
+3353) aberrational (merged into aberration -  Kevin Atkinson wordlist 60)
+3354) anywise (Kevin Atkinson wordlist 60)
+3355) armloads (added plural - Kevin Atkinson wordlist 60)
+3356) backchat (Oxford: informal - Kevin Atkinson wordlist 60)
+3357) zappy (+ier +iest Oxford: informal - Kevin Atkinson wordlist 60)
+3358) Zarathustra
+3359) Zarathustrian (+plural)
+3360) ZAPU
+3361) zeitgeist (+y - added lower case)
+3362) whited (Kevin Atkinson wordlist 60)
+3363) whensoever (Kevin Atkinson wordlist 60)
+3364) whencesoever
+3365) utilizable + utilizer (merged into utilize - Kevin Atkinson wordlist 60)
+3366) 3365 + derivates with -ISE
+3367) untasted (Kevin Atkinson wordlist 60)
+3368) unrated (Kevin Atkinson wordlist 60)
+3369) thingy (+plural - Kevin Atkinson wordlist 60)
+3370) thingummy (+plural - Oxford: informal)
+3371) taildragger (+plural)
+3372) tailwheel
+3373) unstick (+s +ing)
+3374) unstimulating
+3375) superglue (+s +ing +ed - Kevin Atkinson wordlist 60)
+3376) superglueing (another way of previous word - ing)
+3377) Lucifer's (added the 's)
+3378) Cain's (added the 's)
+3379) supergroups (added plural)
+3380) supercoil (+s +ed +ing)
+3381) osmolarity
+3382) supergene (+plural)
+3383) supergalaxy (+plural)
+3384) supercluster (+plural)
+3385) supercollider (+plural)
+3386) superconduct (+ive)
+3387) antiferromagnetic
+3388) antiglobalization (-IZE)
+3389) antiglobalisation (-ISE)
+3390) counterparty (+plural)
+3391) counterplot (+s +ing +ed)
+3392) swansongs (added plural - Kevin Atkinson wordlist 60)
+3393) syndicalists (added plural - Kevin Atkinson wordlist 60) 
+3394) Trotskyism
+3395) Trotskyist (+plural)
+3396) Trotskyite (+plural)
+3397) Stalinism
+3398) Stalinists (added plural)
+3399) recomposition
+3400) 8-bit
+3401) 16-bit
+3402) 24-bit
+3403) 32-bit
+3404) 64-bit
+3405) recommitment (merged into recommit)
+3406) hypermutable
+3407) hypermutation
+3408) microsatellite (+plural)
+3409) microreader (+plural)
+3410) microprint (+ing)
+3411) microform (+plural)
+3412) microfungus
+3413) microfungi (plural of previous word)
+3414) microfossil (added singular)
+3415) microflora
+3416) microfauna
+3417) microevolution
+3418) microevolutionary
+3419) macroevolution
+3420) macroevolutionary
+3421) microenterprise
+3422) microelectromechanical
+3423) microcyte (+plural +ic)
+3424) Arabic (removed duplicate - PTG V3 build 64+)
+3425) Atlantic (removed duplicate - PTG V3 build 64+)
+3426) Lucy (removed duplicate - PTG V3 build 64+)
+3427) ElGamal (cryptography)
+3428) Elgamal (name of who created 3427)
+3429) cryptosystem (+'s +plural)
+3430) DES (+'s - cryptography)
+3431) DSA (cryptography)
+3432) TLS (cryptography)
+3433) Diffie-Hellman (cryptography)
+3434) VPNs (added plural)
+3435) cryptanalysts (added plural)
+3436) cryptanalytical
+3437) AES (cryptography)
+3438) Lagrange's (added 's)
+3439) cryotherapy
+3440) brachytherapy
+3441) prostatectomy (+plural)
+3442) photodynamic
+3443) adjuvant (+plural)
+3444) anorectal
+3445) windproof
+3446) dermabrasion
+3447) sclerotherapy
+3448) dermatoglyphics
+3449) internegative (+plural)
+3450) documentarian (+plural)
+3451) documentarist (+plural)
+3452) documentalist (+plural)
+3453) toxophilite (+plural - Oxford: word of the day)
+3454) pandanus
+3455) pandan (another way of previous word)
+3456) photomontage (+plural)
+3457) photomosaic
+3458) gluons (added plural)
+3459) pions (added plural)
+3460) antiquark (+plural)
+3461) kaon (+plural)
+3462) Easter (removed duplicate - PTG V3 build 64+)
+3463) yogic
+3464) asana (+plural)
+3465) pranayama
+3466) ashtanga
+3467) astanga (another way of previous word)
+3468) e-cigarette (+plural)
+3469) cig (+plural - Oxford: informal for cigar)
+3470) burley
+3471) chromodynamics
+3472) QCD (Oxford: short for quantum chromodynamics)
+3473) backwind (+plural)
+3474) forepart (+plural)
+3475) voluted (merged to volute)
+3476) volupté
+3477) cristobalite
+3478) suaver + suavest (merged into suave)
+3479) suaveness (merged into suave)
+3480) Rimbaud (+'s - name - Kevin Atkinson wordlist 50)
+3481) Ringo (+'s - name - Kevin Atkinson wordlist 50)
+3482) bluethroat (+plural)
+3483) oxpecker (+plural)
+3484) dunnock (+plural)
+3485) credentialism
+3486) camelback
+3487) purslane
+3488) glutathione
+3489) cysteine
+3490) glutamic
+3491) asparagine
+3492) histidine
+3493) proline
+3494) proliferous
+3495) prolly (Oxford: informal of "probably")
+3496) pleonastic
+3497) pleonastically
+3498) antistrophe (+plural)
+3499) stanzaed (merged into stanza)
+3500) stanzaic
+3501) tailpiece (+plural - Kevin Atkinson wordlist 60)
+3502) thumbprints (added plural - Kevin Atkinson wordlist 60)
+3503) underclasses (added plural - Kevin Atkinson wordlist 60)
+3504) Riefenstahl (+'s - name - Kevin Atkinson wordlist 50)
+3505) Ragnarök
+3506) Prozac (+'s - Kevin Atkinson wordlist 50)
+3507) Karloff (+'s - name - Kevin Atkinson wordlist 50)
+3508) Kasparov's (added +'s - name - Kevin Atkinson wordlist 50)
+3509) KKK (+'s - Ku Klux Klan - Kevin Atkinson wordlist 50)
+3510) Islamism (+'s - Kevin Atkinson wordlist 50)
+3511) Islamist (Kevin Atkinson wordlist 50)
+3512) Invar (+'s - Kevin Atkinson wordlist 50)
+3513) Ingrid (+'s - name - Kevin Atkinson wordlist 50)
+3514) highlandman
+3515) highlandmen (plural of previous word)
+3516) Aymara (+plural)
+3517) Ayrshires (added plural - animal breed)
+3518) Aboriginals + aboriginals (added the 's)
+3519) ethnomusicologist (+plural)
+3520) ethnomusicologic
+3521) ethnomusicological
+3522) ethnomusicology
+3523) intranet (fix: + added plural - changed to lower case)
+3524) Parkinson (+'s - name)
+3525) workaholism
+3526) timepass
+3527) watchmaking
+3528) saddlers (added plural)
+3529) saddlery (+plural)
+3530) decompilations (added plural)
+3531) cross-assembler (+plural)
+3532) antitype (+plural)
+3533) demerge (+ed +er)
+3534) Demerol
+3535) sloshy (+ier +iest)
+3536) captivatingly
+3537) captchas (added plural)
+3538) abandonware
+3539) freeware (fix: changed to lower case)
+3540) entrepreneurially (merged into entrepreneurial)
+3541) entrepreneurialism
+3542) gunsight (+plural)
+3543) gunslinger (+plural - Oxford: informal)
+3544) gunslinging (Oxford: informal)
+3545) gunstock (+plural)
+3546) cannoneer (+plural)
+3547) cannonry
+3548) anti-piracy
+3549) anti-racists (added plural)
+3550) blockheaded (merged into blockhead)
+3551) blockish
+3552) supervillain (+plural)
+3553) sysop (+plural - Oxford: informal - A system operator)
+3554) sysadmin (+plural - Oxford: informal - A system administrator)
+3555) CRC
+3556) choccy (+plural - Oxford: informal)
+3557) G7
+3558) G8
+3559) G2B
+3560) drippy (removed duplicate - PTG V3 build 64+)
+3561) OSes (added plural)
+3562) sexennial
+3563) sexcentenary (+plural)
+3564) sexagesimal (+plural +ly)
+3565) unpicks (merged into unpick - Kevin Atkinson wordlist 60)
+3566) viewership (+'s - Kevin Atkinson wordlist 60)
+3567) vitriolically (Kevin Atkinson wordlist 60)
+3568) walkies (merged into walkie - Kevin Atkinson wordlist 60)
+3569) wanker (+plural - Oxford: vulgar slang - Kevin Atkinson wordlist 60)
+3570) weepily + weepiness (merged into weepy)
+3571) weepie (Kevin Atkinson wordlist 60)
+3572) whatshername + whatsername (Kevin Atkinson wordlist 60)
+3573) whatshisname + whatsisname (Kevin Atkinson wordlist 60)
+3574) wheatmeal (Kevin Atkinson wordlist 60)
+3575) wheatish
+3576) wheatgrass
+3577) wheatgerm
+3578) borage
+3579) echinacea
+3580) ginkgos (another plural form of ginkgo)
+3581) cocobolo (+plural)
+3582) hardwoods (added plural)
+3583) tablemate
+3584) penne
+3585) tortelli
+3586) gnocchi
+3587) woodworms (added plural - Kevin Atkinson wordlist 60)
+3588) OpenSSL (cryptography)
+3589) https
+3590) subdomain (+s +'s)
+3591) ChatZilla (+'s)
+3592) Bugzilla (+'s)
+3593) XULRunner (+'s)
+3594) Instantbird
+3595) rheme (+plural)
+3596) gonna (Oxford: informal)
+3597) subcritical
+3598) subcostal
+3599) amygdaloid
+3600) ventromedial (+ly)
+3601) trigeminal
+3602) endothelium
+3603) undersurface
+3604) mesoderm (+al)
+3605) mesogastrium
+3606) mesogastria (plural of previous word)
+3607) epigastrium
+3608) epigastria (plural of previous word)
+3609) hypogastrium
+3610) hypogastria (plural of previous word)
+3611) epifluorescence
+3612) epifauna (+al)
+3613) botanicals (added plural)
+3614) funguses (Oxford: another plural of fungus)
+3615) pelecypod (+plural)
+3616) lamellibranch
+3617) lamellibranchs (plural of previous word)
+3618) wholefood (+plural - Kevin Atkinson wordlist 60)
+3619) weekenders (added plural - Kevin Atkinson wordlist 60)
+3620) wog (+plural - Oxford: offensive - Kevin Atkinson wordlist 60)
+3621) woggle (+plural)
+3622) neckwear
+3623) necrobiosis
+3624) necrobiotic
+3625) Gregorio (+'s - name - Kevin Atkinson wordlist 50)
+3626) Guantánamo (+'s - added accent - name - Kevin Atkinson wordlist 50)
+3627) Hammarskjöld (+'s - added accent - name - Kevin Atkinson wordlist 50)
+3628) Hayworth (+'s - name - Kevin Atkinson wordlist 50)
+3629) Margolin (+'s - name)
+3630) l10n
+3631) i18n
+3632) glocalization (-ize)
+3633) glocalisation (-ise)
+3634) localizable (-ize)
+3635) localisable (-ise)
+3636) logogram (+plural)
+3637) foreseeably (merged into foreseeable)
+3638) destructors (added plural)
+3639) prepend + prepends + prepending + prepended
+3640) tuple (+plural)
+3641) ISO's + ISOs (added +'s +s)
+3642) metrology (+ist)
+3643) metrological
+3644) somatosensory
+3645) paraphilia (+plural)
+3646) paraphiliac (+plural)
+3647) asexuals (added plural)
+3648) subgenre (+plural)
+3649) standout (+plural)
+3650) psychosexual (+ally)
+3651) psychophysiologist (+plural - merged into psychophysiology)
+3652) neuropsychology (+ist +ists)
+3653) neuropsychological
+3654) electrodermal
+3655) CIA's (added the 's)
+3656) cryptomeria (+plural)
+3657) cryptonym (+plural)
+3658) cryptorchid (+plural)
+3659) cryptorchidism
+3660) spermatic
+3661) suprarenal
+3662) midlife (fixed mid-life)
+3663) Harleys (motorcycle)
+3664) Harley-Davidson (+'s)
+3665) flathead (+plural)
+3666) teardrop (+plural +'s - fixed: tear-drop)
+3667) knucklehead (+s +ed - Oxford: informal)
+3668) motorhome (+plural)
+3669) pushrod (+plural)
+3670) Cadillac's (added the 's)
+3671) drivetrain (+plural)
+3672) sportster (+plural)
+3673) crankpin (+plural)
+3674) Porsche (name)
+3675) unsourced
+3676) woody (removed duplicate - PTG V3 build 64+)
+3677) wonderful (removed duplicate - PTG V3 build 64+)
+3678) Branson (+'s - name)
+3679) Bramah (+'s - name)
+3680) Keble (+'s - name)
+3681) scholasticism
+3682) scholarliness
+3683) Confucians (added plural)
+3684) quietism
+3685) shamanic
+3686) shamanist (+plural)
+3687) shamanize (+ed - ize)
+3688) shamanise (+ed - ise)
+3689) archpriest (+plural)
+3690) archosaur (+plural)
+3691) basilosaurus
+3692) deinstall (+s +ing +ed +er +ion +ions)
+3693) deinstal (+s - another way of previous word)
+3694) hot-swap (+ed +ing +able)
+3695) blokeish (+ness)
+3696) cochoa (+plural)
+3697) barbet (+plural)
+3698) tinkerbird (+plural)
+3699) greenbul (+plural)
+3700) hornbill (+plural)
+3701) hornbook (+plural)
+3702) deliration
+3703) Delian (+plural)
+3704) Delos (island)
+3705) paralogy
+3706) paralogous
+3707) paralogism (+plural)
+3708) speciate (+ed +ing +ion)
+3709) centromere (+plural)
+3710) centromeric
+3711) centuple (+ed +ing)
+3712) centrum (+plural)
+3713) centra (another plural way of previous word)
+3714) discoverability
+3715) Chevy's (added the 's)
+3716) thermite
+3717) cutlassfish (+plural)
+3718) Porsche (added 's + plural)
+3719) cetology (+ist +ists)
+3720) orca (+plural)
+3721) Payne (+'s - name)
+3722) Patagonia (name of place)
+3723) Patagonian (+plural)
+3724) non-humans (added plural)
+3725) axonal (merged into axon)
+3726) capsid (+plural)
+3727) dendritic (+ally)
+3728) Palaeolithic (fix: now starts with upper case)
+3729) mutualism (+plural)
+3730) mutualist (+plural +ic +ically)
+3731) perioperative
+3732) bruxism
+3733) assistive
+3734) wikis (added plural)
+3735) odt
+3736) docx
+3737) pdf (added also in lower case)
+3738) OpenDocument
+3739) mouseover (+plural)
+3740) goaty (merged into goat)
+3741) goatish
+3742) ballotine (+plural)
+3743) galantine (+plural)
+3744) terrines (added plural)
+3745) saltimbocca
+3746) zipx
+3747) brill
+3748) gratin
+3749) ovenproof
+3750) monkfish (+plural)
+3751) anglerfish (+plural)
+3752) Bokmål (language)
+3753) mash-up
+3754) ID + ID's + ID'ing + ID'd (Oxford: don't confuse with "id" in lower case)
+3755) downloader (+plural)
+3756) downmost
+3757) supercell (+plural)
+3758) turbocharge + turbocharging + turbocharged (merged into one entry)
+3759) turboboost
+3760) crashworthy (+ness)
+3761) afterdeck
+3762) foresheet (+plural)
+3763) Paki (+plural - Oxford: offensive, used in GB)
+3764) Lillee (+'s - name)
+3765) Bradman (+'s - name)
+3766) Dryopithecus
+3767) cryptobiotic
+3768) cryptobiosis
+3769) saccharide (+plural)
+3770) defat (+s +ed +ing)
+3771) defeasance (+plural)
+3772) defeasible
+3773) defeatedly (merged into defeated)
+3774) defeminize (+ed +ing - IZE)
+3775) defeminise (+ed +ing - ISE)
+3776) Apelles (+'s - name)
+3777) mesmerize (+s +r +ing +ed - IZE)
+3778) mesmerically (merged into mesmeric)
+3779) unpersuadable
+3780) unperson (+plural)
+3781) unperfumed
+3782) unpersuaded
+3783) unphysical
+3784) unphilosophic (+ally)
+3785) unphilosophical
+3786) unphysiological
+3787) unphysiologic (+ally)
+3788) unpicturesque
+3789) unpigmented
+3790) exfoliate (+s +ed +ing)
+3791) exfoliant (+plural)
+3792) Ardennes (name of place)
+3793) unamplified
+3794) unamiable
+3795) unamended
+3796) zing + zed (removed duplicate - PTG V3 build 64+)
+3797) z's + zs (Z - can be either in upper or lower case)
+3798) unambivalent (+ly)
+3799) ready (removed duplicate - PTG V3 build 64+)
+3800) unambitiousness
+3801) unambiguity
+3802) weaponed (merged into weapon)
+3803) weaponless (merged into weapon -  Kevin Atkinson wordlist 50)
+3804) whitefish + whitefishes + whitefish's (Kevin Atkinson wordlist 50)
+3805) wheresoever (Kevin Atkinson wordlist 50)
+3806) weeper (+s +'s - Kevin Atkinson wordlist 50)
+3807) weenier + weeniest (merged into weeny)
+3808) unskilful (+ly +ness)
+3809) unready
+3810) unreadably
+3811) unreachableness
+3812) unreachably
+3813) unratified
+3814) preseason (+plural)
+3815) preselector
+3816) preselections (added plural)
+3817) unquotable (merged into unquote)
+3818) unquiet (+ly +ness)
+3819) unsuspected (+ly - Kevin Atkinson wordlist 50)
+3820) jackrabbit jackrabbit's jackrabbits (Kevin Atkinson wordlist 50)
+3821) amazon (added also lower case because of some animal names)
+3822) Amazonas (name of state in Brazil)
+3823) Trekkie (+'s +plural - Oxford: informal - another way of Trekker)
+3824) trelliswork (fixed: trellis-work)
+3825) Tharp (+'s - name - Kevin Atkinson wordlist 50)
+3826) Sumerians (added plural)
+3827) sudoku
+3828) sudoriferous
+3829) ecoterrorism
+3830) ecoterrorist (+plural)
+3831) ecosphere
+3832) bioregionalism
+3833) bioregionalist (+plural)
+3834) biodynamic (+plural)
+3835) bioenergetic (added plural)
+3836) bioethanol
+3837) biotransformation
+3838) biotype (+plural)
+3839) biowarfare
+3840) bioweapon (+plural)
+3841) firepower (fixed: fire-power)
+3842) fireship (+plural)
+3843) Cmdre (Oxford: abbreviation of Commodore)
+3844) Cmdr (Oxford: abbreviation of Commander)
+3845) Bdr (Oxford: abbreviation of Bombardier)
+3846) aircraftman
+3847) aircraftmen (plural of previous word)
+3848) aircraftwoman
+3849) aircraftwomen (plural of previous word)
+3850) airdrop (+s +ing +ed)
+3851) combfish (+plural)
+3852) nannygai (+plural)
+3853) redfish (+plural)
+3854) rockfish (+plural)
+3855) scorpionfish (+plural)
+3856) calvary (added lower case too - Oxford: when used as noun)
+3857) parasail (+ing)
+3858) ballgirl (+plural)
+3859) backcourt (+plural)
+3860) foredawn
+3861) multilateralism
+3862) multilateralist (added singular)
+3863) unheroic (+ally)
+3864) unheretical
+3865) unheedingly
+3866) unheedful
+3867) unhedged
+3868) unhearing
+3869) unhealthiness
+3870) untaken
+3871) untalkative
+3872) talkboard (+plural)
+3873) talkback
+3874) talkathon (+plural - Oxford: informal)
+3875) over-talkative (+ness)
+3876) overabundant (fix: over-abundant)
+3877) overabundance (fix: over-abundance)
+3878) overabundantly
+3879) overachievement (merged into overachieve)
+3880) DirectX
+3881) XP (therefore removed "Windows XP")
+3882) AVCHD
+3883) BD-R (+plural)
+3884) BD-RE (+plural)
+3885) M-DISC (+'s)
+3886) LightScribe
+3887) CD-R (+plural)
+3888) pre-plan (+ed)
+3889) BD-ROM (+plural)
+3890) BD-XL
+3891) BDXL
+3892) H.265
+3893) DivX
+3894) divx (also in lower case)
