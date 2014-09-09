@@ -4495,8 +4495,147 @@ V2.16
 3892) H.265
 3893) DivX
 3894) divx (also in lower case)
+
+
+V2.17 (ongoing)
+--------------
+3-SEP-2014
+3895) toolbar's (added the 's)
+3896) advisors (added plural)
+3897) adviser (+plural +'s)
+3898) kookily (merged into kooky)
+3899) yawp (+ed +er +ers)
+3900) yay (Oxford: informal)
+3901) Darth (+'s - name from Star Wars)
+3902) glam (+s +ing +ed)
+3903) nothosaur (+plural)
+3904) semiaquatic
+3905) plesiosaur (+plural)
+3906) ichthyosaur (+plural)
+3907) ichthyosaurus (another way of previous word)
+3908) ichthyophagous
+3909) ichthyophagy
+3910) ichthyornis
+3911) nerve-racking
+3912) nerve-wracking (another way of previous word)
+3913) nervure (+plural)
+3914) fangirl (+plural - Oxford: informal)
+3915) fanboy (+plural - Oxford: informal)
+
+5-SEP-2014
+3916) Bielefeld (name of city in Germany)
+3917) georgette (added lower case)
+3918) buckskinned (merged into buckskin)
+3919) parfleche (+plural)
+3920) musquash (another way for muskrat)
+3921) byssus (+plural)
+3922) byssi (another plural of previous word)
+3923) byssinosis
+3924) epidemiologic
+3925) atopy (+ic)
+3926) sarcoidosis
+3927) colorectal
+3928) absorbance (+plural)
+3929) quinoa
+
+8-SEP-2014
+3930) SIM (+plural)
+3931) Nohl (+'s - name)
+3932) sandboxing + sandboxed (merged into sandbox)
+3933) Karsten (+'s - name)
+3934) GSM + gsm
+3935) telco (+plural)
+3936) echocardiogram (+plural)
+3937) angiogram (+plural)
+3938) mesentery (+plural +ic)
+3939) innominate
+3940) exteriorize (+ed +ion - IZE)
+3941) exteriorise (+ed +ion - ISE)
+3942) Peigan (+plural)
+3943) Piegan (+plural - another way of previous word)
+3944) Blackfeet (plural of Blackfoot)
+3945) whitehead (+plural)
+3946) whitefront (+plural)
+3947) waterfowling
+3948) waterfowler (+plural)
+3949) watergate (also lower case for gate)
+3950) waterhen (+plural)
+3951) tardigrade (+plural)
+3952) onychophoran (+plural)
+3953) Taiping (Kevin Atkinson wordlist 50)
+3954) Swammerdam (+'s - name - Kevin Atkinson wordlist 50)
+3955) sunbed (added singular)
+3956) sunbelt (fix: changed to lower case)
+3957) sunbow (+plural)
+3958) vitalism
+3959) casuistical (+ally)
+3960) homebuyer (+plural)
+3961) homebuilder (+plural)
+3962) homebuilding
+3963) homeobox
+3964) homoeobox (another way of previous word)
+3965) homeopath (+plural - another way of homoeopath)
+3966) prescribers (added plural)
+3967) prescribable
+3968) integrationist (+plural)
+3969) allopathy
+3970) allopathic
+3971) allopathist (+plural)
+3972) reiki
+3973) reimportation
+3974) reimposition
+3975) idol-worshipping
+3976) idocrase
+
+9-SEP-2014
+3977) Jiangxi (name of place)
+3978) Kiangsi (another way of previous word)
+3979) Qing
+3980) Ch'ing (another way of previous word)
+3981) mafic
+3982) retiré (Ballet)
+3983) retiree (+plural)
+3984) retirer (+plural)
+3985) overtype (+ing)
+3986) overweeningly (merged into overweening)
+3987) rufous
+3988) bettong (+plural)
+3989) potoroo (+plural)
+3990) bandicoot (+plural)
+3991) roadkill (+plural)
+3992) bilby (+plural)
+3993) numbat (+plural)
+3994) woylie (+plural)
+3995) aardwolf
+3996) aardwolves (plural of previous word)
+3997) Århus (name of place - another word for Aarhus)
+3998) Barranquilla (name of place)
+3999) barramundi (+plural)
+4000) fireguards (added plural)
+4001) firebreak (+plural)
+4002) firebrick (+plural)
+4003) firebrat (+plural)
+4004) firebomb (+ derivates - fixed: fire-bomb)
+4005) fireblight
+4006) fireballer
+4007) fireballing
+4008) blockwork
+4009) blockship (+plural)
+4010) blockboard
+4011) Shandong (another way of Shantung)
+4012) shandies (plural of shandy)
+4013) aguardiente
+4014) agroterrorism
+4015) agroterrorist
+4016) agrostology
+4017) Hitchcock's (name - added the 's)
+4018) botanize (+ing - IZE)
+4019) botanise (+ing - ISE)
+4020) wireline
+4021) wireframes (added plural)
+4022) chatbot (+plural)
 ===============
 
-British English Dictionary (Forked) 2.16
+British English Dictionary (Forked) 2.17
 by Marco A.G.Pinto
 
