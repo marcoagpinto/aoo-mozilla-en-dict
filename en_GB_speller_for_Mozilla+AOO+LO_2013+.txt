@@ -4634,6 +4634,165 @@ V2.17 (ongoing)
 4020) wireline
 4021) wireframes (added plural)
 4022) chatbot (+plural)
+4023) immersive
+4024) barcode (+s +ed)
+4025) MP (+plural)
+4026) mp (lower case)
+4027) barchan (+plural)
+4028) barcarolle (another way of barcarole)
+4029) barbule (+plural)
+4030) Sumer (name of place)
+4031) Sumbawa (name of place)
+4032) Sudra (+plural - Kevin Atkinson wordlist 50)
+4033) sudorific (+plural)
+4034) depuration
+4035) depurate (+ed)
+4036) depurative (+plural)
+4037) depurator (+plural)
+4038) depthless (+ly)
+4039) stomachic (+plural)
+4040) febrifuge
+4041) ophthalmia
+4042) pyrexia
+4043) sigil (+plural)
+4044) sightworthy
+4045) Tangiers (another way of Tangier - Kevin Atkinson wordlist 50)
+4046) Tarantino (+'s - name - Kevin Atkinson wordlist 50)
+4047) Terry (+'s - name - Kevin Atkinson wordlist 50)
+4048) paraesthesia (+plural)
+4049) paraesthesiae (another plural of previous word)
+4050) paradrop (+s +ing +ed)
+4051) atomism
+4052) atomist (+plural)
+4053) moderns (added plural)
+4054) moderatorship (+plural)
+4055) RSS
+4056) drawdown (+plural)
+4057) drawcard (+plural)
+4058) drawbar (+plural)
+4059) drawcord (+plural)
+4060) zipless (Oxford: informal)
+4061) wearability
+4062) pre-order (+plural)
+4063) pre-prepare (+ed)
+
+10-SEP-2014
+4064) neurodegenerative
+4065) neurocomputer (+plural)
+4066) neuroeconomics
+4067) neurofibril (+plural)
+4068) neurofibrillary
+4069) supranuclear
+4070) supraorbital
+4071) foramen
+4072) foramina (plural of previous word)
+4073) argyrophilic
+4074) suprasegmental (+plural)
+4075) phrenic
+4076) supremacism
+4077) miniscule (another way of minuscule)
+4078) neo-fascist (+plural)
+4079) neo-Gothic
+4080) neo-Latin
+4081) neo-impressionism
+4082) neo-impressionist (+plural)
+4083) neo-Georgian
+4084) neo-Darwinian
+4085) neo-Darwinism
+4086) neo-Darwinist
+4087) neo-Confucianism
+4088) neo-Confucian
+4089) blissed (merged into bliss)
+4090) gazania (+plural)
+4091) bluegum
+4092) stringybark
+4093) stringpiece
+4094) mallee (+plural)
+4095) tad (Oxford: informal)
+4096) tacticity
+4097) configurational (merged into configuration)
+4098) associationism
+4099) associationist (+plural)
+4100) epidemiologic (merged into epidemiology)
+4101) colosseum (+plural - fixed: lower case - another word for coliseum)
+4102) clearwing
+4103) peacemonger (+ing +ed)
+4104) peacekeeper (added singular)
+4105) InterCity (trademark)
+4106) intercolonial
+4107) intercolumniation
+4108) intercolumnar
+4109) astragal (+plural)
+4110) astragalus
+4111) astragali (plural of previous word)
+4112) antherozoid (+plural)
+4113) gametophyte
+4114) gametophytic (merged into gametophyte)
+4115) microspore (+plural)
+4116) megaspore (+plural)
+4117) megastores (added plural)
+4118) megastars (added plural)
+4119) megastructure (+plural)
+4120) Wright's (added 's)
+4121) wretcheder (merged into wretched)
+4122) wretchedest
+4123) arteriovenous
+4124) parenchyma (+al)
+4125) parenchymatous
+4126) sawfish (+plural)
+4127) sawlike
+4128) crowberry (+plural)
+4129) cordgrass
+4130) benzoin
+4131) unorganized
+4132) benzoic (acid)
+4133) stereochemistry
+4134) stereochemical (+ally)
+4135) epoxide (+plural)
+4136) catechol
+4137) norepinephrine
+4138) fluorochrome (+plural)
+4139) fluoropolymer
+4140) tetrafluoroethylene
+
+11-SEP-2014
+4141) waitressing (merged into waitress)
+4142) busbar (+plural)
+4143) busby (+plural)
+4144) semibreve (+plural)
+4145) semibold
+4146) semidemisemiquaver
+4147) hemidemisemiquaver (+plural - another way of previous word)
+4148) hemicylindrical
+4149) hemicycle (+plural)
+4150) azulejo (+plural)
+4151) archivolt (+plural)
+4152) entablement
+4153) architectonically (merged into architectonic)
+4154) annulet (+plural)
+4155) policymaker (+plural - Fixed: policy-maker)
+4156) policymaking (fixed: policy-making)
+4157) policier
+4158) Melville's (added the 's)
+4159) counterscarp (+plural)
+4160) countershaft (+plural)
+4161) artiodactyl (+plural)
+4162) bioluminescence
+4163) bioluminescent
+4164) biomagnetism
+4165) biomaterial
+4166) biomathematics
+4167) biome (+plural)
+4168) transgene (+plural)
+4169) introgression
+4170) backcross (+s +ed +ing)
+4171) cultivar (+plural)
+4172) cultigen (+plural)
+4173) bifacial
+4174) biface (+plural)
+4175) uniface
+4176) tricycling (merged into tricycle)
+4177) tricyclist (+plural)
 ===============
 
 British English Dictionary (Forked) 2.17
