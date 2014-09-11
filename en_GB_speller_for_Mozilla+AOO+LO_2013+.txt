@@ -4793,6 +4793,15 @@ V2.17 (ongoing)
 4175) uniface
 4176) tricycling (merged into tricycle)
 4177) tricyclist (+plural)
+4178) petroglyphs (added plural)
+4179) ghostwrite (+derivates - fixed: ghost-write)
+4180) ghostwritten (fixed: ghost-written)
+4181) speechifies + speechifying + speechified + speechifier (merged into speechify)
+4182) speechification
+4183) speedwriting
+4184) speedwriter (+plural)
+4185) Magdalenian
+4186) Aurignacian
 ===============
 
 British English Dictionary (Forked) 2.17
