@@ -4802,6 +4802,182 @@ V2.17 (ongoing)
 4184) speedwriter (+plural)
 4185) Magdalenian
 4186) Aurignacian
+
+12-SEP-2014
+4187) defloration
+4188) deflocculate (+ed)
+4189) deflocculation
+4190) deflesh (+ed)
+4191) arsehole (+plural +ed - Oxford: vulgar slang)
+4192) arsenates (added plural)
+4193) selenates (added plural)
+4194) selenide (+plural)
+4195) machinability
+4196) weldability (merged into weld)
+4197) weldable (merged into weld)
+4198) weldmesh
+4199) corkwood (+plural)
+4200) Graeco-Roman
+4201) Greco-Roman (another way of previous word)
+4202) paperbark (+plural)
+4203) paperboy (fixed: paper-boy)
+4204) papergirl (fixed: paper-girl)
+4205) paperknife
+4206) paperknives (plural of previous word)
+4207) papermaking
+4208) papermaker
+4209) paperchase
+4210) paperboard
+
+15-SEP-2014
+4211) oldspeak
+4212) Oldowan
+4213) Epidaurus (ancient Greek city)
+4214) epicycloidal (merged into epicycloid)
+4215) epicycloids (added plural)
+4216) hypocycloid (+al)
+4217) commissure (+plural)
+4218) legalist (+plural)
+4219) legalistically (merged into legalistic)
+4220) Carcassonne
+4221) Carchemish (city)
+4222) chiliastic
+4223) chiliarch (+plural - chiliarchs)
+4224) bowsers (added plural)
+4225) bowshot
+4226) bowstrung (past and past participle of bowstring)
+4227) fletchers (added plural)
+4228) pickerelweed
+4229) pickelhaube
+4230) orebody (+plural)
+4231) noise-maker (removed - American word)
+4232) noisette (+plural)
+4233) noisomeness (merged into noisome)
+4234) Nok
+4235) Osbert (name - Osbert Guy Stanhope Crawford)
+4236) Stanhope (name - Osbert Guy Stanhope Crawford)
+4237) Belgic
+4238) encash (+ed +able +ment)
+4239) consortiums (another plural of consortium)
+4240) conspecific (+plural)
+4241) conspecificity
+4242) spatterware
+4243) spatterdash (+plural)
+4244) allseed
+4245) zugzwang
+4246) myxoedema
+4247) filariasis
+
+16-SEP-2014
+4248) geotag (+s +ing +ed)
+4249) geotaxis
+4250) geotactic
+4251) geotropism
+4252) geotropic
+4253) megapode (+plural)
+4254) ensiform
+4255) geosyncline (+plural)
+4256) bioclast (+s +ic)
+4257) biocide (+s  +idal)
+4258) antifouling
+4259) alprazolam
+4260) depredator (+plural)
+4261) depredatory
+4262) lo-fi
+4263) low-fi (another way of previous word)
+4264) bokeh
+4265) lo-res
+4266) low-res (another way of previous word)
+4267) dojo (+plural)
+4268) ippon (+plural)
+4269) bushido (now in lower case according to Oxford)
+4270) bushmeat
+4271) clifftop (+plural)
+4272) geoid
+4273) eukaryotic
+4274) biosocial
+4275) biometeorology
+4276) autostereoscopic
+
+17-SEP-2014
+4277) taskbar
+4278) gamification
+4279) gamify (+plural +ing +ed)
+4280) gamgee
+4281) gametogenesis
+4282) gametogenic
+4283) gametogeny
+4284) systematist (+plural)
+4285) autorotated (merged into autorotate)
+4286) cyphel
+4287) fire-brick (removed: it is firebrick)
+4288) coleopteran (+plural)
+4289) coleopterous
+4290) dermestid
+4291) dermatophytosis
+4292) dermatophytoses (plural of previous word)
+4293) dermatosis
+4294) dermatoses (plural of previous word)
+4295) hypermetropia
+4296) hypermnesia
+4297) hyperon (+plural)
+4298) parasitoid (+plural)
+4299) biopharming
+4300) biophilia
+4301) biopolymer (+plural)
+4302) geeked + geeking (merged into geek)
+4303) geekdom
+4304) geekish
+4305) geeky (+ier +iest +ness)
+4306) geekery (Oxford: informal)
+4307) geekspeak (Oxford: informal)
+4308) chappie (+plural - Oxford: informal)
+4309) eyeshadow (fix: eye-shadow)
+4310) eyeshot
+4311) eyestalk
+4312) eyestripe (+plural)
+4313) unpatterned
+
+20-SEP-2014
+4314) unpatrolled
+4315) unpatriotically
+4316) unpatched
+4317) unpassable
+4318) unpardonableness
+4319) unpacker (+plural)
+4320) unornamented
+4321) unoriginality
+4322) unoriginally
+4323) unordinary
+4324) unoiled
+4325) unoffending
+4326) unobscured
+4327) unobjective
+4328) unoaked
+4329) unnoticeably
+4330) unnamable (another way for unnameable)
+4331) unnail (+ed)
+4332) unmusicality
+4333) unmusicalness (merged into unmusical)
+4334) unmutilated
+4335) unmurmuring (+ly)
+4336) unmuffle (+ed)
+4337) unmothered
+4338) unmotherly
+4339) unmoral
+4340) unmorality
+4341) unpeople (+s +ing)
+4342) unpeg (+s +ing +ed)
+4343) unpatented
+4344) untouchability
+4345) untouristed
+4346) untowardness (merged into untoward)
+4347) untransferable
+4348) untranslatability
+4349) untraversable
+4350) untrendy (Oxford: informal)
+4351) untrusting
+4352) untuck (+ed)
 ===============
 
 British English Dictionary (Forked) 2.17
