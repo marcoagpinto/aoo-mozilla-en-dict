@@ -4138,3 +4138,588 @@ V2.16 - 1-SEP-2014
 3892) H.265
 3893) DivX
 3894) divx (also in lower case)
+
+
+V2.17 - 1-OCT-2014
+------------------
+3895) toolbar's (added the 's)
+3896) advisors (added plural)
+3897) adviser (+plural +'s)
+3898) kookily (merged into kooky)
+3899) yawp (+ed +er +ers)
+3900) yay (Oxford: informal)
+3901) Darth (+'s - name from Star Wars)
+3902) glam (+s +ing +ed)
+3903) nothosaur (+plural)
+3904) semiaquatic
+3905) plesiosaur (+plural)
+3906) ichthyosaur (+plural)
+3907) ichthyosaurus (another way of previous word)
+3908) ichthyophagous
+3909) ichthyophagy
+3910) ichthyornis
+3911) nerve-racking
+3912) nerve-wracking (another way of previous word)
+3913) nervure (+plural)
+3914) fangirl (+plural - Oxford: informal)
+3915) fanboy (+plural - Oxford: informal)
+3916) Bielefeld (name of city in Germany)
+3917) georgette (added lower case)
+3918) buckskinned (merged into buckskin)
+3919) parfleche (+plural)
+3920) musquash (another way for muskrat)
+3921) byssus (+plural)
+3922) byssi (another plural of previous word)
+3923) byssinosis
+3924) epidemiologic
+3925) atopy (+ic)
+3926) sarcoidosis
+3927) colorectal
+3928) absorbance (+plural)
+3929) quinoa
+3930) SIM (+plural)
+3931) Nohl (+'s - name)
+3932) sandboxing + sandboxed (merged into sandbox)
+3933) Karsten (+'s - name)
+3934) GSM + gsm
+3935) telco (+plural)
+3936) echocardiogram (+plural)
+3937) angiogram (+plural)
+3938) mesentery (+plural +ic)
+3939) innominate
+3940) exteriorize (+ed +ion - IZE)
+3941) exteriorise (+ed +ion - ISE)
+3942) Peigan (+plural)
+3943) Piegan (+plural - another way of previous word)
+3944) Blackfeet (plural of Blackfoot)
+3945) whitehead (+plural)
+3946) whitefront (+plural)
+3947) waterfowling
+3948) waterfowler (+plural)
+3949) watergate (also lower case for gate)
+3950) waterhen (+plural)
+3951) tardigrade (+plural)
+3952) onychophoran (+plural)
+3953) Taiping (Kevin Atkinson wordlist 50)
+3954) Swammerdam (+'s - name - Kevin Atkinson wordlist 50)
+3955) sunbed (added singular)
+3956) sunbelt (fix: changed to lower case)
+3957) sunbow (+plural)
+3958) vitalism
+3959) casuistical (+ally)
+3960) homebuyer (+plural)
+3961) homebuilder (+plural)
+3962) homebuilding
+3963) homeobox
+3964) homoeobox (another way of previous word)
+3965) homeopath (+plural - another way of homoeopath)
+3966) prescribers (added plural)
+3967) prescribable
+3968) integrationist (+plural)
+3969) allopathy
+3970) allopathic
+3971) allopathist (+plural)
+3972) reiki
+3973) reimportation
+3974) reimposition
+3975) idol-worshipping
+3976) idocrase
+3977) Jiangxi (name of place)
+3978) Kiangsi (another way of previous word)
+3979) Qing
+3980) Ch'ing (another way of previous word)
+3981) mafic
+3982) retiré (Ballet)
+3983) retiree (+plural)
+3984) retirer (+plural)
+3985) overtype (+ing)
+3986) overweeningly (merged into overweening)
+3987) rufous
+3988) bettong (+plural)
+3989) potoroo (+plural)
+3990) bandicoot (+plural)
+3991) roadkill (+plural)
+3992) bilby (+plural)
+3993) numbat (+plural)
+3994) woylie (+plural)
+3995) aardwolf
+3996) aardwolves (plural of previous word)
+3997) Århus (name of place - another word for Aarhus)
+3998) Barranquilla (name of place)
+3999) barramundi (+plural)
+4000) fireguards (added plural)
+4001) firebreak (+plural)
+4002) firebrick (+plural)
+4003) firebrat (+plural)
+4004) firebomb (+ derivates - fixed: fire-bomb)
+4005) fireblight
+4006) fireballer
+4007) fireballing
+4008) blockwork
+4009) blockship (+plural)
+4010) blockboard
+4011) Shandong (another way of Shantung)
+4012) shandies (plural of shandy)
+4013) aguardiente
+4014) agroterrorism
+4015) agroterrorist
+4016) agrostology
+4017) Hitchcock's (name - added the 's)
+4018) botanize (+ing - IZE)
+4019) botanise (+ing - ISE)
+4020) wireline
+4021) wireframes (added plural)
+4022) chatbot (+plural)
+4023) immersive
+4024) barcode (+s +ed)
+4025) MP (+plural)
+4026) mp (lower case)
+4027) barchan (+plural)
+4028) barcarolle (another way of barcarole)
+4029) barbule (+plural)
+4030) Sumer (name of place)
+4031) Sumbawa (name of place)
+4032) Sudra (+plural - Kevin Atkinson wordlist 50)
+4033) sudorific (+plural)
+4034) depuration
+4035) depurate (+ed)
+4036) depurative (+plural)
+4037) depurator (+plural)
+4038) depthless (+ly)
+4039) stomachic (+plural)
+4040) febrifuge
+4041) ophthalmia
+4042) pyrexia
+4043) sigil (+plural)
+4044) sightworthy
+4045) Tangiers (another way of Tangier - Kevin Atkinson wordlist 50)
+4046) Tarantino (+'s - name - Kevin Atkinson wordlist 50)
+4047) Terry (+'s - name - Kevin Atkinson wordlist 50)
+4048) paraesthesia (+plural)
+4049) paraesthesiae (another plural of previous word)
+4050) paradrop (+s +ing +ed)
+4051) atomism
+4052) atomist (+plural)
+4053) moderns (added plural)
+4054) moderatorship (+plural)
+4055) RSS
+4056) drawdown (+plural)
+4057) drawcard (+plural)
+4058) drawbar (+plural)
+4059) drawcord (+plural)
+4060) zipless (Oxford: informal)
+4061) wearability
+4062) pre-order (+plural)
+4063) pre-prepare (+ed)
+4064) neurodegenerative
+4065) neurocomputer (+plural)
+4066) neuroeconomics
+4067) neurofibril (+plural)
+4068) neurofibrillary
+4069) supranuclear
+4070) supraorbital
+4071) foramen
+4072) foramina (plural of previous word)
+4073) argyrophilic
+4074) suprasegmental (+plural)
+4075) phrenic
+4076) supremacism
+4077) miniscule (another way of minuscule)
+4078) neo-fascist (+plural)
+4079) neo-Gothic
+4080) neo-Latin
+4081) neo-impressionism
+4082) neo-impressionist (+plural)
+4083) neo-Georgian
+4084) neo-Darwinian
+4085) neo-Darwinism
+4086) neo-Darwinist
+4087) neo-Confucianism
+4088) neo-Confucian
+4089) blissed (merged into bliss)
+4090) gazania (+plural)
+4091) bluegum
+4092) stringybark
+4093) stringpiece
+4094) mallee (+plural)
+4095) tad (Oxford: informal)
+4096) tacticity
+4097) configurational (merged into configuration)
+4098) associationism
+4099) associationist (+plural)
+4100) epidemiologic (merged into epidemiology)
+4101) colosseum (+plural - fixed: lower case - another word for coliseum)
+4102) clearwing
+4103) peacemonger (+ing +ed)
+4104) peacekeeper (added singular)
+4105) InterCity (trademark)
+4106) intercolonial
+4107) intercolumniation
+4108) intercolumnar
+4109) astragal (+plural)
+4110) astragalus
+4111) astragali (plural of previous word)
+4112) antherozoid (+plural)
+4113) gametophyte
+4114) gametophytic (merged into gametophyte)
+4115) microspore (+plural)
+4116) megaspore (+plural)
+4117) megastores (added plural)
+4118) megastars (added plural)
+4119) megastructure (+plural)
+4120) Wright's (added 's)
+4121) wretcheder (merged into wretched)
+4122) wretchedest
+4123) arteriovenous
+4124) parenchyma (+al)
+4125) parenchymatous
+4126) sawfish (+plural)
+4127) sawlike
+4128) crowberry (+plural)
+4129) cordgrass
+4130) benzoin
+4131) unorganized
+4132) benzoic (acid)
+4133) stereochemistry
+4134) stereochemical (+ally)
+4135) epoxide (+plural)
+4136) catechol
+4137) norepinephrine
+4138) fluorochrome (+plural)
+4139) fluoropolymer
+4140) tetrafluoroethylene
+4141) waitressing (merged into waitress)
+4142) busbar (+plural)
+4143) busby (+plural)
+4144) semibreve (+plural)
+4145) semibold
+4146) semidemisemiquaver
+4147) hemidemisemiquaver (+plural - another way of previous word)
+4148) hemicylindrical
+4149) hemicycle (+plural)
+4150) azulejo (+plural)
+4151) archivolt (+plural)
+4152) entablement
+4153) architectonically (merged into architectonic)
+4154) annulet (+plural)
+4155) policymaker (+plural - Fixed: policy-maker)
+4156) policymaking (fixed: policy-making)
+4157) policier
+4158) Melville's (added the 's)
+4159) counterscarp (+plural)
+4160) countershaft (+plural)
+4161) artiodactyl (+plural)
+4162) bioluminescence
+4163) bioluminescent
+4164) biomagnetism
+4165) biomaterial
+4166) biomathematics
+4167) biome (+plural)
+4168) transgene (+plural)
+4169) introgression
+4170) backcross (+s +ed +ing)
+4171) cultivar (+plural)
+4172) cultigen (+plural)
+4173) bifacial
+4174) biface (+plural)
+4175) uniface
+4176) tricycling (merged into tricycle)
+4177) tricyclist (+plural)
+4178) petroglyphs (added plural)
+4179) ghostwrite (+derivates - fixed: ghost-write)
+4180) ghostwritten (fixed: ghost-written)
+4181) speechifies + speechifying + speechified + speechifier (merged into speechify)
+4182) speechification
+4183) speedwriting
+4184) speedwriter (+plural)
+4185) Magdalenian
+4186) Aurignacian
+4187) defloration
+4188) deflocculate (+ed)
+4189) deflocculation
+4190) deflesh (+ed)
+4191) arsehole (+plural +ed - Oxford: vulgar slang)
+4192) arsenates (added plural)
+4193) selenates (added plural)
+4194) selenide (+plural)
+4195) machinability
+4196) weldability (merged into weld)
+4197) weldable (merged into weld)
+4198) weldmesh
+4199) corkwood (+plural)
+4200) Graeco-Roman
+4201) Greco-Roman (another way of previous word)
+4202) paperbark (+plural)
+4203) paperboy (fixed: paper-boy)
+4204) papergirl (fixed: paper-girl)
+4205) paperknife
+4206) paperknives (plural of previous word)
+4207) papermaking
+4208) papermaker
+4209) paperchase
+4210) paperboard
+4211) oldspeak
+4212) Oldowan
+4213) Epidaurus (ancient Greek city)
+4214) epicycloidal (merged into epicycloid)
+4215) epicycloids (added plural)
+4216) hypocycloid (+al)
+4217) commissure (+plural)
+4218) legalist (+plural)
+4219) legalistically (merged into legalistic)
+4220) Carcassonne
+4221) Carchemish (city)
+4222) chiliastic
+4223) chiliarch (+plural - chiliarchs)
+4224) bowsers (added plural)
+4225) bowshot
+4226) bowstrung (past and past participle of bowstring)
+4227) fletchers (added plural)
+4228) pickerelweed
+4229) pickelhaube
+4230) orebody (+plural)
+4231) noise-maker (removed - American word)
+4232) noisette (+plural)
+4233) noisomeness (merged into noisome)
+4234) Nok
+4235) Osbert (name - Osbert Guy Stanhope Crawford)
+4236) Stanhope (name - Osbert Guy Stanhope Crawford)
+4237) Belgic
+4238) encash (+ed +able +ment)
+4239) consortiums (another plural of consortium)
+4240) conspecific (+plural)
+4241) conspecificity
+4242) spatterware
+4243) spatterdash (+plural)
+4244) allseed
+4245) zugzwang
+4246) myxoedema
+4247) filariasis
+4248) geotag (+s +ing +ed)
+4249) geotaxis
+4250) geotactic
+4251) geotropism
+4252) geotropic
+4253) megapode (+plural)
+4254) ensiform
+4255) geosyncline (+plural)
+4256) bioclast (+s +ic)
+4257) biocide (+s  +idal)
+4258) antifouling
+4259) alprazolam
+4260) depredator (+plural)
+4261) depredatory
+4262) lo-fi
+4263) low-fi (another way of previous word)
+4264) bokeh
+4265) lo-res
+4266) low-res (another way of previous word)
+4267) dojo (+plural)
+4268) ippon (+plural)
+4269) bushido (now in lower case according to Oxford)
+4270) bushmeat
+4271) clifftop (+plural)
+4272) geoid
+4273) eukaryotic
+4274) biosocial
+4275) biometeorology
+4276) autostereoscopic
+4277) taskbar
+4278) gamification
+4279) gamify (+plural +ing +ed)
+4280) gamgee
+4281) gametogenesis
+4282) gametogenic
+4283) gametogeny
+4284) systematist (+plural)
+4285) autorotated (merged into autorotate)
+4286) cyphel
+4287) fire-brick (removed: it is firebrick)
+4288) coleopteran (+plural)
+4289) coleopterous
+4290) dermestid
+4291) dermatophytosis
+4292) dermatophytoses (plural of previous word)
+4293) dermatosis
+4294) dermatoses (plural of previous word)
+4295) hypermetropia
+4296) hypermnesia
+4297) hyperon (+plural)
+4298) parasitoid (+plural)
+4299) biopharming
+4300) biophilia
+4301) biopolymer (+plural)
+4302) geeked + geeking (merged into geek)
+4303) geekdom
+4304) geekish
+4305) geeky (+ier +iest +ness)
+4306) geekery (Oxford: informal)
+4307) geekspeak (Oxford: informal)
+4308) chappie (+plural - Oxford: informal)
+4309) eyeshadow (fix: eye-shadow)
+4310) eyeshot
+4311) eyestalk
+4312) eyestripe (+plural)
+4313) unpatterned
+4314) unpatrolled
+4315) unpatriotically
+4316) unpatched
+4317) unpassable
+4318) unpardonableness
+4319) unpacker (+plural)
+4320) unornamented
+4321) unoriginality
+4322) unoriginally
+4323) unordinary
+4324) unoiled
+4325) unoffending
+4326) unobscured
+4327) unobjective
+4328) unoaked
+4329) unnoticeably
+4330) unnamable (another way for unnameable)
+4331) unnail (+ed)
+4332) unmusicality
+4333) unmusicalness (merged into unmusical)
+4334) unmutilated
+4335) unmurmuring (+ly)
+4336) unmuffle (+ed)
+4337) unmothered
+4338) unmotherly
+4339) unmoral
+4340) unmorality
+4341) unpeople (+s +ing)
+4342) unpeg (+s +ing +ed)
+4343) unpatented
+4344) untouchability
+4345) untouristed
+4346) untowardness (merged into untoward)
+4347) untransferable
+4348) untranslatability
+4349) untraversable
+4350) untrendy (Oxford: informal)
+4351) untrusting
+4352) untuck (+ed)
+4353) unknowingness (merged into unknowing)
+4354) sideward (added singular)
+4355) sidewall
+4356) sideswipe (fixed: side-swipe)
+4357) sidestroke (fixed: side-stroke)
+4358) starchitect
+4359) columnated
+4360) starchitecture
+4361) decretal (+plural)
+4362) Decretum
+4363) decubitus
+4364) codebreaking
+4365) codebreakers (added plural)
+4366) codependence
+4367) beatbox (+plural +er +ing)
+4368) bandoneon
+4369) bandpasses (added plural)
+4370) photodiode (+plural)
+4371) photodegrade
+4372) photodegradation
+4373) photodetector (+plural)
+4374) photodissociation
+4375) photoelectron (added singular)
+4376) photoemission
+4377) photoemissive
+4378) photoemitter
+4379) photoessay (+plural)
+4380) photofit (+plural)
+4381) photogram (+plural)
+4382) landmines (added plural)
+4383) shoreside
+4384) shoreweed
+4385) shorelark (+plural)
+4386) bellbird (+plural)
+4387) honeyeater (+plural)
+4388) honeyguide (+plural)
+4389) honeypot (+plural)
+4390) honeysucker (+plural)
+4391) honeywort
+4392) snowberry (+plural)
+4393) snowblade (+s +ing +er)
+4394) snowblink
+4395) granodiorite
+4396) plutonic + Plutonic
+4397) biostratigraphy
+4398) biosurgery
+4399) biosolids
+4400) biosimilar (+plural)
+4401) biospheric (merged into biosphere)
+4402) biofuels (added plural)
+4403) bioflavonoid (+plural)
+4404) biometrical
+4405) biometrician (+plural)
+4406) ectoparasitic (merged into ectoparasite)
+4407) microhabitat (+plural)
+4408) study's (added the 's)
+4409) anthropogenically (merged into anthropogenic)
+4410) timescale (fixed: time-scale)
+4411) spermatid (+plural +al)
+4412) spermatocyte (+plural)
+4413) spermatogonium
+4414) spermatogonia (plural of previous word)
+4415) seminiferous
+4416) semiochemical (+plural)
+4417) semiological
+4418) elenchus
+4419) elenchi (plural of previous word)
+4420) alienee (+plural)
+4421) aliform
+4422) encephalon
+4423) encephalography
+4424) encephalograph
+4425) encephalogram (+plural)
+4426) myoclonus
+4427) myoclonic
+4428) capitular
+4429) glomerulus
+4430) glomeruli (plural of previous word)
+4431) glomerular
+4432) nephron (+plural)
+4433) nephrotoxic
+4434) nephrotoxicity
+4435) nephrotoxin (+plural)
+4436) vancomycin
+4437) virality
+4438) somewhen (Oxford: informal)
+4439) somite (+plural)
+4440) dichromatism
+4441) dichromatic
+4442) cephalothorax
+4443) holotype (+plural)
+4444) syntype (+plural)
+4445) fishcakes (added plural)
+4446) amatriciana
+4447) amaurosis
+4448) amaurotic
+4449) foo (foo fighter)
+4450) geoscience (+plural)
+4451) geoscientist (+plural)
+4452) botty (+plural)
+4453) Swabia (place in Germany)
+4454) Swabian
+4455) clamant
+4456) dragonet (+plural)
+4457) bigeye (fish)
+4458) bluefin (fish)
+4459) yellowfin (fish)
+4460) catalufa (+plural)
+4461) catalyser
+4462) APU
+4463) dumbshow (+plural)
+4464) dumbphone (+plural)
+4465) dumbo (+plural - Oxford: informal)
+4466) vetchling (+plural)
+4467) buckthorn
+4468) buckyball (+plural)
+4469) nanomaterials (added plural)
+4470) nanogram
+4471) ng (Oxford: abbreviation of previous word)
+4472) oxidase (+plural)
+4473) pharaoh (+plural - changed to lower case - upper case only if name)
+4474) abubble
+4475) idiotype (+plural)
