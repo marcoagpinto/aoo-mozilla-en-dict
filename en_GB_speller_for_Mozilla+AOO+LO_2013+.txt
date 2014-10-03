@@ -5111,8 +5111,88 @@ V2.17
 4473) pharaoh (+plural - changed to lower case - upper case only if name)
 4474) abubble
 4475) idiotype (+plural)
+
+
+V2.18 (ongoing)
+--------------
+2-OCT-2014
+4476) mothercraft
+4477) mainboard (+plural)
+4478) maincrop
+4479) tricuspid
+4480) unicuspid
+4481) fivestones
+4482) fivesome
+4483) Flathead (+plural - upper case - Kevin Atkinson wordlist 60)
+4484) bioturbation
+4485) pilgriming + pilgrimed (merged into pilgrim)
+4486) pilgrimize (-IZE)
+4487) pilgrimise (-ISE)
+4488) rubescent
+4489) evacuant
+4490) Salvadorean (+plural +'s - Kevin Atkinson wordlist 60)
+4491) statant
+4492) Zarathustra's (added +'s - Kevin Atkinson wordlist 60)
+4493) adventurist (+plural - Kevin Atkinson wordlist 60)
+4494) acquiree (+plural)
+4495) acquirer (+plural - Kevin Atkinson wordlist 60)
+4496) answerphone (+plural - Kevin Atkinson wordlist 60)
+4497) bulleted (merged into bullet)
+4498) bedchambers (added plural - Kevin Atkinson wordlist 60)
+4499) biodegrade (+s +ed +ing +ion  - Kevin Atkinson wordlist 60)
+4500) blobfish (+plural)
+4501) binman (Oxford: informal - Kevin Atkinson wordlist 60)
+4502) binmen (plural of previous word - Kevin Atkinson wordlist 60)
+4503) blowlamps (added plural - Kevin Atkinson wordlist 60)
+4504) breathalyses (added plural - Kevin Atkinson wordlist 60)
+4505) cellmates (added plural - Kevin Atkinson wordlist 60)
+4506) chatlines (added plural - Kevin Atkinson wordlist 60)
+4507) chirpily + chirpiness (merged into chirpy - Kevin Atkinson wordlist 60)
+4508) computerate (Oxford: informal - Kevin Atkinson wordlist 60) 
+4509) comfortless (merged into comfort - Kevin Atkinson wordlist 60)
+4510) conchie (+plural - Oxford: informal - Kevin Atkinson wordlist 60)
+4511) cookhouse (+plural - Kevin Atkinson wordlist 60)
+4512) crabwise (Kevin Atkinson wordlist 60)
+4513) crepuscular (Kevin Atkinson wordlist 60)
+4514) cripes (Oxford: informal - Kevin Atkinson wordlist 60)
+4515) criollo (+plural)
+4516) cuboids (added plural - Kevin Atkinson wordlist 60)
+4517) cuboidal (merged into cuboid)
+4518) demonically (Kevin Atkinson wordlist 60)
+4519) deselection (+plural - Kevin Atkinson wordlist 60)
+
+3-OCT-2014
+4520) immunoblotting
+4521) electrophorese
+4522) electrophoretic + electrophoretically
+4523) electrometer (+ic)
+4524) electrometry
+4525) electromyogram (+plural)
+4526) multipolar
+4527) multipolarity
+4528) multipole
+4529) unipolarity
+4530) unipotent
+4531) unironed
+4532) uniserial
+4533) unisexual (+ly)
+4534) unisexuality
+4535) unironic (+ly)
+4536) UNISON
+4537) unissued
+4538) deep-discount
+4539) supercalifragilisticexpialidocious (Oxford: informal)
+4540) supercalifragilistic (another way of previous word)
+4541) superbugs (added plural)
+4542) autorickshaw (+plural)
+4543) e-billing
+4544) e-cash
+4545) e-edition
+4546) e-dating
+4547) e-fit
 ===============
 
-British English Dictionary (Forked) 2.17
+
+British English Dictionary (Forked) 2.18
 by Marco A.G.Pinto
 
