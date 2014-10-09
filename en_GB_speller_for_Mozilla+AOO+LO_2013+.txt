@@ -5190,6 +5190,67 @@ V2.18 (ongoing)
 4545) e-edition
 4546) e-dating
 4547) e-fit
+
+8-OCT-2014
+4548) overclock (+ed +ing +s)
+4549) overclocker (+plural +'s)
+4550) overcheck (+plural)
+4551) overcautiously + overcautiousness (merged into overcautious)
+4552) overcaution
+4553) overclass
+4554) overcompensatingly
+4555) overcompensatory
+4556) overcommits (added plural)
+4557) descale (+s +ing +ed - Kevin Atkinson wordlist 60)
+4558) descaler (+plural)
+4559) euryapsid (+plural)
+4560) darkie (+plural - Kevin Atkinson wordlist 60)
+4561) decathlete (+plural - Kevin Atkinson wordlist 60)
+4562) dickhead (+plural - Kevin Atkinson wordlist 60)
+4563) doodahs (added plural - Kevin Atkinson wordlist 60)
+4564) doolally (Oxford: informal - Kevin Atkinson wordlist 60)
+4565) doomster (+plural - Kevin Atkinson wordlist 60)
+4566) doomwatch (+er +ers)
+4567) draughtboard (+plural - Kevin Atkinson wordlist 60)
+4568) ecolodge (+plural)
+4569) ecofreak (+plural)
+4570) ecofeminism
+4571) ecofeminist (+plural)
+4572) educationist (+plural - Kevin Atkinson wordlist 60)
+4573) endgames (added plural - Kevin Atkinson wordlist 60)
+4574) consecrator
+4575) consecratory
+4576) emblematical
+4577) emblematically (Kevin Atkinson wordlist 60)
+4578) emblematist
+
+9-OCT-2014
+4579) dozier+doziest+dozily+doziness (merged into dozy - Kevin Atkinson wordlist 60)
+4580) ecu (+plural - Kevin Atkinson wordlist 60)
+4581) diaconate
+4582) premodify (+s +ing +ed +ion +er)
+4583) premonish (+ing)
+4584) Petersburg (name)
+4585) entryphone (+plural - Kevin Atkinson wordlist 60)
+4586) extrajudicial (Kevin Atkinson wordlist 60)
+4587) extrajudicially (merged into extrajudicial)
+4588) selfhood
+4589) continuants (added plural)
+4590) cacuminal
+4591) coarticulation (+plural)
+4592) silicify (+s +ing +ed +ion)
+4593) extraordinaire (Kevin Atkinson wordlist 60)
+4594) extranet (+plural)
+4595) extramusical
+4596) fab (+s +ing +ed)
+4597) fatsos (added plural - Kevin Atkinson wordlist 60)
+4598) fitment (added singular - Kevin Atkinson wordlist 60)
+4599) fluvial (Kevin Atkinson wordlist 60)
+4600) fuckhead (+plural - Kevin Atkinson wordlist 60)
+4601) fuckwit (Oxford: vulgar slang)
+4602) fucoxanthin
+4603) carotenoid (+plural)
+4604) lutein
 ===============
 
 
