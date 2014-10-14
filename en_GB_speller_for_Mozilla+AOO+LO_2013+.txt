@@ -5251,6 +5251,70 @@ V2.18 (ongoing)
 4602) fucoxanthin
 4603) carotenoid (+plural)
 4604) lutein
+
+10-OCT-2014
+4605) ZX (ZX Spectrum - computer from the 1980s)
+4606) exabyte (+plural)
+4607) EB (abbreviation of previous word)
+4608) yottabyte (+plural)
+4609) YB (abbreviation of previous word)
+4610) zettabytes (added plural)
+4611) ZB (abbreviation of previous word)
+4612) Amiga's (added the 's)
+4613) lower-level
+4614) higher-level
+4615) akasha (+ic)
+4616) inbreathe (+ed +ing)
+4617) fracking
+4618) commenters (added plural)
+4619) bynames (added plural)
+4620) bye-byes (added plural)
+4621) goodliness (merged into goodly)
+4622) mailshots (added plural)
+4623) backbend (+plural)
+4624) jawless (merged into jaw)
+4625) hagfish (+plural)
+4626) beardfish (+plural)
+4627) clade (+plural)
+4628) taxon
+4629) taxa (plural of previous word)
+4630) avoision
+
+13-OCT-2014
+4631) kyu (martial arts)
+4632) dan (martial arts)
+4633) budo (martial arts)
+4634) bokken (martial arts)
+4635) kyudo (martial arts)
+4636) kendo (martial arts)
+4637) lamers (added plural)
+4635) 2D
+4636) 3D
+4637) galactically (merged into galactic)
+4638) galactagogue (+plural)
+4639) prolactin
+4640) oxytocin
+4641) oxytocic
+4642) monoamine (+plural)
+4643) monamine (+plural - another way of previous word)
+4644) neuropeptide (+plural)
+4645) neuropathological
+4646) neuropathologist (+plural)
+4647) neuroma (+plural)
+4648) neuromata (another plural of previous word)
+4649) geriatrician (+plural)
+4650) defervescence
+4651) anastomose (added singular +ing +ed)
+4652) arthroplasty
+4653) vegetal
+4654) aepyornis
+4655) calcination (merged into calcine)
+4656) dimercaprol
+4657) dimerous
+4658) meerkat (+plural)
+4659) tamarin (+plural)
+4660) mara (+plural)
+4661) suricate (+plural)
 ===============
 
 
