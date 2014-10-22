@@ -5315,6 +5315,143 @@ V2.18 (ongoing)
 4659) tamarin (+plural)
 4660) mara (+plural)
 4661) suricate (+plural)
+
+15-OCT-2014
+4662) Bannockburn (place)
+4663) Mozillian (+'s +plural)
+4664) annock
+4665) bendy (+ier iest +ness)
+4666) funfairs (added plural - Kevin Atkinson wordlist 60)
+4667) goodie (another way of goody)
+4668) ganja (Kevin Atkinson wordlist 60)
+4669) charas
+4670) spliff (+plural)
+4671) afebrile
+4672) Eddington (+'s - name)
+4673) dyskinesia (+plural)
+4674) dyspraxia
+4675) dysregulation
+4676) bariatrics
+4677) bronchodilator (+plural)
+4678) bronchodilation
+4679) pharmacodynamic (+plural)
+4680) zonation (+plural)
+4681) nomenclator
+4682) nomenclatural
+4683) monotypic
+4684) monovalent
+
+17-OCT-2014
+4685) nonagon
+4686) gasman (Kevin Atkinson wordlist 60)
+4687) gasmen (plural of previous word - Kevin Atkinson wordlist 60)
+4688) gaslighting (merged into gaslight)
+4689) gaslit
+4690) gasometers (added plural - Kevin Atkinson wordlist 60)
+4691) bionomic (+plural)
+4692) anticathode (+plural)
+4693) anticholinergic (+plural)
+4694) misdial (+s +ing +ed)
+4695) misdescribe (+s +ed +ion)
+4696) misdoubt (+s +ed)
+4697) compand (+s +er +ing +ed)
+4698) datacomms
+4699) datacoms (another way of previous word)
+4700) dataveillance
+4701) case-sensitive
+4702) backstamp (+plural)
+4703) backstay (+plural)
+4704) donkeyman
+4705) donkeymen (plural of previous word)
+
+20-OCT-2014
+4706) bathymeter (+plural +ic)
+4707) bathymetry
+4708) scaleable (another way of scalable)
+4709) intercrop (+s +ing +ed)
+4710) intercorrelation (+plural)
+4711) intercorrelate
+4712) baseload
+4713) baselessly
+4714) baseborn
+4715) subcell (Collins)
+4716) subcellular (Collins)
+4717) supralunar (Collins)
+4718) supratemporal (Collins)
+4719) hepatocellular (Collins)
+4720) gluteals (added plural)
+4721) gastrocnemius
+4722) gastrocnemii (plural of previous word)
+4723) soleus
+4724) appendicular
+4725) scute (+plural)
+4726) allosaurus (+plural)
+4727) allopurinol
+4728) colchicine
+4729) disarticulate (+ion)
+4730) flexicuffs (Macmillan)
+4731) plasticuffs (Macmillan)
+
+21-OCT-2014
+4732) PCIe
+4733) RJ45
+4734) blackboy (+plural)
+4735) mistle (mistle thrush)
+4736) broadbill (+plural)
+4737) Arabism
+4738) Arabist (+plural)
+4739) arabinose
+4740) galactose
+4741) xylose
+4742) mannose
+4743) fibrinogen
+4744) extravascular
+4745) intravascular (+ly)
+4746) extravasate (+ed)
+4747) petechia
+4748) petechiae (plural of previous word)
+4749) petcock
+4750) petasus
+4751) undersheriff (fixed: under-sheriff)
+4752) underset (+s +ing)
+4753) unviable
+4754) unviability
+4755) unviolated
+4756) Eliot's (added the 's)
+4757) unvitiated
+4758) unwaged
+4759) unwaisted
+4760) hashtag (+plural)
+4761) cliched (merged into cliche)
+4762) gotcha (Oxford: informal)
+4763) gotcher (Oxford: informal - another way of previous word)
+4764) gossypol
+4765) cottonweed (+plural)
+4766) oligotrophy (+ic)
+4767) eutrophic
+4768) lapis
+4769) UTF-16
+4770) UTF-32
+4771) 1D
+4772) unvented
+4773) unvaryingness
+4774) meningococcus
+4775) meningococci (plural of previous word)
+4776) meningococcal
+4777) serogroup (Collins)
+4778) anti-war (fixed antiwar)
+4779) anti-Western
+4780) anti-tetanus
+4781) anorgasmia
+4782) activewear
+4783) Diana's (added the 's)
+4784) misestimate (+ed)
+4785) misestimation (+plural)
+4786) QuickTime
+4787) trackpad
+4788) ringtone (+plural)
+4789) Netflix (company)
+4790) podcasts (added plural)
 ===============
 
 
