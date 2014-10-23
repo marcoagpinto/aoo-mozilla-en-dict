@@ -5452,6 +5452,30 @@ V2.18 (ongoing)
 4788) ringtone (+plural)
 4789) Netflix (company)
 4790) podcasts (added plural)
+
+22-OCT-2014
+4791) waifish
+4792) waiflike
+4793) retroelement (+plural)
+4794) bivalents (added plural)
+4795) non-disjunction
+4796) spermatogenesis
+4797) spermatophore (+plural)
+4798) oviposit (+s +ing +ed)
+4799) oviparity
+4800) asphyxial
+4801) asphyxiant (+plural)
+4802) diverticular
+4803) diverticulum
+4804) diverticula (plural of previous word)
+4805) axilla
+4806) axillae (plural of previous word)
+4807) aviating + aviated (merged into aviate)
+4808) prosoma
+4809) tagma
+4810) tagmata (plural of previous word)
+4811) antivivisection
+4812) antivivisectionism
 ===============
 
 
