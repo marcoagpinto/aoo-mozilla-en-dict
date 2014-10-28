@@ -5575,6 +5575,9 @@ V2.18 (ongoing)
 4901) tailspinning (merged into tailspin)
 4902) tailspun (past of tailspin)
 4903) tailwater (+plural)
+4904) fishable (merged into fish)
+4905) hemimetabolous
+4906) hemimetabolic
 ===============
 
 
