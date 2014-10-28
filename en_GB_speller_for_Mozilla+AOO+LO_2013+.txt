@@ -5476,6 +5476,105 @@ V2.18 (ongoing)
 4810) tagmata (plural of previous word)
 4811) antivivisection
 4812) antivivisectionism
+
+23-OCT-2014
+4813) gangstas (added plural - Kevin Atkinson wordlist 60)
+4814) counterchange (+s +ed +ing)
+4815) counterclaims (added plural)
+4816) counterculture (fixed: counter-culture)
+4817) countercultural
+4818) counterdemonstration (+plural)
+4819) Blairism
+4820) Blairite (+plural)
+4821) church (added also lower case)
+4822) churchy + churchier + churchiest
+4823) chuppah + chuppa
+4824) chuppot (plural of previous word)
+4825) chupacabra (+plural +'s)
+4826) Gawd + gawd (Oxford: informal - Kevin Atkinson wordlist 60)
+4827) geddit (Oxford: informal - Kevin Atkinson wordlist 60)
+4828) gasholder (+plural - Kevin Atkinson wordlist 60)
+4829) sunseeker (+plural - Oxford: informal)
+4830) Jain (+plural)
+4831) jailbreaker (merged into jailbreak)
+4832) detainers (added plural)
+4833) gigawatts (added plural - Kevin Atkinson wordlist 60)
+4834) GW (abbreviation of previous word)
+4835) gigaton (+plural)
+4836) gigatonne (+plural - another way of previous word)
+4837) godawful (Kevin Atkinson wordlist 60)
+4838) goddammit (Collins - informal)
+4839) godlessly (merged into godless - Kevin Atkinson wordlist 60)
+4840) giros (added plural - Kevin Atkinson wordlist 60)
+4841) groupware (+'s - Kevin Atkinson wordlist 60)
+
+24-OCT-2014
+4842) Debian
+4843) versioned + versioning + versional (merged into version)
+4844) diehard (fixed: die-hard)
+4845) versicoloured
+4846) verset (+plural)
+4847) triolet (+plural)
+4848) sestina (+plural)
+4849) villanelle (+plural)
+4850) rondel (+plural)
+4851) pantoum (+plural)
+4852) pantryman
+4853) pantrymen (plural of previous word)
+4854) groundburst (Collins)
+
+27-OCT-2014
+4855) adaptationism
+4856) adaptationist
+4857) adaptably
+4858) Emmy (+plural - the awards)
+4859) greenflies (added plural - Kevin Atkinson wordlist 60)
+4860) gymslip (+plural - Kevin Atkinson wordlist 60)
+4861) hairsprays (added plural - Kevin Atkinson wordlist 60)
+4862) colourist (+plural)
+4863) colourway (+plural)
+4864) colouristic (+ally)
+4865) watercolourist (+plural - merged into watercolour)
+4866) watercock (+plural)
+4867) waterdog (+plural)
+4868) cottonmouth (+plural)
+4869) deergrass
+4870) dotterel (+plural)
+4871) dottily (merged into dotty)
+4872) Crockford (+'s)
+4873) Avesta
+4874) Vedic
+
+28-OCT-2014
+4875) Kubuntu (+'s)
+4876) ESA (+'s)
+4877) ESC
+4878) escabeche
+4879) escalade
+4880) rockwork (Collins)
+4881) rocketeer (+plural)
+4882) aerobrake (+ing)
+4883) aerobicist (+plural)
+4884) aerobiology
+4885) neurophysiological
+4886) neurophysiologist (+plural)
+4887) atherogenic
+4888) atherogenesis
+4889) pathophysiology
+4890) pathophysiologic
+4891) pathophysiological
+4892) pathophysiologically
+4893) pathophysiologist
+4894) colonoscopes (added plural)
+4895) autotransformers (added plural)
+4896) autotoxin (+plural)
+4897) autotoxic
+4898) allogenic
+4899) catastrophists (added plural)
+4900) tailplanes (added plural)
+4901) tailspinning (merged into tailspin)
+4902) tailspun (past of tailspin)
+4903) tailwater (+plural)
 ===============
 
 
