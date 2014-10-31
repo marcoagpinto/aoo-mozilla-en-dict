@@ -21,7 +21,7 @@ Please contact Kevin directly for the latter two:
 see http://wordlist.aspell.net 
 and https://sourceforge.net/projects/wordlist/files/Hunspell
 
-Every month I will release an en_GB update for Mozilla. For OpenOffice it will take longer because there are 10'000s of people downloading and I don't want to overload the servers.
+I will release a monthly en_GB update for Mozilla. For OpenOffice it may take longer because there are 10'000s of people downloading and I don't want to overload the servers.
 
 Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
