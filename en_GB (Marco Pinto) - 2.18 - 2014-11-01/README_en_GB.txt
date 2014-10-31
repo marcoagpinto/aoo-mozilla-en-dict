@@ -4723,3 +4723,443 @@ V2.17 - 1-OCT-2014
 4473) pharaoh (+plural - changed to lower case - upper case only if name)
 4474) abubble
 4475) idiotype (+plural)
+
+
+V2.18 - 1-NOV-2014
+------------------
+4476) mothercraft
+4477) mainboard (+plural)
+4478) maincrop
+4479) tricuspid
+4480) unicuspid
+4481) fivestones
+4482) fivesome
+4483) Flathead (+plural - upper case - Kevin Atkinson wordlist 60)
+4484) bioturbation
+4485) pilgriming + pilgrimed (merged into pilgrim)
+4486) pilgrimize (-IZE)
+4487) pilgrimise (-ISE)
+4488) rubescent
+4489) evacuant
+4490) Salvadorean (+plural +'s - Kevin Atkinson wordlist 60)
+4491) statant
+4492) Zarathustra's (added +'s - Kevin Atkinson wordlist 60)
+4493) adventurist (+plural - Kevin Atkinson wordlist 60)
+4494) acquiree (+plural)
+4495) acquirer (+plural - Kevin Atkinson wordlist 60)
+4496) answerphone (+plural - Kevin Atkinson wordlist 60)
+4497) bulleted (merged into bullet)
+4498) bedchambers (added plural - Kevin Atkinson wordlist 60)
+4499) biodegrade (+s +ed +ing +ion  - Kevin Atkinson wordlist 60)
+4500) blobfish (+plural)
+4501) binman (Oxford: informal - Kevin Atkinson wordlist 60)
+4502) binmen (plural of previous word - Kevin Atkinson wordlist 60)
+4503) blowlamps (added plural - Kevin Atkinson wordlist 60)
+4504) breathalyses (added plural - Kevin Atkinson wordlist 60)
+4505) cellmates (added plural - Kevin Atkinson wordlist 60)
+4506) chatlines (added plural - Kevin Atkinson wordlist 60)
+4507) chirpily + chirpiness (merged into chirpy - Kevin Atkinson wordlist 60)
+4508) computerate (Oxford: informal - Kevin Atkinson wordlist 60) 
+4509) comfortless (merged into comfort - Kevin Atkinson wordlist 60)
+4510) conchie (+plural - Oxford: informal - Kevin Atkinson wordlist 60)
+4511) cookhouse (+plural - Kevin Atkinson wordlist 60)
+4512) crabwise (Kevin Atkinson wordlist 60)
+4513) crepuscular (Kevin Atkinson wordlist 60)
+4514) cripes (Oxford: informal - Kevin Atkinson wordlist 60)
+4515) criollo (+plural)
+4516) cuboids (added plural - Kevin Atkinson wordlist 60)
+4517) cuboidal (merged into cuboid)
+4518) demonically (Kevin Atkinson wordlist 60)
+4519) deselection (+plural - Kevin Atkinson wordlist 60)
+4520) immunoblotting
+4521) electrophorese
+4522) electrophoretic + electrophoretically
+4523) electrometer (+ic)
+4524) electrometry
+4525) electromyogram (+plural)
+4526) multipolar
+4527) multipolarity
+4528) multipole
+4529) unipolarity
+4530) unipotent
+4531) unironed
+4532) uniserial
+4533) unisexual (+ly)
+4534) unisexuality
+4535) unironic (+ly)
+4536) UNISON
+4537) unissued
+4538) deep-discount
+4539) supercalifragilisticexpialidocious (Oxford: informal)
+4540) supercalifragilistic (another way of previous word)
+4541) superbugs (added plural)
+4542) autorickshaw (+plural)
+4543) e-billing
+4544) e-cash
+4545) e-edition
+4546) e-dating
+4547) e-fit
+4548) overclock (+ed +ing +s)
+4549) overclocker (+plural +'s)
+4550) overcheck (+plural)
+4551) overcautiously + overcautiousness (merged into overcautious)
+4552) overcaution
+4553) overclass
+4554) overcompensatingly
+4555) overcompensatory
+4556) overcommits (added plural)
+4557) descale (+s +ing +ed - Kevin Atkinson wordlist 60)
+4558) descaler (+plural)
+4559) euryapsid (+plural)
+4560) darkie (+plural - Kevin Atkinson wordlist 60)
+4561) decathlete (+plural - Kevin Atkinson wordlist 60)
+4562) dickhead (+plural - Kevin Atkinson wordlist 60)
+4563) doodahs (added plural - Kevin Atkinson wordlist 60)
+4564) doolally (Oxford: informal - Kevin Atkinson wordlist 60)
+4565) doomster (+plural - Kevin Atkinson wordlist 60)
+4566) doomwatch (+er +ers)
+4567) draughtboard (+plural - Kevin Atkinson wordlist 60)
+4568) ecolodge (+plural)
+4569) ecofreak (+plural)
+4570) ecofeminism
+4571) ecofeminist (+plural)
+4572) educationist (+plural - Kevin Atkinson wordlist 60)
+4573) endgames (added plural - Kevin Atkinson wordlist 60)
+4574) consecrator
+4575) consecratory
+4576) emblematical
+4577) emblematically (Kevin Atkinson wordlist 60)
+4578) emblematist
+4579) dozier+doziest+dozily+doziness (merged into dozy - Kevin Atkinson wordlist 60)
+4580) ecu (+plural - Kevin Atkinson wordlist 60)
+4581) diaconate
+4582) premodify (+s +ing +ed +ion +er)
+4583) premonish (+ing)
+4584) Petersburg (name)
+4585) entryphone (+plural - Kevin Atkinson wordlist 60)
+4586) extrajudicial (Kevin Atkinson wordlist 60)
+4587) extrajudicially (merged into extrajudicial)
+4588) selfhood
+4589) continuants (added plural)
+4590) cacuminal
+4591) coarticulation (+plural)
+4592) silicify (+s +ing +ed +ion)
+4593) extraordinaire (Kevin Atkinson wordlist 60)
+4594) extranet (+plural)
+4595) extramusical
+4596) fab (+s +ing +ed)
+4597) fatsos (added plural - Kevin Atkinson wordlist 60)
+4598) fitment (added singular - Kevin Atkinson wordlist 60)
+4599) fluvial (Kevin Atkinson wordlist 60)
+4600) fuckhead (+plural - Kevin Atkinson wordlist 60)
+4601) fuckwit (Oxford: vulgar slang)
+4602) fucoxanthin
+4603) carotenoid (+plural)
+4604) lutein
+4605) ZX (ZX Spectrum - computer from the 1980s)
+4606) exabyte (+plural)
+4607) EB (abbreviation of previous word)
+4608) yottabyte (+plural)
+4609) YB (abbreviation of previous word)
+4610) zettabytes (added plural)
+4611) ZB (abbreviation of previous word)
+4612) Amiga's (added the 's)
+4613) lower-level
+4614) higher-level
+4615) akasha (+ic)
+4616) inbreathe (+ed +ing)
+4617) fracking
+4618) commenters (added plural)
+4619) bynames (added plural)
+4620) bye-byes (added plural)
+4621) goodliness (merged into goodly)
+4622) mailshots (added plural)
+4623) backbend (+plural)
+4624) jawless (merged into jaw)
+4625) hagfish (+plural)
+4626) beardfish (+plural)
+4627) clade (+plural)
+4628) taxon
+4629) taxa (plural of previous word)
+4630) avoision
+4631) kyu (martial arts)
+4632) dan (martial arts)
+4633) budo (martial arts)
+4634) bokken (martial arts)
+4635) kyudo (martial arts)
+4636) kendo (martial arts)
+4637) lamers (added plural)
+4635) 2D
+4636) 3D
+4637) galactically (merged into galactic)
+4638) galactagogue (+plural)
+4639) prolactin
+4640) oxytocin
+4641) oxytocic
+4642) monoamine (+plural)
+4643) monamine (+plural - another way of previous word)
+4644) neuropeptide (+plural)
+4645) neuropathological
+4646) neuropathologist (+plural)
+4647) neuroma (+plural)
+4648) neuromata (another plural of previous word)
+4649) geriatrician (+plural)
+4650) defervescence
+4651) anastomose (added singular +ing +ed)
+4652) arthroplasty
+4653) vegetal
+4654) aepyornis
+4655) calcination (merged into calcine)
+4656) dimercaprol
+4657) dimerous
+4658) meerkat (+plural)
+4659) tamarin (+plural)
+4660) mara (+plural)
+4661) suricate (+plural)
+4662) Bannockburn (place)
+4663) Mozillian (+'s +plural)
+4664) annock
+4665) bendy (+ier iest +ness)
+4666) funfairs (added plural - Kevin Atkinson wordlist 60)
+4667) goodie (another way of goody)
+4668) ganja (Kevin Atkinson wordlist 60)
+4669) charas
+4670) spliff (+plural)
+4671) afebrile
+4672) Eddington (+'s - name)
+4673) dyskinesia (+plural)
+4674) dyspraxia
+4675) dysregulation
+4676) bariatrics
+4677) bronchodilator (+plural)
+4678) bronchodilation
+4679) pharmacodynamic (+plural)
+4680) zonation (+plural)
+4681) nomenclator
+4682) nomenclatural
+4683) monotypic
+4684) monovalent
+4685) nonagon
+4686) gasman (Kevin Atkinson wordlist 60)
+4687) gasmen (plural of previous word - Kevin Atkinson wordlist 60)
+4688) gaslighting (merged into gaslight)
+4689) gaslit
+4690) gasometers (added plural - Kevin Atkinson wordlist 60)
+4691) bionomic (+plural)
+4692) anticathode (+plural)
+4693) anticholinergic (+plural)
+4694) misdial (+s +ing +ed)
+4695) misdescribe (+s +ed +ion)
+4696) misdoubt (+s +ed)
+4697) compand (+s +er +ing +ed)
+4698) datacomms
+4699) datacoms (another way of previous word)
+4700) dataveillance
+4701) case-sensitive
+4702) backstamp (+plural)
+4703) backstay (+plural)
+4704) donkeyman
+4705) donkeymen (plural of previous word)
+4706) bathymeter (+plural +ic)
+4707) bathymetry
+4708) scaleable (another way of scalable)
+4709) intercrop (+s +ing +ed)
+4710) intercorrelation (+plural)
+4711) intercorrelate
+4712) baseload
+4713) baselessly
+4714) baseborn
+4715) subcell (Collins)
+4716) subcellular (Collins)
+4717) supralunar (Collins)
+4718) supratemporal (Collins)
+4719) hepatocellular (Collins)
+4720) gluteals (added plural)
+4721) gastrocnemius
+4722) gastrocnemii (plural of previous word)
+4723) soleus
+4724) appendicular
+4725) scute (+plural)
+4726) allosaurus (+plural)
+4727) allopurinol
+4728) colchicine
+4729) disarticulate (+ion)
+4730) flexicuffs (Macmillan)
+4731) plasticuffs (Macmillan)
+4732) PCIe
+4733) RJ45
+4734) blackboy (+plural)
+4735) mistle (mistle thrush)
+4736) broadbill (+plural)
+4737) Arabism
+4738) Arabist (+plural)
+4739) arabinose
+4740) galactose
+4741) xylose
+4742) mannose
+4743) fibrinogen
+4744) extravascular
+4745) intravascular (+ly)
+4746) extravasate (+ed)
+4747) petechia
+4748) petechiae (plural of previous word)
+4749) petcock
+4750) petasus
+4751) undersheriff (fixed: under-sheriff)
+4752) underset (+s +ing)
+4753) unviable
+4754) unviability
+4755) unviolated
+4756) Eliot's (added the 's)
+4757) unvitiated
+4758) unwaged
+4759) unwaisted
+4760) hashtag (+plural)
+4761) cliched (merged into cliche)
+4762) gotcha (Oxford: informal)
+4763) gotcher (Oxford: informal - another way of previous word)
+4764) gossypol
+4765) cottonweed (+plural)
+4766) oligotrophy (+ic)
+4767) eutrophic
+4768) lapis
+4769) UTF-16
+4770) UTF-32
+4771) 1D
+4772) unvented
+4773) unvaryingness
+4774) meningococcus
+4775) meningococci (plural of previous word)
+4776) meningococcal
+4777) serogroup (Collins)
+4778) anti-war (fixed antiwar)
+4779) anti-Western
+4780) anti-tetanus
+4781) anorgasmia
+4782) activewear
+4783) Diana's (added the 's)
+4784) misestimate (+ed)
+4785) misestimation (+plural)
+4786) QuickTime
+4787) trackpad
+4788) ringtone (+plural)
+4789) Netflix (company)
+4790) podcasts (added plural)
+4791) waifish
+4792) waiflike
+4793) retroelement (+plural)
+4794) bivalents (added plural)
+4795) non-disjunction
+4796) spermatogenesis
+4797) spermatophore (+plural)
+4798) oviposit (+s +ing +ed)
+4799) oviparity
+4800) asphyxial
+4801) asphyxiant (+plural)
+4802) diverticular
+4803) diverticulum
+4804) diverticula (plural of previous word)
+4805) axilla
+4806) axillae (plural of previous word)
+4807) aviating + aviated (merged into aviate)
+4808) prosoma
+4809) tagma
+4810) tagmata (plural of previous word)
+4811) antivivisection
+4812) antivivisectionism
+4813) gangstas (added plural - Kevin Atkinson wordlist 60)
+4814) counterchange (+s +ed +ing)
+4815) counterclaims (added plural)
+4816) counterculture (fixed: counter-culture)
+4817) countercultural
+4818) counterdemonstration (+plural)
+4819) Blairism
+4820) Blairite (+plural)
+4821) church (added also lower case)
+4822) churchy + churchier + churchiest
+4823) chuppah + chuppa
+4824) chuppot (plural of previous word)
+4825) chupacabra (+plural +'s)
+4826) Gawd + gawd (Oxford: informal - Kevin Atkinson wordlist 60)
+4827) geddit (Oxford: informal - Kevin Atkinson wordlist 60)
+4828) gasholder (+plural - Kevin Atkinson wordlist 60)
+4829) sunseeker (+plural - Oxford: informal)
+4830) Jain (+plural)
+4831) jailbreaker (merged into jailbreak)
+4832) detainers (added plural)
+4833) gigawatts (added plural - Kevin Atkinson wordlist 60)
+4834) GW (abbreviation of previous word)
+4835) gigaton (+plural)
+4836) gigatonne (+plural - another way of previous word)
+4837) godawful (Kevin Atkinson wordlist 60)
+4838) goddammit (Collins - informal)
+4839) godlessly (merged into godless - Kevin Atkinson wordlist 60)
+4840) giros (added plural - Kevin Atkinson wordlist 60)
+4841) groupware (+'s - Kevin Atkinson wordlist 60)
+4842) Debian
+4843) versioned + versioning + versional (merged into version)
+4844) diehard (fixed: die-hard)
+4845) versicoloured
+4846) verset (+plural)
+4847) triolet (+plural)
+4848) sestina (+plural)
+4849) villanelle (+plural)
+4850) rondel (+plural)
+4851) pantoum (+plural)
+4852) pantryman
+4853) pantrymen (plural of previous word)
+4854) groundburst (Collins)
+4855) adaptationism
+4856) adaptationist
+4857) adaptably
+4858) Emmy (+plural - the awards)
+4859) greenflies (added plural - Kevin Atkinson wordlist 60)
+4860) gymslip (+plural - Kevin Atkinson wordlist 60)
+4861) hairsprays (added plural - Kevin Atkinson wordlist 60)
+4862) colourist (+plural)
+4863) colourway (+plural)
+4864) colouristic (+ally)
+4865) watercolourist (+plural - merged into watercolour)
+4866) watercock (+plural)
+4867) waterdog (+plural)
+4868) cottonmouth (+plural)
+4869) deergrass
+4870) dotterel (+plural)
+4871) dottily (merged into dotty)
+4872) Crockford (+'s)
+4873) Avesta
+4874) Vedic
+4875) Kubuntu (+'s)
+4876) ESA (+'s)
+4877) ESC
+4878) escabeche
+4879) escalade
+4880) rockwork (Collins)
+4881) rocketeer (+plural)
+4882) aerobrake (+ing)
+4883) aerobicist (+plural)
+4884) aerobiology
+4885) neurophysiological
+4886) neurophysiologist (+plural)
+4887) atherogenic
+4888) atherogenesis
+4889) pathophysiology
+4890) pathophysiologic
+4891) pathophysiological
+4892) pathophysiologically
+4893) pathophysiologist
+4894) colonoscopes (added plural)
+4895) autotransformers (added plural)
+4896) autotoxin (+plural)
+4897) autotoxic
+4898) allogenic
+4899) catastrophists (added plural)
+4900) tailplanes (added plural)
+4901) tailspinning (merged into tailspin)
+4902) tailspun (past of tailspin)
+4903) tailwater (+plural)
+4904) fishable (merged into fish)
+4905) hemimetabolous
+4906) hemimetabolic
+4907) DLL (+plural)
+4908) aerophagy

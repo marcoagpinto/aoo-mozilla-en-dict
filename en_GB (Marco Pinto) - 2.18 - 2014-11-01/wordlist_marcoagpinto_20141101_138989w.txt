@@ -1,4 +1,4 @@
-'gainst
+﻿'gainst
 'mongst
 'neath
 'strewth
@@ -15,9 +15,12 @@
 1920x1080
 1920x1080i
 1920x1080p
+1D
 24-bit
+2D
 32-bit
 320x240
+3D
 3GPP's
 4x4
 4x4s
@@ -324,10 +327,10 @@ abominating
 abomination
 abomination's
 aboriginal
-Aboriginals
-Aboriginals's
 aboriginals
 aboriginals's
+Aboriginals
+Aboriginals's
 aborigine
 aboriginally
 aborigines
@@ -1215,9 +1218,13 @@ acquired
 reacquire
 acquires
 acquiring
+acquiree
+acquirees
 acquirement
 acquirements
 acquirement's
+acquirer
+acquirers
 acquisition
 acquisition's
 reacquisition
@@ -1356,6 +1363,7 @@ inactively
 reactively
 activeness
 activenesses
+activewear
 activism
 activism's
 activisms
@@ -1474,8 +1482,11 @@ adapting
 adaptability
 adaptability's
 adaptabilities
+adaptably
 adaptation
 adaptation's
+adaptationism
+adaptationist
 adapted
 adaptedness
 adaptedness's
@@ -2025,6 +2036,8 @@ adventuress
 adventuresses
 adventuress's
 adventurism
+adventurist
+adventurists
 adventurous
 unadventurous
 adventurously
@@ -2138,6 +2151,7 @@ Aeolus
 aeon
 aeons
 aeon's
+aepyornis
 aerate
 aeration
 aerates
@@ -2171,6 +2185,11 @@ aerobatics
 aerobic
 aerobics
 aerobically
+aerobicist
+aerobicists
+aerobiology
+aerobrake
+aerobraking
 aerodrome
 aerodromes
 aerodrome's
@@ -2199,6 +2218,7 @@ aeronautically
 aeronautical
 aeronautics
 aeronautics's
+aerophagy
 aerophone
 aerophones
 aeroplane
@@ -2240,6 +2260,7 @@ aetiology's
 AFAIK
 afar
 AFC
+afebrile
 affability
 affabilities
 affability's
@@ -3016,12 +3037,14 @@ aitches
 ajar
 Ajax
 aka
+akasha
+akashic
 akimbo
 akin
 Akron
 Akron's
-al-Haili
 Al-Haili
+al-Haili
 Al-Jazeera
 al-Jazeera
 Al-Qa'ida
@@ -3034,8 +3057,8 @@ Al-Qaeda
 Al-Qaeda's
 Al-Sharif
 al-Sharif
-al-Zawahiri
 Al-Zawahiri
+al-Zawahiri
 al
 real
 coal
@@ -3551,6 +3574,7 @@ preallocator
 allocators
 deallocator
 allogeneic
+allogenic
 allograft
 allografts
 allometry
@@ -3563,6 +3587,9 @@ allophone
 allophone's
 allophones
 allophonic
+allopurinol
+allosaurus
+allosauruses
 allot
 allots
 allotment
@@ -4147,6 +4174,7 @@ amidships
 amidst
 Amiga
 Amigas
+Amiga's
 AmigaOS
 amigo
 amigo's
@@ -4533,7 +4561,10 @@ anarchy's
 Anastasia
 Anastasia's
 anastigmatic
+anastomose
 anastomoses
+anastomosing
+anastomosed
 anastomosis
 anastomosis's
 anastomotic
@@ -4995,6 +5026,7 @@ annihilator's
 anniversary
 anniversaries
 anniversary's
+annock
 annotate
 annotating
 annotation
@@ -5126,6 +5158,7 @@ anorexia's
 anorexias
 anorexic
 anorexics
+anorgasmia
 another
 another's
 ans
@@ -5149,6 +5182,8 @@ answerable
 unanswerable
 answered
 unanswered
+answerphone
+answerphones
 ant's
 ant
 disant
@@ -5287,10 +5322,9 @@ anthropomorphize
 anthropomorphizing
 anthropomorphous
 anti-abortion
-anti-abortionists
+anti-abortionist
 anti-abortionists
 anti-abortionist's
-anti-abortionist
 anti-ageing
 anti-aircraft
 anti-American
@@ -5326,6 +5360,9 @@ anti-Semitism
 anti-Semitism's
 anti-slavery
 anti-tank
+anti-tetanus
+anti-war
+anti-Western
 anti
 antis
 antibacterial
@@ -5343,6 +5380,10 @@ antic's
 anticked
 antics
 anticancer
+anticathode
+anticathodes
+anticholinergic
+anticholinergics
 Antichrist
 Antichrists
 anticipate
@@ -5576,9 +5617,10 @@ antivenin's
 antiviral
 antivirals
 antivirus
+antivivisection
+antivivisectionism
 antivivisectionist
 antivivisectionists
-antiwar
 antler
 antler's
 antlers
@@ -5933,6 +5975,7 @@ appendices
 appendicitis
 appendicitis's
 appendicitises
+appendicular
 appendix
 appendix's
 appendixes
@@ -6313,6 +6356,10 @@ Arabic's
 arability
 arability's
 arabilities
+arabinose
+Arabism
+Arabist
+Arabists
 arable
 arables
 arachnid
@@ -7041,6 +7088,7 @@ arthritis's
 arthrogram
 arthrogram's
 arthrograms
+arthroplasty
 arthropod
 arthropod's
 arthropods
@@ -7353,6 +7401,9 @@ asphyxia's
 asphyxias
 asphyxiation
 asphyxiations
+asphyxial
+asphyxiant
+asphyxiants
 asphyxiate
 asphyxiates
 asphyxiated
@@ -7904,6 +7955,8 @@ Athenians
 Athenian's
 Athens
 Athens's
+atherogenesis
+atherogenic
 atheroscleroses
 atherosclerosis
 atherosclerosis's
@@ -8716,6 +8769,8 @@ autorepeat
 autorepeating
 autorepeats
 autoresponder
+autorickshaw
+autorickshaws
 autorotate
 autorotated
 autorotation
@@ -8730,8 +8785,12 @@ autosomal
 autosome
 autosomes
 autostereoscopic
+autotoxic
+autotoxin
+autotoxins
 autotransformer
 autotransformer's
+autotransformers
 autotransplant
 autotransplantation
 autotransplanted
@@ -8838,12 +8897,15 @@ averted
 Avery
 Avery's
 Aves
+Avesta
 avian
 avians
 aviary
 aviaries
 aviary's
 aviate
+aviated
+aviating
 aviation
 aviations
 aviation
@@ -8899,6 +8961,7 @@ avoidance's
 avoidances
 avoirdupois
 avoirdupois's
+avoision
 Avon
 Avon's
 avouch
@@ -9032,6 +9095,8 @@ coaxial
 axially
 axil
 axils
+axilla
+axillae
 axillary
 axiology
 axiology's
@@ -9227,6 +9292,8 @@ backbenches
 backbencher
 backbenchers
 backbencher's
+backbend
+backbends
 backbite
 backbiter
 backbiters
@@ -9392,6 +9459,10 @@ backstabbing
 backstabbings
 backstage
 backstairs
+backstamp
+backstamps
+backstay
+backstays
 backstitch
 backstitch's
 backstitches
@@ -10115,6 +10186,7 @@ bannister's
 bannock
 bannock's
 bannocks
+Bannockburn
 banns
 banquet
 banqueter
@@ -10352,6 +10424,7 @@ barhop
 barhopping
 barhops
 barhopped
+bariatrics
 baritone
 baritone's
 baritones
@@ -10612,14 +10685,17 @@ baseband
 baseboard
 baseboard's
 baseboards
+baseborn
 based
 debased
 Basel
 Basel's
+baselessly
 baselessness
 baseline
 baselines
 baseline's
+baseload
 baseness
 basenesses
 baseplate
@@ -10821,6 +10897,10 @@ bathtub
 bathtubs
 bathtub's
 bathwater
+bathymeter
+bathymeters
+bathymetric
+bathymetry
 bathyscaphe's
 bathysphere
 bathysphere's
@@ -10998,8 +11078,8 @@ BBC's
 bbl
 BBQ
 BBS
-bc
 BC
+bc
 BCD
 BCG
 BD-R
@@ -11122,6 +11202,8 @@ bearding
 beardedness
 bearded
 beard's
+beardfish
+beardfishes
 Beardsley
 Beardsley's
 bearing's
@@ -11303,6 +11385,7 @@ bedbug
 bedbugs
 bedbug's
 bedchamber
+bedchambers
 bedchamber's
 bedclothes
 bedded
@@ -11933,6 +12016,11 @@ bended
 bender
 benders
 bender's
+bendy
+bendier
+bendiest
+bendiness
+bendiness's
 beneath
 Benedict
 Benedict's
@@ -12819,6 +12907,8 @@ Binghamton
 bingo
 bingos
 bingo's
+binman
+binmen
 binnacle
 binnacles
 binnacle's
@@ -12872,6 +12962,12 @@ biodefence
 biodegradability
 biodegradabilities
 biodegradable
+biodegrade
+biodegradation
+biodegradations
+biodegrades
+biodegrading
+biodegraded
 biodiesel
 biodiversity
 biodiversities
@@ -12983,6 +13079,8 @@ bionically
 bionics
 bionics
 bionics's
+bionomic
+bionomics
 biopharma
 biopharmas
 biopharmaceutical
@@ -13063,6 +13161,7 @@ biotin's
 biotins
 biotite
 biotransformation
+bioturbation
 biotype
 biotypes
 biowarfare
@@ -13313,6 +13412,7 @@ bitumens
 bituminous
 bitwise
 bivalent
+bivalents
 bivalve
 bivalves
 bivalve's
@@ -13381,6 +13481,8 @@ blackboard
 blackboard's
 blackboards
 blackbodies
+blackboy
+blackboys
 blackbuck
 blackbucks
 Blackburn
@@ -13488,6 +13590,9 @@ Blaine
 Blaine's
 Blair
 Blair's
+Blairism
+Blairite
+Blairites
 Blake
 Blake's
 blame
@@ -13830,6 +13935,8 @@ blobs
 blob's
 blobbed
 blobbing
+blobfish
+blobfishes
 bloc
 blocking
 blocked
@@ -14085,6 +14192,7 @@ blowing-up
 blowing
 blowing's
 blowlamp
+blowlamps
 blown-up
 blown
 overblown
@@ -14569,6 +14677,7 @@ boisterousness's
 boisterousness
 boisterousnesses
 bokeh
+bokken
 Bokmål
 bola
 bolas
@@ -16026,6 +16135,7 @@ breath's
 breathable
 unbreathable
 breathalyse
+breathalyses
 breathalysed
 breathalyser
 breathalysers
@@ -16452,6 +16562,8 @@ broadest
 broadly
 broads
 broadband
+broadbill
+broadbills
 broadcast
 broadcasts
 rebroadcast
@@ -16565,6 +16677,9 @@ bronchitics
 bronchitis
 bronchitis's
 bronchitises
+bronchodilation
+bronchodilator
+bronchodilators
 bronchogenic
 bronchopneumonia
 bronchospasm
@@ -16998,6 +17113,7 @@ budgie's
 budgies
 budging
 unbudging
+budo
 budstick
 budsticks
 Budweiser
@@ -17183,6 +17299,8 @@ bulldozing
 bulldozed
 bulldozes
 bullet
+bulleted
+bulleting
 bullets
 bullet's
 bulletin
@@ -17971,6 +18089,7 @@ by-product
 by-products
 by-product's
 bye-bye
+bye-byes
 bye-law
 bye-laws
 bye-law's
@@ -17989,6 +18108,7 @@ byline's
 byliner
 byliner's
 byname
+bynames
 bypass
 bypass's
 bypassed
@@ -18037,8 +18157,8 @@ bêche
 bête
 bêtes
 bêtise
-c.Elegans
 c.elegans
+c.Elegans
 C.Lit.
 c
 cation
@@ -18170,6 +18290,7 @@ cacti
 cactus
 cactus's
 cactuses
+cacuminal
 cad
 cad's
 caddy
@@ -18371,6 +18492,7 @@ calcimines
 calcimine's
 calcimining
 calcine
+calcination
 calcines
 calcined
 calcining
@@ -19796,6 +19918,8 @@ caroms
 carotene
 carotenes
 carotene's
+carotenoid
+carotenoids
 carotid
 carotid's
 carousal
@@ -20029,6 +20153,7 @@ case-hardens
 case-load
 case-loads
 case-load's
+case-sensitive
 case
 cased
 case's
@@ -20302,6 +20427,7 @@ catastrophically
 catastrophic
 catastrophism
 catastrophist
+catastrophists
 catatonia
 catatonia's
 catatonias
@@ -20828,6 +20954,7 @@ cellars
 cellarer
 cellarer's
 cellmate
+cellmates
 cello
 cellos
 cellist
@@ -21623,6 +21750,7 @@ characteristics
 charade
 charades
 charade's
+charas
 charbroil
 charbroils
 charbroiling
@@ -21821,6 +21949,7 @@ chatelaine
 chatelaine's
 chatelaines
 chatline
+chatlines
 Chattahoochee
 Chattanooga
 chattel
@@ -22501,6 +22630,9 @@ chirped
 chirpy
 chirps
 chirpy
+chirpiness
+chirpiness's
+chirpily
 chirpier
 chirpiest
 chirrup
@@ -22990,6 +23122,13 @@ chunkiest
 chunkiness
 chunkiness's
 chuntering
+chupacabra
+chupacabras
+chupacabra's
+chuppa
+chuppah
+chuppot
+church
 Church
 Church-of-England
 church
@@ -23020,6 +23159,9 @@ churchliness's
 churchwarden
 churchwardens
 churchwarden's
+churchy
+churchier
+churchiest
 churchyard
 churchyard's
 churchyards
@@ -23446,6 +23588,8 @@ cladding
 clads
 cladding
 cladding's
+clade
+clades
 claim's
 claim
 disclaim
@@ -23947,6 +24091,7 @@ clewed
 clewing
 cliche
 cliches
+cliched
 cliché
 cliché's
 clichés
@@ -24445,8 +24590,8 @@ Clyde
 Clydebank
 Clydebank's
 Clydesdale
-cm
 Cm
+cm
 Cmdr
 Cmdre
 CMG
@@ -24601,6 +24746,8 @@ coarsening
 coarsens
 coarseness
 coarsenesses
+coarticulation
+coarticulations
 coast-to-coast
 coast
 coasts
@@ -25153,6 +25300,7 @@ Colbert
 Colby
 Colchester
 Colchester's
+colchicine
 cold-blooded
 cold-bloodedly
 cold-bloodedness
@@ -25461,6 +25609,7 @@ colonnaded
 colonnades
 colonnade's
 colonoscope
+colonoscopes
 colonoscopy
 colonoscopies
 colony
@@ -25552,6 +25701,10 @@ colourfulness
 colourfulnesses
 colouring
 colouring's
+colourist
+colourists
+colouristic
+colouristically
 colourless
 colourlessly
 colourlessness
@@ -25559,6 +25712,8 @@ colourpoint
 colours
 recolours
 discolours
+colourway
+colourways
 colposcope
 colposcopy
 colt
@@ -25730,6 +25885,7 @@ comfit's
 comfits
 discomfits
 comfort
+comfortless
 discomfort
 comforting
 comfort's
@@ -25843,8 +25999,8 @@ commensurably
 commensurate
 commensurately
 incommensurate
-comment's
 comment
+comment's
 uncomment
 comments
 commented
@@ -25860,6 +26016,7 @@ commentators
 commentator's
 commenter
 commenter's
+commenters
 commenting
 commerce
 commercing
@@ -26120,6 +26277,13 @@ compactnesses
 compactor
 compactors
 compactor's
+compand
+compands
+compander
+companders
+compander's
+companding
+companded
 companion
 companioned
 companioning
@@ -26590,6 +26754,7 @@ computerisation
 computerisations
 computerization
 computerizations
+computerate
 computerese
 computes
 recomputes
@@ -26757,6 +26922,8 @@ conch
 conch's
 conched
 conching
+conchie
+conchies
 conchs
 concierge
 concierges
@@ -27587,6 +27754,8 @@ consecration
 consecration's
 reconsecration
 consecrative
+consecrator
+consecratory
 consecutive
 consecutiveness
 consecutiveness's
@@ -28186,6 +28355,7 @@ continuances
 continuance's
 continuant
 continuant's
+continuants
 continuation
 continuation's
 discontinuation
@@ -28638,6 +28808,8 @@ cookers
 cooker's
 cookery
 cookery's
+cookhouse
+cookhouses
 cookie
 cookie's
 cookies
@@ -29491,9 +29663,13 @@ cottoned
 cottoning
 cotton's
 cottons
+cottonmouth
+cottonmouths
 cottontail
 cottontail's
 cottontails
+cottonweed
+cottonweeds
 cottonwood
 cottonwoods
 cottonwood's
@@ -29602,9 +29778,6 @@ counter-claims
 counter-claim's
 counter-claimed
 counter-clockwise
-counter-culture
-counter-cultures
-counter-culture's
 counter-espionage
 counter-espionages
 counter-espionage's
@@ -29660,13 +29833,24 @@ counterbalancing
 counterblast
 counterbore
 counterbores
+counterchange
+counterchanged
+counterchanging
+counterchanges
 countercharge
 countercharges
 countercheck
 counterchecks
 counterclaim
 counterclaimed
+counterclaims
+countercultural
+counterculture
+countercultures
+counterculture's
 countercyclical
+counterdemonstration
+counterdemonstrations
 counterexample
 counterexamples
 counterfeit
@@ -30180,6 +30364,7 @@ crabbiest
 crabgrass
 crabgrasses
 crablike
+crabwise
 crack
 cracks
 cracker
@@ -30672,6 +30857,7 @@ creped
 crepe's
 crepes
 crept
+crepuscular
 crescendo's
 decrescendo's
 crescendo
@@ -30848,6 +31034,9 @@ crinklies
 crinoline
 crinoline's
 crinolines
+criollo
+criollos
+cripes
 cripple
 crippler
 cripplers
@@ -30967,6 +31156,8 @@ crockery
 crockeries
 crockery's
 Crockett
+Crockford
+Crockford's
 crocodile
 crocodile's
 crocodiles
@@ -31598,6 +31789,9 @@ cubit
 cubits
 cubit's
 cuboid
+cuboids
+non-cuboid
+cuboidal
 cuckold
 cuckold's
 cuckolded
@@ -32753,6 +32947,7 @@ damselfly's
 damson
 damsons
 damson's
+dan
 Dan
 Danny
 Dan's
@@ -32884,6 +33079,8 @@ darkener's
 darkened
 darkening
 darkens
+darkie
+darkies
 darkish
 darkly
 darklier
@@ -32970,6 +33167,8 @@ database's
 databasing
 databases
 datable
+datacomms
+datacoms
 datafile
 datagram
 datagrams
@@ -32977,6 +33176,7 @@ datagram's
 Datamation
 dataset
 datasets
+dataveillance
 date
 date's
 dating
@@ -33376,6 +33576,7 @@ Debby
 debenture
 debentures
 debenture's
+Debian
 debilitate
 debilitates
 debilitation
@@ -33463,6 +33664,8 @@ decapitator's
 decapitators
 decapod
 decapods
+decathlete
+decathletes
 decathlon
 decathlons
 decathlon's
@@ -33874,6 +34077,7 @@ deems
 deemed
 redeem
 deeming
+deep-discount
 deep-freeze
 deep-freezing
 deep-fried
@@ -33899,6 +34103,7 @@ deepnesses
 deer
 deer's
 Deere
+deergrass
 deerskin
 deerskins
 deerskin's
@@ -33943,8 +34148,8 @@ default
 defaulter
 defaulters
 defaulter's
-defcon
 DEFCON
+defcon
 defeasance
 defeasances
 defeasible
@@ -34040,6 +34245,7 @@ deferrable
 deferral
 deferrals
 deferral's
+defervescence
 defiance
 defiances
 defiance's
@@ -34637,6 +34843,7 @@ demoniac
 demoniacs
 demoniacal
 demoniacally
+demonically
 demonolatry
 demonology
 demonology's
@@ -35244,6 +35451,12 @@ desalination
 desalinations
 desalinating
 desalinated
+descale
+descaling
+descaled
+descales
+descaler
+descalers
 descant
 descants
 descant's
@@ -35298,6 +35511,8 @@ desecrater
 desecrater's
 desecration
 desecration's
+deselection
+deselections
 desensitise
 desensitisation
 desensitisations
@@ -35578,6 +35793,7 @@ detainee
 detainees
 detainer
 detainer's
+detainers
 detect
 detected
 detecting
@@ -35974,6 +36190,7 @@ diabolism
 diabolism's
 diachronic
 diachronicness
+diaconate
 diacritic
 diacritic's
 diacritics
@@ -36090,6 +36307,7 @@ diamondback
 diamondbacks
 diamondback's
 Diana
+Diana's
 Diane
 Dianne
 diapason
@@ -36200,6 +36418,8 @@ Dickerson's
 dickey
 dickeys
 dickey's
+dickhead
+dickheads
 dickier
 dickiest
 Dickinson
@@ -36262,13 +36482,13 @@ Dido
 Dido's
 didst
 die-cast
-die-hard
-die-hards
 die
 dies
 died
 dying
 Diego
+diehard
+diehards
 dielectric
 dielectrics
 dielectric's
@@ -36615,6 +36835,8 @@ dimensions
 dimensional
 dimensionality
 dimensionality's
+dimercaprol
+dimerous
 dimethyl
 dimethyl's
 dimethylglyoxime
@@ -36949,6 +37171,8 @@ disarrange
 disarrangement
 disarrangements
 disarrangement's
+disarticulate
+disarticulation
 disastrous
 disastrously
 disband
@@ -37883,8 +38107,11 @@ divert
 diverts
 diverted
 diverting
+diverticula
+diverticular
 diverticulitis
 diverticulitis's
+diverticulum
 divertimento
 divertimento's
 divest
@@ -37982,8 +38209,8 @@ divvied
 divvies
 divvy's
 divvying
-divx
 DivX
+divx
 Diwali
 Dixie
 Dixieland
@@ -38012,6 +38239,8 @@ Djibouti
 Djibouti's
 DJs
 DLA
+DLL
+DLLs
 DLR
 Dmitri
 DMZ
@@ -38465,6 +38694,8 @@ Donizetti
 donkey
 donkeys
 donkey's
+donkeyman
+donkeymen
 Donna
 Donnelly
 donnish
@@ -38477,6 +38708,7 @@ donors
 donor's
 Donovan
 doodah
+doodahs
 doodle
 doodles
 doodler
@@ -38488,6 +38720,7 @@ doodlebug
 doodlebug's
 doodlebugs
 doodly-squat
+doolally
 Dooley
 Dooley's
 Doolittle
@@ -38500,6 +38733,12 @@ doom's
 doomsday
 doomsday's
 doomsdays
+doomster
+doomsters
+doomwatch
+doomwatcher
+doomwatchers
+doomwatcher's
 doomy
 doomier
 doomiers
@@ -38681,7 +38920,10 @@ dotard's
 dote
 dotes
 doth
+dotterel
+dotterels
 dotty
+dottily
 dottier
 dottiest
 double-barrelled
@@ -38974,7 +39216,6 @@ doyennes
 Doyle
 doze
 dozes
-dozy
 dozed
 dozing
 dozen
@@ -38982,6 +39223,12 @@ dozens
 dozenth
 dozer
 dozer's
+dozy
+dozier
+doziest
+dozily
+doziness
+doziness's
 DPhil
 dpi
 Dr
@@ -39135,6 +39382,8 @@ draughtswoman's
 draughtiness
 draughts
 draughty
+draughtboard
+draughtboards
 draughtiness
 draughtinesses
 draughtsmanship
@@ -40262,6 +40511,8 @@ dysfunctional
 dysfunctionality
 dysgraphia
 dysgraphic
+dyskinesia
+dyskinesias
 dyslectic
 dyslectics
 dyslexia
@@ -40277,8 +40528,10 @@ dyspeptic
 dyspeptics
 dysplasia
 dysplastic
+dyspraxia
 dysprosium
 dysprosium's
+dysregulation
 dystopia
 dystopia's
 dystopias
@@ -40321,11 +40574,13 @@ Düsseldorf
 e
 e'en
 e'er
+e-billing
 e-book
 e-books
 e-business
 e-card
 e-cards
+e-cash
 e-cigarette
 e-cigarettes
 e-commerce
@@ -40333,6 +40588,9 @@ e-crime
 e-crimes
 e-criminal
 e-criminals
+e-dating
+e-edition
+e-fit
 e-mail
 e-mail's
 e-mails
@@ -40594,6 +40852,7 @@ eavesdropper's
 eavesdropped
 eavesdrops
 eavesdropping
+EB
 eBay
 eBayer
 eBayers
@@ -40702,7 +40961,14 @@ ecocide's
 ecoclimate
 ecoclimate's
 ecoclimates
+ecofeminism
+ecofeminist
+ecofeminists
+ecofreak
+ecofreaks
 Ecole
+ecolodge
+ecolodges
 ecology
 ecological
 ecologies
@@ -40774,6 +41040,8 @@ ectoparasitic
 ectopic
 ectoplasm
 ectoplasm's
+ecu
+ecus
 Ecuador
 Ecuador's
 Ecuadoran
@@ -40802,6 +41070,8 @@ Edam
 edaphosaurus
 edaphosauruses
 Eddie
+Eddington
+Eddington's
 eddy
 eddied
 eddying
@@ -40972,6 +41242,8 @@ educationalists
 educationalists
 educationalist's
 educationalist
+educationist
+educationists
 educator
 educator's
 educators
@@ -41597,7 +41869,12 @@ electromagnetisms
 electromagnetism's
 electromechanical
 electromechanics
+electrometer
+electrometric
+electrometry
 electromotive
+electromyogram
+electromyograms
 electromyographic
 electromyographically
 electron
@@ -41610,8 +41887,11 @@ electronic
 electronics
 electronics
 electronics's
+electrophorese
 electrophoresis
 electrophoresis's
+electrophoretic
+electrophoretically
 electrophorus
 electrophorus's
 electrophysiological
@@ -41774,6 +42054,7 @@ eliminator
 eliminator's
 eliminators
 Eliot
+Eliot's
 Elisa
 Elisa's
 Elisabeth
@@ -42098,6 +42379,9 @@ emblem
 emblematic
 emblems
 emblem's
+emblematical
+emblematically
+emblematist
 embodier
 embodier's
 embodiment
@@ -42284,6 +42568,8 @@ Emma
 Emmanuel
 Emmett
 Emmett's
+Emmy
+Emmys
 emollient
 emollients
 emolument
@@ -42788,6 +43074,7 @@ endemicity
 endemism
 endgame
 endgame's
+endgames
 Endicott
 ending's
 ending
@@ -43527,6 +43814,8 @@ entry's
 entry
 re-entry
 entries
+entryphone
+entryphones
 entryway
 entryways
 entryway's
@@ -44234,9 +44523,14 @@ erythrocyte
 erythrocytes
 erythrocyte's
 Es
+ESA
+ESA's
 Esau
+ESC
+escabeche
 escadrille
 escadrille's
+escalade
 escalate
 de-escalate
 escalated
@@ -44752,6 +45046,8 @@ Eurostar
 Eurotrash
 Eurovision
 eurozone
+euryapsid
+euryapsids
 Eurydice
 Eurydice's
 Eurythmics
@@ -44765,7 +45061,9 @@ eutectoid
 euthanasia
 euthanasias
 euthanasia's
+eutrophic
 Eva
+evacuant
 evacuate
 evacuative
 evacuation
@@ -45046,6 +45344,8 @@ ex-president
 ex-students
 ex-wife
 ex-wives
+exabyte
+exabytes
 exacerbate
 exacerbation
 exacerbations
@@ -46420,15 +46720,21 @@ extraditions
 extradition's
 extrados
 extragalactic
+extrajudicial
+extrajudicially
 extralegal
 extralegally
 extralinguistic
 extramarital
 extramural
+extramusical
 extraneous
 extraneousness
 extraneousness's
 extraneously
+extranet
+extranets
+extraordinaire
 extraordinary
 extraordinariness
 extraordinariness's
@@ -46461,6 +46767,9 @@ extravagantly
 extravaganza
 extravaganza's
 extravaganzas
+extravasate
+extravasated
+extravascular
 extravehicular
 extravert's
 extrema
@@ -46642,6 +46951,10 @@ fable
 fa
 fa's
 FAA
+fab
+fabs
+fabbing
+fabbed
 Faber
 Faber's
 Fabergé
@@ -47524,6 +47837,7 @@ fatness
 fatnesses
 fatso
 fatso's
+fatsos
 fatten
 fattened
 fattening
@@ -48333,6 +48647,7 @@ fibrillation's
 fibrin
 fibrins
 fibrin's
+fibrinogen
 fibroblast
 fibroblast's
 fibroblasts
@@ -49132,6 +49447,8 @@ fish-ponds
 fish-pond's
 fish-tanks
 fish
+fishable
+fishability
 fished
 fisher
 fishers
@@ -49249,6 +49566,7 @@ fitfulness
 fitfulness's
 fitfulness
 fitfulnesses
+fitment
 fitments
 fitness
 fitnesses
@@ -49285,6 +49603,8 @@ fivefold
 five's
 fiver
 fiver's
+fivesome
+fivestones
 fix
 prefix
 fixed
@@ -49616,6 +49936,8 @@ flatfish's
 flatfoot
 flatfoot's
 flatfoots
+Flathead
+Flatheads
 flathead
 flatheads
 flatland
@@ -49837,6 +50159,7 @@ inflexible
 flexibly
 flexibly
 inflexibly
+flexicuffs
 flexitarian
 flexitarians
 flexitime
@@ -50369,6 +50692,7 @@ flutters
 fluttery
 fluttered
 fluttering
+fluvial
 flux's
 influx's
 flux
@@ -51780,6 +52104,7 @@ fr
 fracas
 fracases
 fracas's
+fracking
 fractal
 fractals
 fractal's
@@ -52704,6 +53029,10 @@ fucking
 fuckings
 fuckable
 fuckability
+fuckhead
+fuckheads
+fuckwit
+fucoxanthin
 FUD
 fuddle
 fuddling
@@ -52926,6 +53255,7 @@ funereal
 funereally
 funfair
 funfair's
+funfairs
 fungal
 fungals
 fungi
@@ -53361,7 +53691,11 @@ gal's
 gala
 galas
 gala's
+galactagogue
+galactagogues
 galactic
+galactically
+galactose
 Galahad
 galangal
 galantine
@@ -53621,6 +53955,7 @@ gangrene's
 gangrening
 gangrenous
 gangsta
+gangstas
 gangster
 gangsters
 gangster's
@@ -53628,6 +53963,7 @@ gangsterism
 gangway
 gangway's
 gangways
+ganja
 gannet
 gannet's
 gannets
@@ -53830,6 +54166,8 @@ gashing
 gasher
 gashest
 gashes
+gasholder
+gasholders
 gasification
 gasification's
 gasify
@@ -53846,15 +54184,20 @@ gasket
 gaskets
 gasket's
 gaslight
+gaslighting
 gaslighted
 gaslight's
 gaslights
+gaslit
+gasman
+gasmen
 gasohol
 gasohols
 gasoline
 gasoline's
 gasometer
 gasometer's
+gasometers
 gasp
 gasps
 gasper
@@ -53884,6 +54227,8 @@ gastritides
 gastritis
 gastritises
 gastritis's
+gastrocnemii
+gastrocnemius
 gastroenteritides
 gastroenteritis
 gastroenteritis's
@@ -54035,6 +54380,8 @@ gavottes
 gavotte's
 gavotted
 gavotting
+Gawd
+gawd
 gawk
 gawked
 gawkiness
@@ -54091,8 +54438,8 @@ gazpacho
 gazpachos
 gazpacho's
 Gazza
-Gb
 GB
+Gb
 Gbps
 GCSE
 GCSE's
@@ -54119,6 +54466,7 @@ Geary
 gecko
 gecko's
 geckos
+geddit
 gee-gee
 gee-gees
 gee-gee's
@@ -54541,8 +54889,8 @@ Georges
 George's
 Georgetown
 Georgetown's
-georgette
 Georgette
+georgette
 Georgia
 Georgia's
 Georgian
@@ -54583,6 +54931,8 @@ gerbils
 Gerhard
 geriatric
 geriatrics
+geriatrician
+geriatricians
 geriatrics
 geriatrics's
 germ
@@ -54854,9 +55204,14 @@ gigantically
 gigantism
 gigapixel
 gigapixels
+gigaton
+gigatons
+gigatonne
+gigatonnes
 gigavolt
 gigawatt
 gigawatt's
+gigawatts
 giggle
 giggler
 gigglers
@@ -55015,6 +55370,7 @@ girlishness
 girlishnesses
 giro
 giro's
+giros
 girt
 girth
 girthing
@@ -55525,6 +55881,7 @@ glutamic
 glutamine
 glutathione
 gluteal
+gluteals
 glutei
 gluten
 glutens
@@ -55572,8 +55929,8 @@ glyph
 glyph's
 glyphs
 gm
-gmail
 Gmail
+gmail
 GMO
 GMOs
 GMT
@@ -55711,9 +56068,11 @@ gods
 god's
 godly
 godless
+godawful
 godchild
 godchild's
 godchildren
+goddammit
 Goddard
 Goddard's
 goddess
@@ -55735,8 +56094,7 @@ godhood's
 godless
 godlessness
 godlessness's
-godlessness
-godlessnesses
+godlessly
 godlier
 ungodlier
 godlike
@@ -55921,11 +56279,14 @@ goodbyes
 gooder
 gooders
 goodhearted
+goodie
 goodie's
 goodish
 goodly
 goodlier
 goodliest
+goodliness
+goodliness's
 Goodman
 goodness
 goodnesses
@@ -56076,8 +56437,11 @@ gossip's
 gossiper
 gossipers
 gossipy
+gossypol
 got
 ingot
+gotcha
+gotcher
 Goth
 Gothically
 Gothic
@@ -56832,6 +57196,7 @@ greenfinches
 greenfinch's
 greenfly
 greenfly's
+greenflies
 greengage
 greengage's
 greengages
@@ -57261,6 +57626,7 @@ groundbaiting
 groundbreaker
 groundbreakers
 groundbreaking
+groundburst
 grounded
 ungrounded
 groundless
@@ -57298,6 +57664,8 @@ groups
 regroups
 groupset
 groupsets
+groupware
+groupware's
 grouse
 grouser
 grousers
@@ -57962,6 +58330,7 @@ guzzlers
 guzzler's
 guzzling
 guzzles
+GW
 Gwangju
 Gwen
 Gwent
@@ -57993,6 +58362,8 @@ gymnastics's
 gymnosperm
 gymnosperms
 gymnosperm's
+gymslip
+gymslips
 gynaecological
 gynaecological's
 gynaecologicals
@@ -58237,6 +58608,8 @@ Hagen
 Hagen's
 Hager
 Hager's
+hagfish
+hagfishes
 Haggai
 haggard
 haggardness
@@ -58350,6 +58723,7 @@ hairpin's
 hairsbreadth
 hairsbreadths
 hairspray
+hairsprays
 hairspring
 hairsprings
 hairspring's
@@ -59345,6 +59719,8 @@ hashing's
 hashish
 hashish's
 hashishes
+hashtag
+hashtags
 Haskell
 Haskins
 hasn't
@@ -60330,6 +60706,8 @@ hemicycles
 hemicylindrical
 hemidemisemiquaver
 hemidemisemiquavers
+hemimetabolic
+hemimetabolous
 Hemingway
 hemisphere
 hemispheres
@@ -60398,6 +60776,7 @@ hepatics
 hepatitides
 hepatitis
 hepatitis's
+hepatocellular
 heptagon
 heptagon's
 heptagons
@@ -60879,6 +61258,7 @@ highly
 highbrow
 highbrow's
 highbrows
+higher-level
 highfalutin
 Highfield
 Highgate
@@ -64223,6 +64603,7 @@ immunities
 immunity's
 immunoassay
 immunoassay's
+immunoblotting
 immunodeficiency
 immunodeficiencies
 immunodeficient
@@ -64851,6 +65232,9 @@ inboard
 inborn
 inbound
 inbox
+inbreathe
+inbreathed
+inbreathing
 inbred
 inbreed
 inbreeds
@@ -67025,8 +67409,8 @@ interchangeableness
 interchangeableness's
 interchanger
 interchanger's
-intercity
 InterCity
+intercity
 interclass
 intercohort
 intercollegiate
@@ -67068,13 +67452,20 @@ intercooled
 intercooler
 intercoolers
 intercooler's
+intercorrelate
 intercorrelated
+intercorrelation
+intercorrelations
 intercostal
 intercostally
 intercostals
 intercourse
 intercourse's
 intercourses
+intercrop
+intercrops
+intercropping
+intercropped
 intercross
 intercrosses
 intercrossing
@@ -67686,6 +68077,8 @@ intrasectoral
 intrastate
 intratissue
 intrauterine
+intravascular
+intravascularly
 intravenous
 intravenouses
 intravenously
@@ -68783,10 +69176,15 @@ jailbird
 jailbirds
 jailbird's
 jailbreak
+jailbreaker
+jailbreakers
+jailbreaker's
 jailbreaks
 jailbreak's
 Jaime
 Jaime's
+Jain
+Jains
 Jainism
 Jaipur
 Jakarta
@@ -68924,6 +69322,7 @@ javelin
 javelin's
 javelins
 jaw
+jawless
 jaw's
 jawed
 jawing
@@ -70151,8 +70550,8 @@ Kazakhstan's
 kazoo
 kazoos
 kazoo's
-kb
 kB
+kb
 kbps
 kbyte
 kbytes
@@ -70250,6 +70649,7 @@ kenned
 Kendal
 Kendall
 Kendall's
+kendo
 Kenilworth
 Kennedy
 kennel
@@ -71198,6 +71598,8 @@ Kuala
 Kuala's
 Kublai
 Kubrick
+Kubuntu
+Kubuntu's
 kudos
 kudos's
 kudzu
@@ -71243,6 +71645,8 @@ Kyoto
 Kyoto's
 Kyrgyzstan
 Kyrgyzstan's
+kyu
+kyudo
 Kyushu
 Kyushu's
 l
@@ -71599,6 +72003,7 @@ lamentation
 lamentation's
 lamented
 unlamented
+lamers
 lamina
 lamina's
 lamination
@@ -71844,6 +72249,7 @@ lapidary's
 lapin
 lapin's
 lapins
+lapis
 Laplace
 Lapland
 Laplander
@@ -73093,8 +73499,8 @@ leotard's
 leper
 lepers
 leper's
-lepidoptera
 Lepidoptera
+lepidoptera
 lepidopteran
 lepidopterans
 lepidopterous
@@ -73284,10 +73690,10 @@ lewdly
 lewdness
 lewdnesses
 Lewes
-lewis
-lewis's
 Lewis
 Lewis's
+lewis
+lewis's
 Lewisham
 lexeme
 lexeme's
@@ -75413,6 +75819,7 @@ Lowery
 Lowell
 lower-case
 lower-class
+lower-level
 lower
 lowers
 lowered
@@ -75859,6 +76266,7 @@ lutes
 luting
 lute's
 luted
+lutein
 lutenist
 lutenists
 lutenist's
@@ -76124,10 +76532,10 @@ Mackie
 mackintosh
 mackintoshes
 mackintosh's
-Macmillan
-Macmillan's
 MacMillan
 MacMillan's
+Macmillan
+Macmillan's
 Macon
 MacOS
 macramé
@@ -76495,6 +76903,7 @@ maillot
 maillots
 maillot's
 mailshot
+mailshots
 Mailänder
 maim
 maimer
@@ -76507,8 +76916,11 @@ maimedness's
 main
 mains
 remain
+mainboard
+mainboards
 mainbrace
 mainbrace's
+maincrop
 Maine
 mainframe
 mainframes
@@ -77145,6 +77557,7 @@ mannishness's
 mannishly
 mannishness
 mannishnesses
+mannose
 manoeuvrability
 manoeuvrabilities
 manoeuvrability's
@@ -77296,6 +77709,8 @@ marred
 marring
 marry
 Mara
+mara
+maras
 marabou
 marabous
 marabou's
@@ -78785,6 +79200,8 @@ meeker
 meekest
 meekness
 meeknesses
+meerkat
+meerkats
 meerschaum
 meerschaum's
 meerschaums
@@ -79125,6 +79542,9 @@ meningitic
 meningitides
 meningitis
 meningitis's
+meningococcal
+meningococci
+meningococcus
 meninx
 menisci
 meniscus
@@ -80937,8 +81357,19 @@ misdemeanant
 misdemeanants
 misdemeanant's
 misdemeanour's
+misdescribe
+misdescribes
+misdescribed
+misdescription
+misdial
+misdials
+misdialling
+misdialled
 misdirect
 misdirector
+misdoubt
+misdoubts
+misdoubted
 miser
 miserly
 miserable
@@ -80956,6 +81387,10 @@ miserliness's
 misery
 misery's
 miseries
+misestimate
+misestimated
+misestimation
+misestimations
 misfeasance
 misfeasances
 misfeasance's
@@ -81101,6 +81536,7 @@ mistime
 mistiming
 mistiness
 mistinesses
+mistle
 mistletoe
 mistletoes
 mistletoe's
@@ -81678,6 +82114,8 @@ monad's
 monadic
 Monaghan
 Monaghan's
+monamine
+monamines
 monarch
 monarchists
 monarchists
@@ -81832,6 +82270,8 @@ mono's
 monist
 monists
 monist's
+monoamine
+monoamines
 monochrome
 monochrome's
 monochromes
@@ -81996,6 +82436,8 @@ monotony
 monotonies
 monotony's
 monotype
+monotypic
+monovalent
 monoxide
 monoxide's
 monoxides
@@ -82538,6 +82980,7 @@ motherly
 motherboard
 motherboard's
 motherboards
+mothercraft
 motherer
 motherers
 motherhood
@@ -82932,6 +83375,9 @@ Mozes
 Mozes's
 Mozilla
 Mozilla's
+Mozillian
+Mozillians
+Mozillian's
 mozzarella
 mozzarella's
 mozzarellas
@@ -82950,8 +83396,8 @@ Mr
 Mr's
 MRI
 Mrs
-Ms
 ms
+Ms
 mSATA
 MSc
 MSN
@@ -83309,6 +83755,9 @@ multiplication
 multiplications
 multiplying
 multipoint
+multipolar
+multipolarity
+multipole
 multiprocess
 multiprocessing
 multiprocessor
@@ -85087,6 +85536,7 @@ netball's
 netbook
 netbook's
 netbooks
+Netflix
 nether
 Netherlander
 Netherlanders
@@ -85162,6 +85612,9 @@ neurologist's
 neurology's
 neurologies
 neurological
+neuroma
+neuromas
+neuromata
 neuromuscular
 neuron
 neurons
@@ -85172,10 +85625,18 @@ neurones
 neuropath
 neuropathic
 neuropaths
+neuropathological
+neuropathologist
+neuropathologists
 neuropathology
 neuropathology's
 neuropathy
 neuropathies
+neuropeptide
+neuropeptides
+neurophysiological
+neurophysiologist
+neurophysiologists
 neurophysiology
 neurophysiology's
 neuropsychiatric
@@ -85987,6 +86448,8 @@ nomad's
 nomads
 Nome
 Nome's
+nomenclator
+nomenclatural
 nomenclature
 nomenclature's
 nomenclatures
@@ -86158,6 +86621,7 @@ non-disclosures
 non-discrimination
 non-discriminations
 non-discriminatory
+non-disjunction
 non-dramatic
 non-drinker
 non-drinkers
@@ -86488,6 +86952,7 @@ nonage's
 nonagenarian
 nonagenarian's
 nonagenarians
+nonagon
 nonary
 nonce
 nonces
@@ -86663,14 +87128,14 @@ Norseman's
 Norsemen's
 Nortel
 Nortel's
-north-East
-north-East's
 north-east
 north-east's
-north-Easterly
+north-East
+north-East's
 north-easterly
-north-eastern
+north-Easterly
 north-Eastern
+north-eastern
 north-eastward
 north-eastwards
 north-Eastward
@@ -86680,10 +87145,10 @@ north-south
 north-west's
 north-West
 north-West's
-north-westerly
 north-Westerly
-north-Western
+north-westerly
 north-western
+north-Western
 north-westward
 north-westwards
 north-Westward
@@ -88430,6 +88895,8 @@ oligopolistic
 oligopoly
 oligopolies
 oligopoly's
+oligotrophy
+oligotrophic
 Olin
 Olin's
 olive
@@ -89920,12 +90387,28 @@ overcapacity
 overcapitalise
 overcareful
 overcast
+overcaution
 overcautious
+overcautiously
+overcautiousness
+overcautiousness's
 overcerebral
+overcheck
+overchecks
+overclass
+overclock
+overclocked
+overclocking
+overclocks
+overclocker
+overclockers
+overclocker's
 overcloud
 overcome
-overcomits
 overcommit
+overcommits
+overcompensatingly
+overcompensatory
 overconscientious
 overcorrection
 overcritical
@@ -90090,7 +90573,12 @@ oviduct
 oviducts
 oviduct's
 oviform
+oviparity
 oviparous
+oviposit
+oviposits
+oviposited
+ovipositing
 ovoid
 ovoids
 ovotestes
@@ -90221,6 +90709,8 @@ oxygenation's
 oxyhydroxides
 oxymoron
 oxymoron's
+oxytocic
+oxytocin
 oyster
 oyster's
 oysters
@@ -90988,9 +91478,13 @@ pantomime's
 pantomimed
 pantomiming
 pantomimic
+pantoum
+pantoums
 pantry
 pantry's
 pantries
+pantryman
+pantrymen
 pants
 underpants
 Panza
@@ -92024,6 +92518,11 @@ pathologists
 pathologist's
 pathological
 pathologically
+pathophysiologic
+pathophysiological
+pathophysiologically
+pathophysiologist
+pathophysiology
 pathos
 pathoses
 pathos's
@@ -92304,6 +92803,7 @@ PC
 PC's
 PCB
 PCI
+PCIe
 pcm
 PCMCIA
 PCs
@@ -93803,7 +94303,11 @@ petalled
 petard
 petard's
 petards
+petasus
+petcock
 Pete
+petechia
+petechiae
 peter
 petered
 petering
@@ -93817,6 +94321,7 @@ Peterhead's
 Peterhouse
 peterman
 petermen
+Petersburg
 petersham
 pethidine
 pethidine's
@@ -93972,6 +94477,8 @@ pharmaceutical
 pharmaceuticals
 pharmaceutically
 pharmaceutics
+pharmacodynamic
+pharmacodynamics
 pharmacology
 pharmacologist
 pharmacologists
@@ -94774,6 +95281,8 @@ pilferage
 pilferage's
 pilferages
 pilgrim
+pilgrimed
+pilgriming
 pilgrim's
 pilgrims
 pilgrimage
@@ -94781,6 +95290,8 @@ pilgrimage's
 pilgrimages
 pilgrimaged
 pilgrimaging
+pilgrimise
+pilgrimize
 piling
 piling's
 pilings
@@ -95535,6 +96046,7 @@ plasticine
 plasticity
 plasticities
 plasticity's
+plasticuffs
 plat
 plater
 platers
@@ -96071,8 +96583,8 @@ plutocrats
 plutocrat's
 plutocratic
 Plutonian
-plutonic
 Plutonic
+plutonic
 plutonium
 plutonium's
 pluvial
@@ -96158,6 +96670,7 @@ podded
 pod's
 podding
 podcast
+podcasts
 podcastable
 podcastability
 podcaster
@@ -98246,6 +98759,16 @@ premières
 premièred
 premièring
 première's
+premodify
+premodifies
+premodifying
+premodified
+premodification
+premodifier
+premodifiers
+premodifier's
+premonish
+premonishing
 premonitory
 prenatal
 prenatally
@@ -98425,12 +98948,12 @@ presiding
 presidency
 presidency's
 presidencies
-president
-president's
-presidents
 President
 President's
 Presidents
+president
+president's
+presidents
 Presidential
 presidential
 presidentially
@@ -99421,6 +99944,7 @@ projectors
 projector's
 Prokofiev
 Prokofiev's
+prolactin
 prolapse
 prolapsing
 prolapses
@@ -99888,6 +100412,7 @@ prosody
 prosodic
 prosodies
 prosody's
+prosoma
 prospect
 prospected
 prospects
@@ -101850,6 +102375,7 @@ quicksteps
 quickstep's
 quickstepping
 quickstepped
+QuickTime
 quid
 quids
 quid's
@@ -105894,6 +106420,8 @@ retro
 retroactive
 retroactively
 retrocession
+retroelement
+retroelements
 retrofire
 retrofires
 retrofire's
@@ -106677,6 +107205,8 @@ ringsider
 ringsiders
 ringsider's
 ringsides
+ringtone
+ringtones
 ringworm
 ringworms
 ringworm's
@@ -106874,6 +107404,7 @@ Riyadh's
 riyal
 riyals
 riyal's
+RJ45
 RMI
 Rn
 Rn's
@@ -107057,6 +107588,8 @@ rocketing
 rocketry
 rockets
 rocket's
+rocketeer
+rocketeers
 rocketry
 rocketries
 rocketry's
@@ -107077,6 +107610,7 @@ Rockville
 Rockville's
 Rockwell
 Rockwell's
+rockwork
 rocky
 rockier
 rockiest
@@ -107308,6 +107842,8 @@ Ronald's
 Ronan
 Ronda
 Ronda's
+rondel
+rondels
 rondo
 rondos
 rondo's
@@ -107843,6 +108379,7 @@ rubella
 Ruben
 Ruben's
 Rubens
+rubescent
 Rubicon
 Rubicon's
 rubicund
@@ -108738,8 +109275,12 @@ Salvador
 Salvador's
 Salvadoran
 Salvadorans
+Salvadorean
+Salvadoreans
+Salvadorean's
 Salvadorian
 Salvadorians
+Salvadorian's
 salvage
 salvaging
 salvage's
@@ -109478,6 +110019,7 @@ rescale
 scaling
 scales
 scale's
+scaleable
 scaled
 unscaled
 scalene
@@ -110568,6 +111110,8 @@ scurryings
 scurvy
 scurvies
 scurvily
+scute
+scutes
 scuttle
 scuttle's
 scuttling
@@ -111412,6 +111956,7 @@ self-winding
 self-worth
 self
 selfless
+selfhood
 selfie
 selfies
 selfish
@@ -112065,6 +112610,7 @@ sermonized
 sermonizing
 sermons
 sermon's
+serogroup
 serology
 serological
 serologically
@@ -112168,6 +112714,8 @@ sessile
 session
 session's
 sessions
+sestina
+sestinas
 set-aside
 set-up
 set-ups
@@ -114091,6 +114639,11 @@ silicate
 silicate's
 silicates
 siliceous
+silicify
+silicifies
+silicifying
+silicified
+silicification
 silicon
 silicon's
 silicone
@@ -116534,6 +117087,7 @@ solenoid's
 solenoidal
 soles
 insoles
+soleus
 solicit
 solicited
 soliciting
@@ -117046,8 +117600,8 @@ souse
 south-east
 south-East
 south-East's
-south-easterly
 south-Easterly
+south-easterly
 south-eastern
 south-Eastern
 south-Eastward
@@ -117671,8 +118225,11 @@ non-spermatid
 spermatidal
 spermatocyte
 spermatocytes
+spermatogenesis
 spermatogonia
 spermatogonium
+spermatophore
+spermatophores
 spermatophyte
 spermatophyte's
 spermatozoa
@@ -117984,6 +118541,8 @@ splicers
 splicer's
 splices
 splicings
+spliff
+spliffs
 spline
 spline's
 splined
@@ -119196,6 +119755,7 @@ stashes
 stashed
 stasis
 stasis's
+statant
 state's
 state-of-the-art
 state
@@ -121122,6 +121682,8 @@ subatomic
 subcategory
 subcategories
 subcategory's
+subcell
+subcellular
 subclass
 subclass's
 subclasses
@@ -122149,6 +122711,8 @@ sunroof
 sunroofs
 sunscreen
 sunscreens
+sunseeker
+sunseekers
 sunset
 sunsets
 sunset's
@@ -122202,6 +122766,9 @@ superbness
 superbness's
 superbly
 superbug
+superbugs
+supercalifragilistic
+supercalifragilisticexpialidocious
 supercargo
 supercargo's
 supercargoes
@@ -122561,6 +123128,7 @@ suppurating
 suppuration
 suppuration's
 supra
+supralunar
 supramolecular
 supranational
 supranationally
@@ -122571,6 +123139,7 @@ supraorbital
 suprarenal
 suprasegmental
 suprasegmentals
+supratemporal
 supremacism
 supremacy
 supremacist
@@ -122671,6 +123240,8 @@ surgeries
 surgery's
 surgical
 surgically
+suricate
+suricates
 Surinam
 Surinam's
 Suriname
@@ -123953,6 +124524,8 @@ tagged
 untagged
 tagger
 taggers
+tagma
+tagmata
 Tahiti
 Tahiti's
 Tahitian
@@ -124000,9 +124573,14 @@ tailpipe
 tailpipe's
 tailpipes
 tailplane
+tailplanes
 tailspin
+tailspinning
 tailspins
 tailspin's
+tailspun
+tailwater
+tailwaters
 tailwheel
 tailwind
 tailwinds
@@ -124164,6 +124742,8 @@ Tamara's
 tamarack
 tamarack's
 tamaracks
+tamarin
+tamarins
 tamarind
 tamarinds
 tamarind's
@@ -124677,6 +125257,7 @@ taxings
 taxing
 taxable
 taxed
+taxa
 taxable
 taxables
 taxation
@@ -124709,6 +125290,7 @@ overtaxing
 taxiway
 taxiway's
 taxiways
+taxon
 taxonomy
 taxonomically
 taxonomist
@@ -128197,6 +128779,7 @@ trackballs
 trackbed
 tracked
 untracked
+trackpad
 tracksuit
 tracksuit's
 tracksuits
@@ -129167,6 +129750,7 @@ tricolours
 tricoloured
 tricolour's
 tricot
+tricuspid
 tricycle
 tricycling
 tricycles
@@ -129288,6 +129872,8 @@ trio's
 triode
 triodes
 triode's
+triolet
+triolets
 trioxide
 trioxide's
 trip
@@ -130915,7 +131501,6 @@ under-represent
 under-secretary
 under-secretaries
 under-secretary's
-under-sheriff
 underactive
 underage
 underarm
@@ -130984,6 +131569,10 @@ underrating
 underrates
 underrated
 undersea
+underset
+undersets
+undersetting
+undersheriff
 undershot
 undersigned
 undersigned's
@@ -131187,6 +131776,7 @@ Unicode's
 unicorn
 unicorns
 unicorn's
+unicuspid
 unicycle
 unicycled
 unicycle's
@@ -131271,13 +131861,24 @@ unions
 disunions
 reunions
 unipolar
+unipolarity
+unipotent
 uniprocessor
 unique
 uniquely
 uniqueness
+unironed
+unironic
+unironically
+uniserial
 unisex
+unisexual
+unisexually
+unisexuality
+UNISON
 unison
 unisons
+unissued
 Unisys
 Unisys's
 unit
@@ -131692,6 +132293,14 @@ unutterable
 unutterably
 unvaccinated
 unvalidated
+unvaryingness
+unvented
+unviability
+unviable
+unviolated
+unvitiated
+unwaged
+unwaisted
 unwarrantable
 unwarrantably
 unwell
@@ -132131,6 +132740,8 @@ uteri
 uterine
 uterus
 uterus's
+UTF-16
+UTF-32
 UTF-8
 Utica
 Utica's
@@ -132741,6 +133352,7 @@ Veda's
 Vedas
 Vedanta
 Vedanta's
+Vedic
 veer
 veered
 veering
@@ -132756,6 +133368,7 @@ Vegemite
 vegetable
 vegetable's
 vegetables
+vegetal
 vegetarian
 vegetarians
 vegetarian's
@@ -133157,6 +133770,9 @@ unversed
 verses
 transverses
 inverses
+verset
+versets
+versicoloured
 versification
 versification's
 versify
@@ -133170,6 +133786,10 @@ versification
 versifications
 versified
 version
+non-version
+versional
+versioned
+versioning
 version's
 inversion
 conversion
@@ -133373,25 +133993,25 @@ vicariously
 vicariousness
 vice anglais
 Vice's
-vice-Chancellor
-vice-Chancellors
-vice-Chancellor's
 vice-chancellor
 vice-chancellors
 vice-chancellor's
+vice-Chancellor
+vice-Chancellors
+vice-Chancellor's
 vice-chancellorship
 vice-chancellorships
 vice-Chancellorship
 vice-Chancellorships
 vice-like
-vice-president
-vice-presidents
-vice-president's
 vice-President
 vice-Presidents
 vice-President's
-vice-Presidential
+vice-president
+vice-presidents
+vice-president's
 vice-presidential
+vice-Presidential
 vice
 device
 vices
@@ -133644,6 +134264,8 @@ villainously
 villainy
 villainies
 villainy's
+villanelle
+villanelles
 Villanovan
 Villanovan's
 villein
@@ -134534,6 +135156,8 @@ Wahhabi
 waif
 waif's
 waifs
+waifish
+waiflike
 Waikato
 Waikato's
 Waikiki
@@ -135098,7 +135722,12 @@ waterbird
 waterbirds
 Waterbury
 Waterbury's
+watercock
+watercocks
 watercolour
+watercolourists
+watercolourists
+watercolourist's
 watercolour's
 watercolours
 watercourse
@@ -135107,6 +135736,8 @@ watercourses
 watercraft
 watercress
 watercress's
+waterdog
+waterdogs
 waterfall
 waterfalls
 waterfall's
@@ -135741,10 +136372,10 @@ Westbrook
 Westbrook's
 Westchester
 Westchester's
-westerly
-westerlies
 Westerly
 Westerlies
+westerly
+westerlies
 Western
 western
 westernisation
@@ -137770,6 +138401,7 @@ xylophones
 xylophone's
 xylophonist
 xylophonists
+xylose
 y'all
 y-axis
 y
@@ -137883,6 +138515,7 @@ yawper
 yawpers
 yawper's
 yay
+YB
 yd
 ye
 yea
@@ -138044,6 +138677,8 @@ Yoruba
 Yosemite
 Yost
 Yost's
+yottabyte
+yottabytes
 you
 you'd
 you'll
@@ -138154,9 +138789,11 @@ zappier
 zappiest
 ZAPU
 Zarathustra
+Zarathustra's
 Zarathustrian
 Zarathustrians
 Zawahiri
+ZB
 zeal
 zeal's
 Zealand
@@ -138212,6 +138849,7 @@ zeta
 zetas
 Zetland
 zettabyte
+zettabytes
 zeugma
 zeugma's
 Zeus
@@ -138286,6 +138924,8 @@ Zoe's
 zombie
 zombies
 zombie's
+zonation
+zonations
 zone's
 zone
 rezone
@@ -138328,6 +138968,7 @@ Zurich's
 zwieback
 zwieback's
 zwiebacks
+ZX
 zygote
 zygotes
 zygotic

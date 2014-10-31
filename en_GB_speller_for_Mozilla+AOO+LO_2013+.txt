@@ -5113,7 +5113,7 @@ V2.17
 4475) idiotype (+plural)
 
 
-V2.18 (ongoing)
+V2.18
 --------------
 2-OCT-2014
 4476) mothercraft
@@ -5578,6 +5578,8 @@ V2.18 (ongoing)
 4904) fishable (merged into fish)
 4905) hemimetabolous
 4906) hemimetabolic
+4907) DLL (+plural)
+4908) aerophagy
 ===============
 
 
