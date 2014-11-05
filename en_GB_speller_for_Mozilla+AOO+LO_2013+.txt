@@ -5580,9 +5580,158 @@ V2.18
 4906) hemimetabolic
 4907) DLL (+plural)
 4908) aerophagy
+
+
+V2.19 (ongoing)
+--------------
+3-NOV-2014
+4909) Zuckerberg (+'s -  name)
+4910) XL
+4911) XXL
+4912) Facebooking (+ed +er +ers - merged into Facebook)
+4913) convocational
+4914) convolutional (merged into convolution)
+4915) denticle (+plural)
+4916) reticulary (Collins - another way for reticulate)
+4917) cephalopods (added plural)
+4918) crinoid (+plural)
+4919) brachiopod (+plural)
+4920) conodont (+plural)
+4921) intracompany (Collins)
+4922) agglutinogen (+plural)
+4923) downdrift
+4924) downcut (+s +ing)
+4925) upcurve (+ed - Collins + Oxford)
+4926) upcycle (+ed)
+4927) upcast
+4928) faceworker
+4929) homeworking (merged into homework)
+4930) homewrecker (+plural)
+4931) teleworker (+plural - Macmillan)
+4932) jack-o'-lantern (+plural)
+4933) jackanapes
+4934) goosefoot (+plural)
+4935) sumpweed (Collins)
+4936) sandbagger (+plural)
+4937) shopfront (+plural)
+4938) shopaholic (+plural)
+4939) shopfitter (+plural)
+4940) shopfitting
+4941) boutiquey (Oxford: informal)
+4942) Baphomet (Collins)
+4943) baphometic (Collins)
+4944) Mendes (name)
+4945) Judaeo-Christian (Collins)
+4946) magus
+4947) Szandor (name)
+4948) cosmopolite (+plural)
+4949) cosmopolitanize (+ed -IZE)
+4050) cosmopolitanise (+ed -ISE)
+4051) spacewalks (added plural)
+4052) spaceplane (+plural)
+4053) spacefaring
+
+4-NOV-2014
+4054) Lilith (+'s - name)
+4055) Samael (+'s - name)
+4056) clubmate (+plural)
+4057) curtilage (+plural)
+4058) circumstantiality
+4059) disburden
+4060) disbud (+s +ing +ed)
+4061) disbenefit (+plural)
+4062) disbound
+4063) basketmaker (+plural)
+4064) basketmaking
+4065) gadgeteer (+plural)
+4066) gadgety
+4067) cabbalistic
+4068) cabbalist (+plural)
+4069) cabbalism
+4070) Kabbalah + Kabbala + Cabbala + Qabalah
+4071) Kabbalism
+4072) Kabbalist (+plural)
+4073) Kabbalistic
+4074) Hasidism + Chasidism + Chassidism + Hassidism
+4075) copyread (+ing +er)
+4076) hardbody (+plural +ed)
+4077) Hardecanute (+'s - name)
+4078) bentonite
+4079) citrine
+4080) ricking + ricked (merged into rick)
+4081) cowfish (+plural)
+4082) diffusivities (added plural)
+4083) cal (Oxford: small calorie, abbreviation)
+4084) Cal (Oxford: large calorie, abbreviation)
+4085) multispectral
+4086) BTC (Oxford: abbreviation of bitcoin)
+4087) backbiting
+4088) deracinate (+ed)
+4089) train's (added the 's)
+4090) decoct (+ed +ing)
+4091) decocture
+4092) dibasic
+4093) monobasic
+4094) diamine (+plural)
+4095) triaxial
+4096) triatomic
+4097) triathlete (+plural)
+4098) deadeners (added plural)
+4099) copperas
+4100) spadefoot (+plural)
+4101) spadefish (+plural)
+4102) spadille
+4103) cribellum
+4104) cribella (plural of previous word)
+4105) cribellate
+4106) chelicerate (+plural)
+
+5-NOV-2014
+4107) lexicology
+4108) lexicological + lexicologically
+4109) pomodoro
+4110) unobvious (Collins)
+4111) recompress (+s +ed +ing +ion)
+4112) redistributor (+plural)
+4113) hyphenator (+plural)
+4114) refactor (+s +ed +ing)
+4115) misdistribution (Collins)
+4116) maldistribution
+4117) maldistributed
+4118) distributary (+plural)
+4119) dogwatch (+plural)
+4120) dogstail
+4121) dogskin
+4122) dogsbodies + dogsbodying (merged into dogsbody)
+4123) austenite (+ic)
+4124) Ozzies (added plural)
+4125) microstructure (+plural +al)
+4126) cementite
+4127) pearlite
+4128) contactor (+plural)
+4129) elastomers (added plural)
+4130) elastomeric
+4131) nitro (Oxford: Short for nitroglycerine)
+4132) polyolefin (Collins)
+4133) gapping
+4134) hypotaxis
+4135) hypotactic
+4136) parataxis
+4137) paratactic (+ally)
+4138) phasor (+plural)
+4139) phasic
+4140) reactance
+4141) acetanilide
+4142) orcein
+4143) cocreate (Collins)
+4144) Cota-Robles (name)
+4145) DSLR (+s +'s)
+4146) HDSLR (+s +'s)
+4147) SDK (Collins)
+4148) FreeBSD
 ===============
 
 
-British English Dictionary (Forked) 2.18
+British English Dictionary (Forked) 2.19
 by Marco A.G.Pinto
 
