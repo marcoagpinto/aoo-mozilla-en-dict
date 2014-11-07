@@ -73,7 +73,7 @@ V2.01
 31) spyware
 32) adware
 33) malware
-34) Trojan  (First letter capitalized - Oxford Dictionary)
+34) Trojan (First letter capitalized - Oxford Dictionary)
 35) Freeware
 36) rootkit (+plural)
 37) keylogger (+plural)
@@ -132,7 +132,7 @@ V2.02
 77) traineeship (Fix - it was only inserted in plural)
 78) phishing
 79) phisher (+plural)
-80) botnet  (+plural)
+80) botnet (+plural)
 81) guestbook
 82) widescreen (fix - it was inserted wide-screen)
 83) shortcut (+plural)
@@ -215,7 +215,7 @@ V2.03
 148) e-crime (+plural)
 149) e-criminal (plural)
 150) infomediary
-151) infomercial  (Oxford Dictionary says it is chiefly North American)
+151) infomercial (Oxford Dictionary says it is chiefly North American)
 152) infonaut
 153) SQL
 154) cybercafe
@@ -1914,7 +1914,7 @@ V2.11
 1605) unfeasibility
 1606) unfavourite (merged into favourite)
 1607) misconfigure (+ed)
-1608) bitmapping + bitmapped  (merged into bitmap)
+1608) bitmapping + bitmapped (merged into bitmap)
 1609) CCD
 1610) Williard (name)
 1611) neonatologist
@@ -2251,7 +2251,7 @@ V2.12
 1907) autosomal
 1908) Josh (name)
 1909) cryonic (+s +ally)
-1910)  cryopreserved (merged into  cryopreserve)
+1910) cryopreserved (merged into cryopreserve)
 1911) autotransplant (+s +ion +ed)
 1912) splenic
 1913) bacilliform
@@ -2974,7 +2974,7 @@ V2.14
 23-JUN-2014
 2567) decor (+plural)
 2568) cliche (+plural)
-2569) texted +  texting + texter + textless (merged into text)
+2569) texted + texting + texter + textless (merged into text)
 2570) merged self-consciousness into self-conscious
 2571) check-ins (added plural)
 2572) pissy (Oxford: vulgar slang)
@@ -3552,7 +3552,7 @@ V2.15
 3110) nitrazepam
 3111) nitpicky (merged into nitpick)
 3112) nitid
-3113) Niterói (Oxford:  industrial port on Brazil)
+3113) Niterói (Oxford: industrial port on Brazil)
 3114) Folkestone (fix: removed Folkstone)
 3115) barbican (+plural)
 3116) Ragusa (name)
@@ -3919,7 +3919,7 @@ V2.16
 3350) Cretans (added plural - Kevin Atkinson wordlist 60)
 3351) Byzantines (added plural)
 3352) Micmac (+plural - Kevin Atkinson wordlist 60)
-3353) aberrational (merged into aberration -  Kevin Atkinson wordlist 60)
+3353) aberrational (merged into aberration - Kevin Atkinson wordlist 60)
 3354) anywise (Kevin Atkinson wordlist 60)
 3355) armloads (added plural - Kevin Atkinson wordlist 60)
 3356) backchat (Oxford: informal - Kevin Atkinson wordlist 60)
@@ -4399,7 +4399,7 @@ V2.16
 3800) unambitiousness
 3801) unambiguity
 3802) weaponed (merged into weapon)
-3803) weaponless (merged into weapon -  Kevin Atkinson wordlist 50)
+3803) weaponless (merged into weapon - Kevin Atkinson wordlist 50)
 3804) whitefish + whitefishes + whitefish's (Kevin Atkinson wordlist 50)
 3805) wheresoever (Kevin Atkinson wordlist 50)
 3806) weeper (+s +'s - Kevin Atkinson wordlist 50)
@@ -4878,7 +4878,7 @@ V2.17
 4254) ensiform
 4255) geosyncline (+plural)
 4256) bioclast (+s +ic)
-4257) biocide (+s  +idal)
+4257) biocide (+s +idal)
 4258) antifouling
 4259) alprazolam
 4260) depredator (+plural)
@@ -5139,7 +5139,7 @@ V2.18
 4496) answerphone (+plural - Kevin Atkinson wordlist 60)
 4497) bulleted (merged into bullet)
 4498) bedchambers (added plural - Kevin Atkinson wordlist 60)
-4499) biodegrade (+s +ed +ing +ion  - Kevin Atkinson wordlist 60)
+4499) biodegrade (+s +ed +ing +ion - Kevin Atkinson wordlist 60)
 4500) blobfish (+plural)
 4501) binman (Oxford: informal - Kevin Atkinson wordlist 60)
 4502) binmen (plural of previous word - Kevin Atkinson wordlist 60)
@@ -5585,7 +5585,7 @@ V2.18
 V2.19 (ongoing)
 --------------
 3-NOV-2014
-4909) Zuckerberg (+'s -  name)
+4909) Zuckerberg (+'s - name)
 4910) XL
 4911) XXL
 4912) Facebooking (+ed +er +ers - merged into Facebook)
@@ -5729,6 +5729,72 @@ V2.19 (ongoing)
 4146) HDSLR (+s +'s)
 4147) SDK (Collins)
 4148) FreeBSD
+
+6-NOV-2014
+4149) AutoCAD (+'s)
+4150) CAD (in upper case - Oxford: short for Computer-aided design)
+4151) cadaverousness (merged into cadaverous)
+4152) CADCAM
+4153) androecium
+4154) androecia (plural of previous word)
+4155) androecial
+4156) gynoecium
+4157) gynoecia (plural of previous word) 
+4158) gynocentric
+4159) unallowable
+4160) unallied
+4161) unalive
+4162) unalarmed
+4163) unaired
+4164) unaggressive
+4165) unaesthetic
+4166) unadvisedly
+4167) unadjacent
+4168) unaddressed
+4169) IRCop (+plural)
+4170) moldavite (Collins)
+4171) Jaban (+'s - name)
+4172) Joseph's (added the 's)
+4173) starships (added plural)
+4174) Anunnaki
+4175) Lyra
+4176) Sheran (+'s - name)
+4177) relink (+ed +ing)
+4178) reliquiae
+4179) relist (+ed +ing)
+4180) relleno (+plural)
+4181) tortious (+ly)
+4182) licensors (added plural)
+4183) RTFM (Oxford: vulgar slang)
+4184) Thunderbird's (added the 's)
+4185) personas (added plural)
+
+7-NOV-2014
+4186) Los (Los Angeles - city)
+4187) neuroanatomical
+4188) neuroanatomist (+plural)
+4189) neurochemistry
+4190) neurochemist
+4191) neurochemical
+4192) nephrology
+4193) nephrological
+4194) nephrologist (+plural)
+4195) interventional (merged into intervention)
+4196) subcortical
+4197) putamen (+plural)
+4198) putamina (another plural of previous word)
+4199) nondevelopment (Collins)
+4200) subdevelopment (Collins)
+4201) antidevelopment (Collins)
+4202) predevelopment (Collins)
+4203) neurohormonal (Collins)
+4204) military's (added the 's)
+4205) gizmo (+s +'s)
+4206) gismo (+s +'s - another way of previous word)
+4207) antimilitarism (Collins)
+4208) militaries (added plural)
+4209) Clausewitz (+'s - name)
+4210) antimilitarist (+plural - Collins)
 ===============
 
 
