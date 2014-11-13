@@ -5795,8 +5795,94 @@ V2.19 (ongoing)
 4208) militaries (added plural)
 4209) Clausewitz (+'s - name)
 4210) antimilitarist (+plural - Collins)
-===============
 
+12-NOV-2014
+4211) hairgrip (+plural - Kevin Atkinson wordlist 60)
+4212) bikeable
+4213) bikable (another way of previous word)
+4214) BMX
+4215) boneshaker (+plural - Oxford: informal)
+4216) pushbike (+plural - Oxford: informal - Fixed: push-bike)
+4217) pushful (+ly +ness)
+4218) pushpit
+4219) lectionary (+plural)
+4220) commination (+plural)
+4221) comminatory
+4222) grotty (+ier +iest +ness - Kevin Atkinson wordlist 60)
+4223) polenta
+4224) carpaccio
+4225) Carpaccio (name)
+4226) footy (Oxford: informal - Kevin Atkinson wordlist 60)
+4227) footie (another way of previous word - Kevin Atkinson wordlist 60)
+4228) footslog (+s +ing +ed +er +ers)
+4229) fleapit (+plural - Kevin Atkinson wordlist 60)
+4230) glaive (+plural)
+4231) whoremaster (+plural)
+4232) gangmaster (+plural)
+4233) spymaster (+plural)
+4234) workmaster (Collins)
+4235) weaponeer (+ing - Collins)
+4236) ironmaster (+plural)
+4237) goldfield (+plural - Kevin Atkinson wordlist 60)
+4238) headcase (+plural - Oxford: informal - Kevin Atkinson wordlist 60)
+4239) headcam
+4240) headbutt (+ed +ing)
+4241) headbanging
+4242) headbanger (+plural)
+4243) headage
+4244) suckler (+plural)
+4245) unweaned
+4246) unweary
+4247) unwedded (+ness - another way of unwed)
+4248) unweighted
+4249) unwept
+4250) unwhipped
+4251) unwinnable
+4252) unwisdom
+4253) unwired
+4254) unwinking (+ly)
+4255) helipad (+plural - Kevin Atkinson wordlist 60)
+4256) holism (Kevin Atkinson wordlist 60)
+4257) holist (+plural)
+4258) serialism
+4259) serialist (+plural)
+4260) atonalism
+4261) atonalist (+plural)
+
+13-NOV-2014
+4262) jeeze + geez (another way of jeez - Oxford: informal)
+4263) wearables (added plural)
+4264) millennials (added plural)
+4265) Jehovah's (added the 's)
+4266) millenarianist (+plural)
+4267) millenarians (added plural)
+4268) apocalyptically
+4269) eschatological
+4270) eschatologist (+plural)
+4271) unmediated
+4272) unmelodic
+4273) unmelted
+4274) unmemorably (merged into unmemorable)
+4275) unmercifulness (merged into unmerciful)
+4276) unmetalled
+4277) unmetered
+4278) unmetrical
+4279) unmethodically (merged into unmethodical)
+4280) unmilitary
+4281) unmindfully
+4282) unmindfulness
+4283) unmissed
+4284) unmistaken
+4285) unmitigatedly
+4286) bombardon (+plural)
+4287) saxhorn (+plural)
+4288) sedum (+plural)
+4289) bellflowers (added plural)
+4290) untrusty (Collins)
+4291) counterstyle (Collins)
+4292) unthorough (Collins)
+4293) uninstallation (+plural)
+===============
 
 British English Dictionary (Forked) 2.19
 by Marco A.G.Pinto
