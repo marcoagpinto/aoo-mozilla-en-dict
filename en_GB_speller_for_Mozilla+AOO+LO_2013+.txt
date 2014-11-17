@@ -5882,6 +5882,51 @@ V2.19 (ongoing)
 4291) counterstyle (Collins)
 4292) unthorough (Collins)
 4293) uninstallation (+plural)
+
+15-NOV-2014
+4294) hoick (+s +ing +ed - Kevin Atkinson wordlist 60)
+4295) hoofers (added plural - Kevin Atkinson wordlist 60)
+4296) hetero (+s +'s - Kevin Atkinson wordlist 60)
+4297) hotpots (added plural - Kevin Atkinson wordlist 60)
+4298) interwar (Kevin Atkinson wordlist 60)
+4299) ironwood (added singular - Kevin Atkinson wordlist 60)
+4300) jerrycan (+plural - Kevin Atkinson wordlist 60)
+4301) jerrican (+plural - another way of previous word)
+4302) leucotomy (+plural - Kevin Atkinson wordlist 60)
+4303) lexis (changed to lower case - Oxford)
+4304) lexigram (+plural)
+4305) errorless (merged into error)
+4306) catchweight
+4307) listenable (Kevin Atkinson wordlist 60)
+4308) listenability
+4309) linkman + linkmen (Kevin Atkinson wordlist 60)
+4310) lughole (+plural - Kevin Atkinson wordlist 60)
+4311) lulus (added plural - Kevin Atkinson wordlist 60)
+4312) lumpectomy (+plural - Kevin Atkinson wordlist 60)
+4313) meteorologically
+
+16-NOV-2014
+4314) unbearableness
+4315) unbeautiful (+ly)
+4316) unbefitting (+ly +ness)
+4317) unbeholden
+4318) irreligion
+4319) irreligionist
+4320) irreligiously
+4321) irreligiousness
+4322) irremissible
+4323) irremovability
+4324) irremovably
+4325) irreplaceably
+4326) irreproachability
+4327) irreproducible
+4328) bcc (Blind carbon copy - used in e-mails)
+4329) b.c.c. (another way of previous word)
+4330) aberdevine (Collins)
+4331) siskin (Collins)
+4332) uninstal (+s - Oxford: another way in British for uninstall)
+4333) prolongedly
+4334) prolusion
 ===============
 
 British English Dictionary (Forked) 2.19
