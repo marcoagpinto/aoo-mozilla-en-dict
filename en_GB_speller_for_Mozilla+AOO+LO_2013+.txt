@@ -5927,6 +5927,57 @@ V2.19 (ongoing)
 4332) uninstal (+s - Oxford: another way in British for uninstall)
 4333) prolongedly
 4334) prolusion
+
+17-NOV-2014
+4335) phonecard (+plural)
+4336) collet
+4337) photocard (Collins)
+4338) photocall (+plural)
+4339) phonematic (Collins - another way of phonemic)
+4340) battlespace (Collins)
+4341) counterbored (merged into counterbore)
+4342) bolthole (+plural)
+4343) necrophile
+4344) necrophilic
+4345) necrophilism
+4346) necrophilist
+4347) necrophobia
+4348) theurgy
+4349) theurgic
+4350) theurgical
+4351) theurgist (+plural)
+4352) Wiccans (added plural)
+4353) rosacea
+4354) asthenia
+4355) asthenic
+4356) cellulitis
+4357) barotrauma
+4358) necrose (+ed)
+4359) necropsies (plural of necropsy)
+
+18-NOV-2014
+4360) PayPal's (added the 's)
+4361) majeure (force majeure)
+4362) benchwork
+4363) dogfood (+ing)
+4364) outgun (+s +ing +ed)
+4365) Dakota's (added the 's)
+4366) Hutterite (+plural)
+4367) cytophotometry (+ic)
+4368) cytophotometer (+plural)
+4369) macronuclear (Collins)
+4370) conjugant (Collins)
+4371) conjurator (Collins)
+4372) conjugality
+4373) unconjugal (Collins)
+4374) sexercise (Collins)
+4375) sexennium (+plural)
+4376) sexennia (another plural of previous word)
+4377) cinquefoil
+4378) sexologic (Collins)
+4379) sexological
+4380) uncontainable
+4381) unconstructive
 ===============
 
 British English Dictionary (Forked) 2.19
