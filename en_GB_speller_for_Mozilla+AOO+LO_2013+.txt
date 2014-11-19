@@ -5978,6 +5978,33 @@ V2.19 (ongoing)
 4379) sexological
 4380) uncontainable
 4381) unconstructive
+
+19-NOV-2014
+4382) muscleman + musclemen (Kevin Atkinson wordlist 60)
+4383) muscly (+ier +iest - Kevin Atkinson wordlist 60)
+4384) weanlings (added plural)
+4385) unwatchful
+4386) unwatered
+4387) myxomatosis (Kevin Atkinson wordlist 60)
+4388) naturism (Kevin Atkinson wordlist 60)
+4389) naturists (add plural - Kevin Atkinson wordlist 60)
+4390) non-official
+4391) nosebags (add plural - Kevin Atkinson wordlist 60)
+4392) nosepiece
+4393) noshery (+plural)
+4394) nosocomial
+4395) electroreception
+4396) electroreceptor
+4397) planktic
+4398) planktonic
+4399) foraminifer (+plural)
+4400) foraminifera (another plural of previous word)
+4401) foraminiferal
+4402) foraminiferan (+plural)
+4403) foraminiferous
+4404) zooxanthella
+4405) zooxanthellae (plural of previous word)
+4406) zooxanthellate
 ===============
 
 British English Dictionary (Forked) 2.19
