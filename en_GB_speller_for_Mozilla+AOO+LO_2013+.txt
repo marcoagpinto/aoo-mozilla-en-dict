@@ -6005,6 +6005,63 @@ V2.19 (ongoing)
 4404) zooxanthella
 4405) zooxanthellae (plural of previous word)
 4406) zooxanthellate
+
+20-NOV-2014
+4407) SCOWL (+'s)
+4408) readme + README (Collins)
+
+24-NOV-2014
+4409) rechipping
+4410) officialese (Kevin Atkinson wordlist 60)
+4411) oilcan (+plural - Kevin Atkinson wordlist 60)
+4412) oilbird (+plural)
+4413) goatsucker (+plural)
+4414) nightjar (+plural)
+4415) chirr (+ing +ed)
+4416) churr (+ing +ed - another way of previous word)
+4417) chiropteran (+plural)
+4418) cardiothoracic
+4419) cardiorespiratory
+4420) sequela
+4421) sequelae (plural of previous word)
+4422) sepulture
+4423) orangish
+4424) orangewood (Collins)
+4425) outperformance
+4426) outworker (+plural - Kevin Atkinson wordlist 60)
+4427) outworld (+er +ers)
+4428) oxtails (added plural - Kevin Atkinson wordlist 60)
+4429) paintball (+s +er +ers +ing)
+4430) paparazzo (Kevin Atkinson wordlist 60)
+4431) phat (Kevin Atkinson wordlist 60)
+4432) Picasso (name)
+4433) Picassoesque
+4434) picaro (+plural)
+4435) pinewood (+plural - Kevin Atkinson wordlist 60)
+4436) pitheads (added plural - Kevin Atkinson wordlist 60)
+4437) playschools (added plural - Kevin Atkinson wordlist 60)
+4438) playmaker (+plural)
+4439) playmaking
+4440) racegoer (added singular)
+4441) racecard (+plural)
+4442) poppets (added plural - Kevin Atkinson wordlist 60)
+4443) postmenopausal (Kevin Atkinson wordlist 60)
+4444) precast (+s +ing)
+4445) adenomatous
+4446) psychoanalytically (Kevin Atkinson wordlist 60)
+4447) bibliotherapy
+4448) punchbag (+plural - Kevin Atkinson wordlist 60)
+4449) headguard (+plural)
+4450) quick-fire
+4451) quietist (+plural +ic)
+4452) ragga
+4453) railcard (+plural - Kevin Atkinson wordlist 60)
+4454) railbus (+plural)
+4455) railcar (+plural)
+4456) springless
+4457) springlet (+plural)
+4458) hornbeams (added plural)
+4459) junglefowl
 ===============
 
 British English Dictionary (Forked) 2.19
