@@ -5582,7 +5582,7 @@ V2.18
 4908) aerophagy
 
 
-V2.19 (ongoing)
+V2.19
 --------------
 3-NOV-2014
 4909) Zuckerberg (+'s - name)
@@ -6062,6 +6062,118 @@ V2.19 (ongoing)
 4457) springlet (+plural)
 4458) hornbeams (added plural)
 4459) junglefowl
+
+25-NOV-2014
+4460) backstory (+plural)
+4461) bandfish (+plural)
+4462) agrestic
+4463) agrichemical (+plural - another way of agrochemical)
+4464) apatosaurus
+4465) brachiosaurus
+4466) diplodocus
+4467) daybook (+plural)
+4468) dayboat
+4469) daysailor
+4470) bifold
+4471) windslab (+plural)
+4472) dynode (+plural)
+4473) defervesce (+ed)
+4474) defibrillation
+4475) defibrillate (+ed +ion)
+4476) discographer (+plural)
+4477) discoid (+al)
+4478) venter (+plural)
+4479) ventail
+4480) coeternal (+ally)
+4481) fluoroscopy
+4482) fluoroquinolone
+4483) non-pregnant
+4484) sulfacetamide
+4485) microsurgeons (added plural)
+4486) colossuses (another plural of colossus)
+4487) maldevelopment
+4488) cicatrize (+s +ed +ing +ion -IZE-)
+4489) cicatrise (+s +ed +ing +ion -ISE-)
+4490) cicatricial
+
+26-NOV-2014
+4491) novelly (merged into novel)
+4492) lesbigay (+plural - Oxford: informal)
+4493) lesbo (+plural - Oxford: informal offensive)
+4494) Lesbos (Island in Greece)
+4495) Sprachgefühl
+4496) eggcorn
+4497) advocaat
+4498) caipirinha (+plural)
+4499) cachaca
+4500) chincherinchee (+plural)
+4501) chinaberry (+plural)
+4502) cranesbill (+plural)
+4503) abutilon
+4504) clivia (+s +'s)
+4505) beddable (Oxford: informal)
+4506) fanciable (Oxford: informal)
+4507) culverin (+plural)
+4508) localism (added singular)
+4509) localist (+plural)
+4510) bacteraemia
+4511) untagging
+4512) freemium
+4513) freeride (+ing)
+4514) biathlete (+plural)
+4515) fieldcraft
+4516) fairlead (+plural)
+4517) Bel (another word for Baal)
+4518) Dione (name)
+4519) Enceladus (name)
+4520) mucocutaneous (Collins)
+4521) bpm (abbreviation: beats per minute)
+4522) BPhil
+4523) caravanners (added plural)
+4524) caravanette (+plural)
+4525) coatigan
+4526) all-knowing
+4527) supranationality
+4528) supramundane
+4529) subnuclear
+4530) subnormality
+4531) suboptimally (merged into suboptimal)
+4532) subordinary (+plural)
+4533) subnetwork
+4534) submunition (+plural)
+4535) submultiple (+plural)
+4536) submucosa
+4537) submucosae (plural of previous word)
+4538) gradable
+4539) gradability
+4540) cross-beam (+plural)
+4541) cross-border
+4542) cross-colour
+4543) cross-contaminate (+ed +ing)
+4544) cross-connection (+plural)
+4545) cross-correlate (+ed)
+4546) cross-correlation (+plural)
+4547) i-mode
+4548) I-beam (+plural)
+4549) I-chun (variant of Yichun)
+4550) Yichun (city in China)
+4551) demos
+4552) demoi (plural of previous word)
+4553) demotivation
+4554) goateed (merged into goatee)
+4555) swallow-tailed
+4556) developable
+4557) devein (+ed)
+4558) ethnologic (merged into ethnology)
+4559) ethnologically
+4560) folkloristic
+4561) folklife
+4562) theanthropic
+4563) guncotton
+4564) tagliatelle
+4565) capellini
+4566) fettucine + fettucini (there are three words for this, one was already in)
+4567) fettuccine (fix: removed plural, since this is already a plural word)
 ===============
 
 British English Dictionary (Forked) 2.19
