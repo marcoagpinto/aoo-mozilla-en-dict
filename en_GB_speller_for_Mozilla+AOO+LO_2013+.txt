@@ -6174,8 +6174,75 @@ V2.19
 4565) capellini
 4566) fettucine + fettucini (there are three words for this, one was already in)
 4567) fettuccine (fix: removed plural, since this is already a plural word)
+
+
+V2.20 (ongoing)
+--------------
+3-DEC-2014
+4568) scramjet (+plural)
+4569) neurofeedback (Collins)
+4570) astrochemists (added plural)
+4571) astrocompass
+4572) m (abbreviation)
+4573) ratbag (+plural - Kevin Atkinson wordlist 60)
+4574) Rottweiler (+plural - but uppercase - Kevin Atkinson wordlist 60)
+4575) rotters (added plural - Kevin Atkinson wordlist 60)
+4576) roughcast (Kevin Atkinson wordlist 60)
+4577) rowlock (+plural - Kevin Atkinson wordlist 60)
+4578) schoolkid (+plural - Kevin Atkinson wordlist 60)
+4579) exteroceptor (+plural)
+4580) interoceptor (+plural)
+4581) chemoceptors (+plural - Collins)
+4582) proprioceptor (+plural)
+4583) propshaft
+4584) proprioceptively
+4585) bayside
+4586) earthnut
+4587) pignut (+plural)
+4588) androcracy (+plural)
+4589) androcratic
+4590) androcentric
+4591) androcentrism
+4592) partridgeberry (+plural)
+
+5-DEC-2014
+4593) anabiosis
+4594) anabiotic
+4595) chlorosis
+4596) chloroses (plural of previous word)
+4597) chlorotic
+4598) aleurone
+4599) acropetal (+ally)
+4600) basipetal (+ally)
+4601) taproot (+plural)
+4602) tapster (+plural)
+4603) digestif (added singular)
+4604) predigestion
+4605) ptyalin
+4606) Carnivora (plural noun)
+4607) extendability
+4608) extendable
+4609) multiscreen (Collins)
+4610) multirange (Collins)
+4611) nonequilibrium (Collins)
+4612) OODA (loop - military)
+4613) differentia
+4614) differentiae (plural of previous word)
+4615) ecotourism (+'s)
+4616) ecotour (+plural)
+4617) ecotourist (+plural)
+4618) ecotoxicology
+4619) ecotoxicological
+4620) ecotoxicologist
+4621) nontarget (Collins)
+4622) ecotown (+plural)
+4623) arcology (+plural)
+4624) bioremediation
+4625) bioregion (+plural)
+4626) bioregional
+4627) cropland (+plural)
 ===============
 
-British English Dictionary (Forked) 2.19
+British English Dictionary (Forked) 2.20
 by Marco A.G.Pinto
 
