@@ -6241,6 +6241,73 @@ V2.20 (ongoing)
 4625) bioregion (+plural)
 4626) bioregional
 4627) cropland (+plural)
+
+8-DEC-2014
+4628) autoxidation
+4629) autoxidize (+s +ing - IZE)
+4630) autoxidise (+s +ing - ISE)
+4631) autotype (+s)
+4632) autogenesis (Collins)
+4633) autogeny (Collins: another way of previous word)
+4634) autogenetic (Collins)
+4635) electrogenesis (Collins)
+4636) Valium
+4637) Librium
+4638) Orbison (+'s - name)
+4639) intrathecal (+ally)
+4640) intraspecific
+4641) genet (+plural)
+4642) antechapel
+4643) bioplay
+4644) bioplasm (+ic - Collins)
+
+9-DEC-2014
+4645) emoticon (+plural)
+4646) emotionalist (+plural)
+4647) subnational (Collins)
+4648) anti-government
+4649) nongovernment (Collins)
+4650) nongovernmental (Collins)
+4651) supergovernment (Collins)
+4652) governmentalism (Collins)
+4653) incrementalism
+4654) incrementalist (+plural)
+4655) inadaptive (Collins)
+4656) adaption (+plural)
+4657) preadaptive (Collins)
+4658) adaptogen (+plural)
+4659) balneology
+4660) balneological
+4661) balneologist (+plural)
+4662) balneotherapy
+4663) caramelization (-IZE)
+4664) caramelisation (-ISE)
+4665) carambola (+plural)
+4666) eggfruit (Collins)
+4667) satsuma (+plural)
+4668) Satsuma (name of province)
+4669) blackberried (merged into blackberry)
+4670) hackberry (+plural)
+4671) hackathon (+plural - Oxford: informal)
+4672) incurvate (+ed)
+4673) incurvation (+plural)
+4674) railbed (Collins)
+4675) railage
+4676) railless
+4677) bogie (+plural)
+4678) bogland
+4679) Achill (island)
+4680) deuterons (added plural)
+4681) photosystem (+plural)
+4682) phototherapy
+4683) phototransistor
+4684) phototropism
+4685) phototropic
+4686) phototaxis
+4687) phototaxes (plural of previous word)
+4688) phototactic
+4689) heliotropism
+4690) heliotropic
 ===============
 
 British English Dictionary (Forked) 2.20
