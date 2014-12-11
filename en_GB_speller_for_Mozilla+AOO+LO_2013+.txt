@@ -6308,6 +6308,90 @@ V2.20 (ongoing)
 4688) phototactic
 4689) heliotropism
 4690) heliotropic
+
+10-DEC-2014
+4691) shitwork (Oxford: vulgar slang)
+4692) wetware
+4693) disincorporate (+ing)
+4694) disinfest (+ing +ion)
+4695) disintermediate (+ed +ion)
+4696) disinvent (+ed)
+4697) disinvite (+ed +ing)
+4698) disinvoltura
+4699) disjoins + disjoined (merged into disjoin)
+4700) ubuntu (+'s - also allow lower case)
+
+11-DEC-2014
+4701) permalink (+plural)
+4702) permaculture
+4703) permadeath
+4704) foldback (Collins)
+4705) readvance (Collins)
+4706) readapt (+s +ing +ed +ion)
+4707) readerly
+4708) undersense (Collins)
+4709) letterset
+4710) intersex (+plural)
+4711) interspace (+s +ed)
+4712) interspinal
+4713) interspinous
+4714) interstadial
+4715) intersegmental (+ally)
+4716) Peterson (+'s - name)
+4717) Jespersen (+'s - name)
+4718) petrogeny
+4719) petrogenesis (another way of the previous word)
+4720) countercurrent (+plural)
+4721) counterfactual (+plural)
+4722) firebug (fixed: fire-bug and added plural)
+4723) firepit
+4724) firedog (+plural)
+4725) palazzo (+plural)
+4726) palazzi (another plural way of the previous word)
+4727) palea
+4728) paleae (plural of previous word)
+4729) extrorse
+4730) introrse
+4731) introspect
+4732) anadromous
+4733) catadromous
+4734) intrigant
+4735) colourable
+4736) cryptococcosis
+4737) cryptococcal
+4738) coolth
+4739) CoolMax (trademark)
+4740) bombazine
+4741) breathability
+4742) Pennsylvanian (+plural)
+4743) chetrum (+plural - currency)
+4744) afghani (+plural - currency)
+4745) avoparcin
+4746) enterovirus (+plural)
+4747) rhinovirus (+plural)
+4748) picornavirus (+plural)
+4749) coronavirus (+plural)
+4750) VS (Veterinary Surgeon)
+4751) vs (Versus)
+4752) vroom (+ed)
+4753) min
+4754) secs (added plural)
+4755) SECAM
+4756) offshoring
+4757) vegetatively
+4758) vegetativeness
+4759) sargassum
+4760) clubroot
+4761) nightclubber (+plural - merged into nightclub)
+4762) mentorship (Collins)
+4763) ballgown (+plural)
+4764) videographers (added plural)
+4765) post-tension
+4766) extensometer (+plural)
+4767) floodwater (+plural)
+4768) floorcloth (+plural)
+4769) posthospital (Collins)
+4770) posttreatment (Collins)
 ===============
 
 British English Dictionary (Forked) 2.20
