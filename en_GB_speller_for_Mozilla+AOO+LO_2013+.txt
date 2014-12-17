@@ -6581,6 +6581,10 @@ V2.20 (ongoing)
 4051) smoocher (+plural - merged into smooch)
 4052) smoochy (+ier +iest)
 4053) weirdo (+plural +'s - Kevin Atkinson wordlist 40)
+4054) Mbit (Collins)
+4055) XMP
+4056) SNR (signal-to-noise ratio)
+4057) THz
 ===============
 
 British English Dictionary (Forked) 2.20
