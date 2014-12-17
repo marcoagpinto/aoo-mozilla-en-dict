@@ -6392,6 +6392,195 @@ V2.20 (ongoing)
 4768) floorcloth (+plural)
 4769) posthospital (Collins)
 4770) posttreatment (Collins)
+
+15-DEC-2014
+4771) twerk (+s +ing)
+4772) choreology
+4773) choreologist
+4774) onesie (+plural)
+4775) descriptivist (+plural)
+4776) phenomenalism
+4777) phenomenalist
+4778) phenomenalistic
+4779) physicalism
+4780) physicalist
+4781) physicalistic
+4782) mentalism
+4783) mentalistic
+4784) neonomian (+plural - Collins)
+4785) neonomianism (Collins)
+4786) techno
+4787) soundscape (+plural)
+4788) Thomas's (added the 's)
+4789) semiquaver (added singular)
+4790) semiquinone (+plural)
+4791) phototoxicity (Collins)
+4792) superoxide
+4793) superorder
+4794) supernaturalist (+plural)
+4795) supernormality
+4796) superordinates (added plural)
+4797) superplastic
+4798) superplasticity
+4799) supersale (Collins)
+4800) superreal (Collins)
+4801) supermale (Collins)
+4802) supersalt (Collins)
+4803) superjet (Collins)
+4804) supersell (+er - Collins)
+4805) superfusion
+4806) superfood (+plural)
+4807) superfluidity
+4808) superfluid (+plural)
+4809) superfatted
+4810) auriculate
+4811) auriculotherapy
+4812) allopath
+4813) catmint (+'s)
+4814) catlick (Oxford: informal)
+4815) circumvallate (+ed +ing)
+4816) play's (added the 's)
+4817) venography
+4818) venographic
+4819) venographically
+4820) extravasation (merged into extravasate)
+4821) vasculature
+4822) cross-promotion
+4823) cross-promote (+ed)
+4824) cross-question (+ing +ed)
+4825) home-cooked
+4826) seedeater (fixed: seed-eater)
+4827) bowerbird (+plural)
+4828) brassfounder (+plural - Collins)
+4829) coppernob (+plural - Oxford: informal)
+4830) flybridge
+4831) skybridge (Collins)
+4832) fly-by (+plural "fly-bys")
+4833) arm-wrestling
+4834) arm-wrestle
+4835) audax (+plural)
+4836) valorousness (merged into valorous)
+4837) venturous (+ness)
+4838) temerarious (+ness)
+
+16-DEC-2014
+4839) mesothelioma (+plural)
+4840) mesotherapy
+4841) mesothorax
+4842) mesothoracic
+4843) metathorax
+4844) metathoracic
+4845) interneural (Collins)
+4846) stereoregular (Collins)
+4847) stereometry
+4848) stereological (+ally - Collins)
+4849) stereogram (+plural)
+4850) stereocamera (+plural)
+4851) stereognosis
+4852) stereognostic
+4853) thermic
+4854) interneuron
+4855) interneurone (another way of previous word)
+4856) interneuronal
+4857) internode (+plural)
+4858) depaint (Collins)
+4859) dependingly (Collins)
+4860) depravingly (Collins)
+4861) depravation (merged into deprave - Collins)
+4862) depreciatory
+4863) Németh (+'s - name)
+4864) László (+'s - name)
+4865) cryptonymous
+4866) monorchid (+plural)
+4867) monorchidism
+4868) cathodoluminescence
+4869) anisotropically
+4870) undrained
+4871) metagenesis
+4872) metagenetic
+4873) metageneses (plural of metagenesis - Collins)
+4874) muniment (+plural)
+4875) alienage
+4876) spondylolysis (Collins)
+4877) agammaglobulinaemia
+4878) agammaglobulinemia (another way of previous word)
+4879) antepartum
+4880) intrapartum (Collins)
+4881) intrasexual (Collins)
+4882) bicephalous
+4883) electronica
+4884) craniofacial
+4885) craniology
+4886) craniological
+4887) craniologist (+plural)
+4888) overexcitable
+4889) overexcitement
+4890) Napster (+'s - software)
+4891) scattergun
+4892) scattershot
+4893) scatty (+ier +iest +ly +ness - Oxford: informal)
+
+17-DEC-2014
+4894) impactful
+4895) frameable + frameless (merged into frame)
+4896) Xeon
+4897) Centrino
+4898) vPro
+4899) Itanium (+'s)
+4900) microclimate (+s +ic)
+4901) microclimatically
+4902) micropower
+4903) microprobe (+plural)
+4904) macrocephalic
+4905) macrocephalous (another way of previous word)
+4906) macrocephaly
+4907) cerebrovascular
+4908) intracranial (+ly)
+4909) intractableness
+4910) intradermal (+ly)
+4911) micropropagation
+4912) micropterous
+4913) microRNA
+4914) microscooter (+plural)
+4915) yo-yos (added plural)
+4916) yo-yoing, yo-yoed (verb - merged into yo-yo)
+4917) yo-yoes (verb)
+4918) foldable (merged into fold)
+4919) microampere (Collins)
+4920) Thomist (+plural)
+4921) Thomistic
+4922) covenantal
+4923) covenantor (+plural +'s)
+4924) scorelines (added plural - Kevin Atkinson wordlist 60)
+4925) scorekeeping
+4926) scrutineer (added singular - Kevin Atkinson wordlist 60)
+4927) shambolic (+ally - Kevin Atkinson wordlist 60)
+4928) sharpish (Kevin Atkinson wordlist 60)
+4929) shebeen (+plural - Kevin Atkinson wordlist 60)
+4930) sheetlike (Collins - Kevin Atkinson wordlist 60)
+4931) shitload (Oxford: vulgar slang - Kevin Atkinson wordlist 60)
+4932) shit-faced (Oxford: vulgar slang - Kevin Atkinson wordlist 60)
+4933) bristlebird (+plural)
+4934) birdling (+plural)
+4935) shh (Kevin Atkinson wordlist 60)
+4936) sh (another way of previous word)
+4937) acupoint (+plural)
+4938) aromatherapeutic
+4939) showerproof (+ed +ing)
+4940) circlip (+plural)
+4941) desuperheater (+plural)
+4942) Interweb
+4943) intervocalically
+4944) obstruent (+plural)
+4945) sonorant (+plural)
+4946) atonic
+4947) atony
+4948) homorganic
+4949) homophile (+plural)
+4050) servery (+plural - Kevin Atkinson wordlist 60)
+4051) smoocher (+plural - merged into smooch)
+4052) smoochy (+ier +iest)
+4053) weirdo (+plural +'s - Kevin Atkinson wordlist 40)
 ===============
 
 British English Dictionary (Forked) 2.20
