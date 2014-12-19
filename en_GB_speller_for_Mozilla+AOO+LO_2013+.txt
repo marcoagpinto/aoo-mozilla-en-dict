@@ -6585,6 +6585,21 @@ V2.20 (ongoing)
 4055) XMP
 4056) SNR (signal-to-noise ratio)
 4057) THz
+
+19-DEC-2014
+4058) skinful (Kevin Atkinson wordlist 60)
+4059) skinfold (+plural)
+4060) subscapular (Collins)
+4061) smokily (merged into smoky)
+4062) smokey (another way of smoky - Kevin Atkinson wordlist 60)
+4063) snog (+s +ing +ed +er +ers - Kevin Atkinson wordlist 60)
+4064) softback (+plural -  Kevin Atkinson wordlist 60)
+4065) unremitted (+ly - Collins)
+4066) slutty
+4067) sluttishness (merged into sluttish)
+4068) softcover (Kevin Atkinson wordlist 60)
+4069) songwriting (Kevin Atkinson wordlist 60)
+4070) sprog (+s +ing +ed - Kevin Atkinson wordlist 60)
 ===============
 
 British English Dictionary (Forked) 2.20
