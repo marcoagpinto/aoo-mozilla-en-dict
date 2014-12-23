@@ -6600,6 +6600,57 @@ V2.20 (ongoing)
 4068) softcover (Kevin Atkinson wordlist 60)
 4069) songwriting (Kevin Atkinson wordlist 60)
 4070) sprog (+s +ing +ed - Kevin Atkinson wordlist 60)
+
+22-DEC-2014
+4071) spiv (+plural - Kevin Atkinson wordlist 60)
+4072) spivvish
+4073) spivvy (+ier +iest)
+4074) splake
+4075) splanchnopleure
+4076) endoblast (+ic - Collins)
+4077) splashback (+plural)
+4078) splashboard (+plural)
+4079) splatterpunk (+plural)
+4080) spleenwort (+plural)
+4081) polypody (+plural)
+4082) bryophyte (+plural)
+4083) trichome (+plural)
+4084) trichology
+4085) trichological
+4086) trichologist (+plural)
+
+23-DEC-2014
+4087) stallholder (added singular - Kevin Atkinson wordlist 60)
+4088) stallage
+4089) pontage (Collins)
+4090) lastage (Collins)
+4091) arborist
+4092) eyebright
+4093) arrowgrass
+4094) barrenwort (+plural)
+4095) bioadhesive (+plural)
+4096) buccal
+4097) gingiva
+4098) gingivae (plural of previous word)
+4099) radula
+4100) radulae (plural of previous word)
+4101) radular
+4102) graminivorous
+4103) grammalogue
+4104) anteverted
+4105) anteroposterior
+4106) anterolateral
+4107) anterograde
+4108) Atkins's (added the 's)
+4109) churchianity (Collins)
+4110) hiya (Oxford: informal)
+4111) HIV-negative
+4112) HIV-positive
+4113) acidimetry (+ic)
+4114) acidimetrical
+4115) acidimetrically
+4116) conjunctional
+4117) amphibologies (added plural)
 ===============
 
 British English Dictionary (Forked) 2.20
