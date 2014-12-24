@@ -6651,6 +6651,27 @@ V2.20 (ongoing)
 4115) acidimetrically
 4116) conjunctional
 4117) amphibologies (added plural)
+
+24-DEC-2014
+4118) statementing + statemented (Kevin Atkinson wordlist 60)
+4119) stationmasters (added plural - Kevin Atkinson wordlist 60)
+4120) Lankan (+plural - Sri Lanka)
+4121) sundress (+plural - Kevin Atkinson wordlist 60)
+4122) sundrops
+4123) suntrap (+plural - Kevin Atkinson wordlist 60)
+4124) summat (Kevin Atkinson wordlist 60)
+4125) suppertime (Collins - Kevin Atkinson wordlist 60)
+4126) supremos (added plural - Kevin Atkinson wordlist 60)
+4127) confederal
+4128) collectorate
+4129) centrism
+4130) strikebound (Collins - Kevin Atkinson wordlist 60)
+4131) sweatsuit (+plural - Kevin Atkinson wordlist 60)
+4132) succubi (plural of succubus - Kevin Atkinson wordlist 60)
+4133) stripey (another way of stripy - Kevin Atkinson wordlist 60)
+4134) stripier
+4135) stripiest
+4136) strivers (added plural)
 ===============
 
 British English Dictionary (Forked) 2.20
