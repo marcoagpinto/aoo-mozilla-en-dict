@@ -3155,6 +3155,8 @@ CST's
 CT
 CT's
 CV
+CVS
+CVS's
 CZ
 Ca
 Ca's
@@ -9773,6 +9775,7 @@ Juarez
 Juarez's
 Jubal
 Jubal's
+Judaeo
 Judah
 Judah's
 Judaic
@@ -16621,6 +16624,8 @@ STOL
 SUSE
 SUSE's
 SUV
+SVN
+SVN's
 SW
 SW's
 SWAK
@@ -35823,10 +35828,12 @@ chundering
 chunders
 chunk
 chunk's
+chunked
 chunkier
 chunkiest
 chunkiness
 chunkiness's
+chunking
 chunks
 chunky
 chunter
@@ -62871,6 +62878,9 @@ homework's
 homeworker
 homeworkers
 homeworking
+homewrecker
+homewrecker's
+homewreckers
 homey
 homey's
 homeyness
@@ -93431,6 +93441,8 @@ redistributes
 redistributing
 redistribution
 redistribution's
+redistributor
+redistributors
 redistrict
 redistricted
 redistricting
@@ -93652,6 +93664,10 @@ reface
 refaced
 refaces
 refacing
+refactor
+refactored
+refactoring
+refactors
 refashion
 refashioned
 refashioning
@@ -94424,6 +94440,10 @@ relish's
 relished
 relishes
 relishing
+relist
+relisted
+relisting
+relists
 relivable
 relive
 relived
@@ -98003,6 +98023,9 @@ sandalwood's
 sandbag
 sandbag's
 sandbagged
+sandbagger
+sandbagger's
+sandbaggers
 sandbagging
 sandbags
 sandbank
@@ -114703,6 +114726,7 @@ unaccredited
 unaccustomed
 unacknowledged
 unacquainted
+unaddressed
 unadorned
 unadulterated
 unadventurous
@@ -114718,6 +114742,7 @@ unaided
 unalienable
 unaligned
 unalike
+unallowable
 unalloyed
 unalterable
 unalterably
@@ -116019,6 +116044,7 @@ unmerited
 unmet
 unmindful
 unmissable
+unmissed
 unmistakable
 unmistakably
 unmitigated
@@ -116598,6 +116624,7 @@ unwillingness's
 unwind
 unwinding
 unwinds
+unwinnable
 unwise
 unwisely
 unwiser
@@ -119380,6 +119407,8 @@ webcams
 webfeet
 webfoot
 webfoot's
+webinar
+webinars
 webmaster
 webmaster's
 webmasters

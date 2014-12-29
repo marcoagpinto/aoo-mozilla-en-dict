@@ -1,6 +1,6 @@
 en_US Hunspell Dictionary
-Version 2014.08.11
-Mon Aug 11 18:23:56 2014 +0200 [be45e88]
+Version 2014.11.17
+Mon Nov 17 00:27:46 2014 -0500 [225e51c]
 http://wordlist.sourceforge.net
 
 README file for English Hunspell dictionaries derived from SCOWL.
@@ -12,12 +12,12 @@ The following dictionaries are available:
 
   en_US (American)
   en_CA (Canadian)
-  en_GB-ise (British with "ize" spelling)
+  en_GB-ise (British with "ise" spelling)
   en_GB-ize (British with "ize" spelling)
 
   en_US-large
   en_CA-large
-  en_GB-large (with both "ize" and "ise" spelling)
+  en_GB-large (with both "ise" and "ize" spelling)
 
 The normal (non-large) dictionaries correspond to SCOWL size 60 and,
 to encourage consistent spelling, generally only include one spelling
@@ -305,5 +305,5 @@ from the Ispell distribution they are under the Ispell copyright:
   ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
   POSSIBILITY OF SUCH DAMAGE.
 
-Build Date: Mon Aug 11 18:27:20 CEST 2014
+Build Date: Mon Nov 17 00:57:42 EST 2014
 Wordlist Command: mk-list en_US 60 | deaccent
