@@ -6176,7 +6176,7 @@ V2.19
 4567) fettuccine (fix: removed plural, since this is already a plural word)
 
 
-V2.20 (ongoing)
+V2.20
 --------------
 3-DEC-2014
 4568) scramjet (+plural)
@@ -6661,7 +6661,7 @@ V2.20 (ongoing)
 4123) suntrap (+plural - Kevin Atkinson wordlist 60)
 4124) summat (Kevin Atkinson wordlist 60)
 4125) suppertime (Collins - Kevin Atkinson wordlist 60)
-4126) supremos (added plural - Kevin Atkinson wordlist 60)
+4126) supremos (added plural troppy
 4127) confederal
 4128) collectorate
 4129) centrism
@@ -6672,7 +6672,107 @@ V2.20 (ongoing)
 4134) stripier
 4135) stripiest
 4136) strivers (added plural)
-===============
+
+25-DEC-2014
+4137) lamish (Collins)
+4138) spambot (+plural - Collins)
+4139) spammie (Collins)
+4140) pregnable
+4141) preglacial
+4142) pregnability (Collins)
+4143) pregrowth (Collins)
+4144) preguide (Collins)
+4145) prehension
+4146) prehistorian (+plural)
+4147) prehuman (+plural)
+4148) brainbox (+plural - Oxford: informal)
+4149) troppy (+ier +iest +ly +ness - Kevin Atkinson wordlist 60)
+4150) strophanthin
+4151) analeptic (+plural)
+4152) meperidine
+4153) prolepsis
+4154) prolepses (plural of previous word)
+4155) proleptic
+4156) propertyless (Collins)
+4157) Avernus (lake in Italy)
+4158) stunners (added plural - Kevin Atkinson wordlist 60)
+4159) stunsail (+plural)
+4160) tarty (+ier +iest +ly +ness)
+4161) tarweed (+plural)
+4162) forb (+plural)
+4163) betatrons (added plural)
+4164) thermopiles (added plural)
+4165) chromakey
+4166) tatami (+s +'s - Kevin Atkinson wordlist 60)
+4167) clapperboard
+4168) telesales (Kevin Atkinson wordlist 60)
+4169) telerecordings (added plural)
+4170) telework
+4171) televisually (merged into televisual)
+4172) keypal (+plural - Oxford: informal)
+4173) penfriend (+plural)
+4174) twinset (+plural - Kevin Atkinson wordlist 60)
+4175) zookeeper (+plural +'s - Kevin Atkinson wordlist 60)
+
+26-DEC-2014
+4176) zloties (added plural - Kevin Atkinson wordlist 60)
+4177) zlotys (another plural of previous word)
+4178) zine (+plural - Kevin Atkinson wordlist 60)
+4179) ya (Kevin Atkinson wordlist 60)
+4180) Y2K (year 2000)
+4181) clickable
+4182) clickbait
+4183) wordsmith (+plural - Kevin Atkinson wordlist 60)
+4184) vapourware
+4185) overhype (+ed)
+4186) bibliolater (+plural)
+4187) bibliomancy
+4188) Ching (I Ching)
+4189) ching
+4190) bibliomania
+4191) bibliomaniac (+'s)
+4192) bibliophilic
+4193) bibliophily
+4194) bibliopole (+plural)
+4195) bibliometric (+plural)
+4196) bibliomane (+plural)
+4197) wing-like
+4198) downstroke
+4199) downswing (+plural)
+4200) waybill (+s +'s - Kevin Atkinson wordlist 60)
+4201) watchable (Kevin Atkinson wordlist 60)
+4202) watchability
+4203) weedkiller (+plural - Kevin Atkinson wordlist 60)
+4204) weedicide (+plural)
+4205) weedgrown
+4206) weebill (+plural)
+4207) apostlebird (+plural)
+4208) currawong (+plural)
+4209) weeder (+plural)
+4210) weedless (merged into weed - Kevin Atkinson wordlist 60)
+4211) warm-blooded (+ness)
+4212) warmblood (+plural)
+4213) vulturine
+4214) vulturish
+4215) vulturous (Kevin Atkinson wordlist 60)
+4216) boobook (+plural)
+4217) blackpoll (+plural)
+4218) watchstrap (+plural - Collins - Kevin Atkinson wordlist 60)
+4219) voicelessness (merged into voiceless - Kevin Atkinson wordlist 60)
+4220) vigesimal (Kevin Atkinson wordlist 60)
+4221) centesimal (+ly)
+4222) vincible (Kevin Atkinson wordlist 60)
+4223) vincibility
+4224) urogenital (Kevin Atkinson wordlist 60)
+4225) urography
+4226) urogram (+plural)
+4227) urodynamic (+plural)
+4228) varix
+4229) varices (plural of previous word)
+4230) endocarditis
+4231) endocarditic
+4232) unsmart (Collins)
+==============
 
 British English Dictionary (Forked) 2.20
 by Marco A.G.Pinto
