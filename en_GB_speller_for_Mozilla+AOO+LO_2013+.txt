@@ -6772,8 +6772,178 @@ V2.20
 4230) endocarditis
 4231) endocarditic
 4232) unsmart (Collins)
+
+
+V2.21 (ongoing)
+--------------
+2-JAN-2015
+4233) Crowley's (added the 's)
+4234) recursivity (+plural - Wiktionary)
+4235) recursiveness (Wiktionary)
+4236) she-male (+plural)
+4237) pseudocode (+plural +ed - Wiktionary)
+4238) pseudocopulation
+4239) scumbag (+plural - Oxford: informal)
+4240) heterosocial (Collins)
+4241) heterosociality (Collins)
+4242) homosocial (Collins)
+4243) homosociality (Collins)
+4244) homosexualist (+plural - Collins)
+4245) homosex (Collins)
+4246) heteropteran (+plural)
+4247) heteropterous
+4248) limewash (+plural +ing +ed)
+4249) limescale
+4250) BMWs (added plural)
+4251) limepit
+4252) Robben (name of island)
+4253) Bornholm (name of island)
+4254) born-free (+plural)
+4255) Bornean
+4256) quoll (+plural)
+4257) monkery (Oxford:  derogatory)
+4258) zealotry
+4259) deseed (+ed)
+4260) deseeder (+plural)
+4261) terotechnology
+4262) terotechnological
+4263) terotechnologist (+plural)
+4264) microtechnology
+4265) microtechnological
+4266) waveguide (+plural)
+4267) Adidas (+'s - name)
+4268) geotechnology (Collins)
+4269) femtosecond (+plural)
+4270) fs (abbreviation of previous word)
+4271) femtocell
+
+3-JAN-2015
+4272) unfought (Collins)
+4273) unforked (Collins)
+4274) unforgivingness (Collins)
+4275) refigure (Collins - +plural +ing +ed - Wiktionary)
+4276) refire (Collins - +plural +ing +ed - Wiktionary)
+4277) dentary (+plural)
+4278) readd (Collins - +plural +ing +ed - Wiktionary)
+4279) rebottle (Collins - +plural +ing +ed +er +ers - Wiktionary)
+4280) hypertrophic (merged into hypertrophy)
+4281) Barbie (+plural +'s - name)
+4282) guidable
+4283) cutscene (+plural)
+4284) whatsit (+plural - Kevin Atkinson wordlist 60)
+4285) whee (Kevin Atkinson wordlist 60)
+4286) horseshed
+4287) Fenimore (+'s - name)
+4288) coopery (+plural)
+4289) peridot (+plural)
+4290) peridium
+4291) peridia (plural of previous word)
+4292) galea
+4293) galeae (plural of previous word)
+4294) low-carb (Oxford: informal)
+4295) low-class
+4296) yonks (Kevin Atkinson wordlist 60)
+4297) Zinfandel (+'s +plural)
+4298) zonal (+ly)
+4299) rack-and-pinion
+4300) fishplate (+plural - fixed: fish-plate)
+4301) bodyshell (+plural)
+4302) switchable (merged into switch - Kevin Atkinson wordlist 40)
+4303) postdoc (+plural - Kevin Atkinson wordlist 40)
+4304) postcolonialism
+4305) postcolonialist
+4306) postcoded (merged into postcode)
+4307) mailboat (+plural)
+4308) Percy's (added the 's)
+4309) postwoman
+4310) postwomen (plural of previous word)
+4311) Boulogne (+'s - name)
+4312) synovial
+4313) flexion
+4314) flection (another way of previous word)
+4315) dorsiflex (+plural +ing +ed +ion)
+4316) electromyograph
+4317) electromyography
+4318) chemoprevention (Collins)
+4319) Palomar (+'s - name)
+4320) serine
+
+4-JAN-2015
+4321) bugbane (+plural)
+4322) squawroot (+plural)
+4323) tidemark (+plural)
+4324) tideline (+plural)
+4325) saltings (added plural)
+4326) geodata
+4327) neoclassicist (+plural)
+4328) neorealism
+4329) neorealist (+plural)
+4330) academicism
+4331) academism (another way of previous word)
+4332) academicals (added plural)
+4333) Picasso's (added the 's)
+4334) iconology
+4335) iconological
+4336) iconolatry
+4337) deconstruct (+plural +ing +ed +ive)
+4338) outsized (merged into outsize)
+4339) should've
+4340) corporatize (+plural +ed +ing +ion - IZE)
+4341) corporatise (+plural +ed +ing +ion - ISE)
+4342) hereditament (+plural)
+4343) hereditarily + hereditariness (merged into hereditary)
+4344) hereditarian (+plural)
+4345) hereditarianism
+4346) nanotechnological
+4347) nanotechnologist (+plural)
+4348) neurovascular (Collins)
+4349) nanocomposite (+plural)
+4350) undersize
+4351) undershrub (+plural)
+4352) kneeled (another past of kneel)
+4353) kneehole
+4354) knee-highs (added plural)
+4355) cerebroside (+plural)
+4356) workup (+plural)
+4357) jackstay
+4358) Tobruk (+'s - name of place)
+4359) woosh (+plural +ing +ed - another way of whoosh)
+4360) Jacinto (+'s - name)
+4361) starboarding (merged into starboard)
+4362) bioprospecting
+4363) bioprospector (+plural)
+4364) Kamchatka (+'s - name)
+4365) flamethrowers (added plural)
+4366) laserdiscs (added plural)
+4367) Betacam (trademark)
+4368) Betamax (trademark)
+4369) PlayStation (+plural)
+4370) breakfront
+4371) Easton (+'s - name)
+4372) geochronological
+4373) geochronologist (+plural)
+4374) declivitous
+4375) bluntish (Collins)
+4376) subchapter (+plural - Collins)
+4377) cosupervisor (+plural - Wiktionary)
+4378) supervoltage (+plural)
+4379) cosupervision (Wiktionary)
+4380) cosupervise (+plural +ing +ed - Wiktionary)
+4381) resect (+ed +able)
+4382) resectional
+4383) resectionist
+4384) microbiologically (Collins)
+4385) microbiologic (Collins)
+4386) Cmd. (abbreviation - UK - Command Paper - 4th series)
+4387) Cmnd. (abbreviation - UK - Command Paper - 5th series) 
+4388) handgrip (+plural)
+4389) cyanoacrylate (+plural)
+4390) photostimulation (+plural - Wiktionary)
+4391) chromophore (+plural)
+4392) chromophoric
+4393) chromoplast (+plural)
 ==============
 
-British English Dictionary (Forked) 2.20
+British English Dictionary (Forked) 2.21
 by Marco A.G.Pinto
 
