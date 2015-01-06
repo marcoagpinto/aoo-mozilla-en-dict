@@ -6942,6 +6942,155 @@ V2.21 (ongoing)
 4391) chromophore (+plural)
 4392) chromophoric
 4393) chromoplast (+plural)
+
+5-JAN-2015
+4394) exoatmospheric
+4395) exobiological
+4396) exobiologist (+plural)
+4397) ethnolinguistics
+4398) ethnolinguist (+plural)
+4399) ethnohistory
+4400) ethnohistorian (+plural)
+4401) ethnohistoric
+4402) ethnohistorical
+4403) ethnoscience
+4404) ethogram (+plural)
+4405) twinflower (+plural)
+4406) townland (+plural)
+4407) chronometry
+4408) chronometrical
+4409) chronometrically
+4410) chronotherapy
+4411) chronostratigraphy (+ic)
+4412) substage
+4413) subspecific
+4414) subsonically
+4415) deflagration
+4416) ketones (added plural)
+4417) ketonic
+4418) ferrocene (+plural)
+4419) ferroconcrete
+4420) ferroelectrics (added plural)
+4421) ferroelectricity
+4422) ferromagnetism
+4423) Zeeman (Zeeman effect)
+4424) atomicities (added plural)
+4425) multiagent (+plural - Wiktionary) 
+4426) non-typical
+4427) non-transparency
+4428) non-U (Oxford: informal)
+4429) non-urban
+4430) non-use
+4431) non-validity
+4432) non-variable
+4433) non-vintage
+4434) non-word (added singular)
+4435) irregardless (Oxford: informal)
+4436) irrefutability
+4437) refutability (Collins)
+4438) regalism
+4439) regalist (+plural)
+4440) canonry (+plural)
+4441) Bastogne (name of place)
+4442) Junagarh (name of place)
+4443) flaunching
+4444) leadwork (+plural - Collins)
+4445) flat-woven
+4446) flat-weave
+4447) dhurrie (+plural)
+4448) durrie (+plural - another way of previous word)
+4449) awardee (+plural)
+4450) Waterville (name of place)
+4451) award-winning
+4452) traumatization (-IZE)
+4453) traumatisation (-ISE)
+4454) traumatism
+4455) multicentre (Collins)
+4456) multicentral (Collins)
+4457) crossmatch (+plural +ing +ed)
+4458) posttransfusion (Collins)
+
+6-JAN-2015
+4459) eponymously (merged into eponymous)
+4460) Lanchester (+'s - name)
+4461) routinism
+4462) routinist (+plural)
+4463) routineness (merged into routine)
+4464) streamlet (+plural)
+4465) Zealander (added singular)
+4466) psychosurgery
+4467) psychosurgical
+4468) radiochemist (+plural)
+4469) bohrium
+4470) permeance (+plural)
+4471) electropositive
+4472) electronegativity (+plural)
+4473) electrophilic
+4474) electrophile (+plural)
+4475) nucleonic (+plural)
+4476) nucleophilic
+4477) nucleophile (+plural)
+4478) nucleoplasm
+4479) nucleoprotein (+plural)
+4480) nucleosome (+plural)
+4481) nucleosomal
+4482) overprescribe (+s +ing +ed +ion)
+4483) titanically
+4484) Cicciolina (+'s - name)
+4485) pornocracy (Collins)
+4486) voguishly + voguishness (merged into voguish - Collins)
+4487) prenominal (+ly - Collins)
+4488) curricula vitae (removed since it was two words)
+4489) curriculum vitae (removed since it was two words)
+4490) curriculums (another plural way of curriculum)
+4491) gradience
+4492) ethnomethodological
+4493) ethnomethodologist (+plural)
+4494) avunculate
+4495) queendom
+4496) queenless
+4497) queenlike
+4498) queenship
+4499) filamented (merged into filament)
+4500) microelectrode (+plural - Collins)
+4501) astrometry (+ic)
+4502) Gaia (+'s - name)
+4503) Gaian (+plural)
+4504) ethicality
+4505) primitivist (+plural)
+4506) supervisee (+plural - Collins)
+4507) re-enacts + re-enacted + re-enacting (merged into re-enact)
+4508) re-enactment (+plural)
+4509) re-enactor (+plural)
+4510) handlist (+plural)
+4511) Barack (name)
+4512) McKinsey (+'s - name)
+4513) NGOs (added plural)
+4514) Croatians (added plural)
+4515) Armenians (added plural)
+4516) Assyrians (added plural)
+4517) Encaenia
+4518) succulently (merged into succulent)
+4519) imbibition
+4520) shadowland (+plural)
+4521) shadowgraphs (added plural)
+4522) radiographs (added plural)
+4523) radiographed (added ed)
+4524) radiographically
+4525) radioimmunoassay
+4526) radioisotopic
+4527) andrology
+4528) andrologist
+4529) areology
+4530) areological
+4531) areologist (+plural)
+4532) areole (+plural)
+4533) glochid (+plural)
+4534) discommodious
+4535) discommodity
+4536) sassy (+ier +iest +ly +ness - Oxford: informal)
+4537) WWI (World War I)
+4538) NYC (New York City)
 ==============
 
 British English Dictionary (Forked) 2.21
