@@ -7091,6 +7091,139 @@ V2.21 (ongoing)
 4536) sassy (+ier +iest +ly +ness - Oxford: informal)
 4537) WWI (World War I)
 4538) NYC (New York City)
+
+7-JAN-2015
+4539) bushbuck (+plural)
+4540) waterbuck (+plural)
+4541) bonobo (+plural)
+4542) capuchin (+plural)
+4543) Capuchin (+plural - upper case - Franciscan order)
+4544) Pio (+'s - name)
+4545) stigmatist
+4546) Francesco's (added the 's)
+4547) sublanguage (+plural)
+4548) sublateral
+4549) subkingdom (+plural)
+4550) Milton's (added the 's)
+4551) subjunctively
+4552) sublate (+plural +ed +ing +ion)
+4553) egomaniacal
+4554) egosurf (+plural +ed +ing - Oxford: informal)
+
+8-JAN-2015
+4555) Baikal (+'s - name of lake)
+4556) Baykal (+'s - another way of the previous word)
+4557) Bresenham (+'s - name)
+4558) milfoil (+plural)
+4559) allamanda (+plural)
+4560) plumeria (+plural)
+4561) voiceful
+4562) voice-activated
+4563) glassmaking (fixed: glass-making)
+4564) glassmaker (+plural)
+4565) glasspaper (fixed: glass-paper)
+4566) fiddleback
+4567) saddleback (+plural +ed)
+4568) birdlife (Collins)
+4569) xix + XIX (Roman numeral - 19)
+4570) Cyanobacteria (upper case)
+4571) cyanobacteria (lower case)
+4572) cyanobacterial
+4573) stromatolite (+plural)
+4574) apeman
+4575) apemen (plural of previous word)
+4576) coelurosaur (+plural)
+4577) integumental
+4578) integumentary
+4579) reconstructable
+4580) reconstructive
+4581) reconstructor
+4582) Egyptological
+4583) Egyptologist (+plural)
+4584) Tutankhamun (another way of Tutankhamen)
+
+9-JAN-2015
+4585) centrefire
+4586) varnisher (+plural)
+4587) sealers (added plural)
+4588) photocomposition
+4589) photocurrent
+4590) photodegradable
+4591) lookism
+4592) lookist
+4593) essentialism
+4594) Jesuitical (+ly)
+4595) south-west (fixed: south-West)
+4596) south-east (fixed: south-East)
+4597) north-east (fixed: north-East)
+4598) north-eastern (fixed: north-Eastern)
+4599) north-west (fixed: north-West)
+4600) north-western (fixed: north-Western)
+4601) south-eastern (fixed: south-Eastern)
+4602) southwardly (merged into southward)
+4603) fatling
+4604) Gatlings (added plural - Gatling gun)
+4605) stowable (Collins)
+4606) outlands (added plural)
+4607) photochromic
+4608) photochromism
+4609) viologen (+plural)
+4610) photo-oxidation
+4611) irradiance
+4612) anti-magnetic
+4613) tweeze (+plural +ed +ing)
+4614) tweezer (added singular)
+4615) post-date (+plural +ed +ing - fixed: postdate)
+4616) hybridity
+4617) Ludwig's (added the 's)
+4618) rotifers (added plural)
+4619) multicell (+ed - Collins)
+4620) telson (+plural)
+4621) setiferous (Collins)
+4622) setigerous (Collins - another way of previous word)
+4623) Telstar (+'s - name of satellite)
+4624) Ishtar (+'s - name)
+4625) Qataris (added plural)
+
+10-JAN-2015
+4626) VM (+plural - Virtual Machine - Wiktionary)
+4627) V-mail
+4628) ATMs (added plural)
+4629) automagically (Oxford: informal)
+4630) autologous
+4631) decompensation
+4632) decompensated
+4633) hepatoma (+plural)
+4634) hepatomata (another plural of previous word)
+4635) hepatopancreas
+4636) mouthpart (+plural)
+4637) foregut (+plural)
+4638) vitellogenin
+4639) xenobiotic (+plural)
+4640) recompilable (Wiktionary)
+4641) compilatory (Collins)
+4642) recompact (+plural +ing +ed - Wiktionary)
+4643) GUIs (added plural - Wiktionary)
+4644) burnoose (removed as it was American)
+4645) burnous (British way of previous word)
+4646) buttonhook (+plural)
+4647) downfield
+4648) Bukowski (+'s - name)
+4649) Xbox (+plural - video game console - Wiktionary)
+4650) Matroska
+4651) FLAC (+'s)
+4652) HEVC (+'s)
+4653) MP3s (added plural)
+4654) WAV (upper case)
+4655) wav (lower case)
+4656) terascale (Wiktionary)
+4657) teraflop (+plural)
+4658) electronvolt (+plural)
+4659) eV (abbreviation of previous word)
+4660) electro-oculogram
+4661) electro-optic (+plural)
+4662) electro-optical
+4663) agarose
 ==============
 
 British English Dictionary (Forked) 2.21
