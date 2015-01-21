@@ -7590,7 +7590,131 @@ V2.21 (ongoing)
 5213) breadwinning
 5214) SWOT (SWOT analysis)
 5215) shapewear
-==============
+
+18-JAN-2015
+5216) trigraph (+plural)
+5217) adverbials (added plural)
+5218) j (letter)
+5219) w (letter)
+5220) graphemes (added plural)
+5221) graphemic (+plural)
+5222) graphemically
+5223) misperceiving
+5224) misperception (+plural)
+5225) enlace (+ed)
+5226) autochromes (added plural)
+5227) microaerophilic
+5228) microaerophile (+plural)
+5229) recombinants (added plural)
+5230) unswollen (Collins)
+5231) DNase
+5232) RNase
+5233) resuspend (+plural +ed +ing +ion)
+5234) triturate (+plural +ed +ing +ion)
+5235) triturator (+plural)
+5236) triumphally (merged into triumphal)
+5237) triumphalists (added plural)
+5238) zander
+5239) marshalship
+5240) wing-tip (fixed: removed since in Oxford it is two words)
+5241) wingsuit
+5242) airboats (added plural)
+5243) AdWords (Google AdWords)
+5244) ECTS (European Credit Transfer Scheme)
+5245) plug-compatible
+5246) plugboard (+plural)
+5247) autosuggestion (fixed: auto-suggestion)
+5248) autotune
+5249) JPG (upper case)
+5250) jpg (lower case)
+5251) autoxidized (merged into autoxidize - IZE)
+5252) autoxidised (merged into autoxidise - ISE)
+5253) Transylvanian
+5254) transwoman
+5255) transwomen (plural of previous word)
+5256) appropriacy (+plural)
+
+19-JAN-2015
+5257) Wiktionary
+5258) auditorial
+5259) Deems (+'s - name)
+5260) deemster (+plural)
+5261) houseroom
+5262) abdominoplasty (+plural)
+5263) mammaplasty (+plural - Collins)
+5264) mammoplasty (+plural - Collins - another way of previous word)
+5265) extracorporeal
+5266) lithotripsy
+5267) lithotripter (+plural)
+5268) lithotriptor (+plural - another way of previous word)
+5269) lithotriptic
+5270) facelifts (added plural)
+5271) injectables (added plural)
+5272) Botox (+ed - trademark)
+5273) antipruritic (+plural)
+5274) nonsteroidal (Collins)
+5275) nonaspirin (Collins)
+5276) antitussive
+5277) premedication
+5278) premaxillary
+5279) prematch
+5280) premaster (+plural +ing +ed)
+5281) prelusive
+5282) prem (+plural)
+5283) hypothermal
+5284) hypothermic
+
+20-JAN-2015
+5285) zoophobia
+5286) bacteriophobia
+5287) cyberphobic's (added the ´s)
+5288) cyberphobes (added plural)
+5290) computerphobia (Collins)
+5291) realpolitik (fix: it was in upper case)
+5292) Talleyrand (+'s - name)
+5293) fuehrer (+plural +'s - another way for führer)
+5294) faunal
+5295) faunistic
+5296) fraternalism (+'s)
+5297) pledgee
+5298) Kelk (name)
+5299) aerosphere
+5300) aesthetician (+plural +'s)
+5301) badware
+5302) von (now in lower case - fixed: Von)
+5303) baculovirus (+plural)
+5304) baculum
+5305) bacula (plural of previous word)
+5306) ctenoid
+5307) aviculture
+5308) avicultural
+5309) aviculturalist (+plural)
+5310) aviculturist (+plural)
+5311) cubital
+5312) cubitus
+5313) kilobase (+plural)
+5314) hydrogel (+plural)
+5315) hydrofracturing
+5316) hydrofluorocarbon (+plural)
+5317) HFC (+plural - abbreviation of previous word)
+5318) irrigator (+plural)
+5319) megalitres (added plural)
+5320) tympanic
+5321) petrosal (+plural)
+5322) semilunar
+5323) semi-literate
+5324) semi-literacy
+5325) Malayalam
+5326) MiB (Wikipedia)
+5327) KiB (Wikipedia)
+5328) GiB (Wikipedia)
+5329) TiB (Wikipedia)
+5330) PiB (Wikipedia)
+5331) EiB (Wikipedia)
+5332) ZiB (Wikipedia)
+5333) YiB (Wikipedia)
+5334) unsharp + unsharpness
+=============
 
 British English Dictionary (Forked) 2.21
 by Marco A.G.Pinto
