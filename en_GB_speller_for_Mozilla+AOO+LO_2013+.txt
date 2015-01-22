@@ -1,5 +1,5 @@
 ﻿DICTIONARY
-English British
+British English
 (en_GB)
 THUNDERBIRD & FIREFOX & SEAMONKEY
 OPENOFFICE & LIBREOFFICE
@@ -7714,6 +7714,88 @@ V2.21 (ongoing)
 5332) ZiB (Wikipedia)
 5333) YiB (Wikipedia)
 5334) unsharp + unsharpness
+
+21-JAN-2015
+5335) draughtproof (+ing)
+5336) testiculate
+5337) eel-like
+5338) eely
+5339) underprepared
+5340) underpopulation
+5341) midtowns + midtown's (removed: American)
+5342) teriyaki
+5343) butternut (+plural)
+5344) movie (+plural - removed: chiefly American)
+5345) groovily + grooviness (merged into groovy)
+5346) dharma
+5347) cherubically
+5348) fifty-fifty
+5349) figgy (+ier +iest)
+5350) fightbacks (added plural)
+5351) Tynecastle (+'s - name)
+5352) fighter-bomber (+plural)
+5353) frontlet (+plural)
+5354) depigment (+ed)
+5355) depigmentation
+5356) vitiligo
+5357) leucoderma
+
+22-JAN-2015
+5358) catenative (+plural)
+5359) non-finite
+5360) prepose (+s +ing +ed)
+5361) backshift
+5362) unsurveyed
+5363) subpopulation (Collins)
+5364) unsusceptible
+5365) unsusceptibility
+5366) Westbury (+'s - name)
+5367) theming (merged into theme)
+5368) urbanist (+plural)
+5369) inliers (added plural)
+5370) Cimmerian (+plural +'s)
+5371) orogeny (+plural)
+5372) orogenesis
+5373) orogenic
+5374) orogen (+plural)
+5375) ultrastructure (Collins)
+5376) ultrastructural (Collins)
+5377) Proterozoic
+5378) Precambrian
+5379) Archaean
+5380) Priscoan
+5381) prismatically
+5382) starburst (+plural)
+5383) blocky (+ier +iest)
+5384) aragonitic (Collins)
+5385) unsprayed
+5386) unstabler + unstablest + unstableness (merged into unstable)
+5387) microarchitecture (+plural - Wiktionary)
+5388) Celeron (Intel)
+5389) i3 (Intel)
+5390) i5 (Intel)
+5391) i7 (Intel)
+5392) LGA (Intel)
+5393) Broadwell (+'s - name)
+5394) Haswell (+'s - name)
+5395) Krzanich (+'s - name)
+5396) Skylake (+'s - name)
+5397) transcriptome (+plural)
+5398) cybrid (Collins)
+5399) shoaled + shoaling (merged into shoal)
+5400) boneyard (Oxford: informal)
+5401) nuthouse (Oxford: informal)
+5402) hypochondriacal
+5403) pedicular (Collins)
+5404) immunocompromised
+5405) humoral
+5406) bloodlust (fixed: blood-lust)
+5407) upthrust (+s +ing +ed)
+5408) bloodletting (fixed: blood-letting)
+5409) Elaine's (added the 's - name)
+5410) alphafetoprotein
+5411) unconjugated (Collins)
+5412) immunohistochemistry (Collins)
 =============
 
 British English Dictionary (Forked) 2.21
