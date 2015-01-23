@@ -7796,6 +7796,32 @@ V2.21 (ongoing)
 5410) alphafetoprotein
 5411) unconjugated (Collins)
 5412) immunohistochemistry (Collins)
+
+23-JAN-2015
+5413) orthotic (+plural)
+5414) orthotist (+plural)
+5415) POP3
+5416) POP
+5417) RFC
+5418) brainwork
+5419) brainily (merged into brainy)
+5420) caseloads (added plural)
+5421) gromwell (+plural)
+5422) odiferous (another way of odoriferous)
+5423) Anubis (+'s - name)
+5424) cupholders (added plural)
+5425) telecourse (+plural - Collins)
+5426) baserunner (+plural - Collins)
+5427) angiographer (+plural)
+5428) angiographic
+5429) angiographically
+5430) angioneurotic
+5431) angiotensin
+5432) hydrocortisone
+5433) glucocorticoid (+plural)
+5434) agonists (added plural)
+5435) univalents (added plural)
+5436) nonhomologous (Collins)
 =============
 
 British English Dictionary (Forked) 2.21
