@@ -6774,7 +6774,7 @@ V2.20
 4232) unsmart (Collins)
 
 
-V2.21 (ongoing)
+V2.21
 --------------
 2-JAN-2015
 4233) Crowley's (added the 's)
@@ -7822,6 +7822,74 @@ V2.21 (ongoing)
 5434) agonists (added plural)
 5435) univalents (added plural)
 5436) nonhomologous (Collins)
+
+26-JAN-2015
+5437) Hansard (+plural +'s)
+5438) denotative
+5439) reverberantly
+5440) reverberative
+5441) reverberator
+5442) reverberatory
+5443) filmic
+5444) film-going
+5445) fade-up
+5446) fade-out (+plural)
+5447) fade-in (+plural)
+5448) docusoap (+plural)
+5449) film-maker's (added the 's)
+5450) featurette (+plural)
+5451) chromakeys + chromakeying + chromakeyed (merged into chromakey)
+5452) beleaguerment
+5453) transport's (added the 's)
+5454) adversarially (merged into adversarial)
+5455) adverbials (added plural)
+5456) commissarial
+5457) fantasist
+5458) incubi (plural of incubus)
+5459) linguistician (+plural)
+5460) metamathematics
+5461) metamathematician (+plural)
+5462) Las (Las Vegas)
+5463) dimmable
+5464) dimmish
+4565) concious (fix: removed, it doesn't exist)
+4566) conciousness (fix: removed, it doesn't exist)
+
+27-JAN-2015
+4567) subdiscipline (+plural - Collins)
+4568) subfield (+plural - Collins)
+4569) subduct (+plural +ing +ed)
+4570) subeditorial (fixed: sub-editorial)
+4571) subeditor (+plural +'s - fixed: sub-editor)
+4572) subeditorship (Collins)
+4573) netsplit (+plural +ing +ed - IRC - Wiktionary)
+4574) biennale (+plural)
+4575) documentalist's (added the 's)
+4576) ornamentalism
+4577) ornamentalist (+plural)
+4578) dextrous (+ly +ness - another way of dexterous)
+4579) dextral
+4580) dextrality
+4581) dextrally
+4582) apertural
+4583) regionalize (+ed +ion -IZE)
+4584) regionalise (+ed +ion -ISE)
+4585) methodic
+4586) lodgepole (lodgepole pine)
+4587) patrology
+4588) patronal
+4589) farouche
+4590) barouche (+plural)
+4591) Romanic
+4592) Vulcanian
+4593) Cappadocia
+4594) Cappadocian (+plural)
+4595) cappellacci
+4596) Diego's (added the 's - name)
+4597) breadhead (+plural - Oxford: informal)
+4598) jackfruit
+4599) centuples (added plural)
+4600) centrosome (+plural)
 =============
 
 British English Dictionary (Forked) 2.21
