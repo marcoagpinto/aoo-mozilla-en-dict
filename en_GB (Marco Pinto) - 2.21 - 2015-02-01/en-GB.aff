@@ -2,9 +2,18 @@
 # Also suitable as basis for Commonwealth and European English.
 # Built from scratch for MySpell. Released under LGPL.
 #
+# Sources used to verify the spelling of the words
+# Marco Pinto included in the dictionary:
+# 1) Oxford Dictionaries;
+# 2) Collins Dictionary;
+# 3) Macmillan Dictionary;
+# 4) Wiktionary (used with caution);
+# 5) Wikipedia (used with caution);
+# 6) Physical dictionaries.
+#
 # David Bartlett, Andrew Brown,
 # Kevin Atkinson, Marco A.G.Pinto.
-# R 2.20, 2015-01-01
+# R 2.21, 2015-02-01
 SET UTF-8
 TRY esiaénrtolcdugmfphbyvkw-'.zqjxSNRTLCGDMFPHBEAUYOIVKWóöâôZQJXÅçèîêàïüäñ
 REP 27
