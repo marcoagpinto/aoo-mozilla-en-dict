@@ -7890,8 +7890,123 @@ V2.21
 4598) jackfruit
 4599) centuples (added plural)
 4600) centrosome (+plural)
+
+
+V2.22 (ONGOING)
+--------------
+2-FEB-2015
+4601) reupload (+s +ing +ed - Wiktionary)
+4602) Purim
+4603) purificatory
+4604) Hecate (+'s - name)
+4605) Selene (+'s - name)
+4606) Endymion (+'s - name)
+4607) enduro (+plural)
+4608) karts (added plural)
+4609) karting (merged into kart)
+4610) autotest (+plural - Collins)
+4611) heathlands (added plural)
+4612) euphrasia
+4613) sabadilla
+4614) smartwatch (+plural)
+4615) Engelmann (+'s - name)
+4616) blackbutt (+plural)
+4617) cordwood
+4618) signage
+4619) overleveraged
+4620) DVR (+plural)
+4621) newsfeeds (added plural)
+4622) aggregator (+plural)
+4623) cladogram (+plural)
+4624) cladogenesis
+4625) cladogenetic
+4626) co-evolution
+4627) co-evolutionary
+4628) co-evolve (+s +ing +ed)
+4629) countertransference
+4630) buttercream
+4631) candyfloss
+4632) eco-warrior (+plural)
+4633) phenology
+4634) phenological
+4635) triglycerides (added plural)
+4636) squalene
+4637) glycerides (added plural)
+4638) hydrocephalic
+4639) hydrocephaly
+4640) sonography + sonograph + sonographic
+
+3-FEB-2015
+4641) Matangi (+'s - name)
+4642) synchromesh
+4643) diachroneity
+4644) diachronically
+4645) diachronistic
+4646) diachrony
+4647) ammonite (added singular)
+4648) inserters (added plural)
+4649) insertable
+4650) turnable (Collins)
+4651) mujahideen + mujahedin + mujahidin
+4652) semivowel (fixed: semi-vowel)
+4653) unmatch (+s +ing +ed - Wiktionary)
+4654) unmatchably
+4655) uncatchable
+4656) Osiris (+'s - name)
+4657) Osirian
+4658) Horus (+'s - name)
+4659) hosannah (another way of hosanna)
+4660) taskforce
+4661) pisciculture
+4662) piscicultural
+4663) pisciculturist
+4664) Piscean (+plural)
+4665) Andromedae
+4666) Andromache (+'s - name)
+4667) Neoptolemus (+'s - name)
+4668) Priam (+'s - name)
+4669) Hecuba (+'s - name)
+4670) Troilus (+'s - name)
+4671) Cressida (+'s - name)
+4672) Calchas (+'s - name)
+4673) frontwoman
+4674) frontwomen (plural of previous word)
+4675) kick-turn (+plural)
+4676) lipslide (+plural)
+4677) fakie (+plural)
+
+4-FEB-2015
+4678) unproblematical
+4679) unproblematically
+4680) progressivist (+plural)
+4681) degressive
+4682) concessive
+4683) bifunctional
+4684) functionalistic (Collins)
+4685) non-formal
+4686) non-fluent
+4687) transformative
+4688) transformationally
+4689) transfixion
+4690) transferware
+4691) underlease
+4692) underinvest (+s +ing +ed)
+4693) monogrammatic
+4694) sonogram (+plural)
+4695) to-dos (added plural - Collins)
+4696) tiramisu
+4697) cock-a-doodle-doo
+4698) cockaded (merged into cockade)
+4699) unswayed
+4700) home-loving
+4701) BFI (abbreviation: British Film Institute)
+4702) adland
+4703) Adlerian (+plural)
+4704) Freudians (added plural)
+4705) Freudianism
+4706) placeman (added singular)
 =============
 
-British English Dictionary (Forked) 2.21
+British English Dictionary (Forked) 2.22
 by Marco A.G.Pinto
 
