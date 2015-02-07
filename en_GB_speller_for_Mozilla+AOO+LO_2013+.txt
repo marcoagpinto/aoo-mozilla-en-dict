@@ -8005,6 +8005,90 @@ V2.22 (ONGOING)
 4704) Freudians (added plural)
 4705) Freudianism
 4706) placeman (added singular)
+
+5-FEB-2015
+4707) unobstructive (Collins)
+4708) unobserving (Collins)
+4709) inconsequentiality (+plural)
+4710) inconsequentialness
+4711) soundbox
+4712) charango (+plural)
+4713) roadless (merged into road)
+4714)  clearways (added plural)
+4715) KDE's (added the 's)
+4716) extended-play
+4717) EP
+4718) shaly (+ier +iest)
+4719) shaley (another way of previous word)
+4720) outsail (+s +ing +ed)
+4721) wiretap (+s +ing +ed)
+4722) wiretapper (+plural)
+4723) bivalence
+4724) quo (status quo)
+4725) ROI (abbreviation: Return On Investment)
+4726) skyrocket (+s +ing +ed - fixed: sky-rocket)
+4727) skysail (+plural)
+4728) Brooklyn (+'s - name of city)
+4729) snowscape (+plural)
+4730) roadmap (removed: Oxford says it is two words)
+4731) Citrix (+'s - name of company - Wikipedia)
+4732) SEO
+4733) relatable
+4734) relatability
+
+6-FEB-2015
+4735) eco-tax (+plural)
+4736) ecotone (+plural)
+4737) ecotonal
+4738) antiepileptic (Collins)
+4739) antianxiety (Collins)
+4740) unmedicated (Collins)
+4741) non-relative
+4742) non-selective
+4743) non-combative
+4744) e-learning
+4745) Aquitaine (+'s - name)
+4746) hawklike
+4747) waterlog (+s +ing +ed)
+4748) Carolingians (added plural)
+4749) genotoxic (Collins)
+4750) carbon-neutral
+4751) biocoenosis
+4752) biocoenoses (plural of previous word)
+4753) elevational
+4754) facies
+
+7-FEB-2015
+4755) antialiasing
+4756) antifungal (Collins)
+4757) antiballistic
+4758) antibubble
+4759) pharma (+plural)
+4760) anovulant (+plural)
+4761) calmative (+plural)
+4762) tricyclic (+plural)
+4763) bioavailability
+4764) bioavailable
+4765) monocyclic
+4766) membered
+4767) memberless
+4768) leptin
+4769) parvovirus (+plural)
+4770) leptospirosis
+4771) postulatory
+4772) posturers (added plural)
+4773) kleptocrat (+plural)
+4774) kleptocracy (+plural)
+4775) kleptocratic
+4776) kleptoparasite (+plural)
+4776) kleptoparasitic
+4777) kleptoparasitism
+4778) libitum (ad libitum)
+4779) unsized
+4780) unrevised
+4781) unrevoked
+4782) unreversed
+4783) unrestored
 =============
 
 British English Dictionary (Forked) 2.22
