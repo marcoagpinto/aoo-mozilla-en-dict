@@ -1,6 +1,6 @@
 en_CA Hunspell Dictionary
-Version 2015.01.28
-Wed Jan 28 18:25:25 2015 -0500 [30b5096]
+Version 2015.02.15
+Sun Feb 15 15:02:29 2015 -0500 [9853756]
 http://wordlist.sourceforge.net
 
 README file for English Hunspell dictionaries derived from SCOWL.
@@ -305,5 +305,5 @@ from the Ispell distribution they are under the Ispell copyright:
   ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
   POSSIBILITY OF SUCH DAMAGE.
 
-Build Date: Wed Jan 28 21:32:15 EST 2015
+Build Date: Sun Feb 15 15:30:12 EST 2015
 Wordlist Command: mk-list en_CA 60 | deaccent
