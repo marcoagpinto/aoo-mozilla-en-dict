@@ -8089,6 +8089,79 @@ V2.22 (ONGOING)
 4781) unrevoked
 4782) unreversed
 4783) unrestored
+
+9-FEB-2015
+4784) bling + blingy + blingier + blingiest
+4785) bling-bling (another way of previous word)
+4786) burkas (added plural)
+4787) burkha (+plural - another way of previous word)
+4788) burqa (+plural - another way of previous word)
+4789) chadors (added plural)
+4790) headscarves (added plural)
+4791) crowdfund (+plural)
+4792) deleverage (+s +ed +ing - Wiktionary)
+4793) delexical
+4794) earbud (+plural)
+4795) earbash (+ing - Oxford: informal)
+4796) emoji (+plural)
+4797) geocache (+s +ing +ed +er)
+4798) googles + googling (merged into google)
+4799) googleable
+4800) googlable (another way of previous word)
+4801) weblog (+plural + er)
+4802) underwire (+s +ed)
+4803) pat-down
+4804) Islamophobia
+4805) Islamophobe
+4806) Islamophobic
+4807) Islamists (added plural)
+4808) Wikileaks (+'s - Wikipedia)
+
+16-FEB-2015
+4809) Oxfordian (+plural)
+4810) unfermented
+4811) unrented (Collins)
+4812) unparented (Collins)
+4813) untormented (Collins)
+4814) unaugmented (Collins)
+4815) teleplay (+plural)
+4816) telepresence
+4817) televiewers (added plural)
+4818) monocrystalline
+4819) sugarbird (+plural)
+4820) flockmaster
+4821) teleports + teleported (merged into teleport)
+4822) gyroscopically
+4823) ISS (Collins - abbreviation: International Space Station)
+4824) spacewalking + spacewalked (merged into spacewalk)
+4825) spacefarer (+plural)
+4826) film-making
+4827) archaebacterium
+4828) archaebacteria (plural of previous word)
+4829) eubacterium
+4830) eubacteria (plural of previous word)
+4831) biliously (merged into bilious)
+4832) trilinear
+4833) affectless
+4834) affectlessness
+4835) immunosuppression
+4836) immunosuppressant (+plural)
+4837) immunosuppressed
+4838) immunosorbent
+4839) quantitation (+plural)
+4840) quantitate (+ed)
+4841) monochord (+plural)
+4842) pentachord
+4843) subdominant
+4844) ISPs (added plural)
+4845) subduable
+4846) subduer
+4847) Belford (+'s - name of place)
+4848) seamount (+plural)
+4849) seamfree
+4850) seamers (added plural)
+4851) puckery
+4852) pintuck (+plural)
 =============
 
 British English Dictionary (Forked) 2.22
