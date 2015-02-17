@@ -8162,6 +8162,38 @@ V2.22 (ONGOING)
 4850) seamers (added plural)
 4851) puckery
 4852) pintuck (+plural)
+
+17-FEB-2015
+4853) hangup (+plural - removed since Oxford says it is two words)
+4854) hyperlinking (merged into hyperlink)
+4855) Hitlers (added plural)
+4856) Hitlerian
+4857) Hitlerism
+4858) Hitlerite (+plural)
+4859) Megachiroptera
+4860) megachiropteran (+plural)
+4861) multiyear (Collins)
+4862) bancassurance
+4863) bankassurance (another way of previous word)
+4864) bancassurer (+plural)
+4865) Allianz (+'s - name)
+4866) Kieran (name)
+4867) banausic
+4868) haricot (+plural)
+4869) contrarian (+plural)
+4870) contrarianism
+4871) quinquagenarian
+4872) majoritarian (+plural)
+4873) majoritarianism
+4874) Gibraltarian (+plural)
+4875) Raith's (added the 's - name)
+4876) bioprivacy (Collins)
+4877) Obamacare
+4878) apices (another plural of apex)
+4879) apetalous
+4880) stipule (+plural)
+4881) stipular
+4882) unsubmerged (Collins)
 =============
 
 British English Dictionary (Forked) 2.22
