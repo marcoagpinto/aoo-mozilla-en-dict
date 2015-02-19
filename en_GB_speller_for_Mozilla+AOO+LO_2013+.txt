@@ -8194,6 +8194,100 @@ V2.22 (ONGOING)
 4880) stipule (+plural)
 4881) stipular
 4882) unsubmerged (Collins)
+
+18-FEB-2015
+4883) Brookes (+'s - name)
+4884) Bodleian (Bodleian Library)
+4885) Ashmolean (Ashmolean Museum)
+4886) Sheldonian (Sheldonian Theatre)
+4887) sculpturesque
+4888) freewheels (added plural)
+4889) freewheeler
+4890) passible
+4891) passibility
+4892) Athanasius (+'s - name)
+4893) discarnate
+4894) Eileen's (added the 's - name)
+4895) Platonism
+4896) Platonist (+plural)
+4897) logicism
+4898) intuitionists (added plural)
+4899) intuitionism
+4900) intuitionalism (another way of previous word)
+4901) compresence
+4902) compresent
+4903) immoralism
+4904) immoralist
+4905) Thrasymachus (+'s - name - Wikipedia)
+4906) absurdism
+4907) Chaplin's (added the 's - name)
+4908) absurdist (+plural)
+4909) Cartesians (added plural)
+4910) Descartes's (added the 's - name)
+4911) Cartesianism
+4912) defeasibility
+4913) defeasibly
+4914) counterclaiming (merged into counterclaim)
+
+19-FEB-2015
+4915) multithread
+4916) Timberlake (name)
+4917) offstage (fixed: off-stage)
+4918) onstage (fixed: on-stage)
+4919) lovelock (+plural)
+4920) lovelily
+4921) jubbly
+4922) vestiture (+plural)
+4923) excommunicator (+plural)
+4924) excommunicatory
+4925) ex-con (+plural - Oxford: informal)
+4926) bilboes
+4927) pathognomonic
+4928) Holmes's (added the 's - name)
+4929) shrink-wrap (+s +ing +ed)
+4930) break-bulk
+4931) multitaskers (added plural)
+4932) multitasks (merged into multitask)
+4933) multitouch
+4934) multituberculate (+plural)
+4935) monotreme (+plural)
+4936) condylarth (+plural)
+4937) condyloma (+plural)
+4938) condylomata (another plural of previous word)
+4939) condylomatous
+4940) CVA (abbreviation: cerebrovascular accident)
+4941) STDs (added plural)
+4942) reverb (+plural)
+4943) handclap (+plural +ing)
+4944) popish (+ly)
+4945) trad (Oxford: informal)
+4946) theremin (+plural)
+4947) cinnarizine (Collins)
+4948) cyclizine (Collins)
+4949) promethazine
+4950) amoxycillin
+4951) amoxicillin (another way of previous word)
+4952) ampicillin
+4953) erythromycin
+4954) dishwashing
+4955) dishy (+ier +iest)
+4956) telegenic
+4957) telefilm (+plural)
+4958) Gucci's (added the 's - name)
+4959) clinginess (merged into clingy)
+4960) annoyingness
+4961) balibuntal
+4962) trampette (Collins)
+4963) solanaceous
+4964) bioacoustics
+4965) James's (added the 's - name)
+4966) bioaccumulate (+s +ing +ed +ion)
+4967) Lucas's (added the 's - name)
+4968) sapiens (Homo sapiens)
+4969) assibilate (+ed +ion)
+4970) rhotic
+4971) rhoticity
+4972) postvocalic
 =============
 
 British English Dictionary (Forked) 2.22
