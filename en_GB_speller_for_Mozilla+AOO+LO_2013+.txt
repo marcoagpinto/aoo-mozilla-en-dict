@@ -8288,6 +8288,31 @@ V2.22 (ONGOING)
 4970) rhotic
 4971) rhoticity
 4972) postvocalic
+
+20-FEB-2015
+4973) tics (added plural)
+4974) pic (+plural - Oxford: informal)
+4975) digicam (+plural)
+4976) digipak
+4977) untruly (Kevin Atkinson wordlist 60)
+4978) unremarked (Kevin Atkinson wordlist 60)
+4979) unshaped (Kevin Atkinson wordlist 60)
+4980) unposed
+4981) mustardy
+4982) chorography
+4983) chorographer (+plural)
+4984) chorographic
+4985) geostrategic
+4986) geostrategy
+4987) Africanism
+4988) Africanist
+4989) Africanize (+s +ed +ing +ion -IZE)
+4990) Africanise (+s +ed +ing +ion -ISE)
+4991) bezoar (+plural)
+4992) lungworm (+plural)
+4993) furunculosis
+4994) interdigital
+4995) OCRs + OCRing + OCRed (merged into OCR - Wiktionary)
 =============
 
 British English Dictionary (Forked) 2.22
