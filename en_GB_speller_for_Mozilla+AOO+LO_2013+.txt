@@ -8313,6 +8313,114 @@ V2.22 (ONGOING)
 4993) furunculosis
 4994) interdigital
 4995) OCRs + OCRing + OCRed (merged into OCR - Wiktionary)
+
+23-FEB-2015
+4996) versicle (+plural)
+4997) responsory (+plural)
+4998) graduals (added plural)
+4999) gradiometer
+5000) altazimuth
+5001) gradualistic
+5002) dragline (+plural)
+5003) bucketwheel (+plural)
+5004) dozers (added plural)
+5005) deckhouse (+plural)
+5006) shotted
+5007) lionfish (+plural - Collins)
+5008) triggerfish (+plural)
+5009) amidship (added singular)
+5010) baggywrinkle
+5011) overemployment (Collins)
+5012) foozle (+s +ing +ed - Oxford: informal)
+5013) forewing (+plural)
+5014) beeswing
+5015) haltere (+plural)
+5016) imaginal
+5017) instar (+plural)
+5018) hindwings (added plural)
+5019) alisphenoid (+plural)
+5020) glenoid
+5021) fossa
+5022) glenohumeral
+5023) hyperextend (+s +ing +ed +ion)
+5024) dystonia
+5025) dystonic
+5026) embolization (-IZE)
+5027) embolisation (-ISE)
+5028) thrombolysis
+5029) thrombolytic
+5030) ischaemia
+5031) ischaemic
+5032) autolysis
+5033) autolytic
+5034) lysosome (+plural)
+5035) lysosomal
+5036) angulate (+s +ing +ed)
+5037) angulation (+plural)
+5038) cerebriform (Collins)
+5039) Pott (+'s - name)
+5040) calcalkaline
+5041) laurustinus
+5042) desex (+s +ing +ed)
+5043) deservingness
+
+24-FEB-2015
+5044) lolcat (+plural)
+5045) mash-ups (added plural)
+5046) Chekhov's (added 's - name)
+5047) masjid (+plural)
+5048) gurdwara (+plural)
+5049) microloan (+plural - Collins)
+5050) muggle (+plural - Oxford: informal)
+5051) multiverse (+plural)
+5052) meme (+plural)
+5053) memetic
+5054) declass (+ed)
+5055) cosplay (+s +ing +ed +er +ers)
+5056) COSPAR (abbreviation: Committee on Space Research)
+5057) meh (Oxford: informal)
+5058) orc (+plural)
+5059) orcish
+5060) hobbit (added plural +'s)
+5061) Gandalf (+'s - name - Wikipedia)
+5062) Frodo (+'s - name - Wikipedia)
+5063) Tolkien (+'s - name)
+5064) Tolkienesque
+5065) overshare (+s +ing +ed +er +ers)
+5066) grassquit (+plural)
+5067) bananaquit (+plural)
+5068) soulmate (+plural)
+5069) Rastafarian (+plural)
+5070) Rastafarianism
+5071) Anthropocene
+5072) wish-list (removed - Oxford says it is two words)
+5073) webisode (+plural)
+5074) vuvuzela (+plural)
+5075) unfriends (merged into unfriend)
+5076) usernames (added plural)
+5077) handhelds (added plural)
+5078) lammergeier
+5079) lammergeyer (another way of previous word)
+5080) Fraktur
+5081) thunderbird (+plural +'s - lower case - mythical bird)
+5082) thickheads (added plural)
+5083) Asgard (+'s - name)
+5084) Camelopardalis (name of place)
+5085) Centaurus (name of place)
+5086) aquarobics
+5087) divemaster (+plural)
+5088) freestyling + freestyled + freestyler + freestylers (merged into freestyle)
+5089) biscotti
+5090) codebase (+plural - Wiktionary)
+5091) postmortem (fixed: post-mortem)
+5092) codeless (Collins)
+5093) undebated (Collins)
+5094) firebase
+5095) winery (added singular)
+5096) wineskins (added plural)
+5097) unshrunk
+5098) Winesap (+plural)
+5099) nock (+s +ing +ed)
 =============
 
 British English Dictionary (Forked) 2.22
