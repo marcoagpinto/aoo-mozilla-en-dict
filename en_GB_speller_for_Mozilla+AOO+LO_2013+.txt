@@ -7892,7 +7892,7 @@ V2.21
 4600) centrosome (+plural)
 
 
-V2.22 (ONGOING)
+V2.22
 --------------
 2-FEB-2015
 4601) reupload (+s +ing +ed - Wiktionary)
@@ -8421,6 +8421,17 @@ V2.22 (ONGOING)
 5097) unshrunk
 5098) Winesap (+plural)
 5099) nock (+s +ing +ed)
+
+25-FEB-2015
+5100) keyserver (+plural - Wiktionary)
+5101) QA (abbreviation: Quality assurance)
+5102) passphrase (+plural - Wiktionary)
+5103) GnuPG's (added the 's)
+5104) PostScript (trademark)
+5105) Fri (abbreviation: Friday)
+5106) Jun (abbreviation: June)
+5107) Jul (abbreviation: July)
+5108) Sep (abbreviation: September)
 =============
 
 British English Dictionary (Forked) 2.22

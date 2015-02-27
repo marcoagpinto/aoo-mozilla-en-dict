@@ -7377,3 +7377,516 @@ V2.21 - 1-FEB-2015
 4598) jackfruit
 4599) centuples (added plural)
 4600) centrosome (+plural)
+
+
+V2.22 - 1-MAR-2015
+------------------
+4601) reupload (+s +ing +ed - Wiktionary)
+4602) Purim
+4603) purificatory
+4604) Hecate (+'s - name)
+4605) Selene (+'s - name)
+4606) Endymion (+'s - name)
+4607) enduro (+plural)
+4608) karts (added plural)
+4609) karting (merged into kart)
+4610) autotest (+plural - Collins)
+4611) heathlands (added plural)
+4612) euphrasia
+4613) sabadilla
+4614) smartwatch (+plural)
+4615) Engelmann (+'s - name)
+4616) blackbutt (+plural)
+4617) cordwood
+4618) signage
+4619) overleveraged
+4620) DVR (+plural)
+4621) newsfeeds (added plural)
+4622) aggregator (+plural)
+4623) cladogram (+plural)
+4624) cladogenesis
+4625) cladogenetic
+4626) co-evolution
+4627) co-evolutionary
+4628) co-evolve (+s +ing +ed)
+4629) countertransference
+4630) buttercream
+4631) candyfloss
+4632) eco-warrior (+plural)
+4633) phenology
+4634) phenological
+4635) triglycerides (added plural)
+4636) squalene
+4637) glycerides (added plural)
+4638) hydrocephalic
+4639) hydrocephaly
+4640) sonography + sonograph + sonographic
+4641) Matangi (+'s - name)
+4642) synchromesh
+4643) diachroneity
+4644) diachronically
+4645) diachronistic
+4646) diachrony
+4647) ammonite (added singular)
+4648) inserters (added plural)
+4649) insertable
+4650) turnable (Collins)
+4651) mujahideen + mujahedin + mujahidin
+4652) semivowel (fixed: semi-vowel)
+4653) unmatch (+s +ing +ed - Wiktionary)
+4654) unmatchably
+4655) uncatchable
+4656) Osiris (+'s - name)
+4657) Osirian
+4658) Horus (+'s - name)
+4659) hosannah (another way of hosanna)
+4660) taskforce
+4661) pisciculture
+4662) piscicultural
+4663) pisciculturist
+4664) Piscean (+plural)
+4665) Andromedae
+4666) Andromache (+'s - name)
+4667) Neoptolemus (+'s - name)
+4668) Priam (+'s - name)
+4669) Hecuba (+'s - name)
+4670) Troilus (+'s - name)
+4671) Cressida (+'s - name)
+4672) Calchas (+'s - name)
+4673) frontwoman
+4674) frontwomen (plural of previous word)
+4675) kick-turn (+plural)
+4676) lipslide (+plural)
+4677) fakie (+plural)
+4678) unproblematical
+4679) unproblematically
+4680) progressivist (+plural)
+4681) degressive
+4682) concessive
+4683) bifunctional
+4684) functionalistic (Collins)
+4685) non-formal
+4686) non-fluent
+4687) transformative
+4688) transformationally
+4689) transfixion
+4690) transferware
+4691) underlease
+4692) underinvest (+s +ing +ed)
+4693) monogrammatic
+4694) sonogram (+plural)
+4695) to-dos (added plural - Collins)
+4696) tiramisu
+4697) cock-a-doodle-doo
+4698) cockaded (merged into cockade)
+4699) unswayed
+4700) home-loving
+4701) BFI (abbreviation: British Film Institute)
+4702) adland
+4703) Adlerian (+plural)
+4704) Freudians (added plural)
+4705) Freudianism
+4706) placeman (added singular)
+4707) unobstructive (Collins)
+4708) unobserving (Collins)
+4709) inconsequentiality (+plural)
+4710) inconsequentialness
+4711) soundbox
+4712) charango (+plural)
+4713) roadless (merged into road)
+4714)  clearways (added plural)
+4715) KDE's (added the 's)
+4716) extended-play
+4717) EP
+4718) shaly (+ier +iest)
+4719) shaley (another way of previous word)
+4720) outsail (+s +ing +ed)
+4721) wiretap (+s +ing +ed)
+4722) wiretapper (+plural)
+4723) bivalence
+4724) quo (status quo)
+4725) ROI (abbreviation: Return On Investment)
+4726) skyrocket (+s +ing +ed - fixed: sky-rocket)
+4727) skysail (+plural)
+4728) Brooklyn (+'s - name of city)
+4729) snowscape (+plural)
+4730) roadmap (removed: Oxford says it is two words)
+4731) Citrix (+'s - name of company - Wikipedia)
+4732) SEO
+4733) relatable
+4734) relatability
+4735) eco-tax (+plural)
+4736) ecotone (+plural)
+4737) ecotonal
+4738) antiepileptic (Collins)
+4739) antianxiety (Collins)
+4740) unmedicated (Collins)
+4741) non-relative
+4742) non-selective
+4743) non-combative
+4744) e-learning
+4745) Aquitaine (+'s - name)
+4746) hawklike
+4747) waterlog (+s +ing +ed)
+4748) Carolingians (added plural)
+4749) genotoxic (Collins)
+4750) carbon-neutral
+4751) biocoenosis
+4752) biocoenoses (plural of previous word)
+4753) elevational
+4754) facies
+4755) antialiasing
+4756) antifungal (Collins)
+4757) antiballistic
+4758) antibubble
+4759) pharma (+plural)
+4760) anovulant (+plural)
+4761) calmative (+plural)
+4762) tricyclic (+plural)
+4763) bioavailability
+4764) bioavailable
+4765) monocyclic
+4766) membered
+4767) memberless
+4768) leptin
+4769) parvovirus (+plural)
+4770) leptospirosis
+4771) postulatory
+4772) posturers (added plural)
+4773) kleptocrat (+plural)
+4774) kleptocracy (+plural)
+4775) kleptocratic
+4776) kleptoparasite (+plural)
+4776) kleptoparasitic
+4777) kleptoparasitism
+4778) libitum (ad libitum)
+4779) unsized
+4780) unrevised
+4781) unrevoked
+4782) unreversed
+4783) unrestored
+4784) bling + blingy + blingier + blingiest
+4785) bling-bling (another way of previous word)
+4786) burkas (added plural)
+4787) burkha (+plural - another way of previous word)
+4788) burqa (+plural - another way of previous word)
+4789) chadors (added plural)
+4790) headscarves (added plural)
+4791) crowdfund (+plural)
+4792) deleverage (+s +ed +ing - Wiktionary)
+4793) delexical
+4794) earbud (+plural)
+4795) earbash (+ing - Oxford: informal)
+4796) emoji (+plural)
+4797) geocache (+s +ing +ed +er)
+4798) googles + googling (merged into google)
+4799) googleable
+4800) googlable (another way of previous word)
+4801) weblog (+plural + er)
+4802) underwire (+s +ed)
+4803) pat-down
+4804) Islamophobia
+4805) Islamophobe
+4806) Islamophobic
+4807) Islamists (added plural)
+4808) Wikileaks (+'s - Wikipedia)
+4809) Oxfordian (+plural)
+4810) unfermented
+4811) unrented (Collins)
+4812) unparented (Collins)
+4813) untormented (Collins)
+4814) unaugmented (Collins)
+4815) teleplay (+plural)
+4816) telepresence
+4817) televiewers (added plural)
+4818) monocrystalline
+4819) sugarbird (+plural)
+4820) flockmaster
+4821) teleports + teleported (merged into teleport)
+4822) gyroscopically
+4823) ISS (Collins - abbreviation: International Space Station)
+4824) spacewalking + spacewalked (merged into spacewalk)
+4825) spacefarer (+plural)
+4826) film-making
+4827) archaebacterium
+4828) archaebacteria (plural of previous word)
+4829) eubacterium
+4830) eubacteria (plural of previous word)
+4831) biliously (merged into bilious)
+4832) trilinear
+4833) affectless
+4834) affectlessness
+4835) immunosuppression
+4836) immunosuppressant (+plural)
+4837) immunosuppressed
+4838) immunosorbent
+4839) quantitation (+plural)
+4840) quantitate (+ed)
+4841) monochord (+plural)
+4842) pentachord
+4843) subdominant
+4844) ISPs (added plural)
+4845) subduable
+4846) subduer
+4847) Belford (+'s - name of place)
+4848) seamount (+plural)
+4849) seamfree
+4850) seamers (added plural)
+4851) puckery
+4852) pintuck (+plural)
+4853) hangup (+plural - removed since Oxford says it is two words)
+4854) hyperlinking (merged into hyperlink)
+4855) Hitlers (added plural)
+4856) Hitlerian
+4857) Hitlerism
+4858) Hitlerite (+plural)
+4859) Megachiroptera
+4860) megachiropteran (+plural)
+4861) multiyear (Collins)
+4862) bancassurance
+4863) bankassurance (another way of previous word)
+4864) bancassurer (+plural)
+4865) Allianz (+'s - name)
+4866) Kieran (name)
+4867) banausic
+4868) haricot (+plural)
+4869) contrarian (+plural)
+4870) contrarianism
+4871) quinquagenarian
+4872) majoritarian (+plural)
+4873) majoritarianism
+4874) Gibraltarian (+plural)
+4875) Raith's (added the 's - name)
+4876) bioprivacy (Collins)
+4877) Obamacare
+4878) apices (another plural of apex)
+4879) apetalous
+4880) stipule (+plural)
+4881) stipular
+4882) unsubmerged (Collins)
+4883) Brookes (+'s - name)
+4884) Bodleian (Bodleian Library)
+4885) Ashmolean (Ashmolean Museum)
+4886) Sheldonian (Sheldonian Theatre)
+4887) sculpturesque
+4888) freewheels (added plural)
+4889) freewheeler
+4890) passible
+4891) passibility
+4892) Athanasius (+'s - name)
+4893) discarnate
+4894) Eileen's (added the 's - name)
+4895) Platonism
+4896) Platonist (+plural)
+4897) logicism
+4898) intuitionists (added plural)
+4899) intuitionism
+4900) intuitionalism (another way of previous word)
+4901) compresence
+4902) compresent
+4903) immoralism
+4904) immoralist
+4905) Thrasymachus (+'s - name - Wikipedia)
+4906) absurdism
+4907) Chaplin's (added the 's - name)
+4908) absurdist (+plural)
+4909) Cartesians (added plural)
+4910) Descartes's (added the 's - name)
+4911) Cartesianism
+4912) defeasibility
+4913) defeasibly
+4914) counterclaiming (merged into counterclaim)
+4915) multithread
+4916) Timberlake (name)
+4917) offstage (fixed: off-stage)
+4918) onstage (fixed: on-stage)
+4919) lovelock (+plural)
+4920) lovelily
+4921) jubbly
+4922) vestiture (+plural)
+4923) excommunicator (+plural)
+4924) excommunicatory
+4925) ex-con (+plural - Oxford: informal)
+4926) bilboes
+4927) pathognomonic
+4928) Holmes's (added the 's - name)
+4929) shrink-wrap (+s +ing +ed)
+4930) break-bulk
+4931) multitaskers (added plural)
+4932) multitasks (merged into multitask)
+4933) multitouch
+4934) multituberculate (+plural)
+4935) monotreme (+plural)
+4936) condylarth (+plural)
+4937) condyloma (+plural)
+4938) condylomata (another plural of previous word)
+4939) condylomatous
+4940) CVA (abbreviation: cerebrovascular accident)
+4941) STDs (added plural)
+4942) reverb (+plural)
+4943) handclap (+plural +ing)
+4944) popish (+ly)
+4945) trad (Oxford: informal)
+4946) theremin (+plural)
+4947) cinnarizine (Collins)
+4948) cyclizine (Collins)
+4949) promethazine
+4950) amoxycillin
+4951) amoxicillin (another way of previous word)
+4952) ampicillin
+4953) erythromycin
+4954) dishwashing
+4955) dishy (+ier +iest)
+4956) telegenic
+4957) telefilm (+plural)
+4958) Gucci's (added the 's - name)
+4959) clinginess (merged into clingy)
+4960) annoyingness
+4961) balibuntal
+4962) trampette (Collins)
+4963) solanaceous
+4964) bioacoustics
+4965) James's (added the 's - name)
+4966) bioaccumulate (+s +ing +ed +ion)
+4967) Lucas's (added the 's - name)
+4968) sapiens (Homo sapiens)
+4969) assibilate (+ed +ion)
+4970) rhotic
+4971) rhoticity
+4972) postvocalic
+4973) tics (added plural)
+4974) pic (+plural - Oxford: informal)
+4975) digicam (+plural)
+4976) digipak
+4977) untruly (Kevin Atkinson wordlist 60)
+4978) unremarked (Kevin Atkinson wordlist 60)
+4979) unshaped (Kevin Atkinson wordlist 60)
+4980) unposed
+4981) mustardy
+4982) chorography
+4983) chorographer (+plural)
+4984) chorographic
+4985) geostrategic
+4986) geostrategy
+4987) Africanism
+4988) Africanist
+4989) Africanize (+s +ed +ing +ion -IZE)
+4990) Africanise (+s +ed +ing +ion -ISE)
+4991) bezoar (+plural)
+4992) lungworm (+plural)
+4993) furunculosis
+4994) interdigital
+4995) OCRs + OCRing + OCRed (merged into OCR - Wiktionary)
+4996) versicle (+plural)
+4997) responsory (+plural)
+4998) graduals (added plural)
+4999) gradiometer
+5000) altazimuth
+5001) gradualistic
+5002) dragline (+plural)
+5003) bucketwheel (+plural)
+5004) dozers (added plural)
+5005) deckhouse (+plural)
+5006) shotted
+5007) lionfish (+plural - Collins)
+5008) triggerfish (+plural)
+5009) amidship (added singular)
+5010) baggywrinkle
+5011) overemployment (Collins)
+5012) foozle (+s +ing +ed - Oxford: informal)
+5013) forewing (+plural)
+5014) beeswing
+5015) haltere (+plural)
+5016) imaginal
+5017) instar (+plural)
+5018) hindwings (added plural)
+5019) alisphenoid (+plural)
+5020) glenoid
+5021) fossa
+5022) glenohumeral
+5023) hyperextend (+s +ing +ed +ion)
+5024) dystonia
+5025) dystonic
+5026) embolization (-IZE)
+5027) embolisation (-ISE)
+5028) thrombolysis
+5029) thrombolytic
+5030) ischaemia
+5031) ischaemic
+5032) autolysis
+5033) autolytic
+5034) lysosome (+plural)
+5035) lysosomal
+5036) angulate (+s +ing +ed)
+5037) angulation (+plural)
+5038) cerebriform (Collins)
+5039) Pott (+'s - name)
+5040) calcalkaline
+5041) laurustinus
+5042) desex (+s +ing +ed)
+5043) deservingness
+5044) lolcat (+plural)
+5045) mash-ups (added plural)
+5046) Chekhov's (added 's - name)
+5047) masjid (+plural)
+5048) gurdwara (+plural)
+5049) microloan (+plural - Collins)
+5050) muggle (+plural - Oxford: informal)
+5051) multiverse (+plural)
+5052) meme (+plural)
+5053) memetic
+5054) declass (+ed)
+5055) cosplay (+s +ing +ed +er +ers)
+5056) COSPAR (abbreviation: Committee on Space Research)
+5057) meh (Oxford: informal)
+5058) orc (+plural)
+5059) orcish
+5060) hobbit (added plural +'s)
+5061) Gandalf (+'s - name - Wikipedia)
+5062) Frodo (+'s - name - Wikipedia)
+5063) Tolkien (+'s - name)
+5064) Tolkienesque
+5065) overshare (+s +ing +ed +er +ers)
+5066) grassquit (+plural)
+5067) bananaquit (+plural)
+5068) soulmate (+plural)
+5069) Rastafarian (+plural)
+5070) Rastafarianism
+5071) Anthropocene
+5072) wish-list (removed - Oxford says it is two words)
+5073) webisode (+plural)
+5074) vuvuzela (+plural)
+5075) unfriends (merged into unfriend)
+5076) usernames (added plural)
+5077) handhelds (added plural)
+5078) lammergeier
+5079) lammergeyer (another way of previous word)
+5080) Fraktur
+5081) thunderbird (+plural +'s - lower case - mythical bird)
+5082) thickheads (added plural)
+5083) Asgard (+'s - name)
+5084) Camelopardalis (name of place)
+5085) Centaurus (name of place)
+5086) aquarobics
+5087) divemaster (+plural)
+5088) freestyling + freestyled + freestyler + freestylers (merged into freestyle)
+5089) biscotti
+5090) codebase (+plural - Wiktionary)
+5091) postmortem (fixed: post-mortem)
+5092) codeless (Collins)
+5093) undebated (Collins)
+5094) firebase
+5095) winery (added singular)
+5096) wineskins (added plural)
+5097) unshrunk
+5098) Winesap (+plural)
+5099) nock (+s +ing +ed)
+5100) keyserver (+plural - Wiktionary)
+5101) QA (abbreviation: Quality assurance)
+5102) passphrase (+plural - Wiktionary)
+5103) GnuPG's (added the 's)
+5104) PostScript (trademark)
+5105) Fri (abbreviation: Friday)
+5106) Jun (abbreviation: June)
+5107) Jul (abbreviation: July)
+5108) Sep (abbreviation: September)
