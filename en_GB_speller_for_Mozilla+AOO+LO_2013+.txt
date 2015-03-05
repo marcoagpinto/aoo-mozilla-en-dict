@@ -8432,8 +8432,121 @@ V2.22
 5106) Jun (abbreviation: June)
 5107) Jul (abbreviation: July)
 5108) Sep (abbreviation: September)
+
+
+V2.23 (ongoing)
+--------------
+3-MAR-2015
+5109) Aintree (name)
+5110) ainhum
+5111) cholelithiasis
+5112) cholecystitis
+5113) pancreatitis
+5114) cardiomyopathy
+5115) pericardial
+5116) mammal-like
+5117) mammalogy (+ist +ists)
+5118) Merriam's (added the 's - name)
+5119) supinate (+s +ing +ed +ion)
+5120) pronate (+s +ing +ed +ion)
+5121) pronator (+plural)
+5122) metacentres (added plural)
+5123) acrocentric (Collins)
+5124) submetacentric (Collins)
+5125) Malory (+'s - name)
+5126) malperformance
+5127) loti (currency)
+5128) maloti (plural of previous word)
+5129) Lothario (+plural)
+5130) butterbur (+'s - Collins)
+5131) institute's (added the 's)
+5132) extremophile (+plural)
+5133) archaebacterial
+5134) toxigenicity (Collins)
+5135) botulinum (botulinum toxin)
+5136) variola
+5137) variolar
+5138) variolous
+5139) Mather (name)
+5140) Smoot (+'s - name)
+5141) RISC
+5142) click-through (+plural)
+5143) clientelism
+5144) followee (+plural)
+5145) aggressivity (Collins)
+5146) ballistically
+5147) hydroforming (Collins)
+
+4-MAR-2015
+5148) SourceForge (+'s)
+5149) logon (+plural)
+5150) logouts (added plural)
+5151) logoff (+plural)
+5152) newfound
+5153) Harington (name)
+5154) sightlessness
+5155) Arkansans (added plural - Kevin Atkinson wordlist 60)
+5156) Axis (The Axis - alliance of Germany and Italy WWII - Kevin wordlist 60)
+5157) Bayamón (name of city - Kevin Atkinson wordlist 60)
+5158) Camelots (added plural - Kevin Atkinson wordlist 60)
+5159) Carib (+plural)
+5160) Devonians (added plural)
+5161) cockboat
+5162) backwinding + backwinded (merged into backwind)
+5163) ripstop
+5164) longstop
+5165) half-centuries (added plural)
+5166) Barclays (+'s - name - Wikipedia)
+5167) peggy (+plural - slang)
+5168) Peggy (+'s - name)
+5169) Chekhovian (Kevin Atkinson wordlist 60)
+5170) Comoran (Kevin Atkinson wordlist 60)
+5171) Darwinist (+plural - Kevin Atkinson wordlist 60)
+5172) Fräulein (Kevin Atkinson wordlist 60)
+5173) Galaxy (The Galaxy - uppercase - Kevin Atkinson wordlist 60)
+5174) Greenlandic (Kevin Atkinson wordlist 60)
+5175) gorgon's (added the 's)
+5176) multiheaded (Collins)
+5177) Grozny (+'s - name - Kevin Atkinson wordlist 60)
+5178) Ivorian (+plural - Kevin Atkinson wordlist 60)
+5179) Nepalis (added plural - Kevin Atkinson wordlist 60)
+5180) Gurkhali
+5181) Gorkhali (another way of previous word)
+5182) Vallejo's (added the 's - name)
+5183) vallecula
+5184) valleculae (plural of previous word)
+5185) Nibelungenlied
+5186) Nibelung (+plural)
+5187) Nibelungen (another plural of previous word)
+5188) Burgundians (added plural)
+
+5-MAR-2015
+5189) Cassidy (+'s - name - Wikipedia)
+5190) Longmire (+'s - name - Wikipedia)
+5191) Eurocard (Wikipedia)
+5192) lightwork (+er +ers - Wiktionary)
+5193) Kenney (name - Wikipedia)
+5194) Medina's (added the 's - name)
+5195) exclusivism
+5196) exclusivist (+plural)
+5197) excogitate (+s +ing +ed +ion)
+5198) antidisestablishmentarian (+plural)
+5199) exceptionalism
+5200) ecclesial
+5201) interreligious (Collins)
+5202) penates
+5203) penannular
+5204) zoomorphic
+5205) zoomorphism
+5206) biomorphs (added plural)
+5207) biomorph's (added the 's)
+5208) biomorphic
+5209) Dawkins (+'s - name)
+5210) Aristotelians (added plural)
+5211) Sacrobosco (+'s - name - Wikipedia)
+5212) Paracelsus (+'s - name)
 =============
 
-British English Dictionary (Forked) 2.22
+British English Dictionary (Forked) 2.23
 by Marco A.G.Pinto
 
