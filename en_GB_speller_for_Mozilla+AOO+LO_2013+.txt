@@ -8545,6 +8545,98 @@ V2.23 (ongoing)
 5210) Aristotelians (added plural)
 5211) Sacrobosco (+'s - name - Wikipedia)
 5212) Paracelsus (+'s - name)
+
+6-MAR-2015
+5213) MKV + mkv
+5214) AVI
+5215) FLV
+5216) MK3D + mk3d
+5217) MKA + mka
+5218) MKS
+5219) streamable (Wiktionary)
+5220) Matroska's (added the 's)
+5221) MOV
+5222) Vorbis (+'s - Wikipedia)
+5223) ogg + Ogg
+5224) oga
+5225) WMA
+5226) AAC
+5227) ambisonic (+plural)
+5228) DirectShow (+'s - Wikipedia)
+5229) Netherhampton (name)
+5230) Phillips's (added the 's - name)
+5231) touch-sensitive
+5232) microchannel (+plural - Wiktionary)
+5233) photoresist (+plural)
+5234) photolithography
+5235) photolitho (another way of previous word)
+5236) photolithographic
+5237) photolithographically
+5238) microminiature (Collins)
+5239) oligonucleotide (+plural)
+5240) polynucleotide (+plural)
+5241) polynuclear
+5242) Woburn (+'s - name)
+5243) acrylamide
+5244) toxicant (+plural)
+5245) immunogenetic (+plural - Collins)
+5246) immunogenetical (Collins)
+5247) browntop
+5248) androsterone
+5249) oestradiol
+5250) oestrogenic
+5251) progestin (+plural)
+5252) translocations (added plural)
+5253) mistranslate
+5254) quadrate (+plural)
+5255) trabecula
+5256) trabeculae (plural of previous word)
+5257) trabecular
+5258) trabeculate
+5259) intergrowth (+plural)
+5260) intergrow
+5261) intergrew (past of previous word)
+5262) intergrown (past participle of intergrow)
+5263) limonite (+ic)
+5264) pseudomorph (+plural +ic)
+5265) pseudomorphism
+5266) pseudomorphous
+
+9-MAR-2015
+5267) Charron (name - Wikipedia)
+5268) Theophrastus (+'s - name)
+5269) Heraclitus (+'s - name)
+5270) Parmenides (+'s - name)
+5271) Bentham (name)
+5272) Kircher (+'s - name - Wikipedia)
+5273) Cetacea
+5274) Odontoceti
+5275) odontocete (+plural)
+5276) Mysticeti
+5277) mysticete (+plural)
+5278) rorqual (+plural)
+5279) Bryde (+'s - name - Wikipedia)
+5280) Hywel (Wikipedia)
+5281) Antin (+'s - name - Wikipedia)
+5282) medusa (lowercase - +plural)
+5283) medusae (lowercase - another plural of previous word)
+5284) planula
+5285) planulae (plural of previous word)
+5286) apoptosis
+5287) apoptotic
+5288) radioiodine (Collins)
+5289) gastrocolic
+5290) apoprotein (+plural)
+5291) waterborne (fixed: water-borne)
+5292) firstborn (fixed: first-born + added 's)
+5393) aposematic
+5394) aposematism
+5395) herbarium
+5396) herbaria (plural of previous word)
+5397) angiospermous
+5398) gymnospermous
+5399) monocot (+plural)
+5400) dicot (+plural)
 =============
 
 British English Dictionary (Forked) 2.23
