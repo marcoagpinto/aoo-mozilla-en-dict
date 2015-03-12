@@ -8637,6 +8637,53 @@ V2.23 (ongoing)
 5398) gymnospermous
 5399) monocot (+plural)
 5400) dicot (+plural)
+
+11-MAR-2015
+5401) dicrotic
+5402) phosphodiesterase
+5403) methotrexate
+5404) HPV (abbreviation: Human papillomavirus)
+5405) kindergartener (+plural - Kevin Atkinson wordlist 40)
+5406) Fulghum (+'s - name - Wikipedia)
+5407) Audra (+'s - name - Wikipedia)
+5408) overparted
+5409) Leonardo's (added the 's - name)
+5410) overpaint (+s +ing +ed)
+5411) Baconian (+plural)
+5412) inductivism
+5413) inductivist (+'s +plural)
+5414) consequentialism
+5415) consequentialist (+plural)
+5416) utilitarians (added plural)
+5417) Bosphorus (another way for Bosporus)
+5418) deontology
+5419) deontological
+5420) deontologist (+plural)
+5421) PHP (+'s)
+5422) php (lower case)
+5423) CGI
+5424) Ibsen's (added the 's - name)
+5425) Gerhart (+'s - name)
+5426) Crébillon (name - Wikipedia)
+5427) Henrik (+'s - name)
+5428) Flaubert (+'s - name)
+5429) flaunter
+5430) flaunty
+5431) Pouncey (+'s - name - Wikipedia)
+5432) Byblos (+'s - name)
+5433) phospholipase
+5434) linolenic (linolenic acid)
+5435) chitosan (Collins)
+5436) oropharynx
+5437) oropharynges + oropharynxes (plural ways of previous word)
+5438) oropharyngeal
+5439) fungiform
+5440) vallate (Collins)
+5441) adventitia
+5442) adventitial
+5443) Adventism
+5444) Pentecostals (added plural + changed to upper case)
+5445) Pentecostalism
 =============
 
 British English Dictionary (Forked) 2.23
