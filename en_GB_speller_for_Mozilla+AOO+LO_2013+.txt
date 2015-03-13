@@ -8684,6 +8684,95 @@ V2.23 (ongoing)
 5443) Adventism
 5444) Pentecostals (added plural + changed to upper case)
 5445) Pentecostalism
+
+12-MAR-2015
+5446) acceptation (+plural)
+5447) Riegl (+'s - name - Wikipedia)
+5448) Venkova (name - Wikipedia)
+5449) admass
+5450) Lifford (name)
+5451) ambisexual (+ly)
+5452) cufflink (+plural)
+5453) Paula (+'s - name)
+5454) monobrow (+ed - Oxford: informal)
+5455) Hayek (+'s - name)
+5456) Darger (+'s - name - Wikipedia)
+5457) anomalistic
+5458) ascidian (+plural)
+5459) Cloney (+'s - name - Wikipedia)
+5460) Walney (+'s - name - Wikipedia)
+5461) razorfish (+plural)
+5462) APC (abbreviation: Armoured Personnel Carrier)
+5463) Bukrin (name)
+5464) Otway (+'s - name)
+5465) Amfreville (name)
+5466) defenceman
+5467) defencemen (plural of previous word)
+5468) commodification
+5469) Killarney (+'s - name)
+5470) peloton (+plural)
+5471) bittersweet (fixed: bitter-sweet)
+5472) bittersweetness (fixed: bitter-sweetness)
+5473) blueliner
+5474) multisensory
+5475) Bayern (name)
+5476) Hašek (+'s - name - Wikipedia)
+5477) multiplet (+plural)
+5478) diborane
+5479) boride (+plural)
+5480) borane (+plural)
+5481) intermetallic (Collins)
+5482) nanostructures (added plural)
+5483) nanostructured (merged into nanostructure - Wiktionary)
+5484) silicide (+plural)
+
+13-MAR-2015
+5485) hepatocyte (+plural)
+5486) immunoglobulin (+plural)
+5487) cellularity
+5488) pleomorphism
+5489) pleomorphic
+5490) eosinophilic
+5491) mucinous
+5492) eosinophil (+plural)
+5493) chargee
+5494) chargeback (+plural)
+5495) velodrome (+plural)
+5496) McGlynn (+'s - name - Wikipedia)
+5497) Daytona (+'s - name)
+5498) McRae (+'s - name - Wikipedia)
+5499) Nemechek (+'s - name - Wikipedia)
+5500) dayside
+5501) nightside
+5502) astrobleme (+plural)
+5503) Pentecost
+5504) polyacrylamide
+5505) ethidium (ethidium bromide)
+5506) Timor (+'s - country)
+5507) Timorese
+5508) timocracy (+plural)
+5509) bacchanalian (in lower case it has other meaning)
+5510) archegonium
+5511) archegonia (plural of previous word)
+5512) Leopold's (added the 's - name)
+5513) archducal
+5514) archduchy (+plural)
+5515) Stringfield (+'s - name - Wikipedia)
+5516) Lumberton (+'s - name - Wikipedia)
+5517) Revenna (name - Wikipedia)
+5518) exopolitics (Wiktionary)
+5519) Moulton (+'s - name - Wikipedia)
+5520) Marden (+'s - name - Wikipedia)
+5521) Westrum (+'s - name - Wikipedia)
+5522) Isadora (+'s - name)
+5523) adoptee (+plural)
+5524) Zawadski (name)
+5525) Gavron (+'s - name - Wikipedia)
+5526) chromatid (+plural)
+5527) anaphase
+5528) telophase
+5529) prophase
+5530) tankage
 =============
 
 British English Dictionary (Forked) 2.23
