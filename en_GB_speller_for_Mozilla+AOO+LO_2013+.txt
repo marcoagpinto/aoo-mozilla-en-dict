@@ -8815,7 +8815,7 @@ V2.23 (ongoing)
 5568) napoleon (+plural - allow lower case)
 5569) neologist (+plural)
 5570) neologize (+s +ing +ed - IZE)
-5571) neologize (+s +ing +ed - ISE)
+5571) neologise (+s +ing +ed - ISE)
 5572) sonics
 5573) spaceport (+plural)
 5574) Kourou (+'s - name)
