@@ -8773,6 +8773,101 @@ V2.23 (ongoing)
 5528) telophase
 5529) prophase
 5530) tankage
+
+16-MAR-2015
+5531) Gunnar's (added the 's - name)
+5532) birdshot
+5533) Garda
+5534) Gardai (plural of previous word)
+5535) Moyross (name - Wikipedia)
+5536) unjaded (Collins)
+5537) over-bright
+5538) glowy (+ier +iest - Oxford: informal)
+5539) gloxinia (+plural)
+5540) achimenes
+5541) cohosh
+5542) folic (folic acid)
+5543) pteroylglutamic (pteroylglutamic acid)
+5544) pterosaur (added singular)
+5545) chalicothere (+plural)
+5546) glucagon
+5547) fluctuant
+5548) interpretability
+5549) bacteriostat (+plural)
+5550) bacteriostasis
+5551) bacteriostatic
+5552) bacteriostatically
+5553) sterilant (+plural)
+5554) Vincentian (+plural)
+5555) Lazarist (+plural)
+5556) Perryville (+'s - name - Wikipedia)
+5557) isethionic (isethionic acid)
+5558) isethionate
+5559) isentropic
+5560) Chalmers (+'s - name - Wikipedia)
+5561) microelectronically (Collins)
+5562) electropolar (Collins)
+5563) Hershey's (added the 's - name)
+5564) Simson (+'s - name - Wikipedia)
+5565) Pathan (+plural)
+5566) Chaldean (+plural)
+5567) Anatolians (added plural)
+5568) napoleon (+plural - allow lower case)
+5569) neologist (+plural)
+5570) neologize (+s +ing +ed - IZE)
+5571) neologize (+s +ing +ed - ISE)
+5572) sonics
+5573) spaceport (+plural)
+5574) Kourou (+'s - name)
+
+18-MAR-2015
+5575) nullifidian
+5576) uglily
+5577) uglify (+s +ing +ed +ion +ly)
+5578) streetscape (+plural)
+5579) Trowbridge (+'s - name)
+5580) Molesworth (+'s - name - Wikipedia)
+5581) Nicholls (+'s - name - Wikipedia)
+5582) Eindhoven (+'s - name)
+5583) Bluefields (+'s - name)
+5584) Belém (+'s - name of city)
+5585) belemnite (+plural)
+5586) Flandrian
+5587) auriferous
+5588) downwelling (+plural)
+5589) upwellings (added plural)
+5590) nearshore (+s +ing +ed)
+5591) solitarily (merged into solitary)
+5592) limitary
+5593) limitative
+5594) textualist (+plural)
+5595) textualism
+5596) Latham (+'s - name - Wikipedia)
+5597) Humphreys (+'s - name - Wikipedia)
+5598) osmotically
+5599) Eliza (+'s - name)
+5600) Hoberman (+'s - name - Wikipedia)
+5601) semipermeable
+5602) hydrocolloid (+plural)
+5603) subprocess (+plural - Wiktionary)
+5604) Dwayne (name - Wikipedia)
+5605) updatable
+5606) Rappaport (+'s - name - Wikipedia)
+5607) upcycling + upcycles (merged into upcycle)
+5608) Sheldrick (+'s - name - Wikipedia)
+5609) upcoast
+5610) upcasts (added plural)
+5611) upcase (+s +ed)
+5612) downcase (+s +ed)
+5613) Westerman (+'s - name - Wikipedia)
+5614) Scart + SCART
+5615) roll-outs (added plural)
+5616) Oberth (+'s - name - Wikipedia)
+5617) Emme (+'s - name - Wikipedia)
+5618) ESR
+5619) Jacklyn (name - Wikipedia)
+5620) GCC (+'s)
+5621) mudflap (+plural)
 =============
 
 British English Dictionary (Forked) 2.23
