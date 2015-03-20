@@ -8868,6 +8868,27 @@ V2.23 (ongoing)
 5619) Jacklyn (name - Wikipedia)
 5620) GCC (+'s)
 5621) mudflap (+plural)
+
+20-MAR-2015
+5622) misexplanation (+plural - Wiktionary)
+5623) misexplain (+s +ing +ed - Wiktionary)
+5624) Beatty (+'s - name)
+5625) Delphine (+'s - name - Wikipedia)
+5626) misqualify (+s +ing +ed - Wiktionary)
+5627) cocreates + cocreating + cocreated (merged into cocreate - Wiktionary)
+5628) cocreator (+plural - Wiktionary)
+5629) cocreation (Wiktionary)
+5630) subclauses (added plural)
+5631) standard's (added the 's)
+5632) vert (+plural)
+5633) Tallis (+'s - name)
+5634) Flodden (name)
+5635) Moreton (+'s - name)
+5636) Suffolks (added plural)
+5637) Pius (+'s - name)
+5638) Wulfsige (name - Wikipedia)
+5639) Bardstown (+'s - name - Wikipedia)
+5640) Asser (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.23
