@@ -8889,6 +8889,70 @@ V2.23 (ongoing)
 5638) Wulfsige (name - Wikipedia)
 5639) Bardstown (+'s - name - Wikipedia)
 5640) Asser (+'s - name - Wikipedia)
+
+23-MAR-2015
+5641) Dermot (+'s - name - Wikipedia)
+5642) gramophonic
+5643) dropout (+plural)
+5644) trimerous
+5645) pentamerous
+5646) tetramerous
+5647) cotoneaster
+5648) rowan (+plural - in lower case - rowan tree)
+5649) broadleaf
+5650) whitebeam (+plural)
+5651) agapanthus
+5652) pelargonium (+plural)
+5653) goosegrass
+5654) bedstraws (added plural)
+5655) Bedu (another term for Bedouin)
+5656) McHale (+'s - name - Wikipedia)
+5657) Aegon (+'s - name - Wikipedia)
+5658) pochard (+plural)
+5659) Pocahontas (+'s - name)
+
+25-MAR-2015
+5660) Aragon (+'s - name)
+5661) Zara (+'s - name - Wikipedia)
+5662) crappie (+plural)
+5663) flappy (+ier +iest)
+5664) giftware
+5665) Pattaya (+'s - name)
+5666) Chemnitz (+'s - name)
+5667) Austerlitz (+'s - name)
+5668) Meara (name)
+5669) anemophilous
+5670) anemophily
+5671) hydrophilous
+5672) hydrophily
+5673) hydrophobicity
+5674) intermembrane (Collins)
+5675) Zenobia (+'s - name)
+5676) cymbidium (+plural)
+5677) boneset
+5678) knitbone
+5679) intarsia
+5680) Hendrick (+'s - name - Wikipedia)
+5681) panstick
+5682) denitrify (+s +ing +ed +ion)
+5683) bioreactor (+plural)
+5684) wasabi
+5685) cruciferous
+5686) somniferous
+5687) melliferous
+5688) umbellifer (+plural)
+5689) umbelliferous
+5690) bottlescrews (added plural)
+5691) forestay
+5692) staysail (+plural)
+5693) turnbuckle (+plural)
+5694) Cowell (+'s - name - Wikipedia)
+5695) turnround (another way of turnaround)
+5696) Landon (+'s - name)
+5697) yuan (allow lower case too - not name in lower case)
+5698) Baudot (+'s - name - Wikipedia)
+5699) Baudrillard (+'s - name)
+5700) Saavedra (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.23
