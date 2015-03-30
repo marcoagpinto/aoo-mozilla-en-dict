@@ -7890,3 +7890,499 @@ V2.22 - 1-MAR-2015
 5106) Jun (abbreviation: June)
 5107) Jul (abbreviation: July)
 5108) Sep (abbreviation: September)
+
+
+V2.23 - 1-APR-2015
+------------------
+5109) Aintree (name)
+5110) ainhum
+5111) cholelithiasis
+5112) cholecystitis
+5113) pancreatitis
+5114) cardiomyopathy
+5115) pericardial
+5116) mammal-like
+5117) mammalogy (+ist +ists)
+5118) Merriam's (added the 's - name)
+5119) supinate (+s +ing +ed +ion)
+5120) pronate (+s +ing +ed +ion)
+5121) pronator (+plural)
+5122) metacentres (added plural)
+5123) acrocentric (Collins)
+5124) submetacentric (Collins)
+5125) Malory (+'s - name)
+5126) malperformance
+5127) loti (currency)
+5128) maloti (plural of previous word)
+5129) Lothario (+plural)
+5130) butterbur (+'s - Collins)
+5131) institute's (added the 's)
+5132) extremophile (+plural)
+5133) archaebacterial
+5134) toxigenicity (Collins)
+5135) botulinum (botulinum toxin)
+5136) variola
+5137) variolar
+5138) variolous
+5139) Mather (name)
+5140) Smoot (+'s - name)
+5141) RISC
+5142) click-through (+plural)
+5143) clientelism
+5144) followee (+plural)
+5145) aggressivity (Collins)
+5146) ballistically
+5147) hydroforming (Collins)
+5148) SourceForge (+'s)
+5149) logon (+plural)
+5150) logouts (added plural)
+5151) logoff (+plural)
+5152) newfound
+5153) Harington (name)
+5154) sightlessness
+5155) Arkansans (added plural - Kevin Atkinson wordlist 60)
+5156) Axis (The Axis - alliance of Germany and Italy WWII - Kevin wordlist 60)
+5157) Bayamón (name of city - Kevin Atkinson wordlist 60)
+5158) Camelots (added plural - Kevin Atkinson wordlist 60)
+5159) Carib (+plural)
+5160) Devonians (added plural)
+5161) cockboat
+5162) backwinding + backwinded (merged into backwind)
+5163) ripstop
+5164) longstop
+5165) half-centuries (added plural)
+5166) Barclays (+'s - name - Wikipedia)
+5167) peggy (+plural - slang)
+5168) Peggy (+'s - name)
+5169) Chekhovian (Kevin Atkinson wordlist 60)
+5170) Comoran (Kevin Atkinson wordlist 60)
+5171) Darwinist (+plural - Kevin Atkinson wordlist 60)
+5172) Fräulein (Kevin Atkinson wordlist 60)
+5173) Galaxy (The Galaxy - uppercase - Kevin Atkinson wordlist 60)
+5174) Greenlandic (Kevin Atkinson wordlist 60)
+5175) gorgon's (added the 's)
+5176) multiheaded (Collins)
+5177) Grozny (+'s - name - Kevin Atkinson wordlist 60)
+5178) Ivorian (+plural - Kevin Atkinson wordlist 60)
+5179) Nepalis (added plural - Kevin Atkinson wordlist 60)
+5180) Gurkhali
+5181) Gorkhali (another way of previous word)
+5182) Vallejo's (added the 's - name)
+5183) vallecula
+5184) valleculae (plural of previous word)
+5185) Nibelungenlied
+5186) Nibelung (+plural)
+5187) Nibelungen (another plural of previous word)
+5188) Burgundians (added plural)
+5189) Cassidy (+'s - name - Wikipedia)
+5190) Longmire (+'s - name - Wikipedia)
+5191) Eurocard (Wikipedia)
+5192) lightwork (+er +ers - Wiktionary)
+5193) Kenney (name - Wikipedia)
+5194) Medina's (added the 's - name)
+5195) exclusivism
+5196) exclusivist (+plural)
+5197) excogitate (+s +ing +ed +ion)
+5198) antidisestablishmentarian (+plural)
+5199) exceptionalism
+5200) ecclesial
+5201) interreligious (Collins)
+5202) penates
+5203) penannular
+5204) zoomorphic
+5205) zoomorphism
+5206) biomorphs (added plural)
+5207) biomorph's (added the 's)
+5208) biomorphic
+5209) Dawkins (+'s - name)
+5210) Aristotelians (added plural)
+5211) Sacrobosco (+'s - name - Wikipedia)
+5212) Paracelsus (+'s - name)
+5213) MKV + mkv
+5214) AVI
+5215) FLV
+5216) MK3D + mk3d
+5217) MKA + mka
+5218) MKS
+5219) streamable (Wiktionary)
+5220) Matroska's (added the 's)
+5221) MOV
+5222) Vorbis (+'s - Wikipedia)
+5223) ogg + Ogg
+5224) oga
+5225) WMA
+5226) AAC
+5227) ambisonic (+plural)
+5228) DirectShow (+'s - Wikipedia)
+5229) Netherhampton (name)
+5230) Phillips's (added the 's - name)
+5231) touch-sensitive
+5232) microchannel (+plural - Wiktionary)
+5233) photoresist (+plural)
+5234) photolithography
+5235) photolitho (another way of previous word)
+5236) photolithographic
+5237) photolithographically
+5238) microminiature (Collins)
+5239) oligonucleotide (+plural)
+5240) polynucleotide (+plural)
+5241) polynuclear
+5242) Woburn (+'s - name)
+5243) acrylamide
+5244) toxicant (+plural)
+5245) immunogenetic (+plural - Collins)
+5246) immunogenetical (Collins)
+5247) browntop
+5248) androsterone
+5249) oestradiol
+5250) oestrogenic
+5251) progestin (+plural)
+5252) translocations (added plural)
+5253) mistranslate
+5254) quadrate (+plural)
+5255) trabecula
+5256) trabeculae (plural of previous word)
+5257) trabecular
+5258) trabeculate
+5259) intergrowth (+plural)
+5260) intergrow
+5261) intergrew (past of previous word)
+5262) intergrown (past participle of intergrow)
+5263) limonite (+ic)
+5264) pseudomorph (+plural +ic)
+5265) pseudomorphism
+5266) pseudomorphous
+5267) Charron (name - Wikipedia)
+5268) Theophrastus (+'s - name)
+5269) Heraclitus (+'s - name)
+5270) Parmenides (+'s - name)
+5271) Bentham (name)
+5272) Kircher (+'s - name - Wikipedia)
+5273) Cetacea
+5274) Odontoceti
+5275) odontocete (+plural)
+5276) Mysticeti
+5277) mysticete (+plural)
+5278) rorqual (+plural)
+5279) Bryde (+'s - name - Wikipedia)
+5280) Hywel (name - Wikipedia)
+5281) Antin (+'s - name - Wikipedia)
+5282) medusa (lowercase - +plural)
+5283) medusae (lowercase - another plural of previous word)
+5284) planula
+5285) planulae (plural of previous word)
+5286) apoptosis
+5287) apoptotic
+5288) radioiodine (Collins)
+5289) gastrocolic
+5290) apoprotein (+plural)
+5291) waterborne (fixed: water-borne)
+5292) firstborn (fixed: first-born + added 's)
+5393) aposematic
+5394) aposematism
+5395) herbarium
+5396) herbaria (plural of previous word)
+5397) angiospermous
+5398) gymnospermous
+5399) monocot (+plural)
+5400) dicot (+plural)
+5401) dicrotic
+5402) phosphodiesterase
+5403) methotrexate
+5404) HPV (abbreviation: Human papillomavirus)
+5405) kindergartener (+plural - Kevin Atkinson wordlist 40)
+5406) Fulghum (+'s - name - Wikipedia)
+5407) Audra (+'s - name - Wikipedia)
+5408) overparted
+5409) Leonardo's (added the 's - name)
+5410) overpaint (+s +ing +ed)
+5411) Baconian (+plural)
+5412) inductivism
+5413) inductivist (+'s +plural)
+5414) consequentialism
+5415) consequentialist (+plural)
+5416) utilitarians (added plural)
+5417) Bosphorus (another way for Bosporus)
+5418) deontology
+5419) deontological
+5420) deontologist (+plural)
+5421) PHP (+'s)
+5422) php (lower case)
+5423) CGI
+5424) Ibsen's (added the 's - name)
+5425) Gerhart (+'s - name)
+5426) Crébillon (name - Wikipedia)
+5427) Henrik (+'s - name)
+5428) Flaubert (+'s - name)
+5429) flaunter
+5430) flaunty
+5431) Pouncey (+'s - name - Wikipedia)
+5432) Byblos (+'s - name)
+5433) phospholipase
+5434) linolenic (linolenic acid)
+5435) chitosan (Collins)
+5436) oropharynx
+5437) oropharynges + oropharynxes (plural ways of previous word)
+5438) oropharyngeal
+5439) fungiform
+5440) vallate (Collins)
+5441) adventitia
+5442) adventitial
+5443) Adventism
+5444) Pentecostals (added plural + changed to upper case)
+5445) Pentecostalism
+5446) acceptation (+plural)
+5447) Riegl (+'s - name - Wikipedia)
+5448) Venkova (name - Wikipedia)
+5449) admass
+5450) Lifford (name)
+5451) ambisexual (+ly)
+5452) cufflink (+plural)
+5453) Paula (+'s - name)
+5454) monobrow (+ed - Oxford: informal)
+5455) Hayek (+'s - name)
+5456) Darger (+'s - name - Wikipedia)
+5457) anomalistic
+5458) ascidian (+plural)
+5459) Cloney (+'s - name - Wikipedia)
+5460) Walney (+'s - name - Wikipedia)
+5461) razorfish (+plural)
+5462) APC (abbreviation: Armoured Personnel Carrier)
+5463) Bukrin (name)
+5464) Otway (+'s - name)
+5465) Amfreville (name)
+5466) defenceman
+5467) defencemen (plural of previous word)
+5468) commodification
+5469) Killarney (+'s - name)
+5470) peloton (+plural)
+5471) bittersweet (fixed: bitter-sweet)
+5472) bittersweetness (fixed: bitter-sweetness)
+5473) blueliner
+5474) multisensory
+5475) Bayern (name)
+5476) Hašek (+'s - name - Wikipedia)
+5477) multiplet (+plural)
+5478) diborane
+5479) boride (+plural)
+5480) borane (+plural)
+5481) intermetallic (Collins)
+5482) nanostructures (added plural)
+5483) nanostructured (merged into nanostructure - Wiktionary)
+5484) silicide (+plural)
+5485) hepatocyte (+plural)
+5486) immunoglobulin (+plural)
+5487) cellularity
+5488) pleomorphism
+5489) pleomorphic
+5490) eosinophilic
+5491) mucinous
+5492) eosinophil (+plural)
+5493) chargee
+5494) chargeback (+plural)
+5495) velodrome (+plural)
+5496) McGlynn (+'s - name - Wikipedia)
+5497) Daytona (+'s - name)
+5498) McRae (+'s - name - Wikipedia)
+5499) Nemechek (+'s - name - Wikipedia)
+5500) dayside
+5501) nightside
+5502) astrobleme (+plural)
+5503) Pentecost
+5504) polyacrylamide
+5505) ethidium (ethidium bromide)
+5506) Timor (+'s - country)
+5507) Timorese
+5508) timocracy (+plural)
+5509) bacchanalian (in lower case it has other meaning)
+5510) archegonium
+5511) archegonia (plural of previous word)
+5512) Leopold's (added the 's - name)
+5513) archducal
+5514) archduchy (+plural)
+5515) Stringfield (+'s - name - Wikipedia)
+5516) Lumberton (+'s - name - Wikipedia)
+5517) Revenna (name - Wikipedia)
+5518) exopolitics (Wiktionary)
+5519) Moulton (+'s - name - Wikipedia)
+5520) Marden (+'s - name - Wikipedia)
+5521) Westrum (+'s - name - Wikipedia)
+5522) Isadora (+'s - name)
+5523) adoptee (+plural)
+5524) Zawadski (name)
+5525) Gavron (+'s - name - Wikipedia)
+5526) chromatid (+plural)
+5527) anaphase
+5528) telophase
+5529) prophase
+5530) tankage
+5531) Gunnar's (added the 's - name)
+5532) birdshot
+5533) Garda
+5534) Gardai (plural of previous word)
+5535) Moyross (name - Wikipedia)
+5536) unjaded (Collins)
+5537) over-bright
+5538) glowy (+ier +iest - Oxford: informal)
+5539) gloxinia (+plural)
+5540) achimenes
+5541) cohosh
+5542) folic (folic acid)
+5543) pteroylglutamic (pteroylglutamic acid)
+5544) pterosaur (added singular)
+5545) chalicothere (+plural)
+5546) glucagon
+5547) fluctuant
+5548) interpretability
+5549) bacteriostat (+plural)
+5550) bacteriostasis
+5551) bacteriostatic
+5552) bacteriostatically
+5553) sterilant (+plural)
+5554) Vincentian (+plural)
+5555) Lazarist (+plural)
+5556) Perryville (+'s - name - Wikipedia)
+5557) isethionic (isethionic acid)
+5558) isethionate
+5559) isentropic
+5560) Chalmers (+'s - name - Wikipedia)
+5561) microelectronically (Collins)
+5562) electropolar (Collins)
+5563) Hershey's (added the 's - name)
+5564) Simson (+'s - name - Wikipedia)
+5565) Pathan (+plural)
+5566) Chaldean (+plural)
+5567) Anatolians (added plural)
+5568) napoleon (+plural - allow lower case)
+5569) neologist (+plural)
+5570) neologize (+s +ing +ed - IZE)
+5571) neologise (+s +ing +ed - ISE)
+5572) sonics
+5573) spaceport (+plural)
+5574) Kourou (+'s - name)
+5575) nullifidian
+5576) uglily
+5577) uglify (+s +ing +ed +ion +ly)
+5578) streetscape (+plural)
+5579) Trowbridge (+'s - name)
+5580) Molesworth (+'s - name - Wikipedia)
+5581) Nicholls (+'s - name - Wikipedia)
+5582) Eindhoven (+'s - name)
+5583) Bluefields (+'s - name)
+5584) Belém (+'s - name of city)
+5585) belemnite (+plural)
+5586) Flandrian
+5587) auriferous
+5588) downwelling (+plural)
+5589) upwellings (added plural)
+5590) nearshore (+s +ing +ed)
+5591) solitarily (merged into solitary)
+5592) limitary
+5593) limitative
+5594) textualist (+plural)
+5595) textualism
+5596) Latham (+'s - name - Wikipedia)
+5597) Humphreys (+'s - name - Wikipedia)
+5598) osmotically
+5599) Eliza (+'s - name)
+5600) Hoberman (+'s - name - Wikipedia)
+5601) semipermeable
+5602) hydrocolloid (+plural)
+5603) subprocess (+plural - Wiktionary)
+5604) Dwayne (name - Wikipedia)
+5605) updatable
+5606) Rappaport (+'s - name - Wikipedia)
+5607) upcycling + upcycles (merged into upcycle)
+5608) Sheldrick (+'s - name - Wikipedia)
+5609) upcoast
+5610) upcasts (added plural)
+5611) upcase (+s +ed)
+5612) downcase (+s +ed)
+5613) Westerman (+'s - name - Wikipedia)
+5614) Scart + SCART
+5615) roll-outs (added plural)
+5616) Oberth (+'s - name - Wikipedia)
+5617) Emme (+'s - name - Wikipedia)
+5618) ESR
+5619) Jacklyn (name - Wikipedia)
+5620) GCC (+'s)
+5621) mudflap (+plural)
+5622) misexplanation (+plural - Wiktionary)
+5623) misexplain (+s +ing +ed - Wiktionary)
+5624) Beatty (+'s - name)
+5625) Delphine (+'s - name - Wikipedia)
+5626) misqualify (+s +ing +ed - Wiktionary)
+5627) cocreates + cocreating + cocreated (merged into cocreate - Wiktionary)
+5628) cocreator (+plural - Wiktionary)
+5629) cocreation (Wiktionary)
+5630) subclauses (added plural)
+5631) standard's (added the 's)
+5632) vert (+plural)
+5633) Tallis (+'s - name)
+5634) Flodden (name)
+5635) Moreton (+'s - name)
+5636) Suffolks (added plural)
+5637) Pius (+'s - name)
+5638) Wulfsige (name - Wikipedia)
+5639) Bardstown (+'s - name - Wikipedia)
+5640) Asser (+'s - name - Wikipedia)
+5641) Dermot (+'s - name - Wikipedia)
+5642) gramophonic
+5643) dropout (+plural)
+5644) trimerous
+5645) pentamerous
+5646) tetramerous
+5647) cotoneaster
+5648) rowan (+plural - in lower case - rowan tree)
+5649) broadleaf
+5650) whitebeam (+plural)
+5651) agapanthus
+5652) pelargonium (+plural)
+5653) goosegrass
+5654) bedstraws (added plural)
+5655) Bedu (another term for Bedouin)
+5656) McHale (+'s - name - Wikipedia)
+5657) Aegon (+'s - name - Wikipedia)
+5658) pochard (+plural)
+5659) Pocahontas (+'s - name)
+5660) Aragon (+'s - name)
+5661) Zara (+'s - name - Wikipedia)
+5662) crappie (+plural)
+5663) flappy (+ier +iest)
+5664) giftware
+5665) Pattaya (+'s - name)
+5666) Chemnitz (+'s - name)
+5667) Austerlitz (+'s - name)
+5668) Meara (name)
+5669) anemophilous
+5670) anemophily
+5671) hydrophilous
+5672) hydrophily
+5673) hydrophobicity
+5674) intermembrane (Collins)
+5675) Zenobia (+'s - name)
+5676) cymbidium (+plural)
+5677) boneset
+5678) knitbone
+5679) intarsia
+5680) Hendrick (+'s - name - Wikipedia)
+5681) panstick
+5682) denitrify (+s +ing +ed +ion)
+5683) bioreactor (+plural)
+5684) wasabi
+5685) cruciferous
+5686) somniferous
+5687) melliferous
+5688) umbellifer (+plural)
+5689) umbelliferous
+5690) bottlescrews (added plural)
+5691) forestay
+5692) staysail (+plural)
+5693) turnbuckle (+plural)
+5694) Cowell (+'s - name - Wikipedia)
+5695) turnround (another way of turnaround)
+5696) Landon (+'s - name)
+5697) yuan (allow lower case too - not name in lower case)
+5698) Baudot (+'s - name - Wikipedia)
+5699) Baudrillard (+'s - name)
+5700) Saavedra (+'s - name - Wikipedia)

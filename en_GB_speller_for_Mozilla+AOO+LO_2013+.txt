@@ -8434,7 +8434,7 @@ V2.22
 5108) Sep (abbreviation: September)
 
 
-V2.23 (ongoing)
+V2.23
 --------------
 3-MAR-2015
 5109) Aintree (name)
