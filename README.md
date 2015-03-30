@@ -39,4 +39,5 @@ Licences for the wordlists:
 - en_US (Kevin Atkinson) - BSD/MIT-Like.
 
 Suggesting words:
+(First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there, check "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" at the top of this page). If NOT found:
 - Open a case or e-mail Marco Pinto with the suggested words.
