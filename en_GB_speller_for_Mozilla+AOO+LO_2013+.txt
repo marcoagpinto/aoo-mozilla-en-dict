@@ -8953,8 +8953,103 @@ V2.23
 5698) Baudot (+'s - name - Wikipedia)
 5699) Baudrillard (+'s - name)
 5700) Saavedra (+'s - name - Wikipedia)
+
+
+V2.24 (ongoing)
+--------------
+2-APR-2015
+5701) Hopson (+'s - name - Wikipedia)
+5702) Coolaney (name - Wikipedia)
+5703) Barkley (name - Wikipedia)
+5704) hydroid (+plural)
+5705) polypoid
+5706) theca
+5707) thecae (plural of previous word)
+5708) thecate
+5709) dinoflagellate (+plural)
+5710) jobseeker (+'s +plural)
+5711) wreaker
+5712) Frederica (+'s - name - Wikipedia)
+5713) Krista (+'s - name - Wikipedia)
+5714) agoraphobe (+plural)
+5715) Heworth (name - Wikipedia)
+5716) Crothers (+'s - name - Wikipedia)
+5717) anorgasmic
+5718) anorthosite
+5719) uncirculated
+5720) Dante's (added the 's - name)
+5721) baht (currency of Thailand)
+5722) gossamery
+5723) Friel (+'s - name - Wikipedia)
+5724) grume (+plural)
+5725) Duchamp (+'s - name)
+5726) balmoral (+plural)
+5727) Balmoral (+'s - name)
+5728) bluchers
+5729) cachectic
+5730) cachexia
+5731) dyspnoea
+5732) cyanosis
+5733) cyanotic
+5734) lymphadenopathy
+5735) splenomegaly
+5736) sarcoid (+plural)
+5737) immunocompetent
+5738) immunocompetence
+5739) autoconfigure (+s +ing +ed +ion - Wiktionary)
+5740) ultra-thin
+5741) Brookhaven (+'s - name)
+5742) Brooklands (+'s - name)
+5743) Newlands (+'s - name)
+
+3-APR-2015
+5744) interfix (+plural +ing +ed - Wiktionary)
+5745) Theodoric (+'s - name)
+5746) Ostrogoth (+plural)
+5747) Ostrogothic
+5748) Goths (added plural)
+5749) goths (added plural - lower case)
+5750) Crimeans (added plural)
+5751) Visigothic
+5752) Justinian (+'s - name)
+5753) Dalmatia (+'s - name)
+5754) Dalmatian (+plural - fix: now in upper case)
+5755) Doberman (removed: Chiefly American)
+5756) Dobermann (+plural)
+5757) Pomeranian (+plural)
+5758) Akita (+plural)
+5759) Raby (+'s - name - Wikipedia)
+5760) Akkadian (+plural)
+5761) Akkad (+'s - name)
+5762) Dakotas (added plural)
+5763) Siouan
+5764) undefeatable
+5765) Kimble (+'s - name - Wikipedia)
+5766) inkjet (inkjet printer)
+5767) draftsman
+5768) draftsmen (plural of previous word)
+5768) egosurfer (+plural - merged into egosurf - Wiktionary)
+5769) themself
+5770) Themistocles (+'s - name)
+5771) Ki-moon (+'s - name)
+5772) Bevan (+'s - name)
+5773) bevatron (+plural)
+5774) radiotherapeutic
+5775) repopulation (merged into repopulate)
+5776) Liguria (name of place)
+5777) Ligurian (+plural)
+5778) Surya
+5779) appealable
+5780) reviewable
+5781) reviewal
+5782) incompletion
+5783) Montaigne's (added the 's - name)
+5784) inexhaustibility
+5785) Bessey (+'s - name - Wikipedia)
+5786) incomputable
+5787) agrimony (+plural)
 =============
 
-British English Dictionary (Forked) 2.23
+British English Dictionary (Forked) 2.24
 by Marco A.G.Pinto
 
