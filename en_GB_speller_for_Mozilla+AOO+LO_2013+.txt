@@ -9048,6 +9048,145 @@ V2.24 (ongoing)
 5785) Bessey (+'s - name - Wikipedia)
 5786) incomputable
 5787) agrimony (+plural)
+
+6-APR-2015
+5788) chokecherry
+5789) nandina
+5790) Afrocentric (Kevin Atkinson wordlist 60)
+5791) Afrocentrism
+5792) Afrocentrist (+plural)
+5793) Barthes (+'s - name - Kevin Atkinson wordlist 60)
+5794) bartend (+plural +ing +ed)
+5795) parascend (+ing +er +ers)
+5796) waterski (+s +ing +ed +er +ers)
+5797) Windermere (+'s - name)
+5798) ringbone
+5799) ringbolt
+5800) ringback
+5801) ringbark (+s +ing +ed)
+5802) ploughland
+5803) Pembrokeshire's (added the 's - name)
+5804) thorned + thornless (merged into thorn)
+5805) thornlike
+5806) thornproof
+5807) Thorn (+'s - name)
+5808) Glenhead (name - Wikipedia)
+5809) Cockett (name - Wikipedia)
+5810) overstorey (+plural)
+5811) overstress (+s +ing +ed)
+5812) overnutrition (Collins)
+5813) commodify (+plural +ing +ed)
+5814) ACW (abbreviation: aircraftwoman)
+
+7-APR-2015
+5815) passcode
+5816) correctitude
+5817) Overdale (name - Wikipedia)
+5818) Pleasington (name - Wikipedia)
+5819) Fulford (name - Wikipedia)
+5820) Rosenallis (name - Wikipedia)
+5821) Butterworth (+'s - name - Wikipedia)
+5822) ca (abbreviation)
+5823) CA (abbreviation)
+5824) washland
+5825) Heligoland (+'s - name)
+5826) heliocentrically
+5827) Copernicus's (added the 's - name)
+5828) Shermer (+'s - name - Wikipedia)
+5829) Nicolaus (+'s - name)
+5830) geocentrism
+5831) geobotany
+5832) geobotanical
+5833) geobotanist (+plural)
+5834) phytosociology (Collins)
+5835) arctic (also in lower case for other use)
+5836) nipplewort
+5837) lungwort
+5838) lunisolar
+5839) geodynamical (Collins)
+5840) semimajor (semimajor axis)
+5841) semimetals (added plural)
+5842) metalloids (added plural)
+5843) butanol
+5844) thymol
+5845) fusel (fusel oil)
+5846) fuseway (+plural)
+5847) fuscous
+5848) McCann (+'s - name - Wikipedia)
+5849) Eamon (+'s - name)
+5850) ruckus
+5851) Kattegat (name)
+5852) katsura (+plural)
+5853) crenulate (+ed)
+5854) crenulation (+plural)
+5855) papillated (Collins)
+5856) denticulate (+ed)
+5857) unretouched (Collins)
+5858) ornithoid (Collins)
+5859) Guardi (+'s - name)
+5860) Kaczorowski (+'s - name - Wikipedia)
+5861) Redgrave (+'s - name)
+5862) IDs (added plural - Wiktionary)
+5863) mins (added plural - Wiktionary)
+5864) PMC (abbreviation - Collins)
+5865) Schenk (+'s - name - Wikipedia)
+5866) Afrikanerdom
+5867) Broederbond (+'s)
+
+8-APR-2015
+5868) life-force (removed since Oxford says it is two words)
+5869) autoreverse (Collins)
+5870) autocrime (+plural - Collins)
+5871) 3DES (cryptography - Wiktionary)
+5872) IEC (International Electrotechnical Commission - Wiktionary)
+5873) Framingham (+'s - name)
+5874) Mahdia (+'s - name - Wikipedia)
+5875) rulemaking
+5876) Zoloft (medicament - Wikipedia)
+5877) Paxil (medicament - Wikipedia)
+5878) antiulcer (Collins)
+5879) polyneuropathy
+5880) Ecstasy (the drug - upper case - Kevin Atkinson wordlist 60)
+5881) Victorianism (Kevin Atkinson wordlist 60)
+5882) Forster's (added the 's - name)
+5883) Ecuadorean (+plural - another way of Ecuadorian)
+5884) ectotherm (+plural +ic)
+5885) ectothermy
+5886) endotherm (+plural)
+5887) endothermy
+5888) hominoid (+plural)
+5889) frugivore (+plural)
+5890) frugivorous
+5891) nectarivorous
+5892) Iban
+5893) IBAN (+plural - abbreviation: International Bank Account Number)
+5894) BIC (+plural - abbreviation: Bank Identifier Code - Wiktionary)
+5895) outshoot
+5896) outshot (past of previous word)
+5897) subacute
+5898) haematogenous
+5899) extrasystole (+plural)
+5900) counterirritant (+plural)
+5901) counterirritation
+5902) antilogy (+plural)
+5903) antilog (added singular)
+5904) anti-lock
+5905) Lexus (+'s - name of car - Wikipedia)
+5906) outdrink (+s +ing)
+5907) outdrank (past of previous word)
+5908) outdrunk (past participle of word before previous word)
+5909) outdrive (+s +ing)
+5910) outdrove (past of previous word)
+5911) outdriven (past participle of word before previous word)
+5912) Carrington (+'s - name)
+5913) Beckmann (+'s - name)
+5914) McClintock (+'s - name)
+5915) McCullers (+'s - name)
+5916) McEnroe (+'s - name)
+5917) substring (+plural - Wiktionary)
+5918) awk (+plural - Oxford: informal)
+5919) Gloria's (added the 's - name)
+5920) logistician (+plural - Wiktionary)
 =============
 
 British English Dictionary (Forked) 2.24
