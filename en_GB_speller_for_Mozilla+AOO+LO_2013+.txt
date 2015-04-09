@@ -9187,6 +9187,50 @@ V2.24 (ongoing)
 5918) awk (+plural - Oxford: informal)
 5919) Gloria's (added the 's - name)
 5920) logistician (+plural - Wiktionary)
+
+9-APR-2015
+5921) pseudoword (+plural - Wiktionary)
+5922) phonotactic (+plural)
+5923) associability
+5924) Cayley (+'s - name)
+5925) associateships (added plural)
+5926) vocables (added plural)
+5927) trigram (+plural)
+5928) bigram (+plural)
+5929) phonogram (+plural)
+5930) encipherment
+5931) doornails (added plural)
+5932) Ebbinghaus (+'s - name - Wikipedia)
+5933) housebuilder (+plural)
+5934) Halstead (+'s - name - Wikipedia)
+5935) forcemeat
+5936) power-hungry
+5937) Douglas's (added the 's - name)
+5938) Menelaus (+'s - name)
+5939) Spyckerelle (name of friend)
+5940) Filiep (name of friend)
+5941) piecrust (piecrust table)
+5942) Christie's (added the 's - name)
+5943) buy-back (+plural)
+5944) Charlie's (added the 's - name)
+5945) shrimping (merged into shrimp)
+5946) Padstow (name - Wikipedia)
+5947) FY (abbreviation: British: Financial Year)
+5948) FX
+5949) FWIW (Oxford: informal: For What It's Worth)
+5950) fuzzy-wuzzy (+plural - Oxford: informal and offensive)
+5951) Heckmann (+'s - name - Wikipedia)
+5952) bassline (+plural)
+5953) mellophone
+5954) Etherington (+'s - name - Wikipedia)
+5955) lynchpin (+plural - another way of linchpin)
+5956) Allcock (+'s - name - Wikipedia)
+5957) preplan (+s +ing +ed - Collins)
+5958) chamade (Collins)
+5959) prepolymer (+plural)
+5960) siloxane (+plural)
+5961) silane (+plural)
+5962) penetrant (+plural)
 =============
 
 British English Dictionary (Forked) 2.24
