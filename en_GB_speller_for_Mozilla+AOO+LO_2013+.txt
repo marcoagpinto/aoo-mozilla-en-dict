@@ -9231,6 +9231,97 @@ V2.24 (ongoing)
 5960) siloxane (+plural)
 5961) silane (+plural)
 5962) penetrant (+plural)
+
+14-APR-2015
+5963) berk (+plural - Kevin Atkinson wordlist 60)
+5964) billhook (+plural - Kevin Atkinson wordlist 60)
+5965) Rawiri (name - Wikipedia)
+5966) billfish (+plural)
+5967) mesopelagic
+5968) benthos
+5969) benthic
+5970) satrapy (+plural)
+5971) Persepolis (+'s - name)
+5972) perseverate (+s +ing +ed +ion)
+5973) Bitterman (+'s - name - Wikipedia)
+5974) stressless (merged into stress)
+5975) stressor (+plural)
+5976) STRESS (computer programming language)
+5977) underdress (+s +ing +ed)
+5978) incandesce (+s +ing +ed)
+5979) Soay (+'s - name)
+5980) soaraway
+5981) Ryanair (+'s - name - Wikipedia)
+5982) soapily (merged into soapy)
+5983) Rennie (+'s - name)
+5984) countertrade
+5985) countervalue
+5986) counterweigh (+s +ing +ed)
+5987) Zazzo (+'s - name - Wikipedia)
+5988) Tynan (name - Wikipedia)
+5989) Mephisto (+'s - name - Wikipedia)
+5990) Mephistophelian
+5991) Mephistophelean
+5992) Cynewulf (+'s - name)
+5993) Bentham (added the 's - name)
+5994) retranslate (+s +ing +ed)
+5995) retranslation (+plural)
+5996) Teilhard (+'s - name)
+5997) Loeb (+'s - name - Wikipedia)
+5998) amu (abbreviation: Atomic mass unit)
+5999) bigha (+plural)
+6000) Warminster (+'s - name - Wikipedia)
+6001) Durnford (+'s - name - Wikipedia)
+6002) Darell (name - Wikipedia)
+6003) Ancaster (+'s - name - Wikipedia)
+6004) Waterval (name - Wikipedia)
+6005) Balla (+'s - name - Wikipedia)
+6006) Malton (+'s - name - Wikipedia)
+6007) Croke (+'s - name - Wikipedia)
+6008) Moorhead (+'s - name)
+6009) Clemente (+'s - name)
+6010) sophomoric
+6011) Salford's (added the 's - name)
+6012) skint (Oxford: informal)
+6013) Hemphill (+'s - name - Wikipedia)
+6014) skintight
+6015) Cassie (+'s - name - Wikipedia)
+6016) hued + hueless (merged into hue)
+6017) kung + fu (kung fu)
+6018) buckbean (+plural)
+6019) bogbean (+plural - another way of previous word)
+6020) cloudberry (+plural)
+6021) Grahamstown (+'s - name - Wikipedia)
+6022) airburst (+plural)
+6023) flip-flopping + flip-flopped (merged into flip-flop)
+6024) frack (+s +ing +ed +er +ers)
+6025) hazmat (+plural)
+6026) overthink (+s +ing)
+6027) overthought (past participle of previous word)
+6028) paraglider (+plural)
+6029) paraglide (+s +ing +ed)
+6030) paywall (+s +ed)
+6031) photobomb (+s +ing +ed +er +ers)
+6032) fave (+plural - Oxford: informal)
+6033) plastique
+6034) polyamory
+6035) polyamorist
+6036) polyamorous
+6037) remortgage (+s +ing +ed)
+6038) reorg (+plural - Oxford: informal)
+6039) Vinson (+'s - name)
+6040) satay
+6041) scrunchier + scrunchiest + scrunchy
+6042) scrunchie (+plural)
+6043) slumdog (+plural - Wiktionary)
+6044) spams (merged into spam)
+6045) stoners (added plural)
+6046) truthiness (Oxford: informal)
+6047) Colbert's (added the 's - name)
+6048) twerked (merged into twerk)
+6049) widescreens (added plural)
+6050) DMCA (abbreviation: Digital Millennium Copyright Act)
+6051) DHSS (abbreviation: Department of Health and Social Security)
 =============
 
 British English Dictionary (Forked) 2.24
