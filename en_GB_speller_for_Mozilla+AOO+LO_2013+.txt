@@ -9322,6 +9322,85 @@ V2.24 (ongoing)
 6049) widescreens (added plural)
 6050) DMCA (abbreviation: Digital Millennium Copyright Act)
 6051) DHSS (abbreviation: Department of Health and Social Security)
+
+15-APR-2015
+6052) Affero (GNU Affero General Public License)
+6053) AGPL
+6054) Stallman (+'s - name - Wikipedia)
+6055) Stallmann (+'s - name - Wikipedia)
+6056) relicense (+s +ing +ed)
+6057) Hibbard (+'s - name - Wikipedia)
+6058) Geraldton (+'s - name)
+6059) demi-glace (another way of demi-glaze)
+6060) Hippolyta (+'s - name - Wikipedia)
+6061) Engberg (+'s - name - Wikipedia)
+6062) Aldiss (+'s - name)
+6063) Carnell (+'s - name - Wikipedia)
+6064) Stubbs (+'s - name - Wikipedia)
+6065) Buckland (+'s - name)
+6066) globe-like
+6067) globoid
+6068) globose
+6069) perinuclear
+6070) microfilament (+plural)
+6071) poliovirus (+plural)
+6072) echovirus (+plural)
+6073) Coxsackie (Coxsackie virus)
+6074) Kaposi (+'s - name)
+6075) cytomegalovirus
+6076) anoxia
+6077) anoxic
+6078) toxoplasmosis
+
+16-APR-2015
+6079) Harrison's (added the 's - name)
+6080) unsubjugated
+6081) unsubdued
+6082) unstylish
+6083) unstuffed
+6084) Coogan (+'s - name - Wikipedia)
+6085) unstudiedly
+6086) Armani (+'s - name)
+6087) unstring (+s +ing)
+6088) unpressed
+6089) prestressed
+6090) prestressing
+6091) unpresuming
+6092) Pollyanna (+plural)
+6093) Pollyannaish
+6094) Pollyannaism
+6095) Mattson (+'s - name - Wikipedia)
+6096) unpresentable
+6097) Lyotard (+'s - name)
+6098) unprescribed
+6099) unpreparedness
+6100) Harbor (name: Pearl Harbor)
+6101) unpremeditatedly
+6102) Ullmann (+'s - name - Wikipedia)
+6103) UN's (added the 's - United Nations)
+6104) unprintably
+6105) Carson's (added the 's - name)
+6106) Millie's (added the 's - name)
+6107) Alexandra (+'s - name -  Wikipedia)
+6108) ataraxy
+6109) ataraxia (another way of previous word)
+6110) ataractic
+6111) ataraxic
+6112) chiromancy
+6113) cartomancy
+6114) archaeoastronomy
+6115) antitumour
+6116) archaea
+6117) archaean (+plural - in lower case - biology related)
+6118) predawn
+6119) Marvin's (added the 's - name)
+6120) Harrigan (+'s - name - Wikipedia)
+6121) Goldie (+'s - name - Wikipedia)
+6122) sporophyte (+plural)
+6123) sporophytic
+6124) sporangium
+6125) sporangia (plural of previous word)
+6126) sporangial
 =============
 
 British English Dictionary (Forked) 2.24
