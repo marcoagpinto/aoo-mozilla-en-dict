@@ -9401,6 +9401,72 @@ V2.24 (ongoing)
 6124) sporangium
 6125) sporangia (plural of previous word)
 6126) sporangial
+
+20-APR-2015
+6125) freeboots + freebooting + freebooted (merged into freeboot)
+6126) Blackthorne (+'s - name - Wikipedia)
+6127) avgas
+6128) dustproof (Collins)
+6129) Bingley (+'s - name - Wikipedia)
+6130) Malmesbury (name - Wikipedia)
+6131) rebirth (+s +ing +ed +er +ers)
+6132) meshwork
+6133) mesial (+ly)
+6134) crus
+6135) crura (plural of previous word)
+6136) neoplasia
+6137) cingulum
+6138) cingula (plural of previous word)
+6140) cingulate
+6141) commissural
+6142) acetabulum
+6143) acetabula
+6144) cheekpiece (+plural)
+6145) Frederickson (+'s - name - Wikipedia)
+6146) Gonubie (name - Wikipedia)
+6147) lytic
+6148) lytically
+6149) Sudetenland (name)
+6150) Baltistan (+'s - name)
+6151) Karakoram
+6152) karaka
+6153) fescue (+plural)
+6154) orchardist (+plural)
+6155) rootstocks (added plural)
+6156) poisonwood (Collins)
+6157) rootsy (+ier +iest)
+6158) rootworm (+plural)
+6159) nerd's (added the 's)
+6160) nerdiness
+6161) nerdish
+6162) nerdishness
+6163) Mahoney (+'s - name - Wikipedia)
+6164) Pasadena (+'s - name)
+6165) technobabble (Oxford: informal)
+6166) Pekar (+'s - name - Wikipedia)
+6167) teratogen (+plural +ic)
+6168) teratogenicity
+6169) teratological
+6170) teratologist (+plural)
+6171) zeaxanthin
+6172) chloroplastic (Collins)
+6173) helotage
+6174) helotism
+6175) helotry
+6176) Messenia (+'s - name - Wikipedia)
+6177) unfree
+6178) unfreedom
+6179) Keane's (added the 's - name)
+6180) condoners (added plural)
+6181) undersow (+s +ing +ed)
+6182) undersown (past participle of previous word)
+6183) understaffing
+6184) engrailed
+6185) invected
+6186) keyer (+plural)
+6187) keyless
+6188) Everman (+'s - name - Wikipedia)
+6189) Bharati (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.24
