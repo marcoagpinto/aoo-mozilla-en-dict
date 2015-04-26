@@ -1,6 +1,6 @@
-en_CA Hunspell Dictionary
-Version 2015.02.15
-Sun Feb 15 15:02:29 2015 -0500 [9853756]
+en_US Hunspell Dictionary
+Version 2015.04.24
+Thu Apr 23 23:17:41 2015 -0400 [2a7c010]
 http://wordlist.sourceforge.net
 
 README file for English Hunspell dictionaries derived from SCOWL.
@@ -55,6 +55,11 @@ kevina@gnu.org or to the wordlist-devel mailing lists
 (https://lists.sourceforge.net/lists/listinfo/wordlist-devel).  If you
 have specific issues with any of these dictionaries please file a bug
 report at https://github.com/kevina/wordlist/issues.
+
+IMPORTANT CHANGES FROM 2015.02.15:
+
+The dictionaries are now in UTF-8 format instead of ISO-8859-1.  This
+was required to handle smart quotes correctly.
 
 ADDITIONAL NOTES:
 
@@ -305,5 +310,5 @@ from the Ispell distribution they are under the Ispell copyright:
   ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
   POSSIBILITY OF SUCH DAMAGE.
 
-Build Date: Sun Feb 15 15:30:12 EST 2015
-Wordlist Command: mk-list en_CA 60 | deaccent
+Build Date: Thu Apr 23 23:21:36 EDT 2015
+Wordlist Command: mk-list --accents=strip en_US 60

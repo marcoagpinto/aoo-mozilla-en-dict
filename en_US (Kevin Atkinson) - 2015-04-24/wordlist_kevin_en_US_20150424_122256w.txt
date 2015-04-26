@@ -55,6 +55,7 @@ AOL's
 AP
 AP's
 APB
+APC
 API
 APO
 APR
@@ -73,6 +74,7 @@ ATP
 ATP's
 ATV
 AV
+AVI
 AWACS
 AWACS's
 AWOL
@@ -1082,6 +1084,7 @@ Araceli
 Araceli's
 Arafat
 Arafat's
+Aragon
 Araguaya
 Araguaya's
 Aral
@@ -1365,6 +1368,7 @@ Athabasca's
 Athabaskan
 Athabaskan's
 Athabaskans
+Athanasius
 Athena
 Athena's
 Athene
@@ -1812,6 +1816,8 @@ Barcelona
 Barcelona's
 Barclay
 Barclay's
+Barclays
+Barclays's
 Bardeen
 Bardeen's
 Barents
@@ -1916,6 +1922,8 @@ Baudelaire
 Baudelaire's
 Baudouin
 Baudouin's
+Baudrillard
+Baudrillard's
 Bauer
 Bauer's
 Bauhaus
@@ -1973,6 +1981,8 @@ Beatrix
 Beatrix's
 Beatriz
 Beatriz's
+Beatty
+Beatty's
 Beau
 Beau's
 Beaufort
@@ -2461,6 +2471,7 @@ Bodhidharma
 Bodhidharma's
 Bodhisattva
 Bodhisattva's
+Bodleian
 Boeing
 Boeing's
 Boeotia
@@ -2867,6 +2878,7 @@ Bronx
 Bronx's
 Brooke
 Brooke's
+Brookes
 Brooklyn
 Brooklyn's
 Brooks
@@ -3128,6 +3140,7 @@ CF
 CFC
 CFC's
 CFO
+CGI
 CIA
 CIA's
 CID
@@ -3571,6 +3584,8 @@ Cassandra's
 Cassandras
 Cassatt
 Cassatt's
+Cassidy
+Cassidy's
 Cassie
 Cassie's
 Cassiopeia
@@ -3749,6 +3764,7 @@ Chaldean
 Chaldean's
 Challenger
 Challenger's
+Chalmers
 Chamberlain
 Chamberlain's
 Chambers
@@ -4594,6 +4610,8 @@ Coventry
 Coventry's
 Coward
 Coward's
+Cowell
+Cowell's
 Cowley
 Cowley's
 Cowper
@@ -5050,6 +5068,7 @@ Davy
 Davy's
 Dawes
 Dawes's
+Dawkins
 Dawn
 Dawn's
 Dawson
@@ -5240,6 +5259,8 @@ Derek
 Derek's
 Derick
 Derick's
+Dermot
+Dermot's
 Derrick
 Derrick's
 Derrida
@@ -5749,6 +5770,7 @@ ESP
 ESP's
 ESPN
 ESPN's
+ESR
 EST
 EST's
 ET
@@ -6940,6 +6962,8 @@ Fritz
 Fritz's
 Frobisher
 Frobisher's
+Frodo
+Frodo's
 Froissart
 Froissart's
 Fromm
@@ -7008,6 +7032,8 @@ GATT
 GATT's
 GB
 GB's
+GCC
+GCC's
 GDP
 GDP's
 GE
@@ -7147,6 +7173,8 @@ Gamble
 Gamble's
 Gamow
 Gamow's
+Gandalf
+Gandalf's
 Gandhi
 Gandhi's
 Gandhian
@@ -7920,6 +7948,7 @@ HMS
 HOV
 HP
 HP's
+HPV
 HQ
 HQ's
 HR
@@ -8203,6 +8232,8 @@ Hayden
 Hayden's
 Haydn
 Haydn's
+Hayek
+Hayek's
 Hayes
 Hayes's
 Haynes
@@ -8337,6 +8368,8 @@ Hench
 Hench's
 Henderson
 Henderson's
+Hendrick
+Hendrick's
 Hendricks
 Hendricks's
 Hendrix
@@ -8349,6 +8382,8 @@ Henri
 Henri's
 Henrietta
 Henrietta's
+Henrik
+Henrik's
 Henry
 Henry's
 Hensley
@@ -8823,6 +8858,7 @@ Hummer
 Hummer's
 Humphrey
 Humphrey's
+Humphreys
 Humvee
 Humvee's
 Hun
@@ -8910,6 +8946,8 @@ IDs
 IE
 IED
 IEEE
+IKEA
+IKEA's
 IL
 IMF
 IMF's
@@ -8938,6 +8976,7 @@ ISBN
 ISO
 ISO's
 ISP
+ISS
 IT
 IUD
 IV
@@ -9002,8 +9041,6 @@ Ijsselmeer
 Ijsselmeer's
 Ike
 Ike's
-Ikea
-Ikea's
 Ikhnaton
 Ikhnaton's
 Ila
@@ -9239,6 +9276,8 @@ Islamism
 Islamism's
 Islamist
 Islamist's
+Islamophobia
+Islamophobic
 Islams
 Ismael
 Ismael's
@@ -10779,6 +10818,8 @@ Latasha
 Latasha's
 Lateran
 Lateran's
+Latham
+Latham's
 Latin
 Latin's
 Latina
@@ -13292,6 +13333,8 @@ Motrin
 Motrin's
 Mott
 Mott's
+Moulton
+Moulton's
 Mount
 Mount's
 Mountbatten
@@ -14758,6 +14801,7 @@ Parks
 Parks's
 Parliament
 Parliament's
+Parmenides
 Parmesan
 Parmesan's
 Parmesans
@@ -14854,8 +14898,6 @@ PayPal
 PayPal's
 Payne
 Payne's
-Paypal
-Paypal's
 Pb
 Pb's
 Pd
@@ -15665,6 +15707,7 @@ Pythias's
 Python
 Python's
 Q
+QA
 QB
 QC
 QED
@@ -15767,6 +15810,7 @@ RFD
 RI
 RIF
 RIP
+RISC
 RN
 RN's
 RNA
@@ -15877,6 +15921,8 @@ Raoul
 Raoul's
 Raphael
 Raphael's
+Rappaport
+Rappaport's
 Rapunzel
 Rapunzel's
 Raquel
@@ -15895,6 +15941,7 @@ Rastaban's
 Rastafarian
 Rastafarian's
 Rastafarianism
+Rastafarians
 Rather
 Rather's
 Ratliff
@@ -21225,6 +21272,9 @@ abstruseness's
 absurd
 absurder
 absurdest
+absurdist
+absurdist's
+absurdists
 absurdities
 absurdity
 absurdity's
@@ -21678,6 +21728,7 @@ across
 acrostic
 acrostic's
 acrostics
+acrylamide
 acrylic
 acrylic's
 acrylics
@@ -23471,6 +23522,7 @@ amounts
 amour
 amour's
 amours
+amoxicillin
 amp
 amp's
 amperage
@@ -23495,6 +23547,7 @@ amphitheaters
 amphora
 amphora's
 amphorae
+ampicillin
 ample
 ampler
 amplest
@@ -23809,6 +23862,7 @@ angular
 angularities
 angularity
 angularity's
+angulation
 anhydrous
 aniline
 aniline's
@@ -24426,6 +24480,8 @@ apoplectic
 apoplexies
 apoplexy
 apoplexy's
+apoptosis
+apoptotic
 apostasies
 apostasy
 apostasy's
@@ -28999,6 +29055,8 @@ biopsies
 biopsy
 biopsy's
 biopsying
+bioreactor
+bioreactors
 biorhythm
 biorhythm's
 biorhythms
@@ -30599,6 +30657,7 @@ bottomed
 bottoming
 bottomless
 bottoms
+botulinum
 botulism
 botulism's
 boudoir
@@ -33528,6 +33587,7 @@ cardiologist's
 cardiologists
 cardiology
 cardiology's
+cardiomyopathy
 cardiopulmonary
 cardiovascular
 cards
@@ -35579,6 +35639,7 @@ chitchatting
 chitin
 chitin's
 chitinous
+chitosan
 chits
 chitterlings
 chitterlings's
@@ -35668,6 +35729,7 @@ choker's
 chokers
 chokes
 choking
+cholecystitis
 choler
 choler's
 cholera
@@ -37902,6 +37964,7 @@ committing
 commode
 commode's
 commodes
+commodification
 commodious
 commodiously
 commodities
@@ -39594,6 +39657,10 @@ contraption's
 contraptions
 contrapuntal
 contrapuntally
+contrarian
+contrarian's
+contrarianism
+contrarians
 contraries
 contrariety
 contrariety's
@@ -40397,6 +40464,7 @@ cosmopolitans
 cosmos
 cosmos's
 cosmoses
+cosplay
 cosponsor
 cosponsor's
 cosponsored
@@ -44305,6 +44373,7 @@ denigration's
 denim
 denim's
 denims
+denitrification
 denizen
 denizen's
 denizens
@@ -45523,6 +45592,8 @@ diggers
 digging
 diggings
 diggings's
+digicam
+digicams
 digit
 digit's
 digital
@@ -47187,6 +47258,7 @@ dobbins
 doberman
 doberman's
 dobermans
+dobro
 dobs
 doc
 doc's
@@ -48759,6 +48831,7 @@ dyspeptic's
 dyspeptics
 dysprosium
 dysprosium's
+dystonia
 dz
 e
 e'en
@@ -48961,6 +49034,7 @@ eccentricity
 eccentricity's
 eccentrics
 eccl
+ecclesial
 ecclesiastic
 ecclesiastic's
 ecclesiastical
@@ -49830,6 +49904,7 @@ emboldens
 embolism
 embolism's
 embolisms
+embolization
 emboss
 embossed
 embosser
@@ -50854,6 +50929,9 @@ eolian
 eon
 eon's
 eons
+eosinophil
+eosinophilic
+eosinophils
 epaulet
 epaulet's
 epaulets
@@ -51193,6 +51271,7 @@ erysipelas's
 erythrocyte
 erythrocyte's
 erythrocytes
+erythromycin
 es
 escalate
 escalated
@@ -51802,6 +51881,7 @@ exception
 exception's
 exceptionable
 exceptional
+exceptionalism
 exceptionally
 exceptions
 excepts
@@ -55389,6 +55469,7 @@ foldouts
 folds
 foliage
 foliage's
+folic
 folio
 folio's
 folios
@@ -56053,6 +56134,7 @@ forwardness
 forwardness's
 forwards
 forwent
+fossa
 fossil
 fossil's
 fossilization
@@ -58510,6 +58592,8 @@ gleefulness
 gleefulness's
 glen
 glen's
+glenohumeral
+glenoid
 glens
 glib
 glibber
@@ -58680,6 +58764,7 @@ glows
 glowworm
 glowworm's
 glowworms
+glucagon
 glucose
 glucose's
 glue
@@ -62094,6 +62179,8 @@ heparin's
 hepatic
 hepatitis
 hepatitis's
+hepatocyte
+hepatocytes
 hepper
 heppest
 heptagon
@@ -63345,6 +63432,7 @@ hosiery
 hosiery's
 hosing
 hosp
+hospholipase
 hospice
 hospice's
 hospices
@@ -64597,6 +64685,7 @@ imagery's
 images
 imaginable
 imaginably
+imaginal
 imaginary
 imagination
 imagination's
@@ -64771,6 +64860,8 @@ immunizing
 immunodeficiency
 immunodeficiency's
 immunodeficient
+immunoglobulin
+immunoglobulins
 immunologic
 immunological
 immunologist
@@ -66964,6 +67055,7 @@ instantiates
 instantiating
 instantly
 instants
+instar
 instate
 instated
 instates
@@ -68142,6 +68234,8 @@ irruptions
 irruptive
 irrupts
 is
+ischemia
+ischemic
 isinglass
 isinglass's
 isl
@@ -73042,6 +73136,8 @@ lyricist
 lyricist's
 lyricists
 lyrics
+lysosomal
+lysosomes
 m
 ma
 ma'am
@@ -73430,6 +73526,10 @@ majorette
 majorette's
 majorettes
 majoring
+majoritarian
+majoritarian's
+majoritarianism
+majoritarians
 majorities
 majority
 majority's
@@ -74799,6 +74899,8 @@ medleys
 medulla
 medulla's
 medullas
+medusa
+medusae
 meed
 meed's
 meek
@@ -74993,6 +75095,7 @@ memos
 memsahib
 memsahibs
 men
+men's
 menace
 menace's
 menaced
@@ -75399,6 +75502,7 @@ methodologies
 methodology
 methodology's
 methods
+methotrexate
 methought
 meths
 methyl
@@ -78008,6 +78112,7 @@ multiverses
 multivitamin
 multivitamin's
 multivitamins
+multiyear
 mum
 mum's
 mumble
@@ -78758,6 +78863,7 @@ nearly
 nearness
 nearness's
 nears
+nearshore
 nearside
 nearsighted
 nearsightedly
@@ -79169,6 +79275,7 @@ newels
 newer
 newest
 newfangled
+newfound
 newline
 newlines
 newly
@@ -81246,6 +81353,8 @@ oligarchies
 oligarchs
 oligarchy
 oligarchy's
+oligonucleotide
+oligonucleotides
 oligopolies
 oligopoly
 oligopoly's
@@ -83437,6 +83546,7 @@ pancreas
 pancreas's
 pancreases
 pancreatic
+pancreatitis
 panda
 panda's
 pandas
@@ -84146,6 +84256,8 @@ passivizing
 passkey
 passkey's
 passkeys
+passphrase
+passphrases
 passport
 passport's
 passports
@@ -85177,6 +85289,7 @@ pergola's
 pergolas
 perhaps
 pericardia
+pericardial
 pericardium
 pericardium's
 perigee
@@ -85930,6 +86043,7 @@ phooey
 phosphate
 phosphate's
 phosphates
+phosphodiesterase
 phosphor
 phosphor's
 phosphorescence
@@ -87642,6 +87756,7 @@ poltroon
 poltroon's
 poltroons
 poly
+polyacrylamide
 polyamories
 polyamory
 polyandrous
@@ -89806,6 +89921,8 @@ progeny
 progeny's
 progesterone
 progesterone's
+progestin
+progestins
 prognathous
 prognoses
 prognosis
@@ -96117,6 +96234,7 @@ revenuer
 revenuer's
 revenuers
 revenues
+reverb
 reverberate
 reverberated
 reverberates
@@ -98284,6 +98402,7 @@ sap
 sap's
 sapience
 sapience's
+sapiens
 sapient
 sapless
 sapling
@@ -99619,6 +99738,9 @@ seamiest
 seaming
 seamless
 seamlessly
+seamount
+seamount's
+seamounts
 seams
 seamstress
 seamstress's
@@ -107644,6 +107766,7 @@ subdividing
 subdivision
 subdivision's
 subdivisions
+subdominant
 subdue
 subdued
 subdues
@@ -111194,6 +111317,7 @@ therefor
 therefore
 therefrom
 therein
+theremin
 thereof
 thereon
 thereto
@@ -111532,6 +111656,7 @@ throe
 throe's
 throes
 thrombi
+thrombolytic
 thromboses
 thrombosis
 thrombosis's
@@ -112855,6 +112980,9 @@ toyed
 toying
 toys
 tr
+trabecula
+trabecular
+trabecule
 trace
 trace's
 traceable
@@ -113234,6 +113362,7 @@ transliterating
 transliteration
 transliteration's
 transliterations
+translocation
 translucence
 translucence's
 translucency
@@ -115585,6 +115714,9 @@ underwhelm
 underwhelmed
 underwhelming
 underwhelms
+underwire
+underwired
+underwires
 underworld
 underworld's
 underworlds
@@ -117875,6 +118007,7 @@ verso
 verso's
 versos
 versus
+vert
 vertebra
 vertebra's
 vertebrae
@@ -119203,6 +119336,7 @@ warts
 warty
 wary
 was
+wasabi
 wash
 wash's
 washable
@@ -119627,6 +119761,9 @@ webinars
 webisode
 webisode's
 webisodes
+weblog
+weblog's
+weblogs
 webmaster
 webmaster's
 webmasters
@@ -120982,6 +121119,7 @@ womble
 wombles
 wombs
 women
+women's
 womenfolk
 womenfolk's
 womenfolks
