@@ -4,17 +4,20 @@
 #
 # Sources used to verify the spelling of the words
 # Marco Pinto included in the dictionary:
-# 1) Oxford Dictionaries;
-# 2) Collins Dictionary;
-# 3) Macmillan Dictionary;
-# 4) Wiktionary (used with caution);
-# 5) Wikipedia (used with caution);
-# 6) Physical dictionaries.
+#   1) Oxford Dictionaries;
+#   2) Collins Dictionary;
+#   3) Macmillan Dictionary;
+#   4) Wiktionary (used with caution);
+#   5) Wikipedia (used with caution);
+#   6) Physical dictionaries.
 #
 # David Bartlett, Andrew Brown, Kevin Atkinson, Marco A.G.Pinto.
-# R 2.23, 2015-04-01
+# R 2.24, 2015-05-01
+
 SET UTF-8
+
 TRY esiaénrtolcdugmfphbyvkw-'.zqjxSNRTLCGDMFPHBEAUYOIVKWóöâôZQJXÅçèîêàïüäñ
+
 REP 27
 REP f ph
 REP ph f
@@ -43,6 +46,7 @@ REP ght t
 REP ok OK
 REP ts ce
 REP ce ts
+
 PFX A Y 2
 PFX A 0 re [^e] 
 PFX A 0 re- e 
@@ -79,6 +83,7 @@ PFX O Y 1
 PFX O 0 non- . 
 PFX 4 Y 1
 PFX 4 0 trans . 
+
 SFX V Y 15
 SFX V 0 tive [aio] 
 SFX V b ptive b 

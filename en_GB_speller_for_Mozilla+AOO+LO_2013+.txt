@@ -8955,7 +8955,7 @@ V2.23
 5700) Saavedra (+'s - name - Wikipedia)
 
 
-V2.24 (ongoing)
+V2.24
 --------------
 2-APR-2015
 5701) Hopson (+'s - name - Wikipedia)
@@ -9403,8 +9403,6 @@ V2.24 (ongoing)
 6126) sporangial
 
 20-APR-2015
-6125) freeboots + freebooting + freebooted (merged into freeboot)
-6126) Blackthorne (+'s - name - Wikipedia)
 6127) avgas
 6128) dustproof (Collins)
 6129) Bingley (+'s - name - Wikipedia)
@@ -9467,6 +9465,108 @@ V2.24 (ongoing)
 6187) keyless
 6188) Everman (+'s - name - Wikipedia)
 6189) Bharati (+'s - name - Wikipedia)
+
+22-APR-2015
+6190) Durga (+'s - name)
+6191) Waterberg (name - Wikipedia)
+6192) Durey (+'s - name)
+6194) Saint-Tropez (+'s - name)
+6195) revalorization (Collins -IZE)
+6196) revalorisation (Collins -ISE)
+6197) Ainsley (+'s - name - Wikipedia)
+6198) Matsuyama (name)
+6199) matsuri
+6200) scablands
+6201) Mengele (+'s - name - Wikipedia)
+6202) Neuburg (name - Wikipedia)
+6203) clientship
+6204) clanship
+6205) mafia (+plural - lower case - generic Mafia)
+6206) Lucian's (added the 's - name)
+6207) contrabandist (+plural)
+6208) contrabasses (added plural)
+6209) autocatalysis
+6210) autocatalyst (+plural)
+6211) autocatalytic
+6212) reprography
+6213) reprographer (+plural)
+6214) reprographic
+6215) cosmography (+plural)
+6216) cosmographer (+plural)
+6217) cosmographic
+6218) cosmographical
+
+23-APR-2015
+6219) Strieber (+'s - name - Wikipedia)
+6220) Randle (+'s - name - Wikipedia)
+6221) Symington (+'s - name - Wikipedia)
+6222) Hellyer (+'s - name - Wikipedia)
+6223) landrace (+plural)
+6224) admix (+s +ing +ed)
+6225) landrail
+6226) landplane (+plural)
+6227) Corsham (+'s - name - Wikipedia)
+6228) lordship (+plural - also in lower case)
+6229) signorial (Collins)
+6230) signoria (Collins)
+6231) Denbigh (name - Wikipedia)
+6232) malar
+6233) zygomatic (zygomatic bone)
+6234) hyperpigmentation
+6235) erythematosus (lupus erythematosus)
+6236) dermatomyositis
+6237) scleroderma
+6238) polymyositis
+6239) carnitine (Collins)
+6240) polymyalgia
+6241) rheumatica (polymyalgia rheumatica)
+6242) arthralgia
+6243) vasculitis
+6244) vasculitides (plural of previous word)
+6245) myalgia
+6246) myalgic
+6247) resplendency
+6248) demurrable
+6249) demurrer (+plural)
+6250) potentiate (+plural)
+6251) cannabinoid (+plural)
+6252) tetrahydrocannabinol
+6253) digoxin
+6254) glycoside (+plural)
+6255) elastin
+
+24-APR-2015
+6256) UTC (Collins - abbreviation: Universal Time Coordinated)
+6257) CET (abbreviation: Central European Time)
+6258) bimillenary (+plural)
+6259) unimodal
+6260) extravert (another way for extrovert)
+6261) extraversion (another way for extroversion)
+6262) underserved
+6263) undersecretary (+plural)
+6264) frontbencher (+plural)
+6265) snubbers (added plural)
+6266) clubber (+plural - Oxford: informal)
+6267) clozapine
+6268) myocarditis
+6269) carphology
+6270) Elvington (name - Wikipedia)
+6271) Lakenheath (+'s - name - Wikipedia)
+6272) drysuit (+plural)
+6273) Balharry (+'s - name - Wikipedia)
+6274) spinneys (added plural)
+6275) Schoharie (name - Wikipedia)
+6276) maquette (+plural)
+6277) Schutte (+'s - name - Wikipedia)
+6278) Puget (+'s - name - Wikipedia)
+6279) Mapuche (+plural)
+6280) Araucanian (+plural)
+6281) Gaeltacht (name)
+6282) Ramsden (+'s - name - Wikipedia)
+6283) Xcode (+'s - Wikipedia)
+6284) freeboots + freebooting + freebooted (merged into freeboot)
+6285) Blackthorne (+'s - name - Wikipedia)
+
 =============
 
 British English Dictionary (Forked) 2.24
