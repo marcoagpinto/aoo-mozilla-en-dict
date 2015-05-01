@@ -31,12 +31,14 @@ http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 #### Each GitHub folder has:
 * .AFF + .DIC + README + WORDLIST.  
-
-
+  
+  
 #### Licences for the wordlists:
 * en_CA (Kevin Atkinson) - BSD/MIT-Like;
 * en_GB (Marco A.G.Pinto) - LGPL;
 * en_US (Kevin Atkinson) - BSD/MIT-Like.  
+  
+  
 
 #### Suggesting words:
 
