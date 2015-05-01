@@ -29,17 +29,17 @@ I always keep a note of the most recent version released for Mozilla and AOO on 
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 
-Each GitHub folder has:
-- .AFF + .DIC + README + WORDLIST.  
+#### Each GitHub folder has:
+* .AFF + .DIC + README + WORDLIST.  
 
 
-Licences for the wordlists:
-- en_CA (Kevin Atkinson) - BSD/MIT-Like;
-- en_GB (Marco A.G.Pinto) - LGPL;
-- en_US (Kevin Atkinson) - BSD/MIT-Like.  
+#### Licences for the wordlists:
+* en_CA (Kevin Atkinson) - BSD/MIT-Like;
+* en_GB (Marco A.G.Pinto) - LGPL;
+* en_US (Kevin Atkinson) - BSD/MIT-Like.  
 
-Suggesting words:
+#### Suggesting words:
 
 (First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there, check "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" at the top of this page).  
 If <B>NOT</B> found:
-- Open a case or e-mail Marco Pinto with the suggested words.
+* Open a case or e-mail Marco Pinto with the suggested words.
