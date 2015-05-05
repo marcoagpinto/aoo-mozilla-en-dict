@@ -9567,6 +9567,101 @@ V2.24
 6284) freeboots + freebooting + freebooted (merged into freeboot)
 6285) Blackthorne (+'s - name - Wikipedia)
 
+
+V2.25 (ongoing)
+--------------
+4-MAY-2015
+6286) lux
+6287) lx (abbreviation of previous word)
+6288) illuminance (+plural)
+6289) fluoxetine
+6290) luminaire (+plural)
+6291) chromaticity
+6292) nestlings (added plural)
+6293) winkler (+plural)
+6294) Breydon (+'s - name - Wikipedia)
+6295) Netherfield (name - Wikipedia)
+6296) Bintley (name - Wikipedia)
+6297) Kircubbin (name - Wikipedia)
+6298) trail's (added the 's)
+6299) Rossendale (+'s - name - Wikipedia)
+6300) Gillian (+'s - name - Wikipedia)
+6301) sheepshead
+6302) waymark (+s +ing +ed +er +ers)
+6303) Hawkshead (name - Wikipedia)
+6304) Sperrin (name - Wikipedia)
+6305) Evette (+'s - name - Wikipedia)
+6306) Donnie (+'s - name - Wikipedia)
+6307) Maddy (+'s - name - Wikipedia)
+6308) surtout
+
+5-MAY-2015
+6309) Wilder (+'s - name - Wikipedia)
+6310) Cassady (+'s - name - Wikipedia)
+6311) Wootton (+'s - name - Wikipedia)
+6312) Marisol (+'s - name - Wikipedia)
+6313) Mencken (+'s - name - Wikipedia)
+6314) Denpasar (+'s - name - Wikipedia)
+6315) Tybee (+'s - name - Wikipedia)
+6316) Kurtz (+'s - name - Wikipedia)
+6317) Smithville (+'s - name - Wikipedia)
+6318) Dothan (+'s - name - Wikipedia)
+6319) Fogg (+'s - name - Wikipedia)
+6320) Flintoff's (added the 's - name)
+6321) batsmanship
+6322) batrachian
+6323) anuran (+plural)
+6324) branchia
+6325) branchiae (plural of previous word)
+6326) branchial
+6327) Janvier (+'s - name - Wikipedia)
+6328) unjointed
+6329) craniate (+plural)
+6330) out-group (+plural)
+6331) cephalochordate (+plural)
+6332) urochordate (+plural)
+6333) tunicate (+plural +ed)
+6334) plumose
+6335) glabrous
+6336) labellum
+6337) labella (plural of previous word)
+6338) diapause (+ing)
+6339) diapedesis
+6340) Waller (+'s - name - Wikipedia)
+6341) polymorphonuclear
+6342) leucocyte (+plural +ic)
+6343) immunoreactive (Collins)
+6344) phagocytosis
+6345) phagocytize (+s +ing +ed - IZE)
+6346) phagocytize (+s +ing +ed - ISE)
+6347) phagocytose (+ed)
+6348) neutrophilic
+6349) chronobiologist's (added the 's)
+6350) outpaces (added plural)
+6351) Arber (+'s - name - Wikipedia)
+6352) Columba (name)
+6353) Columbae
+6354) outmuscle (+s +ing +ed)
+6355) outbreed (+ing)
+6356) outbred (past and past participle of previous word)
+6357) carnivalesque
+6358) weblogging (Collins)
+6359) orgiastically
+6360) orgulous
+6361) orgasmically
+6362) orgastic
+6363) orgastically
+6364) vaginismus
+6365) vaginoplasty
+6366) biohacking
+6367) biohacker (+plural)
+6368) Gerstein (+'s - name - Wikipedia)
+6369) bioaccumulations (added plural)
+6370) metabolizes + metabolizing + metabolized (merged into metabolize - IZE)
+6371) metabolizable (IZE)
+6372) metabolisable (ISE)
+6373) metabolizer (+plural - IZE)
+6374) metaboliser (+plural - ISE)
 =============
 
 British English Dictionary (Forked) 2.24
