@@ -9662,6 +9662,44 @@ V2.25 (ongoing)
 6372) metabolisable (ISE)
 6373) metabolizer (+plural - IZE)
 6374) metaboliser (+plural - ISE)
+
+8-MAY-2015
+6375) evaginate
+6376) evagination (+plural)
+6377) evert (+s +ing +ed)
+6378) eversible
+6379) eversion
+6380) adenohypophysis (Collins)
+6381) adenohypophyses (Collins - plural of previous word)
+6382) nuchal
+6383) trapezius
+6384) trapezii (plural of previous word)
+6385) spinose
+6386) spinous (another way of previous word)
+6387) subnatural (Collins)
+6388) subsale (Collins)
+6389) subsocial (Collins)
+6390) substyle (Collins)
+6391) suprarational (Collins)
+6392) seminatural (Collins)
+6393) supernature (Collins)
+6394) supravitally (Collins)
+6395) Edentata
+6396) Xenarthra (another way of previous word)
+6397) xenarthran (+plural)
+6398) polyphyletic
+6399) paraphyletic
+6400) edentate (+plural)
+6401) sloths (added plural)
+6402) sabretooth
+6403) Pleistocene
+6404) australopithecine (+plural)
+6405) Pliocene
+6406) unconformably
+6407) Wiens (name - Wikipedia)
+6408) Moine (name - Wikipedia)
+6409) Permian
+6410) Lindisfarne (+'s - name)
 =============
 
 British English Dictionary (Forked) 2.24
