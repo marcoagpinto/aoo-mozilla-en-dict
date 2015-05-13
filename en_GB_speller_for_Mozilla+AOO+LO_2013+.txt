@@ -9739,6 +9739,60 @@ V2.25 (ongoing)
 6435) kinesiology
 6436) kinesiological
 6437) kinesiologist (+plural)
+
+13-MAY-2015
+6438) Samarra (+'s - name - Wikipedia)
+6439) symplast (+ic)
+6440) plasmodesma
+6441) plasmodesmata (plural of previous word)
+6442) adpressed
+6443) sclerite (+plural)
+6444) dolphinarium (+plural)
+6445) dolphinaria (another plural of previous word)
+6446) bottlenose (dolphin + whale)
+6447) bottle-nosed (dolphin + whale)
+6448) armamentarium
+6449) armamentaria (plural of previous word)
+6450) interneurons (plural of interneuron)
+6451) interneurones (plural of  interneurone - another way of previous word)
+6452) Gurley (+'s - name - Wikipedia)
+6453) homonymic
+6454) homonymous
+6455) homonymy
+6456) polysemy
+6457) polysemic
+6458) polysemous
+6459) anonym (+plural)
+6460) Oguibe (+'s - name - Wikipedia)
+6461) thunderbox (fixed: thunder-box)
+6462) Max (+'s - name - Wikipedia)
+6463) Turnbull (+'s - name - Wikipedia)
+6464) thunderbug (+plural)
+6465) Newbridge (name - Wikipedia)
+6466) McNally (+'s - name - Wikipedia)
+6467) McCaffrey (+'s - name - Wikipedia)
+6468) Queally (+'s - name - Wikipedia)
+6469) thunderousness
+6470) Gilmartin (+'s - name - Wikipedia)
+6471) thunderhead (+plural)
+6472) thunderfly (+plural)
+6473) aftersales
+6474) hotlines (added plural)
+6475) hotlink (+plural +ing - Wiktionary)
+6476) hotlist
+6477) apolune
+6478) perilune
+6479) manoeuvrer (+plural)
+6480) Maugham (+'s - name - Wikipedia)
+6481) chlorophyte (+plural)
+6482) rhodophyte (+plural)
+6483) monophyly (Collins)
+6484) adnate
+6485) connate
+6486) calathea (+plural)
+6487) beefwood
+6488) stocktake (+r +ers)
+6489) RAAF (abbreviation for: Royal Australian Air Force)
 =============
 
 British English Dictionary (Forked) 2.25
