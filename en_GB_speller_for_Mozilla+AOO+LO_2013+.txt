@@ -9793,6 +9793,45 @@ V2.25 (ongoing)
 6487) beefwood
 6488) stocktake (+r +ers)
 6489) RAAF (abbreviation for: Royal Australian Air Force)
+
+14-MAY-2015
+6490) Mochizuki (+'s - name - Wikipedia)
+6491) Eratosthenes's (added the 's - name)
+6492) compositeness (merged into composite)
+6493) Andie (+'s - name - Wikipedia)
+6494) Annabelle (+'s - name - Wikipedia)
+6495) Resnick (+'s - name - Wikipedia)
+6496) Muthesius (name - Wikipedia)
+6497) workboat (+plural)
+6498) refloat (+s +ing +ed)
+6499) reflexologist (+plural)
+6500) reflexible
+6501) reflexibility
+6502) Zeiss (+'s - name)
+6503) Leica (+'s - name - Wikipedia)
+6504) Pentax (+'s - name - Wikipedia)
+6505) Benoni (+'s - name - Wikipedia)
+6506) zeitgeber (+plural)
+6507) zein
+6508) Evans-Pritchard (+'s - name)
+6509) evaporable
+6510) hydroperoxide (Collins)
+6511) anthracene
+6512) pyrene
+6513) alizarin
+6514) Kossa (+'s - name - Wikipedia)
+6515) Raes (name - Wikipedia)
+6516) unimolecular
+6517) Stern-Volmer (Stern-Volmer relationship: Wikipedia)
+6518) unseduced (Collins)
+6519) Giuliani (+'s - name - Wikipedia)
+6520) unimposingly
+6521) Ana (+'s - name - Wikipedia)
+6522) biryani + biriyani + biriani (Indian dish)
+6523) birthwort (+plural)
+6524) birthweight
+6525) haematocrit
+6526) intraoperative
 =============
 
 British English Dictionary (Forked) 2.25
