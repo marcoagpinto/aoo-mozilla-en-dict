@@ -9832,6 +9832,34 @@ V2.25 (ongoing)
 6524) birthweight
 6525) haematocrit
 6526) intraoperative
+
+18-MAY-2015
+6527) spectate (+s +ing +ed)
+6528) spectatorial
+6529) spectatorship
+6530) spectinomycin
+6531) biogeneric (+plural)
+6532) Coughlin (+'s - name - Wikipedia)
+6533) equivalency
+6534) Bahamians (added plural)
+6535) Cameroonian (+plural)
+6536) Mariel (+'s - name - Wikipedia)
+6537) Savimbi (+'s - name - Wikipedia)
+6538) McKenna (+'s - name - Wikipedia)
+6539) Robichaud (+'s - name - Wikipedia)
+6540) plugger (+plural)
+6541) Chuckie (+'s - name - Wikipedia)
+6542) Francophile (+plural)
+6543) Lennox (+'s - name - Wikipedia)
+6544) Sandhurst (+'s - name - Wikipedia)
+6545) Anglophilia
+6546) Breitinger (+'s - name - Wikipedia)
+6547) flatbread
+6548) flatbug
+6549) Nuttall (+'s - name - Wikipedia)
+6550) flyest
+6551) flyness
+6552) ferruginous
 =============
 
 British English Dictionary (Forked) 2.25
