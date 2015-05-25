@@ -9860,6 +9860,95 @@ V2.25 (ongoing)
 6550) flyest
 6551) flyness
 6552) ferruginous
+
+22-MAY-2015
+6553) Mery (+'s - name of friend)
+6554) Eckard (+'s - name - Wikipedia)
+6555) Berberich (+'s - name - Wikipedia)
+6556) MS-DOS
+6557) bootmaker (+plural)
+6558) Brighouse (+'s - name - Wikipedia)
+6559) Gupta (+'s - name - Wikipedia)
+6560) Sharam (+'s - name - Wikipedia)
+6561) bootlicker (+plural - Oxford: informal)
+6562) Bloomberg (+'s - name - Wikipedia)
+6563) Babs (+'s - name - Wikipedia)
+6564) necklet (+plural)
+6565) Lismore (+'s - name - Wikipedia)
+6566) Netto (+'s - name - Wikipedia)
+6567) surjection (+plural)
+6568) surjective
+6569) permutational
+6570) Tattersall (+'s - name - Wikipedia)
+6571) Petrov (+'s - name - Wikipedia)
+6572) out-half
+6573) Mullingar (+'s - name - Wikipedia)
+6574) monophyletic
+6575) endosymbiosis
+6576) endosymbiont (+plural)
+6577) endosymbiotic
+6578) phototroph (+ic)
+6579) anthozoan (+plural)
+6580) anthophilous
+6581) Anthozoa
+6582) Cnidaria
+6583) Ctenophora
+6584) Placozoa
+6585) Echiura
+6586) echiuran (+plural)
+6587) echiuroid (+plural)
+6588) respirometer (+plural)
+6589) polarographic
+6590) potentiometry (+ic)
+6591) Polaroid (+plural - Oxford: trademark)
+6592) Jeana (name - Wikipedia)
+6593) doublure
+6594) Borobudur (+'s - name - Wikipedia)
+6595) photogravure (+plural)
+6596) Gornik (+'s - name - Wikipedia)
+6597) calotype
+6598) Lacock (name - Wikipedia)
+6599) Ezekiel's (added the 's - name)
+6600) Antiguan
+6601) antihypertensive
+6602) antidiabetic (Collins)
+6603) hypotension
+6604) multisystem (Collins)
+6605) obtention
+
+25-MAY-2015
+6606) hypostyle
+6607) Ramses (+'s - name - Wikipedia)
+6608) Karnak (+'s - name - Wikipedia)
+6609) Serlio (+'s - name - Wikipedia)
+6610) Iphigenia (+'s - name - Wikipedia)
+6611) tetrastyle
+6612) porticos (another plural of portico)
+6613) hexastyle (+plural)
+6614) octastyle
+6615) Bernini (+'s - name - Wikipedia)
+6616) octavalent
+6617) octarchy (+plural)
+6618) Gaurav (+'s - name - Wikipedia)
+6619) Jamil (+'s - name - Wikipedia)
+6620) Joel's (added the 's - name - Wikipedia)
+6621) Arriaga (+'s - name - Wikipedia)
+6622) Burney (+'s - name - Wikipedia)
+6623) Lynette (+'s - name - Wikipedia)
+6624) piquet
+6625) wagonette + waggonette (+plural)
+6626) Rivington (name - Wikipedia)
+6627) Harwood (+'s - name - Wikipedia)
+6628) Newbould (+'s - name - Wikipedia)
+6629) wagonload (+plural)
+6630) Lupe (+'s - name - Wikipedia)
+6631) wagoner + waggoner (+'s +plural)
+6632) Fairburn (+'s - name - Wikipedia)
+6633) wagon-lit
+6634) wagons-lits (plural of previous word)
+6635) Arlette (name - Wikipedia)
+6636) Paulette (+'s - name - Wikipedia)
+6637) Claudette (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.25
