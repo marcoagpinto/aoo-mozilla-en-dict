@@ -23462,6 +23462,7 @@ ammo
 ammo's
 ammonia
 ammonia's
+ammonium
 ammunition
 ammunition's
 amnesia
@@ -29037,6 +29038,7 @@ biology
 biology's
 biomass
 biomass's
+biomedical
 bionic
 bionically
 bionics
@@ -47645,6 +47647,7 @@ dooryard's
 dooryards
 dopa
 dopa's
+dopamine
 dope
 dope's
 doped
@@ -50396,6 +50399,7 @@ endoscopes
 endoscopic
 endoscopy
 endoscopy's
+endothelial
 endothermic
 endow
 endowed
@@ -51008,6 +51012,8 @@ episode's
 episodes
 episodic
 episodically
+epistemic
+epistemological
 epistemology
 epistle
 epistle's
@@ -61749,6 +61755,7 @@ healing
 heals
 health
 health's
+healthcare
 healthful
 healthfully
 healthfulness
@@ -73231,6 +73238,7 @@ macrology
 macron
 macron's
 macrons
+macrophages
 macros
 macroscopic
 macs
@@ -76743,6 +76751,9 @@ mitigates
 mitigating
 mitigation
 mitigation's
+mitochondria
+mitochondrial
+mitochondrion
 mitoses
 mitosis
 mitosis's
@@ -76837,6 +76848,8 @@ mod
 mod's
 modal
 modal's
+modalities
+modality
 modals
 modded
 modding
@@ -78460,6 +78473,7 @@ myelitis's
 myna
 myna's
 mynas
+myocardial
 myocardium
 myopia
 myopia's
@@ -85137,6 +85151,8 @@ pepsin's
 peptic
 peptic's
 peptics
+peptide
+peptides
 per
 peradventure
 peradventure's
@@ -85284,6 +85300,7 @@ perfumes
 perfuming
 perfunctorily
 perfunctory
+perfusion
 pergola
 pergola's
 pergolas
@@ -87524,6 +87541,7 @@ poetesses
 poetic
 poetical
 poetically
+poetics
 poetry
 poetry's
 poets
@@ -92709,6 +92727,7 @@ reactivating
 reactivation
 reactivation's
 reactive
+reactivity
 reactor
 reactor's
 reactors
@@ -102435,6 +102454,7 @@ situates
 situating
 situation
 situation's
+situational
 situations
 six
 six's
@@ -106555,6 +106575,7 @@ stenographic
 stenography
 stenography's
 stenos
+stenosis
 stentorian
 step
 step's
@@ -112001,6 +112022,7 @@ timelessness
 timelessness's
 timelier
 timeliest
+timeline
 timeliness
 timeliness's
 timely
@@ -117983,6 +118005,7 @@ verruca
 verruca's
 verrucae
 verrucas
+versa
 versatile
 versatility
 versatility's
@@ -119417,6 +119440,7 @@ waster
 waster's
 wasters
 wastes
+wastewater
 wasting
 wastrel
 wastrel's
