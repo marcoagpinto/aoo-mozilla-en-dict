@@ -8388,8 +8388,8 @@ V2.23 - 1-APR-2015
 5700) Saavedra (+'s - name - Wikipedia)
 
 
-V2.24 1-MAY-2015
-----------------
+V2.24 - 1-MAY-2015
+------------------
 5701) Hopson (+'s - name - Wikipedia)
 5702) Coolaney (name - Wikipedia)
 5703) Barkley (name - Wikipedia)
@@ -8974,3 +8974,369 @@ V2.24 1-MAY-2015
 6283) Xcode (+'s - Wikipedia)
 6284) freeboots + freebooting + freebooted (merged into freeboot)
 6285) Blackthorne (+'s - name - Wikipedia)
+
+
+V2.25 - 1-JUN-2015
+------------------
+6286) lux
+6287) lx (abbreviation of previous word)
+6288) illuminance (+plural)
+6289) fluoxetine
+6290) luminaire (+plural)
+6291) chromaticity
+6292) nestlings (added plural)
+6293) winkler (+plural)
+6294) Breydon (+'s - name - Wikipedia)
+6295) Netherfield (name - Wikipedia)
+6296) Bintley (name - Wikipedia)
+6297) Kircubbin (name - Wikipedia)
+6298) trail's (added the 's)
+6299) Rossendale (+'s - name - Wikipedia)
+6300) Gillian (+'s - name - Wikipedia)
+6301) sheepshead
+6302) waymark (+s +ing +ed +er +ers)
+6303) Hawkshead (name - Wikipedia)
+6304) Sperrin (name - Wikipedia)
+6305) Evette (+'s - name - Wikipedia)
+6306) Donnie (+'s - name - Wikipedia)
+6307) Maddy (+'s - name - Wikipedia)
+6308) surtout
+6309) Wilder (+'s - name - Wikipedia)
+6310) Cassady (+'s - name - Wikipedia)
+6311) Wootton (+'s - name - Wikipedia)
+6312) Marisol (+'s - name - Wikipedia)
+6313) Mencken (+'s - name - Wikipedia)
+6314) Denpasar (+'s - name - Wikipedia)
+6315) Tybee (+'s - name - Wikipedia)
+6316) Kurtz (+'s - name - Wikipedia)
+6317) Smithville (+'s - name - Wikipedia)
+6318) Dothan (+'s - name - Wikipedia)
+6319) Fogg (+'s - name - Wikipedia)
+6320) Flintoff's (added the 's - name)
+6321) batsmanship
+6322) batrachian
+6323) anuran (+plural)
+6324) branchia
+6325) branchiae (plural of previous word)
+6326) branchial
+6327) Janvier (+'s - name - Wikipedia)
+6328) unjointed
+6329) craniate (+plural)
+6330) out-group (+plural)
+6331) cephalochordate (+plural)
+6332) urochordate (+plural)
+6333) tunicate (+plural +ed)
+6334) plumose
+6335) glabrous
+6336) labellum
+6337) labella (plural of previous word)
+6338) diapause (+ing)
+6339) diapedesis
+6340) Waller (+'s - name - Wikipedia)
+6341) polymorphonuclear
+6342) leucocyte (+plural +ic)
+6343) immunoreactive (Collins)
+6344) phagocytosis
+6345) phagocytize (+s +ing +ed - IZE)
+6346) phagocytize (+s +ing +ed - ISE)
+6347) phagocytose (+ed)
+6348) neutrophilic
+6349) chronobiologist's (added the 's)
+6350) outpaces (added plural)
+6351) Arber (+'s - name - Wikipedia)
+6352) Columba (name)
+6353) Columbae
+6354) outmuscle (+s +ing +ed)
+6355) outbreed (+ing)
+6356) outbred (past and past participle of previous word)
+6357) carnivalesque
+6358) weblogging (Collins)
+6359) orgiastically
+6360) orgulous
+6361) orgasmically
+6362) orgastic
+6363) orgastically
+6364) vaginismus
+6365) vaginoplasty
+6366) biohacking
+6367) biohacker (+plural)
+6368) Gerstein (+'s - name - Wikipedia)
+6369) bioaccumulations (added plural)
+6370) metabolizes + metabolizing + metabolized (merged into metabolize - IZE)
+6371) metabolizable (IZE)
+6372) metabolisable (ISE)
+6373) metabolizer (+plural - IZE)
+6374) metaboliser (+plural - ISE)
+6375) evaginate
+6376) evagination (+plural)
+6377) evert (+s +ing +ed)
+6378) eversible
+6379) eversion
+6380) adenohypophysis (Collins)
+6381) adenohypophyses (Collins - plural of previous word)
+6382) nuchal
+6383) trapezius
+6384) trapezii (plural of previous word)
+6385) spinose
+6386) spinous (another way of previous word)
+6387) subnatural (Collins)
+6388) subsale (Collins)
+6389) subsocial (Collins)
+6390) substyle (Collins)
+6391) suprarational (Collins)
+6392) seminatural (Collins)
+6393) supernature (Collins)
+6394) supravitally (Collins)
+6395) Edentata
+6396) Xenarthra (another way of previous word)
+6397) xenarthran (+plural)
+6398) polyphyletic
+6399) paraphyletic
+6400) edentate (+plural)
+6401) sloths (added plural)
+6402) sabretooth
+6403) Pleistocene
+6404) australopithecine (+plural)
+6405) Pliocene
+6406) unconformably
+6407) Wiens (name - Wikipedia)
+6408) Moine (name - Wikipedia)
+6409) Permian
+6410) Lindisfarne (+'s - name)
+6411) ammoniacal
+6412) semelparous (Collins)
+6413) cupro-nickel
+6414) cupule (+plural)
+6415) uniaxial (+ly)
+6416) encapsidate (+s +ing +ed +ion)
+6417) isotopically
+6418) isotopy
+6419) triton (+plural +'s)
+6420) Triton (+'s - name)
+6421) overmedicate (Collins)
+6422) overmedication (Collins)
+6423) overprocess (Collins)
+6424) overpromote (Collins)
+6425) overcredulous (Collins)
+6426) overedit (Collins)
+6427) overtedious (Collins)
+6428) Declan (+'s - name - Wikipedia)
+6429) electroclash (Collins)
+6430) Kandy (name - Wikipedia)
+6431) Mandy (+'s - name - Wikipedia)
+6432) Nandi (+'s - name - Wikipedia)
+6433) bandy-bandy (+plural)
+6434) Zack (+'s - name - Wikipedia)
+6425) Phobos (name)
+6426) Brixton (+'s - name - Wikipedia)
+6427) Bettman (+'s - name - Wikipedia)
+6428) Schlemiel (+s - name - Wikipedia)
+6429) Ursa (Ursa Major)
+6430) uroscopy
+6431) Theophilus (+'s - name - Wikipedia)
+6432) urostyle
+6433) kinesis
+6434) kineses (plural of previous word)
+6435) kinesiology
+6436) kinesiological
+6437) kinesiologist (+plural)
+6438) Samarra (+'s - name - Wikipedia)
+6439) symplast (+ic)
+6440) plasmodesma
+6441) plasmodesmata (plural of previous word)
+6442) adpressed
+6443) sclerite (+plural)
+6444) dolphinarium (+plural)
+6445) dolphinaria (another plural of previous word)
+6446) bottlenose (dolphin + whale)
+6447) bottle-nosed (dolphin + whale)
+6448) armamentarium
+6449) armamentaria (plural of previous word)
+6450) interneurons (plural of interneuron)
+6451) interneurones (plural of  interneurone - another way of previous word)
+6452) Gurley (+'s - name - Wikipedia)
+6453) homonymic
+6454) homonymous
+6455) homonymy
+6456) polysemy
+6457) polysemic
+6458) polysemous
+6459) anonym (+plural)
+6460) Oguibe (+'s - name - Wikipedia)
+6461) thunderbox (fixed: thunder-box)
+6462) Max (+'s - name - Wikipedia)
+6463) Turnbull (+'s - name - Wikipedia)
+6464) thunderbug (+plural)
+6465) Newbridge (name - Wikipedia)
+6466) McNally (+'s - name - Wikipedia)
+6467) McCaffrey (+'s - name - Wikipedia)
+6468) Queally (+'s - name - Wikipedia)
+6469) thunderousness
+6470) Gilmartin (+'s - name - Wikipedia)
+6471) thunderhead (+plural)
+6472) thunderfly (+plural)
+6473) aftersales
+6474) hotlines (added plural)
+6475) hotlink (+plural +ing - Wiktionary)
+6476) hotlist
+6477) apolune
+6478) perilune
+6479) manoeuvrer (+plural)
+6480) Maugham (+'s - name - Wikipedia)
+6481) chlorophyte (+plural)
+6482) rhodophyte (+plural)
+6483) monophyly (Collins)
+6484) adnate
+6485) connate
+6486) calathea (+plural)
+6487) beefwood
+6488) stocktake (+r +ers)
+6489) RAAF (abbreviation for: Royal Australian Air Force)
+6490) Mochizuki (+'s - name - Wikipedia)
+6491) Eratosthenes's (added the 's - name)
+6492) compositeness (merged into composite)
+6493) Andie (+'s - name - Wikipedia)
+6494) Annabelle (+'s - name - Wikipedia)
+6495) Resnick (+'s - name - Wikipedia)
+6496) Muthesius (name - Wikipedia)
+6497) workboat (+plural)
+6498) refloat (+s +ing +ed)
+6499) reflexologist (+plural)
+6500) reflexible
+6501) reflexibility
+6502) Zeiss (+'s - name)
+6503) Leica (+'s - name - Wikipedia)
+6504) Pentax (+'s - name - Wikipedia)
+6505) Benoni (+'s - name - Wikipedia)
+6506) zeitgeber (+plural)
+6507) zein
+6508) Evans-Pritchard (+'s - name)
+6509) evaporable
+6510) hydroperoxide (Collins)
+6511) anthracene
+6512) pyrene
+6513) alizarin
+6514) Kossa (+'s - name - Wikipedia)
+6515) Raes (name - Wikipedia)
+6516) unimolecular
+6517) Stern-Volmer (Stern-Volmer relationship: Wikipedia)
+6518) unseduced (Collins)
+6519) Giuliani (+'s - name - Wikipedia)
+6520) unimposingly
+6521) Ana (+'s - name - Wikipedia)
+6522) biryani + biriyani + biriani (Indian dish)
+6523) birthwort (+plural)
+6524) birthweight
+6525) haematocrit
+6526) intraoperative
+6527) spectate (+s +ing +ed)
+6528) spectatorial
+6529) spectatorship
+6530) spectinomycin
+6531) biogeneric (+plural)
+6532) Coughlin (+'s - name - Wikipedia)
+6533) equivalency
+6534) Bahamians (added plural)
+6535) Cameroonian (+plural)
+6536) Mariel (+'s - name - Wikipedia)
+6537) Savimbi (+'s - name - Wikipedia)
+6538) McKenna (+'s - name - Wikipedia)
+6539) Robichaud (+'s - name - Wikipedia)
+6540) plugger (+plural)
+6541) Chuckie (+'s - name - Wikipedia)
+6542) Francophile (+plural)
+6543) Lennox (+'s - name - Wikipedia)
+6544) Sandhurst (+'s - name - Wikipedia)
+6545) Anglophilia
+6546) Breitinger (+'s - name - Wikipedia)
+6547) flatbread
+6548) flatbug
+6549) Nuttall (+'s - name - Wikipedia)
+6550) flyest
+6551) flyness
+6552) ferruginous
+6553) Mery (+'s - name of friend)
+6554) Eckard (+'s - name - Wikipedia)
+6555) Berberich (+'s - name - Wikipedia)
+6556) MS-DOS
+6557) bootmaker (+plural)
+6558) Brighouse (+'s - name - Wikipedia)
+6559) Gupta (+'s - name - Wikipedia)
+6560) Sharam (+'s - name - Wikipedia)
+6561) bootlicker (+plural - Oxford: informal)
+6562) Bloomberg (+'s - name - Wikipedia)
+6563) Babs (+'s - name - Wikipedia)
+6564) necklet (+plural)
+6565) Lismore (+'s - name - Wikipedia)
+6566) Netto (+'s - name - Wikipedia)
+6567) surjection (+plural)
+6568) surjective
+6569) permutational
+6570) Tattersall (+'s - name - Wikipedia)
+6571) Petrov (+'s - name - Wikipedia)
+6572) out-half
+6573) Mullingar (+'s - name - Wikipedia)
+6574) monophyletic
+6575) endosymbiosis
+6576) endosymbiont (+plural)
+6577) endosymbiotic
+6578) phototroph (+ic)
+6579) anthozoan (+plural)
+6580) anthophilous
+6581) Anthozoa
+6582) Cnidaria
+6583) Ctenophora
+6584) Placozoa
+6585) Echiura
+6586) echiuran (+plural)
+6587) echiuroid (+plural)
+6588) respirometer (+plural)
+6589) polarographic
+6590) potentiometry (+ic)
+6591) Polaroid (+plural - Oxford: trademark)
+6592) Jeana (name - Wikipedia)
+6593) doublure
+6594) Borobudur (+'s - name - Wikipedia)
+6595) photogravure (+plural)
+6596) Gornik (+'s - name - Wikipedia)
+6597) calotype
+6598) Lacock (name - Wikipedia)
+6599) Ezekiel's (added the 's - name)
+6600) Antiguan
+6601) antihypertensive
+6602) antidiabetic (Collins)
+6603) hypotension
+6604) multisystem (Collins)
+6605) obtention
+6606) hypostyle
+6607) Ramses (+'s - name - Wikipedia)
+6608) Karnak (+'s - name - Wikipedia)
+6609) Serlio (+'s - name - Wikipedia)
+6610) Iphigenia (+'s - name - Wikipedia)
+6611) tetrastyle
+6612) porticos (another plural of portico)
+6613) hexastyle (+plural)
+6614) octastyle
+6615) Bernini (+'s - name - Wikipedia)
+6616) octavalent
+6617) octarchy (+plural)
+6618) Gaurav (+'s - name - Wikipedia)
+6619) Jamil (+'s - name - Wikipedia)
+6620) Joel's (added the 's - name - Wikipedia)
+6621) Arriaga (+'s - name - Wikipedia)
+6622) Burney (+'s - name - Wikipedia)
+6623) Lynette (+'s - name - Wikipedia)
+6624) piquet
+6625) wagonette + waggonette (+plural)
+6626) Rivington (name - Wikipedia)
+6627) Harwood (+'s - name - Wikipedia)
+6628) Newbould (+'s - name - Wikipedia)
+6629) wagonload (+plural)
+6630) Lupe (+'s - name - Wikipedia)
+6631) wagoner + waggoner (+'s +plural)
+6632) Fairburn (+'s - name - Wikipedia)
+6633) wagon-lit
+6634) wagons-lits (plural of previous word)
+6635) Arlette (name - Wikipedia)
+6636) Paulette (+'s - name - Wikipedia)
+6637) Claudette (+'s - name - Wikipedia)
