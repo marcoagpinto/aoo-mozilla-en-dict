@@ -9949,8 +9949,79 @@ V2.25
 6635) Arlette (name - Wikipedia)
 6636) Paulette (+'s - name - Wikipedia)
 6637) Claudette (+'s - name - Wikipedia)
+
+
+V2.26 (ONGOING)
+--------------
+3-JUN-2015
+6638) understeer (+s +ing +ed)
+6639) oversteer (+s +ing +ed)
+6640) WAP
+6641) druggy
+6642) Tomaselli (+'s - name - Wikipedia)
+6643) Parello (+'s - name - Wikipedia)
+6644) Dulwich (+'s - name - Wikipedia)
+6645) drugget
+6646) drug-related
+6647) drug-free
+6648) Liam (+'s - name - Wikipedia)
+6649) Nadelmann (+'s - name - Wikipedia)
+6650) Dewhurst (+'s - name - Wikipedia)
+6651) Haider (+'s - name - Wikipedia)
+6652) Ravenscroft (+'s - name - Wikipedia)
+6653) Ede (+'s - name - Wikipedia)
+6654) Aguila (+'s - name - Wikipedia)
+6655) Bowker (+'s - name - Wikipedia)
+6656) dribbly
+6657) hyaline
+6658) disodium (Collins)
+6659) intranuclear (Collins)
+
+5-JUN-2015
+6660) svn (lower case)
+6661) SVN (upper case)
+6662) tarball (+plural - Wiktionary)
+6663) gzip (+s +ing +ed - Wiktionary)
+6664) Walfield (name - Wikipedia)
+6665) Gillmor (+'s - name - Wikipedia)
+6666) Pescetti (+'s - name - Wikipedia)
+6667) Galoppini (name - Wikipedia)
+6668) Beaussier (name - Wikipedia)
+6669) Valk (+'s - name - Wikipedia)
+6670) CMS (abbreviation: Content Management System)
+6671) Henschel (+'s - name - Wikipedia)
+6672) Yutaka (+'s - name - Wikipedia)
+6673) Philipp (+'s - name - Wikipedia)
+6674) Kewisch (+'s - name - Wikipedia)
+6675) stargate (+plural - Wiktionary)
+6676) teleporter (+plural - Wiktionary)
+6677) Redfern (+'s - name - Wikipedia)
+6678) Hopkinsville (+'s - name - Wikipedia)
+6679) CST (abbreviation: Central Standard Time)
+6680) Lynne (+'s - name - Wikipedia)
+6681) DipEd
+6682) classily
+6683) clastic
+6684) fissility
+6685) decompaction (+plural - Wiktionary)
+6686) interlayers (added plural)
+6687) sconces (added plural)
+6688) scombroid (+plural)
+6689) ciguatera
+6690) parrotfish (+plural)
+6691) parrotbill (+plural)
+6692) vegetational
+6693) acridine
+6694) ammoniated
+6695) valerian (+plural - in lower case if not a name)
+6696) campanula (+plural)
+6697) cannabinol
+6698) photoproduct (+plural)
+6699) photoprotein
+6700) photorealist
+6701) photorealistic
 =============
 
-British English Dictionary (Forked) 2.25
+British English Dictionary (Forked) 2.26
 by Marco A.G.Pinto
 
