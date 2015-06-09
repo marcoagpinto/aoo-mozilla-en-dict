@@ -10020,6 +10020,41 @@ V2.26 (ONGOING)
 6699) photoprotein
 6700) photorealist
 6701) photorealistic
+
+9-JUN-2015
+6702) anamorphosis
+6703) anamorphoses (plural of previous word)
+6704) eccentrical (Collins)
+6705) gesso
+6706) gessoes (plural of previous word)
+6707) glass-like
+6708) didymium
+6709) Pyrex (trademark)
+6710) Jena (+'s - name)
+6711) cullet
+6712) Flemings (added plural)
+6713) Bretons (added plural)
+6714) Celts (added plural)
+6715) Galicians (added plural)
+6716) Catalans (added plural)
+6717) Asturians (added plural)
+6718) Pyrenees
+6719) Pyrenean
+6720) carbamate (+plural)
+6721) organophosphate (+plural)
+6722) organochlorine (+plural)
+6723) disruptors (added plural)
+6724) arbitral
+6725) riskless
+6726) Shleifer (+'s - name - Wikipedia)
+6727) risk-neutral
+6728) chargehand (+plural)
+6729) Kuster (+'s - name - Wikipedia)
+6730) lampstand (Collins)
+6731) Auriga (name in space)
+6732) MacPherson (+'s - name - Wikipedia)
+6733) moxibustion
+6734) adaptogenic
 =============
 
 British English Dictionary (Forked) 2.26
