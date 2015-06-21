@@ -10256,6 +10256,83 @@ V2.26 (ONGOING)
 6923) teleoperation
 6924) teleoperate (+s +ing +ed)
 6925) teleoperator
+
+20-JUN-2015
+6926) chatterbot (+plural)
+6927) Ramona (+'s - name - Wikipedia)
+6928) cyberporn
+6929) Danni (+'s - name - Wikipedia)
+6930) cyberpet (+plural)
+6931) Leonard (added the 's - name)
+6932) Lolita (+plural)
+6933) literality
+6934) literalize (-IZE)
+6935) literalise (-ISE)
+6936) literalist (+plural)
+6937) scientism
+6938) scientistic
+6939) pettifoggery
+6940) barratry
+6941) barrator (+plural)
+6942) barratrous
+6943) cusk-eel (+plural)
+6944) gorgonian (+plural)
+6945) pipefish (+plural)
+6946) pipeclay (+s +ing +ed)
+6947) trishaw (+plural)
+6948) Sharath (+'s - name - Wikipedia)
+6949) Penang (+'s - name - Wikipedia)
+6950) shophouse (+plural)
+6951) Lovett (+'s - name - Wikipedia)
+6952) shopman
+6953) shopmen (plural of previous word)
+6954) shopworker (+plural)
+6955) Burnham (+'s - name - Wikipedia)
+6956) obstructor (+plural)
+6957) Kingsford (+'s - name - Wikipedia)
+6958) Jens (+'s - name - Wikipedia)
+6959) postglacial
+6960) peatland (+plural)
+6961) ActiveX
+6962) autorecovery (Google)
+6963) autorecover (Google)
+6964) anonymise (+s +ing +ed - ISE)
+6965) anonymize (+s +ing +ed - IZE)
+6966) anonymization (-IZE)
+6967) anonymisation (-ISE)
+6968) Keaton (+'s - name - Wikipedia)
+6969) Kinsella (+'s - name - Wikipedia)
+6970) Al-Anon
+6971) Groff (+'s - name - Wikipedia)
+6972) immunotoxic (Collins)
+6973) aflatoxin (+plural)
+6974) groundnuts (added plural)
+6975) groundmass
+6976) phenocryst (+plural)
+6977) xenocryst (+plural +ic)
+6978) apomixis
+6979) apomictic
+6980) facultative
+6981) facultatively
+6982) auxotroph (+plural +ic)
+6983) thiamin (another way of thiamine)
+6984) autocrine
+6985) paracrine
+6986) chemosensory
+6987) sensillum
+6988) sensilla (plural of previous word)
+6989) campaniform (Collins)
+6990) palp (+plural)
+6991) palpi (another plural of previous word)
+6992) palpus (another way of palp)
+6993) palpal
+6994) palpability
+6995) multicentric
+6996) mammographic
+6997) deuteranopia
+6998) bryology
+6999) bryological
+7000) bryologist (+plural)
 =============
 
 British English Dictionary (Forked) 2.26
