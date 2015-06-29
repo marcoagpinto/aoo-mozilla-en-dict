@@ -9340,3 +9340,432 @@ V2.25 - 1-JUN-2015
 6635) Arlette (name - Wikipedia)
 6636) Paulette (+'s - name - Wikipedia)
 6637) Claudette (+'s - name - Wikipedia)
+
+
+V2.26 - 1-JUL-2015
+------------------
+6638) understeer (+s +ing +ed)
+6639) oversteer (+s +ing +ed)
+6640) WAP
+6641) druggy
+6642) Tomaselli (+'s - name - Wikipedia)
+6643) Parello (+'s - name - Wikipedia)
+6644) Dulwich (+'s - name - Wikipedia)
+6645) drugget
+6646) drug-related
+6647) drug-free
+6648) Liam (+'s - name - Wikipedia)
+6649) Nadelmann (+'s - name - Wikipedia)
+6650) Dewhurst (+'s - name - Wikipedia)
+6651) Haider (+'s - name - Wikipedia)
+6652) Ravenscroft (+'s - name - Wikipedia)
+6653) Ede (+'s - name - Wikipedia)
+6654) Aguila (+'s - name - Wikipedia)
+6655) Bowker (+'s - name - Wikipedia)
+6656) dribbly
+6657) hyaline
+6658) disodium (Collins)
+6659) intranuclear (Collins)
+6660) svn (lower case)
+6661) SVN (upper case)
+6662) tarball (+plural - Wiktionary)
+6663) gzip (+s +ing +ed - Wiktionary)
+6664) Walfield (name - Wikipedia)
+6665) Gillmor (+'s - name - Wikipedia)
+6666) Pescetti (+'s - name - Wikipedia)
+6667) Galoppini (name - Wikipedia)
+6668) Beaussier (name - Wikipedia)
+6669) Valk (+'s - name - Wikipedia)
+6670) CMS (abbreviation: Content Management System)
+6671) Henschel (+'s - name - Wikipedia)
+6672) Yutaka (+'s - name - Wikipedia)
+6673) Philipp (+'s - name - Wikipedia)
+6674) Kewisch (+'s - name - Wikipedia)
+6675) stargate (+plural - Wiktionary)
+6676) teleporter (+plural - Wiktionary)
+6677) Redfern (+'s - name - Wikipedia)
+6678) Hopkinsville (+'s - name - Wikipedia)
+6679) CST (abbreviation: Central Standard Time)
+6680) Lynne (+'s - name - Wikipedia)
+6681) DipEd
+6682) classily
+6683) clastic
+6684) fissility
+6685) decompaction (+plural - Wiktionary)
+6686) interlayers (added plural)
+6687) sconces (added plural)
+6688) scombroid (+plural)
+6689) ciguatera
+6690) parrotfish (+plural)
+6691) parrotbill (+plural)
+6692) vegetational
+6693) acridine
+6694) ammoniated
+6695) valerian (+plural - in lower case if not a name)
+6696) campanula (+plural)
+6697) cannabinol
+6698) photoproduct (+plural)
+6699) photoprotein
+6700) photorealist
+6701) photorealistic
+6702) anamorphosis
+6703) anamorphoses (plural of previous word)
+6704) eccentrical (Collins)
+6705) gesso
+6706) gessoes (plural of previous word)
+6707) glass-like
+6708) didymium
+6709) Pyrex (trademark)
+6710) Jena (+'s - name)
+6711) cullet
+6712) Flemings (added plural)
+6713) Bretons (added plural)
+6714) Celts (added plural)
+6715) Galicians (added plural)
+6716) Catalans (added plural)
+6717) Asturians (added plural)
+6718) Pyrenees
+6719) Pyrenean
+6720) carbamate (+plural)
+6721) organophosphate (+plural)
+6722) organochlorine (+plural)
+6723) disruptors (added plural)
+6724) arbitral
+6725) riskless
+6726) Shleifer (+'s - name - Wikipedia)
+6727) risk-neutral
+6728) chargehand (+plural)
+6729) Kuster (+'s - name - Wikipedia)
+6730) lampstand (Collins)
+6731) Auriga (name in space)
+6732) MacPherson (+'s - name - Wikipedia)
+6733) moxibustion
+6734) adaptogenic
+6735) Yoda (+'s - name - Wikipedia)
+6736) therapeutical
+6737) therapeutist (+plural)
+6738) glucosamine
+6739) nicotinamide
+6740) nicotinic (nicotinic acid)
+6741) catabolite (+plural)
+6742) catachresis
+6743) catachreses (plural of previous word)
+6744) catachrestic
+6745) continuative (+plural)
+6746) basilect (+plural +'s)
+6747) acrolect's (added the 's)
+6748) basilectal
+6749) idiolects (added plural)
+6750) eggcorns (added plural)
+6751) Coren (+'s - name - Wikipedia)
+6752) antepenult
+6753) penult
+6754) boustrophedon
+6755) Gellibrand (+'s - name - Wikipedia)
+6756) declinational
+6757) declaw (+s +ing +ed)
+6758) enzootic
+6759) epizootic
+6760) epizoic
+6761) epizoite (+plural)
+6762) nutcase (+plural - Oxford: informal)
+6763) Lachman (+'s - name - Wikipedia)
+6764) Lawrie (+'s - name - Wikipedia)
+6765) dispiritingly
+6766) Balanchine (+'s - name - Wikipedia)
+6767) suffixal (Collins)
+6768) suffixion (Collins)
+6769) aspectual
+6770) aspecting + aspected (merged into aspect)
+6771) trine (+plural)
+6772) Dorotheus (name - Wikipedia)
+6773) midheaven
+6774) Torrington (+'s - name - Wikipedia)
+6775) beachside
+6776) Suttons (name - Wikipedia)
+6777) Redcliffe (+'s - name - Wikipedia)
+6778) Klandasan (name - Wikipedia)
+6779) meathead (+plural - Oxford: informal)
+6780) Hitchman (+'s - name - Wikipedia)
+6781) Clegg (+'s - name - Wikipedia)
+6782) Rodwell (+'s - name - Wikipedia)
+6783) Guiley (+'s - name - Wikipedia)
+6784) NDE (+plural - Wiktionary - Abbreviation: near-death experience)
+6785) dromos
+6786) dromoi (plural of previous word)
+6787) Bactrian (Bactrian camel)
+6788) bacteroid (+plural)
+6789) Bactria (name of place)
+6790) semiformal
+6791) semiweekly
+6792) semirural (Collins)
+6793) semierect (Collins)
+6794) semilethal (Collins)
+6795) semifeudal (Collins)
+6796) semivocal (Collins)
+6797) semideaf (Collins)
+6798) semiraw (Collins)
+6799) semioval (Collins)
+6800) Ashtaroth (+'s - name - Wikipedia)
+6801) totemism
+6802) totemist (+plural)
+6803) totemistic
+6804) Gotham (+'s - name - Wikipedia)
+6805) Lacan (+'s - name - Wikipedia)
+6806) Lacanian (+plural)
+6807) Lacanianism
+6808) Havelock (+'s - name - Wikipedia)
+6809) Bergenfield (+'s - name - Wikipedia)
+6810) uprose
+6811) uninterruptible
+6812) uninterruptedness
+6813) uninterestingness
+6814) psychobabble
+6815) untestable
+6816) unrequested
+6817) unintellectual
+6818) MacDiarmid (+'s - name - Wikipedia)
+6819) Kerala (+'s - name - Wikipedia)
+6820) arrondissement (+plural)
+6821) Chen's (added the 's - name)
+6822) judiciary's (added the 's)
+6823) arriviste (+plural)
+6824) Thackeray (+'s - name - Wikipedia)
+6825) arrivisme
+6826) midfielders (added plural)
+6827) Bullen (+'s - name - Wikipedia)
+6828) yielder (+plural)
+6829) Yiddishism
+6830) Yiddishist (+plural)
+6831) anaphylactic
+6832) camwood
+6833) Camus (+'s - name - Wikipedia)
+6834) layshaft (+plural)
+6835) driveshaft (+plural)
+6836) swingarm (Collins)
+6837) Hinkley (+'s - name - Wikipedia)
+6838) GTA (Wiktionary)
+6839) demerges + demerging (merged into demerge)
+6840) demeritorious
+6841) Piaget (+'s - name - Wikipedia)
+6842) electricals (added plural)
+6843) photoelectricity
+6844) gas-cooled
+6845) Torness (name - Wikipedia)
+6846) comminuted
+6847) orthopaedist (+plural)
+6848) trochanteric (Collins)
+6849) trochanteral (Collins)
+6850) triacetate
+6851) macrolanguage (+plural - Wiktionary)
+6852) macrolinguistics (Collins)
+6853) protolanguage (+plural)
+6854) paralanguage
+6855) code-switch (+s +ing +ed)
+6856) unilingual
+6857) unilingualism
+6858) unilingually
+6859) Quebecer (+plural)
+6860) Ogunquit (+'s - name - Wikipedia)
+6861) quebracho (+plural)
+6862) bluegums (added plural)
+6863) agroforestry
+6864) florals (added plural)
+6865) selfing + selfed (merged into self)
+6866) Brahmana (+plural)
+6867) branks (Collins)
+6868) araneous (Collins)
+6869) rankish (Collins)
+6870) rankless (Collins)
+6871) rankism (Collins)
+6872) crankish (Collins)
+6873) Bruegel + Breughel + Brueghel (name)
+6874) Cree (+plural - Kevin Atkinson wordlist 60)
+6875) dayan
+6876) dayanim (plural of previous word)
+6877) Frunze (+'s - name - Kevin Atkinson wordlist 60)
+6878) Bresson (+'s - name - Wikipedia)
+6879) fountainhead (+plural)
+6880) Guamanian (+plural - Kevin Atkinson wordlist 60)
+6881) Qur'an + Quran (another way of Koran)
+6882) Koranic + Qur'anic + Quranic
+6883) Lydians (added plural - Kevin Atkinson wordlist 60)
+6884) Mede (+plural)
+6885) Chicagoland (+plural +'s)
+6886) Imola (+'s - name - Wikipedia)
+6887) hand-pick (+ed)
+6888) Handan (+'s - name - Wikipedia)
+6889) hand-painted
+6890) Romina (+'s - name - Wikipedia)
+6891) fritillary (+plural)
+6892) Silverton (+'s - name - Wikipedia)
+6893) Tretikov (+'s - name - Wikipedia)
+6894) Wikimedia (+'s - name - Wikipedia)
+6895) Solapur (+'s - name - Wikipedia)
+6896) Akshaya (+'s - name - Wikipedia)
+6897) Iyengar (+'s - name - Wikipedia)
+6898) triggers (merged into trigger)
+6899) added "re" to trigger + triggers + triggering + triggered (Wiktionary)
+6900) pinboard (+plural)
+6901) Breightmet (name - Wikipedia)
+6902) dev (+plural - Wiktionary: abbreviation of developer)
+6903) devkit (+plural - Wiktionary)
+6904) annulate (+ed)
+6905) annulation (+plural)
+6906) seta
+6907) setae (plural of previous word)
+6908) setaceous
+6909) setal
+6910) clayware (Collins)
+6911) epidermoid
+6912) gastrula
+6913) gastrulae (plural of previous word)
+6914) gastrulation
+6915) Cottesloe (+'s - name - Wikipedia)
+6916) Bonnybridge (name - Wikipedia)
+6917) Grangemouth (+'s - name - Wikipedia)
+6918) Beckton
+6919) printworks
+6920) Boroughbridge (name - Wikipedia)
+6921) flashover (+plural)
+6922) oversaturated (Collins)
+6923) teleoperation
+6924) teleoperate (+s +ing +ed)
+6925) teleoperator
+6926) chatterbot (+plural)
+6927) Ramona (+'s - name - Wikipedia)
+6928) cyberporn
+6929) Danni (+'s - name - Wikipedia)
+6930) cyberpet (+plural)
+6931) Leonard (added the 's - name)
+6932) Lolita (+plural)
+6933) literality
+6934) literalize (-IZE)
+6935) literalise (-ISE)
+6936) literalist (+plural)
+6937) scientism
+6938) scientistic
+6939) pettifoggery
+6940) barratry
+6941) barrator (+plural)
+6942) barratrous
+6943) cusk-eel (+plural)
+6944) gorgonian (+plural)
+6945) pipefish (+plural)
+6946) pipeclay (+s +ing +ed)
+6947) trishaw (+plural)
+6948) Sharath (+'s - name - Wikipedia)
+6949) Penang (+'s - name - Wikipedia)
+6950) shophouse (+plural)
+6951) Lovett (+'s - name - Wikipedia)
+6952) shopman
+6953) shopmen (plural of previous word)
+6954) shopworker (+plural)
+6955) Burnham (+'s - name - Wikipedia)
+6956) obstructor (+plural)
+6957) Kingsford (+'s - name - Wikipedia)
+6958) Jens (+'s - name - Wikipedia)
+6959) postglacial
+6960) peatland (+plural)
+6961) ActiveX
+6962) autorecovery (Google)
+6963) autorecover (Google)
+6964) anonymise (+s +ing +ed - ISE)
+6965) anonymize (+s +ing +ed - IZE)
+6966) anonymization (-IZE)
+6967) anonymisation (-ISE)
+6968) Keaton (+'s - name - Wikipedia)
+6969) Kinsella (+'s - name - Wikipedia)
+6970) Al-Anon
+6971) Groff (+'s - name - Wikipedia)
+6972) immunotoxic (Collins)
+6973) aflatoxin (+plural)
+6974) groundnuts (added plural)
+6975) groundmass
+6976) phenocryst (+plural)
+6977) xenocryst (+plural +ic)
+6978) apomixis
+6979) apomictic
+6980) facultative
+6981) facultatively
+6982) auxotroph (+plural +ic)
+6983) thiamin (another way of thiamine)
+6984) autocrine
+6985) paracrine
+6986) chemosensory
+6987) sensillum
+6988) sensilla (plural of previous word)
+6989) campaniform (Collins)
+6990) palp (+plural)
+6991) palpi (another plural of previous word)
+6992) palpus (another way of palp)
+6993) palpal
+6994) palpability
+6995) multicentric
+6996) mammographic
+6997) deuteranopia
+6998) bryology
+6999) bryological
+7000) bryologist (+plural)
+7001) Ruud (+'s - name - Wikipedia)
+7002) bryony (+plural)
+7003) coralroot (+plural)
+7004) thimbleberry (+plural)
+7005) bittercress
+7006) fireweed
+7007) waterweed
+7008) silverweed
+7009) willowherb
+7010) rosebay
+7011) Scythia (name)
+7012) Scythian (+plural)
+7013) Sarmatia (name)
+7014) Sarmatian
+7015) Ossete (+plural)
+7016) Ossetic
+7017) Ossetia (name)
+7018) Ossetian (+plural)
+7019) Chechens (added plural)
+7020) Levi's (added the 's - name)
+7021) Hannah's (added the 's - name)
+7022) browbeater (+plural)
+7023) Wolfowitz (+'s - name - Wikipedia)
+7024) Broward (name of place)
+7025) chaffweed
+7026) buffo (+plural)
+7027) CRM (abbreviation: Customer Relationship Management)
+7028) Paterson (+'s - name - Wikipedia)
+7029) croakily
+7030) Maggie's (added the 's - name)
+7031) okey-dokey
+7032) okey-doke (another way of previous word)
+7033) Protista
+7034) protist (+plural)
+7035) protistan (+plural)
+7036) protistology
+7037) unwalled
+7038) embryogenesis
+7039) embryogenic
+7040) embryogeny
+7041) explant (+plural +ed)
+7042) explantation
+7043) concrescence
+7044) concrescent
+7045) intermedium
+7046) intermedia (plural of previous word)
+7047) griot (+plural)
+7048) oilstone
+7049) cheese-skipper
+7050) cheese-cutter (+plural)
+7051) cheese-paring
+7052) Kidman (+'s - name - Wikipedia)
+7053) Sheehan (+'s - name - Wikipedia)
+7054) meany (another way of meanie)
+7055) capitulum
+7056) capitula (plural of previous word)
+7057) coracoid
+7058) CNS (abbreviation: Central Nervous System)
+7059) cnidarian (+plural)
+7060) nematocyst (+plural)
+7061) lancelet (+plural)
+7062) notochord (+plural)

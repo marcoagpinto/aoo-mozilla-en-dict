@@ -9951,7 +9951,7 @@ V2.25
 6637) Claudette (+'s - name - Wikipedia)
 
 
-V2.26 (ONGOING)
+V2.26
 --------------
 3-JUN-2015
 6638) understeer (+s +ing +ed)
@@ -10333,6 +10333,72 @@ V2.26 (ONGOING)
 6998) bryology
 6999) bryological
 7000) bryologist (+plural)
+
+22-JUN-2015
+7001) Ruud (+'s - name - Wikipedia)
+7002) bryony (+plural)
+7003) coralroot (+plural)
+7004) thimbleberry (+plural)
+7005) bittercress
+7006) fireweed
+7007) waterweed
+7008) silverweed
+7009) willowherb
+7010) rosebay
+7011) Scythia (name)
+7012) Scythian (+plural)
+7013) Sarmatia (name)
+7014) Sarmatian
+7015) Ossete (+plural)
+7016) Ossetic
+7017) Ossetia (name)
+7018) Ossetian (+plural)
+7019) Chechens (added plural)
+7020) Levi's (added the 's - name)
+7021) Hannah's (added the 's - name)
+7022) browbeater (+plural)
+7023) Wolfowitz (+'s - name - Wikipedia)
+7024) Broward (name of place)
+7025) chaffweed
+7026) buffo (+plural)
+
+23-JUN-2015
+7027) CRM (abbreviation: Customer Relationship Management)
+7028) Paterson (+'s - name - Wikipedia)
+7029) croakily
+7030) Maggie's (added the 's - name)
+7031) okey-dokey
+7032) okey-doke (another way of previous word)
+7033) Protista
+7034) protist (+plural)
+7035) protistan (+plural)
+7036) protistology
+7037) unwalled
+7038) embryogenesis
+7039) embryogenic
+7040) embryogeny
+7041) explant (+plural +ed)
+7042) explantation
+7043) concrescence
+7044) concrescent
+7045) intermedium
+7046) intermedia (plural of previous word)
+7047) griot (+plural)
+7048) oilstone
+7049) cheese-skipper
+7050) cheese-cutter (+plural)
+7051) cheese-paring
+7052) Kidman (+'s - name - Wikipedia)
+7053) Sheehan (+'s - name - Wikipedia)
+7054) meany (another way of meanie)
+7055) capitulum
+7056) capitula (plural of previous word)
+7057) coracoid
+7058) CNS (abbreviation: Central Nervous System)
+7059) cnidarian (+plural)
+7060) nematocyst (+plural)
+7061) lancelet (+plural)
+7062) notochord (+plural)
 =============
 
 British English Dictionary (Forked) 2.26
