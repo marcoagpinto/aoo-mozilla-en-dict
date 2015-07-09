@@ -10399,7 +10399,108 @@ V2.26
 7060) nematocyst (+plural)
 7061) lancelet (+plural)
 7062) notochord (+plural)
+
+
+V2.27 (ongoing)
+--------------
+3-JUL-2015
+7063) Uriarte (+'s - name - Wikipedia)
+7064) Traynor (+'s - name - Wikipedia)
+7065) dreamwork
+7066) Hergenröther (+'s - name - Wikipedia)
+7067) Ralph (+'s - name - Wikipedia)
+7068) far-distant
+7069) far-ranging
+7070) Verdana
+7071) unextended (Collins)
+7072) blobby (+ier +iest)
+7073) luderick
+7074) Luddites (added plural)
+7075) Luddism
+7076) Ludditism
+7077) pressroom (Collins)
+7078) dominators (added plural)
+7079) gynarchy (+plural)
+7080) Augustine's (added the 's - name)
+7081) emmet
+7082) mitogen (+plural +ic)
+7083) vasoconstriction
+7084) vasoconstrictive
+7085) vasoconstrictor (+plural)
+7086) antidiuretic (antidiuretic hormone)
+7087) antidiarrhoeal
+7088) anti-emetics (added plural)
+7089) inhabitability
+
+7-JUL-2015
+7090) ultrarapid (Collins)
+7091) ultracompetent (Collins)
+7092) multispeed (Collins)
+7093) superspeed (Collins)
+7094) ultrasafe (Collins)
+7095) outspeed (Collins)
+7096) counterterror (Collins)
+7097) counterthreat (Collins)
+7098) counterthrust (Collins)
+7099) countereffort (Collins)
+7100) counterreformer (Collins)
+7101) ultisol (+plural)
+7102) oxisol (+plural)
+7103) epicentral
+7104) transcurrent
+7105) rockslide (+plural)
+7106) icefall (+plural)
+7107) Perry (+'s - name - Wikipedia)
+7108) snowshoers (added plural)
+7109) après-ski (+ing)
+7110) Zermatt (+'s - name - Wikipedia)
+7111) barrique (+plural)
+7112) cedary (Collins)
+7113) unprioritized (Wiktionary: -IZE)
+7114) unprioritised (Wiktionary: -ISE)
+7115) PDT (abbreviation: Pacific Daylight Time)
+7116) daymare (+plural)
+7117) daypack (+plural)
+7118) daysacks (added plural)
+7119) flyblow
+7120) flyback
+7121) Damietta (+'s - name - Wikipedia)
+7122) referentiality
+7123) Watten (+'s - name - Wikipedia)
+7124) Derrida (+'s - name - Wikipedia)
+7125) Stancanelli (name - Wikipedia)
+7126) Appiah (+'s - name - Wikipedia)
+
+9-JUL-2015
+7127) gastroenterology
+7128) gastroenterological
+7129) gastroenterologist (+plural)
+7130) dysphagia
+7131) dysarthria
+7132) contrabassoon
+7133) endometrium
+7134) endometrial
+7135) endometriosis
+7136) endolymph
+7137) endoglossic
+7138) exoglossic
+7139) agrammatism
+7140) agranulocytosis
+7141) epiphanic
+7142) Azilian
+7143) Chalcolithic
+7144) Acheulian
+7145) agonistic
+7146) agonistically
+7147) welfarism
+7148) welfarist
+7149) Bretton (+'s - name - Wikipedia)
+7150) Beveridge (+'s - name - Wikipedia)
+7151) Metrotown (+'s - name - Wikipedia)
+7152) Burnaby (+'s - name - Wikipedia)
+7153) Rideau (+'s - name - Wikipedia)
+7154) Manulife (+'s - name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.26
+British English Dictionary (Forked) 2.27
 by Marco A.G.Pinto
