@@ -10657,6 +10657,65 @@ V2.27 (ongoing)
 7303) co-found (+ed +ing)
 7304) co-education
 7305) co-educational
+
+20-JUL-2015
+7306) homopolar
+7307) tocopherol (+plural)
+7308) synergetic
+7309) synergic
+7310) metaphorist (Collins)
+7311) euroterminal (Collins)
+7312) starshine (Collins)
+7313) anaphrodisiac (+plural)
+7314) decalcify (+s +ing +ed)
+7315) decalcifier
+7316) decalcification
+7317) remineralize (+s +ing +ed -IZE)
+7318) remineralise (+s +ing +ed -ISE)
+7319) remineralization (-IZE)
+7320) remineralisation (-ISE)
+7321) osteoclast (+plural +ic)
+7322) resorb (+s +ing +ed)
+7323) resonation
+7324) rhetor (+plural)
+7325) interactional
+7326) retroact (+s +ing +ed)
+7327) retroaction
+
+21-JUL-2015
+7328) scrollwork
+7329) coachroofs (added plural)
+7330) redrill (+s +ing +ed - Wiktionary)
+7331) foredecks (added plural)
+7332) soundcheck (+plural)
+7333) soundbar (+plural)
+7334) soundalike (+plural)
+7335) neep (+plural)
+7336) Soundex
+7337) soundhole (+plural)
+7338) soundclash
+7339) dance-off (+plural)
+7340) dancercise (-ISE)
+7341) dancercize (-IZE)
+7342) Discman (Collins)
+7343) alveolate
+7344) conjunctivae (another plural of conjunctiva)
+7345) pericarditis
+7346) lymphangitis
+7347) subspecialist (+plural - Wiktionary)
+7348) non-functioning
+7349) non-gendered
+7350) non-genetic
+7351) non-genetically
+7352) non-hostile
+7353) biobank (+plural)
+7354) biobibliography (+plural)
+7355) hydrobiology
+7356) biocentrism
+7357) biocentric
+7358) biocentrist (+plural)
+7359) cosmopolis
+7360) Heliopolis (name)
 =============
 
 British English Dictionary (Forked) 2.27
