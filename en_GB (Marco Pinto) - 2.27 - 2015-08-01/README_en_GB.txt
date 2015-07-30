@@ -9769,3 +9769,369 @@ V2.26 - 1-JUL-2015
 7060) nematocyst (+plural)
 7061) lancelet (+plural)
 7062) notochord (+plural)
+
+
+V2.27 - 1-AUG-2015
+------------------
+7063) Uriarte (+'s - name - Wikipedia)
+7064) Traynor (+'s - name - Wikipedia)
+7065) dreamwork
+7066) Hergenröther (+'s - name - Wikipedia)
+7067) Ralph (+'s - name - Wikipedia)
+7068) far-distant
+7069) far-ranging
+7070) Verdana
+7071) unextended (Collins)
+7072) blobby (+ier +iest)
+7073) luderick
+7074) Luddites (added plural)
+7075) Luddism
+7076) Ludditism
+7077) pressroom (Collins)
+7078) dominators (added plural)
+7079) gynarchy (+plural)
+7080) Augustine's (added the 's - name)
+7081) emmet
+7082) mitogen (+plural +ic)
+7083) vasoconstriction
+7084) vasoconstrictive
+7085) vasoconstrictor (+plural)
+7086) antidiuretic (antidiuretic hormone)
+7087) antidiarrhoeal
+7088) anti-emetics (added plural)
+7089) inhabitability
+7090) ultrarapid (Collins)
+7091) ultracompetent (Collins)
+7092) multispeed (Collins)
+7093) superspeed (Collins)
+7094) ultrasafe (Collins)
+7095) outspeed (Collins)
+7096) counterterror (Collins)
+7097) counterthreat (Collins)
+7098) counterthrust (Collins)
+7099) countereffort (Collins)
+7100) counterreformer (Collins)
+7101) ultisol (+plural)
+7102) oxisol (+plural)
+7103) epicentral
+7104) transcurrent
+7105) rockslide (+plural)
+7106) icefall (+plural)
+7107) Perry (+'s - name - Wikipedia)
+7108) snowshoers (added plural)
+7109) après-ski (+ing)
+7110) Zermatt (+'s - name - Wikipedia)
+7111) barrique (+plural)
+7112) cedary (Collins)
+7113) unprioritized (Wiktionary: -IZE)
+7114) unprioritised (Wiktionary: -ISE)
+7115) PDT (abbreviation: Pacific Daylight Time)
+7116) daymare (+plural)
+7117) daypack (+plural)
+7118) daysacks (added plural)
+7119) flyblow
+7120) flyback
+7121) Damietta (+'s - name - Wikipedia)
+7122) referentiality
+7123) Watten (+'s - name - Wikipedia)
+7124) Derrida (+'s - name - Wikipedia)
+7125) Stancanelli (name - Wikipedia)
+7126) Appiah (+'s - name - Wikipedia)
+7127) gastroenterology
+7128) gastroenterological
+7129) gastroenterologist (+plural)
+7130) dysphagia
+7131) dysarthria
+7132) contrabassoon
+7133) endometrium
+7134) endometrial
+7135) endometriosis
+7136) endolymph
+7137) endoglossic
+7138) exoglossic
+7139) agrammatism
+7140) agranulocytosis
+7141) epiphanic
+7142) Azilian
+7143) Chalcolithic
+7144) Acheulian
+7145) agonistic
+7146) agonistically
+7147) welfarism
+7148) welfarist
+7149) Bretton (+'s - name - Wikipedia)
+7150) Beveridge (+'s - name - Wikipedia)
+7151) Metrotown (+'s - name - Wikipedia)
+7152) Burnaby (+'s - name - Wikipedia)
+7153) Rideau (+'s - name - Wikipedia)
+7154) Manulife (+'s - name - Wikipedia)
+7155) Ripon (+'s - name - Wikipedia)
+7156) Wakefield's (added the 's - name - Wikipedia)
+7157) Southwell (+'s - name - Wikipedia)
+7158) Devonport (+'s - name - Wikipedia)
+7159) Stonehouse (+'s - name - Wikipedia)
+7160) Teesside (+'s - name - Wikipedia)
+7161) Sarum (+'s - name - Wikipedia)
+7162) Sandwell (+'s - name - Wikipedia)
+7163) Asaph (+'s - name - Wikipedia)
+7164) Ilkley (+'s - name - Wikipedia)
+7165) Shipley (+'s - name - Wikipedia)
+7166) Herne (+'s - name - Wikipedia)
+7167) Carnforth (+'s - name - Wikipedia)
+7168) Heysham (+'s - name - Wikipedia)
+7169) Otley (+'s - name - Wikipedia)
+7170) Harpenden (+'s - name - Wikipedia)
+7171) Pendlebury (+'s - name - Wikipedia)
+7172) Swinton (+'s - name - Wikipedia)
+7173) Hetton-le-Hole (name - Wikipedia)
+7174) Houghton-le-Spring (+'s - name - Wikipedia)
+7175) Castleford (+'s - name - Wikipedia)
+7176) Ossett (+'s - name - Wikipedia)
+7177) Pontefract (+'s - name - Wikipedia)
+7178) Alresford (+'s - name - Wikipedia)
+7179) Tameside (+'s - name - Wikipedia)
+7180) Cottingham (+'s - name - Wikipedia)
+7181) Brechin (+'s - name - Wikipedia)
+7182) Dunkeld (+'s - name - Wikipedia)
+7183) Letchworth (+'s - name - Wikipedia)
+7184) Earley (+'s - name - Wikipedia)
+7185) Woodley (+'s - name - Wikipedia)
+7186) Ashgate (+'s - name - Wikipedia)
+7187) Kirkwall (+'s - name - Wikipedia)
+7188) credentialed + credentialing (merged into credential)
+7189) irreverential
+7190) Alfie (+'s - name - Wikipedia)
+7191) irresponsive
+7192) irresponsiveness
+7193) non-Aboriginal
+7194) non-achiever (+plural)
+7195) dehydrocholesterol
+7196) cholecalciferol
+7197) IU (abbreviation: International Unit)
+7198) decimetric
+7199) centimetric (Collins)
+7200) clast (+plural)
+7201) clathrate (+plural)
+7202) Blackmore (+'s - name - Wikipedia)
+7203) buckytube (+plural)
+7204) electrolytical
+7205) electroluminescence
+7206) immunoassays (added plural)
+7207) Menindee (name - Wikipedia)
+7208) Macalister (+'s - name - Wikipedia)
+7209) Avebury (+'s - name - Wikipedia)
+7210) Slieve (name - Wikipedia)
+7211) encage (+s +ing +ed)
+7212) CFOs (added plural)
+7213) antivenene (another way for antivenin)
+7214) antivenom (+plural)
+7215) Somersby (+'s - name - Wikipedia)
+7216) Brownwood (+'s - name - Wikipedia)
+7217) Britt (+'s - name - Wikipedia)
+7218) antitypical
+7219) Prynne (+'s - name - Wikipedia)
+7220) anti-inflammatory
+7221) antiparasitic (Collins)
+7222) anti-intellectual (+plural)
+7223) anti-infective
+7224) alarmism
+7225) Caton (+'s - name - Wikipedia)
+7226) unscriptural
+7227) salvationist
+7228) Salvationist (+plural)
+7229) salvationism
+7230) Luther's (added the 's - name - Wikipedia)
+7231) consubstantial
+7232) consubstantiality
+7233) Tillard (+'s - name - Wikipedia)
+7234) Christology
+7235) Christological
+7236) Christologically
+7237) Bonhoeffer (+'s - name - Wikipedia)
+7238) Mariology
+7239) Mariological
+7240) Mariologist (+plural)
+7241) Montfort (+'s - name - Wikipedia)
+7242) Cranmer (+'s - name - Wikipedia)
+7243) upvote (+s +ing +ed)
+7244) downvote (+s +ing +ed)
+7245) raptorial
+7246) raptorially
+7247) avifauna
+7248) avifaunal
+7249) biomaterials (added plural)
+7250) Hampden (+'s - name - Wikipedia)
+7251) grapeseed (grapeseed oil)
+7252) oaked
+7253) monographic
+7254) Gifford's (added the 's - name)
+7255) Patricia's (added the 's - name)
+7256) Jenkins's (added the 's - name)
+7257) historiographic
+7258) historiographically
+7259) situationally
+7260) Kildavin (name - Wikipedia)
+7261) Stanmore (+'s - name - Wikipedia)
+7262) Howth (+'s - name - Wikipedia)
+7263) situates (merged into situate)
+7264) dumpsite (Collins)
+7265) Eudora (+'s - name - Wikipedia)
+7266) Pepsi (+plural - Wiktionary)
+7267) prefetch (+s +ing +ed)
+7268) prefigurative
+7269) prefigurement
+7270) prefigurations (added plural)
+7271) anymore (removed since it is chiefly North American)
+7272) blocklist (+plural - Wiktionary)
+7273) censorware (Wiktionary)
+7274) killfile (+s +ing +ed - Wiktionary)
+7275) squee (+s +ing +ed - Oxford: informal)
+7276) squeegeed (merged into squeegee)
+7277) brookweed
+7278) loosestrife
+7279) alstroemeria
+7280) waltzer (+plural)
+7281) dogdom
+7282) doggish
+7283) doglike
+7284) hottie (+plural)
+7285) hotty (another way of previous word)
+7286) Pavarotti (+'s - name - Wikipedia)
+7287) hotters (added plural)
+7288) dorsum
+7289) dorsa (plural of previous word)
+7290) dorsolateral
+7291) dorsolaterally
+7292) cuticular
+7293) abaxial
+7294) adaxial
+7295) micrographs (added plural)
+7296) micrographic
+7297) micrographics
+7298) microgranite
+7299) hydroxyproline (Collins)
+7300) microgeneration
+7301) microgenerate
+7302) co-founders (added plural)
+7303) co-found (+ed +ing)
+7304) co-education
+7305) co-educational
+7306) homopolar
+7307) tocopherol (+plural)
+7308) synergetic
+7309) synergic
+7310) metaphorist (Collins)
+7311) euroterminal (Collins)
+7312) starshine (Collins)
+7313) anaphrodisiac (+plural)
+7314) decalcify (+s +ing +ed)
+7315) decalcifier
+7316) decalcification
+7317) remineralize (+s +ing +ed -IZE)
+7318) remineralise (+s +ing +ed -ISE)
+7319) remineralization (-IZE)
+7320) remineralisation (-ISE)
+7321) osteoclast (+plural +ic)
+7322) resorb (+s +ing +ed)
+7323) resonation
+7324) rhetor (+plural)
+7325) interactional
+7326) retroact (+s +ing +ed)
+7327) retroaction
+7328) scrollwork
+7329) coachroofs (added plural)
+7330) redrill (+s +ing +ed - Wiktionary)
+7331) foredecks (added plural)
+7332) soundcheck (+plural)
+7333) soundbar (+plural)
+7334) soundalike (+plural)
+7335) neep (+plural)
+7336) Soundex
+7337) soundhole (+plural)
+7338) soundclash
+7339) dance-off (+plural)
+7340) dancercise (-ISE)
+7341) dancercize (-IZE)
+7342) Discman (Collins)
+7343) alveolate
+7344) conjunctivae (another plural of conjunctiva)
+7345) pericarditis
+7346) lymphangitis
+7347) subspecialist (+plural - Wiktionary)
+7348) non-functioning
+7349) non-gendered
+7350) non-genetic
+7351) non-genetically
+7352) non-hostile
+7353) biobank (+plural)
+7354) biobibliography (+plural)
+7355) hydrobiology
+7356) biocentrism
+7357) biocentric
+7358) biocentrist (+plural)
+7359) cosmopolis
+7360) Heliopolis (name)
+7361) spangly (+ier +iest)
+7362) blackface
+7363) demassify (+s +ing +ed +ion)
+7364) dematerialize (+s +ing +ed +ion -IZE)
+7365) dematerialise (+s +ing +ed +ion -ISE)
+7366) attestable
+7367) attestor (+plural)
+7368) preparer (+plural)
+7369) carboxylic (carboxylic acid)
+7370) ethanoic (ethanoic acid)
+7371) methanoic (methanoic acid)
+7372) methanogenesis
+7373) Horace's (added the 's - name - Wikipedia)
+7374) badger-baiting
+7375) beagler (+plural)
+7376) lurchers (added plural)
+7377) Higham (+'s - name - Wikipedia)
+7378) underfeed (+ing)
+7379) droid (+plural)
+7380) Bharat (+'s - name)
+7381) Bharatanatyam
+7382) Bhavnagar (+'s - name)
+7383) Antalya (+'s - name)
+7384) pharmacotherapy
+7385) clonidine (Collins)
+7386) reserpine
+7387) hydralazine (Collins)
+7388) Edith's (added the 's - name - Wikipedia)
+7389) firewall's (added the 's)
+7390) BSE (Abbreviation: Bovine Spongiform Encephalopathy)
+7391) spongiform
+7392) redwater
+7393) babesiosis
+7394) piroplasmosis
+7395) pirogue (+plural)
+7396) pirk (+plural)
+7397) cardoon (+plural)
+7398) Calc (OpenOffice/LibreOffice)
+7399) chit-chat (+s +ing +ed)
+7400) Danielle (+'s - name - Wikipedia)
+7401) nitty-gritty (Oxford: informal)
+7402) nitrox
+7403) Machmeter
+7404) Canopus (name in space)
+7405) Nibiru (+'s - name of Planet X - Wikipedia)
+7406) Aldebaran (name in space)
+7407) arctophile (+plural)
+7408) arctophilia
+7409) arctophilist
+7410) arctophily
+7411) peckish (Oxford: informal)
+7412) Pecksniffian
+7413) Dodge (+'s - name - Wikipedia)
+7414) pecorino (+plural)
+7415) non-medical
+7416) EU (added the 's - abbreviation of European Union)
+7417) Eu (chemical element)
+7418) kidology (Oxford: informal)
+7419) iridology
+7420) iridologist (+plural)
+7421) naturopathy
+7422) naturopath (+plural)
+7423) naturopathic
+7424) naturopathically

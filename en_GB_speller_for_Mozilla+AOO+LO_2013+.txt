@@ -10401,7 +10401,7 @@ V2.26
 7062) notochord (+plural)
 
 
-V2.27 (ongoing)
+V2.27
 --------------
 3-JUL-2015
 7063) Uriarte (+'s - name - Wikipedia)
@@ -10716,6 +10716,76 @@ V2.27 (ongoing)
 7358) biocentrist (+plural)
 7359) cosmopolis
 7360) Heliopolis (name)
+
+22-JUL-2015
+7361) spangly (+ier +iest)
+7362) blackface
+7363) demassify (+s +ing +ed +ion)
+7364) dematerialize (+s +ing +ed +ion -IZE)
+7365) dematerialise (+s +ing +ed +ion -ISE)
+7366) attestable
+7367) attestor (+plural)
+7368) preparer (+plural)
+7369) carboxylic (carboxylic acid)
+7370) ethanoic (ethanoic acid)
+7371) methanoic (methanoic acid)
+7372) methanogenesis
+7373) Horace's (added the 's - name - Wikipedia)
+7374) badger-baiting
+7375) beagler (+plural)
+7376) lurchers (added plural)
+7377) Higham (+'s - name - Wikipedia)
+7378) underfeed (+ing)
+7379) droid (+plural)
+
+23-JUL-2015
+7380) Bharat (+'s - name)
+7381) Bharatanatyam
+7382) Bhavnagar (+'s - name)
+7383) Antalya (+'s - name)
+7384) pharmacotherapy
+7385) clonidine (Collins)
+7386) reserpine
+7387) hydralazine (Collins)
+7388) Edith's (added the 's - name - Wikipedia)
+7389) firewall's (added the 's)
+7390) BSE (Abbreviation: Bovine Spongiform Encephalopathy)
+7391) spongiform
+7392) redwater
+7393) babesiosis
+7394) piroplasmosis
+7395) pirogue (+plural)
+7396) pirk (+plural)
+7397) cardoon (+plural)
+7398) Calc (OpenOffice/LibreOffice)
+
+24-JUL-2015
+7399) chit-chat (+s +ing +ed)
+7400) Danielle (+'s - name - Wikipedia)
+7401) nitty-gritty (Oxford: informal)
+7402) nitrox
+7403) Machmeter
+7404) Canopus (name in space)
+7405) Nibiru (+'s - name of Planet X - Wikipedia)
+7406) Aldebaran (name in space)
+7407) arctophile (+plural)
+7408) arctophilia
+7409) arctophilist
+7410) arctophily
+7411) peckish (Oxford: informal)
+7412) Pecksniffian
+7413) Dodge (+'s - name - Wikipedia)
+7414) pecorino (+plural)
+7415) non-medical
+7416) EU (added the 's - abbreviation of European Union)
+7417) Eu (chemical element)
+7418) kidology (Oxford: informal)
+7419) iridology
+7420) iridologist (+plural)
+7421) naturopathy
+7422) naturopath (+plural)
+7423) naturopathic
+7424) naturopathically
 =============
 
 British English Dictionary (Forked) 2.27
