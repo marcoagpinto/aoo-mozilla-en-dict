@@ -10786,7 +10786,41 @@ V2.27
 7422) naturopath (+plural)
 7423) naturopathic
 7424) naturopathically
+
+
+V2.28 (ongoing)
+--------------
+7-AUG-2015
+7425) sloganeer (+plural +ing)
+7426) shutdowns (added plural)
+7427) slogger (+plural)
+7428) Dyson (+'s - name - Wikipedia)
+7429) Bronson (+'s - name - Wikipedia)
+7430) escargots (added plural)
+7431) Otago (+'s - name - Wikipedia)
+7432) Margot (+'s - name - Wikipedia)
+7433) escapologist (+plural)
+7434) ASBO (+plural)
+7435) guardee (Oxford: informal)
+7436) Denbigh's (added the 's - name - Wikipedia)
+7437) Demosthenes
+7438) Demosthenic
+7439) Dillon's (added the 's - name - Wikipedia)
+7440) antiscience (Collins)
+7441) technophile (added singular)
+7442) technophilia
+7443) technophilic
+7444) technophobe (+plural)
+7445) technopreneur (+plural)
+7446) technopreneurial
+7447) technospeak
+7448) inboxes (added plural)
+7449) newspeak
+7450) textspeak
+7451) forepeak (+plural)
+7452) bobsleigh (fixed: bob-sleigh)
+7453) Rudman (+'s - name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.27
+British English Dictionary (Forked) 2.28
 by Marco A.G.Pinto
