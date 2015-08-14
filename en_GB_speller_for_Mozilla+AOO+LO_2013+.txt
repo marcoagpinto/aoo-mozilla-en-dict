@@ -10820,6 +10820,87 @@ V2.28 (ongoing)
 7451) forepeak (+plural)
 7452) bobsleigh (fixed: bob-sleigh)
 7453) Rudman (+'s - name - Wikipedia)
+
+13-AUG-2015
+7454) Oxfam
+7455) coevality
+7456) citriculture
+7457) fruticulture (Wiktionary)
+7458) orphanism (Collins)
+7459) Zephaniah (+'s - name)
+7460) suspire
+7461) suspiration
+7462) subsumable
+7463) subsumption
+7464) potentiated (merged into potentiate)
+7465) biologics (added plural)
+7466) monotherapy
+7467) diplopia
+7468) photophobia
+7469) photophobic
+7470) uveitis
+7471) exophthalmos + exophthalmus + exophthalmia
+7472) hepatomegaly
+7473) oncologic (Collins)
+7474) vomeronasal (Collins)
+7475) chemoreceptor (+plural)
+7476) chemoreception
+7477) bugless (Wiktionary)
+7478) unpublish (+s +ing +ed - Wiktionary)
+7479) relearnt
+7480) epitope (+plural)
+7481) epitomic
+7482) epitomist
+7483) epithelia (plural of epithelium)
+7484) mesothelium
+7485) mesothelia (plural of previous word)
+7486) mesothelial
+7487) antrum
+7488) antra (plural of previous word)
+7489) rhinoplasty (+plural +ic)
+7490) gastrostomy (+plural)
+7491) cystectomy (+plural)
+7492) tetraplegic's (added the 's)
+7493) clitoridectomy (+plural)
+7494) craniotomy (+plural)
+7495) drachmae (another plural of drachma)
+7496) Draco (+'s - name)
+7497) draconic
+7498) Bram (+'s - name - Wikipedia)
+7499) mortadella
+7500) expellee (+plural)
+7501) expeller (+plural)
+7502) changelog (+plural - Wiktionary)
+7503) OpenSolaris
+7504) OpenBSD
+7505) autocompletion (Wiktionary)
+7506) autodiscovery (Wiktionary)
+7507) autodetect (+s +ing +ed - Wiktionary)
+7508) autodetection (Wiktionary)
+7509) autofit (+s +ing +ed - Wiktionary)
+7510) autoformat (+s +ing +ed - Wiktionary)
+7511) BSOD (abbreviation: blue screen of death - Wikipedia)
+7512) enqueuing + enqueueing
+7513) enprint (+plural)
+7514) autowind (+s +ing +er +ers)
+7515) autowound (past of previous word)
+7516) electroconvulsive
+7517) electrochemists (added plural)
+7518) Hagelstein (+'s - name - Wikipedia)
+7519) Borazon (Oxford: trademark)
+7520) elastase
+
+14-AUG-2015
+7521) eldritch
+7522) Eleatic (+plural)
+7523) Zeno (+'s - name)
+7524) Xenophanes (+'s - name)
+7525) Bonapartism
+7526) Bonapartist
+7527) crowd-pleaser (+plural)
+7528) Pelagius (name)
+7529) Pelagian (+plural)
+7530) Pelagianism
 =============
 
 British English Dictionary (Forked) 2.28
