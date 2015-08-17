@@ -10901,6 +10901,56 @@ V2.28 (ongoing)
 7528) Pelagius (name)
 7529) Pelagian (+plural)
 7530) Pelagianism
+7531) airplane (removed - Chiefly American - GB is: aeroplane)
+7532) microglia
+7533) microglial
+7534) gliosis (Collins)
+7535) perivascular
+7536) leptomeninges
+7537) leptomeningeal
+
+17-AUG-2015
+7538) backmost
+7539) sternway
+7540) cross-link (+s +ing +ed)
+7541) cross-linkage
+7542) psyllium
+7543) psychrophile (+plural)
+7544) psychrophilic
+7545) thermophile (+plural)
+7546) thermophilic
+7547) pneumonitis
+7548) pneumogastric
+7549) pneumoencephalography (+ic)
+7550) giantism
+7551) acromegaly (+ic)
+7552) polycystic
+7553) anovulation (Collins)
+7554) diverticulosis
+7555) divertissement (+plural)
+7556) Surtees (+'s - name)
+7557) Montreal's (added the 's - name)
+7558) Mandelson (+'s - name - Wikipedia)
+7559) Criswell (+'s - name - Wikipedia)
+7560) scintillatingly
+7561) scintigram (+plural)
+7562) revaccinate (+s +ing +ed +ion)
+7563) Glaister (+'s - name - Wikipedia)
+7564) Beckenham (+'s - name - Wikipedia)
+7565) elicitor (+plural)
+7566) emmenagogue (+plural)
+7567) vermifuge
+7568) abortifacient
+7569) AZT (Oxford: trademark)
+7570) ghostbuster (+plural)
+7571) speech-writer (+plural)
+7572) affordably
+7573) lordless
+7574) disafforest (+s +ing +ed +ion)
+7575) Tweedy (+'s - name - Wikipedia)
+7576) Hughes's (added the 's - name - Wikipedia)
+7577) disaffirm (+s +ing +ed +ion)
+7578) reaggregate (Collins)
 =============
 
 British English Dictionary (Forked) 2.28
