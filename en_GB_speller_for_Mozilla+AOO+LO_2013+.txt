@@ -10951,6 +10951,47 @@ V2.28 (ongoing)
 7576) Hughes's (added the 's - name - Wikipedia)
 7577) disaffirm (+s +ing +ed +ion)
 7578) reaggregate (Collins)
+
+18-AUG-2015
+7579) unhandled
+7580) unhandsome
+7581) unhang
+7582) unhung (past of previous word)
+7583) unhappen
+7584) unsearched
+7585) unrevealed
+
+20-AUG-2015
+7586) SDRAM (Wiktionary)
+7587) VRAM (Wiktionary)
+7588) NVRAM (+plural - Wiktionary)
+7589) RAMs (added plural - Wiktionary)
+7590) ROMs (added plural - Wiktionary)
+7591) initialism (+plural)
+7592) initiand (+plural)
+7593) macrodiagonal (Collins)
+7594) macrocopy (+plural - Collins)
+7595) macrodome (Collins)
+7596) antenatally
+7597) rostering + rostered (merged into roster)
+7598) Kramer's (added the 's - name - Wikipedia)
+7599) Melba's (added the 's - name - Wikipedia)
+7600) canterbury (+plural - noun - don't confuse with the name)
+7601) armoire (+plural)
+7602) ropework (Collins)
+7603) Tenebrae
+7604) Brozman (+'s - name - Wikipedia)
+7605) CWO (abbreviation: Chief Warrant Officer)
+7606) Cwmbran (+'s - name - Wikipedia)
+7607) babyfather (+plural)
+7608) baby-faced
+7609) baby-doll
+7610) patchouli
+7611) ylang-ylang
+7612) ilang-ilang (another way of previous word)
+7613) Yizkor (+plural)
+7614) Yishuv
+7615) Betjeman (+'s - name)
 =============
 
 British English Dictionary (Forked) 2.28
