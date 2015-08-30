@@ -10788,7 +10788,7 @@ V2.27
 7424) naturopathically
 
 
-V2.28 (ongoing)
+V2.28
 --------------
 7-AUG-2015
 7425) sloganeer (+plural +ing)
@@ -10992,6 +10992,32 @@ V2.28 (ongoing)
 7613) Yizkor (+plural)
 7614) Yishuv
 7615) Betjeman (+'s - name)
+
+24-AUG-2015
+7616) twitterer (+plural)
+7617) twittery
+7618) flitter (+s +ing +ed)
+7619) twittish
+7620) twistor
+7621) eigenfrequency (+plural)
+7622) Sangiovese
+7623) chaptalization (-IZE)
+7624) chaptalisation (-ISE)
+7625) chaptalize (+s +ing +ed -IZE)
+7626) chaptalise (+s +ing +ed -ISE)
+7627) Chaplinesque
+7628) cryptozoology
+7629) cryptozoological
+7630) cryptozoologist (+plural)
+7631) cryptosporidium
+7632) cryptosporidia
+7633) coccidia
+7634) coccidian
+7635) toxoplasma
+7636) utero (in utero)
+7637) goldeneye (+plural)
+7638) alveolars (added plural)
+7639) circumcisers (added plural)
 =============
 
 British English Dictionary (Forked) 2.28

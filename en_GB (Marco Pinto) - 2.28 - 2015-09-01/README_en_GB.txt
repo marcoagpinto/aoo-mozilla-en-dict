@@ -10135,3 +10135,222 @@ V2.27 - 1-AUG-2015
 7422) naturopath (+plural)
 7423) naturopathic
 7424) naturopathically
+
+
+V2.28 - 1-SEP-2015
+------------------
+7425) sloganeer (+plural +ing)
+7426) shutdowns (added plural)
+7427) slogger (+plural)
+7428) Dyson (+'s - name - Wikipedia)
+7429) Bronson (+'s - name - Wikipedia)
+7430) escargots (added plural)
+7431) Otago (+'s - name - Wikipedia)
+7432) Margot (+'s - name - Wikipedia)
+7433) escapologist (+plural)
+7434) ASBO (+plural)
+7435) guardee (Oxford: informal)
+7436) Denbigh's (added the 's - name - Wikipedia)
+7437) Demosthenes
+7438) Demosthenic
+7439) Dillon's (added the 's - name - Wikipedia)
+7440) antiscience (Collins)
+7441) technophile (added singular)
+7442) technophilia
+7443) technophilic
+7444) technophobe (+plural)
+7445) technopreneur (+plural)
+7446) technopreneurial
+7447) technospeak
+7448) inboxes (added plural)
+7449) newspeak
+7450) textspeak
+7451) forepeak (+plural)
+7452) bobsleigh (fixed: bob-sleigh)
+7453) Rudman (+'s - name - Wikipedia)
+7454) Oxfam
+7455) coevality
+7456) citriculture
+7457) fruticulture (Wiktionary)
+7458) orphanism (Collins)
+7459) Zephaniah (+'s - name)
+7460) suspire
+7461) suspiration
+7462) subsumable
+7463) subsumption
+7464) potentiated (merged into potentiate)
+7465) biologics (added plural)
+7466) monotherapy
+7467) diplopia
+7468) photophobia
+7469) photophobic
+7470) uveitis
+7471) exophthalmos + exophthalmus + exophthalmia
+7472) hepatomegaly
+7473) oncologic (Collins)
+7474) vomeronasal (Collins)
+7475) chemoreceptor (+plural)
+7476) chemoreception
+7477) bugless (Wiktionary)
+7478) unpublish (+s +ing +ed - Wiktionary)
+7479) relearnt
+7480) epitope (+plural)
+7481) epitomic
+7482) epitomist
+7483) epithelia (plural of epithelium)
+7484) mesothelium
+7485) mesothelia (plural of previous word)
+7486) mesothelial
+7487) antrum
+7488) antra (plural of previous word)
+7489) rhinoplasty (+plural +ic)
+7490) gastrostomy (+plural)
+7491) cystectomy (+plural)
+7492) tetraplegic's (added the 's)
+7493) clitoridectomy (+plural)
+7494) craniotomy (+plural)
+7495) drachmae (another plural of drachma)
+7496) Draco (+'s - name)
+7497) draconic
+7498) Bram (+'s - name - Wikipedia)
+7499) mortadella
+7500) expellee (+plural)
+7501) expeller (+plural)
+7502) changelog (+plural - Wiktionary)
+7503) OpenSolaris
+7504) OpenBSD
+7505) autocompletion (Wiktionary)
+7506) autodiscovery (Wiktionary)
+7507) autodetect (+s +ing +ed - Wiktionary)
+7508) autodetection (Wiktionary)
+7509) autofit (+s +ing +ed - Wiktionary)
+7510) autoformat (+s +ing +ed - Wiktionary)
+7511) BSOD (abbreviation: blue screen of death - Wikipedia)
+7512) enqueuing + enqueueing
+7513) enprint (+plural)
+7514) autowind (+s +ing +er +ers)
+7515) autowound (past of previous word)
+7516) electroconvulsive
+7517) electrochemists (added plural)
+7518) Hagelstein (+'s - name - Wikipedia)
+7519) Borazon (Oxford: trademark)
+7520) elastase
+7521) eldritch
+7522) Eleatic (+plural)
+7523) Zeno (+'s - name)
+7524) Xenophanes (+'s - name)
+7525) Bonapartism
+7526) Bonapartist
+7527) crowd-pleaser (+plural)
+7528) Pelagius (name)
+7529) Pelagian (+plural)
+7530) Pelagianism
+7531) airplane (removed - Chiefly American - GB is: aeroplane)
+7532) microglia
+7533) microglial
+7534) gliosis (Collins)
+7535) perivascular
+7536) leptomeninges
+7537) leptomeningeal
+7538) backmost
+7539) sternway
+7540) cross-link (+s +ing +ed)
+7541) cross-linkage
+7542) psyllium
+7543) psychrophile (+plural)
+7544) psychrophilic
+7545) thermophile (+plural)
+7546) thermophilic
+7547) pneumonitis
+7548) pneumogastric
+7549) pneumoencephalography (+ic)
+7550) giantism
+7551) acromegaly (+ic)
+7552) polycystic
+7553) anovulation (Collins)
+7554) diverticulosis
+7555) divertissement (+plural)
+7556) Surtees (+'s - name)
+7557) Montreal's (added the 's - name)
+7558) Mandelson (+'s - name - Wikipedia)
+7559) Criswell (+'s - name - Wikipedia)
+7560) scintillatingly
+7561) scintigram (+plural)
+7562) revaccinate (+s +ing +ed +ion)
+7563) Glaister (+'s - name - Wikipedia)
+7564) Beckenham (+'s - name - Wikipedia)
+7565) elicitor (+plural)
+7566) emmenagogue (+plural)
+7567) vermifuge
+7568) abortifacient
+7569) AZT (Oxford: trademark)
+7570) ghostbuster (+plural)
+7571) speech-writer (+plural)
+7572) affordably
+7573) lordless
+7574) disafforest (+s +ing +ed +ion)
+7575) Tweedy (+'s - name - Wikipedia)
+7576) Hughes's (added the 's - name - Wikipedia)
+7577) disaffirm (+s +ing +ed +ion)
+7578) reaggregate (Collins)
+7579) unhandled
+7580) unhandsome
+7581) unhang
+7582) unhung (past of previous word)
+7583) unhappen
+7584) unsearched
+7585) unrevealed
+7586) SDRAM (Wiktionary)
+7587) VRAM (Wiktionary)
+7588) NVRAM (+plural - Wiktionary)
+7589) RAMs (added plural - Wiktionary)
+7590) ROMs (added plural - Wiktionary)
+7591) initialism (+plural)
+7592) initiand (+plural)
+7593) macrodiagonal (Collins)
+7594) macrocopy (+plural - Collins)
+7595) macrodome (Collins)
+7596) antenatally
+7597) rostering + rostered (merged into roster)
+7598) Kramer's (added the 's - name - Wikipedia)
+7599) Melba's (added the 's - name - Wikipedia)
+7600) canterbury (+plural - noun - don't confuse with the name)
+7601) armoire (+plural)
+7602) ropework (Collins)
+7603) Tenebrae
+7604) Brozman (+'s - name - Wikipedia)
+7605) CWO (abbreviation: Chief Warrant Officer)
+7606) Cwmbran (+'s - name - Wikipedia)
+7607) babyfather (+plural)
+7608) baby-faced
+7609) baby-doll
+7610) patchouli
+7611) ylang-ylang
+7612) ilang-ilang (another way of previous word)
+7613) Yizkor (+plural)
+7614) Yishuv
+7615) Betjeman (+'s - name)
+7616) twitterer (+plural)
+7617) twittery
+7618) flitter (+s +ing +ed)
+7619) twittish
+7620) twistor
+7621) eigenfrequency (+plural)
+7622) Sangiovese
+7623) chaptalization (-IZE)
+7624) chaptalisation (-ISE)
+7625) chaptalize (+s +ing +ed -IZE)
+7626) chaptalise (+s +ing +ed -ISE)
+7627) Chaplinesque
+7628) cryptozoology
+7629) cryptozoological
+7630) cryptozoologist (+plural)
+7631) cryptosporidium
+7632) cryptosporidia
+7633) coccidia
+7634) coccidian
+7635) toxoplasma
+7636) utero (in utero)
+7637) goldeneye (+plural)
+7638) alveolars (added plural)
+7639) circumcisers (added plural)
