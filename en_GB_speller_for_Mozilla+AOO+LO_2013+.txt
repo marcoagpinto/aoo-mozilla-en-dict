@@ -11044,18 +11044,18 @@ V2.29 (ongoing)
 7656) Europass (European Union site)
 7657) anything's (added the 's)
 7658) everything's (added the 's)
-7659) how'd
-7660) how're
-7661) can't've
-7662) couldn't've
-7663) how've
-7664) might've
-7665) mightn't've
+7659) how'd (Wiktionary)
+7660) how're (Wiktionary)
+7661) can't've (Wiktionary)
+7662) couldn't've (Wiktionary)
+7663) how've (Wiktionary)
+7664) might've (Wiktionary)
+7665) mightn't've (Wiktionary)
 7666) nothing's (added the 's)
-7667) shouldn't've
-7668) there're
-7669) this'd
-7670) wouldn't've
+7667) shouldn't've (Wiktionary)
+7668) there're (Wiktionary)
+7669) this'd (Wiktionary)
+7670) wouldn't've (Wiktionary)
 7671) arses + arsing (merged into arse)
 7672) half-arse (+ing +ed)
 7673) anxiolytic (+plural)
