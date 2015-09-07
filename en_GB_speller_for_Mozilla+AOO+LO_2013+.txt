@@ -11018,7 +11018,88 @@ V2.28
 7637) goldeneye (+plural)
 7638) alveolars (added plural)
 7639) circumcisers (added plural)
+
+
+V2.29 (ongoing)
+--------------
+3-SEP-2015
+7640) Emmental + Emmenthal
+7641) Brie
+7642) ciabatta (+plural)
+7643) flatbreads (added plural)
+7644) pita (removed as it was American)
+7645) pitta (+plural - it is a bread and a bird)
+7646) bap (+plural)
+7647) Redditor (+plural)
+7648) Reddit
+7649) subreddit (+plural)
+7650) manspreading
+7651) MacGyver (+'s - name)
+7652) Brexit + Brixit
+7653) awestricken (another way of awestruck)
+7654) stagehand (fixed: stage-hand)
+7655) CVT (abbreviation: Continuously Variable Transmission)
+
+7-SEP-2015
+7656) Europass (European Union site)
+7657) anything's (added the 's)
+7658) everything's (added the 's)
+7659) how'd
+7660) how're
+7661) can't've
+7662) couldn't've
+7663) how've
+7664) might've
+7665) mightn't've
+7666) nothing's (added the 's)
+7667) shouldn't've
+7668) there're
+7669) this'd
+7670) wouldn't've
+7671) arses + arsing (merged into arse)
+7672) half-arse (+ing +ed)
+7673) anxiolytic (+plural)
+7674) antiepileptics (added plural - Wiktionary)
+7675) clonazepam
+7676) hydrocodone (+plural - Wiktionary)
+7677) MAOI
+7678) naproxen
+7679) oxycodone
+7680) SSRI
+7681) sublingual (+ally)
+7682) ADHD (abbreviation: Attention deficit hyperactivity disorder)
+7683) BPD
+7684) CBT (abbreviation: Cognitive behavioural therapy)
+7685) cyclothymia
+7686) cyclothymic
+7687) dysmorphia
+7688) dysmorphic
+7689) dysphoria
+7690) dysphoric
+7691) dysthymia
+7692) dysthymic
+7693) NPD
+7694) suicidality
+7695) backtick (+plural)
+7696) configurability (Google)
+7697) display's (added the 's)
+7698) ECMAScript (+'s - Wiktionary)
+7699) microSD (Wikipedia)
+7700) programmatically
+7701) symlink (+s +ing +ed)
+7702) throbber (+plural)
+7703) untick (+s +ing +ed - Wiktionary)
+7704) transclude (+s +ing +ed - Wiktionary)
+7705) wiki's (added the 's)
+7706) blog's (added the 's)
+7707) blogger's (added the 's)
+7708) griefing + griefed (merged into grief - Wiktionary)
+7709) griefer (+plural +'s)
+7710) hiragana
+7711) kana
+7712) kanji
+7713) katakana
 =============
 
-British English Dictionary (Forked) 2.28
+British English Dictionary (Forked) 2.29
 by Marco A.G.Pinto
