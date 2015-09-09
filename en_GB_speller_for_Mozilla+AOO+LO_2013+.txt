@@ -11099,6 +11099,145 @@ V2.29 (ongoing)
 7711) kana
 7712) kanji
 7713) katakana
+
+8-SEP-2015
+7714) classism
+7715) classist (+plural)
+7716) heteronormative
+7717) heteronormativity
+7718) heterophobe (+plural - Wiktionary)
+7719) Hopkins's (added the 's - name - Wikipedia)
+7720) heterophobia (Wiktionary)
+7721) heterophobic (Wiktionary)
+7722) heterosexism
+7723) heterosexist
+7724) intersectionality
+7725) intersectional
+7726) intersectionalism (Wiktionary)
+7727) misandrist (+plural)
+7728) patriarchically
+7729) transphobe (+plural - Wiktionary)
+7730) transphobia
+7731) transphobic
+7732) aromantic (+plural)
+7733) aromanticism (Wiktionary)
+7734) demisexual (+plural + ity - Wiktionary)
+7735) demisexuality (Wiktionary)
+7736) heteroflexible (Collins)
+7737) agender
+7738) teen's (added the 's - Wikipedia)
+7739) androgyne (+plural)
+7740) androgynously
+7741) bi-gender
+7742) bi-gendered
+7743) cis
+7744) substituent (+plural)
+7745) methoxyl
+7746) cisgender
+7747) cisgendered
+7748) gender-fluid
+7749) genderqueer (+plural)
+7750) trans
+7751) autotune (+s +ing +ed +er +ers - merged into autotune)
+7752) cancellable (Collins)
+7753) miscategorise (+s +ing +ed - Wiktionary)
+7754) epilation
+7755) epilate (+s +ing +ed)
+7756) epilator (+plural)
+7757) isopropyl
+7758) sequitur (+plural - non sequitur)
+7759) trinary (Collins)
+7760) unfulfillable
+7761) unfulfilling
+7762) veganism
+7763) fruitarian (+plural)
+7764) fruitarianism
+7765) non-American
+7766) unpair (+s +ing +ed - Wiktionary)
+7767) linting (merged into lint - Collins)
+7768) genericise (+s +ing +ed - Wiktionary)
+7769) geneticize (-IZE)
+7770) geneticise (-ISE)
+7771) geneticism
+7772) repolarization
+7773) repolish (+s +ing +ed)
+7774) reanalyse (+s +ing +ed)
+7775) intraindividual (Wiktionary)
+7776) denaturation
+7777) photovoltage (Wiktionary)
+7778) oftenness
+7779) Oftel + OFTEL
+7780) superphylum (Collins)
+7781) Asteroidea
+7782) Ophiuroidea
+7783) crossopterygian (+plural)
+7784) burrfish (+plural)
+7785) catfight (+s +ing)
+7786) Felix's (added the 's - name)
+7787) baddy (another way of baddie)
+7788) Darnley (+'s - name)
+7789) azidothymidine
+7790) zidovudine
+7791) thymidine
+7792) nucleoside (+plural)
+
+9-SEP-2015
+7793) miscreate (+s +ing +ed)
+7794) miscreative
+7795) Germain (+'s - name - Wikipedia)
+7796) that've (Wiktionary)
+7797) there've (Wiktionary)
+7798) which've (Wiktionary)
+7799) unsupportive
+8800) kibibit (+plural - IEC - Wikipedia)
+8801) mebibit (+plural - IEC - Wikipedia)
+8802) gibibit (+plural - IEC - Wikipedia)
+8803) tebibit (+plural - IEC - Wikipedia)
+8804) pebibit (+plural - IEC - Wikipedia)
+8805) exbibit (+plural - IEC - Wikipedia)
+8806) zebibit (+plural - IEC - Wikipedia)
+8807) yobibit (+plural - IEC - Wikipedia)
+8808) kibibyte (+plural - IEC - Wikipedia)
+8809) mebibyte (+plural - IEC - Wikipedia)
+8810) gibibyte (+plural - IEC - Wikipedia)
+8811) tebibyte (+plural - IEC - Wikipedia)
+8812) pebibyte (+plural - IEC - Wikipedia)
+8813) exbibyte (+plural - IEC - Wikipedia)
+8814) zebibyte (+plural - IEC - Wikipedia)
+8815) yobibyte (+plural - IEC - Wikipedia)
+8816) anonymiser (+plural - Wiktionary)
+8817) backtrace (+s +ing +ed - Wiktionary)
+8818) bashism (+plural - Wiktionary)
+8819) bi-endian (Wiktionary)
+8820) big-endian
+8821) little-endian
+8822) bytecode (+plural - Wiktionary)
+8823) misprice (+s +ing +ed)
+8824) noncallable
+8825) classful (Wiktionary)
+8826) cron
+8827) draggability (Wiktionary)
+8828) draggable (Wiktionary)
+8829) daemonize (+s +ing +ed - Wiktionary)
+8830) diff (+s +ing +ed)
+8831) endian
+8832) idempotence
+8833) ‎idempotency
+8834) metasyntactic (Wiktionary)
+8835) nullable
+8836) opcode (+plural)
+8837) pageable (Wiktionary)
+8838) parallelize (+s +ing +ed +ion -IZE)
+8839) parallelise (+s +ing +ed +ion -ISE)
+8840) performant (Wiktionary)
+8841) procuracy (+plural)
+8842) proxying + proxied (merged into proxy - Wiktionary)
+8843) stateful
+8844) Marston (+'s - name - Wikipedia)
+8845) bedplate
+8846) templating + templated (Wiktionary)
+8847) tokenisation (Wiktionary)
+8848) tokeniser (+plural - Wiktionary)
 =============
 
 British English Dictionary (Forked) 2.29
