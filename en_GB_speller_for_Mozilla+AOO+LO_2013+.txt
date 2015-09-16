@@ -11275,6 +11275,37 @@ V2.29 (ongoing)
 8881) unresting
 8882) unrestingly
 8883) unrestorable
+
+16-SEP-2015
+8884) CLI (abbreviation: Command Line Interface)
+8885) Ci (abbreviation: Curie)
+8886) CI (abbreviation: several meanings)
+8887) minify (+s +ing +ed +ion)
+8888) transpile (+s +ing +ed +er +ers - Wiktionary)
+8889) transcompile (+s +ing +ed - Wiktionary)
+8890) setup (setup file - Collins)
+8891) technocentric
+8892) technocomplex
+8893) technocratically
+8894) managerialism
+8895) managerialist
+8896) technofear
+8897) technofreak
+8898) technographer
+8899) technography
+8900) technologism
+8901) technomaniac
+8902) technomania
+8903) technomic
+8904) technopark
+8905) technopolis
+8906) technopolitan
+8907) technoscience
+8908) technoscientist
+8909) technosphere
+8910) technostress
+8911) technostructures (added plural)
+8912) technotronic + technetronic
 =============
 
 British English Dictionary (Forked) 2.29
