@@ -25,7 +25,7 @@ I will release a monthly en_GB update for Mozilla. For OpenOffice it may take lo
 
 Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
-I always keep a note of the most recent version released for Mozilla and AOO on the official Proofing Tool GUI site:
+I always keep a note of the most recent version released for Mozilla, AOO and LO on the official Proofing Tool GUI site:
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 
 
