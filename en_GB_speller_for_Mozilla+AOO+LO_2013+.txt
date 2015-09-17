@@ -11306,6 +11306,19 @@ V2.29 (ongoing)
 8910) technostress
 8911) technostructures (added plural)
 8912) technotronic + technetronic
+
+17-SEP-2015
+8913) combatting + combatted (another way of combating and combated)
+8914) cross-hair (removed, Oxford says it is two words)
+8915) debounce (+s +ing +ed - Wiktionary)
+8916) yuck + yuk (Oxford: informal)
+8917) gyro (+plural)
+8918) repo (+plural - source code repository - Wiktionary)
+8919) unopinionated
+8920) useable (another way of usable)
+8921) unicity
+8922) thusly (Oxford: informal)
+8923) spandex
 =============
 
 British English Dictionary (Forked) 2.29
