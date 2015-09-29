@@ -11020,7 +11020,7 @@ V2.28
 7639) circumcisers (added plural)
 
 
-V2.29 (ongoing)
+V2.29
 --------------
 3-SEP-2015
 7640) Emmental + Emmenthal
@@ -11319,6 +11319,37 @@ V2.29 (ongoing)
 8921) unicity
 8922) thusly (Oxford: informal)
 8923) spandex
+
+22-SEP-2015
+8924) buildable (Collins)
+8925) buildability (Wiktionary)
+8926) primatial
+8927) dilatancy
+8928) sulphonate (+plural +ing +ed +ion)
+8929) sulfonamide (+plural - another way of sulphonamide)
+8930) lovebird (+plural - fixed: love-bird)
+8931) she-god
+8932) she-goat
+8933) she-friend
+8934) she-dog
+8935) she-devil
+8936) she-dragon
+8937) she-cat
+8938) she-ass
+8939) Jacopo (+'s - name)
+8940) caryopsis
+8941) caryopses (plural of previous word)
+8942) digitate
+8943) digitation
+8944) behaviouralists (added plural)
+8945) underbred
+8946) bioterrorists (added plural)
+8947) ironworking
+8948) glasswork (+plural - Collins)
+8949) Whitehouse (+'s - name - Wikipedia)
+8950) Serenity (+'s - name - Wikipedia)
+8951) serenities (plural of serenity)
+8952) Pinochet (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.29
