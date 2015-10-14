@@ -11350,7 +11350,188 @@ V2.29
 8950) Serenity (+'s - name - Wikipedia)
 8951) serenities (plural of serenity)
 8952) Pinochet (+'s - name - Wikipedia)
+
+
+V2.30 (ongoing)
+2-OCT-2015
+8953) affordance
+8954) roofline (+plural)
+8955) ideating + ideated (merged into ideate)
+8956) repurpose (+s +ing +ed)
+8957) collotype (+plural)
+8958) Jones's (added the 's - name - Wikipedia)
+8959) biosensor (+plural)
+8960) radiotracer
+8961) microsphere (+plural)
+8962) radiotoxicity
+8963) radiotoxic
+8964) radiothorium
+8965) radiothermal
+8966) radiotherapeutically
+8967) radiotelex
+
+7-OCT-2015
+8968) radioteletype
+8969) radiotelemetry
+6970) radiotelegraphically
+6971) radiosurgery
+6972) radiosurgical
+6973) radiostrontium
+6974) radiosterilized
+6975) radiosterilization
+6976) radiostereometric
+6977) radiosondage
+6978) radiosity
+6979) radiosensitizer
+6980) radiosensitizing
+6981) radiosensitization
+6982) radiosensitize
+6983) radiosensitivity
+6984) radiosensitive (+ness)
+6985) radioscanning
+6986) radioresistant
+6987) radioreceptor
+6988) radiolabelled
+6989) radioland
+6990) radiolaria
+6991) Sipuncula
+6992) sipunculan (+plural)
+6993) sipunculid (+plural)
+6994) Sipunculus
+6995) Coverley (+'s - name - Wikipedia)
+6996) Harvey's (added the 's - name - Wikipedia)
+6997) colourblock (+ing +ed)
+6998) tankini (+plural)
+6999) tankodrome
+7000) tankette
+7001) tankbuster (Oxford: informal)
+7002) airgraph
+7003) encaustic
+7004) Gogh (+'s - name - Wikipedia)
+7005) pastegrain
+7006) pasteboard-like
+7007) headbay
+7008) headborough
+7009) headcams (added plural)
+7010) headbutts (added plural)
+7011) Fairfax's (added the 's - name - Wikipedia)
+7012) royalism
+7013) parliamentarianism
+7014) Aquarian (+plural)
+7015) libra
+7016) librae (plural of previous word)
+7017) libidinally
+7018) object-libido
+7019) libertyless
+7020) LIBOR
+7021) amylose
+7022) crystallizable (-IZE)
+7023) crystallisable (-ISE)
+7024) unbranched (Collins)
+7025) amylopectin
+7026) valproic (valproic acid)
+7027) Antisthenes (name)
+7028) trisectors (added plural)
+7029) conchoid
+7030) Nicomedes (+'s - name - Wikipedia)
+7031) pappus
+7032) pappi (plural of previous word)
+7033) pappose
+7034) Pappus (+'s - name - Wikipedia)
+7035) pappy (+plural)
+7036) poppyseeds (added plural)
+7037) poppywort
+7038) popsock (+plural)
+
+13-OCT-2015
+7039) Steckling’s (added the 's - name)
+7040) Clancarty (+'s - name - Wikipedia)
+7041) co-trimoxazole
+7042) doxycycline
+7043) minocycline
+7044) ciprofloxacin (Collins)
+7045) sulphamethoxazole + sulfamethoxazole
+7046) trimethoprim
+7047) trimeter (+plural)
+7048) trimetric
+7049) trimetrical
+7050) trisyllables (added plural)
+7051) trisyllabic
+7052) accentualist
+7053) accentuality
+7054) accentor (+plural)
+7055) waxbill (+plural)
+7056) congeneric
+7057) congenerous
+7058) primogenital
+7059) primogenitary
+7060) primogenitive
+7061) co-ally (+ed)
+7062) co-belligerent (+plural)
+7063) co-belligerence
+7064) co-branded
+7065) co-branding
+7066) co-conspirator (+plural)
+7067) co-chair (+plural)
+7068) co-counselling
+7069)  Balliol (+'s - name - Wikipedia)
+7070) Whitworth
+7071) Pitt (+'s - name - Wikipedia)
+7072) Pitressin
+7073) pitpan (+plural)
+
+14-OCT-2015
+7074) touchlines (added plural)
+7075) bookaholic (Oxford: informal)
+7076) blogrolls (added plural)
+7077) noseband
+7078) cavesson (+plural)
+7079) biostratigrapher (+plural)
+7080) biostratigraphic
+7081) biostratigraphical
+7082) biostratigraphically
+7083) macrofossil
+7084) macrofungus
+7085) macrogametocyte
+7086) macrogamete
+7087) flagellar
+7088) epaxial
+7089) unwellness
+7090) aitchbone
+7091) aitchless
+7092) anterogradely
+7093) claustrum
+7094) claustra
+7095) lentiform (lentiform nucleus)
+7096) buccinator (+plural)
+7097) Bucephalus (name)
+7098) anacreontic (+plural)
+7099) Anacreon (+'s - name - Wikipedia)
+7100) essayistic
+7101) recontinuance
+7102) recontinue
+7103) reconvalescence
+7104) reconvalescent
+7105) thicko (+plural - Oxford: informal)
+7106) thicknesser (+plural)
+7107) Castro's (added the 's - name - Wikipedia)
+7108) IQs (added plural)
+7109) intellectualistic
+7110) intellectualist (+plural)
+7111) voluntarist
+7112) voluntaristic
+7113) dogmatise (+s +ing +ed - ISE)
+7114) dogmatize (+s +ing +ed - IZE)
+7115) dognap (+s +ing +ed +er +ers)
+7116) dogology
+7117) dogship
+7118) dogsleep
+7119) dogstones
+7120) televisionary (+plural)
+7121) broadleaves
+7122) broadloomed
+7123) duplet (+plural)
 =============
 
-British English Dictionary (Forked) 2.29
+British English Dictionary (Forked) 2.30
 by Marco A.G.Pinto
