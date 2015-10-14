@@ -11373,164 +11373,164 @@ V2.30 (ongoing)
 7-OCT-2015
 8968) radioteletype
 8969) radiotelemetry
-6970) radiotelegraphically
-6971) radiosurgery
-6972) radiosurgical
-6973) radiostrontium
-6974) radiosterilized
-6975) radiosterilization
-6976) radiostereometric
-6977) radiosondage
-6978) radiosity
-6979) radiosensitizer
-6980) radiosensitizing
-6981) radiosensitization
-6982) radiosensitize
-6983) radiosensitivity
-6984) radiosensitive (+ness)
-6985) radioscanning
-6986) radioresistant
-6987) radioreceptor
-6988) radiolabelled
-6989) radioland
-6990) radiolaria
-6991) Sipuncula
-6992) sipunculan (+plural)
-6993) sipunculid (+plural)
-6994) Sipunculus
-6995) Coverley (+'s - name - Wikipedia)
-6996) Harvey's (added the 's - name - Wikipedia)
-6997) colourblock (+ing +ed)
-6998) tankini (+plural)
-6999) tankodrome
-7000) tankette
-7001) tankbuster (Oxford: informal)
-7002) airgraph
-7003) encaustic
-7004) Gogh (+'s - name - Wikipedia)
-7005) pastegrain
-7006) pasteboard-like
-7007) headbay
-7008) headborough
-7009) headcams (added plural)
-7010) headbutts (added plural)
-7011) Fairfax's (added the 's - name - Wikipedia)
-7012) royalism
-7013) parliamentarianism
-7014) Aquarian (+plural)
-7015) libra
-7016) librae (plural of previous word)
-7017) libidinally
-7018) object-libido
-7019) libertyless
-7020) LIBOR
-7021) amylose
-7022) crystallizable (-IZE)
-7023) crystallisable (-ISE)
-7024) unbranched (Collins)
-7025) amylopectin
-7026) valproic (valproic acid)
-7027) Antisthenes (name)
-7028) trisectors (added plural)
-7029) conchoid
-7030) Nicomedes (+'s - name - Wikipedia)
-7031) pappus
-7032) pappi (plural of previous word)
-7033) pappose
-7034) Pappus (+'s - name - Wikipedia)
-7035) pappy (+plural)
-7036) poppyseeds (added plural)
-7037) poppywort
-7038) popsock (+plural)
+8970) radiotelegraphically
+8971) radiosurgery
+8972) radiosurgical
+8973) radiostrontium
+8974) radiosterilized
+8975) radiosterilization
+8976) radiostereometric
+8977) radiosondage
+8978) radiosity
+8979) radiosensitizer
+8980) radiosensitizing
+8981) radiosensitization
+8982) radiosensitize
+8983) radiosensitivity
+8984) radiosensitive (+ness)
+8985) radioscanning
+8986) radioresistant
+8987) radioreceptor
+8988) radiolabelled
+8989) radioland
+8990) radiolaria
+8991) Sipuncula
+8992) sipunculan (+plural)
+8993) sipunculid (+plural)
+8994) Sipunculus
+8995) Coverley (+'s - name - Wikipedia)
+8996) Harvey's (added the 's - name - Wikipedia)
+8997) colourblock (+ing +ed)
+8998) tankini (+plural)
+8999) tankodrome
+8000) tankette
+9001) tankbuster (Oxford: informal)
+9002) airgraph
+9003) encaustic
+9004) Gogh (+'s - name - Wikipedia)
+9005) pastegrain
+9006) pasteboard-like
+9007) headbay
+9008) headborough
+9009) headcams (added plural)
+9010) headbutts (added plural)
+9011) Fairfax's (added the 's - name - Wikipedia)
+9012) royalism
+9013) parliamentarianism
+9014) Aquarian (+plural)
+9015) libra
+9016) librae (plural of previous word)
+9017) libidinally
+9018) object-libido
+9019) libertyless
+9020) LIBOR
+9021) amylose
+9022) crystallizable (-IZE)
+9023) crystallisable (-ISE)
+9024) unbranched (Collins)
+9025) amylopectin
+9026) valproic (valproic acid)
+9027) Antisthenes (name)
+9028) trisectors (added plural)
+9029) conchoid
+9030) Nicomedes (+'s - name - Wikipedia)
+9031) pappus
+9032) pappi (plural of previous word)
+9033) pappose
+9034) Pappus (+'s - name - Wikipedia)
+9035) pappy (+plural)
+9036) poppyseeds (added plural)
+9037) poppywort
+9038) popsock (+plural)
 
 13-OCT-2015
-7039) Steckling’s (added the 's - name)
-7040) Clancarty (+'s - name - Wikipedia)
-7041) co-trimoxazole
-7042) doxycycline
-7043) minocycline
-7044) ciprofloxacin (Collins)
-7045) sulphamethoxazole + sulfamethoxazole
-7046) trimethoprim
-7047) trimeter (+plural)
-7048) trimetric
-7049) trimetrical
-7050) trisyllables (added plural)
-7051) trisyllabic
-7052) accentualist
-7053) accentuality
-7054) accentor (+plural)
-7055) waxbill (+plural)
-7056) congeneric
-7057) congenerous
-7058) primogenital
-7059) primogenitary
-7060) primogenitive
-7061) co-ally (+ed)
-7062) co-belligerent (+plural)
-7063) co-belligerence
-7064) co-branded
-7065) co-branding
-7066) co-conspirator (+plural)
-7067) co-chair (+plural)
-7068) co-counselling
-7069)  Balliol (+'s - name - Wikipedia)
-7070) Whitworth
-7071) Pitt (+'s - name - Wikipedia)
-7072) Pitressin
-7073) pitpan (+plural)
+9039) Steckling’s (added the 's - name)
+9040) Clancarty (+'s - name - Wikipedia)
+9041) co-trimoxazole
+9042) doxycycline
+9043) minocycline
+9044) ciprofloxacin (Collins)
+9045) sulphamethoxazole + sulfamethoxazole
+9046) trimethoprim
+9047) trimeter (+plural)
+9048) trimetric
+9049) trimetrical
+9050) trisyllables (added plural)
+9051) trisyllabic
+9052) accentualist
+9053) accentuality
+9054) accentor (+plural)
+9055) waxbill (+plural)
+9056) congeneric
+9057) congenerous
+9058) primogenital
+9059) primogenitary
+9060) primogenitive
+9061) co-ally (+ed)
+9062) co-belligerent (+plural)
+9063) co-belligerence
+9064) co-branded
+9065) co-branding
+9066) co-conspirator (+plural)
+9067) co-chair (+plural)
+9068) co-counselling
+9069) Balliol (+'s - name - Wikipedia)
+9070) Whitworth
+9071) Pitt (+'s - name - Wikipedia)
+9072) Pitressin
+9073) pitpan (+plural)
 
 14-OCT-2015
-7074) touchlines (added plural)
-7075) bookaholic (Oxford: informal)
-7076) blogrolls (added plural)
-7077) noseband
-7078) cavesson (+plural)
-7079) biostratigrapher (+plural)
-7080) biostratigraphic
-7081) biostratigraphical
-7082) biostratigraphically
-7083) macrofossil
-7084) macrofungus
-7085) macrogametocyte
-7086) macrogamete
-7087) flagellar
-7088) epaxial
-7089) unwellness
-7090) aitchbone
-7091) aitchless
-7092) anterogradely
-7093) claustrum
-7094) claustra
-7095) lentiform (lentiform nucleus)
-7096) buccinator (+plural)
-7097) Bucephalus (name)
-7098) anacreontic (+plural)
-7099) Anacreon (+'s - name - Wikipedia)
-7100) essayistic
-7101) recontinuance
-7102) recontinue
-7103) reconvalescence
-7104) reconvalescent
-7105) thicko (+plural - Oxford: informal)
-7106) thicknesser (+plural)
-7107) Castro's (added the 's - name - Wikipedia)
-7108) IQs (added plural)
-7109) intellectualistic
-7110) intellectualist (+plural)
-7111) voluntarist
-7112) voluntaristic
-7113) dogmatise (+s +ing +ed - ISE)
-7114) dogmatize (+s +ing +ed - IZE)
-7115) dognap (+s +ing +ed +er +ers)
-7116) dogology
-7117) dogship
-7118) dogsleep
-7119) dogstones
-7120) televisionary (+plural)
-7121) broadleaves
-7122) broadloomed
-7123) duplet (+plural)
+9074) touchlines (added plural)
+9075) bookaholic (Oxford: informal)
+9076) blogrolls (added plural)
+9077) noseband
+9078) cavesson (+plural)
+9079) biostratigrapher (+plural)
+9080) biostratigraphic
+9081) biostratigraphical
+9082) biostratigraphically
+9083) macrofossil
+9084) macrofungus
+9085) macrogametocyte
+9086) macrogamete
+9087) flagellar
+9088) epaxial
+9089) unwellness
+9090) aitchbone
+9091) aitchless
+9092) anterogradely
+9093) claustrum
+9094) claustra
+9095) lentiform (lentiform nucleus)
+9096) buccinator (+plural)
+9097) Bucephalus (name)
+9098) anacreontic (+plural)
+9099) Anacreon (+'s - name - Wikipedia)
+9100) essayistic
+9101) recontinuance
+9102) recontinue
+9103) reconvalescence
+9104) reconvalescent
+9105) thicko (+plural - Oxford: informal)
+9106) thicknesser (+plural)
+9107) Castro's (added the 's - name - Wikipedia)
+9108) IQs (added plural)
+9109) intellectualistic
+9110) intellectualist (+plural)
+9111) voluntarist
+9112) voluntaristic
+9113) dogmatise (+s +ing +ed - ISE)
+9114) dogmatize (+s +ing +ed - IZE)
+9115) dognap (+s +ing +ed +er +ers)
+9116) dogology
+9117) dogship
+9118) dogsleep
+9119) dogstones
+9120) televisionary (+plural)
+9121) broadleaves
+9122) broadloomed
+9123) duplet (+plural)
 =============
 
 British English Dictionary (Forked) 2.30
