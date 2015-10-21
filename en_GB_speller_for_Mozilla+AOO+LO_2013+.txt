@@ -11531,6 +11531,57 @@ V2.30 (ongoing)
 9121) broadleaves
 9122) broadloomed
 9123) duplet (+plural)
+
+16-OCT-2015
+9124) Burtenshaw (+'s - name - Wikipedia)
+9125) unship (+s +ing +ed)
+9126) unshockable
+9127) unshockability
+9128) unshrinkable
+9129) unshrinkability
+9130) unshrinkingly
+9131) speargun
+9132) spearfish (+plural +ing)
+9133) lumpfish (+plural)
+9134) lumpsucker (+plural)
+9135) featherback (+plural)
+9136) knifefish (+plural)
+
+19-OCT-2015
+9137) jammer (+plural)
+9138) woodturning
+9139) woodturner (+plural)
+9140) woodswallow (+plural)
+9141) corella (+plural)
+9142) wattlebird (+plural)
+9143) geckoes (another plural of gecko)
+9144) redox
+9145) stibine (Collins)
+9146) arsewipe (Oxford: slang)
+9147) arsenopyrite
+9148) wolframite
+9149) axinite (Collins)
+9150) apophyllite
+9151) heulandite (Collins)
+9152) sperrylite (Collins)
+9153) thaumasite (Collins)
+
+21-OCT-2015
+9154) fezzes (added plural)
+9155) fezzed (merged into fez)
+9156) blousy (+ier +iest - Collins)
+9157) incommensurables (added plural)
+9158) incommensurability
+9159) incommensurably
+9160) workpeople
+9161) shewn (Collins)
+9162) workperson
+9163) workwoman
+9164) workwise
+9165) Forby (+'s - name - Wikipedia)
+9166) componentry
+9167) cuirass (+plural)
+9168) chiliarch's (added the 's)
 =============
 
 British English Dictionary (Forked) 2.30
