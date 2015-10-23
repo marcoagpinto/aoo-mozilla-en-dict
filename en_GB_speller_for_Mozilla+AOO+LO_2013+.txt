@@ -11582,6 +11582,60 @@ V2.30 (ongoing)
 9166) componentry
 9167) cuirass (+plural)
 9168) chiliarch's (added the 's)
+
+23-OCT-2015
+9169) supergiant (+plural)
+9170) WordPress (+'s - name - Wikipedia)
+9171) Verizon (+'s - name - Wikipedia)
+9172) Comcast (+'s - name - Wikipedia)
+9173) underappreciate (+ed +ion)
+9174) tachyon (+plural)
+9175) bosonic
+9176) supergalactic
+9177) transmural
+9178) superfuse (+ed +ing)
+9179) superfruit
+9180) superfortress
+9181) superforce
+9182) superflux
+9183) superfluorescent
+9184) floristic (+plural)
+9185) floristically
+9186) barrenly
+9187) barrelhead (+plural)
+9188) barrelfish (+plural)
+9189) achillea
+9190) euphorbia (+plural)
+9191) cistus
+9192) lavatera
+9193) buddleia
+9194) accessorial
+9195) possessory
+9196) digresser (+plural)
+9197) dihedrals (added plural)
+9198) reflectional + reflexional
+9199) reflectionless
+9200) reflectogram (+plural)
+9201) reflectography
+9202) reflectograph
+9203) reflectogramme
+9204) coetaneous
+9205) Castilian (+plural)
+9206) pastureland (+plural)
+9207) shrubland (+plural - Collins)
+9208) cinematographically
+9209) Dumont's (added the 's - name - Wikipedia)
+9210) Bertolucci (+'s - name)
+9211) ICANN (+'s - name - Wikipedia)
+9212) DNSSEC (+'s - Wikipedia)
+9213) WHOIS (Wikipedia)
+9214) headrail (+plural)
+9215) Kieran's (added the 's - name - Wikipedia)
+9216) Euro-wasp
+9217) Eurobank
+9218) eurocredit (Collins)
+9219) Eurocentrist
+9220) IMF (+'s - Oxford: abbreviation: International Monetary Fund)
 =============
 
 British English Dictionary (Forked) 2.30
