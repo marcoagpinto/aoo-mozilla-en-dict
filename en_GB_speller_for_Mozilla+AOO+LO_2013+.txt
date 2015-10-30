@@ -11352,7 +11352,7 @@ V2.29
 8952) Pinochet (+'s - name - Wikipedia)
 
 
-V2.30 (ongoing)
+V2.30
 2-OCT-2015
 8953) affordance
 8954) roofline (+plural)

@@ -5,11 +5,11 @@ LGPL licence.
 
 It has been extensively updated by David Bartlett, Brian Kelk
 and Andrew Brown:
-- numerous Americanism have been removed;
-- numerous American spellings have been corrected;
-- missing words have been added;
-- many errors have been corrected;
-- compound hyphenated words have been added where appropriate.
+- Numerous Americanism have been removed;
+- Numerous American spellings have been corrected;
+- Missing words have been added;
+- Many errors have been corrected;
+- Compound hyphenated words have been added where appropriate.
 
 Valuable inputs to this process were received from many other
 people - far too numerous to name. Serious thanks to you all
@@ -72,7 +72,7 @@ The sources used to verify the spelling of the words I included in the dictionar
 6) Physical dictionaries
 
 Main difficulties developing this dictionary:
-1) Names of places and persons;
+1) Proper names;
 2) Words ending with 's;
 3) Plurals.
 
@@ -10671,3 +10671,275 @@ V2.29 - 1-OCT-2015
 8950) Serenity (+'s - name - Wikipedia)
 8951) serenities (plural of serenity)
 8952) Pinochet (+'s - name - Wikipedia)
+
+
+V2.30 - 1-NOV-2015
+------------------
+8953) affordance
+8954) roofline (+plural)
+8955) ideating + ideated (merged into ideate)
+8956) repurpose (+s +ing +ed)
+8957) collotype (+plural)
+8958) Jones's (added the 's - name - Wikipedia)
+8959) biosensor (+plural)
+8960) radiotracer
+8961) microsphere (+plural)
+8962) radiotoxicity
+8963) radiotoxic
+8964) radiothorium
+8965) radiothermal
+8966) radiotherapeutically
+8967) radiotelex
+8968) radioteletype
+8969) radiotelemetry
+8970) radiotelegraphically
+8971) radiosurgery
+8972) radiosurgical
+8973) radiostrontium
+8974) radiosterilized
+8975) radiosterilization
+8976) radiostereometric
+8977) radiosondage
+8978) radiosity
+8979) radiosensitizer
+8980) radiosensitizing
+8981) radiosensitization
+8982) radiosensitize
+8983) radiosensitivity
+8984) radiosensitive (+ness)
+8985) radioscanning
+8986) radioresistant
+8987) radioreceptor
+8988) radiolabelled
+8989) radioland
+8990) radiolaria
+8991) Sipuncula
+8992) sipunculan (+plural)
+8993) sipunculid (+plural)
+8994) Sipunculus
+8995) Coverley (+'s - name - Wikipedia)
+8996) Harvey's (added the 's - name - Wikipedia)
+8997) colourblock (+ing +ed)
+8998) tankini (+plural)
+8999) tankodrome
+8000) tankette
+9001) tankbuster (Oxford: informal)
+9002) airgraph
+9003) encaustic
+9004) Gogh (+'s - name - Wikipedia)
+9005) pastegrain
+9006) pasteboard-like
+9007) headbay
+9008) headborough
+9009) headcams (added plural)
+9010) headbutts (added plural)
+9011) Fairfax's (added the 's - name - Wikipedia)
+9012) royalism
+9013) parliamentarianism
+9014) Aquarian (+plural)
+9015) libra
+9016) librae (plural of previous word)
+9017) libidinally
+9018) object-libido
+9019) libertyless
+9020) LIBOR
+9021) amylose
+9022) crystallizable (-IZE)
+9023) crystallisable (-ISE)
+9024) unbranched (Collins)
+9025) amylopectin
+9026) valproic (valproic acid)
+9027) Antisthenes (name)
+9028) trisectors (added plural)
+9029) conchoid
+9030) Nicomedes (+'s - name - Wikipedia)
+9031) pappus
+9032) pappi (plural of previous word)
+9033) pappose
+9034) Pappus (+'s - name - Wikipedia)
+9035) pappy (+plural)
+9036) poppyseeds (added plural)
+9037) poppywort
+9038) popsock (+plural)
+9039) Steckling’s (added the 's - name)
+9040) Clancarty (+'s - name - Wikipedia)
+9041) co-trimoxazole
+9042) doxycycline
+9043) minocycline
+9044) ciprofloxacin (Collins)
+9045) sulphamethoxazole + sulfamethoxazole
+9046) trimethoprim
+9047) trimeter (+plural)
+9048) trimetric
+9049) trimetrical
+9050) trisyllables (added plural)
+9051) trisyllabic
+9052) accentualist
+9053) accentuality
+9054) accentor (+plural)
+9055) waxbill (+plural)
+9056) congeneric
+9057) congenerous
+9058) primogenital
+9059) primogenitary
+9060) primogenitive
+9061) co-ally (+ed)
+9062) co-belligerent (+plural)
+9063) co-belligerence
+9064) co-branded
+9065) co-branding
+9066) co-conspirator (+plural)
+9067) co-chair (+plural)
+9068) co-counselling
+9069) Balliol (+'s - name - Wikipedia)
+9070) Whitworth
+9071) Pitt (+'s - name - Wikipedia)
+9072) Pitressin
+9073) pitpan (+plural)
+9074) touchlines (added plural)
+9075) bookaholic (Oxford: informal)
+9076) blogrolls (added plural)
+9077) noseband
+9078) cavesson (+plural)
+9079) biostratigrapher (+plural)
+9080) biostratigraphic
+9081) biostratigraphical
+9082) biostratigraphically
+9083) macrofossil
+9084) macrofungus
+9085) macrogametocyte
+9086) macrogamete
+9087) flagellar
+9088) epaxial
+9089) unwellness
+9090) aitchbone
+9091) aitchless
+9092) anterogradely
+9093) claustrum
+9094) claustra
+9095) lentiform (lentiform nucleus)
+9096) buccinator (+plural)
+9097) Bucephalus (name)
+9098) anacreontic (+plural)
+9099) Anacreon (+'s - name - Wikipedia)
+9100) essayistic
+9101) recontinuance
+9102) recontinue
+9103) reconvalescence
+9104) reconvalescent
+9105) thicko (+plural - Oxford: informal)
+9106) thicknesser (+plural)
+9107) Castro's (added the 's - name - Wikipedia)
+9108) IQs (added plural)
+9109) intellectualistic
+9110) intellectualist (+plural)
+9111) voluntarist
+9112) voluntaristic
+9113) dogmatise (+s +ing +ed - ISE)
+9114) dogmatize (+s +ing +ed - IZE)
+9115) dognap (+s +ing +ed +er +ers)
+9116) dogology
+9117) dogship
+9118) dogsleep
+9119) dogstones
+9120) televisionary (+plural)
+9121) broadleaves
+9122) broadloomed
+9123) duplet (+plural)
+9124) Burtenshaw (+'s - name - Wikipedia)
+9125) unship (+s +ing +ed)
+9126) unshockable
+9127) unshockability
+9128) unshrinkable
+9129) unshrinkability
+9130) unshrinkingly
+9131) speargun
+9132) spearfish (+plural +ing)
+9133) lumpfish (+plural)
+9134) lumpsucker (+plural)
+9135) featherback (+plural)
+9136) knifefish (+plural)
+9137) jammer (+plural)
+9138) woodturning
+9139) woodturner (+plural)
+9140) woodswallow (+plural)
+9141) corella (+plural)
+9142) wattlebird (+plural)
+9143) geckoes (another plural of gecko)
+9144) redox
+9145) stibine (Collins)
+9146) arsewipe (Oxford: slang)
+9147) arsenopyrite
+9148) wolframite
+9149) axinite (Collins)
+9150) apophyllite
+9151) heulandite (Collins)
+9152) sperrylite (Collins)
+9153) thaumasite (Collins)
+9154) fezzes (added plural)
+9155) fezzed (merged into fez)
+9156) blousy (+ier +iest - Collins)
+9157) incommensurables (added plural)
+9158) incommensurability
+9159) incommensurably
+9160) workpeople
+9161) shewn (Collins)
+9162) workperson
+9163) workwoman
+9164) workwise
+9165) Forby (+'s - name - Wikipedia)
+9166) componentry
+9167) cuirass (+plural)
+9168) chiliarch's (added the 's)
+9169) supergiant (+plural)
+9170) WordPress (+'s - name - Wikipedia)
+9171) Verizon (+'s - name - Wikipedia)
+9172) Comcast (+'s - name - Wikipedia)
+9173) underappreciate (+ed +ion)
+9174) tachyon (+plural)
+9175) bosonic
+9176) supergalactic
+9177) transmural
+9178) superfuse (+ed +ing)
+9179) superfruit
+9180) superfortress
+9181) superforce
+9182) superflux
+9183) superfluorescent
+9184) floristic (+plural)
+9185) floristically
+9186) barrenly
+9187) barrelhead (+plural)
+9188) barrelfish (+plural)
+9189) achillea
+9190) euphorbia (+plural)
+9191) cistus
+9192) lavatera
+9193) buddleia
+9194) accessorial
+9195) possessory
+9196) digresser (+plural)
+9197) dihedrals (added plural)
+9198) reflectional + reflexional
+9199) reflectionless
+9200) reflectogram (+plural)
+9201) reflectography
+9202) reflectograph
+9203) reflectogramme
+9204) coetaneous
+9205) Castilian (+plural)
+9206) pastureland (+plural)
+9207) shrubland (+plural - Collins)
+9208) cinematographically
+9209) Dumont's (added the 's - name - Wikipedia)
+9210) Bertolucci (+'s - name)
+9211) ICANN (+'s - name - Wikipedia)
+9212) DNSSEC (+'s - Wikipedia)
+9213) WHOIS (Wikipedia)
+9214) headrail (+plural)
+9215) Kieran's (added the 's - name - Wikipedia)
+9216) Euro-wasp
+9217) Eurobank
+9218) eurocredit (Collins)
+9219) Eurocentrist
+9220) IMF (+'s - Oxford: abbreviation: International Monetary Fund)
