@@ -3,7 +3,7 @@ aoo-mozilla-en-dict
 
 English Dictionaries Project (AOO+Mozilla+others)
 
-For many years people stopped maintaining dictionaries for open-source software.
+For many years that people stopped maintaining dictionaries for open-source software.
 
 It would be great if we could continue their work and improve the already existing dictionaries or create new ones.
 
@@ -21,7 +21,7 @@ Please contact Kevin directly for the latter two:
 see http://wordlist.aspell.net 
 and https://sourceforge.net/projects/wordlist/files/Hunspell
 
-I will release a monthly en_GB update for Mozilla. For OpenOffice it may take longer because there are 10'000s of people downloading and I don't want to overload the servers.
+I will try to release a monthly update for Mozilla, OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it so that people won't be notified to update the dictionary exactly after they install the latest AOO. This means that a release version is skipped for AOO.
 
 Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
