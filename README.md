@@ -9,7 +9,7 @@ It would be great if we could continue their work and improve the already existi
 
 The biggest issue is that most of these dictionaries are obfuscated (codified in a way that only certain software packages can have access to the wordlists) and the original developers are no longer available to provide the clean text ones.
 
-In some cases we will have to start from a long time gone position, which is the last known clean text version of the dictionary.
+In some cases we will have to start from a long-time gone position, which is the last known clean text version of the dictionary.
 
 Modifying, updating and maintaining a dictionary is a hard task but an important one for current and future generations.
 
