@@ -11636,7 +11636,64 @@ V2.30
 9218) eurocredit (Collins)
 9219) Eurocentrist
 9220) IMF (+'s - Oxford: abbreviation: International Monetary Fund)
+
+
+V2.31 (ongoing)
+4-NOV-2015
+9221) Euroclear
+9222) Euroconnector
+9223) Euroconvertible
+9224) blackcap (+plural)
+9225) gonolek (+plural)
+9226) shoebill (+plural)
+9227) shoeboxes (added plural)
+9228) cornmill
+9229) ropemaker
+9230) ropemanship
+9231) ropesight
+9232) campanulate
+9233) umbo (+plural)
+9234) umbones (another plural of previous word)
+9235) umbonal
+9236) umbonate
+9237) invagination (+plural)
+9238) invaginate (+ed)
+9239) chondrocyte (+plural)
+9240) chondrocranium
+9241) tessera
+9242) tesserae (plural of previous word)
+9243) tesseral
+9244) colourman
+9245) outcross (+s +ing +ed)
+9246) outcrying
+
+9-NOV-2015
+9247) dependents (added plural)
+9248) periodogram
+9249) periodograph
+9250) periodology
+9251) endodontics (Collins)
+9252) criminogenic
+9253) reconvict (+s +ing +ed +ion)
+9254) recopper
+9255) reconvoke
+9256) reconveyance
+9257) reconvertible
+9258) reconverge
+9259) reconvention
+9260) counterpetition (Collins)
+9261) reconsult
+9262) reconstructiveness
+9263) reconstructionary
+9264) reconstructional
+9265) teleprocessing (Collins)
+9266) tiddly (+ier +iest - Oxford: informal)
+9267) Tippex + Tipp-Ex (British trademark)
+9268) trendsetters (added plural)
+9269) disrate (+s +ing +ed)
+9270) snakefish (+plural)
+9271) lizardfish (+plural)
 =============
 
-British English Dictionary (Forked) 2.30
+British English Dictionary (Forked) 2.31
 by Marco A.G.Pinto
