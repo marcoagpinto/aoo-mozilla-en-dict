@@ -23,7 +23,7 @@ and https://sourceforge.net/projects/wordlist/files/Hunspell
 
 I will try to release a monthly update for Mozilla, OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it so that people won't be notified to update the dictionary exactly after they install the latest AOO. This means that a release version is skipped for AOO.
 
-Please notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
+Notice the "en_GB_speller_for_Mozilla+AOO+LO_2013+.txt" above where I keep a log of all the changes.
 
 I always keep a note of the most recent version released for Mozilla, AOO and LO on the official Proofing Tool GUI site:
 http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
