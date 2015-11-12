@@ -11693,6 +11693,68 @@ V2.31 (ongoing)
 9269) disrate (+s +ing +ed)
 9270) snakefish (+plural)
 9271) lizardfish (+plural)
+
+10-NOV-2015
+9272) Gradle (+'s - name - Wikipedia)
+9273) Percival (+'s - name - Wikipedia)
+9274) Burnage (+'s - name - Wikipedia)
+9275) Wexler (+'s - name - Wikipedia)
+9276) picturable
+9277) Thorson (+'s - name - Wikipedia)
+9278) Fass (+'s - name - Wikipedia)
+9279) zooplankton
+9280) york (+s +ing +ed)
+9281) zeolite (+plural +ic)
+9282) zeroth
+9283) zestfulness
+9284) zesty (+ier +iest)
+9285) wunderkind (+plural)
+9286) wunderkinder (another plural of previous word)
+9287) xylene
+9288) trichloroethylene
+9289) yaks (added plural)
+
+12-NOV-2015
+9290) subwindow (+plural - Wiktionary)
+9291) multiwindow (+ed)
+9292) multiwire
+9293) subindex (+plural - Collins)
+9294) sub-idea
+9295) subindustry (+plural - Collins)
+9296) subimpose
+9297) subincandescent
+9298) subincision
+9299) subinfeud
+9300) subinfeudation + subenfeudation
+9301) subinfeudatory
+9302) subfeudatory + subfeudatary
+9303) subfeudation
+9304) subfertile
+9305) subfertility
+9306) subfauna
+9307) subfactor
+9308) subface
+9309) subevergreen
+9310) suberyl
+9311) suberous
+9312) suberose
+9313) corky (+ier +iest)
+9314) subproject (+plural - Collins)
+9315) subpubic (Collins)
+9316) analysation
+9317) analysandum
+9318) re-experience
+9319) restenosis
+9320) fibromuscular (Wiktionary)
+9321) endarterectomy (+plural)
+9322) cholecystectomy (+plural)
+9323) laparoscopy (+plural)
+9324) laparoscope
+9325) laparoscopic
+9326) laparoscopically
+9327) laparotomy (+plural)
+9328) splenectomy (+plural)
+9329) asplenia (Wiktionary)
 =============
 
 British English Dictionary (Forked) 2.31
