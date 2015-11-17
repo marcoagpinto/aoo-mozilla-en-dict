@@ -11755,6 +11755,87 @@ V2.31 (ongoing)
 9327) laparotomy (+plural)
 9328) splenectomy (+plural)
 9329) asplenia (Wiktionary)
+
+13-NOV-2015
+9330) Excel (+'s - Wikipedia)
+9331) O'Farrell (+'s - name - Wikipedia)
+9332) Kerensa (name - Wikipedia)
+9333) XUL (Wiktionary: XML user interface language)
+9334) changeset (+plural - Wiktionary)
+9335) Daniel's (added the 's - name - Wikipedia)
+9336) IIRC (Wiktionary: informal - If I remember correctly, if I recall correctly)
+9337) Stehmann (name - Wikipedia)
+9338) theophoric + theophorous
+9339) toponymy + toponymics (Collins)
+9340) topophilia (Collins)
+9341) tapless
+9342) tappable
+9343) Ginsburg (+'s - name)
+9344) panax
+9345) underlet (+s +ing)
+9346) quickset
+9347) Odette (+'s - name)
+9348) Debrett (+'s - name)
+9349) Rhett (+'s - name - Wikipedia)
+9350) comms
+9351) commove (+s +ing +ed - Wiktionary)
+9352) aidful
+9353) unclearly
+9354) unclearness
+9355) uncleared
+9356) sandfly (+plural)
+9357) Wickepin (+'s - name - Wikipedia)
+
+15-NOV-2015
+9358) Winton  (+'s - name - Wikipedia)
+9359) Surman (+'s - name - Wikipedia)
+9360) Berna (+'s - name - Wikipedia)
+9361) Birk (+'s - name - Wikipedia)
+9362) Witts (+'s - name - Wikipedia)
+9363) Balrog (+'s - name - Wikipedia)
+9364) Cloke (+'s - name - Wikipedia)
+9365) xvi's (added the 's)
+9366) cybersquatter (+plural)
+9367) cybersurf
+9368) cybertheft
+9369) cyberthreat (+plural)
+9370) cyberwarfare
+9371) cyberwarrior (+plural)
+9372) cyberworld
+9373) cybrarian (+plural)
+9374) Oshii (+'s - name - Wikipedia)
+
+16-NOV-2015
+9375) Floyd's (added the 's - name - Wikipedia)
+9376) Gilmour (+'s - name - Wikipedia)
+9377) uninvested (Collins)
+9378) Ezrin (+'s - name - Wikipedia)
+9379) maximalist (+plural)
+9380) maximalism
+9381) rejectionist (+plural)
+9382) ISIS (+'s - name of terrorist group - Wikipedia)
+9383) EMI (+'s - name - Wikipedia)
+8384) scenography
+8385) scenographic
+8386) Isis (added the 's - name - Wikipedia)
+8387) Scenopegia
+8388) Everly (+'s - name - Wikipedia)
+8389) bandmates (added plural)
+8390) freak-out (Oxford: informal)
+8391) freakily
+8392) freakiness
+8393) weakish
+8394) isospin
+8395) axisymmetric
+8396) apothem (+plural)
+8397) coplanarity
+8398) nonradiative (Wiktionary)
+8399) degradability
+8400) degradative
+8401) ethylbenzene
+8402) nitrobenzene
+8403) nitrobacterium
+8404) nitrify (+s +ing +ed)
 =============
 
 British English Dictionary (Forked) 2.31
