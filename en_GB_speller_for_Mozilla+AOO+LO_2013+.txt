@@ -11815,27 +11815,79 @@ V2.31 (ongoing)
 9381) rejectionist (+plural)
 9382) ISIS (+'s - name of terrorist group - Wikipedia)
 9383) EMI (+'s - name - Wikipedia)
-8384) scenography
-8385) scenographic
-8386) Isis (added the 's - name - Wikipedia)
-8387) Scenopegia
-8388) Everly (+'s - name - Wikipedia)
-8389) bandmates (added plural)
-8390) freak-out (Oxford: informal)
-8391) freakily
-8392) freakiness
-8393) weakish
-8394) isospin
-8395) axisymmetric
-8396) apothem (+plural)
-8397) coplanarity
-8398) nonradiative (Wiktionary)
-8399) degradability
-8400) degradative
-8401) ethylbenzene
-8402) nitrobenzene
-8403) nitrobacterium
-8404) nitrify (+s +ing +ed)
+9384) scenography
+9385) scenographic
+9386) Isis (added the 's - name - Wikipedia)
+9387) Scenopegia
+9388) Everly (+'s - name - Wikipedia)
+9389) bandmates (added plural)
+9390) freak-out (Oxford: informal)
+9391) freakily
+9392) freakiness
+9393) weakish
+9394) isospin
+9395) axisymmetric
+9396) apothem (+plural)
+9397) coplanarity
+9398) nonradiative (Wiktionary)
+9399) degradability
+9400) degradative
+9401) ethylbenzene
+9402) nitrobenzene
+9403) nitrobacterium
+9404) nitrify (+s +ing +ed)
+
+18-NOV-2015
+9405) Cortana (+'s - name - Wikipedia)
+9406) Ginnie (+'s - name - Wikipedia)
+9407) Qualcomm (+'s - name - Wikipedia)
+9408) datacard (Collins)
+9409) databus (Collins)
+9410) undogmatic
+9411) undoable (Oxford: informal)
+9412) undiversified
+9413) undistracted
+9414) undisputedly
+9415) undissociated
+9416) cycloaddition (+plural)
+9417) interpolar (Collins)
+9418) meristem (+plural)
+9419) meristematic
+9420) periderm
+9421) peridermal
+9422) phellogen
+
+20-NOV-2015
+9423) Diemen (+'s - name)
+9424) aerostatics
+9425) macromutation
+9426) micromutation
+9427) micromotor
+9428) micromorphology
+9429) micromorphological
+9430) micromorph (+plural)
+9431) micromolar
+9432) micromole (+plural)
+9433) micromodule
+9434) micromodelling + micromodeling
+9435) micromodel
+9436) microminiaturization + microminiaturisation
+9437) photoelectronics
+9438) Chambers (+'s - name - Wikipedia)
+9439) photoelectromagnetic + photomagnetoelectric
+9440) photomask
+9441) pellicle
+9442) pellicular
+9443) interceptive
+9444) multilayered (+ness)
+9445) macrospore
+9446) heterosporous (Collins)
+9447) Protoctista
+9448) protoctist (+plural)
+9449) prokaryote + procaryote
+9450) prokaryotic
+9451) homologues (added plural)
+9452) extrametrical (Collins)
 =============
 
 British English Dictionary (Forked) 2.31
