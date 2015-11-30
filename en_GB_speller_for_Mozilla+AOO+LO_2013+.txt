@@ -11638,7 +11638,7 @@ V2.30
 9220) IMF (+'s - Oxford: abbreviation: International Monetary Fund)
 
 
-V2.31 (ongoing)
+V2.31
 4-NOV-2015
 9221) Euroclear
 9222) Euroconnector
