@@ -11978,7 +11978,47 @@ V2.31
 9534) manticore (+plural)
 9535) mantic
 9536) geomantical + geomantic
+
+
+V2.32 (ongoing)
+3-DEC-2015
+9537) Horatian
+9538) explicator
+9539) explicatory
+9540) Palladian
+9541) Palladianism
+9542) Piccadilly
+9543) Orcadian (+plural)
+9544) Trumland (name)
+9545) Caithness (+'s - name - Wikipedia)
+9546) Rousay (+'s - name - Wikipedia)
+9547) Shapinsay (+'s - name - Wikipedia)
+9548) Oddie (+'s - name - Wikipedia)
+9549) Govan (+'s - name - Wikipedia)
+9550) Diane's (added the 's - name - Wikipedia)
+9551) Lynch (+'s - name - Wikipedia)
+9552) Selwyn's (added the 's - name - Wikipedia)
+9553) Camilla's (added the 's - name - Wikipedia)
+9554) overanalysis
+9555) overanalyse (+s +ing +ed)
+9556) diegesis
+9557) diegeses (plural of previous word)
+9558) diegetic
+9559) Harring (+'s - name - Wikipedia)
+9560) dieffenbachia (+plural)
+9561) horticulturalist (+plural)
+9562) unreviewed
+9563) Wikipedians (added plural)
+9564) unversioned (Wiktionary)
+9565) autoconfirm (+s +ing +ed +ion - Wiktionary)
+9566) vandalistic
+9567) vandalistically
+9568) HTML's (added the 's + uppercase - Wikipedia)
+9569) wikiquette (Wiktionary)
+9570) reasonability
+9571) cherry-pick (+s +ing +ed)
+9572) Reagle (+'s - name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.31
+British English Dictionary (Forked) 2.32
 by Marco A.G.Pinto
