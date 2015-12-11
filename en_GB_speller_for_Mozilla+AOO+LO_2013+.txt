@@ -12018,6 +12018,114 @@ V2.32 (ongoing)
 9570) reasonability
 9571) cherry-pick (+s +ing +ed)
 9572) Reagle (+'s - name - Wikipedia)
+
+7-DEC-2015
+9573) BlackBerry (+s +ing +ed)
+9574) wolfberry (+plural)
+9575) bloodletter
+9576) bloodish
+9577) bloodshedder
+9578) tear-stained
+9579) bloodshedding
+9580) blepharitis
+9581) keratitis
+9582) iritis
+9583) atherosclerotic
+9584) atheroma
+9585) atheromatous
+9586) distensibility
+9587) distensible
+9588) haemodynamic
+9589) haemodynamically
+9590) haemodynamics
+9591) photoreceptors (added plural)
+9592) electromedical
+9593) ferrites (added plural)
+9594) ferritic
+9595) martensite (+ic)
+9596) martempering
+9597) martempered
+9598) martellato
+9599) Martello (+plural)
+9600) Napoleonism
+9601) Napoleonically
+9602) Napoleonist
+
+8-DEC-2015
+9603) outrightly
+9604) cutie (+plural - Oxford: informal)
+9605) Marilyn's (added the 's - name - Wikipedia)
+9606) geniculate
+9607) antennule (+plural)
+9608) concavo-convex
+9609) prosome
+9610) copepod (+plural)
+9611) mantid (+plural)
+9612) prothorax
+9613) prothoracic
+9614) prothonotaryship
+9615) protonotary + prothonotary (+plural of both)
+9616) protonosphere
+9617) geocorona
+9618) geocoronal
+9619) geocratic
+9620) geocyclic
+9621) cadastral
+9622) occurrent
+9623) Washingtonian (+plural)
+9624) Washingtonologist
+9625) IPs (added plural - Wiktionary)
+9626) homepage's (added the 's - Wikipedia)
+9627) telepathing + telepathed (merged into telepath - Wiktionary)
+9628) interdimensional (Wiktionary)
+9629) Carrolton (name of place - Wikipedia)
+9630) Galactica (+'s - name of TV series - Wikipedia)
+9631) Okrand (+'s - name - Wikipedia)
+9632) Ragnar (+'s - name - Wikipedia)
+9633) Redbeard (+'s - name - Wikipedia)
+9634) Kristy (+'s - name - Wikipedia)
+9635) Schulman (+'s - name - Wikipedia)
+9636) adverted + adverting (merged into advert)
+9637) aftertaste (fixed: after-taste)
+9638) albedos (added plural)
+9639) aldehydes (added plural)
+
+11-DEC-2015
+9640) Angelus + angelus
+9641) Angelou (+'s - name - Wikipedia)
+9642) Corbin (+'s - name - Wikipedia)
+9643) apostolate (+plural)
+9644) charism (+plural)
+9645) constraining (merged into constrain)
+9646) Smithers (+'s - name - Wikipedia)
+9647) Dostoyevsky (+'s - name - Wikipedia)
+9648) fusionist (+plural)
+9649) fusionism
+9650) Greenock (+'s - name - Wikipedia)
+9651) Crawfurd (+'s - name - Wikipedia)
+9652) Gourock (+'s - name - Wikipedia)
+9653) greenlet
+9654) greenless
+9655) Greenlandman
+9656) Greenlandish
+9657) Greenlander (+plural)
+9658) greenlandite + greenlandit
+9659) mezzotint (+s +ing +ed +er +ers)
+9660) Morland (+'s - name - Wikipedia)
+9661) Glenn's (added the 's - name - Wikipedia)
+9662) STI (+plural - Abbreviation: sexually transmitted infection)
+9663) papillomavirus
+9664) protozoal
+9665) protozoon (joined with protozoon's)
+9666) ureaplasma (+plural)
+9667) mycoplasma (+plural)
+9668) mycoplasmata (another plural of previous word)
+9669) metronidazole
+9670) polyisoprene
+9671) isoprene
+9672) presymptomatic (Collins)
+9673) Salvarsan
+9674) arsphenamine
 =============
 
 British English Dictionary (Forked) 2.32
