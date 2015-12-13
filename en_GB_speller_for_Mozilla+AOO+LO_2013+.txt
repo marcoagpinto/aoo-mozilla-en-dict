@@ -12126,6 +12126,34 @@ V2.32 (ongoing)
 9672) presymptomatic (Collins)
 9673) Salvarsan
 9674) arsphenamine
+
+13-DEC-2015
+9675) apple-cart (removed, Oxford says it is two words)
+9676) auricula (+plural)
+9677) avens
+9678) Ayurveda
+9679) Ayurvedic
+9680) backbeat (+plural)
+9681) balustraded
+9682) baptize (+s +ing +ed - IZE)
+9683) birching + birched (merged into birch)
+9684) biscuity
+9685) blackshirt (+plural - added lowercase)
+9686) Jabotinsky (+'s - name - Wikipedia)
+9687) Lisa's (added the 's - name - Wikipedia)
+9688) Clarkson (+'s - name - Wikipedia)
+9689) Dara (+'s - name - Wikipedia)
+9690) Christiansen's (added the 's - name - Wikipedia)
+9691) kick-boxing
+9692) nutraceutical (+plural)
+9693) neurobiological
+9694) neurobiologist (+plural)
+9695) neurobiochemistry
+9696) neurobics
+9697) neurobehavioural
+9698) psychopharmacology
+9699) psychopharmacological
+9700) psychopharmacologist (+plural)
 =============
 
 British English Dictionary (Forked) 2.32
