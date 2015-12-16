@@ -12154,6 +12154,59 @@ V2.32 (ongoing)
 9698) psychopharmacology
 9699) psychopharmacological
 9700) psychopharmacologist (+plural)
+
+15-DEC-2015
+9701) Enigmail (+'s - name of Mozilla add-on)
+9702) misenter (+s +ing +ed - Wiktionary)
+9703) Canute (+'s - name - Wikipedia)
+9704) rewrap (+s +ing +ed)
+9705) logfile (+plural - Wiktionary)
+9706) Josie (+'s - name - Wikipedia)
+9707) posey (+ier +iest - Oxford: informal)
+9708) mag (+plural - Oxford: informal)
+9709) mimeo
+9710) Berrigan (+'s - name - Wikipedia)
+9711) detachability
+9712) performative (+plural)
+9713) performativity
+9714) constative (+plural)
+9715) polysiloxane
+9716) phenylmethyl (Collins)
+9717) GUI's (added the 's - Wikipedia)
+9718) rebuffer (+s +ing +ed - Wiktionary)
+9719) upsample (+s +ing +ed - Wiktionary)
+9720) blockiness (Collins)
+9721) Netflix’s (added the 's)
+9722) downsample (+s +ing +ed - Wiktionary)
+
+16-DEC-2015
+9723) choosable (Wiktionary)
+9724) bootboy (+plural)
+9725) bootie (added singular)
+9726) outsole (+plural)
+9727) Thinsulate (Oxford: trademark)
+9728) minibreak (+plural)
+9729) NASCAR (abbreviation: National Association for Stock Car Auto Racing)
+9730) minicell
+9731) minicar (+plural)
+9732) minichain
+9733) minichromosome
+9734) minicircle
+9735) kinetoplast (+plural)
+9736) kinetoscope (+plural)
+9737) Leysdown (Wikipedia - name of place)
+9738) unrefuted
+9739) microscopists (added plural)
+9740) photocycle
+9741) reorganizational
+9742) reorganizationist
+9743) reovirus
+9744) enteric
+9745) ante-mortem
+9746) mediastinum
+9747) mediastina (plural of previous word)
+9748) mediastinal
+9749) mediastinoscopy
 =============
 
 British English Dictionary (Forked) 2.32
