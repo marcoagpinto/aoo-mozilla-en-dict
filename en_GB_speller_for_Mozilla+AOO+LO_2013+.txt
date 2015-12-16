@@ -12207,6 +12207,8 @@ V2.32 (ongoing)
 9747) mediastina (plural of previous word)
 9748) mediastinal
 9749) mediastinoscopy
+9750) prereform
+9751) postreform (Wiktionary)
 =============
 
 British English Dictionary (Forked) 2.32
