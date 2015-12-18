@@ -12209,6 +12209,64 @@ V2.32 (ongoing)
 9749) mediastinoscopy
 9750) prereform
 9751) postreform (Wiktionary)
+
+17-DEC-2015
+9752) tragical
+9753) bathypelagic
+9754) octopod (+plural)
+9755) blastocyst (+plural)
+9756) blastula
+9757) blastulae (plural of previous word)
+9758) denticulation (+plural)
+9759) septal
+9760) atrioventricular
+9761) endocardial
+9762) parapophysis
+9763) parapolitical
+9764) parapolar
+9765) parapod
+9766) iOS's (added the 's - Wikipedia)
+9767) polyamine
+9768) polyamidation
+9769) polyamide (+plural)
+9770) adipic (adipic acid)
+9771) adipoceration
+9772) adipocere
+9773) hypotensive
+9774) normotensive
+9775) vagus
+9776) vagi (plural of previous word)
+9777) ventifact (+plural)
+9778) erraticism
+9779) speech-making
+9780) speech-maker (+plural)
+9781) countermark (added +s +ing +ed)
+9782) sublibrary (+plural - Wiktionary)
+9783) subrectangular (Wiktionary)
+9784) subsensible (Collins)
+9785) suboption (+plural - Wiktionary)
+9786) suborganization (+plural - Collins - IZE)
+9787) suborganisation (+plural - Collins - ISE)
+9788) suboval
+9789) subovoid
+9790) suboptimum
+9791) suboperation (+plural - Wiktionary)
+9792) Ascher (+'s - name - Wikipedia)
+9793) Plohman (name - Wikipedia)
+9794) Gervase (+'s - name - Wikipedia)
+9795) Phipps (+'s - name - Wikipedia)
+9796) PEP (+plural +'s - abbreviation: Political and Economic Planning)
+9797) penectomy
+9798) orchiectomy (+plural - Collins)
+9799) orchidectomy (+plural - Collins)
+9800) curette (+s +ing +ed)
+9801) electrodesiccation
+9802) osteotome (+plural)
+9803) cerumen
+9804) zoster (herpes zoster)
+9805) photosensitivity
+9806) urticaria
+9807) omeprazole
 =============
 
 British English Dictionary (Forked) 2.32
