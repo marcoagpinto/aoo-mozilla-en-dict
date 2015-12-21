@@ -12267,6 +12267,135 @@ V2.32 (ongoing)
 9805) photosensitivity
 9806) urticaria
 9807) omeprazole
+
+18-DEC-2015
+9808) bing
+9809) Bing (Microsoft)
+9810) OneDrive (Microsoft)
+9811) Silverlight (Microsoft)
+9812) subparagraph (+plural - Collins)
+9813) sublicensee (+plural - Wiktionary)
+9814) sublicenses (added plural)
+9815) Satya (+'s - name - Wikipedia)
+9816) Nadella (+'s - name - Wikipedia)
+9817) MSDN (Microsoft)
+9818) Altair (+'s - name - Wikipedia)
+9819) Bellevue (+'s - name - Wikipedia)
+9820) rebrands + rebranded (merged into rebrand)
+9821) Gates (+'s - name - Wikipedia)
+9822) Ballmer (+'s - name - Wikipedia)
+9823) Gartner (+'s - name - Wikipedia)
+9824) CE
+9825) Ce
+9826) Klawe (+'s - name - Wikipedia)
+9827) Moody (+'s - name - Wikipedia)
+9828) write-down (+plural)
+9829) TCO (abbreviation: Total cost of Ownership)
+9830) videocasts (added plural)
+9831) Issaquah (+'s - name - Wikipedia)
+9832) anglicized + anglicised (fixed: it was in uppercase)
+9833) Gilman (+'s - name - Wikipedia)
+9834) regauge (+s +ing +ed)
+9835) Sammamish (+'s - name - Wikipedia)
+9836) regelate (+ed +ion)
+9837) calorifically
+9838) smokelessly
+9839) tostada + tostado (+plural of both)
+9840) tosylate (+plural)
+9841) nonactivated (Collins)
+9842) adrenergic
+9843) histaminic
+9844) muscarinic
+9845) hyperreactivity (Collins)
+9846) submucosal
+9847) muscularis
+9848) tunica
+9849) tunicae (plural of previous word)
+9850) insectile
+9851) insectarium + insectary (+plural of both)
+9852) avicularium
+9853) avicularia (plural of previous word)
+9854) Earlybird (Mozilla)
+
+21-DEC-2015
+9855) woodman + woodmen
+9856) woodsmoke
+9857) workless (+ness)
+9858) Wordsworthiana
+9859) workpieces (added plural)
+9860) bowie (+plural)
+9861) bradycardia
+9862) caliper (+plural)
+9863) caparisoned
+9864) carabiniere
+9865) carabinieri (plural of previous word)
+9866) carboxyl + carboxy
+9867) casuals (added plural)
+9868) catheterization (-IZE)
+9869) catheterisation (-ISE)
+9870) bacteriuria
+9871) prostatitis
+9872) pyelonephritis
+9873) pyelonephritic
+9874) pyuria
+9875) haematuria
+9876) cedarwood (Collins)
+9877) ceilidhs (added plural)
+9878) celeriac
+9879) VLC (+'s - name of software)
+9880) bidimensional (Wiktionary)
+9881) tridimensional (Collins)
+9882) four-dimensional
+9883) coromandel
+9884) lacquerware
+9885) lacquerwork
+9886) japan (+s +ing +ed - noun + verb)
+9887) Jap (+plural - offensive - short for Japanese - Wiktionary)
+9888) arse-licking (vulgar slang)
+9889) arse-licker (vulgar slang)
+9890) postlanding (Collins)
+9891) beanfeast (+plural)
+9892) believingly
+9893) freezingly (Collins)
+9894) bobbish (Collins - slang)
+9895) breaktime (Collins)
+9896) nanofibre (+plural)
+9897) oxysulphide
+9898) cashpoint (+plural)
+9899) classmanship
+9900) clicket (Collins)
+9901) clubbable
+9902) clubbability
+9903) costermonger (+plural)
+9904) cream-crackered
+9905) decenary + decinary + decennary
+9906) declinatory
+9907) eyeable
+9908) faceache (Oxford: informal)
+9909) fandabidozi (Collins)
+9910) Fenian (+plural)
+9911) Fenianism
+9912) fibrescope (+plural)
+9913) flasket (Collins)
+9914) flaysome (Collins)
+9915) flyman
+9916) flymen (plural of previous word)
+9917) foretop (+plural)
+9918) forjudge + forejudge
+9919) formularise (+s +ing +ed)
+9920) forspeak (Collins)
+9921) freeload (+s +ing +ed +er +ers)
+9922) fundholder (added singular)
+9923) garibaldi (+plural)
+9924) gastropub (+plural)
+9925) gemminess
+9926) gyratory (+plural)
+9927) elevatory
+9928) incubatory
+9929) modificatory
+9930) pulsatory
+9931) clarificatory
+9932) denigratory
 =============
 
 British English Dictionary (Forked) 2.32
