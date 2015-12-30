@@ -1,4 +1,4 @@
-# Affix file for British English MySpell dictionary
+# Affix file for British English MySpell dictionary.
 # Also suitable as basis for Commonwealth and European English.
 # Built from scratch for MySpell. Released under LGPL.
 #
@@ -12,7 +12,7 @@
 #   6) Physical dictionaries.
 #
 # David Bartlett, Andrew Brown, Kevin Atkinson, Marco A.G.Pinto.
-# R 2.31, 2015-12-01
+# R 2.32, 2016-01-01
 
 SET UTF-8
 

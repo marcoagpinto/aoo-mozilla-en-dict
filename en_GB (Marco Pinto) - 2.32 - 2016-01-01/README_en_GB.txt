@@ -76,7 +76,7 @@ The sources used to verify the spelling of the words I included in the dictionar
 
 Main difficulties developing this dictionary:
 1) Proper names;
-2) Words ending with 's;
+2) Possessive forms;
 3) Plurals.
 
 Please let Marco A.G.Pinto know of any errors that you find:
@@ -11266,3 +11266,474 @@ V2.31 - 1-DEC-2015
 9534) manticore (+plural)
 9535) mantic
 9536) geomantical + geomantic
+
+
+V2.32 - 1-JAN-2016
+------------------
+9537) Horatian
+9538) explicator
+9539) explicatory
+9540) Palladian
+9541) Palladianism
+9542) Piccadilly
+9543) Orcadian (+plural)
+9544) Trumland (name)
+9545) Caithness (+'s - name - Wikipedia)
+9546) Rousay (+'s - name - Wikipedia)
+9547) Shapinsay (+'s - name - Wikipedia)
+9548) Oddie (+'s - name - Wikipedia)
+9549) Govan (+'s - name - Wikipedia)
+9550) Diane's (added the 's - name - Wikipedia)
+9551) Lynch (+'s - name - Wikipedia)
+9552) Selwyn's (added the 's - name - Wikipedia)
+9553) Camilla's (added the 's - name - Wikipedia)
+9554) overanalysis
+9555) overanalyse (+s +ing +ed)
+9556) diegesis
+9557) diegeses (plural of previous word)
+9558) diegetic
+9559) Harring (+'s - name - Wikipedia)
+9560) dieffenbachia (+plural)
+9561) horticulturalist (+plural)
+9562) unreviewed
+9563) Wikipedians (added plural)
+9564) unversioned (Wiktionary)
+9565) autoconfirm (+s +ing +ed +ion - Wiktionary)
+9566) vandalistic
+9567) vandalistically
+9568) HTML's (added the 's + uppercase - Wikipedia)
+9569) wikiquette (Wiktionary)
+9570) reasonability
+9571) cherry-pick (+s +ing +ed)
+9572) Reagle (+'s - name - Wikipedia)
+9573) BlackBerry (+s +ing +ed)
+9574) wolfberry (+plural)
+9575) bloodletter
+9576) bloodish
+9577) bloodshedder
+9578) tear-stained
+9579) bloodshedding
+9580) blepharitis
+9581) keratitis
+9582) iritis
+9583) atherosclerotic
+9584) atheroma
+9585) atheromatous
+9586) distensibility
+9587) distensible
+9588) haemodynamic
+9589) haemodynamically
+9590) haemodynamics
+9591) photoreceptors (added plural)
+9592) electromedical
+9593) ferrites (added plural)
+9594) ferritic
+9595) martensite (+ic)
+9596) martempering
+9597) martempered
+9598) martellato
+9599) Martello (+plural)
+9600) Napoleonism
+9601) Napoleonically
+9602) Napoleonist
+9603) outrightly
+9604) cutie (+plural - Oxford: informal)
+9605) Marilyn's (added the 's - name - Wikipedia)
+9606) geniculate
+9607) antennule (+plural)
+9608) concavo-convex
+9609) prosome
+9610) copepod (+plural)
+9611) mantid (+plural)
+9612) prothorax
+9613) prothoracic
+9614) prothonotaryship
+9615) protonotary + prothonotary (+plural of both)
+9616) protonosphere
+9617) geocorona
+9618) geocoronal
+9619) geocratic
+9620) geocyclic
+9621) cadastral
+9622) occurrent
+9623) Washingtonian (+plural)
+9624) Washingtonologist
+9625) IPs (added plural - Wiktionary)
+9626) homepage's (added the 's - Wikipedia)
+9627) telepathing + telepathed (merged into telepath - Wiktionary)
+9628) interdimensional (Wiktionary)
+9629) Carrolton (name of place - Wikipedia)
+9630) Galactica (+'s - name of TV series - Wikipedia)
+9631) Okrand (+'s - name - Wikipedia)
+9632) Ragnar (+'s - name - Wikipedia)
+9633) Redbeard (+'s - name - Wikipedia)
+9634) Kristy (+'s - name - Wikipedia)
+9635) Schulman (+'s - name - Wikipedia)
+9636) adverted + adverting (merged into advert)
+9637) aftertaste (fixed: after-taste)
+9638) albedos (added plural)
+9639) aldehydes (added plural)
+9640) Angelus + angelus
+9641) Angelou (+'s - name - Wikipedia)
+9642) Corbin (+'s - name - Wikipedia)
+9643) apostolate (+plural)
+9644) charism (+plural)
+9645) constraining (merged into constrain)
+9646) Smithers (+'s - name - Wikipedia)
+9647) Dostoyevsky (+'s - name - Wikipedia)
+9648) fusionist (+plural)
+9649) fusionism
+9650) Greenock (+'s - name - Wikipedia)
+9651) Crawfurd (+'s - name - Wikipedia)
+9652) Gourock (+'s - name - Wikipedia)
+9653) greenlet
+9654) greenless
+9655) Greenlandman
+9656) Greenlandish
+9657) Greenlander (+plural)
+9658) greenlandite + greenlandit
+9659) mezzotint (+s +ing +ed +er +ers)
+9660) Morland (+'s - name - Wikipedia)
+9661) Glenn's (added the 's - name - Wikipedia)
+9662) STI (+plural - Abbreviation: sexually transmitted infection)
+9663) papillomavirus
+9664) protozoal
+9665) protozoon (joined with protozoon's)
+9666) ureaplasma (+plural)
+9667) mycoplasma (+plural)
+9668) mycoplasmata (another plural of previous word)
+9669) metronidazole
+9670) polyisoprene
+9671) isoprene
+9672) presymptomatic (Collins)
+9673) Salvarsan
+9674) arsphenamine
+9675) apple-cart (removed, Oxford says it is two words)
+9676) auricula (+plural)
+9677) avens
+9678) Ayurveda
+9679) Ayurvedic
+9680) backbeat (+plural)
+9681) balustraded
+9682) baptize (+s +ing +ed - IZE)
+9683) birching + birched (merged into birch)
+9684) biscuity
+9685) blackshirt (+plural - added lowercase)
+9686) Jabotinsky (+'s - name - Wikipedia)
+9687) Lisa's (added the 's - name - Wikipedia)
+9688) Clarkson (+'s - name - Wikipedia)
+9689) Dara (+'s - name - Wikipedia)
+9690) Christiansen's (added the 's - name - Wikipedia)
+9691) kick-boxing
+9692) nutraceutical (+plural)
+9693) neurobiological
+9694) neurobiologist (+plural)
+9695) neurobiochemistry
+9696) neurobics
+9697) neurobehavioural
+9698) psychopharmacology
+9699) psychopharmacological
+9700) psychopharmacologist (+plural)
+9701) Enigmail (+'s - name of Mozilla add-on)
+9702) misenter (+s +ing +ed - Wiktionary)
+9703) Canute (+'s - name - Wikipedia)
+9704) rewrap (+s +ing +ed)
+9705) logfile (+plural - Wiktionary)
+9706) Josie (+'s - name - Wikipedia)
+9707) posey (+ier +iest - Oxford: informal)
+9708) mag (+plural - Oxford: informal)
+9709) mimeo
+9710) Berrigan (+'s - name - Wikipedia)
+9711) detachability
+9712) performative (+plural)
+9713) performativity
+9714) constative (+plural)
+9715) polysiloxane
+9716) phenylmethyl (Collins)
+9717) GUI's (added the 's - Wikipedia)
+9718) rebuffer (+s +ing +ed - Wiktionary)
+9719) upsample (+s +ing +ed - Wiktionary)
+9720) blockiness (Collins)
+9721) Netflix’s (added the 's)
+9722) downsample (+s +ing +ed - Wiktionary)
+9723) choosable (Wiktionary)
+9724) bootboy (+plural)
+9725) bootie (added singular)
+9726) outsole (+plural)
+9727) Thinsulate (Oxford: trademark)
+9728) minibreak (+plural)
+9729) NASCAR (abbreviation: National Association for Stock Car Auto Racing)
+9730) minicell
+9731) minicar (+plural)
+9732) minichain
+9733) minichromosome
+9734) minicircle
+9735) kinetoplast (+plural)
+9736) kinetoscope (+plural)
+9737) Leysdown (Wikipedia - name of place)
+9738) unrefuted
+9739) microscopists (added plural)
+9740) photocycle
+9741) reorganizational
+9742) reorganizationist
+9743) reovirus
+9744) enteric
+9745) ante-mortem
+9746) mediastinum
+9747) mediastina (plural of previous word)
+9748) mediastinal
+9749) mediastinoscopy
+9750) prereform
+9751) postreform (Wiktionary)
+9752) tragical
+9753) bathypelagic
+9754) octopod (+plural)
+9755) blastocyst (+plural)
+9756) blastula
+9757) blastulae (plural of previous word)
+9758) denticulation (+plural)
+9759) septal
+9760) atrioventricular
+9761) endocardial
+9762) parapophysis
+9763) parapolitical
+9764) parapolar
+9765) parapod
+9766) iOS's (added the 's - Wikipedia)
+9767) polyamine
+9768) polyamidation
+9769) polyamide (+plural)
+9770) adipic (adipic acid)
+9771) adipoceration
+9772) adipocere
+9773) hypotensive
+9774) normotensive
+9775) vagus
+9776) vagi (plural of previous word)
+9777) ventifact (+plural)
+9778) erraticism
+9779) speech-making
+9780) speech-maker (+plural)
+9781) countermark (added +s +ing +ed)
+9782) sublibrary (+plural - Wiktionary)
+9783) subrectangular (Wiktionary)
+9784) subsensible (Collins)
+9785) suboption (+plural - Wiktionary)
+9786) suborganization (+plural - Collins - IZE)
+9787) suborganisation (+plural - Collins - ISE)
+9788) suboval
+9789) subovoid
+9790) suboptimum
+9791) suboperation (+plural - Wiktionary)
+9792) Ascher (+'s - name - Wikipedia)
+9793) Plohman (name - Wikipedia)
+9794) Gervase (+'s - name - Wikipedia)
+9795) Phipps (+'s - name - Wikipedia)
+9796) PEP (+plural +'s - abbreviation: Political and Economic Planning)
+9797) penectomy
+9798) orchiectomy (+plural - Collins)
+9799) orchidectomy (+plural - Collins)
+9800) curette (+s +ing +ed)
+9801) electrodesiccation
+9802) osteotome (+plural)
+9803) cerumen
+9804) zoster (herpes zoster)
+9805) photosensitivity
+9806) urticaria
+9807) omeprazole
+9808) bing
+9809) Bing (Microsoft)
+9810) OneDrive (Microsoft)
+9811) Silverlight (Microsoft)
+9812) subparagraph (+plural - Collins)
+9813) sublicensee (+plural - Wiktionary)
+9814) sublicenses (added plural)
+9815) Satya (+'s - name - Wikipedia)
+9816) Nadella (+'s - name - Wikipedia)
+9817) MSDN (Microsoft)
+9818) Altair (+'s - name - Wikipedia)
+9819) Bellevue (+'s - name - Wikipedia)
+9820) rebrands + rebranded (merged into rebrand)
+9821) Gates (+'s - name - Wikipedia)
+9822) Ballmer (+'s - name - Wikipedia)
+9823) Gartner (+'s - name - Wikipedia)
+9824) CE
+9825) Ce
+9826) Klawe (+'s - name - Wikipedia)
+9827) Moody (+'s - name - Wikipedia)
+9828) write-down (+plural)
+9829) TCO (abbreviation: Total cost of Ownership)
+9830) videocasts (added plural)
+9831) Issaquah (+'s - name - Wikipedia)
+9832) anglicized + anglicised (fixed: it was in uppercase)
+9833) Gilman (+'s - name - Wikipedia)
+9834) regauge (+s +ing +ed)
+9835) Sammamish (+'s - name - Wikipedia)
+9836) regelate (+ed +ion)
+9837) calorifically
+9838) smokelessly
+9839) tostada + tostado (+plural of both)
+9840) tosylate (+plural)
+9841) nonactivated (Collins)
+9842) adrenergic
+9843) histaminic
+9844) muscarinic
+9845) hyperreactivity (Collins)
+9846) submucosal
+9847) muscularis
+9848) tunica
+9849) tunicae (plural of previous word)
+9850) insectile
+9851) insectarium + insectary (+plural of both)
+9852) avicularium
+9853) avicularia (plural of previous word)
+9854) Earlybird (Mozilla)
+9855) woodman + woodmen
+9856) woodsmoke
+9857) workless (+ness)
+9858) Wordsworthiana
+9859) workpieces (added plural)
+9860) bowie (+plural)
+9861) bradycardia
+9862) caliper (+plural)
+9863) caparisoned
+9864) carabiniere
+9865) carabinieri (plural of previous word)
+9866) carboxyl + carboxy
+9867) casuals (added plural)
+9868) catheterization (-IZE)
+9869) catheterisation (-ISE)
+9870) bacteriuria
+9871) prostatitis
+9872) pyelonephritis
+9873) pyelonephritic
+9874) pyuria
+9875) haematuria
+9876) cedarwood (Collins)
+9877) ceilidhs (added plural)
+9878) celeriac
+9879) VLC (+'s - name of software)
+9880) bidimensional (Wiktionary)
+9881) tridimensional (Collins)
+9882) four-dimensional
+9883) coromandel
+9884) lacquerware
+9885) lacquerwork
+9886) japan (+s +ing +ed - noun + verb)
+9887) Jap (+plural - offensive - short for Japanese - Wiktionary)
+9888) arse-licking (vulgar slang)
+9889) arse-licker (vulgar slang)
+9890) postlanding (Collins)
+9891) beanfeast (+plural)
+9892) believingly
+9893) freezingly (Collins)
+9894) bobbish (Collins - slang)
+9895) breaktime (Collins)
+9896) nanofibre (+plural)
+9897) oxysulphide
+9898) cashpoint (+plural)
+9899) classmanship
+9900) clicket (Collins)
+9901) clubbable
+9902) clubbability
+9903) costermonger (+plural)
+9904) cream-crackered
+9905) decenary + decinary + decennary
+9906) declinatory
+9907) eyeable
+9908) faceache (Oxford: informal)
+9909) fandabidozi (Collins)
+9910) Fenian (+plural)
+9911) Fenianism
+9912) fibrescope (+plural)
+9913) flasket (Collins)
+9914) flaysome (Collins)
+9915) flyman
+9916) flymen (plural of previous word)
+9917) foretop (+plural)
+9918) forjudge + forejudge
+9919) formularise (+s +ing +ed)
+9920) forspeak (Collins)
+9921) freeload (+s +ing +ed +er +ers)
+9922) fundholder (added singular)
+9923) garibaldi (+plural)
+9924) gastropub (+plural)
+9925) gemminess
+9926) gyratory (+plural)
+9927) elevatory
+9928) incubatory
+9929) modificatory
+9930) pulsatory
+9931) clarificatory
+9932) denigratory
+9933) Obi (+'s - name - Wikipedia)
+9934) Obi-Wan (+'s - name - Wikipedia)
+9935) Kenobi (+'s - name - Wikipedia)
+9936) Anakin (+'s - name - Wikipedia)
+9937) Skywalker (+'s - name - Wikipedia)
+9938) Jedi (+plural +'s)
+9939) Sith (+'s - name - Wikipedia)
+9940) McCallum (+'s - name - Wikipedia)
+9941) Ewan (+'s - name - Wikipedia)
+9942) Portman (+'s - name - Wikipedia)
+9943) McDiarmid (+'s - name - Wikipedia)
+9944) Lucasfilm (+'s - name - Wikipedia)
+9945) workprint
+9946) lightsaber (+plural)
+9947) Coruscant (+'s - name - Wikipedia)
+9948) Palpatine (+'s - name - Wikipedia)
+9949) Padmé (+'s - name - Wikipedia)
+9950) Colton (+'s - name - Wikipedia)
+9951) Chewbacca (+'s - name - Wikipedia)
+9952) Kamino (+'s - name - Wikipedia)
+9953) refilm (+s +ing +ed - Wiktionary)
+9954) animatic (+plural)
+9955) pre-visualize + previsualise + previsualize
+9956) Shepperton (+'s - name - Wikipedia)
+9957) Elstree (+'s - name - Wikipedia)
+9958) armlock (+plural)
+9959) Gillard (+'s - name - Wikipedia)
+9960) Oldman (+'s - name - Wikipedia)
+9961) Smithee (+'s - name - Wikipedia)
+9962) Grauman (+'s - name - Wikipedia)
+9963) Rosenbaum (+'s - name - Wikipedia)
+9964) outgross (+s +ing +ed)
+9965) Narnia (+'s - name - Wikipedia)
+9966) Elsey (+'s - name - Wikipedia)
+9967) Gooley (+'s - name - Wikipedia)
+9968) Razzie (+'s - name - Wikipedia)
+9969) Windu (+'s - name - Wikipedia)
+9970) Sidious (+'s - name - Wikipedia)
+9971) Leia (+'s - name - Wikipedia)
+9972) Han (+'s - name - Wikipedia)
+9973) Jaina (+'s - name - Wikipedia)
+9974) provene
+9975) Bridger (+'s - name - Wikipedia)
+9976) Katarn (+'s - name - Wikipedia)
+9977) Qui-Gon (+'s - name - Wikipedia)
+9978) Organa (+'s - name - Wikipedia)
+9979) Jacen (+'s - name - Wikipedia)
+9980) unlogical (Wiktionary)
+9981) Twichell (+'s - name - Wikipedia)
+9982) Corso (+'s - name - Wikipedia)
+9983) McKinnon (+'s - name - Wikipedia)
+9984) Tomkins (+'s - name - Wikipedia)
+9985) Puckett (+'s - name - Wikipedia)
+9986) Elmwood (+'s - name - Wikipedia)
+9987) Medford (+'s - name - Wikipedia)
+9988) Georgie (+'s - name - Wikipedia)
+9989) Pedrick (+'s - name - Wikipedia)
+9990) Bucksch (name - Wikipedia)
+9991) Koelmeyer (name - Wikipedia)
+9992) Grandon (+'s - name - Wikipedia)
+9993) rammelly + rambly
+9994) Fernhout (name - Wikipedia)
+9995) xlsx
+9996) UX (abbreviation: user experience)
+9997) uxoricide
+9998) uxoricidal
+9999) uxoriously
+10000) uxoriousness
+10001) uxorilocal
+10002) matrilocal
+10003) matrilocality

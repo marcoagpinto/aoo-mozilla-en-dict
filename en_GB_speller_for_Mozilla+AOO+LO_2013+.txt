@@ -11980,7 +11980,7 @@ V2.31
 9536) geomantical + geomantic
 
 
-V2.32 (ongoing)
+V2.32
 3-DEC-2015
 9537) Horatian
 9538) explicator
@@ -12396,6 +12396,79 @@ V2.32 (ongoing)
 9930) pulsatory
 9931) clarificatory
 9932) denigratory
+
+24-DEC-2015
+9933) Obi (+'s - name - Wikipedia)
+9934) Obi-Wan (+'s - name - Wikipedia)
+9935) Kenobi (+'s - name - Wikipedia)
+9936) Anakin (+'s - name - Wikipedia)
+9937) Skywalker (+'s - name - Wikipedia)
+9938) Jedi (+plural +'s)
+9939) Sith (+'s - name - Wikipedia)
+9940) McCallum (+'s - name - Wikipedia)
+9941) Ewan (+'s - name - Wikipedia)
+9942) Portman (+'s - name - Wikipedia)
+9943) McDiarmid (+'s - name - Wikipedia)
+9944) Lucasfilm (+'s - name - Wikipedia)
+9945) workprint
+9946) lightsaber (+plural)
+9947) Coruscant (+'s - name - Wikipedia)
+9948) Palpatine (+'s - name - Wikipedia)
+9949) Padmé (+'s - name - Wikipedia)
+9950) Colton (+'s - name - Wikipedia)
+9951) Chewbacca (+'s - name - Wikipedia)
+9952) Kamino (+'s - name - Wikipedia)
+9953) refilm (+s +ing +ed - Wiktionary)
+9954) animatic (+plural)
+9955) pre-visualize + previsualise + previsualize
+9956) Shepperton (+'s - name - Wikipedia)
+9957) Elstree (+'s - name - Wikipedia)
+9958) armlock (+plural)
+9959) Gillard (+'s - name - Wikipedia)
+9960) Oldman (+'s - name - Wikipedia)
+9961) Smithee (+'s - name - Wikipedia)
+9962) Grauman (+'s - name - Wikipedia)
+9963) Rosenbaum (+'s - name - Wikipedia)
+9964) outgross (+s +ing +ed)
+9965) Narnia (+'s - name - Wikipedia)
+9966) Elsey (+'s - name - Wikipedia)
+9967) Gooley (+'s - name - Wikipedia)
+9968) Razzie (+'s - name - Wikipedia)
+9969) Windu (+'s - name - Wikipedia)
+9970) Sidious (+'s - name - Wikipedia)
+9971) Leia (+'s - name - Wikipedia)
+9972) Han (+'s - name - Wikipedia)
+9973) Jaina (+'s - name - Wikipedia)
+9974) provene
+9975) Bridger (+'s - name - Wikipedia)
+9976) Katarn (+'s - name - Wikipedia)
+9977) Qui-Gon (+'s - name - Wikipedia)
+9978) Organa (+'s - name - Wikipedia)
+9979) Jacen (+'s - name - Wikipedia)
+9980) unlogical (Wiktionary)
+9981) Twichell (+'s - name - Wikipedia)
+9982) Corso (+'s - name - Wikipedia)
+9983) McKinnon (+'s - name - Wikipedia)
+9984) Tomkins (+'s - name - Wikipedia)
+9985) Puckett (+'s - name - Wikipedia)
+9986) Elmwood (+'s - name - Wikipedia)
+9987) Medford (+'s - name - Wikipedia)
+9988) Georgie (+'s - name - Wikipedia)
+9989) Pedrick (+'s - name - Wikipedia)
+9990) Bucksch (name - Wikipedia)
+9991) Koelmeyer (name - Wikipedia)
+9992) Grandon (+'s - name - Wikipedia)
+9993) rammelly + rambly
+9994) Fernhout (name - Wikipedia)
+9995) xlsx
+9996) UX (abbreviation: user experience)
+9997) uxoricide
+9998) uxoricidal
+9999) uxoriously
+10000) uxoriousness
+10001) uxorilocal
+10002) matrilocal
+10003) matrilocality
 =============
 
 British English Dictionary (Forked) 2.32
