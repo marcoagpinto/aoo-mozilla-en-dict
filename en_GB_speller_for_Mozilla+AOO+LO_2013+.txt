@@ -12469,7 +12469,135 @@ V2.32
 10001) uxorilocal
 10002) matrilocal
 10003) matrilocality
+
+
+V2.33 (ongoing)
+2-JAN-2016
+10004) absorbancy
+10005) acetyl
+10006) carboxylate (+plural +ed)
+10007) carboxylation
+10008) oxyanion (+plural)
+10009) xanthene
+10010) protonate (+ed +ion)
+10011) oxaloacetate + oxalacetate
+10012) acyl
+10013) advocator (Collins)
+10014) advocatory
+10015) alkoxy
+10016) alkoxyl
+10017) archaeologic
+10018) archaeomagnetism
+10019) astro-archaeology
+10020) lithic
+10021) andesite
+10022) andesitic
+10023) dacite
+10024) dacitic
+10025) rhyolite
+10026) tuff
+10027) tuffaceous
+10028) diorite (+ic)
+10029) granitoid (+plural)
+10030) granulite (+ic)
+10031) greenstone (+plural)
+10032) asynchronicity (+plural - Wiktionary)
+10033) aureus
+10034) aurei (plural of previous word)
+10035) auteurs (added plural)
+10036) auteurism
+10037) auteurist
+10038) benzyl
+10039) benzoate (+plural)
+10040) lindane
+10041) lycopod (+plural)
+10042) calamites
+10043) caravanserai (+plural)
+10044) cDNA
+10045) ciphertext (+plural - Wiktionary)
+10046) coli (E. coli)
+10047) corrigibility
+10048) pre-reflective
+10049) cytokine (+plural)
+10050) cytometry
+10051) cytometer
+10052) dehydrogenase
+10053) succinate
+10054) dialoguing + dialogued (merged into dialogue)
+10055) dialoguer
+10056) diatomaceous (diatomaceous earth)
+10057) dissentious
+10058) dialogist (+plural)
+
+3-JAN-2016
+10059) vernacularism
+10060) vernacularity
+10061) vernacularize (+s +ing +ed -IZE)
+10062) vernacularise (+s +ing +ed -ISE)
+10063) Shona (+plural)
+10064) Ndebele (+plural)
+10065) Matabele (+plural)
+10066) Matabeleland
+10067) Mashonaland
+10068) Mashona
+10069) Sotho (+plural)
+10070) Mosotho
+10071) Basotho (plural of previous word)
+10072) Sesotho
+10073) isiZulu
+10074) filespace
+10075) Arcata (+'s - name - Wikipedia)
+10076) Moby (+'s - name - Wikipedia)
+10077) Kelk's (added the 's - name - Wikipedia)
+10078) WordNet (+'s)
+10079) crypsis
+10080) counterillumination (Wiktionary)
+10081) accusatorial
+10082) sectorial
+10083) carnassial
+10084) Turkwel (+'s - name - Wikipedia)
+10085) ramus
+10086) rami (plural of previous word)
+10087) ischium
+10088) ischia (plural of previous word)
+10089) ischial
+10090) unmovably + unmoveably
+10091) unmovedly
+10092) Houghton (+'s - name - Wikipedia)
+10093) Rowntree (+'s - name - Wikipedia)
+10094) Grobler (+'s - name - Wikipedia)
+10095) unmovableness
+10096) unmouthable
+10097) Chaparral (+'s - name - Wikipedia)
+10098) unmouldy
+10099) Gayton (+'s - name - Wikipedia)
+10100) unmould
+10101) Mafeking (+'s - name - Wikipedia)
+10102) Beaverbrook (+'s - name - Wikipedia)
+10103) Aitken (+'s - name - Wikipedia)
+10104) Burghley (+'s - name - Wikipedia)
+10105) Brudenell (+'s - name - Wikipedia)
+10106) Curzon (+'s - name - Wikipedia)
+10107) Rizzio (+'s - name - Wikipedia)
+10108) Bothwell (+'s - name - Wikipedia)
+10109) Harewood (+'s - name - Wikipedia)
+10110) Lascelles (+'s - name - Wikipedia)
+10111) Leverhulme (+'s - name - Wikipedia)
+10112) Hesketh (+'s - name - Wikipedia)
+10113) Unilever (+'s - name - Wikipedia)
+10114) Northcliffe (+'s - name - Wikipedia)
+10115) Harmsworth (+'s - name - Wikipedia)
+10116) Rothermere (+'s - name - Wikipedia)
+10117) Nuffield (+'s - name - Wikipedia)
+10118) Palmerston (+'s - name - Wikipedia)
+10119) Reith (+'s - name - Wikipedia)
+10120) Esmond (+'s - name - Wikipedia)
+10121) Vere (+'s - name - Wikipedia)
+10122) Gascoyne-Cecil (+'s - name - Wikipedia)
+10123) Hallam (+'s - name - Wikipedia)
+10124) Shalott (+'s - name - Wikipedia)
+10125) Wavell (+'s - name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.32
+British English Dictionary (Forked) 2.33
 by Marco A.G.Pinto
