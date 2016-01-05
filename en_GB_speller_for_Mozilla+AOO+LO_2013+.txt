@@ -12597,6 +12597,153 @@ V2.33 (ongoing)
 10123) Hallam (+'s - name - Wikipedia)
 10124) Shalott (+'s - name - Wikipedia)
 10125) Wavell (+'s - name - Wikipedia)
+
+5-JAN-2016
+10126) djinn
+10127) donator (+plural)
+10128) misdate (+s +ing +ed)
+10129) egocentrism
+10130) phallocentric
+10131) phallocentricity
+10132) phallocentrism
+10133) theocentric
+10134) durian (+plural)
+10135) rambutan (+plural)
+10136) mangosteen (+plural)
+10137) DVD-audio
+10138) audiospectrogram
+10139) audiospectrograph
+10140) audiospectrometer
+10141) filesystem (+plural - Wiktionary)
+10142) estoppel
+10143) psychomedicine (Wiktionary)
+10144) Caligula's (added the 's - name - Wikipedia)
+10145) exactable
+10146) exactor (+plural)
+10147) exon (+plural)
+10148) exonic
+10149) intron (+plural)
+10150) intronic
+10151) heterochromatic
+10152) heterochromatin
+10153) polytene
+10154) lampbrush (lampbrush chromosome - Collins)
+10155) allozyme
+10156) oocyte (+plural)
+10157) cytogenetics
+10158) cytogenetic
+10159) cytogenetical
+10160) cytogenetically
+10161) cytogeneticist (+plural)
+10162) anopheline
+10163) culex
+10164) culices (plural of previous word)
+10165) culicine (+plural)
+10166) freegan (+plural)
+10167) gigajoule (+plural - Wiktionary)
+10168) greybeards (added plural)
+10169) guestbooks (added plural)
+10170) chatroom (+plural - Wiktionary)
+10171) Taryn (+'s - name - Wikipedia)
+10172) hentai
+10173) hijab (+plural)
+10174) hippopotami
+10175) idolator (+plural - Wiktionary)
+10176) streambed (Collins)
+10177) intermediacy (+plural)
+10178) intermediator (+plural)
+10179) CSV (Wiktionary)
+10180) Magnus (+'s - name - Wikipedia)
+10181) Melin (+'s - name - Wikipedia)
+10182) Hamill (+'s - name - Wikipedia)
+10183) Cushing (+'s - name - Wikipedia)
+10184) Prowse (+'s - name - Wikipedia)
+10185) star's (added the 's)
+10186) Walken (+'s - name - Wikipedia)
+10187) Pacino (+'s - name - Wikipedia)
+10188) Nolte (+'s - name - Wikipedia)
+10189) Nunn (+'s - name - Wikipedia)
+10190) Coppola (+'s - name - Wikipedia)
+10191) McQuarrie (+'s - name - Wikipedia)
+10192) Purvis (+'s - name - Wikipedia)
+10193) Hagon (+'s - name - Wikipedia)
+10194) Vanden (+'s - name - Wikipedia)
+10195) Akira (+'s - name - Wikipedia)
+10196) Kurosawa's (added the 's - name - Wikipedia)
+10197) Lew (+'s - name - Wikipedia)
+10198) Corman (+'s - name - Wikipedia)
+10199) Palma (+'s - name - Wikipedia)
+10200) Cantwell (+'s - name - Wikipedia)
+10201) Barwood (+'s - name - Wikipedia)
+10202) Kubrick's (added the 's - name - Wikipedia)
+10203) mushed
+10204) Tikal (+'s - name - Wikipedia)
+10205) Biggs (+'s - name - Wikipedia)
+10206) shieldless
+10207) Burtt (+'s - name - Wikipedia)
+10208) Lippincott (+'s - name - Wikipedia)
+10209) Jabba (+'s - name - Wikipedia)
+10210) Hutt (+'s - name - Wikipedia)
+10211) Kauffmann (+'s - name - Wikipedia)
+10212) Keough (+'s - name - Wikipedia)
+10213) DeCaro (+'s - name - Wikipedia)
+10214) Brooks (+'s - name - Wikipedia)
+10215) Simpsons (+'s - name - Wikipedia)
+10216) Devlin (+'s - name - Wikipedia)
+10217) Lasseter (+'s - name - Wikipedia)
+10218) Ridley (+'s - name - Wikipedia)
+10219) sealless (Wiktionary)
+10220) Petrarch (+'s - name - Wikipedia)
+10221) Boccaccio (+'s - name - Wikipedia)
+10222) Giotto (+'s - name - Wikipedia)
+10223) da (Leonardo da Vinci)
+10224) remythologize
+10225) remythologization
+10226) remyelination
+10227) myelin
+10228) myelinated
+10229) myelination
+10230) myelencephalon
+10231) myelencephalic
+10232) oblongata (medulla oblongata)
+10233) medspeak
+10234) medroxyprogesterone
+10235) progestogen (+plural)
+10236) neuroactive
+10237) neurotransmission
+10238) vasodilation + vasodilatation
+10239) vasodilator (+plural)
+10240) vasodilatory
+10241) vasovagal
+10242) vasopressor (+plural)
+10243) reinduce (+s +ing +ed - Wiktionary)
+10244) inotropic
+10245) spironolactone
+10246) pharmacologic
+10247) ethnopharmacology
+10248) ethnobotany
+10249) ethnobotanic
+10250) ethnobotanical
+10251) ethnobotanist (+plural)
+10252) destain (+s +ing +ed)
+10253) chemoarchitecture
+10254) chemo-statical
+10255) chemitype
+10256) chemigraphy
+10257) electrogenerated (Wiktionary)
+10258) Amalfi
+10259) lacteals (added plural)
+10260) sifaka (+plural)
+10261) colobus
+10262) vervet (+plural)
+10263) impulsivity
+10264) disinhibit (+s +ing +ed +ion)
+10265) deicidal
+10266) gnostics (added plural)
+10267) Brahmans (added plural)
+10268) Brahmin
+10269) Brahmanic
+10270) Brahmanical
 =============
 
 British English Dictionary (Forked) 2.33
