@@ -12744,6 +12744,85 @@ V2.33 (ongoing)
 10268) Brahmin
 10269) Brahmanic
 10270) Brahmanical
+
+6-JAN-2016
+10271) Balog (+'s - name - Wikipedia)
+10272) Shantanu (+'s - name - Wikipedia)
+10273) Oak (+'s - name - Wikipedia)
+10274) Mohan (+'s - name - Wikipedia)
+10275) Burkhardt (+'s - name - Wikipedia)
+10276) Bennison (+'s - name - Wikipedia)
+10277) Danby (+'s - name - Wikipedia)
+10278) Bouyssou (+'s - name - Wikipedia)
+10279) intersexualism (Collins)
+10280) intersexually (Collins)
+10281) kinase (+plural)
+10282) transduce (+s +ing +ed +ion)
+10283) microcapillary (Wiktionary)
+10284) electroactive
+10285) lector (+plural)
+10286) responsorial
+10287) melismatics
+10288) melisma (+plural)
+10289) melismata (another plural of previous word)
+10290) melismatic
+10291) tritone (+plural)
+10292) tritocerebrum
+10293) tritocerebra (plural of previous word)
+10294) deutocerebrum (Wiktionary)
+10295) deutocerebra (plural of previous word - Wiktionary)
+10296) overexpression
+10297) hypostome (Collins)
+10298) subesophageal (Wiktionary)
+10299) circumesophageal (Wiktionary)
+10300) nonfree (Wiktionary)
+10301) GNU (+'s - name - Wikipedia)
+10302) Flattr (name - Wikipedia)
+10303) FSF (+'s - Free Software Foundation - Wikipedia)
+10304) Cisco (+'s - name - Wikipedia)
+10305) Ravicher (+'s - name - Wikipedia)
+10306) DRM (short for: Digital Rights Management)
+10307) majorly (Oxford: informal)
+10308) Knauth (+'s - name - Wikipedia)
+10309) Chassell (+'s - name - Wikipedia)
+10310) Moglen (+'s - name - Wikipedia)
+10311) Eben (+'s - name - Wikipedia)
+10312) Torvalds (+'s - name - Wikipedia)
+10313) Brockmeier (+'s - name - Wikipedia)
+10314) redistributable (Wiktionary)
+10315) Zimmermann (+'s - name - Wikipedia)
+10316) Phil (+'s - name - Wikipedia)
+10317) introducers (added plural)
+10318) PGP's (added the 's - Wikipedia)
+10319) PKI
+10320) RSA's (added the 's - Wikipedia)
+10321) keyrings (added plural - Wiktionary)
+10322) Psion (+'s - name - Wikipedia)
+10323) suspect's (added the 's - Wikipedia)
+10324) stockman
+10325) stockmen (plural of previous word)
+10326) bedlamp (+plural - Wiktionary)
+10327) woodlark (+plural)
+10328) snowcap (+plural)
+10329) snow-capped (fixed: snowcapped)
+10330) snapline (+plural - Wiktionary)
+10331) nightbird (+plural)
+10332) Algol (Astronomy)
+10333) belowground (Collins)
+10334) lookaside (Wiktionary)
+10335) MMU (+'s - Memory Management Unit - Wikipedia)
+10336) DMA (direct memory access)
+10337) Athlon (+'s - name - Wikipedia)
+10338) SRAM (+plural - Wiktionary)
+10339) misprediction (Wiktionary)
+10340) ns (nanoseconds)
+10341) NS
+10342) Laue (+'s - name - Wikipedia)
+10343) nanoscience
+10344) nanoengineer (+plural +ing Wiktionary)
+10345) nanorod (+plural)
+10346) nanomedicine
+10347) nanobiotechnology
 =============
 
 British English Dictionary (Forked) 2.33
