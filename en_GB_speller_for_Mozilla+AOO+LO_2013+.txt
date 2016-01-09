@@ -12823,6 +12823,149 @@ V2.33 (ongoing)
 10345) nanorod (+plural)
 10346) nanomedicine
 10347) nanobiotechnology
+
+7-JAN-2016
+10348) reflectometer
+10349) reflectometry
+10350) microspectrophotometer (+plural - Wiktionary)
+10351) reflectographic
+10352) reflectionist
+10353) reflectioning
+10354) Stallo (+'s - name - Wikipedia)
+10355) lepidopterist (+plural)
+10356) Grassington (+'s - name - Wikipedia)
+10357) Birdsall (+'s - name - Wikipedia)
+10358) endorphin (added singular)
+10359) deamination
+10360) deaminated
+10361) transaminate (+s +ing +ed +ion)
+10362) locum (+plural)
+10363) histocompatibility
+10364) parabiotically
+10365) parabiosis
+10366) parabiotic
+10367) littermate (+plural)
+10368) caladium (+plural)
+10369) canna (+plural)
+10370) oxalis
+10371) nerine (+plural)
+10372) lamium (+plural)
+10373) convolvulus (+plural)
+10374) spathiphyllum (Collins)
+10375) cicely (+plural)
+10376) mitsuba
+10377) Beral (+'s - name - Wikipedia)
+
+8-JAN-2016
+10378) Maathuis (name - Wikipedia)
+10379) limnology
+10380) limnological
+10381) limnologist (+plural)
+10382) limitrophous
+10383) limitrophe
+10384) coronae (plural of corona)
+10385) calamander
+10386) decarbonize (+s +ing +ed +er +ers +ion -IZE)
+10387) decarbonise (+s +ing +ed +er +ers +ion -ISE)
+10388) decapsulate (+s +ing +ed +ion)
+10389) tri-band
+10390) tri-axle (+plural)
+10391) dropsies (added plural of dropsy)
+10392) McCloy (+'s - name - Wikipedia)
+10393) claudication
+10394) adenocarcinoma (+plural)
+10395) adenocarcinomata (another plural of previous word)
+10396) alkalosis
+10397) hypokalaemia
+10398) hypokalaemic
+10399) myopathy (+plural)
+10400) myopathic
+10401) myoneural
+10402) myonecrotic
+10403) myonecrosis
+10404) myomorph (+ic)
+10405) Myomorpha
+10406) myometrium
+10407) myometrial
+10408) GeForce (name of graphic board)
+10409) synergize + synergise
+10410) pro-oxidant + proöxidant
+10411) wildcard (+plural - Wiktionary)
+10412) weaponise (+s +ing +ed -ISE)
+10413) weaponize (+s +ing +ed -IZE)
+10414) volcanology + vulcanology
+10415) volcanological
+10416) volcanologist (+plural)
+10417) undesignated
+10418) undesigned
+10419) undesignedly
+10420) interwind
+10421) interwound (past of previous word)
+10422) shitloads (added plural)
+10423) retumescence
+10424) retumble
+10425) retube
+10426) plaintext (Collins)
+10427) linguistical
+10428) miscommunications (added plural)
+10429) neurosurgical
+10430) cannulate (+s +ing +ed +ion)
+10431) intraperitoneal (Collins)
+10432) pentobarbitone
+10433) pentlandite
+10434) garnierite
+10435) exsolve (+s +ing +ed)
+10436) exsolution
+10437) exsanguine
+
+9-JAN-2016
+10438) megajoule (added singular - Collins)
+10439) pickiness
+10440) selfism
+10441) selfist (+plural)
+10442) selfmate
+10443) vertebrata (it can also be in lowercase)
+10444) tweeps
+10445) tweetable
+10446) tweetup (+plural)
+10447) transgenderism
+10448) transgenderist (+plural)
+10448) cross-dress (+ing +er +ers)
+10449) cross-disciplinary
+10450) trackback (+plural)
+10451) permittee (+plural)
+10452) synthase (+plural)
+10453) mRNA
+10454) migrator (+plural)
+10455) Sandhill (+'s - name - Wikipedia)
+10456) misdecision
+10457) misdeclaration (+plural)
+10458) miscutting
+10459) mammalia (it can also be in lowercase)
+10460) meth
+10461) pseudoephedrine
+10462) decongest (+s +ing +ed)
+10463) decongestion
+10464) deconflict (+s +ing +ed)
+10465) deconfliction
+10466) UAV (+plural - abbreviation: Unmanned Aerial Vehicle)
+10467) UB40 (+plural)
+10468) methoxy
+10469) murine
+10470) musculus
+10471) savoir (savoir faire)
+10472) gynaecomastia
+10473) Instagram (+'s - name - Wikipedia)
+10474) Hollingham (name - Wikipedia)
+10475) Cockell (+'s - name - Wikipedia)
+10476) Rodenberry (+'s - name - Wikipedia)
+10477) Gulag (+plural - uppercase)
+10478) gulag (+plural - lowercase)
+10479) Flickr (+'s - name - Wikipedia)
+10480) Kurzweil (+'s - name - Wikipedia)
+10481) skeuomorph (+plural)
+10482) skeuomorphic
+10483) skeuomorphism
 =============
 
 British English Dictionary (Forked) 2.33
