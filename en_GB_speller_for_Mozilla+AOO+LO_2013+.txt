@@ -12966,6 +12966,57 @@ V2.33 (ongoing)
 10481) skeuomorph (+plural)
 10482) skeuomorphic
 10483) skeuomorphism
+
+10-JAN-2016
+10484) non-English (Wikipedia)
+10485) non-British (Wikipedia)
+10486) non-German (+ic)
+10487) non-Italian (Wikipedia)
+10488) non-French (Wikipedia)
+10489) non-Spanish (Wikipedia)
+10490) non-Roman (Wikipedia)
+10491) Burgos (+'s - name - Wikipedia)
+10492) off-site
+10493) co-production (+plural)
+10494) co-producer (+plural)
+10495) outdate (+s +ing +ed - "ed" was already in)
+10496) non-Swedish (Wikipedia)
+10497) non-Dutch (Wikipedia)
+10498) non-African (Wikipedia)
+10499) non-Chinese (Wikipedia)
+10500) non-Japanese (Wikipedia)
+10501) non-Oriental (Wikipedia)
+10502) non-Western (Wikipedia)
+10503) multiline
+10504) multilineal
+10505) multilineality
+10506) lineality (Collins)
+10507) multilingually
+10508) multilinguist
+10509) multiliteral
+10510) Colebrooke (+'s - name - Wikipedia)
+10511) alternant (+plural)
+10512) cognateness
+10513) unclarity (Collins)
+10514) sonographer (Collins)
+10515) antonomasia
+10516) pangolins (added plural)
+10517) trophically
+10518) echidna (+plural)
+10519) hemichordate (+plural)
+10520) zooid (+plural)
+10521) zooidal
+10522) lophophore
+10523) tentacular
+10524) tentaculate
+10525) holometabolous (Collins)
+10526) hemihydrate
+10527) paroxetine
+10528) parovarium
+10529) parovarian
+10530) clumpish (Collins)
+10531) paroxysmally
+10532) paroxysmist
 =============
 
 British English Dictionary (Forked) 2.33
