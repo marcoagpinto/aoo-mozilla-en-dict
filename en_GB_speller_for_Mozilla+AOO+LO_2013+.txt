@@ -13017,6 +13017,236 @@ V2.33 (ongoing)
 10530) clumpish (Collins)
 10531) paroxysmally
 10532) paroxysmist
+
+11-JAN-2016
+10533) Westerhill (name - Wikipedia)
+10534) newswire (+plural)
+10535) staffers (removed: American)
+10536) staffage
+10537) oligo (+plural)
+10538) thermostable
+10539) thermoset (+plural)
+10540) thermoregulate (+s +ing +ed +ion)
+10541) thermoregulatory
+10542) parkour + parcour
+10543) gravure (+plural)
+10544) photopolymer (+plural)
+10545) photopolarimetry
+10546) photopolarimetric
+10547) sitemap (+plural - Wiktionary)
+10548) terapixel (+plural - Wiktionary)
+10549) textbox (+plural - Wiktionary)
+10550) sign-up
+10551) rotatably
+10552) reductase
+10553) polyol
+10554) aldose
+10555) sorbitol
+10556) plastid (+plural)
+10557) stromule (+plural - Wiktionary)
+10558) recurse (+s +ing +ed - Wiktionary)
+10559) racoon (another way of raccoon)
+10560) transfect (+s +ing +ed)
+10561) transfectant
+10562) transfection
+10563) electroporation
+10564) electroporate (+s +ing +ed - Wiktionary)
+10565) agrobacterium + Agrobacterium
+10566) agroclimatic
+10567) agrochemistry
+10568) agrodespotic
+10569) metonymies (added plural)
+10570) metonymic
+10571) metonymical
+10572) metonymically
+10573) heteronomous
+10574) heteronomy
+10575) pho
+10576) traceur (+'s +plural)
+10577) steampunk
+10578) schrod (Collins)
+10579) snarkily (Collins)
+10580) propyl
+10581) paraben
+10582) isobutyl
+10583) Proksa (+'s - name - Wikipedia)
+10584) transperson
+10585) transpeople (plural of previous word)
+10586) transpersonal
+10587) Lacey (+'s - name - Wikipedia)
+10588) washier + washiest + washiness (merged into washy)
+10589) Pinfold (+'s - name - Wikipedia)
+
+12-JAN-2016
+10590) redimension (+s +ing +ed - Wiktionary)
+10591) one-dimensional
+10592) one-dimensionality
+10593) one-directional
+10594) one-downmanship + one-downsmanship
+10595) one-downness
+10596) one-eared
+10597) one-eyed
+10598) monozygotic
+10599) dizygotic
+10600) dizygous
+10601) cabby
+10602) cabbie (+plural)
+10603) pathworking
+10604) glycolysis
+10605) glycolytic
+10606) hexokinase (Collins)
+10607) hexose (+plural)
+10608) hypocotyl (+plural)
+10609) gravitropic (Wiktionary)
+
+13-JAN-2016
+10610) phlebotomies (added plural)
+10611) phlebotomist (+plural)
+10612) phlebotomize (+s +ing +ed - IZE)
+10613) phlebotomise (+s +ing +ed - ISE)
+10614) saphenous
+10615) stenosis
+10616) stenoses (plural of previous word)
+10617) stenosed
+10618) stenosing
+10619) stenotic
+10620) peroneal
+10621) popliteal
+10622) brachial
+10623) epicondyle
+10624) epicondylar
+10625) intermuscular (Collins)
+10626) radialized + radialised
+10627) phosphorylate (+s +ing +ed +ion)
+10628) flavoprotein (+plural)
+10629) multimeric
+10630) flavin (+plural)
+10631) flavine
+10632) flavonoid (+plural)
+10633) flavone (+plural)
+10634) synaesthete (+plural)
+10635) spick + spic
+10636) rasterize (+s +ing +ed +er +ers +ion - IZE)
+10637) rasterise (+s +ing +ed +er +ers +ion - ISE)
+10638) diaphone (+plural)
+10639) firelighter (+plural)
+10640) air-to-ground
+10641) pilotage
+10642) pilotless
+10643) hellfire
+10644) hellhole (+plural)
+10645) stoichiometrically
+10646) paralog
+10647) parallelwise
+10648) parallelly
+10649) Norden (+'s - name - Wikipedia)
+10650) parallelogramic + parallelogrammic
+10651) parallelogramish
+10652) parallelogrammatic
+10653) parallelogrammatical
+10654) parallelometer
+10655) womanizer
+10656) lady-killer (Collins)
+10657) witter (+s +ing +ed)
+10658) witchlike (Wiktionary)
+10659) cess (Collins)
+10660) cheesemaking (Wiktionary)
+10661) chinoiserie (+plural)
+10662) cheesemaker (+plural)
+10663) chough (+plural - it is a bird)
+10664) choucroute
+10665) clubman
+10666) clubmen (plural of previous word)
+10667) coachload (added singular)
+10668) cockcrow
+10669) cockchafer (+plural)
+10670) cohabitee (+plural)
+10671) cohabiter (+plural)
+10672) collectability
+10673) collocational (Collins)
+10674) collectanea
+10675) commonplaces (added plural)
+
+14-JAN-2016
+10676) Roddenberry (+'s - name - Wikipedia)
+10677) Julien (+'s - name - Wikipedia)
+10678) Zilog (+'s - name - Wikipedia)
+10679) predates + predating (merged into predate)
+10680) Sackett (+'s - name - Wikipedia)
+10681) Luxor (+'s - name - Wikipedia)
+10682) Blackhawk (+'s - name - Wikipedia)
+10683) Gerrold (+'s - name - Wikipedia)
+10684) LG (+'s - name - Wikipedia)
+10685) Cusack (+'s - name - Wikipedia)
+10686) Northridge (+'s - name - Wikipedia)
+10687) Spinrad (+'s - name - Wikipedia)
+10688) Klingons (added plural)
+10689) fandom (+plural)
+10690) outcompete (+s +ing +ed)
+10691) Telluride (+'s - name - Wikipedia)
+10692) Heinlein (+'s - name - Wikipedia)
+10693) outcraft
+10694) outcricket
+10695) xenolith (+plural +ic)
+10696) Palaeogene
+10697) sinkhole (+plural +'s - fixed: sink-hole)
+10698) metavolcanic
+10699) Marland (+'s - name - Wikipedia)
+10700) asthenosphere (+ic)
+10701) volcanos (another plural of volcano)
+10702) ultramafic
+10703) laterite (+ic)
+10704) laterigrade
+10705) pyroclastic (+plural)
+10706) pyroclast (+plural)
+10707) tephrite (+ic - Collins)
+10708) pyrocoll
+10709) USD (currency)
+10710) GBP (currency)
+10711) EUR (currency)
+10712) Barends (name - Wikipedia)
+10713) Schild (+'s - name - Wikipedia)
+10714) Rey (+'s - name - Wikipedia)
+10715) AUD (currency)
+10716) JPY (currency)
+10717) CNY (currency)
+10718) Scyphozoa
+10719) scyphozoan
+10720) scyphistomal
+10721) scyphistoma (+plural)
+10722) scyphistomae (another plural of previous word)
+10723) cephalization
+10724) eyespot (+plural)
+10725) mandibulated (Collins)
+10726) ocelli (Collins)
+10727) ocelliform
+10728) ocellus (singular of ocelli)
+10729) ocellar
+10730) photoprotection
+10731) isopod (+plural)
+10732) precopulatory
+10733) stomatopod (Collins)
+10734) preconvulsive
+10735) precontracted
+10736) precontest
+10737) precordium
+10738) precordial
+10739) revenant (+plural)
+10740) Burkard (+'s - name - Wikipedia)
+10741) revisitation
+10742) Manson (+'s - name - Wikipedia)
+10743) Shreya (+'s - name - Wikipedia)
+10744) Jefferies (+'s - name - Wikipedia)
+10745) Kokoda (+'s - name - Wikipedia)
+10746) Africanisms (added plural)
+10747) roadshow (+plural)
+10748) anthocyanin
+10749) rejuvenatory
+10750) rejuvenator (+plural)
+10751) rejuvenant
+10752) rejuvenesce
+10753) rejuvenize (-IZE)
+10754) rejuvenise (-ISE)
 =============
 
 British English Dictionary (Forked) 2.33
