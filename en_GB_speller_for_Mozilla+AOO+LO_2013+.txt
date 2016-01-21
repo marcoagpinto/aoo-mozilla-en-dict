@@ -13247,6 +13247,211 @@ V2.33 (ongoing)
 10752) rejuvenesce
 10753) rejuvenize (-IZE)
 10754) rejuvenise (-ISE)
+
+15-JAN-2016
+10755) microtask (+plural - Wiktionary)
+10756) Zbarsky (name - Wikipedia)
+10757) iconize (+s +ing +ed -IZE)
+10758) iconise (+s +ing +ed -ISE)
+10759) Ehsan (+'s - name - Wikipedia)
+10760) Sutter (+'s - name - Wikipedia)
+10761) Dashamir (name - Wikipedia)
+10762) Hoxha (+'s - name - Wikipedia)
+10763) Kesteren (+'s - name - Wikipedia)
+10764) atomics
+10765) subtree (+plural - Wiktionary)
+10766) Blandy (+'s - name - Wikipedia)
+10767) Fink (+'s - name - Wikipedia)
+10768) Santell (+'s - name - Wikipedia)
+10769) Jared (+'s - name - Wikipedia)
+10770) Wein (+'s - name - Wikipedia)
+10771) Planck (+'s - name - Wikipedia)
+10772) Rigel (+'s - name - Wikipedia)
+10773) photoflash
+10774) Wannier (name - Wikipedia)
+10775) Jen (+'s - name - Wikipedia)
+10776) autorotates + autorotating (merged into autorotate - Wiktionary)
+10777) diaspores (added plural)
+10778) monospermal
+10779) monospermous
+10780) samara (+plural)
+10781) dipteran (+plural)
+10782) hymenopteran (+plural)
+10783) hymenopterous
+10784) Hymenoptera + hymenoptera
+
+16-JAN-2016
+10785) superfast
+10786) superface
+10787) superfan
+10788) superfemale
+10789) heteropaternal (Wiktionary)
+10790) supersexual
+10791) Kenelm (+'s - name - Wikipedia)
+10792) Digby (+'s - name - Wikipedia)
+10793) vitrine (+plural)
+10794) serviceably
+10795) multipanel (Wiktionary)
+10796) insubstantiality
+10797) monofilament (+plural)
+10798) monofil (+plural)
+10799) monofactorial
+10800) monogenic
+10801) monogenically
+10802) apospory (Collins)
+10803) adaptationists (added plural)
+10804) adaptativeness
+10805) Tuckerman (+'s - name - Wikipedia)
+10806) adaptationalism
+10807) remittable
+10808) remittal
+10809) remittee
+10810) remitter (+plural)
+10811) remitless
+10812) remitment
+10813) Cotgrave (+'s - name - Wikipedia)
+10814) Yakov (+'s - name - Wikipedia)
+10815) Reztsov (name - Wikipedia)
+10816) Martorell (+'s - name - Wikipedia)
+10817) Kearns (+'s - name - Wikipedia)
+10818) Goodwood (+'s - name - Wikipedia)
+10819) Grote (+'s - name - Wikipedia)
+10820) promovent
+10821) Marcum (+'s - name - Wikipedia)
+10822) mA (Wiktionary)
+10823) pinout (+plural)
+10824) hotplug (+s +ing +ed - Wiktionary)
+10825) redesignate (+s +ing +ed +ion)
+10826) retask (+s +ing +ed - Wiktionary)
+10827) SATA's (added the 's - Wikipedia)
+10828) uncoded (Wiktionary)
+10829) eSATA (Wikipedia)
+10830) eSATAp (Wikipedia)
+10831) PATA (Wikipedia)
+10832) kbit (Wikipedia)
+10833) Gbit (Wikipedia)
+10834) Tbit (Wikipedia)
+10835) precharge (+ed - Wiktionary)
+10836) Molex (name - Wikipedia)
+10837) ultrabook (+plural - Wiktionary)
+10838) subnotebook (+plural - Wiktionary)
+10839) SAS (Wiktionary)
+10840) HBA (+plural - Wiktionary)
+
+17-JAN-2016
+10841) dockable (Wiktionary)
+10842) Natterer (+'s - name - Wikipedia)
+10843) Sikking (+'s - name - Wikipedia)
+10844) Nordholts (name - GIMP related)
+10845) GIMP (+s - name - GIMP software page)
+10846) scriptable (Wiktionary)
+10847) Alt (keyboard key)
+10848) Ctrl (keyboard key)
+10849) roadmap (+s +ing +ed - alternative of "road map" - Wiktionary)
+10850) Antje (+'s - name - Wikipedia)
+10851) Parkel (+'s - name - Google)
+10852) acetylsalicylic (acetylsalicylic acid)
+10853) unconcentrated (Wiktionary)
+10854) dopants (added plural)
+10855) dopaminergic
+10856) levodopa
+10857) pyridoxine
+10858) pallidotomy
+10859) pallidum
+10860) stereotactic + stereotaxic
+10861) stereotactically
+10862) abdominoscopy
+10863) abdominizer (-IZE)
+10864) abdominiser (-ISE)
+10865) outwent
+10866) entomophilous
+10867) entomophily
+10868) ornithophilous
+10869) ornithomorphic
+10870) IPS
+
+18-JAN-2016
+10871) UUID (+plural - Wikipedia)
+10872) McManus (+'s - name - Wikipedia)
+10873) Holley (+'s - name - Wikipedia)
+10874) Machulis (name - Wikipedia)
+10875) Damjan (+'s - name - Wikipedia)
+10876) Mielczarek (name - Wikipedia)
+10877) Oleg (+'s - name - Wikipedia)
+10878) Gurevich (+'s - name - Wikipedia)
+10879) plonk (+s +ing +ed +y +er +ers)
+10880) plink (+s +ing +ed +y)
+10881) ASL (abbreviation: American Sign Language)
+10882) plonkingly
+10883) Barrington (+'s - name - Wikipedia)
+10884) Cecily (+'s - name - Wikipedia)
+10885) Gwendolen (+'s - name - Wikipedia)
+10886) Haskell's (added the 's - name - Wikipedia)
+10887) Skerry (+'s - name - Wikipedia)
+10888) Montresor (+'s - name - Wikipedia)
+10889) assumedly
+10890) disjuncts (added plural)
+10891) divisionist (+plural - Wiktionary)
+10892) definiendum
+10893) definienda (plural of previous word)
+10894) definiens
+10895) definientia (plural of previous word)
+10896) copular
+10897) Syriac (+'s - name - Wikipedia)
+10898) predicational
+10899) Hegel's (added the 's - name - Wikipedia)
+10900) predicateless
+10901) Shedd (+'s - name - Wikipedia)
+10902) predicatival
+10903) substantivally
+10904) substantival
+10905) Rahul (+'s - name - Wikipedia)
+10906) Sharma (+'s - name - Wikipedia)
+10907) prerequisition
+10908) preretina
+10909) prerequire (+s +ing +ed - Wiktionary)
+10910) Glanvill (+'s - name - Wikipedia)
+10911) prerenal
+10912) Karn (+'s - name - Wikipedia)
+10913) Jillie (+'s - name - Wikipedia)
+10914) Azizur (name - Wikipedia)
+10915) Rahman (+'s - name - Wikipedia)
+10916) MMORPG (+plural - Wikipedia)
+10917) RPGs (added plural)
+10918) warcraft (+'s - Collins + Wikipedia)
+10919) WTF (Oxford: vulgar slang)
+10920) Madjid (name - Wikipedia)
+10921) Moradian (+'s - name - Wikipedia)
+10922) WTO (abbreviation: World Trade Organization)
+
+19-JAN-2016
+10923) deixis
+10924) schematize (+s +ing +ed +ion - IZE)
+10925) schematise (+s +ing +ed +ion - ISE)
+10926) embeddedness + imbeddedness
+10927) advect (+s +ing +ed)
+10928) advection
+10929) advective
+10930) cyclogenesis
+10931) hygroscope (+plural)
+10932) altocumulus
+10933) altocumuli (plural of previous word)
+10934) anemometric
+10935) aerovane
+10936) Aertex (trademark)
+10937) aerotropism
+10938) aerotrain
+
+20-JAN-2016
+10939) pingable
+10940) pings (added plural)
+10941) pingers (added plural)
+10942) telnet (+s +ing +ed +able)
+10943) telnetable (also with just one T)
+10944) telogen
+10945) anagen
+10946) anaglyphs + anaglyphic (merged into anaglyph)
+10947) cryptical (Collins)
 =============
 
 British English Dictionary (Forked) 2.33
