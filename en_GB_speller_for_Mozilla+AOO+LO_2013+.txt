@@ -12471,7 +12471,7 @@ V2.32
 10003) matrilocality
 
 
-V2.33 (ongoing)
+V2.33
 2-JAN-2016
 10004) absorbancy
 10005) acetyl
@@ -13452,6 +13452,112 @@ V2.33 (ongoing)
 10945) anagen
 10946) anaglyphs + anaglyphic (merged into anaglyph)
 10947) cryptical (Collins)
+
+22-JAN-2016
+10948) Muppets (added plural - uppercase)
+10949) muppet (+plural +'s - lowercase)
+10950) gawp (+s +ing +ed +er +ers)
+10951) muonless
+10952) muonium
+10953) cocksfoot (+plural)
+10954) cockspur (+plural)
+10955) cockshy (added singular)
+10956) butterwort (+plural)
+10957) dropwort
+10958) prunish
+10959) prunitrin
+10960) prunetin
+10961) isoflavone (+plural)
+10962) monomethyl
+10963) genistein + genisteine
+10964) genista (+plural)
+10965) cineraria (+plural)
+10966) echium (Collins)
+10967) viperfish (+plural)
+10968) viraemia + viremia
+10969) viraemic + viremic
+10970) purpura (+ic)
+10971) psychogenic
+10972) macular
+10973) macula
+10974) maculae (plural of previous word)
+10975) alopecia
+10976) androgenetic (Collins)
+10977) trichotillomania
+10978) trichopteran (+plural)
+10979) ostracod + ostracode (+plural of both)
+10980) mysid (+plural)
+10981) cladoceran (+plural)
+10982) hypersaline (Collins)
+10983) osmoregulator
+10984) osmoregulation
+10985) osmoregulatory
+10986) epiphyte (+plural)
+10987) epiphytal
+10988) epiphytic
+10989) bromeliad (+plural)
+10990) Darien (+'s - name - Wikipedia)
+10991) cichlid (+plural)
+10992) tilapia
+10993) mouthbrooder (+plural)
+10994) mouthable
+10995) mouthfeel (+plural)
+10996) macadamia (+plural)
+10997) hempseed
+10998) disgorgers (added plural)
+10999) disfrock (+s +ing +ed - Wiktionary)
+11000) briefless
+11001) autoload (+s +ing +ed - Wiktionary)
+11002) autoloaders (added plural)
+11003) low-cost
+11004) Low-Churchism
+11005) Blackburne (+'s - name - Wikipedia)
+11006) lipoic (lipoic acid - Collins)
+11007) carbohydrase
+11008) glycosidic
+11009) pyranose
+11010) pyran + pyrane
+11011) autoland (+s +ing - Wiktionary)
+11012) autokinetic
+11013) autokinesis
+11014) autokinesy
+11015) Cudworth (+'s - name - Wikipedia)
+11016) autokinetical
+11017) autolaryngoscope
+11018) autolaryngoscopy
+11019) autolatry
+11020) compèred (merged into compère)
+11021) coned
+11022) congregational (lowercase)
+11023) conjuror (+plural)
+11024) convenors (added plural)
+11025) convertor (+plural)
+11026) reckoners (added plural)
+11027) couloir (+plural)
+11028) Covenanter (+plural - uppercase)
+11029) covenanters (added plural - lowercase)
+11030) cruiserweight
+11031) debutant (+plural)
+11032) debutantes (added plural)
+11033) debuts (added plural)
+11034) deco
+11035) shedload (+plural)
+
+25-JAN-2016
+11036) Hewan (+'s - name - Wikipedia)
+11037) Manificat (name - Wikipedia)
+11038) André (+'s - name - Wikipedia)
+11039) Eurogroup
+11040) Corbyn (+'s - name - Wikipedia)
+11041) Spector (+'s - name - Wikipedia)
+11042) Kurdi (+'s - name - Wikipedia)
+11043) Syriza (+'s - name - Wikipedia)
+11044) Eurofanatic
+11045) Eurodisco
+11046) Eurocratic
+11047) Eurocracy
+11048) Euroclydon
+11049) Eurocheque
 =============
 
 British English Dictionary (Forked) 2.33

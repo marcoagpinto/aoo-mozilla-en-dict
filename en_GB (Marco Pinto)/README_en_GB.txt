@@ -11737,3 +11737,1054 @@ V2.32 - 1-JAN-2016
 10001) uxorilocal
 10002) matrilocal
 10003) matrilocality
+
+
+V2.33 - 1-FEB-2016
+------------------
+10004) absorbancy
+10005) acetyl
+10006) carboxylate (+plural +ed)
+10007) carboxylation
+10008) oxyanion (+plural)
+10009) xanthene
+10010) protonate (+ed +ion)
+10011) oxaloacetate + oxalacetate
+10012) acyl
+10013) advocator (Collins)
+10014) advocatory
+10015) alkoxy
+10016) alkoxyl
+10017) archaeologic
+10018) archaeomagnetism
+10019) astro-archaeology
+10020) lithic
+10021) andesite
+10022) andesitic
+10023) dacite
+10024) dacitic
+10025) rhyolite
+10026) tuff
+10027) tuffaceous
+10028) diorite (+ic)
+10029) granitoid (+plural)
+10030) granulite (+ic)
+10031) greenstone (+plural)
+10032) asynchronicity (+plural - Wiktionary)
+10033) aureus
+10034) aurei (plural of previous word)
+10035) auteurs (added plural)
+10036) auteurism
+10037) auteurist
+10038) benzyl
+10039) benzoate (+plural)
+10040) lindane
+10041) lycopod (+plural)
+10042) calamites
+10043) caravanserai (+plural)
+10044) cDNA
+10045) ciphertext (+plural - Wiktionary)
+10046) coli (E. coli)
+10047) corrigibility
+10048) pre-reflective
+10049) cytokine (+plural)
+10050) cytometry
+10051) cytometer
+10052) dehydrogenase
+10053) succinate
+10054) dialoguing + dialogued (merged into dialogue)
+10055) dialoguer
+10056) diatomaceous (diatomaceous earth)
+10057) dissentious
+10058) dialogist (+plural)
+10059) vernacularism
+10060) vernacularity
+10061) vernacularize (+s +ing +ed -IZE)
+10062) vernacularise (+s +ing +ed -ISE)
+10063) Shona (+plural)
+10064) Ndebele (+plural)
+10065) Matabele (+plural)
+10066) Matabeleland
+10067) Mashonaland
+10068) Mashona
+10069) Sotho (+plural)
+10070) Mosotho
+10071) Basotho (plural of previous word)
+10072) Sesotho
+10073) isiZulu
+10074) filespace
+10075) Arcata (+'s - name - Wikipedia)
+10076) Moby (+'s - name - Wikipedia)
+10077) Kelk's (added the 's - name - Wikipedia)
+10078) WordNet (+'s)
+10079) crypsis
+10080) counterillumination (Wiktionary)
+10081) accusatorial
+10082) sectorial
+10083) carnassial
+10084) Turkwel (+'s - name - Wikipedia)
+10085) ramus
+10086) rami (plural of previous word)
+10087) ischium
+10088) ischia (plural of previous word)
+10089) ischial
+10090) unmovably + unmoveably
+10091) unmovedly
+10092) Houghton (+'s - name - Wikipedia)
+10093) Rowntree (+'s - name - Wikipedia)
+10094) Grobler (+'s - name - Wikipedia)
+10095) unmovableness
+10096) unmouthable
+10097) Chaparral (+'s - name - Wikipedia)
+10098) unmouldy
+10099) Gayton (+'s - name - Wikipedia)
+10100) unmould
+10101) Mafeking (+'s - name - Wikipedia)
+10102) Beaverbrook (+'s - name - Wikipedia)
+10103) Aitken (+'s - name - Wikipedia)
+10104) Burghley (+'s - name - Wikipedia)
+10105) Brudenell (+'s - name - Wikipedia)
+10106) Curzon (+'s - name - Wikipedia)
+10107) Rizzio (+'s - name - Wikipedia)
+10108) Bothwell (+'s - name - Wikipedia)
+10109) Harewood (+'s - name - Wikipedia)
+10110) Lascelles (+'s - name - Wikipedia)
+10111) Leverhulme (+'s - name - Wikipedia)
+10112) Hesketh (+'s - name - Wikipedia)
+10113) Unilever (+'s - name - Wikipedia)
+10114) Northcliffe (+'s - name - Wikipedia)
+10115) Harmsworth (+'s - name - Wikipedia)
+10116) Rothermere (+'s - name - Wikipedia)
+10117) Nuffield (+'s - name - Wikipedia)
+10118) Palmerston (+'s - name - Wikipedia)
+10119) Reith (+'s - name - Wikipedia)
+10120) Esmond (+'s - name - Wikipedia)
+10121) Vere (+'s - name - Wikipedia)
+10122) Gascoyne-Cecil (+'s - name - Wikipedia)
+10123) Hallam (+'s - name - Wikipedia)
+10124) Shalott (+'s - name - Wikipedia)
+10125) Wavell (+'s - name - Wikipedia)
+10126) djinn
+10127) donator (+plural)
+10128) misdate (+s +ing +ed)
+10129) egocentrism
+10130) phallocentric
+10131) phallocentricity
+10132) phallocentrism
+10133) theocentric
+10134) durian (+plural)
+10135) rambutan (+plural)
+10136) mangosteen (+plural)
+10137) DVD-audio
+10138) audiospectrogram
+10139) audiospectrograph
+10140) audiospectrometer
+10141) filesystem (+plural - Wiktionary)
+10142) estoppel
+10143) psychomedicine (Wiktionary)
+10144) Caligula's (added the 's - name - Wikipedia)
+10145) exactable
+10146) exactor (+plural)
+10147) exon (+plural)
+10148) exonic
+10149) intron (+plural)
+10150) intronic
+10151) heterochromatic
+10152) heterochromatin
+10153) polytene
+10154) lampbrush (lampbrush chromosome - Collins)
+10155) allozyme
+10156) oocyte (+plural)
+10157) cytogenetics
+10158) cytogenetic
+10159) cytogenetical
+10160) cytogenetically
+10161) cytogeneticist (+plural)
+10162) anopheline
+10163) culex
+10164) culices (plural of previous word)
+10165) culicine (+plural)
+10166) freegan (+plural)
+10167) gigajoule (+plural - Wiktionary)
+10168) greybeards (added plural)
+10169) guestbooks (added plural)
+10170) chatroom (+plural - Wiktionary)
+10171) Taryn (+'s - name - Wikipedia)
+10172) hentai
+10173) hijab (+plural)
+10174) hippopotami
+10175) idolator (+plural - Wiktionary)
+10176) streambed (Collins)
+10177) intermediacy (+plural)
+10178) intermediator (+plural)
+10179) CSV (Wiktionary)
+10180) Magnus (+'s - name - Wikipedia)
+10181) Melin (+'s - name - Wikipedia)
+10182) Hamill (+'s - name - Wikipedia)
+10183) Cushing (+'s - name - Wikipedia)
+10184) Prowse (+'s - name - Wikipedia)
+10185) star's (added the 's)
+10186) Walken (+'s - name - Wikipedia)
+10187) Pacino (+'s - name - Wikipedia)
+10188) Nolte (+'s - name - Wikipedia)
+10189) Nunn (+'s - name - Wikipedia)
+10190) Coppola (+'s - name - Wikipedia)
+10191) McQuarrie (+'s - name - Wikipedia)
+10192) Purvis (+'s - name - Wikipedia)
+10193) Hagon (+'s - name - Wikipedia)
+10194) Vanden (+'s - name - Wikipedia)
+10195) Akira (+'s - name - Wikipedia)
+10196) Kurosawa's (added the 's - name - Wikipedia)
+10197) Lew (+'s - name - Wikipedia)
+10198) Corman (+'s - name - Wikipedia)
+10199) Palma (+'s - name - Wikipedia)
+10200) Cantwell (+'s - name - Wikipedia)
+10201) Barwood (+'s - name - Wikipedia)
+10202) Kubrick's (added the 's - name - Wikipedia)
+10203) mushed
+10204) Tikal (+'s - name - Wikipedia)
+10205) Biggs (+'s - name - Wikipedia)
+10206) shieldless
+10207) Burtt (+'s - name - Wikipedia)
+10208) Lippincott (+'s - name - Wikipedia)
+10209) Jabba (+'s - name - Wikipedia)
+10210) Hutt (+'s - name - Wikipedia)
+10211) Kauffmann (+'s - name - Wikipedia)
+10212) Keough (+'s - name - Wikipedia)
+10213) DeCaro (+'s - name - Wikipedia)
+10214) Brooks (+'s - name - Wikipedia)
+10215) Simpsons (+'s - name - Wikipedia)
+10216) Devlin (+'s - name - Wikipedia)
+10217) Lasseter (+'s - name - Wikipedia)
+10218) Ridley (+'s - name - Wikipedia)
+10219) sealless (Wiktionary)
+10220) Petrarch (+'s - name - Wikipedia)
+10221) Boccaccio (+'s - name - Wikipedia)
+10222) Giotto (+'s - name - Wikipedia)
+10223) da (Leonardo da Vinci)
+10224) remythologize
+10225) remythologization
+10226) remyelination
+10227) myelin
+10228) myelinated
+10229) myelination
+10230) myelencephalon
+10231) myelencephalic
+10232) oblongata (medulla oblongata)
+10233) medspeak
+10234) medroxyprogesterone
+10235) progestogen (+plural)
+10236) neuroactive
+10237) neurotransmission
+10238) vasodilation + vasodilatation
+10239) vasodilator (+plural)
+10240) vasodilatory
+10241) vasovagal
+10242) vasopressor (+plural)
+10243) reinduce (+s +ing +ed - Wiktionary)
+10244) inotropic
+10245) spironolactone
+10246) pharmacologic
+10247) ethnopharmacology
+10248) ethnobotany
+10249) ethnobotanic
+10250) ethnobotanical
+10251) ethnobotanist (+plural)
+10252) destain (+s +ing +ed)
+10253) chemoarchitecture
+10254) chemo-statical
+10255) chemitype
+10256) chemigraphy
+10257) electrogenerated (Wiktionary)
+10258) Amalfi
+10259) lacteals (added plural)
+10260) sifaka (+plural)
+10261) colobus
+10262) vervet (+plural)
+10263) impulsivity
+10264) disinhibit (+s +ing +ed +ion)
+10265) deicidal
+10266) gnostics (added plural)
+10267) Brahmans (added plural)
+10268) Brahmin
+10269) Brahmanic
+10270) Brahmanical
+10271) Balog (+'s - name - Wikipedia)
+10272) Shantanu (+'s - name - Wikipedia)
+10273) Oak (+'s - name - Wikipedia)
+10274) Mohan (+'s - name - Wikipedia)
+10275) Burkhardt (+'s - name - Wikipedia)
+10276) Bennison (+'s - name - Wikipedia)
+10277) Danby (+'s - name - Wikipedia)
+10278) Bouyssou (+'s - name - Wikipedia)
+10279) intersexualism (Collins)
+10280) intersexually (Collins)
+10281) kinase (+plural)
+10282) transduce (+s +ing +ed +ion)
+10283) microcapillary (Wiktionary)
+10284) electroactive
+10285) lector (+plural)
+10286) responsorial
+10287) melismatics
+10288) melisma (+plural)
+10289) melismata (another plural of previous word)
+10290) melismatic
+10291) tritone (+plural)
+10292) tritocerebrum
+10293) tritocerebra (plural of previous word)
+10294) deutocerebrum (Wiktionary)
+10295) deutocerebra (plural of previous word - Wiktionary)
+10296) overexpression
+10297) hypostome (Collins)
+10298) subesophageal (Wiktionary)
+10299) circumesophageal (Wiktionary)
+10300) nonfree (Wiktionary)
+10301) GNU (+'s - name - Wikipedia)
+10302) Flattr (name - Wikipedia)
+10303) FSF (+'s - Free Software Foundation - Wikipedia)
+10304) Cisco (+'s - name - Wikipedia)
+10305) Ravicher (+'s - name - Wikipedia)
+10306) DRM (short for: Digital Rights Management)
+10307) majorly (Oxford: informal)
+10308) Knauth (+'s - name - Wikipedia)
+10309) Chassell (+'s - name - Wikipedia)
+10310) Moglen (+'s - name - Wikipedia)
+10311) Eben (+'s - name - Wikipedia)
+10312) Torvalds (+'s - name - Wikipedia)
+10313) Brockmeier (+'s - name - Wikipedia)
+10314) redistributable (Wiktionary)
+10315) Zimmermann (+'s - name - Wikipedia)
+10316) Phil (+'s - name - Wikipedia)
+10317) introducers (added plural)
+10318) PGP's (added the 's - Wikipedia)
+10319) PKI
+10320) RSA's (added the 's - Wikipedia)
+10321) keyrings (added plural - Wiktionary)
+10322) Psion (+'s - name - Wikipedia)
+10323) suspect's (added the 's - Wikipedia)
+10324) stockman
+10325) stockmen (plural of previous word)
+10326) bedlamp (+plural - Wiktionary)
+10327) woodlark (+plural)
+10328) snowcap (+plural)
+10329) snow-capped (fixed: snowcapped)
+10330) snapline (+plural - Wiktionary)
+10331) nightbird (+plural)
+10332) Algol (Astronomy)
+10333) belowground (Collins)
+10334) lookaside (Wiktionary)
+10335) MMU (+'s - Memory Management Unit - Wikipedia)
+10336) DMA (direct memory access)
+10337) Athlon (+'s - name - Wikipedia)
+10338) SRAM (+plural - Wiktionary)
+10339) misprediction (Wiktionary)
+10340) ns (nanoseconds)
+10341) NS
+10342) Laue (+'s - name - Wikipedia)
+10343) nanoscience
+10344) nanoengineer (+plural +ing Wiktionary)
+10345) nanorod (+plural)
+10346) nanomedicine
+10347) nanobiotechnology
+10348) reflectometer
+10349) reflectometry
+10350) microspectrophotometer (+plural - Wiktionary)
+10351) reflectographic
+10352) reflectionist
+10353) reflectioning
+10354) Stallo (+'s - name - Wikipedia)
+10355) lepidopterist (+plural)
+10356) Grassington (+'s - name - Wikipedia)
+10357) Birdsall (+'s - name - Wikipedia)
+10358) endorphin (added singular)
+10359) deamination
+10360) deaminated
+10361) transaminate (+s +ing +ed +ion)
+10362) locum (+plural)
+10363) histocompatibility
+10364) parabiotically
+10365) parabiosis
+10366) parabiotic
+10367) littermate (+plural)
+10368) caladium (+plural)
+10369) canna (+plural)
+10370) oxalis
+10371) nerine (+plural)
+10372) lamium (+plural)
+10373) convolvulus (+plural)
+10374) spathiphyllum (Collins)
+10375) cicely (+plural)
+10376) mitsuba
+10377) Beral (+'s - name - Wikipedia)
+10378) Maathuis (name - Wikipedia)
+10379) limnology
+10380) limnological
+10381) limnologist (+plural)
+10382) limitrophous
+10383) limitrophe
+10384) coronae (plural of corona)
+10385) calamander
+10386) decarbonize (+s +ing +ed +er +ers +ion -IZE)
+10387) decarbonise (+s +ing +ed +er +ers +ion -ISE)
+10388) decapsulate (+s +ing +ed +ion)
+10389) tri-band
+10390) tri-axle (+plural)
+10391) dropsies (added plural of dropsy)
+10392) McCloy (+'s - name - Wikipedia)
+10393) claudication
+10394) adenocarcinoma (+plural)
+10395) adenocarcinomata (another plural of previous word)
+10396) alkalosis
+10397) hypokalaemia
+10398) hypokalaemic
+10399) myopathy (+plural)
+10400) myopathic
+10401) myoneural
+10402) myonecrotic
+10403) myonecrosis
+10404) myomorph (+ic)
+10405) Myomorpha
+10406) myometrium
+10407) myometrial
+10408) GeForce (name of graphic board)
+10409) synergize + synergise
+10410) pro-oxidant + proöxidant
+10411) wildcard (+plural - Wiktionary)
+10412) weaponise (+s +ing +ed -ISE)
+10413) weaponize (+s +ing +ed -IZE)
+10414) volcanology + vulcanology
+10415) volcanological
+10416) volcanologist (+plural)
+10417) undesignated
+10418) undesigned
+10419) undesignedly
+10420) interwind
+10421) interwound (past of previous word)
+10422) shitloads (added plural)
+10423) retumescence
+10424) retumble
+10425) retube
+10426) plaintext (Collins)
+10427) linguistical
+10428) miscommunications (added plural)
+10429) neurosurgical
+10430) cannulate (+s +ing +ed +ion)
+10431) intraperitoneal (Collins)
+10432) pentobarbitone
+10433) pentlandite
+10434) garnierite
+10435) exsolve (+s +ing +ed)
+10436) exsolution
+10437) exsanguine
+10438) megajoule (added singular - Collins)
+10439) pickiness
+10440) selfism
+10441) selfist (+plural)
+10442) selfmate
+10443) vertebrata (it can also be in lowercase)
+10444) tweeps
+10445) tweetable
+10446) tweetup (+plural)
+10447) transgenderism
+10448) transgenderist (+plural)
+10448) cross-dress (+ing +er +ers)
+10449) cross-disciplinary
+10450) trackback (+plural)
+10451) permittee (+plural)
+10452) synthase (+plural)
+10453) mRNA
+10454) migrator (+plural)
+10455) Sandhill (+'s - name - Wikipedia)
+10456) misdecision
+10457) misdeclaration (+plural)
+10458) miscutting
+10459) mammalia (it can also be in lowercase)
+10460) meth
+10461) pseudoephedrine
+10462) decongest (+s +ing +ed)
+10463) decongestion
+10464) deconflict (+s +ing +ed)
+10465) deconfliction
+10466) UAV (+plural - abbreviation: Unmanned Aerial Vehicle)
+10467) UB40 (+plural)
+10468) methoxy
+10469) murine
+10470) musculus
+10471) savoir (savoir faire)
+10472) gynaecomastia
+10473) Instagram (+'s - name - Wikipedia)
+10474) Hollingham (name - Wikipedia)
+10475) Cockell (+'s - name - Wikipedia)
+10476) Rodenberry (+'s - name - Wikipedia)
+10477) Gulag (+plural - uppercase)
+10478) gulag (+plural - lowercase)
+10479) Flickr (+'s - name - Wikipedia)
+10480) Kurzweil (+'s - name - Wikipedia)
+10481) skeuomorph (+plural)
+10482) skeuomorphic
+10483) skeuomorphism
+10484) non-English (Wikipedia)
+10485) non-British (Wikipedia)
+10486) non-German (+ic)
+10487) non-Italian (Wikipedia)
+10488) non-French (Wikipedia)
+10489) non-Spanish (Wikipedia)
+10490) non-Roman (Wikipedia)
+10491) Burgos (+'s - name - Wikipedia)
+10492) off-site
+10493) co-production (+plural)
+10494) co-producer (+plural)
+10495) outdate (+s +ing +ed - "ed" was already in)
+10496) non-Swedish (Wikipedia)
+10497) non-Dutch (Wikipedia)
+10498) non-African (Wikipedia)
+10499) non-Chinese (Wikipedia)
+10500) non-Japanese (Wikipedia)
+10501) non-Oriental (Wikipedia)
+10502) non-Western (Wikipedia)
+10503) multiline
+10504) multilineal
+10505) multilineality
+10506) lineality (Collins)
+10507) multilingually
+10508) multilinguist
+10509) multiliteral
+10510) Colebrooke (+'s - name - Wikipedia)
+10511) alternant (+plural)
+10512) cognateness
+10513) unclarity (Collins)
+10514) sonographer (Collins)
+10515) antonomasia
+10516) pangolins (added plural)
+10517) trophically
+10518) echidna (+plural)
+10519) hemichordate (+plural)
+10520) zooid (+plural)
+10521) zooidal
+10522) lophophore
+10523) tentacular
+10524) tentaculate
+10525) holometabolous (Collins)
+10526) hemihydrate
+10527) paroxetine
+10528) parovarium
+10529) parovarian
+10530) clumpish (Collins)
+10531) paroxysmally
+10532) paroxysmist
+10533) Westerhill (name - Wikipedia)
+10534) newswire (+plural)
+10535) staffers (removed: American)
+10536) staffage
+10537) oligo (+plural)
+10538) thermostable
+10539) thermoset (+plural)
+10540) thermoregulate (+s +ing +ed +ion)
+10541) thermoregulatory
+10542) parkour + parcour
+10543) gravure (+plural)
+10544) photopolymer (+plural)
+10545) photopolarimetry
+10546) photopolarimetric
+10547) sitemap (+plural - Wiktionary)
+10548) terapixel (+plural - Wiktionary)
+10549) textbox (+plural - Wiktionary)
+10550) sign-up
+10551) rotatably
+10552) reductase
+10553) polyol
+10554) aldose
+10555) sorbitol
+10556) plastid (+plural)
+10557) stromule (+plural - Wiktionary)
+10558) recurse (+s +ing +ed - Wiktionary)
+10559) racoon (another way of raccoon)
+10560) transfect (+s +ing +ed)
+10561) transfectant
+10562) transfection
+10563) electroporation
+10564) electroporate (+s +ing +ed - Wiktionary)
+10565) agrobacterium + Agrobacterium
+10566) agroclimatic
+10567) agrochemistry
+10568) agrodespotic
+10569) metonymies (added plural)
+10570) metonymic
+10571) metonymical
+10572) metonymically
+10573) heteronomous
+10574) heteronomy
+10575) pho
+10576) traceur (+'s +plural)
+10577) steampunk
+10578) schrod (Collins)
+10579) snarkily (Collins)
+10580) propyl
+10581) paraben
+10582) isobutyl
+10583) Proksa (+'s - name - Wikipedia)
+10584) transperson
+10585) transpeople (plural of previous word)
+10586) transpersonal
+10587) Lacey (+'s - name - Wikipedia)
+10588) washier + washiest + washiness (merged into washy)
+10589) Pinfold (+'s - name - Wikipedia)
+10590) redimension (+s +ing +ed - Wiktionary)
+10591) one-dimensional
+10592) one-dimensionality
+10593) one-directional
+10594) one-downmanship + one-downsmanship
+10595) one-downness
+10596) one-eared
+10597) one-eyed
+10598) monozygotic
+10599) dizygotic
+10600) dizygous
+10601) cabby
+10602) cabbie (+plural)
+10603) pathworking
+10604) glycolysis
+10605) glycolytic
+10606) hexokinase (Collins)
+10607) hexose (+plural)
+10608) hypocotyl (+plural)
+10609) gravitropic (Wiktionary)
+10610) phlebotomies (added plural)
+10611) phlebotomist (+plural)
+10612) phlebotomize (+s +ing +ed - IZE)
+10613) phlebotomise (+s +ing +ed - ISE)
+10614) saphenous
+10615) stenosis
+10616) stenoses (plural of previous word)
+10617) stenosed
+10618) stenosing
+10619) stenotic
+10620) peroneal
+10621) popliteal
+10622) brachial
+10623) epicondyle
+10624) epicondylar
+10625) intermuscular (Collins)
+10626) radialized + radialised
+10627) phosphorylate (+s +ing +ed +ion)
+10628) flavoprotein (+plural)
+10629) multimeric
+10630) flavin (+plural)
+10631) flavine
+10632) flavonoid (+plural)
+10633) flavone (+plural)
+10634) synaesthete (+plural)
+10635) spick + spic
+10636) rasterize (+s +ing +ed +er +ers +ion - IZE)
+10637) rasterise (+s +ing +ed +er +ers +ion - ISE)
+10638) diaphone (+plural)
+10639) firelighter (+plural)
+10640) air-to-ground
+10641) pilotage
+10642) pilotless
+10643) hellfire
+10644) hellhole (+plural)
+10645) stoichiometrically
+10646) paralog
+10647) parallelwise
+10648) parallelly
+10649) Norden (+'s - name - Wikipedia)
+10650) parallelogramic + parallelogrammic
+10651) parallelogramish
+10652) parallelogrammatic
+10653) parallelogrammatical
+10654) parallelometer
+10655) womanizer
+10656) lady-killer (Collins)
+10657) witter (+s +ing +ed)
+10658) witchlike (Wiktionary)
+10659) cess (Collins)
+10660) cheesemaking (Wiktionary)
+10661) chinoiserie (+plural)
+10662) cheesemaker (+plural)
+10663) chough (+plural - it is a bird)
+10664) choucroute
+10665) clubman
+10666) clubmen (plural of previous word)
+10667) coachload (added singular)
+10668) cockcrow
+10669) cockchafer (+plural)
+10670) cohabitee (+plural)
+10671) cohabiter (+plural)
+10672) collectability
+10673) collocational (Collins)
+10674) collectanea
+10675) commonplaces (added plural)
+10676) Roddenberry (+'s - name - Wikipedia)
+10677) Julien (+'s - name - Wikipedia)
+10678) Zilog (+'s - name - Wikipedia)
+10679) predates + predating (merged into predate)
+10680) Sackett (+'s - name - Wikipedia)
+10681) Luxor (+'s - name - Wikipedia)
+10682) Blackhawk (+'s - name - Wikipedia)
+10683) Gerrold (+'s - name - Wikipedia)
+10684) LG (+'s - name - Wikipedia)
+10685) Cusack (+'s - name - Wikipedia)
+10686) Northridge (+'s - name - Wikipedia)
+10687) Spinrad (+'s - name - Wikipedia)
+10688) Klingons (added plural)
+10689) fandom (+plural)
+10690) outcompete (+s +ing +ed)
+10691) Telluride (+'s - name - Wikipedia)
+10692) Heinlein (+'s - name - Wikipedia)
+10693) outcraft
+10694) outcricket
+10695) xenolith (+plural +ic)
+10696) Palaeogene
+10697) sinkhole (+plural +'s - fixed: sink-hole)
+10698) metavolcanic
+10699) Marland (+'s - name - Wikipedia)
+10700) asthenosphere (+ic)
+10701) volcanos (another plural of volcano)
+10702) ultramafic
+10703) laterite (+ic)
+10704) laterigrade
+10705) pyroclastic (+plural)
+10706) pyroclast (+plural)
+10707) tephrite (+ic - Collins)
+10708) pyrocoll
+10709) USD (currency)
+10710) GBP (currency)
+10711) EUR (currency)
+10712) Barends (name - Wikipedia)
+10713) Schild (+'s - name - Wikipedia)
+10714) Rey (+'s - name - Wikipedia)
+10715) AUD (currency)
+10716) JPY (currency)
+10717) CNY (currency)
+10718) Scyphozoa
+10719) scyphozoan
+10720) scyphistomal
+10721) scyphistoma (+plural)
+10722) scyphistomae (another plural of previous word)
+10723) cephalization
+10724) eyespot (+plural)
+10725) mandibulated (Collins)
+10726) ocelli (Collins)
+10727) ocelliform
+10728) ocellus (singular of ocelli)
+10729) ocellar
+10730) photoprotection
+10731) isopod (+plural)
+10732) precopulatory
+10733) stomatopod (Collins)
+10734) preconvulsive
+10735) precontracted
+10736) precontest
+10737) precordium
+10738) precordial
+10739) revenant (+plural)
+10740) Burkard (+'s - name - Wikipedia)
+10741) revisitation
+10742) Manson (+'s - name - Wikipedia)
+10743) Shreya (+'s - name - Wikipedia)
+10744) Jefferies (+'s - name - Wikipedia)
+10745) Kokoda (+'s - name - Wikipedia)
+10746) Africanisms (added plural)
+10747) roadshow (+plural)
+10748) anthocyanin
+10749) rejuvenatory
+10750) rejuvenator (+plural)
+10751) rejuvenant
+10752) rejuvenesce
+10753) rejuvenize (-IZE)
+10754) rejuvenise (-ISE)
+10755) microtask (+plural - Wiktionary)
+10756) Zbarsky (name - Wikipedia)
+10757) iconize (+s +ing +ed -IZE)
+10758) iconise (+s +ing +ed -ISE)
+10759) Ehsan (+'s - name - Wikipedia)
+10760) Sutter (+'s - name - Wikipedia)
+10761) Dashamir (name - Wikipedia)
+10762) Hoxha (+'s - name - Wikipedia)
+10763) Kesteren (+'s - name - Wikipedia)
+10764) atomics
+10765) subtree (+plural - Wiktionary)
+10766) Blandy (+'s - name - Wikipedia)
+10767) Fink (+'s - name - Wikipedia)
+10768) Santell (+'s - name - Wikipedia)
+10769) Jared (+'s - name - Wikipedia)
+10770) Wein (+'s - name - Wikipedia)
+10771) Planck (+'s - name - Wikipedia)
+10772) Rigel (+'s - name - Wikipedia)
+10773) photoflash
+10774) Wannier (name - Wikipedia)
+10775) Jen (+'s - name - Wikipedia)
+10776) autorotates + autorotating (merged into autorotate - Wiktionary)
+10777) diaspores (added plural)
+10778) monospermal
+10779) monospermous
+10780) samara (+plural)
+10781) dipteran (+plural)
+10782) hymenopteran (+plural)
+10783) hymenopterous
+10784) Hymenoptera + hymenoptera
+10785) superfast
+10786) superface
+10787) superfan
+10788) superfemale
+10789) heteropaternal (Wiktionary)
+10790) supersexual
+10791) Kenelm (+'s - name - Wikipedia)
+10792) Digby (+'s - name - Wikipedia)
+10793) vitrine (+plural)
+10794) serviceably
+10795) multipanel (Wiktionary)
+10796) insubstantiality
+10797) monofilament (+plural)
+10798) monofil (+plural)
+10799) monofactorial
+10800) monogenic
+10801) monogenically
+10802) apospory (Collins)
+10803) adaptationists (added plural)
+10804) adaptativeness
+10805) Tuckerman (+'s - name - Wikipedia)
+10806) adaptationalism
+10807) remittable
+10808) remittal
+10809) remittee
+10810) remitter (+plural)
+10811) remitless
+10812) remitment
+10813) Cotgrave (+'s - name - Wikipedia)
+10814) Yakov (+'s - name - Wikipedia)
+10815) Reztsov (name - Wikipedia)
+10816) Martorell (+'s - name - Wikipedia)
+10817) Kearns (+'s - name - Wikipedia)
+10818) Goodwood (+'s - name - Wikipedia)
+10819) Grote (+'s - name - Wikipedia)
+10820) promovent
+10821) Marcum (+'s - name - Wikipedia)
+10822) mA (Wiktionary)
+10823) pinout (+plural)
+10824) hotplug (+s +ing +ed - Wiktionary)
+10825) redesignate (+s +ing +ed +ion)
+10826) retask (+s +ing +ed - Wiktionary)
+10827) SATA's (added the 's - Wikipedia)
+10828) uncoded (Wiktionary)
+10829) eSATA (Wikipedia)
+10830) eSATAp (Wikipedia)
+10831) PATA (Wikipedia)
+10832) kbit (Wikipedia)
+10833) Gbit (Wikipedia)
+10834) Tbit (Wikipedia)
+10835) precharge (+ed - Wiktionary)
+10836) Molex (name - Wikipedia)
+10837) ultrabook (+plural - Wiktionary)
+10838) subnotebook (+plural - Wiktionary)
+10839) SAS (Wiktionary)
+10840) HBA (+plural - Wiktionary)
+10841) dockable (Wiktionary)
+10842) Natterer (+'s - name - Wikipedia)
+10843) Sikking (+'s - name - Wikipedia)
+10844) Nordholts (name - GIMP related)
+10845) GIMP (+s - name - GIMP software page)
+10846) scriptable (Wiktionary)
+10847) Alt (keyboard key)
+10848) Ctrl (keyboard key)
+10849) roadmap (+s +ing +ed - alternative of "road map" - Wiktionary)
+10850) Antje (+'s - name - Wikipedia)
+10851) Parkel (+'s - name - Google)
+10852) acetylsalicylic (acetylsalicylic acid)
+10853) unconcentrated (Wiktionary)
+10854) dopants (added plural)
+10855) dopaminergic
+10856) levodopa
+10857) pyridoxine
+10858) pallidotomy
+10859) pallidum
+10860) stereotactic + stereotaxic
+10861) stereotactically
+10862) abdominoscopy
+10863) abdominizer (-IZE)
+10864) abdominiser (-ISE)
+10865) outwent
+10866) entomophilous
+10867) entomophily
+10868) ornithophilous
+10869) ornithomorphic
+10870) IPS
+10871) UUID (+plural - Wikipedia)
+10872) McManus (+'s - name - Wikipedia)
+10873) Holley (+'s - name - Wikipedia)
+10874) Machulis (name - Wikipedia)
+10875) Damjan (+'s - name - Wikipedia)
+10876) Mielczarek (name - Wikipedia)
+10877) Oleg (+'s - name - Wikipedia)
+10878) Gurevich (+'s - name - Wikipedia)
+10879) plonk (+s +ing +ed +y +er +ers)
+10880) plink (+s +ing +ed +y)
+10881) ASL (abbreviation: American Sign Language)
+10882) plonkingly
+10883) Barrington (+'s - name - Wikipedia)
+10884) Cecily (+'s - name - Wikipedia)
+10885) Gwendolen (+'s - name - Wikipedia)
+10886) Haskell's (added the 's - name - Wikipedia)
+10887) Skerry (+'s - name - Wikipedia)
+10888) Montresor (+'s - name - Wikipedia)
+10889) assumedly
+10890) disjuncts (added plural)
+10891) divisionist (+plural - Wiktionary)
+10892) definiendum
+10893) definienda (plural of previous word)
+10894) definiens
+10895) definientia (plural of previous word)
+10896) copular
+10897) Syriac (+'s - name - Wikipedia)
+10898) predicational
+10899) Hegel's (added the 's - name - Wikipedia)
+10900) predicateless
+10901) Shedd (+'s - name - Wikipedia)
+10902) predicatival
+10903) substantivally
+10904) substantival
+10905) Rahul (+'s - name - Wikipedia)
+10906) Sharma (+'s - name - Wikipedia)
+10907) prerequisition
+10908) preretina
+10909) prerequire (+s +ing +ed - Wiktionary)
+10910) Glanvill (+'s - name - Wikipedia)
+10911) prerenal
+10912) Karn (+'s - name - Wikipedia)
+10913) Jillie (+'s - name - Wikipedia)
+10914) Azizur (name - Wikipedia)
+10915) Rahman (+'s - name - Wikipedia)
+10916) MMORPG (+plural - Wikipedia)
+10917) RPGs (added plural)
+10918) warcraft (+'s - Collins + Wikipedia)
+10919) WTF (Oxford: vulgar slang)
+10920) Madjid (name - Wikipedia)
+10921) Moradian (+'s - name - Wikipedia)
+10922) WTO (abbreviation: World Trade Organization)
+10923) deixis
+10924) schematize (+s +ing +ed +ion - IZE)
+10925) schematise (+s +ing +ed +ion - ISE)
+10926) embeddedness + imbeddedness
+10927) advect (+s +ing +ed)
+10928) advection
+10929) advective
+10930) cyclogenesis
+10931) hygroscope (+plural)
+10932) altocumulus
+10933) altocumuli (plural of previous word)
+10934) anemometric
+10935) aerovane
+10936) Aertex (trademark)
+10937) aerotropism
+10938) aerotrain
+10939) pingable
+10940) pings (added plural)
+10941) pingers (added plural)
+10942) telnet (+s +ing +ed +able)
+10943) telnetable (also with just one T)
+10944) telogen
+10945) anagen
+10946) anaglyphs + anaglyphic (merged into anaglyph)
+10947) cryptical (Collins)
+10948) Muppets (added plural - uppercase)
+10949) muppet (+plural +'s - lowercase)
+10950) gawp (+s +ing +ed +er +ers)
+10951) muonless
+10952) muonium
+10953) cocksfoot (+plural)
+10954) cockspur (+plural)
+10955) cockshy (added singular)
+10956) butterwort (+plural)
+10957) dropwort
+10958) prunish
+10959) prunitrin
+10960) prunetin
+10961) isoflavone (+plural)
+10962) monomethyl
+10963) genistein + genisteine
+10964) genista (+plural)
+10965) cineraria (+plural)
+10966) echium (Collins)
+10967) viperfish (+plural)
+10968) viraemia + viremia
+10969) viraemic + viremic
+10970) purpura (+ic)
+10971) psychogenic
+10972) macular
+10973) macula
+10974) maculae (plural of previous word)
+10975) alopecia
+10976) androgenetic (Collins)
+10977) trichotillomania
+10978) trichopteran (+plural)
+10979) ostracod + ostracode (+plural of both)
+10980) mysid (+plural)
+10981) cladoceran (+plural)
+10982) hypersaline (Collins)
+10983) osmoregulator
+10984) osmoregulation
+10985) osmoregulatory
+10986) epiphyte (+plural)
+10987) epiphytal
+10988) epiphytic
+10989) bromeliad (+plural)
+10990) Darien (+'s - name - Wikipedia)
+10991) cichlid (+plural)
+10992) tilapia
+10993) mouthbrooder (+plural)
+10994) mouthable
+10995) mouthfeel (+plural)
+10996) macadamia (+plural)
+10997) hempseed
+10998) disgorgers (added plural)
+10999) disfrock (+s +ing +ed - Wiktionary)
+11000) briefless
+11001) autoload (+s +ing +ed - Wiktionary)
+11002) autoloaders (added plural)
+11003) low-cost
+11004) Low-Churchism
+11005) Blackburne (+'s - name - Wikipedia)
+11006) lipoic (lipoic acid - Collins)
+11007) carbohydrase
+11008) glycosidic
+11009) pyranose
+11010) pyran + pyrane
+11011) autoland (+s +ing - Wiktionary)
+11012) autokinetic
+11013) autokinesis
+11014) autokinesy
+11015) Cudworth (+'s - name - Wikipedia)
+11016) autokinetical
+11017) autolaryngoscope
+11018) autolaryngoscopy
+11019) autolatry
+11020) compèred (merged into compère)
+11021) coned
+11022) congregational (lowercase)
+11023) conjuror (+plural)
+11024) convenors (added plural)
+11025) convertor (+plural)
+11026) reckoners (added plural)
+11027) couloir (+plural)
+11028) Covenanter (+plural - uppercase)
+11029) covenanters (added plural - lowercase)
+11030) cruiserweight
+11031) debutant (+plural)
+11032) debutantes (added plural)
+11033) debuts (added plural)
+11034) deco
+11035) shedload (+plural)
+11036) Hewan (+'s - name - Wikipedia)
+11037) Manificat (name - Wikipedia)
+11038) André (+'s - name - Wikipedia)
+11039) Eurogroup
+11040) Corbyn (+'s - name - Wikipedia)
+11041) Spector (+'s - name - Wikipedia)
+11042) Kurdi (+'s - name - Wikipedia)
+11043) Syriza (+'s - name - Wikipedia)
+11044) Eurofanatic
+11045) Eurodisco
+11046) Eurocratic
+11047) Eurocracy
+11048) Euroclydon
+11049) Eurocheque
