@@ -13558,7 +13558,124 @@ V2.33
 11047) Eurocracy
 11048) Euroclydon
 11049) Eurocheque
+
+
+V2.34 (ONGOING)
+2-FEB-2016
+11050) Towler (+'s - name - Wikipedia)
+11051) Tkáč (name - Wikipedia)
+11052) Walgreens (+'s - name - Wikipedia)
+11053) drugster
+11054) drugless
+11055) druggish
+11056) Anglo-Russian
+11057) Bisset (+'s - name - Wikipedia)
+11058) oftens + hoffens + hoftens + ofens + offance
+            + offens + offense + offins + off'ns + off'nce + offt'ns
+11059) Ofwat (abbreviation: Office of Water Services)
+11060) studenty
+11061) pop-cult
+11062) Woolcock (+'s - name - Wikipedia)
+11063) Eckhart (+'s - name - Wikipedia)
+11064) Marlboro (+'s - name - Wikipedia)
+11065) childcarer (+plural)
+11066) childed
+11067) childage
+11068) inappropriacy
+11069) max
+11070) externality (added singular)
+11071) delink (+s +ing +ed)
+11072) mercantilism
+11073) mercantilist (+plural)
+11074) duopolistic
+11075) Celticism
+11076) Celticist (+plural)
+11077) tartanry (Collins)
+11078) Gonne (+'s - name - Wikipedia)
+11079) Hogwarts (name from film - Wikipedia)
+11080) afterdeath
+11081) afterknowledge
+11082) afterlight
+11083) afterling
+11084) afterload (+ing)
+11085) sailboarders (added plural)
+11086) kiteboard (+s +ing +ed)
+11087) whitelist (+s +ing +ed - Wiktionary)
+11088) Neuwirth (+'s - name - Wikipedia)
+11089) aflagellar
+11090) aflagellate
+11091) aflank
+11092) aflap
+11093) unported (Wiktionary)
+11094) keypair (+plural - Wiktionary)
+11095) Niccolo (+'s - name - Wikipedia)
+11096) Brunschwig (+'s - name - Wikipedia)
+11097) Olav
+11098) Seyfarth (+'s - name - Wikipedia)
+11099) co-wrote
+11100) co-write (+s +ing)
+11101) nightlies (added plural - Wiktionary)
+11102) Nico (+'s - name - Wikipedia)
+11103) Josuttis (name - Wikipedia)
+11104) Clizbe (name - Wikipedia)
+11105) Coughlan (+'s - name - Wikipedia)
+11106) Ramalingam (+'s - name - Wikipedia)
+11107) Saravanan (+'s - name - Wikipedia)
+11108) Daniele (+'s - name - Wikipedia)
+11109) Raffo (+'s - name - Wikipedia)
+11110) Schneier (+'s - name - Wikipedia)
+11111) Keillor (+'s - name - Wikipedia)
+11112) Wobegon (name - Wikipedia)
+11113) OpenPGP's (added the 's - Wikipedia)
+11114) PKCS (Wikipedia)
+11115) Horowitz's (added the 's - name - Wikipedia)
+11116) GmbH (Collins)
+11117) crypto (+plural - Wiktionary)
+11118) GPG (Wikipedia)
+11119) Wikipedias (added plural - Wikipedia)
+11120) watchlist (+s +ing +ed  - Wiktionary)
+11121) microformat (+plural - Wiktionary)
+11122) Wikibooks (Wikipedia)
+11123) Wikiquote (Wikipedia)
+11124) Wikiversity (Wikipedia)
+11125) MediaWiki (Wikipedia)
+11126) Wikidata (Wikipedia)
+11127) Wikisource (Wikipedia)
+11128) Wikivoyage (Wikipedia)
+11129) Meta-Wiki (Wikipedia)
+11130) Wikinews (Wikipedia)
+11131) Wikispecies (Wikipedia)
+11132) ISBNs (added plural - Wikipedia)
+11133) BBSs (added plural - Wikipedia)
+
+3-FEB-2016
+11134) Hardesty (+'s - name - Wikipedia)
+11135) Polley (+'s - name - Wikipedia)
+11136) microsystem (+plural - Wiktionary)
+11137) macrosystem (+plural - Wiktionary)
+11138) IR (abbreviation: Infrared)
+11139) Regio (+'s - name - Wikipedia)
+11140) Kuiper (+'s - name - Wikipedia)
+11141) conformability
+11142) conformably
+11143) demerara
+11144) Demerara (name)
+11145) depoliticization (-IZE)
+11146) depoliticisation (-ISE)
+11147) automaticity
+11148) katana (+plural)
+11149) derring-do
+11150) deskill (+s +ing +ed)
+11151) detrital
+11152) lineside (+plural)
+11153) undrunk (Collins)
+11154) terrigenous
+11155) palaeocurrent (+plural)
+11156) lithologies (added plural - Wiktionary)
+11157) directionless
+11158) dirigisme
+11159) dirigiste
 =============
 
-British English Dictionary (Forked) 2.33
+British English Dictionary (Forked) 2.34
 by Marco A.G.Pinto
