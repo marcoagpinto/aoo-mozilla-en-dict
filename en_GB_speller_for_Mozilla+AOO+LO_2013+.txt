@@ -13675,6 +13675,82 @@ V2.34 (ONGOING)
 11157) directionless
 11158) dirigisme
 11159) dirigiste
+
+5-FEB-2016
+11160) oxt + OXT (AOO/LO extension)
+11170) xpi + XPI (Mozilla extension)
+11171) Wiktionaries (added plural - Wiktionary)
+11172) Hiligaynon (+plural)
+11173) Serbo-Croat + Serbo-Croatian
+11174) Ido
+11175) def
+11176) locomote (+s +ing +ed)
+11177) locomobile
+11178) locomobility
+11179) locomotivity
+11180) locomotiveness
+11181) labroid (Collins)
+11182) myomere (+plural)
+11183) debatably
+11184) understater (+plural)
+11185) BrE (British English - Dictionary)
+11186) NAmE (North American English - Dictionary)
+11187) flat-earther (+plural - Wiktionary)
+11188) overorganize (Collins -IZE)
+11189) overorganise (Collins -ISE)
+11190) overutilization (Collins -IZE)
+11191) overutilisation (Collins -ISE)
+
+8-FEB-2016
+11192) PNG (+plural - Wikipedia)
+11193) GIFs (added plural - Wikipedia)
+11194) JPEGs (added plural - Wikipedia)
+11195) EXIF (Wiktionary)
+11196) TIFF (+plural - Wikipedia)
+11197) obs.
+11198) re-enable (+s +ing +ed)
+11199) re-enablement
+11200) reassume (+s +ing +ed)
+11201) reassumption
+11202) clawback (+plural)
+11203) gazunder (+s +ing +ed)
+11204) gazump (+s +ing +ed)
+11205) crabmeat
+11206) minicabs (added plural)
+11207) Boothtown (name - Wikipedia)
+11208) Berlusconi (+'s - name - Wikipedia)
+11209) minibore
+11210) microbore
+11211) NASDAQ's (added the 's - Wikipedia)
+11212) Nasdaq (+'s - name - another way of the uppercase - Wikipedia)
+
+10-FEB-2016
+11213) Matthieu (+'s - name - Wikipedia)
+11214) Massart (+'s - name - Wikipedia)
+11215) infract (+s +ing +ed - Wiktionary)
+11216) infractor (+plural)
+11217) misdemeanour (+plural)
+11218) misdescriptive
+11219) refractor (added singular)
+11220) Galilei (+'s - name - Wikipedia)
+11221) screeners (added plural)
+11222) screenfuls (added plural)
+11223) enactable
+11224) enaction
+11225) enactive
+11226) enactor (+plural)
+11227) underact (+s +ing +ed)
+11228) unbacked
+11229) abreact (+s +ing +ed)
+11230) abrenunciation
+11231) abricotine
+11232) abridgedly
+11233) unpracticable
+11234) unpracticalness
+11235) unpowerful
+11236) Florio (+'s - name - Wikipedia)
+11237) unpower
+11238) Langland (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.34
