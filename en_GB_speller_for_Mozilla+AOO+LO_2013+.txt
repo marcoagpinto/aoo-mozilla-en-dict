@@ -13751,6 +13751,82 @@ V2.34 (ONGOING)
 11236) Florio (+'s - name - Wikipedia)
 11237) unpower
 11238) Langland (+'s - name - Wikipedia)
+
+12-FEB-2016
+11239) Gmail's (added the 's - Wikipedia)
+11240) timeouts (added plural)
+11241) subquery (+plural - Wiktionary)
+11242) LDAP (Wiktionary)
+11243) JIT (+s +ing +ed - Wiktionary)
+11244) JVM (+plural - Wiktionary)
+11245) basic's (added the 's - Wikipedia)
+11246) SVG (Wiktionary)
+11247) Shanahan (+'s - name - Wikipedia)
+11248) Birkbeck (+'s - name - Wikipedia)
+11249) Valentin
+11250) JSON
+11251) Ewa (+'s - name - Wikipedia)
+11252) Engin (+'s - name - Wikipedia)
+11253) Oder (+'s - name - Wikipedia)
+11254) O'Callahan (+'s - name - Wikipedia)
+11255) Pierron (+'s - name - Wikipedia)
+11256) syscall (+plural - Wiktionary)
+11257) Devan (+'s - name - Wikipedia)
+11258) Grude (name - Wikipedia)
+11259) Dunglison (+'s - name - Wikipedia)
+11260) Cygwin (Wiktionary)
+
+16-FEB-2016
+11261) unduplicated (Collins)
+11262) Juri (+'s - name - Wikipedia)
+11263) Moscianese (name - Wikipedia)
+11264) dismissible
+11265) dismantler (+plural)
+11266) dismast (+s +ing +ed - Wiktionary)
+11267) dramaturgic
+11268) dramaturgical
+11269) dramaturgically
+11270) dramaturgist (+plural)
+11271) swage (+s +ing +ed)
+11272) swaggerers (added plural)
+11273) swaggeringly
+11274) blag (+s +ing +ed +er +ers)
+11275) zag (+s +ing +ed)
+11276) sprag
+11277) quag (+s +ing +y)
+11278) Bailey (+'s - name - Wikipedia)
+11279) quaffable
+11280) quaffers (added plural)
+11281) boff (+plural)
+11282) toff (+s +ed)
+11283) prat (+plural)
+11284) Leith (+'s - name - Wikipedia)
+11285) Rosyth (+'s - name - Wikipedia)
+11286) prasinophyte
+11287) biocultural
+11288) Adami (+'s - name - Wikipedia)
+11289) biocybernetic (+plural)
+11290) biodeterioration
+11291) biodigester
+11292) biodynamical (+ly)
+11293) biodome
+11294) bioecological
+11295) bioecology
+11296) bioeconomic (+plural)
+11297) bioeffluent
+11298) bioelectricity
+11299) bioelectromagnetic (+plural)
+11300) bioelement
+11301) bioelectrochemistry
+11302) intermittence (+plural)
+11303) intermittency
+11304) intermixable
+11305) intermixture
+11306) onglaze
+11307) onflow (+ing)
+11308) onewhile
+11309) tenantry
+11310) stomach-ache (removed - Oxford says it is two words)
 =============
 
 British English Dictionary (Forked) 2.34
