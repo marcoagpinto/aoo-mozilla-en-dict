@@ -13827,6 +13827,73 @@ V2.34 (ONGOING)
 11308) onewhile
 11309) tenantry
 11310) stomach-ache (removed - Oxford says it is two words)
+
+18-FEB-2016
+11311) stomachache (another way of: "stomach ache" - Collins)
+11312) DALnet's (added the 's)
+11313) octahedrons (added plural)
+11314) octahedra (another plural of previous word)
+11315) octakishexahedron
+11316) octamer
+11317) octamerous
+11318) octocorallian
+11319) hexamerous (Collins)
+11320) hexameral (Collins)
+11321) hexamerism (Collins)
+11322) octodactylous
+11323) octodecimo (+plural)
+11324) Rawles (+'s - name - Wikipedia)
+11325) Wechel (+'s - name - Wikipedia)
+11326) Mayne (+'s - name - Wikipedia)
+11327) Dugan (+'s - name - Wikipedia)
+11328) octodesexcentenary
+11329) Lydiat (+'s - name - Wikipedia)
+11330) octodentate
+11331) octode
+11332) octocoralline
+11333) octocoral
+11334) LibreOffice's (added the 's - Wikipedia)
+11335) NetBSD (+'s - name - Wikipedia)
+11336) rebase (+s +ing +ed)
+11337) Meeks (+'s - name - Wikipedia)
+11338) Geurts (name - Wikipedia)
+11339) Borkowska (name - Wikipedia)
+11340) Volkeri (name - Google)
+11341) folky (+ier +iest +ness)
+11342) Orton (+'s - name - Wikipedia)
+11343) scuzzy (+ier +iest +ness)
+11344) muzzy (+ier +iest +ly +ness)
+11345) scutum
+11346) scuta (plural or previous word)
+11347) Scutum (name Astronomy)
+11348) Aquila (name Astronomy)
+11349) Serpens (name Astronomy)
+11350) scutellum
+11351) scutella (plural of previous word)
+11352) scutellar
+11353) coleorhiza
+11354) coleorhizae (plural of previous word)
+11355) notum
+11356) nota (plural of previous word)
+11357) notal
+11358) ommatidium
+11359) ommatidia (plural of previous word)
+11360) neurocrystalline (Wiktionary)
+11361) myriapods (added plural)
+11362) rhabdom + rhabdome (+plural of both)
+11363) zoeal (Collins)
+11364) tapetum (+plural)
+11365) bigeyes (added plural)
+11366) eyeshine
+11367) ossicle (+plural)
+11368) sclerotized (-IZE)
+11369) sclerotised (-ISE)
+11370) sclerotization (-IZE)
+11371) sclerotisation (-ISE)
+11372) melanization (-IZE)
+11373) melanisation (-ISE)
+11374) melanite
+11375) andradite
 =============
 
 British English Dictionary (Forked) 2.34
