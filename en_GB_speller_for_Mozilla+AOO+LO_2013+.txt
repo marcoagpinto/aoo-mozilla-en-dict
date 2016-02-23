@@ -13894,6 +13894,139 @@ V2.34 (ONGOING)
 11373) melanisation (-ISE)
 11374) melanite
 11375) andradite
+
+22-FEB-2016
+11376) inline (+s +ing +ed - more used in computing - Wiktionary)
+11377) Bo (+'s - name - Wikipedia)
+11378) Gravesen (+'s - name - Wikipedia)
+11379) Finlayson (+'s - name - Wikipedia)
+11380) cf. (abbreviation)
+11381) discomania
+11382) discomaniac
+11383) discolourment
+11384) discolorous
+11385) discolith
+11386) coccolith (+plural)
+11387) coccolithophore (+plural)
+11388) coccolithophorid (+plural)
+11389) autotroph (+plural)
+11390) autotrophic
+11391) autotrophy
+11392) heterotroph (+plural)
+11393) heterotrophic
+11394) heterotrophy
+11395) photoautotrophy
+11396) photoautotroph
+11397) photoautotrophic
+11398) photoassimilate
+11399) photoassimilation
+11400) photoallergy (+ic)
+11401) photoaging + photoageing
+11402) photoaged
+11403) photoaffinity
+11404) photoactive
+11405) photoactivity
+11406) photoactivation
+11407) photoactivate (+s +ing +ed)
+11408) photoactivatable
+11409) photoaction
+11410) photoact
+11411) photoacoustic
+11412) optoacoustic
+11413) photoabsorbing
+11414) photoabsorption
+11415) Zedong (+'s - name - Wikipedia)
+11416) souchong
+11417) nongenary
+11418) Guangdong (+'s - name - Wikipedia)
+11419) Haiphong (+'s - name - Wikipedia)
+11420) stackers (added plural)
+11421) pitch-black
+11422) dracaena (+plural)
+11423) houseplant (+plural - fixed: house-plant)
+11424) monstera
+11425) scorzonera
+11426) skirret (+plural)
+11427) Lazio's (added the 's - name)
+11428) Latium (+'s - name - Wikipedia)
+11429) rocksteady
+11430) Latinism (+plural)
+11431) Latinist
+11432) uncanonical (+ly)
+11433) Filioque
+11434) colchicum (+plural)
+11435) mugwort (+plural)
+11436) Chazen (name - Wikipedia)
+11437) fiddly (+ier +iest)
+11438) fideism
+11439) fideist (+plural)
+11440) fideistic
+11441) epistemologist (+plural)
+11442) contextualism
+11443) contextualist (+plural)
+11444) innatism (Wiktionary)
+
+23-FEB-2016
+11445) interpositive (+plural)
+11446) Hays (+'s - name - Wikipedia)
+11447) Jeffersonian
+11448) Jeffersontown (name - Wikipedia)
+11449) jeggings
+11450) plumps + plumping + plumped (merged into plump)
+11451) plumpitude
+11452) plumpen
+11453) plumula
+11454) plumule (+plural)
+11455) radicle (+plural)
+11456) radicular
+11457) fibrocartilage
+11458) fibrogenesis
+11459) fibrocystic
+11460) solanum (+plural)
+11461) Koga (+'s - name - Wikipedia)
+11462) alkanet
+11463) ochreish
+11464) ochroid
+11465) ochrous
+11466) ochry
+11467) Yarmuk (name - Wikipedia)
+11468) byzantine (also lowercase)
+11469) Byzantinism
+11470) Byzantinist (+plural)
+11471) Orientalism
+11472) Orientalists (added plural)
+11473) Orientalistic (Collins)
+11474) Europeanist
+11475) Europeanism
+11476) Europe-wide
+11477) Europasian
+11478) Europarliamentarian
+11479) Europarliamentary
+11480) Euronote
+11481) Euromissile
+11482) Euronet
+11483) Euromart
+11484) Euroland's (added the 's + changed to uppercase)
+11485) Euroequity
+11486) overset (+s +ing)
+11487) removed: over-sensitive + over-sensitiveness + over-sensitivity
+11488) oversensitive
+11489) oversensitiveness
+11490) oversensitivity
+11491) oversensible
+11492) overseership
+11493) overself
+11494) uplifter (+plural)
+11495) upliftment
+11496) squill (+plural)
+11497) anthurium (+plural)
+11498) anthropophagy
+11499) anthropophagous
+11500) anthropophagus
+11501) anthropophagi (plural of previous word)
+11502) ethnocide
+11503) ethnogenesis
+11504) bugfix (+plural - computing - Wiktionary)
 =============
 
 British English Dictionary (Forked) 2.34
