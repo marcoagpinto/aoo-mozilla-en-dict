@@ -13560,7 +13560,7 @@ V2.33
 11049) Eurocheque
 
 
-V2.34 (ONGOING)
+V2.34
 2-FEB-2016
 11050) Towler (+'s - name - Wikipedia)
 11051) Tkáč (name - Wikipedia)
@@ -14027,6 +14027,191 @@ V2.34 (ONGOING)
 11502) ethnocide
 11503) ethnogenesis
 11504) bugfix (+plural - computing - Wiktionary)
+
+24-FEB-2016
+11505) Whittle (+'s - name - Wikipedia)
+11506) Lynde (+'s - name - Wikipedia)
+11507) series's (added the 's - Wikipedia)
+11508) disproportionality
+11509) Hilbert's (added the 's - name - Wikipedia) 
+11510) homologize (+s +ing +ed - IZE)
+11511) homologise (+s +ing +ed - ISE)
+11512) choanocyte (+plural)
+11513) oscular
+11514) saccule (+plural)
+11515) saccular
+11516) sacculated
+11517) sacculation
+11518) sacculus
+11519) utricle (+plural)
+11520) utricular
+11521) hypergravity (Wiktionary)
+11522) lagena
+11523) lagenae (plural or previous word)
+11524) bilobed + bilobate
+11525) leaf-like
+11526) rostral (+ly)
+11527) rostro-caudal
+11528) rostroid
+11529) rostrocaudally
+11530) rostra (another plural of rostrum)
+11531) rosulate
+11532) palatoquadrate
+11533) pterygoid
+11534) sphenoidal
+11535) sphenoid
+11536) internasal
+11537) internalness
+11538) internarial
+11539) internation
+11540) IAEA (abbreviation: International Atomic Energy Agency)
+11541) ceramide (Collins)
+11542) intermodal
+11543) intermit (+s +ing +ed)
+11544) swingle (+s +ing +ed)
+11545) scutch (+s +ing +ed +er +ers)
+11546) ret (+s +ing +ed)
+11547) retable + retablo (+plurals of both)
+11548) ciborium
+11549) ciboria (plural of previous word)
+11550) coreopsis
+11551) coreopses (plural of previous word)
+11552) tickover
+11553) downforce
+11554) Gondwana (+'s - name - Wikipedia)
+11555) doronicum (+plural)
+11556) orthostatic
+11557) risperidone
+11558) olanzapine (Wiktionary)
+11559) tardive (tardive dyskinesia)
+11560) parkinsonism
+11561) parklands (added plural)
+11562) geodemographic (+plural)
+11563) exostosis
+11564) exostoses (plural of previous word)
+11565) exothermicity
+11566) biochar
+11567) Etherpad (+'s - name - Wikipedia)
+11568) ecocentrism
+11569) ecocentric
+11570) anthropocentrically
+11571) anthropocentrism
+11572) randomicity
+11573) unknowable
+11574) unknowability
+11575) unknowledgeable + unknowledgable
+11576) unknot (+s +ing +ed)
+11577) unknit (+s +ing +ed)
+11578) unking (+s +ing +ed)
+11579) unkinks + unkinking + unkinked (merged into unkink)
+11580) unkillable
+11581) unkept
+
+25-FEB-2016
+11582) 4D
+11583) Fix: Zellick'sF and added 's to Zellick
+11584) decametres (added plural)
+11585) decanal
+11586) establishmentarian (+plural)
+11587) establishmentarianism
+11588) equalitarian
+11589) equalitarianism
+11590) loving-kindness
+11591) toon (+plural)
+11592) Scooby (+'s - name - Wikipedia)
+11593) Looney (+'s - name - Wikipedia)
+11594) webtoon (+plural)
+11595) Pringles (name - Wikipedia)
+11596) geofencing
+11597) RFID
+11598) Benford (+'s - name - Wikipedia)
+11599) geoeconomics
+11600) geodynamo
+11601) little-minded (+ness)
+11602) gruntled
+11603) grunters (added plural)
+11604) aholehole
+11605) flagtail
+11606) Indo-Pacific
+11607) Indo-Malaysian + Indo-Malayan
+11608) Indo-Iranian
+11609) Indo-Germanic
+11610) Indo-Chinese
+11611) Indo-China
+11612) Indo-Aryan
+11613) indochinite
+11614) borderless
+11615) borderers (added plural)
+11616) scroller (+plural)
+11617) platformer (+plural)
+11618) platformist
+11619) platformy
+11620) platformless
+11621) platforming
+11622) Platforming (trademark)
+11623) platformate
+11624) tryptophan
+11625) threonine
+11626) valine
+11627) leucine
+11628) falciparum
+11629) aspartate (+plural)
+11630) glutamates (added plural)
+11631) arginine
+11632) trimer (+plural)
+11633) trimeric
+11634) nonsymmetric + nonsymmetrical (Collins)
+11635) tetramer (+plural)
+11636) oligomer (+plural)
+11637) solubilize (+s +ing +ed -IZE)
+11638) solubilise (+s +ing +ed -ISE)
+11639) solubilization (-IZE)
+11640) solubilisation (-ISE)
+11641) preprocess (+s +ing +ed <- two forms were missing)
+11642) overlanding + overlanded +s +er +ers (merged into overland)
+11643) pastoralist (+plural)
+11644) interethnic
+11645) Radha (+'s - name - Wikipedia)
+11646) cathead (+plural)
+11647) tosh
+11648) codswallop
+11649) Codd (+'s - name - Wikipedia)
+11650) codomain
+11651) codlings (added plural)
+11652) lionheart (+plural)
+11653) lionhead
+11654) paratype
+11655) isotype (Collins)
+11656) metatype
+11657) metaverse
+11658) metavariscite
+11659) variscite (Collins)
+11660) metatropy
+11661) metatracheal
+11662) paratracheal
+11663) succeedable (Collins)
+11664) succeedingly (Collins)
+11665) countermelody (+plural)
+11666) countermove (+plural)
+11667) countermovement (+plural)
+11668) counteroffensive (+plural)
+11669) radical's (added the 's - Wikipedia)
+11670) Ridgway (+'s - name - Wikipedia)
+11671) Mustafa (+'s - name - Wikipedia)
+11672) Moratuwa (name - Wikipedia)
+11673) noodled + noodling (merged into noodle)
+11674) Bowie's (added 's - name - Wikipedia)
+11675) counternarcotics
+11676) bumpily
+11677) overbed
+11678) bumsters
+11679) Kath (+'s - name - Wikipedia)
+11680) clamdiggers
+11681) all-inclusiveness
+11682) all-independent
+11683) all-instrumental
+11684) all-male
+11685) all-female
 =============
 
 British English Dictionary (Forked) 2.34

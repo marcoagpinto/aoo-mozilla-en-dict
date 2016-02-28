@@ -12788,3 +12788,635 @@ V2.33 - 1-FEB-2016
 11047) Eurocracy
 11048) Euroclydon
 11049) Eurocheque
+
+
+V2.34 - 1-MAR-2016
+------------------
+11050) Towler (+'s - name - Wikipedia)
+11051) Tkáč (name - Wikipedia)
+11052) Walgreens (+'s - name - Wikipedia)
+11053) drugster
+11054) drugless
+11055) druggish
+11056) Anglo-Russian
+11057) Bisset (+'s - name - Wikipedia)
+11058) oftens + hoffens + hoftens + ofens + offance
+            + offens + offense + offins + off'ns + off'nce + offt'ns
+11059) Ofwat (abbreviation: Office of Water Services)
+11060) studenty
+11061) pop-cult
+11062) Woolcock (+'s - name - Wikipedia)
+11063) Eckhart (+'s - name - Wikipedia)
+11064) Marlboro (+'s - name - Wikipedia)
+11065) childcarer (+plural)
+11066) childed
+11067) childage
+11068) inappropriacy
+11069) max
+11070) externality (added singular)
+11071) delink (+s +ing +ed)
+11072) mercantilism
+11073) mercantilist (+plural)
+11074) duopolistic
+11075) Celticism
+11076) Celticist (+plural)
+11077) tartanry (Collins)
+11078) Gonne (+'s - name - Wikipedia)
+11079) Hogwarts (name from film - Wikipedia)
+11080) afterdeath
+11081) afterknowledge
+11082) afterlight
+11083) afterling
+11084) afterload (+ing)
+11085) sailboarders (added plural)
+11086) kiteboard (+s +ing +ed)
+11087) whitelist (+s +ing +ed - Wiktionary)
+11088) Neuwirth (+'s - name - Wikipedia)
+11089) aflagellar
+11090) aflagellate
+11091) aflank
+11092) aflap
+11093) unported (Wiktionary)
+11094) keypair (+plural - Wiktionary)
+11095) Niccolo (+'s - name - Wikipedia)
+11096) Brunschwig (+'s - name - Wikipedia)
+11097) Olav
+11098) Seyfarth (+'s - name - Wikipedia)
+11099) co-wrote
+11100) co-write (+s +ing)
+11101) nightlies (added plural - Wiktionary)
+11102) Nico (+'s - name - Wikipedia)
+11103) Josuttis (name - Wikipedia)
+11104) Clizbe (name - Wikipedia)
+11105) Coughlan (+'s - name - Wikipedia)
+11106) Ramalingam (+'s - name - Wikipedia)
+11107) Saravanan (+'s - name - Wikipedia)
+11108) Daniele (+'s - name - Wikipedia)
+11109) Raffo (+'s - name - Wikipedia)
+11110) Schneier (+'s - name - Wikipedia)
+11111) Keillor (+'s - name - Wikipedia)
+11112) Wobegon (name - Wikipedia)
+11113) OpenPGP's (added the 's - Wikipedia)
+11114) PKCS (Wikipedia)
+11115) Horowitz's (added the 's - name - Wikipedia)
+11116) GmbH (Collins)
+11117) crypto (+plural - Wiktionary)
+11118) GPG (Wikipedia)
+11119) Wikipedias (added plural - Wikipedia)
+11120) watchlist (+s +ing +ed  - Wiktionary)
+11121) microformat (+plural - Wiktionary)
+11122) Wikibooks (Wikipedia)
+11123) Wikiquote (Wikipedia)
+11124) Wikiversity (Wikipedia)
+11125) MediaWiki (Wikipedia)
+11126) Wikidata (Wikipedia)
+11127) Wikisource (Wikipedia)
+11128) Wikivoyage (Wikipedia)
+11129) Meta-Wiki (Wikipedia)
+11130) Wikinews (Wikipedia)
+11131) Wikispecies (Wikipedia)
+11132) ISBNs (added plural - Wikipedia)
+11133) BBSs (added plural - Wikipedia)
+11134) Hardesty (+'s - name - Wikipedia)
+11135) Polley (+'s - name - Wikipedia)
+11136) microsystem (+plural - Wiktionary)
+11137) macrosystem (+plural - Wiktionary)
+11138) IR (abbreviation: Infrared)
+11139) Regio (+'s - name - Wikipedia)
+11140) Kuiper (+'s - name - Wikipedia)
+11141) conformability
+11142) conformably
+11143) demerara
+11144) Demerara (name)
+11145) depoliticization (-IZE)
+11146) depoliticisation (-ISE)
+11147) automaticity
+11148) katana (+plural)
+11149) derring-do
+11150) deskill (+s +ing +ed)
+11151) detrital
+11152) lineside (+plural)
+11153) undrunk (Collins)
+11154) terrigenous
+11155) palaeocurrent (+plural)
+11156) lithologies (added plural - Wiktionary)
+11157) directionless
+11158) dirigisme
+11159) dirigiste
+11160) oxt + OXT (AOO/LO extension)
+11170) xpi + XPI (Mozilla extension)
+11171) Wiktionaries (added plural - Wiktionary)
+11172) Hiligaynon (+plural)
+11173) Serbo-Croat + Serbo-Croatian
+11174) Ido
+11175) def
+11176) locomote (+s +ing +ed)
+11177) locomobile
+11178) locomobility
+11179) locomotivity
+11180) locomotiveness
+11181) labroid (Collins)
+11182) myomere (+plural)
+11183) debatably
+11184) understater (+plural)
+11185) BrE (British English - Dictionary)
+11186) NAmE (North American English - Dictionary)
+11187) flat-earther (+plural - Wiktionary)
+11188) overorganize (Collins -IZE)
+11189) overorganise (Collins -ISE)
+11190) overutilization (Collins -IZE)
+11191) overutilisation (Collins -ISE)
+11192) PNG (+plural - Wikipedia)
+11193) GIFs (added plural - Wikipedia)
+11194) JPEGs (added plural - Wikipedia)
+11195) EXIF (Wiktionary)
+11196) TIFF (+plural - Wikipedia)
+11197) obs.
+11198) re-enable (+s +ing +ed)
+11199) re-enablement
+11200) reassume (+s +ing +ed)
+11201) reassumption
+11202) clawback (+plural)
+11203) gazunder (+s +ing +ed)
+11204) gazump (+s +ing +ed)
+11205) crabmeat
+11206) minicabs (added plural)
+11207) Boothtown (name - Wikipedia)
+11208) Berlusconi (+'s - name - Wikipedia)
+11209) minibore
+11210) microbore
+11211) NASDAQ's (added the 's - Wikipedia)
+11212) Nasdaq (+'s - name - another way of the uppercase - Wikipedia)
+11213) Matthieu (+'s - name - Wikipedia)
+11214) Massart (+'s - name - Wikipedia)
+11215) infract (+s +ing +ed - Wiktionary)
+11216) infractor (+plural)
+11217) misdemeanour (+plural)
+11218) misdescriptive
+11219) refractor (added singular)
+11220) Galilei (+'s - name - Wikipedia)
+11221) screeners (added plural)
+11222) screenfuls (added plural)
+11223) enactable
+11224) enaction
+11225) enactive
+11226) enactor (+plural)
+11227) underact (+s +ing +ed)
+11228) unbacked
+11229) abreact (+s +ing +ed)
+11230) abrenunciation
+11231) abricotine
+11232) abridgedly
+11233) unpracticable
+11234) unpracticalness
+11235) unpowerful
+11236) Florio (+'s - name - Wikipedia)
+11237) unpower
+11238) Langland (+'s - name - Wikipedia)
+11239) Gmail's (added the 's - Wikipedia)
+11240) timeouts (added plural)
+11241) subquery (+plural - Wiktionary)
+11242) LDAP (Wiktionary)
+11243) JIT (+s +ing +ed - Wiktionary)
+11244) JVM (+plural - Wiktionary)
+11245) basic's (added the 's - Wikipedia)
+11246) SVG (Wiktionary)
+11247) Shanahan (+'s - name - Wikipedia)
+11248) Birkbeck (+'s - name - Wikipedia)
+11249) Valentin
+11250) JSON
+11251) Ewa (+'s - name - Wikipedia)
+11252) Engin (+'s - name - Wikipedia)
+11253) Oder (+'s - name - Wikipedia)
+11254) O'Callahan (+'s - name - Wikipedia)
+11255) Pierron (+'s - name - Wikipedia)
+11256) syscall (+plural - Wiktionary)
+11257) Devan (+'s - name - Wikipedia)
+11258) Grude (name - Wikipedia)
+11259) Dunglison (+'s - name - Wikipedia)
+11260) Cygwin (Wiktionary)
+11261) unduplicated (Collins)
+11262) Juri (+'s - name - Wikipedia)
+11263) Moscianese (name - Wikipedia)
+11264) dismissible
+11265) dismantler (+plural)
+11266) dismast (+s +ing +ed - Wiktionary)
+11267) dramaturgic
+11268) dramaturgical
+11269) dramaturgically
+11270) dramaturgist (+plural)
+11271) swage (+s +ing +ed)
+11272) swaggerers (added plural)
+11273) swaggeringly
+11274) blag (+s +ing +ed +er +ers)
+11275) zag (+s +ing +ed)
+11276) sprag
+11277) quag (+s +ing +y)
+11278) Bailey (+'s - name - Wikipedia)
+11279) quaffable
+11280) quaffers (added plural)
+11281) boff (+plural)
+11282) toff (+s +ed)
+11283) prat (+plural)
+11284) Leith (+'s - name - Wikipedia)
+11285) Rosyth (+'s - name - Wikipedia)
+11286) prasinophyte
+11287) biocultural
+11288) Adami (+'s - name - Wikipedia)
+11289) biocybernetic (+plural)
+11290) biodeterioration
+11291) biodigester
+11292) biodynamical (+ly)
+11293) biodome
+11294) bioecological
+11295) bioecology
+11296) bioeconomic (+plural)
+11297) bioeffluent
+11298) bioelectricity
+11299) bioelectromagnetic (+plural)
+11300) bioelement
+11301) bioelectrochemistry
+11302) intermittence (+plural)
+11303) intermittency
+11304) intermixable
+11305) intermixture
+11306) onglaze
+11307) onflow (+ing)
+11308) onewhile
+11309) tenantry
+11310) stomach-ache (removed - Oxford says it is two words)
+11311) stomachache (another way of: "stomach ache" - Collins)
+11312) DALnet's (added the 's)
+11313) octahedrons (added plural)
+11314) octahedra (another plural of previous word)
+11315) octakishexahedron
+11316) octamer
+11317) octamerous
+11318) octocorallian
+11319) hexamerous (Collins)
+11320) hexameral (Collins)
+11321) hexamerism (Collins)
+11322) octodactylous
+11323) octodecimo (+plural)
+11324) Rawles (+'s - name - Wikipedia)
+11325) Wechel (+'s - name - Wikipedia)
+11326) Mayne (+'s - name - Wikipedia)
+11327) Dugan (+'s - name - Wikipedia)
+11328) octodesexcentenary
+11329) Lydiat (+'s - name - Wikipedia)
+11330) octodentate
+11331) octode
+11332) octocoralline
+11333) octocoral
+11334) LibreOffice's (added the 's - Wikipedia)
+11335) NetBSD (+'s - name - Wikipedia)
+11336) rebase (+s +ing +ed)
+11337) Meeks (+'s - name - Wikipedia)
+11338) Geurts (name - Wikipedia)
+11339) Borkowska (name - Wikipedia)
+11340) Volkeri (name - Google)
+11341) folky (+ier +iest +ness)
+11342) Orton (+'s - name - Wikipedia)
+11343) scuzzy (+ier +iest +ness)
+11344) muzzy (+ier +iest +ly +ness)
+11345) scutum
+11346) scuta (plural or previous word)
+11347) Scutum (name Astronomy)
+11348) Aquila (name Astronomy)
+11349) Serpens (name Astronomy)
+11350) scutellum
+11351) scutella (plural of previous word)
+11352) scutellar
+11353) coleorhiza
+11354) coleorhizae (plural of previous word)
+11355) notum
+11356) nota (plural of previous word)
+11357) notal
+11358) ommatidium
+11359) ommatidia (plural of previous word)
+11360) neurocrystalline (Wiktionary)
+11361) myriapods (added plural)
+11362) rhabdom + rhabdome (+plural of both)
+11363) zoeal (Collins)
+11364) tapetum (+plural)
+11365) bigeyes (added plural)
+11366) eyeshine
+11367) ossicle (+plural)
+11368) sclerotized (-IZE)
+11369) sclerotised (-ISE)
+11370) sclerotization (-IZE)
+11371) sclerotisation (-ISE)
+11372) melanization (-IZE)
+11373) melanisation (-ISE)
+11374) melanite
+11375) andradite
+11376) inline (+s +ing +ed - more used in computing - Wiktionary)
+11377) Bo (+'s - name - Wikipedia)
+11378) Gravesen (+'s - name - Wikipedia)
+11379) Finlayson (+'s - name - Wikipedia)
+11380) cf. (abbreviation)
+11381) discomania
+11382) discomaniac
+11383) discolourment
+11384) discolorous
+11385) discolith
+11386) coccolith (+plural)
+11387) coccolithophore (+plural)
+11388) coccolithophorid (+plural)
+11389) autotroph (+plural)
+11390) autotrophic
+11391) autotrophy
+11392) heterotroph (+plural)
+11393) heterotrophic
+11394) heterotrophy
+11395) photoautotrophy
+11396) photoautotroph
+11397) photoautotrophic
+11398) photoassimilate
+11399) photoassimilation
+11400) photoallergy (+ic)
+11401) photoaging + photoageing
+11402) photoaged
+11403) photoaffinity
+11404) photoactive
+11405) photoactivity
+11406) photoactivation
+11407) photoactivate (+s +ing +ed)
+11408) photoactivatable
+11409) photoaction
+11410) photoact
+11411) photoacoustic
+11412) optoacoustic
+11413) photoabsorbing
+11414) photoabsorption
+11415) Zedong (+'s - name - Wikipedia)
+11416) souchong
+11417) nongenary
+11418) Guangdong (+'s - name - Wikipedia)
+11419) Haiphong (+'s - name - Wikipedia)
+11420) stackers (added plural)
+11421) pitch-black
+11422) dracaena (+plural)
+11423) houseplant (+plural - fixed: house-plant)
+11424) monstera
+11425) scorzonera
+11426) skirret (+plural)
+11427) Lazio's (added the 's - name)
+11428) Latium (+'s - name - Wikipedia)
+11429) rocksteady
+11430) Latinism (+plural)
+11431) Latinist
+11432) uncanonical (+ly)
+11433) Filioque
+11434) colchicum (+plural)
+11435) mugwort (+plural)
+11436) Chazen (name - Wikipedia)
+11437) fiddly (+ier +iest)
+11438) fideism
+11439) fideist (+plural)
+11440) fideistic
+11441) epistemologist (+plural)
+11442) contextualism
+11443) contextualist (+plural)
+11444) innatism (Wiktionary)
+11445) interpositive (+plural)
+11446) Hays (+'s - name - Wikipedia)
+11447) Jeffersonian
+11448) Jeffersontown (name - Wikipedia)
+11449) jeggings
+11450) plumps + plumping + plumped (merged into plump)
+11451) plumpitude
+11452) plumpen
+11453) plumula
+11454) plumule (+plural)
+11455) radicle (+plural)
+11456) radicular
+11457) fibrocartilage
+11458) fibrogenesis
+11459) fibrocystic
+11460) solanum (+plural)
+11461) Koga (+'s - name - Wikipedia)
+11462) alkanet
+11463) ochreish
+11464) ochroid
+11465) ochrous
+11466) ochry
+11467) Yarmuk (name - Wikipedia)
+11468) byzantine (also lowercase)
+11469) Byzantinism
+11470) Byzantinist (+plural)
+11471) Orientalism
+11472) Orientalists (added plural)
+11473) Orientalistic (Collins)
+11474) Europeanist
+11475) Europeanism
+11476) Europe-wide
+11477) Europasian
+11478) Europarliamentarian
+11479) Europarliamentary
+11480) Euronote
+11481) Euromissile
+11482) Euronet
+11483) Euromart
+11484) Euroland's (added the 's + changed to uppercase)
+11485) Euroequity
+11486) overset (+s +ing)
+11487) removed: over-sensitive + over-sensitiveness + over-sensitivity
+11488) oversensitive
+11489) oversensitiveness
+11490) oversensitivity
+11491) oversensible
+11492) overseership
+11493) overself
+11494) uplifter (+plural)
+11495) upliftment
+11496) squill (+plural)
+11497) anthurium (+plural)
+11498) anthropophagy
+11499) anthropophagous
+11500) anthropophagus
+11501) anthropophagi (plural of previous word)
+11502) ethnocide
+11503) ethnogenesis
+11504) bugfix (+plural - computing - Wiktionary)
+11505) Whittle (+'s - name - Wikipedia)
+11506) Lynde (+'s - name - Wikipedia)
+11507) series's (added the 's - Wikipedia)
+11508) disproportionality
+11509) Hilbert's (added the 's - name - Wikipedia) 
+11510) homologize (+s +ing +ed - IZE)
+11511) homologise (+s +ing +ed - ISE)
+11512) choanocyte (+plural)
+11513) oscular
+11514) saccule (+plural)
+11515) saccular
+11516) sacculated
+11517) sacculation
+11518) sacculus
+11519) utricle (+plural)
+11520) utricular
+11521) hypergravity (Wiktionary)
+11522) lagena
+11523) lagenae (plural or previous word)
+11524) bilobed + bilobate
+11525) leaf-like
+11526) rostral (+ly)
+11527) rostro-caudal
+11528) rostroid
+11529) rostrocaudally
+11530) rostra (another plural of rostrum)
+11531) rosulate
+11532) palatoquadrate
+11533) pterygoid
+11534) sphenoidal
+11535) sphenoid
+11536) internasal
+11537) internalness
+11538) internarial
+11539) internation
+11540) IAEA (abbreviation: International Atomic Energy Agency)
+11541) ceramide (Collins)
+11542) intermodal
+11543) intermit (+s +ing +ed)
+11544) swingle (+s +ing +ed)
+11545) scutch (+s +ing +ed +er +ers)
+11546) ret (+s +ing +ed)
+11547) retable + retablo (+plurals of both)
+11548) ciborium
+11549) ciboria (plural of previous word)
+11550) coreopsis
+11551) coreopses (plural of previous word)
+11552) tickover
+11553) downforce
+11554) Gondwana (+'s - name - Wikipedia)
+11555) doronicum (+plural)
+11556) orthostatic
+11557) risperidone
+11558) olanzapine (Wiktionary)
+11559) tardive (tardive dyskinesia)
+11560) parkinsonism
+11561) parklands (added plural)
+11562) geodemographic (+plural)
+11563) exostosis
+11564) exostoses (plural of previous word)
+11565) exothermicity
+11566) biochar
+11567) Etherpad (+'s - name - Wikipedia)
+11568) ecocentrism
+11569) ecocentric
+11570) anthropocentrically
+11571) anthropocentrism
+11572) randomicity
+11573) unknowable
+11574) unknowability
+11575) unknowledgeable + unknowledgable
+11576) unknot (+s +ing +ed)
+11577) unknit (+s +ing +ed)
+11578) unking (+s +ing +ed)
+11579) unkinks + unkinking + unkinked (merged into unkink)
+11580) unkillable
+11581) unkept
+11582) 4D
+11583) Fix: Zellick'sF and added 's to Zellick
+11584) decametres (added plural)
+11585) decanal
+11586) establishmentarian (+plural)
+11587) establishmentarianism
+11588) equalitarian
+11589) equalitarianism
+11590) loving-kindness
+11591) toon (+plural)
+11592) Scooby (+'s - name - Wikipedia)
+11593) Looney (+'s - name - Wikipedia)
+11594) webtoon (+plural)
+11595) Pringles (name - Wikipedia)
+11596) geofencing
+11597) RFID
+11598) Benford (+'s - name - Wikipedia)
+11599) geoeconomics
+11600) geodynamo
+11601) little-minded (+ness)
+11602) gruntled
+11603) grunters (added plural)
+11604) aholehole
+11605) flagtail
+11606) Indo-Pacific
+11607) Indo-Malaysian + Indo-Malayan
+11608) Indo-Iranian
+11609) Indo-Germanic
+11610) Indo-Chinese
+11611) Indo-China
+11612) Indo-Aryan
+11613) indochinite
+11614) borderless
+11615) borderers (added plural)
+11616) scroller (+plural)
+11617) platformer (+plural)
+11618) platformist
+11619) platformy
+11620) platformless
+11621) platforming
+11622) Platforming (trademark)
+11623) platformate
+11624) tryptophan
+11625) threonine
+11626) valine
+11627) leucine
+11628) falciparum
+11629) aspartate (+plural)
+11630) glutamates (added plural)
+11631) arginine
+11632) trimer (+plural)
+11633) trimeric
+11634) nonsymmetric + nonsymmetrical (Collins)
+11635) tetramer (+plural)
+11636) oligomer (+plural)
+11637) solubilize (+s +ing +ed -IZE)
+11638) solubilise (+s +ing +ed -ISE)
+11639) solubilization (-IZE)
+11640) solubilisation (-ISE)
+11641) preprocess (+s +ing +ed <- two forms were missing)
+11642) overlanding + overlanded +s +er +ers (merged into overland)
+11643) pastoralist (+plural)
+11644) interethnic
+11645) Radha (+'s - name - Wikipedia)
+11646) cathead (+plural)
+11647) tosh
+11648) codswallop
+11649) Codd (+'s - name - Wikipedia)
+11650) codomain
+11651) codlings (added plural)
+11652) lionheart (+plural)
+11653) lionhead
+11654) paratype
+11655) isotype (Collins)
+11656) metatype
+11657) metaverse
+11658) metavariscite
+11659) variscite (Collins)
+11660) metatropy
+11661) metatracheal
+11662) paratracheal
+11663) succeedable (Collins)
+11664) succeedingly (Collins)
+11665) countermelody (+plural)
+11666) countermove (+plural)
+11667) countermovement (+plural)
+11668) counteroffensive (+plural)
+11669) radical's (added the 's - Wikipedia)
+11670) Ridgway (+'s - name - Wikipedia)
+11671) Mustafa (+'s - name - Wikipedia)
+11672) Moratuwa (name - Wikipedia)
+11673) noodled + noodling (merged into noodle)
+11674) Bowie's (added 's - name - Wikipedia)
+11675) counternarcotics
+11676) bumpily
+11677) overbed
+11678) bumsters
+11679) Kath (+'s - name - Wikipedia)
+11680) clamdiggers
+11681) all-inclusiveness
+11682) all-independent
+11683) all-instrumental
+11684) all-male
+11685) all-female
