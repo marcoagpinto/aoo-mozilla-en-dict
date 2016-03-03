@@ -14212,7 +14212,42 @@ V2.34
 11683) all-instrumental
 11684) all-male
 11685) all-female
+
+
+V2.35 (ongoing)
+3-MAR-2016
+11686) Kassner (+'s - name - Wikipedia)
+11687) Hohlbein (+'s - name - Wikipedia)
+11688) Hanemesis (name - Google)
+11689) cleanskin (+plural)
+11690) Alcatraz (+'s - name - Wikipedia)
+11691) unprecedentedly
+11692) Haverhill (+'s - name - Wikipedia)
+11693) Bittinger (+'s - name - Wikipedia)
+11694) Boccherini (+'s - name - Wikipedia)
+11695) athematic
+11696) isochromatic
+11697) dalmatic (+plural)
+11698) hypostatic
+11699) piratic
+11700) prelatic
+11701) prelatical
+11702) sylvatic
+11703) miasmatic
+11704) miasmatically
+11705) firry
+11706) Sitka (+'s - name - Wikipedia)
+11707) deseeds + deseeding (merged into deseed)
+11708) descriptory
+11709) descriptivistic
+11710) backronym + bacronym (+plural of both)
+11711) intertrack
+11712) debouchure
+11713) Hursley (+'s - name - Wikipedia)
+11714) Ambleside (name - Wikipedia)
+11715) Milnthorpe (name - Wikipedia)
+11716) Sokolowski (+'s - name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.34
+British English Dictionary (Forked) 2.35
 by Marco A.G.Pinto
