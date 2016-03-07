@@ -14247,6 +14247,99 @@ V2.35 (ongoing)
 11714) Ambleside (name - Wikipedia)
 11715) Milnthorpe (name - Wikipedia)
 11716) Sokolowski (+'s - name - Wikipedia)
+
+7-MAR-2016
+11717) MacSween (+'s - name - Wikipedia)
+11718) Rigby (+'s - name - Wikipedia)
+11719) Bolden (+'s - name - Wikipedia)
+11720) Palmdale (+'s - name - Wikipedia)
+11721) Huntington (+'s - name - Wikipedia)
+11722) Madion (+'s - name - Wikipedia)
+11723) Bareket (name - Wikipedia)
+11724) ailurophile (+plural)
+11725) ailurophobia
+11726) ailurophobe (+plural)
+11727) ailurophobic
+11728) dipsomaniacal
+11729) erotomania
+11730) erotomaniac (+plural)
+11731) hypersexuality
+11732) erotogenic + erotogenous
+11733) autogenic (+plural)
+11734) pyrogenic
+11735) pyrogenicity
+11736) cariogenic
+11737) fennec (fennec fox)
+11738) fenlands (added plural)
+11739) Hampshire's (added the 's - name - Wikipedia)
+11740) northeasterner
+11741) rubbled
+11742) rubbler
+11743) rubby-dubby
+11744) rubedinous
+11745) rubefacient + rubifacient
+11746) rubelliform
+11747) Maxthon (+'s - name - Wikipedia)
+11748) nonintrusive (Collins)
+11749) preimage (+plural)
+11750) SHA
+11751) biclique (+plural - Wiktionary)
+11752) Merkle-Damgård (name - Wikipedia)
+11753) Unalaska (+'s - name - Wikipedia)
+11754) Bain (+'s - name - Wikipedia)
+11755) malvertising
+11756) Hix (+'s - name - Wikipedia)
+11757) malvertisement (+plural)
+11758) malversation
+11759) encroachers (added plural)
+11760) loach (+plural)
+11761) gourami (+plural)
+11762) hillstream (+plural - Wiktionary)
+11763) barracudina (+plural)
+11764) siphonophore (+plural)
+11765) chaetognaths (added plural)
+11766) triploblastic
+11767) Nematomorpha
+11768) nematomorph (+plural)
+11769) Priapulida
+11770) priapulid (+plural)
+11771) infauna
+11772) infaunal
+11773) bioturbated
+11774) preservational (Wiktionary)
+11775) ryegrass
+11776) dioecious
+11777) dioecy
+11778) ploidy
+11779) phyllotaxis + phyllotaxy
+11780) phyllotactic
+11781) sympodium
+11782) sympodia (plural of previous word)
+11783) sympodial
+11784) monopodium
+11785) monopodia (plural of previous word)
+11786) monopodial
+11787) monopodially
+11788) graminaceous
+11789) bryophytic
+11790) pteridophyte (+plural)
+11791) xerophytic
+11792) stomatal
+11793) mucositis
+11794) exanthema
+11795) exanthemata (plural of previous word)
+11796) exanthematic
+11797) exanthematous
+11798) myelosuppression
+11799) haematopoiesis
+11800) haematopoietic
+11801) haemopoiesis
+11802) haemopoietic
+11803) contractility (Collins)
+11804) haemopneumothorax
+11805) retrotransposon (+plural)
+11806) transposon (+plural)
+11807) Revill (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.35
