@@ -14340,6 +14340,78 @@ V2.35 (ongoing)
 11805) retrotransposon (+plural)
 11806) transposon (+plural)
 11807) Revill (+'s - name - Wikipedia)
+
+8-MAR-2016
+11808) namespacing + namespaced (merged into namespace - Wiktionary)
+11809) BSc (abbreviation: Bachelor of Science)
+11810) MSC (abbreviation: Manpower Services Commission)
+11811) infectivity
+11812) mitral
+11813) enterococcus
+11814) enterococci (plural of previous word)
+11815) multidrug (Collins)
+11816) prion (added singular)
+11817) misfold (+s +ing +ed - Wiktionary)
+11818) glutaraldehyde (Collins)
+11819) Narayan (+'s - name - Wikipedia)
+11820) shearwater (+plural)
+11821) fulmar (+plural)
+11822) auklet (+plural)
+11823) chachalaca (+plural)
+11824) honeycreeper (+plural)
+11825) curassow (+plural)
+11826) vicariance
+11827) allopatric
+11828) allopatry
+11829) sympatric
+11830) sympatry
+11831) zoogeography
+11832) zoogeographer (+plural)
+11833) zoogeographic
+11834) zoogeographical
+11835) zoogeographically
+11836) interfertile (Collins)
+11837) Howell's  (added the 's - name - Wikipedia)
+11838) coelacanth (+plural)
+11839) planktivorous
+11840) leptocephalus (Wiktionary)
+11841) leptocephali (plural of previous word - Wiktionary)
+11842) planktologist + planctologist
+11843) planktology + planctology
+11844) planktological + planctological
+11845) planktivore
+11846) plankter
+11847) plankless
+11848) planksheer + plankshear
+11849) planeshear + plansheer
+11850) planesman
+11851) planesmen (plural of previous word)
+11852) planerite
+
+9-MAR-2016
+11583) ransomware
+11584) ransomless
+11585) Lydgate (+'s - name - Wikipedia)
+11586) ransomite
+11587) ransomer
+11588) Mercedarian (+plural)
+11589) mercenarily
+11590) mercery (+plural)
+11591) Packington (+'s - name - Wikipedia)
+11592) Spooner (+'s - name - Wikipedia)
+11593) Bennet (+'s - name - Wikipedia)
+11594) Tingey (+'s - name - Wikipedia)
+11595) Ashbee (+'s - name - Wikipedia)
+11596) agranulocyte
+11597) haemocyte (+plural)
+11598) quinone (+plural)
+11599) ultra-fine
+11600) tyrosinase
+11601) ceruloplasmin (Collins)
+11602) melanogenesis
+11603) melanogen
+11604) unfiled (Collins)
+11605) Chivers (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.35
