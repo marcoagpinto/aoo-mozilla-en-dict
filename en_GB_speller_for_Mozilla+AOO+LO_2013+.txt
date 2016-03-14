@@ -14412,6 +14412,96 @@ V2.35 (ongoing)
 11603) melanogen
 11604) unfiled (Collins)
 11605) Chivers (+'s - name - Wikipedia)
+
+10-MAR-2016
+11606) SDKs + SDK's (merged into SDK)
+11607) toolchain (+plural - Wiktionary)
+11608) hackily (Wiktionary)
+11609) spec (+s +ing +ed)
+11610) Garron (+'s - name - Wikipedia)
+11611) Dowling (+'s - name - Wikipedia)
+11612) ranunculus (+plural)
+11613) ranunculi (another plural of previous word)
+11614) astilbe (+plural)
+11615) primula (+plural)
+11616) acidanthera
+11617) allium (+plural)
+11618) ixia (+plural)
+11619) corydalis
+11620) eremurus (Collins)
+11621) lungworts (added plural)
+11622) unmelting
+11623) unmember (+s +ing +ed)
+11624) unmemoried
+11625) unmeltable
+11626) meltable
+11627) melters (added plural)
+11628) collagenase (Collins)
+11629) melpomenish
+11630) unmelodramatic
+11631) unmelodiously
+11632) unmellowed
+11633) unmeetness
+11634) unmeetable
+11635) unmeet
+11636) unmeetly
+11637) unmellow
+11638) reparse (+s +ing +ed - Wiktionary)
+11639) orientalize (+s +ing +ed - IZE)
+11640) orientalise (+s +ing +ed - ISE)
+11641) eroticize (+s +ing +ed - IZE)
+11642) eroticise (+s +ing +ed - ISE)
+11643) eroticization (IZE)
+11644) eroticisation (ISE)
+11645) human's (added the 's)
+11646) NASAs (fix: removed the plural)
+
+14-MAR-2016
+11647) Bouckaert (+'s - name - Wikipedia)
+11648) Andalusian (+plural)
+11649) Occitanian (+plural)
+11650) occipitotemporal
+11651) prefrontal (+plural)
+11652) prosopagnosia
+11653) agnosia
+11654) autoscopy
+11655) Cebuano (Wiktionary)
+11656) Valencian (+plural - Wiktionary)
+11657) astrovirus
+11658) Luxembourgish (Wiktionary)
+11659) Occitan
+11660) Gascon (+plural)
+11661) Belarusian (+plural)
+11662) Ruthenian (+plural)
+11663) Waray-Waray (Wiktionary)
+11664) Volapük
+11665) Esperantist (+plural)
+11666) Piedmontese
+11667) Bezzi (name - Wikipedia)
+11668) Haarlem (+'s - name - Wikipedia)
+11669) Poornima (+'s - name - Wikipedia)
+11670) vocalese
+11671) telegraphese
+11672) Bernese (+'s)
+11673) Macanese
+11674) Faroese + Faeroese
+11675) Tabriz
+11676) interop (Wiktionary)
+11677) repoint (+s +ing +ed)
+11678) restrictable
+11679) derestrict (+s +ing +ed)
+11680) derestriction
+11681) evidentiality
+11682) soke (+plural)
+11683) Stenton (+'s - name - Wikipedia)
+11684) Northumbrian (+plural)
+11685) Stigand (+'s - name - Wikipedia)
+11686) Northumbrianism
+11687) Northumbria's (added +'s - name - Wikipedia)
+11688) northness
+11689) Northman (singular of Northmen)
+11690) northly
+11691) Northumb.
 =============
 
 British English Dictionary (Forked) 2.35
