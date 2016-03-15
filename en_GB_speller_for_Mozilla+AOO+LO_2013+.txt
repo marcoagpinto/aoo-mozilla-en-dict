@@ -14502,6 +14502,46 @@ V2.35 (ongoing)
 11689) Northman (singular of Northmen)
 11690) northly
 11691) Northumb.
+
+15-MAR-2016
+11692) LLC (+plural - Wiktionary)
+11693) neurohypophysis
+11694) neurohypophyses (plural of previous word)
+11695) cinereum (+plural - tuber cinereum)
+11696) infundibulum
+11697) infundibula (plural of previous word)
+11698) thenar
+11699) scaphoid
+11700) pisiform
+11701) hamate
+11702) triquetral
+11703) paraconid
+11704) paracone
+11705) paraconformable
+11706) paraconformity
+11707) paracondyloid
+11708) paroccipital
+11709) earlship
+11710) earlock
+11711) oximeter (+plural)
+11712) oximetry
+11713) preoperatively
+11714) parotid (+plural)
+11715) stapes
+11716) incus
+11717) incudes (plural of previous word)
+11718) malleus
+11719) mallei (plural of previous word)
+11720) subluxation
+11721) subluxate
+11722) stapedial
+11723) fossorial
+11724) ossicular
+11725) ossiculectomy
+11726) ossiculum
+11727) Wallwork (+'s - name - Wikipedia)
+11728) Wyss (+'s - name - Wikipedia)
+11729) Millett (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.35
