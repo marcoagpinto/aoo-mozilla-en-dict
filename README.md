@@ -20,6 +20,8 @@ I (Marco Pinto) am only improving the en_GB. The en_US and en_CA are maintained 
 Please contact Kevin directly for the latter two:
 see http://wordlist.aspell.net 
 and https://sourceforge.net/projects/wordlist/files/Hunspell
+. en_ZA is maintained by Dwayne Bailey:
+http://translate.org.za
 
 I will try to release a monthly update for Mozilla, OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it so that people won't be notified to update the dictionary exactly after they install the latest AOO. This means that a release version is skipped for AOO.
 
