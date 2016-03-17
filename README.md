@@ -18,7 +18,7 @@ The initial idea was that other projects could also use this GitHub entry and ta
 
 I (Marco Pinto) am only improving the en_GB. The en_US and en_CA are maintained by Kevin Atkinson.
 Please contact Kevin directly for the latter two:
-see http://wordlist.aspell.net 
+http://wordlist.aspell.net 
 and https://sourceforge.net/projects/wordlist/files/Hunspell
 . en_ZA is maintained by Dwayne Bailey:
 http://translate.org.za
