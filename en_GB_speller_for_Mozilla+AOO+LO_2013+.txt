@@ -1,5 +1,4 @@
-﻿DICTIONARY
-British English
+﻿DICTIONARYBritish English
 (en_GB)
 THUNDERBIRD & FIREFOX & SEAMONKEY
 OPENOFFICE & LIBREOFFICE
@@ -14542,6 +14541,160 @@ V2.35 (ongoing)
 11727) Wallwork (+'s - name - Wikipedia)
 11728) Wyss (+'s - name - Wikipedia)
 11729) Millett (+'s - name - Wikipedia)
+
+16-MAR-2016
+11730) Régis (+'s - name - Wikipedia)
+11731) Delbru (+'s - name - Google)
+11732) Roczek (+'s - name - Google)
+11733) workfulness
+11734) workhead
+11735) workful
+11736) NBA's (added the 's - Wikipedia)
+11737) Percheron (+'s - name - Wikipedia)
+11738) goaltending
+11739) Gillingham's (added the 's - name - Wikipedia)
+11740) Appleby (+'s - name - Wikipedia)
+11741) Coniston (+'s - name - Wikipedia)
+11742) goalmouths (added plural)
+11743) Mahavidyalaya (name - Wikipedia)
+11744) Ampleforth (+'s - name - Wikipedia)
+11745) Eton (+'s - name - Wikipedia)
+11746) day-boys (fix: removed since Oxford says it is two words)
+11747) Butterstone (name - Wikipedia)
+11748) Tomoko (+'s - name - Wikipedia)
+11749) accrementitious
+11750) accretionary
+11751) ophiolite
+11752) ophiolitic
+11753) dewater (+s +ing +ed)
+11754) imbricate (+s +ing +ed)
+11755) schists (added plural)
+11756) syngenetic
+11757) paragenesis
+11758) parageneses (plural of previous word)
+11759) paragenetic
+11760) sphalerite
+11761) kyanite
+11762) kyanitic
+11763) protogenetic
+11764) protogastric
+11765) protogalaxy (+plural)
+11766) protogalactic
+11767) protogeneous
+11768) protofilament
+11769) protoform
+11770) protofibril
+11771) microfibril (+plural)
+11772) hemicellulose (+plural)
+11773) cellulosic
+11774) photoreactive
+11775) lignin
+11776) suberin
+11777) callose (Collins)
+11778) hypodermis + hypoderm + hypoderma
+11779) postsynaptic
+11780) postsynaptically
+11781) postsynapsis
+11782) synapsis
+11783) diplotene
+11784) pachytene
+11785) zygotene
+11786) leptotene
+11787) diakinesis
+11788) diakineses (plural of previous word)
+
+17-MAR-2016
+11789) LinkedIn's (added the 's)
+11790) Zika (+'s - name - Wikipedia)
+11791) Zoltan (+'s - name - Wikipedia)
+11792) Zoltán (+'s - name - Wikipedia)
+11793) Sadovsky (+'s - name - Wikipedia)
+11794) Mantke (name - Wikipedia)
+11795) missee + missees + misseeing + missaw + misseen (Wiktionary)
+11796) FOSS (abbrevitation: Free and Open Source Software - Wiktionary)
+11797) FOSSer (+plural - Wiktionary)
+11798) Zuza (+'s - name - Wikipedia)
+11799) OSS (abbreviation: open-source software - Wiktionary)
+11800) Coon (+'s - name - Wikipedia)
+11801) Yoyodyne (name - Wikipedia)
+11802) Brodie (+'s - name - Wikipedia)
+11803) Su (abbreviation: Sunday)
+11804) Sa (abbreviation: Saturday)
+11805) Pompeian + Pompeiian
+11806) Pompeii (+'s - name - Wikipedia)
+11807) Taranaki (+'s - name - Wikipedia)
+11808) Sino-Japanese (Sino-Japanese Wars)
+11809) jetliner (+plural +'s)
+11810) depressurize (+s +ing +ed +ion - IZE)
+11811) depressurise (+s +ing +ed +ion - ISE)
+11812) safety's (added the 's)
+11813) Ariana (+'s - name - Wikipedia)
+11814) bressummer (Collins)
+11815) Farsi
+11816) Nasrin (+'s - name - Wikipedia)
+11817) Giffuni (name - Wikipedia)
+11818) autoincrement (+s +ing +ed - Wiktionary)
+11819) MySQL (+'s - Wikipedia)
+11820) Kexi (+'s - name - Wikipedia)
+11821) TBW (abbreviation: Terabytes Written)
+
+21-MAR-2016
+11822) LTS (abbreviation: Long Term Support)
+11823) Piotr (+'s - name - Wikipedia)
+11824) Marcinkiewicz (+'s - name - Wikipedia)
+11825) waterboard (+s +ing +ed)
+11826) untargeted (Wiktionary)
+11827) snowkiting
+11828) snowkiter (+plural)
+11829) kitesurfing
+11830) kitesurfer (+plural)
+11831) Agostino (+'s - name - Wikipedia)
+11832) kitenge
+11833) Jenkyn (+'s - name - Wikipedia)
+11834) needlecord
+11835) needledick (slang)
+11836) needleful (+plural)
+11837) needleless
+11838) needlenose
+11839) needlepointed + needlepointing (merged into needlepoint)
+11840) multigrain
+11841) low-fat
+11842) herbed
+11843) roulade (+plural)
+11844) Strauss's (added the 's  - name - Wikipedia)
+11845) crustless (Collins)
+11846) unscarred
+11847) undented (Collins)
+11848) malcontentedly
+11849) malcontented
+11850) Everett's (added the 's  - name - Wikipedia)
+11851) McCain (+'s - name - Wikipedia)
+11852) Langmack (+'s - name - Wikipedia)
+11853) Charest (+'s - name - Wikipedia)
+11854) Warrick (+'s - name - Wikipedia)
+11855) inspectingly (Collins)
+11856) inspectional (Collins)
+11857) inspective (Collins)
+11858) Churchland (+'s - name - Wikipedia)
+11859) Lucan
+11860) Synoptic (+plural - Gospel related)
+11861) synoptics (added plural)
+11862) synoptical
+11863) synoptically
+11864) Tacitus (+'s - name - Wikipedia)
+11865) tachypnoea
+11866) tachyphylaxis
+11867) spirometer (Collins)
+11868) spirometric (Collins)
+11869) spirometry (Collins)
+11870) phosphoenolpyruvate
+11871) pyruvate
+11872) malate
+11873) malonate (+plural)
+11874) ferricyanide
+11875) Walz (+'s - name - Wikipedia)
+11876) ferriferous
+11877) ferrimagnet
 =============
 
 British English Dictionary (Forked) 2.35
