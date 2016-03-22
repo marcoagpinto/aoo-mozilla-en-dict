@@ -14695,6 +14695,32 @@ V2.35 (ongoing)
 11875) Walz (+'s - name - Wikipedia)
 11876) ferriferous
 11877) ferrimagnet
+
+22-MAR-2016
+11878) disambiguator (+plural - Wiktionary)
+11879) firecrest (+plural)
+11880) redstart (+plural)
+11881) polygyny
+11882) philopatric
+11883) philopatry
+11884) mericarp
+11885) schizocarp
+11886) indehiscent
+11887) indehiscence
+11888) cremocarp (Collins)
+11889) Lindley (+'s - name - Wikipedia)
+11890) indemnifier (+plural)
+11891) Dedekind (+'s - name - Wikipedia)
+11892) Chamberlin (+'s - name - Wikipedia)
+11893) non-conformant
+11894) non-conform
+11895) non-conformable
+11896) non-conformance
+11897) non-conformer
+11898) conformant (Wiktionary)
+11899) non-confrontational
+11900) nonconformably
+11901) nonconformitant
 =============
 
 British English Dictionary (Forked) 2.35
