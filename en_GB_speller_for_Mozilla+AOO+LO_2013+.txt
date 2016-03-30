@@ -1,4 +1,5 @@
-﻿DICTIONARYBritish English
+﻿DICTIONARY
+British English
 (en_GB)
 THUNDERBIRD & FIREFOX & SEAMONKEY
 OPENOFFICE & LIBREOFFICE
@@ -14213,7 +14214,7 @@ V2.34
 11685) all-female
 
 
-V2.35 (ongoing)
+V2.35
 3-MAR-2016
 11686) Kassner (+'s - name - Wikipedia)
 11687) Hohlbein (+'s - name - Wikipedia)
@@ -14758,6 +14759,54 @@ V2.35 (ongoing)
 11934) clary
 11935) pillwort
 11936) glair (+y)
+
+24-MAR-2016
+11937) reactivates (merged into reactivate)
+11938) Yongbyon (+'s - name - Wikipedia)
+11939) reactionism
+11940) Schaff (+'s - name - Wikipedia)
+11941) reactionaryism + reactionarism
+11942) reactionariness
+11943) reactionarily
+11944) reactional
+11945) formicarium
+11946) formicaria (plural of previous word)
+11947) formication
+11948) haloperidol
+11949) pimozide
+11950) piperidine
+11951) piperitious
+11952) cinereous + cineritious (Collins)
+11953) piperine + piperin
+11954) piperonal
+11955) piperic (piperic acid)
+11956) piperazine
+11957) anthelmintic (+plural)
+11958) prochlorperazine
+11959) perphenazine
+11960) fluphenazine
+11961) phenothiazine (+plural)
+11962) Prolixin
+11963) prolixness
+11964) Burel (name - Wikipedia)
+11965) god-dam (removed: it is "goddam" and it is an American word)
+
+28-MAR-2016
+11966) hyperloop (+plural - Wiktionary)
+11967) Udod (name - Wikipedia)
+11968) stridor
+11969) tachypnea
+11970) albuminuria
+11971) aetiologies (added plural)
+11972) nephropathy
+11973) Lewellys (name - Wikipedia)
+11974) nephropexy
+11975) nephropathic
+11976) nephromixium
+11977) nephridium
+11978) nephridia (plural of previous word)
+11979) nephridial
+11980) gonoduct (Collins)
 =============
 
 British English Dictionary (Forked) 2.35

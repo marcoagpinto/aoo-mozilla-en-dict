@@ -12,11 +12,13 @@
 #   6) Physical dictionaries.
 #
 # David Bartlett, Andrew Brown, Kevin Atkinson, Marco A.G.Pinto.
-# R 2.34, 2016-03-01
+# R 2.35, 2016-04-01
 
 SET UTF-8
 
 TRY esiaénrtolcdugmfphbyvkw-'.zqjxSNRTLCGDMFPHBEAUYOIVKWóöâôZQJXÅçèîêàïüäñ
+
+WORDCHARS ’
 
 REP 27
 REP f ph

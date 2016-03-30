@@ -13420,3 +13420,572 @@ V2.34 - 1-MAR-2016
 11683) all-instrumental
 11684) all-male
 11685) all-female
+
+
+V2.35 - 1-APR-2016
+------------------
+11686) Kassner (+'s - name - Wikipedia)
+11687) Hohlbein (+'s - name - Wikipedia)
+11688) Hanemesis (name - Google)
+11689) cleanskin (+plural)
+11690) Alcatraz (+'s - name - Wikipedia)
+11691) unprecedentedly
+11692) Haverhill (+'s - name - Wikipedia)
+11693) Bittinger (+'s - name - Wikipedia)
+11694) Boccherini (+'s - name - Wikipedia)
+11695) athematic
+11696) isochromatic
+11697) dalmatic (+plural)
+11698) hypostatic
+11699) piratic
+11700) prelatic
+11701) prelatical
+11702) sylvatic
+11703) miasmatic
+11704) miasmatically
+11705) firry
+11706) Sitka (+'s - name - Wikipedia)
+11707) deseeds + deseeding (merged into deseed)
+11708) descriptory
+11709) descriptivistic
+11710) backronym + bacronym (+plural of both)
+11711) intertrack
+11712) debouchure
+11713) Hursley (+'s - name - Wikipedia)
+11714) Ambleside (name - Wikipedia)
+11715) Milnthorpe (name - Wikipedia)
+11716) Sokolowski (+'s - name - Wikipedia)
+11717) MacSween (+'s - name - Wikipedia)
+11718) Rigby (+'s - name - Wikipedia)
+11719) Bolden (+'s - name - Wikipedia)
+11720) Palmdale (+'s - name - Wikipedia)
+11721) Huntington (+'s - name - Wikipedia)
+11722) Madion (+'s - name - Wikipedia)
+11723) Bareket (name - Wikipedia)
+11724) ailurophile (+plural)
+11725) ailurophobia
+11726) ailurophobe (+plural)
+11727) ailurophobic
+11728) dipsomaniacal
+11729) erotomania
+11730) erotomaniac (+plural)
+11731) hypersexuality
+11732) erotogenic + erotogenous
+11733) autogenic (+plural)
+11734) pyrogenic
+11735) pyrogenicity
+11736) cariogenic
+11737) fennec (fennec fox)
+11738) fenlands (added plural)
+11739) Hampshire's (added the 's - name - Wikipedia)
+11740) northeasterner
+11741) rubbled
+11742) rubbler
+11743) rubby-dubby
+11744) rubedinous
+11745) rubefacient + rubifacient
+11746) rubelliform
+11747) Maxthon (+'s - name - Wikipedia)
+11748) nonintrusive (Collins)
+11749) preimage (+plural)
+11750) SHA
+11751) biclique (+plural - Wiktionary)
+11752) Merkle-Damgård (name - Wikipedia)
+11753) Unalaska (+'s - name - Wikipedia)
+11754) Bain (+'s - name - Wikipedia)
+11755) malvertising
+11756) Hix (+'s - name - Wikipedia)
+11757) malvertisement (+plural)
+11758) malversation
+11759) encroachers (added plural)
+11760) loach (+plural)
+11761) gourami (+plural)
+11762) hillstream (+plural - Wiktionary)
+11763) barracudina (+plural)
+11764) siphonophore (+plural)
+11765) chaetognaths (added plural)
+11766) triploblastic
+11767) Nematomorpha
+11768) nematomorph (+plural)
+11769) Priapulida
+11770) priapulid (+plural)
+11771) infauna
+11772) infaunal
+11773) bioturbated
+11774) preservational (Wiktionary)
+11775) ryegrass
+11776) dioecious
+11777) dioecy
+11778) ploidy
+11779) phyllotaxis + phyllotaxy
+11780) phyllotactic
+11781) sympodium
+11782) sympodia (plural of previous word)
+11783) sympodial
+11784) monopodium
+11785) monopodia (plural of previous word)
+11786) monopodial
+11787) monopodially
+11788) graminaceous
+11789) bryophytic
+11790) pteridophyte (+plural)
+11791) xerophytic
+11792) stomatal
+11793) mucositis
+11794) exanthema
+11795) exanthemata (plural of previous word)
+11796) exanthematic
+11797) exanthematous
+11798) myelosuppression
+11799) haematopoiesis
+11800) haematopoietic
+11801) haemopoiesis
+11802) haemopoietic
+11803) contractility (Collins)
+11804) haemopneumothorax
+11805) retrotransposon (+plural)
+11806) transposon (+plural)
+11807) Revill (+'s - name - Wikipedia)
+11808) namespacing + namespaced (merged into namespace - Wiktionary)
+11809) BSc (abbreviation: Bachelor of Science)
+11810) MSC (abbreviation: Manpower Services Commission)
+11811) infectivity
+11812) mitral
+11813) enterococcus
+11814) enterococci (plural of previous word)
+11815) multidrug (Collins)
+11816) prion (added singular)
+11817) misfold (+s +ing +ed - Wiktionary)
+11818) glutaraldehyde (Collins)
+11819) Narayan (+'s - name - Wikipedia)
+11820) shearwater (+plural)
+11821) fulmar (+plural)
+11822) auklet (+plural)
+11823) chachalaca (+plural)
+11824) honeycreeper (+plural)
+11825) curassow (+plural)
+11826) vicariance
+11827) allopatric
+11828) allopatry
+11829) sympatric
+11830) sympatry
+11831) zoogeography
+11832) zoogeographer (+plural)
+11833) zoogeographic
+11834) zoogeographical
+11835) zoogeographically
+11836) interfertile (Collins)
+11837) Howell's  (added the 's - name - Wikipedia)
+11838) coelacanth (+plural)
+11839) planktivorous
+11840) leptocephalus (Wiktionary)
+11841) leptocephali (plural of previous word - Wiktionary)
+11842) planktologist + planctologist
+11843) planktology + planctology
+11844) planktological + planctological
+11845) planktivore
+11846) plankter
+11847) plankless
+11848) planksheer + plankshear
+11849) planeshear + plansheer
+11850) planesman
+11851) planesmen (plural of previous word)
+11852) planerite
+11583) ransomware
+11584) ransomless
+11585) Lydgate (+'s - name - Wikipedia)
+11586) ransomite
+11587) ransomer
+11588) Mercedarian (+plural)
+11589) mercenarily
+11590) mercery (+plural)
+11591) Packington (+'s - name - Wikipedia)
+11592) Spooner (+'s - name - Wikipedia)
+11593) Bennet (+'s - name - Wikipedia)
+11594) Tingey (+'s - name - Wikipedia)
+11595) Ashbee (+'s - name - Wikipedia)
+11596) agranulocyte
+11597) haemocyte (+plural)
+11598) quinone (+plural)
+11599) ultra-fine
+11600) tyrosinase
+11601) ceruloplasmin (Collins)
+11602) melanogenesis
+11603) melanogen
+11604) unfiled (Collins)
+11605) Chivers (+'s - name - Wikipedia)
+11606) SDKs + SDK's (merged into SDK)
+11607) toolchain (+plural - Wiktionary)
+11608) hackily (Wiktionary)
+11609) spec (+s +ing +ed)
+11610) Garron (+'s - name - Wikipedia)
+11611) Dowling (+'s - name - Wikipedia)
+11612) ranunculus (+plural)
+11613) ranunculi (another plural of previous word)
+11614) astilbe (+plural)
+11615) primula (+plural)
+11616) acidanthera
+11617) allium (+plural)
+11618) ixia (+plural)
+11619) corydalis
+11620) eremurus (Collins)
+11621) lungworts (added plural)
+11622) unmelting
+11623) unmember (+s +ing +ed)
+11624) unmemoried
+11625) unmeltable
+11626) meltable
+11627) melters (added plural)
+11628) collagenase (Collins)
+11629) melpomenish
+11630) unmelodramatic
+11631) unmelodiously
+11632) unmellowed
+11633) unmeetness
+11634) unmeetable
+11635) unmeet
+11636) unmeetly
+11637) unmellow
+11638) reparse (+s +ing +ed - Wiktionary)
+11639) orientalize (+s +ing +ed - IZE)
+11640) orientalise (+s +ing +ed - ISE)
+11641) eroticize (+s +ing +ed - IZE)
+11642) eroticise (+s +ing +ed - ISE)
+11643) eroticization (IZE)
+11644) eroticisation (ISE)
+11645) human's (added the 's)
+11646) NASAs (fix: removed the plural)
+11647) Bouckaert (+'s - name - Wikipedia)
+11648) Andalusian (+plural)
+11649) Occitanian (+plural)
+11650) occipitotemporal
+11651) prefrontal (+plural)
+11652) prosopagnosia
+11653) agnosia
+11654) autoscopy
+11655) Cebuano (Wiktionary)
+11656) Valencian (+plural - Wiktionary)
+11657) astrovirus
+11658) Luxembourgish (Wiktionary)
+11659) Occitan
+11660) Gascon (+plural)
+11661) Belarusian (+plural)
+11662) Ruthenian (+plural)
+11663) Waray-Waray (Wiktionary)
+11664) Volapük
+11665) Esperantist (+plural)
+11666) Piedmontese
+11667) Bezzi (name - Wikipedia)
+11668) Haarlem (+'s - name - Wikipedia)
+11669) Poornima (+'s - name - Wikipedia)
+11670) vocalese
+11671) telegraphese
+11672) Bernese (+'s)
+11673) Macanese
+11674) Faroese + Faeroese
+11675) Tabriz
+11676) interop (Wiktionary)
+11677) repoint (+s +ing +ed)
+11678) restrictable
+11679) derestrict (+s +ing +ed)
+11680) derestriction
+11681) evidentiality
+11682) soke (+plural)
+11683) Stenton (+'s - name - Wikipedia)
+11684) Northumbrian (+plural)
+11685) Stigand (+'s - name - Wikipedia)
+11686) Northumbrianism
+11687) Northumbria's (added +'s - name - Wikipedia)
+11688) northness
+11689) Northman (singular of Northmen)
+11690) northly
+11691) Northumb.
+11692) LLC (+plural - Wiktionary)
+11693) neurohypophysis
+11694) neurohypophyses (plural of previous word)
+11695) cinereum (+plural - tuber cinereum)
+11696) infundibulum
+11697) infundibula (plural of previous word)
+11698) thenar
+11699) scaphoid
+11700) pisiform
+11701) hamate
+11702) triquetral
+11703) paraconid
+11704) paracone
+11705) paraconformable
+11706) paraconformity
+11707) paracondyloid
+11708) paroccipital
+11709) earlship
+11710) earlock
+11711) oximeter (+plural)
+11712) oximetry
+11713) preoperatively
+11714) parotid (+plural)
+11715) stapes
+11716) incus
+11717) incudes (plural of previous word)
+11718) malleus
+11719) mallei (plural of previous word)
+11720) subluxation
+11721) subluxate
+11722) stapedial
+11723) fossorial
+11724) ossicular
+11725) ossiculectomy
+11726) ossiculum
+11727) Wallwork (+'s - name - Wikipedia)
+11728) Wyss (+'s - name - Wikipedia)
+11729) Millett (+'s - name - Wikipedia)
+11730) Régis (+'s - name - Wikipedia)
+11731) Delbru (+'s - name - Google)
+11732) Roczek (+'s - name - Google)
+11733) workfulness
+11734) workhead
+11735) workful
+11736) NBA's (added the 's - Wikipedia)
+11737) Percheron (+'s - name - Wikipedia)
+11738) goaltending
+11739) Gillingham's (added the 's - name - Wikipedia)
+11740) Appleby (+'s - name - Wikipedia)
+11741) Coniston (+'s - name - Wikipedia)
+11742) goalmouths (added plural)
+11743) Mahavidyalaya (name - Wikipedia)
+11744) Ampleforth (+'s - name - Wikipedia)
+11745) Eton (+'s - name - Wikipedia)
+11746) day-boys (fix: removed since Oxford says it is two words)
+11747) Butterstone (name - Wikipedia)
+11748) Tomoko (+'s - name - Wikipedia)
+11749) accrementitious
+11750) accretionary
+11751) ophiolite
+11752) ophiolitic
+11753) dewater (+s +ing +ed)
+11754) imbricate (+s +ing +ed)
+11755) schists (added plural)
+11756) syngenetic
+11757) paragenesis
+11758) parageneses (plural of previous word)
+11759) paragenetic
+11760) sphalerite
+11761) kyanite
+11762) kyanitic
+11763) protogenetic
+11764) protogastric
+11765) protogalaxy (+plural)
+11766) protogalactic
+11767) protogeneous
+11768) protofilament
+11769) protoform
+11770) protofibril
+11771) microfibril (+plural)
+11772) hemicellulose (+plural)
+11773) cellulosic
+11774) photoreactive
+11775) lignin
+11776) suberin
+11777) callose (Collins)
+11778) hypodermis + hypoderm + hypoderma
+11779) postsynaptic
+11780) postsynaptically
+11781) postsynapsis
+11782) synapsis
+11783) diplotene
+11784) pachytene
+11785) zygotene
+11786) leptotene
+11787) diakinesis
+11788) diakineses (plural of previous word)
+11789) LinkedIn's (added the 's)
+11790) Zika (+'s - name - Wikipedia)
+11791) Zoltan (+'s - name - Wikipedia)
+11792) Zoltán (+'s - name - Wikipedia)
+11793) Sadovsky (+'s - name - Wikipedia)
+11794) Mantke (name - Wikipedia)
+11795) missee + missees + misseeing + missaw + misseen (Wiktionary)
+11796) FOSS (abbrevitation: Free and Open Source Software - Wiktionary)
+11797) FOSSer (+plural - Wiktionary)
+11798) Zuza (+'s - name - Wikipedia)
+11799) OSS (abbreviation: open-source software - Wiktionary)
+11800) Coon (+'s - name - Wikipedia)
+11801) Yoyodyne (name - Wikipedia)
+11802) Brodie (+'s - name - Wikipedia)
+11803) Su (abbreviation: Sunday)
+11804) Sa (abbreviation: Saturday)
+11805) Pompeian + Pompeiian
+11806) Pompeii (+'s - name - Wikipedia)
+11807) Taranaki (+'s - name - Wikipedia)
+11808) Sino-Japanese (Sino-Japanese Wars)
+11809) jetliner (+plural +'s)
+11810) depressurize (+s +ing +ed +ion - IZE)
+11811) depressurise (+s +ing +ed +ion - ISE)
+11812) safety's (added the 's)
+11813) Ariana (+'s - name - Wikipedia)
+11814) bressummer (Collins)
+11815) Farsi
+11816) Nasrin (+'s - name - Wikipedia)
+11817) Giffuni (name - Wikipedia)
+11818) autoincrement (+s +ing +ed - Wiktionary)
+11819) MySQL (+'s - Wikipedia)
+11820) Kexi (+'s - name - Wikipedia)
+11821) TBW (abbreviation: Terabytes Written)
+11822) LTS (abbreviation: Long Term Support)
+11823) Piotr (+'s - name - Wikipedia)
+11824) Marcinkiewicz (+'s - name - Wikipedia)
+11825) waterboard (+s +ing +ed)
+11826) untargeted (Wiktionary)
+11827) snowkiting
+11828) snowkiter (+plural)
+11829) kitesurfing
+11830) kitesurfer (+plural)
+11831) Agostino (+'s - name - Wikipedia)
+11832) kitenge
+11833) Jenkyn (+'s - name - Wikipedia)
+11834) needlecord
+11835) needledick (slang)
+11836) needleful (+plural)
+11837) needleless
+11838) needlenose
+11839) needlepointed + needlepointing (merged into needlepoint)
+11840) multigrain
+11841) low-fat
+11842) herbed
+11843) roulade (+plural)
+11844) Strauss's (added the 's  - name - Wikipedia)
+11845) crustless (Collins)
+11846) unscarred
+11847) undented (Collins)
+11848) malcontentedly
+11849) malcontented
+11850) Everett's (added the 's  - name - Wikipedia)
+11851) McCain (+'s - name - Wikipedia)
+11852) Langmack (+'s - name - Wikipedia)
+11853) Charest (+'s - name - Wikipedia)
+11854) Warrick (+'s - name - Wikipedia)
+11855) inspectingly (Collins)
+11856) inspectional (Collins)
+11857) inspective (Collins)
+11858) Churchland (+'s - name - Wikipedia)
+11859) Lucan
+11860) Synoptic (+plural - Gospel related)
+11861) synoptics (added plural)
+11862) synoptical
+11863) synoptically
+11864) Tacitus (+'s - name - Wikipedia)
+11865) tachypnoea
+11866) tachyphylaxis
+11867) spirometer (Collins)
+11868) spirometric (Collins)
+11869) spirometry (Collins)
+11870) phosphoenolpyruvate
+11871) pyruvate
+11872) malate
+11873) malonate (+plural)
+11874) ferricyanide
+11875) Walz (+'s - name - Wikipedia)
+11876) ferriferous
+11877) ferrimagnet
+11878) disambiguator (+plural - Wiktionary)
+11879) firecrest (+plural)
+11880) redstart (+plural)
+11881) polygyny
+11882) philopatric
+11883) philopatry
+11884) mericarp
+11885) schizocarp
+11886) indehiscent
+11887) indehiscence
+11888) cremocarp (Collins)
+11889) Lindley (+'s - name - Wikipedia)
+11890) indemnifier (+plural)
+11891) Dedekind (+'s - name - Wikipedia)
+11892) Chamberlin (+'s - name - Wikipedia)
+11893) non-conformant
+11894) non-conform
+11895) non-conformable
+11896) non-conformance
+11897) non-conformer
+11898) conformant (Wiktionary)
+11899) non-confrontational
+11900) nonconformably
+11901) nonconformitant
+11902) resave (+s +ing +ed)
+11903) resample (+s +ing +ed)
+11904) resanctification
+11905) resite (+s +ing +ed)
+11906) resituate (+s +ing +ed)
+11907) reskill (+s +ing +ed)
+11908) resizer
+11909) reskin (+s +ing +ed)
+11910) resmelt (+s +ing +ed)
+11911) resmethrin
+11912) resmooth (+s +ing +ed)
+11913) resmile
+11914) resanctify (+s +ing +ed)
+11915) reslush (+s +ing +ed)
+11916) reslash (+s +ing +ed)
+11917) recombinational
+11918) recombinationally
+11919) recombinationless
+11920) recombinogenic
+11921) recomforting
+11922) recommand (+s +ing +ed)
+11923) Stancliffe (+'s - name - Wikipedia)
+11924) Howley (+'s - name - Wikipedia)
+11925) recommencer
+11926) recompare (+s +ing +ed)
+11927) recompensable
+11928) recompensation
+11929) recompensate (+s +ing +ed)
+11930) resay (+s +ing +resaid - Wiktionary)
+11931) Hippocrates (+'s - name - Wikipedia)
+11932) hippocras
+11933) Chaucer's (added the 's - name - Wikipedia)
+11934) clary
+11935) pillwort
+11936) glair (+y)
+11937) reactivates (merged into reactivate)
+11938) Yongbyon (+'s - name - Wikipedia)
+11939) reactionism
+11940) Schaff (+'s - name - Wikipedia)
+11941) reactionaryism + reactionarism
+11942) reactionariness
+11943) reactionarily
+11944) reactional
+11945) formicarium
+11946) formicaria (plural of previous word)
+11947) formication
+11948) haloperidol
+11949) pimozide
+11950) piperidine
+11951) piperitious
+11952) cinereous + cineritious (Collins)
+11953) piperine + piperin
+11954) piperonal
+11955) piperic (piperic acid)
+11956) piperazine
+11957) anthelmintic (+plural)
+11958) prochlorperazine
+11959) perphenazine
+11960) fluphenazine
+11961) phenothiazine (+plural)
+11962) Prolixin
+11963) prolixness
+11964) Burel (name - Wikipedia)
+11965) god-dam (removed: it is "goddam" and it is an American word)
+11966) hyperloop (+plural - Wiktionary)
+11967) Udod (name - Wikipedia)
+11968) stridor
+11969) tachypnea
+11970) albuminuria
+11971) aetiologies (added plural)
+11972) nephropathy
+11973) Lewellys (name - Wikipedia)
+11974) nephropexy
+11975) nephropathic
+11976) nephromixium
+11977) nephridium
+11978) nephridia (plural of previous word)
+11979) nephridial
+11980) gonoduct (Collins)
