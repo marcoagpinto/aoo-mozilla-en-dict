@@ -14807,7 +14807,44 @@ V2.35
 11978) nephridia (plural of previous word)
 11979) nephridial
 11980) gonoduct (Collins)
+
+
+V2.36 (ongoing)
+6-APR-2016
+11981) oversale
+11982) oversamples (merged into oversample)
+11983) oversalt (+s +ing +ed)
+11984) oversailed (merged into oversail)
+11985) overrunner
+11986) overruler
+11987) overruff (+s +ing +ed)
+11988) overrisen
+11989) overripeness
+11990) Heber (+s - name - Wikipedia)
+11991) overripened
+11992) Goanese
+11993) Goa (+s - name - Wikipedia)
+11994) Bundesliga
+11995) Cauldwell (+s - name - Wikipedia)
+11996) keypress (+plural - Wiktionary)
+11997) UDG (+plural - abbreviation: user-defined graphic - Wiktionary)
+11998) Kempston (name - Wikipedia)
+11999) redefinable (Wiktionary)
+12000) attribute's (added the 's - Wikipedia)
+12001) chan (+plural - Wiktionary)
+12002) playfield
+12003) unshifted (Wiktionary)
+12004) undraw (+s +ing) + undrew + undrawn
+12005) sines (added plural)
+12006) zeroise (+s +ing +ed - ISE - Wiktionary)
+12007) zeroize (+s +ing +ed - IZE - Wiktionary)
+12008) arcsin
+12009) arccos
+12010) arccosine
+12011) uncontended
+12012) Amstrad (+s - name - Wikipedia)
+12013) Oric (name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.35
+British English Dictionary (Forked) 2.36
 by Marco A.G.Pinto
