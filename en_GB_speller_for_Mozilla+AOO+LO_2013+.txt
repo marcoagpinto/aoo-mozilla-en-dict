@@ -14920,6 +14920,71 @@ V2.36 (ongoing)
 12083) Borghini (+s - name - Wikipedia)
 12084) Coventry's (added the 's - name - Wikipedia)
 12085) PGA (+'s - abbreviation: Professional Golfers' Association)
+
+11-APR-2016
+12086) Copini (name - Google)
+12087) Condon (+s - name - Wikipedia)
+12088) Eslick (+s - name - Wikipedia)
+12089) Marchington (+s - name - Wikipedia)
+12090) Guélat (name - Google)
+12091) Masayuki (+s - name - Wikipedia)
+12092) Nakano (+s - name - Wikipedia)
+12093) Kruno (name - Wikipedia)
+12094) Palmgren (+s - name - Wikipedia)
+12095) Mandel (merged into Mandel's)
+12096) Kartikaya (name - Wikipedia)
+12097) enum (+plural - Wiktionary)
+12098) Aryeh (+s - name - Wikipedia)
+12099) Gregor (+s - name - Wikipedia)
+12100) Hohl (+s - name - Wikipedia)
+12101) Heinecke (+s - name - Wikipedia)
+12102) Ager (+plural - New Ager)
+12103) Agey (New Agey)
+12104) insectoid (+plural - Wiktionary)
+12105) Morgellons
+12106) parasitosis (Collins)
+12107) parasitoses (plural of previous word - Collins)
+
+12-APR-2016
+12108) cardioprotection
+12109) prodromal
+12110) hyperalgesia
+12111) hyperalgesic
+12112) noradrenergic
+12113) noradrenergically
+12114) Mirowsky (name - Wikipedia)
+12115) Noraid + NORAID
+12116) norbergite
+12117) humite (Collins)
+12118) norbornadiene
+12119) norbornane
+12120) terpene (+plural)
+12121) lactone (+plural)
+12122) macrocyclic
+12123) macrocycle
+12124) porphyrin (+plural)
+12125) photophysical
+12126) photophysics
+12127) photopia
+12128) photopic
+12129) scotopic
+12130) scotoscope
+12131) Fitt (+s - name - Wikipedia)
+12132) Frith (+s - name - Wikipedia)
+12133) crystalloid (+plural)
+12134) refractile
+12135) vascularize (+s +ing +ed +ion -IZE)
+12136) vascularise (+s +ing +ed +ion -ISE)
+12137) stromal
+12138) stromatic
+12139) tonsillar
+12140) exudates (added plural)
+12141) histologically
+12142) histography
+12143) histographer
+12144) historiograph
+12145) Fabyan (+s - name - Wikipedia)
+12146) historify (+s +ing +ed)
 =============
 
 British English Dictionary (Forked) 2.36
