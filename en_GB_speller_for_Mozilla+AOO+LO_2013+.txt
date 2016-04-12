@@ -14985,6 +14985,13 @@ V2.36 (ongoing)
 12144) historiograph
 12145) Fabyan (+s - name - Wikipedia)
 12146) historify (+s +ing +ed)
+12147) dmg
+12148) tgz
+12149) Xubuntu (+s - name of OS - Wikipedia)
+12150) Minho (+s - name - Wikipedia)
+12151) mousepad (+plural)
+12152) XChat (+s - name of software - Wikipedia)
+12153) Softpedia (name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.36
