@@ -14992,6 +14992,61 @@ V2.36 (ongoing)
 12151) mousepad (+plural)
 12152) XChat (+'s - name of software - Wikipedia)
 12153) Softpedia (name - Wikipedia)
+
+14-APR-2016
+12154) charset (+plural - abbreviation: character set - Wiktionary)
+12155) spake
+12156) adv. (abbreviation of words - Collins)
+12157) bikeshed (+s +ing - Wiktionary)
+12158) Hefner (+'s - name - Wikipedia)
+12159) Kari (+'s - name - Wikipedia)
+12160) Kennell (+'s - name - Wikipedia)
+12161) Tenison (+'s - name - Wikipedia)
+12162) Doonesbury (+'s - name - Wikipedia)
+12163) Anhalt (+'s - name - Wikipedia)
+12164) Lichtenberg (+'s - name - Wikipedia)
+12165) Oberea (name - Wikipedia)
+12166) Kassel (+'s - name - Wikipedia)
+12167) Schopenhauer (+'s - name - Wikipedia)
+12168) Donovan's (added the 's - name - Wikipedia)
+12169) Fionnan (name - Wikipedia)
+12170) Sheahan (+'s - name - Wikipedia)
+12171) Parnell (+'s - name - Wikipedia)
+12172) Larkin (+'s - name - Wikipedia)
+12173) Independent's (Wikipedia)
+12174) Frimley (+'s - name - Wikipedia)
+12175) Bintcliffe (name - Wikipedia)
+12176) Carrera (+'s - name - Wikipedia)
+12177) Vauxhall (+'s - name - Wikipedia)
+12178) Primera (+'s - name - Wikipedia)
+12179) Turkington (+'s - name - Wikipedia)
+12180) Donington (+'s - name - Wikipedia)
+12181) Snetterton (+'s - name - Wikipedia)
+12182) Knockhill (+'s - name - Wikipedia)
+12183) superbike (+plural)
+12184) Mondello (+'s - name - Wikipedia)
+12185) Dallara (+'s - name - Wikipedia)
+12186) Duffus (+'s - name - Wikipedia)
+12187) Hempriggs (name - Wikipedia)
+12188) issueless
+12189) issuably
+12190) Elkanah (+'s - name - Wikipedia)
+12191) Zairean + Zairian (+plural of both)
+12192) illustrational
+12193) bell-bottom (+s +ed)
+12194) hipsterish
+12195) hipsterism
+12196) hepcat (+plural)
+12197) overparent (+ing)
+12198) infantilize (+s +ing +ed +ion -IZE)
+12199) infantilise (+s +ing +ed +ion -ISE)
+12200) infantilism
+12201) masculinism
+12202) Symonds (+'s - name - Wikipedia)
+12203) masculinist + masculist (+plural of both)
+12204) clandestinity
+12205) Nicholai (+'s - name - Wikipedia)
+12206) Sikkema (name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.36
