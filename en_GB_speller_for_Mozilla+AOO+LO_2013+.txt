@@ -14809,7 +14809,7 @@ V2.35
 11980) gonoduct (Collins)
 
 
-V2.36 (ongoing)
+V2.36
 6-APR-2016
 11981) oversale
 11982) oversamples (merged into oversample)
@@ -15272,6 +15272,67 @@ V2.36 (ongoing)
 12423) polaron
 12424) quasiparticle (+plural)
 12425) Wen (+'s - name - Wikipedia)
+
+25-APR-2016
+12426) Verilog (+'s - name - Wikipedia)
+12427) VHDL (Wiktionary)
+12428) LOL (Oxford: informal - abbreviation: laughing out loud)
+12429) Naresh (+'s - name - Wikipedia)
+12430) Narotam (+'s - name - Wikipedia)
+12431) Lathia (+'s - name - Wikipedia + Google)
+12432) BCE (abbreviation: Before the Common Era)
+12433) Coulter (+'s - name - Wikipedia)
+12434) BAe (abbreviation: British Aerospace)
+12435) BAE (BAE Systems plc)
+12436) plc (added also lowercase)
+12437) appraisable
+12438) appraisee (added singular)
+12439) appraisement
+12440) appraisive
+12441) dualling + dualled (merged into dual)
+12442) dualize (-IZE)
+12443) dualise (-ISE)
+12444) construal (+plural)
+12445) quotative (+plural)
+12446) quotativeness
+12447) warrantee
+12448) obligee (+plural +'s)
+12449) obligor (+plural)
+12450) protyle + prothyl
+12451) contractee (+plural)
+12452) contractive
+12453) jurat (+plural)
+12454) Pilton (+'s - name - Wikipedia)
+12455) jurisconsult (+plural)
+12456) Khomeini (+'s - name - Wikipedia)
+12457) RRP (Abbreviation: Recommended Retail Price)
+12458) V-NAND (Wikipedia)
+12459) intl (Collins: abbreviation: international)
+12460) polysilicon
+12461) EPROMs (added plural)
+12462) Masuoka (+'s - name - Wikipedia)
+12463) Fujio (+'s - name - Wikipedia)
+12464) microcontrollers (added plural)
+12465) miniSD (Wikipedia)
+12466) SD (Wiktionary)
+12467) GPSes (Wiktionary: added plural of GPS)
+12468) GPMU (abbreviation: Graphical, Paper, and Media Union)
+12469) Duursma (+'s - name - Wikipedia)
+12470) Tadeusz (+'s - name - Wikipedia)
+12471) Ciecierski (+'s - name - Wikipedia)
+12472) Sharman (+'s - name - Wikipedia)
+12473) Lilienthal (+'s - name - Wikipedia)
+12474) Ruttloff (name - Wikipedia)
+12475) Gabriele (+'s - name - Wikipedia)
+12476) Scannell (+'s - name - Wikipedia)
+12477) Luzius (name - Wikipedia)
+12478) Roveri (name - Wikipedia)
+12479) Dalton's (added the 's - name - Wikipedia)
+12480) Sardinian (+'s +plural)
+12481) Guinean (+plural)
+12482) Ninian (+'s - name - Wikipedia)
+12483) Setswana
+12484) Victoriana
 =============
 
 British English Dictionary (Forked) 2.36
