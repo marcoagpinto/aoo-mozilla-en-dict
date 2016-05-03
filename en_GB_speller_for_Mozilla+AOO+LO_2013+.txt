@@ -15333,7 +15333,66 @@ V2.36
 12482) Ninian (+'s - name - Wikipedia)
 12483) Setswana
 12484) Victoriana
+
+
+V2.37 (ongoing)
+3-MAY-2016
+12485) Exner (+'s - name - Wikipedia)
+12486) Rorschach's (added the 's - name - Wikipedia)
+12487) Kerner (+'s - name - Wikipedia)
+12488) Justinus (+'s - name - Wikipedia)
+12489) Binet (+'s - name - Wikipedia)
+12490) Bircher (+'s - name - Wikipedia)
+12491) affectivity
+12492) Klopfer (+'s - name - Wikipedia)
+12493) examinee's (added the 's)
+12494) psychodiagnostic (+plural)
+12495) Piotrowski (+'s - name - Wikipedia)
+12496) Tavistock (+'s - name - Wikipedia)
+12497) Fidgen (name - Wikipedia)
+12498) Cronbach (+'s - name - Wikipedia)
+12499) Reber (+'s - name - Wikipedia)
+12500) insightfulness (Wiktionary)
+12501) Lilienfeld (+'s - name - Wikipedia)
+12502) Poundstone (+'s - name - Wikipedia)
+12503) Koocher (+'s - name - Wikipedia)
+12504) Heilman (+'s - name - Wikipedia)
+12505) apperception
+12506) apperceptive
+12507) fumage (Collins)
+12508) pareidolia (Collins)
+12509) Holtzman (+'s - name - Wikipedia)
+12510) autopiloting + autopiloted (merged into autopilot - Wiktionary)
+12511) shitter (+plural - Oxford: vulgar slang)
+12512) shitstorm (Oxford: vulgar slang)
+12513) shiur
+12514) shiurim (plural of previous word)
+12515) shiva + shivah
+12516) Shivaism + Sivaism
+12517) Shivaite + Sivaite
+12518) Shivaji + Sivaji (name)
+12519) shiverers (added plural)
+12520) twitcher (+plural)
+12521) yachtie (+'s +plural)
+12522) Silbury (name - Wikipedia)
+12523) touristed + touristing (merged into tourist)
+12524) touristic
+12525) touristically
+12526) Piran (+'s - name - Wikipedia)
+12527) uppercase (+s +ing +ed - another way of upper case - Wiktionary)
+12528) lowercase (+s +ing +ed - another way of lower case - Wiktionary)
+12529) mottos (another plural of motto)
+12530) mottledness
+12531) Cruickshank (+'s - name - Wikipedia)
+12532) Watteau (+'s - name - Wikipedia)
+12533) Montgomerie (+'s - name - Wikipedia)
+12534) mottoed
+12535) mottoless
+12536) Froyd (+'s - name - Wikipedia)
+12537) Unwalla (name - Wikipedia)
+12538) Dolske (name - Wikipedia)
+12539) Gagnon (+'s - name - Wikipedia)
 =============
 
-British English Dictionary (Forked) 2.36
+British English Dictionary (Forked) 2.37
 by Marco A.G.Pinto
