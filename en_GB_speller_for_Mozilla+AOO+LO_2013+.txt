@@ -16060,7 +16060,127 @@ V2.37
 13184) diphycercal
 13185) Wiktionary's (added the 's)
 13186) Collins's (added the 's)
+
+
+V2.38 (ongoing)
+2-JUN-2016
+13187) asylee (+plural)
+13188) endorsee
+13189) Lockerbie (+'s - name - Wikipedia)
+13190) Ferrybank (name - Wikipedia)
+13191) Suleiman (+'s - name - Wikipedia)
+13192) Maura (+'s - name - Wikipedia)
+13193) Stover (+'s - name - Wikipedia)
+13194) Nasir (+'s - name - Wikipedia)
+13195) Dollie (+'s - name - Wikipedia)
+13196) Kostova (+'s - name - Wikipedia)
+13197) Ramsbury (+'s - name - Wikipedia)
+13198) Hampton's (added 's - name - Wikipedia)
+13199) Lermond (added 's - name - Wikipedia)
+13200) Elphin (+'s - name - Wikipedia)
+13201) Ginsberg (+'s - name - Wikipedia)
+13202) Penn's (added 's - name - Wikipedia)
+13203) Chrysostom (+'s - name - Wikipedia)
+13204) Philipose (+'s - name - Wikipedia)
+13205) Nicholas's (added 's - name - Wikipedia)
+13206) Hippolyte (+'s - name - Wikipedia)
+13207) Suryavarman (+'s - name - Wikipedia)
+13208) dedicatee
+13209) adipocyte (+plural)
+13210) Catherine's (added 's - name - Wikipedia)
+13211) Akihito (+'s - name - Wikipedia)
+13212) holdback (+plural)
+13213) Zwick (+'s - name - Wikipedia)
+13214) Brundtland (+'s - name - Wikipedia)
+13215) exocytosis
+13216) exocytotic
+13217) endocytosis
+13218) endocytotic
+13219) endosome (Collins)
+13220) releasee (+plural)
+13221) releasor (+plural)
+13222) therefrom
+13223) pish (+s +ing +ed - Wiktionary)
+13224) webpage (+plural - Wiktionary - another way of web page)
+13225) plaintexts (added plural - Wiktionary)
+13226) cyphertext (+plural - Wiktionary)
+13227) Rivest-Shamir-Adleman
+13228) steganography (+ic - Oxford + Wiktionary)
+13229) stenography (removed - Oxford says it is American)
+13230) steganographer (+plural - Wiktionary)
+13231) Suetonius (+'s - name - Wikipedia)
+13232) Kamasutra (name - Wikipedia)
+13233) homophonic (+ally)
+13234) homophonous
+13235) polyalphabetic
+13236) Kerckhoffs (+'s - name - Wikipedia)
+13237) cryptanalytically (Wiktionary)
+13238) Bletchley (+'s - name - Wikipedia)
+13239) Hellman (+'s - name - Wikipedia)
+13240) Diffie (+'s - name - Wikipedia)
+13241) Rabin (+'s - name - Wikipedia)
+13242) Adleman (+'s - name - Wikipedia)
+13243) Shamir (+'s - name - Wikipedia)
+13244) Rivest (+'s - name - Wikipedia)
+13245) Adi (+'s - name - Wikipedia)
+13246) Schnorr (+'s - name - Wikipedia)
+13247) Biham (+'s - name - Wikipedia)
+13248) OpenCL (Wikipedia)
+13249) battue (+plural)
+
+3-JUN-2016
+13250) unrelatedness
+13251) mismate (+s +ing +ed)
+13252) mismatchment
+13253) mismarriage (+plural)
+13254) mismarry (+s +ing +ed)
+13255) mismarketing
+13256) mismark (+s +ing +ed)
+13257) mismanners
+13258) mismannered + mismannert
+13259) mismanager
+13260) mismanageable
+13261) mismake (+s +ing +mismade)
+13262) mislodge (+s +ing +ed)
+13263) mislocation
+13264) mislocate (+s +ing +ed)
+13265) mislocalize (+s +ing +ed +ion)
+13266) mislive (+s +ing +ed)
+13267) mislippen
+13268) misline
+13269) mislineation
+13270) mismean (+s +ing +mismeant)
+13271) mismeasure (+s +ing +ed)
+13272) mismeasurement (+plural)
+13273) mismetre (+s +ing +ed)
+13274) pseudocyst (+plural)
+13275) proneural
+13276) sanderling (+plural)
+13277) willet (+plural)
+13278) avocet (+plural)
+13279) godwit (+plural)
+13280) dowitcher (+plural)
+13281) francolin (+plural)
+13282) phalarope (+plural)
+13283) jacana + jaçana (+plural of both)
+13284) yellowlegs
+13285) Fundy (+'s - name - Wikipedia)
+13286) yellowthroat (+plural)
+13287) waterthrush (+plural)
+13288) Watoga (+'s - name - Wikipedia)
+13289) weathertight
+13290) weatherstrip (+s +ing +ed)
+13291) weatherstruck (weatherstruck joint)
+13292) weatherly (+ness)
+13293) headsail (+plural)
+13294) windage
+13295) foretriangle (+plural)
+13296) gybing + gybed (merged into gybe)
+13297) gulet (+plural)
+13298) caique (+plural)
+13299) motorsailers (added plural - Wiktionary)
+13300) motorphobia
 =============
 
-British English Dictionary (Forked) 2.37
+British English Dictionary (Forked) 2.38
 by Marco A.G.Pinto
