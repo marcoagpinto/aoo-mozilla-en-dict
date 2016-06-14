@@ -16341,6 +16341,48 @@ V2.38 (ongoing)
 13453) Grinstead (+'s - name - Wikipedia)
 13454) Varga (+'s - name - Wikipedia)
 13455) Rodenberry (removed since the correct is Roddenberry)
+
+13-JUN-2016
+13456) unconditionality
+13457) unconducive
+13458) unconference (+plural)
+13459) unconfessed
+13460) unconfident
+13461) unconfidently
+13462) probiotic (+plural)
+13463) phytate
+13464) indigestibility
+13465) indigestibly
+13466) phytane
+13467) isoprenoid (Collins)
+13468) phytalbumin
+13469) physostomous
+13470) physostome
+13471) physostigmine
+13472) asystole
+13473) Jobst (+'s - name - Wikipedia)
+13474) Hesse (+'s - name - Wikipedia)
+13475) Calabar (+'s - name - Wikipedia)
+13476) anticholinesterase (Collins)
+13477) drumheads (added plural)
+13478) scapegoating + scapegoated (merged into scapegoat)
+13479) Adie (+'s - name - Wikipedia)
+13480) whorishly
+13481) whorishness
+13482) whoredom
+
+14-JUN-2016
+13483) whoopsie (+plural)
+13484) stockinet (+plural)
+13485) stockinettes (added plural)
+13486) malleolus
+13487) malleoli (plural of previous word)
+13488) malleoincudal
+13489) mallemaroking
+13490) Scoresby (+'s - name - Wikipedia)
+13491) malleiform
+13492) malleefowl
+13493) mallein
 =============
 
 British English Dictionary (Forked) 2.38
