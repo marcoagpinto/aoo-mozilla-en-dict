@@ -16383,6 +16383,65 @@ V2.38 (ongoing)
 13491) malleiform
 13492) malleefowl
 13493) mallein
+
+16-JUN-2016
+13494) malic (malic acid)
+13495) succinic (succinic acid)
+13496) polyphenol (+plural)
+13497) catechin (+plural)
+13498) apoplast (Collins)
+13499) gallate
+13500) polyphenolic
+13501) alligation + aligation
+13502) alligate (+s +ing +ed)
+13503) polyphenylene
+13504) polyphiloprogenitive
+13505) polyphloisboian + poluphloisboian
+13506) Blackwood (+'s - name - Wikipedia)
+13507) polyphloisboisterous + poluphloisboisteros + poluphloisboisterous
+13508) polyphobia
+13509) polyphon + polyphone
+13510) polyphonal
+13511) polyphonian
+13512) Quarles (+'s - name - Wikipedia)
+13513) top-line
+13514) dramaturge + dramaturg (+plural of both)
+13515) Hinton (+'s - name - Wikipedia)
+13516) Rosencrantz (+'s - name - Wikipedia)
+13517) Guildenstern (+'s - name - Wikipedia)
+13518) Gesher (+'s - name - Wikipedia)
+13519) Featherstone (+'s - name - Wikipedia)
+13520) Albee (+'s - name - Wikipedia)
+13521) playbox
+13522) playboyish
+13523) playboyishness
+13524) playboyism
+13525) playbus
+13526) playboater
+13527) playboating
+
+20-JUN-2016
+13528) UT (abbreviation: Universal Time)
+13529) pseud (+plural - Oxford: informal)
+13530) psephomancy
+13531) psephologists (added plural)
+13532) psephocracy
+13533) psephocrat
+13534) psephitic
+13535) psephite
+13536) breccia (added singular)
+13538) brecciate (+s +ion)
+13539) evaporite (+plural)
+13540) foreland (+plural)
+13541) siliciclastic
+13542) lagoonal
+13543) spilite (+plural +ic)
+13544) albitic
+13545) freetail (freetail bat)
+13546) freesia (+plural)
+13547) sandhill (+plural)
+13548) lochia
+13549) lochial
 =============
 
 British English Dictionary (Forked) 2.38
