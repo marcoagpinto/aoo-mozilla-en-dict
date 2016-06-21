@@ -16442,6 +16442,36 @@ V2.38 (ongoing)
 13547) sandhill (+plural)
 13548) lochia
 13549) lochial
+
+21-JUN-2016
+13550) claustrophobics (added plural)
+13551) claustrophobically
+13552) paranoiacally
+13553) paranoic
+13554) paranoically
+13555) counterthreats (added plural - Wiktionary)
+13556) enjoyer (+plural)
+13557) claustrophobe (+plural +'s)
+13558) insula
+13559) insulae (plural of previous word)
+13560) insufflator (+plural)
+13561) Matisse's (added the 's - name - Wikipedia)
+13562) methylergonovine (Wiktionary)
+13563) precapitalist (Collins)
+13564) Slavophile
+13565) Octobrist (+plural)
+13566) zemstvo (+plural)
+13567) zelkova
+13568) Zenist (+plural)
+13569) zazen
+13570) Zb (abbreviation: zettabit)
+13571) zettabit (Wikipedia)
+13572) yottabit (Wikipedia)
+13573) petabit (Wikipedia)
+13574) terabit (Wikipedia)
+13575) exabit (Wikipedia)
+13576) pharaoh's (added the 's)
+13577) Haman (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.38
