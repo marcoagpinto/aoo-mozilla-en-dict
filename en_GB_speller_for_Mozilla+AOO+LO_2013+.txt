@@ -16472,6 +16472,30 @@ V2.38 (ongoing)
 13575) exabit (Wikipedia)
 13576) pharaoh's (added the 's)
 13577) Haman (+'s - name - Wikipedia)
+
+22-JUN-2016
+13578) 16K (ZX Spectrum memory)
+13579) 48K (ZX Spectrum memory)
+13580) 128K (ZX Spectrum memory)
+13581) Abby (+'s - name - Wikipedia)
+13582) antipattern (+plural - Wiktionary)
+13583) Noam (+'s - name - Wikipedia)
+13584) Chomsky (+'s - name - Wikipedia)
+13585) Avram (+'s - name - Wikipedia)
+13586) Lakoff (+'s - name - Wikipedia)
+13587) Jackendoff (+'s - name - Wikipedia)
+13588) categoricity (Wiktionary)
+13589) markedness
+13590) Faurisson (+'s - name - Wikipedia)
+13591) Reaganite (+plural)
+13592) Barsky (+'s - name - Wikipedia)
+13593) Aviva (+'s - name - Wikipedia)
+13594) Tolle (+'s - name - Wikipedia)
+13595) Winfrey (+'s - name - Wikipedia)
+13596) beingness
+13597) Kendra (+'s - name - Wikipedia)
+13598) Stackhouse (+'s - name - Wikipedia)
+13599) Epictetus (+'s - name - Wikipedia)
 =============
 
 British English Dictionary (Forked) 2.38
