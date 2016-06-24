@@ -51,9 +51,19 @@ OOo Issue 29112, 55498 - add NOSUGGEST flags to taboo words
 New REP items (better suggestions for accented words and a few mistakes)
 OOo Issue 63541 - remove *dessicated
 
-2008-12-18 nemeth AT OOo
+2008-12-18 - NOSUGGEST, NUMBER/COMPOUNDRULE patches (nemeth AT OOo)
+2010-03-09 (nemeth AT OOo)
+ - UTF-8 encoded dictionary:
+      - fix em-dash problem of OOo 3.2 by BREAK
+      - suggesting words with typographical apostrophes
+      - recognizing words with Unicode f ligatures
+ - add phonetic suggestion (Copyright (C) 2000 Björn Jacke, see the end of the file)
 
----
+ 2013-08-25 - GB Forked by Marco A.G.Pinto
+ 2016-06-10 - NOSUGGEST added to this clean version of the GB .AFF (Marco A.G.Pinto)
+ 2016-06-21 - COMPOUNDING added to this clean version of the GB .AFF (Áron Budea)
+ 
+-------
 
 MARCO A.G.PINTO:
 Since the dictionary hasn't been updated for many years,
@@ -15204,3 +15214,456 @@ V2.37 - 1-JUN-2016
 13184) diphycercal
 13185) Wiktionary's (added the 's)
 13186) Collins's (added the 's)
+
+
+V2.38 - 1-JUL-2016
+------------------
+13187) asylee (+plural)
+13188) endorsee
+13189) Lockerbie (+'s - name - Wikipedia)
+13190) Ferrybank (name - Wikipedia)
+13191) Suleiman (+'s - name - Wikipedia)
+13192) Maura (+'s - name - Wikipedia)
+13193) Stover (+'s - name - Wikipedia)
+13194) Nasir (+'s - name - Wikipedia)
+13195) Dollie (+'s - name - Wikipedia)
+13196) Kostova (+'s - name - Wikipedia)
+13197) Ramsbury (+'s - name - Wikipedia)
+13198) Hampton's (added 's - name - Wikipedia)
+13199) Lermond (added 's - name - Wikipedia)
+13200) Elphin (+'s - name - Wikipedia)
+13201) Ginsberg (+'s - name - Wikipedia)
+13202) Penn's (added 's - name - Wikipedia)
+13203) Chrysostom (+'s - name - Wikipedia)
+13204) Philipose (+'s - name - Wikipedia)
+13205) Nicholas's (added 's - name - Wikipedia)
+13206) Hippolyte (+'s - name - Wikipedia)
+13207) Suryavarman (+'s - name - Wikipedia)
+13208) dedicatee
+13209) adipocyte (+plural)
+13210) Catherine's (added 's - name - Wikipedia)
+13211) Akihito (+'s - name - Wikipedia)
+13212) holdback (+plural)
+13213) Zwick (+'s - name - Wikipedia)
+13214) Brundtland (+'s - name - Wikipedia)
+13215) exocytosis
+13216) exocytotic
+13217) endocytosis
+13218) endocytotic
+13219) endosome (Collins)
+13220) releasee (+plural)
+13221) releasor (+plural)
+13222) therefrom
+13223) pish (+s +ing +ed - Wiktionary)
+13224) webpage (+plural - Wiktionary - another way of web page)
+13225) plaintexts (added plural - Wiktionary)
+13226) cyphertext (+plural - Wiktionary)
+13227) Rivest-Shamir-Adleman
+13228) steganography (+ic - Oxford + Wiktionary)
+13229) stenography (removed - Oxford says it is American)
+13230) steganographer (+plural - Wiktionary)
+13231) Suetonius (+'s - name - Wikipedia)
+13232) Kamasutra (name - Wikipedia)
+13233) homophonic (+ally)
+13234) homophonous
+13235) polyalphabetic
+13236) Kerckhoffs (+'s - name - Wikipedia)
+13237) cryptanalytically (Wiktionary)
+13238) Bletchley (+'s - name - Wikipedia)
+13239) Hellman (+'s - name - Wikipedia)
+13240) Diffie (+'s - name - Wikipedia)
+13241) Rabin (+'s - name - Wikipedia)
+13242) Adleman (+'s - name - Wikipedia)
+13243) Shamir (+'s - name - Wikipedia)
+13244) Rivest (+'s - name - Wikipedia)
+13245) Adi (+'s - name - Wikipedia)
+13246) Schnorr (+'s - name - Wikipedia)
+13247) Biham (+'s - name - Wikipedia)
+13248) OpenCL (Wikipedia)
+13249) battue (+plural)
+13250) unrelatedness
+13251) mismate (+s +ing +ed)
+13252) mismatchment
+13253) mismarriage (+plural)
+13254) mismarry (+s +ing +ed)
+13255) mismarketing
+13256) mismark (+s +ing +ed)
+13257) mismanners
+13258) mismannered + mismannert
+13259) mismanager
+13260) mismanageable
+13261) mismake (+s +ing +mismade)
+13262) mislodge (+s +ing +ed)
+13263) mislocation
+13264) mislocate (+s +ing +ed)
+13265) mislocalize (+s +ing +ed +ion)
+13266) mislive (+s +ing +ed)
+13267) mislippen
+13268) misline
+13269) mislineation
+13270) mismean (+s +ing +mismeant)
+13271) mismeasure (+s +ing +ed)
+13272) mismeasurement (+plural)
+13273) mismetre (+s +ing +ed)
+13274) pseudocyst (+plural)
+13275) proneural
+13276) sanderling (+plural)
+13277) willet (+plural)
+13278) avocet (+plural)
+13279) godwit (+plural)
+13280) dowitcher (+plural)
+13281) francolin (+plural)
+13282) phalarope (+plural)
+13283) jacana + jaçana (+plural of both)
+13284) yellowlegs
+13285) Fundy (+'s - name - Wikipedia)
+13286) yellowthroat (+plural)
+13287) waterthrush (+plural)
+13288) Watoga (+'s - name - Wikipedia)
+13289) weathertight
+13290) weatherstrip (+s +ing +ed)
+13291) weatherstruck (weatherstruck joint)
+13292) weatherly (+ness)
+13293) headsail (+plural)
+13294) windage
+13295) foretriangle (+plural)
+13296) gybing + gybed (merged into gybe)
+13297) gulet (+plural)
+13298) caique (+plural)
+13299) motorsailers (added plural - Wiktionary)
+13300) motorphobia
+13301) bain-marie (+plural)
+13302) presentee (+plural)
+13303) Truscott (+'s - name - Wikipedia)
+13304) secondee (+plural)
+13305) loanee (+plural)
+13306) mephedrone
+13307) outfly (+s +ing +outflew +outflown)
+13308) devisable
+13309) devisee (+plural)
+13310) devisor
+13311) uprise (+uprisen)
+13312) misprize ‎(+s +ing +ed)
+13313) misprizer
+13314) misproportion
+13315) scission (+plural)
+13316) photosensitize (+s +ing +ed - IZE)
+13317) photosensitise (+s +ing +ed - ISE)
+13318) CISC (abbreviation: Complex Instruction Set Computer - Wiktionary)
+13319) (cc verb:  +cc's +cc'ing +cc'd)
+13320) garnisheed (merged into garnishee)
+13321) garniture (+plural)
+13322) overglaze
+13323) gateleg ( +ed "gateleg table")
+13324) Whieldon (+'s - name - Wikipedia)
+13325) chirality
+13326) enantiomer (+plural)
+13327) enantiomeric
+13328) enantiomerically
+13329) cholesteric
+13330) dissymmetry (+plural +ic)
+13331) dissymmetrical
+13332) dissyllable (another way of disyllable)
+13333) Sennett (+'s - name - Wikipedia)
+13334) Yvan (+'s - name - Wikipedia)
+13335) Cappiello (+'s - name - Wikipedia)
+13336) dissolvent (+plural)
+13337) transnationals (added plural)
+13338) transnationalism
+13339) maquiladora (+plural)
+13340) maquila (+plural)
+13341) Atkin (+'s - name - Wikipedia)
+13342) Weagle (+'s - name - Wikipedia)
+13343) Langlois (+'s - name - Wikipedia)
+13344) Mongrain (+'s - name - Wikipedia)
+13345) Durand (+'s - name - Wikipedia)
+13346) Pinard (+'s - name - Wikipedia)
+13347) Robillard (+'s - name - Wikipedia)
+13348) benga
+13349) Nyanza (+'s - name - Wikipedia)
+13350) BEng (abbreviation: Bachelor of Engineering)
+13351) penological
+13352) penpalship
+13353) penpoint
+13354) penoscrotal
+13355) Buren (+'s - name - Wikipedia)
+13356) McLane (+'s - name - Wikipedia)
+13357) Kinderhook (+'s - name - Wikipedia)
+13358) Cornelis (+'s - name - Wikipedia)
+13359) Claverack (+'s - name - Wikipedia)
+13360) Quincy (+'s - name - Wikipedia)
+13361) Clintonian
+13362) rechartering
+13363) Mangum (+'s - name - Wikipedia)
+13364) unactionable (Wiktionary)
+13365) Nethercote (+'s - name - Wikipedia)
+13366) Bhavani (+'s - name - Wikipedia)
+13367) backdraught
+13368) compossible
+13369) Fielding (+'s - name - Wikipedia)
+13370) linoleumed
+13371) linolenate
+13372) unsaturation
+13373) octadecane
+13374) palmitate
+13375) stearate (+plural)
+13376) stearic (stearic acid)
+13377) paraffinic
+13378) retinyl
+13379) retinylidene
+13380) retip (+s +ing +ed)
+13381) ressentiment
+13382) respring (+s +ing +resprang +resprung)
+13383) responsum
+13384) responsa (plural of previous word)
+13385) responsorially
+13386) responsor
+13387) Crashaw (+'s - name - Wikipedia)
+13388) responsivity
+13389) Hildegard (+'s - name - Wikipedia)
+13390) Whitby (+'s - name - Wikipedia)
+13391) Hilda (+'s - name - Wikipedia)
+13392) Ouija (Ouija board)
+13393) Brandi (+'s - name - Wikipedia)
+13394) orgonite (Wiktionary)
+13395) orgone
+13396) Ruaridh (name - Wikipedia)
+13397) lactam (+plural)
+13398) phenoxymethylpenicillin
+13399) phenylacetic
+13400) macrolide (+plural)
+13401) aminoglycoside (+plural - Wiktionary)
+13402) alkylating (alkylating agent)
+13403) alkylammonium
+13404) alkylamine
+13405) uncord (+s +ing +ed)
+13406) uncopiable
+13407) uncountability
+13408) uncosted
+13409) uninflected
+13410) extrapulmonary (Wiktionary)
+13411) becaplermin (Wiktionary)
+13412) microbially
+13413) microbian
+13414) bronchoscopic (Wiktionary)
+13415) monobactam (+plural - Wiktionary)
+13416) carbapenem (+plural - Wiktionary)
+13417) hydromagnetics (added plural)
+13418) hydromassage
+13419) hydromedusa
+13420) hydromedusae (plural of previous word)
+13421) medusoid (+plural)
+13422) agribusinessman
+13423) agribusinessmen (plural of previous word)
+13424) agri-monetary
+13425) agri-industrial
+13426) agri-industry
+13427) agricultor
+13428) stockmanship (Wiktionary)
+13429) husband-to-be
+13430) husbands-to-be (plural of previous word)
+13431) bride-to-be
+13432) brides-to-be (plural of previous word)
+13433) empyreal
+13434) skean (+plural)
+13435) theodicy (+plural)
+13436) theodicean
+13437) antiblack (Collins)
+13438) antiblackism (Collins)
+13439) monogenean (+plural)
+13440) sociobiological
+13441) sociobiologically
+13442) sociobiologist (+plural)
+13443) polyethism
+13444) eusocial
+13445) eusociality
+13446) nonbreeding (Collins)
+13447) Pasteur (+'s - name - Wikipedia)
+13448) Lansbury (+'s - name - Wikipedia)
+13449) Cobbe (+'s - name - Wikipedia)
+13450) Borgnine (+'s - name - Wikipedia)
+13451) Carsten (+'s - name - Wikipedia)
+13452) Hecht (+'s - name - Wikipedia)
+13453) Grinstead (+'s - name - Wikipedia)
+13454) Varga (+'s - name - Wikipedia)
+13455) Rodenberry (removed since the correct is Roddenberry)
+13456) unconditionality
+13457) unconducive
+13458) unconference (+plural)
+13459) unconfessed
+13460) unconfident
+13461) unconfidently
+13462) probiotic (+plural)
+13463) phytate
+13464) indigestibility
+13465) indigestibly
+13466) phytane
+13467) isoprenoid (Collins)
+13468) phytalbumin
+13469) physostomous
+13470) physostome
+13471) physostigmine
+13472) asystole
+13473) Jobst (+'s - name - Wikipedia)
+13474) Hesse (+'s - name - Wikipedia)
+13475) Calabar (+'s - name - Wikipedia)
+13476) anticholinesterase (Collins)
+13477) drumheads (added plural)
+13478) scapegoating + scapegoated (merged into scapegoat)
+13479) Adie (+'s - name - Wikipedia)
+13480) whorishly
+13481) whorishness
+13482) whoredom
+13483) whoopsie (+plural)
+13484) stockinet (+plural)
+13485) stockinettes (added plural)
+13486) malleolus
+13487) malleoli (plural of previous word)
+13488) malleoincudal
+13489) mallemaroking
+13490) Scoresby (+'s - name - Wikipedia)
+13491) malleiform
+13492) malleefowl
+13493) mallein
+13494) malic (malic acid)
+13495) succinic (succinic acid)
+13496) polyphenol (+plural)
+13497) catechin (+plural)
+13498) apoplast (Collins)
+13499) gallate
+13500) polyphenolic
+13501) alligation + aligation
+13502) alligate (+s +ing +ed)
+13503) polyphenylene
+13504) polyphiloprogenitive
+13505) polyphloisboian + poluphloisboian
+13506) Blackwood (+'s - name - Wikipedia)
+13507) polyphloisboisterous + poluphloisboisteros + poluphloisboisterous
+13508) polyphobia
+13509) polyphon + polyphone
+13510) polyphonal
+13511) polyphonian
+13512) Quarles (+'s - name - Wikipedia)
+13513) top-line
+13514) dramaturge + dramaturg (+plural of both)
+13515) Hinton (+'s - name - Wikipedia)
+13516) Rosencrantz (+'s - name - Wikipedia)
+13517) Guildenstern (+'s - name - Wikipedia)
+13518) Gesher (+'s - name - Wikipedia)
+13519) Featherstone (+'s - name - Wikipedia)
+13520) Albee (+'s - name - Wikipedia)
+13521) playbox
+13522) playboyish
+13523) playboyishness
+13524) playboyism
+13525) playbus
+13526) playboater
+13527) playboating
+13528) UT (abbreviation: Universal Time)
+13529) pseud (+plural - Oxford: informal)
+13530) psephomancy
+13531) psephologists (added plural)
+13532) psephocracy
+13533) psephocrat
+13534) psephitic
+13535) psephite
+13536) breccia (added singular)
+13538) brecciate (+s +ion)
+13539) evaporite (+plural)
+13540) foreland (+plural)
+13541) siliciclastic
+13542) lagoonal
+13543) spilite (+plural +ic)
+13544) albitic
+13545) freetail (freetail bat)
+13546) freesia (+plural)
+13547) sandhill (+plural)
+13548) lochia
+13549) lochial
+13550) claustrophobics (added plural)
+13551) claustrophobically
+13552) paranoiacally
+13553) paranoic
+13554) paranoically
+13555) counterthreats (added plural - Wiktionary)
+13556) enjoyer (+plural)
+13557) claustrophobe (+plural +'s)
+13558) insula
+13559) insulae (plural of previous word)
+13560) insufflator (+plural)
+13561) Matisse's (added the 's - name - Wikipedia)
+13562) methylergonovine (Wiktionary)
+13563) precapitalist (Collins)
+13564) Slavophile
+13565) Octobrist (+plural)
+13566) zemstvo (+plural)
+13567) zelkova
+13568) Zenist (+plural)
+13569) zazen
+13570) Zb (abbreviation: zettabit)
+13571) zettabit (Wikipedia)
+13572) yottabit (Wikipedia)
+13573) petabit (Wikipedia)
+13574) terabit (Wikipedia)
+13575) exabit (Wikipedia)
+13576) pharaoh's (added the 's)
+13577) Haman (+'s - name - Wikipedia)
+13578) 16K (ZX Spectrum memory)
+13579) 48K (ZX Spectrum memory)
+13580) 128K (ZX Spectrum memory)
+13581) Abby (+'s - name - Wikipedia)
+13582) antipattern (+plural - Wiktionary)
+13583) Noam (+'s - name - Wikipedia)
+13584) Chomsky (+'s - name - Wikipedia)
+13585) Avram (+'s - name - Wikipedia)
+13586) Lakoff (+'s - name - Wikipedia)
+13587) Jackendoff (+'s - name - Wikipedia)
+13588) categoricity (Wiktionary)
+13589) markedness
+13590) Faurisson (+'s - name - Wikipedia)
+13591) Reaganite (+plural)
+13592) Barsky (+'s - name - Wikipedia)
+13593) Aviva (+'s - name - Wikipedia)
+13594) Tolle (+'s - name - Wikipedia)
+13595) Winfrey (+'s - name - Wikipedia)
+13596) beingness
+13597) Kendra (+'s - name - Wikipedia)
+13598) Stackhouse (+'s - name - Wikipedia)
+13599) Epictetus (+'s - name - Wikipedia)
+13600) websafe (Wiktionary)
+13601) webify (+s +ing +ed - Collins)
+13602) Heylin (+'s - name - Wikipedia)
+13603) wallcovering
+13604) web-like
+13605) wallcreeper (+plural)
+13606) umbrellabird (+plural)
+13607) penduline (penduline tit)
+13608) pendulosity
+13609) pendulousness
+13610) aurify (+s +ing +ed - Collins)
+13611) nigrify (+s +ing +ed)
+13612) nigrite
+13613) nigromancer
+13614) nigromancy
+13615) nigrostriatal
+13616) nigrosine + nigrosin
+13617) nigrous
+13618) Nihang (+plural)
+13619) Nihilianism
+13620) Nietzschean
+13621) Nietzscheanism
+13622) Nietzscheism
+13623) nifedipine
+13624) thiazide (+plural)
+13625) atenolol
+13626) diltiazem (Collins)
+13627) lisinopril (Wiktionary)
+13628) cyclophosphamide
+13629) hydrochlorothiazide (+plural - Wiktionary)
+13630) prednisone
+13631) metoprolol
+13632) propranolol
+13633) nadolol (Wiktionary)
+13634) chronotropic
+13635) lithostratigraphy (Wiktionary)
+13636) lithostratigraphic (Wiktionary)
