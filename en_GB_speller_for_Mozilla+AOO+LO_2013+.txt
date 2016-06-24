@@ -16062,7 +16062,7 @@ V2.37
 13186) Collins's (added the 's)
 
 
-V2.38 (ongoing)
+V2.38
 2-JUN-2016
 13187) asylee (+plural)
 13188) endorsee
@@ -16496,7 +16496,46 @@ V2.38 (ongoing)
 13597) Kendra (+'s - name - Wikipedia)
 13598) Stackhouse (+'s - name - Wikipedia)
 13599) Epictetus (+'s - name - Wikipedia)
-=============
 
+23-JUN-2016
+13600) websafe (Wiktionary)
+13601) webify (+s +ing +ed - Collins)
+13602) Heylin (+'s - name - Wikipedia)
+13603) wallcovering
+13604) web-like
+13605) wallcreeper (+plural)
+13606) umbrellabird (+plural)
+13607) penduline (penduline tit)
+13608) pendulosity
+13609) pendulousness
+13610) aurify (+s +ing +ed - Collins)
+13611) nigrify (+s +ing +ed)
+13612) nigrite
+13613) nigromancer
+13614) nigromancy
+13615) nigrostriatal
+13616) nigrosine + nigrosin
+13617) nigrous
+13618) Nihang (+plural)
+13619) Nihilianism
+13620) Nietzschean
+13621) Nietzscheanism
+13622) Nietzscheism
+13623) nifedipine
+13624) thiazide (+plural)
+13625) atenolol
+13626) diltiazem (Collins)
+13627) lisinopril (Wiktionary)
+13628) cyclophosphamide
+13629) hydrochlorothiazide (+plural - Wiktionary)
+13630) prednisone
+13631) metoprolol
+13632) propranolol
+13633) nadolol (Wiktionary)
+13634) chronotropic
+13635) lithostratigraphy (Wiktionary)
+13636) lithostratigraphic (Wiktionary)
+=============
+Hunspell BUG: Neo-Gothic
 British English Dictionary (Forked) 2.38
 by Marco A.G.Pinto
