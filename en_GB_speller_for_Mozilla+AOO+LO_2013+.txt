@@ -16535,7 +16535,68 @@ V2.38
 13634) chronotropic
 13635) lithostratigraphy (Wiktionary)
 13636) lithostratigraphic (Wiktionary)
+
+
+V2.39 (ongoing)
+5-JUL-2016
+13637) ispaghula + ispaghul + isabgul
+13638) phenylephrine
+13639) xylometazoline (Wiktionary)
+13640) ectogenesis
+13641) IVF
+13642) superovulation
+13643) gonadotrophin + gonadotropin (+plural of both)
+13644) oestriol
+13645) sympatrically (Collins)
+13646) sympathomimetic
+13647) theophylline
+13648) theobromine
+13649) xanthine (+plural)
+13650) aminophylline (Collins)
+13651) ectomorphic
+13652) ectomorphy
+13653) endomorph
+13654) endomorphic
+13655) endomorphy
+13656) mesomorphic
+13657) somatotype (+plural +ing)
+13658) ponderal (ponderal index)
+13659) electrophorese (+s +ing +ed)
+13660) electrophonically
+13661) electrophonic
+13662) radiophonic (+plural)
+13663) radiophonicist
+13664) radiophony
+13665) photophony
+13666) radiophosphorus
+13667) radiophosphorylated
+13668) radiophoto
+13669) radiophotograph
+13670) radiophotography
+13671) radiophotoluminescence
+13672) radiophysical
+13673) radiophysics
+13674) radioprotection
+13675) radioprotective
+13676) radioprotectant
+13677) radioprotector
+13678) radiopure
+13679) radiopurity
+13680) radiochemically
+13681) radiocolloid
+13682) radiocolloidal
+13683) radioconductor
+13684) radiodating
+13685) radiodense
+13686) radiodensity
+13687) radiodiagnosis
+13688) radiodermatitis
+13689) radiodiagnostic (+plural)
+13690) radioecological
+13691) radioecology
+13692) radioenzymatic
+13693) avulsion
+13694) avulse (+s +ing +ed)
 =============
-Hunspell BUG: Neo-Gothic
-British English Dictionary (Forked) 2.38
+British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
