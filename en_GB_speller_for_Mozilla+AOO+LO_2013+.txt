@@ -16597,6 +16597,92 @@ V2.39 (ongoing)
 13692) radioenzymatic
 13693) avulsion
 13694) avulse (+s +ing +ed)
+
+6-JUL-2016
+13695) pixelized (Wiktionary)
+13696) pixelisation (Wiktionary)
+13697) pixelate (+s +ing +ed +ion)
+13698) neurotechnology (+plural - Wiktionary)
+13699) Pixelvision (trademark)
+13700) demoded
+13701) demodectic (demodectic mange)
+13702) hypomagnesaemia
+13703) hypomagnesaemic
+13704) antineoplastic
+13705) venule (+plural)
+13706) venular (Collins)
+13707) venulous (Collins)
+13708) cytoarchitecture
+13709) cytoarchitectural
+13710) cytoarchitecturally
+13711) fibrolamellar (Wiktionary)
+13712) lamellipodium
+13713) lamellipodia (plural of previous word)
+13714) lamellipodial
+13715) misaccount (+s +ing +ed)
+13716) misadaptation
+13717) misadjust (+s +ing +ed)
+13718) mis-sells (merged into mis-sell)
+13719) mis-selection
+13720) mis-citation
+13721) Borsalino (+plural - trademark)
+13722) projectable (Collins)
+13723) Gianfranco (+'s - name - Wikipedia)
+13724) Navarino (+'s - name - Wikipedia)
+13725) Sansovino (+'s - name - Wikipedia)
+13726) Borodino (+'s - name - Wikipedia)
+13727) babycino + babyccino (+plural of both)
+13728) Tsushima (+'s - name - Wikipedia)
+13729) freeboard (+plural)
+13730) weatherdeck (+plural - Wiktionary)
+13731) billet-doux
+13732) billets-doux (plural of previous word)
+13733) baitfish
+13734) baitcasting
+13735) baitcaster (+plural)
+13736) fisherwoman
+13737) fisherwomen (plural of previous word)
+
+10-JUL-2016
+13738) catfishing + catfished (merged into catfish)
+13739) Kennedy's (added the 's - name - Wikipedia)
+13740) McLeish (+'s - name - Wikipedia)
+13741) understory (+plural - Collins)
+13742) leafhoppers (added plural)
+13743) whiteflies (added plural)
+13744) thrip (+plural)
+13745) loopers (added plural)
+13746) serger (+plural)
+13747) Groucho (+'s - name - Wikipedia)
+13748) Morden (+'s - name - Wikipedia)
+13749) Haxby (+'s - name - Wikipedia)
+13750) trigonocephaly (Wiktionary)
+13751) synostosis
+13752) synostoses (plural of previous word)
+13753) midface
+13754) hypoplasia (Collins)
+13755) calvarial (Collins)
+13756) nonsyndromic (Wiktionary)
+13757) midfacial
+13758) midear
+13759) middlingness
+13760) middlingish
+13761) midfields (added plural)
+13762) Staniforth (+'s - name - Wikipedia)
+13763) unanimated
+13764) unanchored
+13765) unanalysable
+13766) unamusable (Collins)
+13767) unbruised
+13768) unbrokenness
+13769) unbrushed
+13770) unbudgeable
+13771) unbuild (+s +ing)
+13772) unbuilt (simple past and past participle of previous verb)
+13773) Unani
+13774) siddha (+plural)
+13775) gynaecocracy
+13776) Fleishman (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
