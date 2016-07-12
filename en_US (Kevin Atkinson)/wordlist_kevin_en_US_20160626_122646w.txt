@@ -24,6 +24,7 @@ AD
 AD's
 ADC
 ADD
+ADM
 ADP
 ADP's
 AF
@@ -1026,6 +1027,8 @@ Apollo's
 Apollonian
 Apollonian's
 Apollos
+Apostle
+Apostle's
 Appalachia
 Appalachia's
 Appalachian
@@ -1397,6 +1400,7 @@ Atlas's
 Atlases
 Atman
 Atman's
+Atonement
 Atreus
 Atreus's
 Atria
@@ -2521,6 +2525,7 @@ Bologna
 Bologna's
 Bolshevik
 Bolshevik's
+Bolsheviki
 Bolsheviks
 Bolshevism
 Bolshevism's
@@ -4358,6 +4363,7 @@ Combs's
 Comdr
 Comintern
 Comintern's
+Commandment
 Commons
 Commons's
 Commonwealth
@@ -5104,6 +5110,8 @@ Deanna
 Deanna's
 Deanne
 Deanne's
+Death
+Death's
 Debbie
 Debbie's
 Debby
@@ -7060,6 +7068,7 @@ GIGO
 GM
 GM's
 GMAT
+GMO
 GMT
 GMT's
 GNP
@@ -8989,6 +8998,7 @@ IRC
 IRS
 IRS's
 ISBN
+ISIS
 ISO
 ISO's
 ISP
@@ -11134,6 +11144,7 @@ Libby
 Libby's
 Liberace
 Liberace's
+Liberal
 Liberia
 Liberia's
 Liberian
@@ -11761,6 +11772,7 @@ Madagascan's
 Madagascans
 Madagascar
 Madagascar's
+Madam
 Madden
 Madden's
 Maddox
@@ -12778,6 +12790,7 @@ Messiah
 Messiah's
 Messiahs
 Messianic
+Messieurs
 Metallica
 Metallica's
 Metamucil
@@ -13203,6 +13216,8 @@ Monrovia's
 Mons
 Monsanto
 Monsanto's
+Monsieur
+Monsieur's
 Monsignor
 Monsignor's
 Monsignors
@@ -13579,6 +13594,7 @@ NSA
 NSA's
 NSC
 NSF
+NSFW
 NT
 NV
 NW
@@ -14103,6 +14119,7 @@ Norwegian's
 Norwegians
 Norwich
 Norwich's
+Nos
 Nosferatu
 Nosferatu's
 Nostradamus
@@ -14451,6 +14468,7 @@ Ophiuchus
 Ophiuchus's
 Oppenheimer
 Oppenheimer's
+Opposition
 Oprah
 Oprah's
 Ora
@@ -14482,6 +14500,7 @@ Orient
 Orient's
 Oriental
 Oriental's
+Orientalism
 Orientals
 Orin
 Orin's
@@ -14816,6 +14835,7 @@ Parker
 Parker's
 Parkinson
 Parkinson's
+Parkinsonism
 Parkman
 Parkman's
 Parks
@@ -16689,6 +16709,7 @@ SGML's
 SIDS
 SIDS's
 SJ
+SJW
 SK
 SLR
 SO
@@ -17391,6 +17412,8 @@ Shackleton
 Shackleton's
 Shaffer
 Shaffer's
+Shah
+Shah's
 Shaka
 Shaka's
 Shaker
@@ -19558,6 +19581,7 @@ Usenet's
 Usenets
 Ustinov
 Ustinov's
+Ut
 Utah
 Utah's
 Utahan
@@ -19929,6 +19953,7 @@ Vlaminck
 Vlaminck's
 Vlasic
 Vlasic's
+VoIP
 Vogue
 Vogue's
 Volcker
@@ -20848,6 +20873,7 @@ Ziegler
 Ziegler's
 Ziggy
 Ziggy's
+Zika
 Zimbabwe
 Zimbabwe's
 Zimbabwean
@@ -21920,6 +21946,7 @@ adduces
 adducing
 adenine
 adenine's
+adenocarcinoma
 adenoid
 adenoid's
 adenoidal
@@ -23476,6 +23503,7 @@ amid
 amide
 amide's
 amides
+amidship
 amidships
 amigo
 amigo's
@@ -25033,6 +25061,7 @@ arenas
 ares
 argent
 argent's
+arginine
 argon
 argon's
 argosies
@@ -27247,6 +27276,7 @@ bar
 bar's
 barb
 barb's
+barbacoa
 barbarian
 barbarian's
 barbarianism
@@ -32264,6 +32294,7 @@ burials
 buried
 buries
 burka
+burka's
 burkas
 burl
 burl's
@@ -32313,6 +32344,7 @@ burped
 burping
 burps
 burqa
+burqa's
 burqas
 burr
 burr's
@@ -35175,6 +35207,8 @@ chatelaine's
 chatelaines
 chatline
 chatlines
+chatroom
+chatroom's
 chats
 chatted
 chattel
@@ -36270,6 +36304,7 @@ civet
 civet's
 civets
 civic
+civically
 civics
 civics's
 civil
@@ -39680,6 +39715,7 @@ contract's
 contracted
 contractible
 contractile
+contractility
 contracting
 contraction
 contraction's
@@ -40744,7 +40780,11 @@ countermands
 countermeasure
 countermeasure's
 countermeasures
+countermelodies
+countermelody
 countermen
+countermove
+countermoves
 counteroffensive
 counteroffensive's
 counteroffensives
@@ -42525,6 +42565,7 @@ cyanide
 cyanide's
 cyberbullies
 cyberbully
+cyberbully's
 cybercafe
 cybercafes
 cybernetic
@@ -42601,6 +42642,7 @@ cyst's
 cystic
 cystitis
 cysts
+cytokines
 cytologist
 cytologist's
 cytologists
@@ -45467,6 +45509,8 @@ diarrhea's
 diary
 diary's
 diaspora
+diaspora's
+diasporas
 diastase
 diastase's
 diastole
@@ -49376,6 +49420,7 @@ efficacious
 efficaciously
 efficacy
 efficacy's
+efficiencies
 efficiency
 efficiency's
 efficient
@@ -50116,6 +50161,8 @@ emitting
 emo
 emo's
 emoji
+emoji's
+emojis
 emollient
 emollient's
 emollients
@@ -50469,6 +50516,7 @@ endometriosis
 endometrium
 endorphin
 endorphin's
+endorphins
 endorse
 endorsed
 endorsement
@@ -53614,6 +53662,9 @@ feasibly
 feast
 feast's
 feasted
+feaster
+feaster's
+feasters
 feasting
 feasts
 feat
@@ -55116,10 +55167,6 @@ flints
 flinty
 flip
 flip's
-flipflop
-flipflopped
-flipflopping
-flipflops
 flippancy
 flippancy's
 flippant
@@ -56699,6 +56746,8 @@ friedcake's
 friedcakes
 friend
 friend's
+friended
+friending
 friendless
 friendlier
 friendlies
@@ -56872,6 +56921,7 @@ frostiness
 frostiness's
 frosting
 frosting's
+frostings
 frosts
 frosty
 froth
@@ -60330,6 +60380,8 @@ guesswork's
 guest
 guest's
 guestbook
+guestbook's
+guestbooks
 guested
 guesthouse
 guesthouses
@@ -60751,6 +60803,7 @@ hacksaw
 hacksaw's
 hacksaws
 hacktivist
+hacktivist's
 hacktivists
 hackwork
 hackwork's
@@ -62154,6 +62207,7 @@ hellcat's
 hellcats
 hellebore
 hellebore's
+hellfire
 hellhole
 hellhole's
 hellholes
@@ -68833,6 +68887,7 @@ jettisoning
 jettisons
 jetty
 jetty's
+jew
 jewel
 jewel's
 jeweled
@@ -69182,6 +69237,7 @@ joys
 joystick
 joystick's
 joysticks
+jr
 jubilant
 jubilantly
 jubilation
@@ -70158,6 +70214,9 @@ kumquats
 kvetch
 kvetch's
 kvetched
+kvetcher
+kvetcher's
+kvetchers
 kvetches
 kvetching
 kw
@@ -70378,6 +70437,7 @@ lame
 lame's
 lamebrain
 lamebrain's
+lamebrained
 lamebrains
 lamed
 lamely
@@ -71473,6 +71533,7 @@ lettuces
 letup
 letup's
 letups
+leucine
 leucotomies
 leucotomy
 leukemia
@@ -71807,6 +71868,7 @@ lightweight
 lightweight's
 lightweights
 ligneous
+lignin
 lignite
 lignite's
 lii
@@ -72535,6 +72597,7 @@ logicians
 logier
 logiest
 login
+login's
 logins
 logistic
 logistical
@@ -72547,14 +72610,17 @@ logjams
 logo
 logo's
 logoff
+logoff's
 logoffs
 logon
+logon's
 logons
 logos
 logotype
 logotype's
 logotypes
 logout
+logout's
 logouts
 logrolling
 logrolling's
@@ -73400,10 +73466,15 @@ madness's
 madras
 madras's
 madrasa
+madrasa's
+madrasah
+madrasah's
+madrasahs
 madrasas
 madrases
-madrassah
-madrassahs
+madrassa
+madrassa's
+madrassas
 madrigal
 madrigal's
 madrigals
@@ -75195,6 +75266,7 @@ membrane's
 membranes
 membranous
 meme
+meme's
 memento
 memento's
 mementos
@@ -75719,6 +75791,9 @@ mickeys
 micks
 micro
 micro's
+microaggression
+microaggression's
+microaggressions
 microbe
 microbe's
 microbes
@@ -76061,7 +76136,6 @@ milled
 millennia
 millennial
 millennial's
-millennials
 millennium
 millennium's
 millenniums
@@ -76267,6 +76341,7 @@ minimalist's
 minimalists
 minimally
 minimization
+minimization's
 minimize
 minimized
 minimizes
@@ -76497,6 +76572,7 @@ miscibility
 miscibility's
 miscible
 miscommunication
+miscommunications
 misconceive
 misconceived
 misconceives
@@ -76892,6 +76968,7 @@ mitoses
 mitosis
 mitosis's
 mitotic
+mitral
 mitt
 mitt's
 mitten
@@ -76916,6 +76993,7 @@ mizzenmast
 mizzenmast's
 mizzenmasts
 mizzens
+mkay
 mks
 ml
 mm
@@ -76964,6 +77042,7 @@ moccasin's
 moccasins
 mocha
 mocha's
+mochas
 mock
 mocked
 mocker
@@ -77949,6 +78028,7 @@ mousy
 mouth
 mouth's
 mouthed
+mouthfeel
 mouthful
 mouthful's
 mouthfuls
@@ -78191,6 +78271,7 @@ multifariously
 multifariousness
 multifariousness's
 multiform
+multigrain
 multilateral
 multilaterally
 multilayered
@@ -78581,6 +78662,7 @@ mutton
 mutton's
 muttonchops
 muttonchops's
+muttony
 mutts
 mutual
 mutuality
@@ -79220,6 +79302,7 @@ neocolonialist
 neocolonialist's
 neocolonialists
 neocon
+neocon's
 neocons
 neoconservative
 neoconservative's
@@ -79256,6 +79339,7 @@ nephrite's
 nephritic
 nephritis
 nephritis's
+nephropathy
 nepotism
 nepotism's
 nepotist
@@ -79572,6 +79656,7 @@ niftier
 niftiest
 nifty
 nigga
+nigga's
 niggard
 niggard's
 niggardliness
@@ -80121,8 +80206,7 @@ nonobservance
 nonobservance's
 nonobservant
 nonoccupational
-nonoccurrence
-nonoccurrence's
+nonoccurence
 nonofficial
 nonoperational
 nonoperative
@@ -81896,6 +81980,7 @@ orbiting
 orbits
 orbs
 orc
+orc's
 orchard
 orchard's
 orchards
@@ -84149,6 +84234,7 @@ parked
 parking
 parking's
 parkland
+parkour
 parks
 parkway
 parkway's
@@ -84198,6 +84284,7 @@ parolee's
 parolees
 paroles
 paroling
+parotid
 paroxysm
 paroxysm's
 paroxysmal
@@ -85981,6 +86068,8 @@ phalanx's
 phalanxes
 phalli
 phallic
+phallocentric
+phallocentrism
 phallus
 phallus's
 phantasm
@@ -86012,6 +86101,7 @@ pharmacies
 pharmacist
 pharmacist's
 pharmacists
+pharmacologic
 pharmacological
 pharmacologist
 pharmacologist's
@@ -86219,12 +86309,9 @@ phosphorous
 phosphors
 phosphorus
 phosphorus's
+phosphorylation
 photo
 photo's
-photobomb
-photobombed
-photobombing
-photobombs
 photocell
 photocell's
 photocells
@@ -87533,8 +87620,6 @@ plumes
 plumier
 plumiest
 pluming
-plummer
-plummest
 plummet
 plummet's
 plummeted
@@ -87667,6 +87752,7 @@ pod
 pod's
 podcast
 podcast's
+podcasting
 podcasts
 podded
 podding
@@ -88526,6 +88612,7 @@ postscripts
 postseason
 postseason's
 postseasons
+postsynaptic
 postulate
 postulate's
 postulated
@@ -89137,6 +89224,7 @@ preform
 preformed
 preforming
 preforms
+prefrontal
 pregame
 pregame's
 pregames
@@ -91524,6 +91612,7 @@ pyrotechnic
 pyrotechnical
 pyrotechnics
 pyrotechnics's
+pyruvate
 python
 python's
 pythons
@@ -91534,6 +91623,7 @@ pzazz
 q
 qr
 qt
+qts
 qty
 qua
 quack
@@ -92530,6 +92620,7 @@ ransomer's
 ransomers
 ransoming
 ransoms
+ransomware
 rant
 rant's
 ranted
@@ -95221,6 +95312,7 @@ reordered
 reordering
 reorders
 reorg
+reorg's
 reorganization
 reorganization's
 reorganizations
@@ -96348,6 +96440,10 @@ returner's
 returners
 returning
 returns
+retweet
+retweeted
+retweeting
+retweets
 retying
 retype
 retyped
@@ -97210,6 +97306,7 @@ robin's
 robing
 robins
 robocall
+robocall's
 robocalled
 robocalling
 robocalls
@@ -98037,6 +98134,9 @@ rutty
 rye
 rye's
 s
+sabbath
+sabbath's
+sabbaths
 sabbatical
 sabbatical's
 sabbaticals
@@ -98077,6 +98177,9 @@ sack's
 sackcloth
 sackcloth's
 sacked
+sacker
+sacker's
+sackers
 sackful
 sackful's
 sackfuls
@@ -98452,6 +98555,7 @@ sampler's
 samplers
 samples
 sampling
+sampling's
 samplings
 samurai
 samurai's
@@ -101430,6 +101534,7 @@ shiftlessness's
 shifts
 shifty
 shiitake
+shiitake's
 shiitakes
 shill
 shill's
@@ -101669,6 +101774,7 @@ shoots
 shop
 shop's
 shopaholic
+shopaholic's
 shopaholics
 shopfitter
 shopfitters
@@ -102381,6 +102487,7 @@ silverware
 silverware's
 silvery
 sim
+sim's
 simian
 simian's
 simians
@@ -104592,6 +104699,7 @@ sootiest
 sooty
 sop
 sop's
+soph
 sophism
 sophism's
 sophist
@@ -104717,6 +104825,7 @@ soulless
 soullessly
 soullessness
 soulmate
+soulmate's
 soulmates
 souls
 sound
@@ -105244,6 +105353,7 @@ spellbinding
 spellbinds
 spellbound
 spellcheck
+spellcheck's
 spellchecked
 spellchecker
 spellchecker's
@@ -106771,6 +106881,7 @@ stenography's
 stenos
 stenosis
 stent
+stent's
 stentorian
 stents
 step
@@ -107806,6 +107917,7 @@ stuffiness
 stuffiness's
 stuffing
 stuffing's
+stuffings
 stuffs
 stuffy
 stultification
@@ -108646,6 +108758,8 @@ sunbeams
 sunbed
 sunbeds
 sunbelt
+sunbelt's
+sunbelts
 sunblock
 sunblock's
 sunblocks
@@ -110598,6 +110712,7 @@ taxpayer
 taxpayer's
 taxpayers
 taxpaying
+tb
 tbs
 tbsp
 tea
@@ -111065,7 +111180,6 @@ tenderfoot
 tenderfoot's
 tenderfoots
 tenderhearted
-tenderheartedly
 tenderheartedness
 tenderheartedness's
 tendering
@@ -112180,6 +112294,7 @@ tigress
 tigress's
 tigresses
 til
+tilapia
 tilde
 tilde's
 tildes
@@ -114511,6 +114626,9 @@ trusty
 trusty's
 truth
 truth's
+truther
+truther's
+truthers
 truthful
 truthfully
 truthfulness
@@ -114524,6 +114642,7 @@ tryingly
 tryout
 tryout's
 tryouts
+tryptophan
 tryst
 tryst's
 trysted
@@ -115175,6 +115294,7 @@ ugliness
 ugliness's
 ugly
 uh
+uhf
 ukase
 ukase's
 ukases
@@ -115189,6 +115309,7 @@ ulcerates
 ulcerating
 ulceration
 ulceration's
+ulcerations
 ulcerous
 ulcers
 ulna
@@ -117309,6 +117430,7 @@ uploaded
 uploading
 uploads
 upmarket
+upmost
 upon
 upped
 upper
@@ -117518,6 +117640,7 @@ uselessness's
 user
 user's
 username
+username's
 usernames
 users
 uses
@@ -118881,6 +119004,7 @@ viz
 vizier
 vizier's
 viziers
+vlf
 vocab
 vocable
 vocable's
@@ -118937,6 +119061,7 @@ voicelessness
 voicelessness's
 voicemail
 voicemail's
+voicemails
 voices
 voicing
 void
@@ -119138,6 +119263,7 @@ w
 wabbit
 wabbits
 wack
+wack's
 wacker
 wackest
 wackier
@@ -119622,6 +119748,7 @@ washier
 washiest
 washing
 washing's
+washings
 washout
 washout's
 washouts
@@ -119722,8 +119849,10 @@ waterbird
 waterbird's
 waterbirds
 waterboard
+waterboard's
 waterboarded
 waterboarding
+waterboarding's
 waterboardings
 waterboards
 waterborne
@@ -120029,9 +120158,6 @@ webmasters
 webmistress
 webmistress's
 webmistresses
-webpage
-webpage's
-webpages
 webs
 website
 website's
@@ -120767,6 +120893,7 @@ widening
 widens
 wider
 widescreen
+widescreen's
 widescreens
 widespread
 widest
@@ -121196,9 +121323,7 @@ wishes
 wishful
 wishfully
 wishing
-wishlist
 wishlist's
-wishlists
 wising
 wisp
 wisp's
