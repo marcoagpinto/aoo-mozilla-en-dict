@@ -16742,6 +16742,20 @@ V2.39 (ongoing)
 13831) lecithotrophic (Wiktionary)
 13832) trochophore
 13833) planktotrophic
+13834) Kastrup (name - Wikipedia)
+13835) Greaves (+'s - name - Wikipedia)
+13836) Zubrin (+'s - name - Wikipedia)
+13837) preservationism
+13838) zoocentrism (Wiktionary)
+13839) ecocentrist (+plural - Wiktionary)
+13840) terraforms + terraformed (merged into terraform)
+13841) earthscape
+13842) Clayborne (+'s - name - Wikipedia)
+13843) Reddington (+'s - name - Wikipedia)
+13844) Walford (+'s - name - Wikipedia)
+13845) Woodyatt (+'s - name - Wikipedia)
+13846) Dicky (+'s - name - Wikipedia)
+13847) dicky (+plural +ier +iest +'s)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
