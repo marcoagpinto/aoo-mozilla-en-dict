@@ -16822,6 +16822,7 @@ V2.39 (ongoing)
 13907) positionality
 13908) cosmopolitanizes + cosmopolitanizing (merged into cosmopolitanize -IZE)
 13909) cosmopolitanises + cosmopolitanising (merged into cosmopolitanise -ISE)
+13910) 64K (RAM of Commodore 64 in the 1980s)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
