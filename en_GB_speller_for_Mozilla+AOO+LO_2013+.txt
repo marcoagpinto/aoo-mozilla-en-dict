@@ -16756,6 +16756,72 @@ V2.39 (ongoing)
 13845) Woodyatt (+'s - name - Wikipedia)
 13846) Dicky (+'s - name - Wikipedia)
 13847) dicky (+plural +ier +iest +'s)
+
+14-JUL-2016
+13848) Kastrup's (added the 's - name - Google)
+13849) hollers + hollering + hollered (merged into holler and removed hollerred)
+13850) girlfully
+13851) nesters (added plural)
+13852) non-conductive
+13853) wraithlike
+13854) sweetlip (+plural)
+13855) meltwater (+plural)
+13856) bruschetta
+13857) stone-baked
+13858) cicchetti + cicheti
+13859) pancetta
+13860) quesadilla (+plural)
+13861) portobello (+plural)
+13862) ceviche (+plural)
+13863) margarita (added singular)
+13864) churrasco
+13865) Churrigueresque
+13866) churrascaria (+plural)
+13867) cakeage
+13868) cakehole
+13869) low-cal
+13870) high-cal
+13871) margarodid
+13872) margate (+plural)
+13873) margay (+plural)
+13874) jaguarundi (+plural)
+13875) jaggery
+13876) basmati (basmati rice)
+13877) Petersfield (+'s - name - Wikipedia)
+13878) beehived
+13879) swingboat (+plural)
+13880) interplant (+s +ing +ed)
+
+15-JUL-2016
+13881) Tomlinson (+'s - name - Wikipedia)
+13882) Tele-Computer (US trademark)
+13883) mid-course
+13884) careline
+13885) called-for
+13886) stonewaller (+plural)
+13887) grad (+plural)
+13888) die-stamping
+13889) pewterers (added plural)
+13890) Deerfield (+'s - name - Wikipedia)
+13891) Enderlein (+'s - name - Wikipedia)
+13892) Briot (+'s - name - Wikipedia)
+13893) uprooter (+plural)
+13894) unroof (+s +ing +ed)
+13895) transmutability
+13896) transmutative
+13897) transmuter (+plural)
+13898) imperium
+13899) magisterium
+13900) Haverfordwest (+'s - name - Wikipedia)
+13901) magistrateship
+13902) magistrature (+plural)
+13903) barrister-at-law
+13904) diaspora's (added the 's)
+13905) globalize (+s +ing +ed +er +ers -IZE)
+13906) globalise (+s +ing +ed -ISE)
+13907) positionality
+13908) cosmopolitanizes + cosmopolitanizing (merged into cosmopolitanize -IZE)
+13909) cosmopolitanises + cosmopolitanising (merged into cosmopolitanise -ISE)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
