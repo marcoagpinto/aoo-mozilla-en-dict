@@ -16826,6 +16826,54 @@ V2.39 (ongoing)
 13915) cosy (merged cosies +cosying +cosied)
 13916) SNP (+'s - Short for: Scottish National Party)
 13917) McAlpine (+'s - name - Wikipedia)
+
+17-JUL-2016
+13918) upspeak (+s +ing +upspoke +upspoken - Collins + Wiktionary)
+13919) uptalk
+13920) HRT (+'s - high rising terminal - Wikipedia)
+13921) HRI (+'s - high rising intonation - Wikipedia)
+13922) sociolect (+plural)
+13923) sociolectal
+13924) sociolatry
+13925) sociogroup
+13926) sociography (+ic)
+13927) sociogram
+13928) sociogeny
+13929) sociogenic
+13930) socioecology (+ic)
+13931) socioecological
+13932) socioecologist (+plural)
+13933) sociodynamic (+plural)
+13934) sociodramatic
+13935) sociodrama
+13936) sociodramatist
+13937) Liberman (+'s - name - Wikipedia)
+13938) Hudley (name - Wikipedia)
+13939) Kirsten (+'s - name - Wikipedia)
+13940) Gillibrand (+'s - name - Wikipedia)
+13941) Dallet (+'s - name - Wikipedia)
+13942) autophone + autophon
+13943) webhead (Collins)
+13944) frontend (+plural - Wiktionary)
+13945) HTTPd (hypertext transfer protocol daemon - Wiktionary)
+13946) jpeg ‎(+plural - lowercase - Wiktionary)
+13947) Bruant (+'s - name - Wikipedia)
+13948) backdoor (+s +ing +ed - Wiktionary)
+13949) verifiably
+13950) Wilkerson (+'s - name - Wikipedia)
+13951) MSP (+plural +'s - Member of the Scottish Parliament)
+13952) MEP (+plural +'s - Member of the European Parliament)
+13953) MP's (added the 's)
+13954) PLP (+'s - Parliamentary Labour Party)
+13955) Holyrood (+'s - name - Wikipedia)
+13956) Holyroodhouse (name - Wikipedia)
+13957) Canongate (+'s - name - Wikipedia)
+13958) Dumbiedykes (name - Wikipedia)
+13959) metonym (+plural)
+13960) metonymous
+13961) metope (+plural)
+13962) triglyph (+plural)
+13963) triglyphic
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
