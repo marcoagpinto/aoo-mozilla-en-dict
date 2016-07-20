@@ -16963,6 +16963,10 @@ V2.39 (ongoing)
 14046) suprematism
 14047) suprematist (+plural)
 14048) randkluft
+14049) Pokémon (Wikipedia)
+14050) Poké (Poké Balls - Wikipedia)
+14051) Pokédex (Wikipedia)
+14052) PokéStop (+plural - Wikipedia)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
