@@ -16874,6 +16874,95 @@ V2.39 (ongoing)
 13961) metope (+plural)
 13962) triglyph (+plural)
 13963) triglyphic
+
+19-JUL-2016
+13964) upstream's (added +'s)
+13965) Clarinbridge (+'s - name - Wikipedia)
+13966) hardstanding (+plural)
+13967) Rochford (+'s - name - Wikipedia)
+13968) Scrutton (+'s - name - Wikipedia)
+13969) Portakabin (+plural - British trademark)
+13970) Murrayfield (+'s - name - Wikipedia)
+13971) Hadden (+'s - name - Wikipedia)
+13972) pg. (abbreviation: page)
+13973) adj. (Collins)
+13974) Med (The Mediterranean Sea)
+13975) MEd (Master of Education)
+13976) Whitmer (+'s - name - Wikipedia)
+13977) Cavanagh (+'s - name - Wikipedia)
+13978) mecopterous
+13979) Mecoptera
+13980) mecopteran (+plural)
+13981) speciose
+13982) specking + specked (merged into speck)
+13983) speckless
+13984) high-tech + hi-tech
+13985) flyspeck (+s +ed)
+13986) dollarize ‎(+s +ing +ed - Collins -IZE)
+13987) dollarise ‎(+s +ing +ed - Collins -ISE)
+13988) flypapers (added plural)
+13989) bookwoman
+13990) Lilburne (+'s - name - Wikipedia)
+13991) bookstamp
+13992) bookstack
+13993) bookslide
+13994) bookrest (+plural)
+13995) interleaf (added singular)
+13996) misbelief (+plural)
+13997) misbeliever (+plural)
+13998) sportif
+
+20-JUL-2016
+13999) aghastness
+14000) Clonmore (name - Wikipedia)
+14001) aggroupment + agroupment
+14002) aggrievedness
+14003) aggrievement
+14004) aggro
+14005) aggry
+14006) Pokemon
+14007) pokeberry
+14008) poussin (+plural)
+14009) slather (+s +ing +ed)
+14010) confit
+14011) chanterelle (+plural)
+14012) Giselle (+'s - name - Wikipedia)
+14013) Chanel (+'s - name - Wikipedia)
+14014) moschatel
+14015) Raquel (+'s - name - Wikipedia)
+14016) quenelle (+plural)
+14017) Cadell (+'s - name - Wikipedia)
+14018) Clonmel (+'s - name - Wikipedia)
+14019) spinel (+plural)
+14020) marcel (+s +ing +ed)
+14021) Marcellian
+14022) Ancyra (+'s - name - Wikipedia)
+14023) marceline
+14024) Nicol (+'s - name - Wikipedia)
+14025) braunite
+14026) marcato
+14027) marcassin + marcasine
+14028) Marcan
+14029) kraken (+plural)
+14030) Petrarchan
+14031) Petrarchanism
+14032) Petrarchism
+14033) Neoplatonism
+14034) Neoplatonic
+14035) Neoplatonist (+plural)
+14036) Emerson's (added 's - name - Wikipedia)
+14037) Proclus (+'s - name - Wikipedia)
+14038) Plotinus (+'s - name - Wikipedia)
+14039) Iamblichus (+'s - name - Wikipedia)
+14040) apophasis (Collins)
+14041) Boethius (+'s - name - Wikipedia)
+14042) Platonism's (added the 's)
+14043) neopositivist
+14044) neopositivism
+14045) neoplasticism
+14046) suprematism
+14047) suprematist (+plural)
+14048) randkluft
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
