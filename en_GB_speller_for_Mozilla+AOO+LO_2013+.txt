@@ -16967,6 +16967,82 @@ V2.39 (ongoing)
 14050) Poké (Poké Balls - Wikipedia)
 14051) Pokédex (Wikipedia)
 14052) PokéStop (+plural - Wikipedia)
+
+21-JUL-2016
+14053) filesize (+plural - Wiktionary)
+14054) finable
+14055) outwith
+14056) to and fro (it is a verb - added: +tos +toing +froing +froed)
+14057) Terylene (trademark)
+14058) nitrotoluene
+14059) picric (picric acid)
+14060) overexpress (+s +ing +ed)
+14061) Winnie (+'s - name - Wikipedia)
+14062) overexploit (+s +ing +ed)
+14063) overesteem (+s +ing +ed)
+14064) overest
+14065) overeruption
+14066) overerupt (+ed)
+14067) overenthusiasm
+14068) overenthusiastically
+14069) fakery
+14070) wideawake
+14071) strake (+plural)
+14072) anal-sadistic
+14073) anal-sadism
+14074) antisera (plural of antiserum - removed: antiserums)
+14075) asepsis
+14076) Lonsdale
+14077) brushless
+14078) polyelectrolyte (added singular)
+14079) proteinaceous
+14080) proteinic
+14081) proteinous
+14082) sublayer (+plural - Wiktionary)
+14083) proteiform
+14084) Stukeley (+'s - name - Wikipedia)
+14085) proteic
+14086) protectrix
+14087) protectress
+14088) protectory
+14089) protectorless
+14090) Brockden (name - Wikipedia)
+14091) protectorial
+14092) protectoral
+14093) protectorship
+14094) Danubian
+14095) Danube's (added the 's - name - Wikipedia)
+14096) danthonia (+plural)
+14097) ultrasaurus
+14098) supersaurus
+14099) brachiosaurid
+14100) hindlimb (+plural)
+14101) quadrupedally
+14102) gracile
+14103) erectus (Homo erectus)
+14104) habilis (Homo habilis)
+14105) Tatoeba (+'s - name - Wikipedia)
+
+22-JUL-2016
+14106) croton (+plural)
+14107) heliconia (+plural)
+14108) cordyline (+plural - Collins + Wiktionary)
+14109) pisonia (+plural - Wiktionary)
+14110) nyctaginaceous (Collins)
+14111) desserty (Wiktionary)
+14112) Ducasse (+'s - name - Wikipedia)
+14113) pokeweed
+14114) sassafras
+14115) bittersweet (added plural)
+14116) subtidally
+14117) undatable (Collins)
+14118) bobolink (+plural)
+14119) kingbirds (added plural)
+14120) halfpipe
+14121) rollerblade (+s +ing +ed +er +ers)
+14122) rollerman
+14123) grubworm (+plural - Wiktionary)
+14124) Pima (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
