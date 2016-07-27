@@ -16537,7 +16537,7 @@ V2.38
 13636) lithostratigraphic (Wiktionary)
 
 
-V2.39 (ongoing)
+V2.39
 5-JUL-2016
 13637) ispaghula + ispaghul + isabgul
 13638) phenylephrine
@@ -17043,6 +17043,36 @@ V2.39 (ongoing)
 14122) rollerman
 14123) grubworm (+plural - Wiktionary)
 14124) Pima (+'s - name - Wikipedia)
+
+25-JUL-2016
+14125) eidos
+14126) evolvable
+14127) evolvement
+14128) evolvedly
+14129) evolvent
+14130) Sankhya (+'s - name - Wikipedia)
+14131) evolver
+14132) scrubland (+plural)
+14133) halophyte (+plural)
+14134) scrubfowl
+14135) metethereal + metetherial
+14136) meterless
+14137) biguanide
+14138) cyclicity (Collins)
+14139) phenformin
+14140) Cummins (+'s - name - Wikipedia)
+14141) mediumism
+14142) mediumship
+14143) Dowden (+'s - name - Wikipedia)
+14144) Gibbes (+'s - name - Wikipedia)
+14145) Cleophas (+'s - name - Wikipedia)
+14146) Connell (+'s - name - Wikipedia)
+14147) Fawcett (+'s - name - Wikipedia)
+14148) Dingwall (+'s - name - Wikipedia)
+14149) automatist
+14150) Wraxall (+'s - name - Wikipedia)
+14151) Dodds (+'s - name - Wikipedia)
+14152) Edmunds (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.39
 by Marco A.G.Pinto
