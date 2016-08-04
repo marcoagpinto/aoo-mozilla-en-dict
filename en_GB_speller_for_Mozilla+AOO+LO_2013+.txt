@@ -17073,6 +17073,56 @@ V2.39
 14150) Wraxall (+'s - name - Wikipedia)
 14151) Dodds (+'s - name - Wikipedia)
 14152) Edmunds (+'s - name - Wikipedia)
+
+
+V2.40 (ongoing)
+3-AUG-2016
+14153) EPLP (+'s - European Parliamentary Labour Party)
+14154) Willmott (+'s - name - Wikipedia)
+14155) Howitt (+'s - name - Wikipedia)
+14156) Stihler (+'s - name - Wikipedia)
+14157) McAvan (name - Wikipedia)
+14158) Glenis (name - Wikipedia)
+14159) Seb (+'s - name - Wikipedia)
+14160) Moraes (+'s - name - Wikipedia)
+14161) humectant (+plural)
+14162) hyaluronic (hyaluronic acid)
+14163) emollience
+14164) emolliate (+s +ing +ed - Collins + Wiktionary)
+14165) emollition (Collins)
+14166) biopesticide
+14167) pesticidal
+14168) lectin (+plural)
+14169) naphthene (+plural)
+14170) ethylenediamine
+14171) naphthenic
+14172) phytotoxic
+14173) phytotoxicity
+14174) cytosol
+14175) cytosolic
+14176) glucan (+plural)
+14177) mineralocorticoid (+plural)
+14178) mineralness
+14179) minerally
+14180) Bowles (+'s - name - Wikipedia)
+
+4-AUG-2016
+14181) Chichewa
+14182) Nyanja (+plural)
+14183) Bemba
+14184) Fenn (+'s - name - Wikipedia)
+14185) Chinyanja (Wiktionary)
+14186) ned (+plural)
+14187) Caledonian (+plural)
+14188) neddy (+plural)
+14189) chav (+plural)
+14190) chavvy (+ier +iest - Collins)
+14191) chavish (Collins)
+14192) trackie (+plural)
+14191) fullstop (added singular)
+14192) shebang
+14193) pom-pom
+14194) woodenware (Collins)
 =============
-British English Dictionary (Forked) 2.39
+British English Dictionary (Forked) 2.40
 by Marco A.G.Pinto
