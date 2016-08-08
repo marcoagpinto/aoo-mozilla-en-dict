@@ -17233,6 +17233,8 @@ V2.40 (ongoing)
 14298) tamarisk (+plural)
 14299) acephaly
 14300) acepromazine
+14301) Pokémaniac (+plural - Wiktionary)
+14302) Pokéfan (+plural - Wiktionary)
 =============
 British English Dictionary (Forked) 2.40
 by Marco A.G.Pinto
