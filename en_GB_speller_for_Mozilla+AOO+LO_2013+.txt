@@ -17235,6 +17235,70 @@ V2.40 (ongoing)
 14300) acepromazine
 14301) Pokémaniac (+plural - Wiktionary)
 14302) Pokéfan (+plural - Wiktionary)
+
+11-AUG-2016
+14303) Pokemon's (added the 's)
+14304) Catesby (+'s - name - Wikipedia)
+14305) poke-shakings
+14306) sillage
+14307) ceratobranchial (+plural)
+14308) hyoid
+14309) operculum
+14310) opercula (plural of previous word)
+14311) opercular
+14312) operculate
+14313) preoperculum + praeoperculum
+14314) ichthyolite (+plural)
+14315) ichthyological
+14316) mosasaur (+plural)
+14317) pliosaur (+plural)
+14318) opalize (+s +ing +ed -IZE)
+14319) opalise (+s +ing +ed -ISE)
+14320) Pinkerton (+'s - name - Wikipedia)
+14321) opalite
+14322) opalish
+14323) opanka (+plural)
+14324) opanci (another plural of previous word)
+14325) opaqued
+14326) macrophotography
+14327) macrophotograph
+14328) Dorland (+'s - name - Wikipedia)
+14329) macrophagous
+14330) macrophallic
+14331) ait + eyot
+14332) aisleless
+14333) reredos
+14334) resile (+s +ing +ed)
+14335) resignment
+14336) resignful
+14337) Adeline (+'s - name - Wikipedia)
+14338) resignee
+14339) resignationist
+14340) resignationism
+14341) avoidant
+14342) co-morbid
+14343) co-morbidity
+14344) carditis
+14345) cardmember (+plural)
+14346) neuroborreliosis
+14347) meningoencephalitis
+14348) enteroviral (Collins)
+14349) osteomyelitis
+14350) musculoskeletal
+14351) hyperlipidaemia
+14352) hyperlipidaemic
+14353) hyperlipaemia
+14354) hyperlipaemic
+14355) hyperlocal
+14356) hyperinstrument (+plural)
+14357) lymphocytic
+14358) psoriasiform
+14359) minoxidil
+14360) unproved
+14361) unprovableness
+14362) unprovidential
+14363) unprovocative
+14364) unprovisioned
 =============
 British English Dictionary (Forked) 2.40
 by Marco A.G.Pinto
