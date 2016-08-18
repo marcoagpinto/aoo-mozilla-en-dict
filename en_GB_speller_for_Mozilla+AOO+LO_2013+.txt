@@ -17406,6 +17406,40 @@ V2.40 (ongoing)
 14467) spellworking
 14468) broomball (+'s)
 14469) snowshoeing + snowshoed (merged into snowshoe)
+
+18-AUG-2016
+14470) autophagy
+14471) autophagous
+14472) neurodegeneration
+14473) phosphatidylethanolamine (Collins)
+14474) autophagosome
+14475) glucuronate (+plural)
+14476) methylate (+s +ing +ed +ion +ions)
+14477) oestrone
+14478) fluorescein
+14479) isothiocyanate (+plural)
+14480) polyhydroxy
+14481) cytotoxicity
+14482) photo-oxidative + photoxidative
+14483) photosensitization (-IZE)
+14484) photosensitisation (-ISE)
+14485) dehydroascorbic (Wiktionary)
+14486) apoplastic (Wiktionary)
+14487) ubiquitin
+14488) proteasome (+plural)
+14489) ubiquitinate (+s +ing +ed +ion)
+14490) ubiquitism
+14491) ubiquitist
+14492) ubiquitarian (+plural)
+14493) ubiquitarianism
+14494) virtualism
+14495) receptionism
+14496) vulgarian (+plural +'s)
+14497) Mumbai's (added the 's - name - Wikipedia)
+14498) unitarily
+14499) unitarity
+14500) unitarist (+plural)
+14501) unitarism
 =============
 British English Dictionary (Forked) 2.40
 by Marco A.G.Pinto
