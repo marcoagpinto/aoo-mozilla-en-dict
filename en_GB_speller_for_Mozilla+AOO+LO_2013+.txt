@@ -17440,6 +17440,50 @@ V2.40 (ongoing)
 14499) unitarity
 14500) unitarist (+plural)
 14501) unitarism
+
+19-AUG-2016
+14502) fuckery (+plural - Wiktionary)
+14503) fuckwits (added plural - Wiktionary)
+14504) fuckship (Wiktionary)
+14505) orangutan + orangutang (+plural of both)
+14506) regardant
+14507) guardant
+14508) passant
+14509) pegasid
+14510) pegboarding
+14511) pegbox
+14512) pegger
+14513) fl. (abbreviation: floor, floruit, fluid)
+14514) targetting + targetted (merged into target - Collins)
+14515) retarget (+s +ing +ed +ting +ted - Collins + Wiktionary)
+14516) targetless (Collins)
+14517) misbuild (+s +ing +misbuilt - Collins + Wiktionary)
+14518) prebuild (+s +ing +prebuilt - Collins + Wiktionary)
+14519) Atterbury (+'s - name - Wikipedia)
+14520) re-eligibility
+14521) chandlery (+plural)
+14522) Marigot (+'s - name - Wikipedia)
+14523) becket (+plural)
+14524) sennit + sinnet
+14525) trojan (+plural +'s - added lowercase, according to Wiktionary)
+14526) captainate (+plural)
+14527) CAPTCHA (+plural - also added uppercase - Oxford)
+14528) chintzily
+14529) chintziness
+14530) antifog (+ing - Collins)
+14531) chionodoxa (+plural)
+14532) muscari
+14533) scilla (+plural)
+14534) fritillaria (+plural - Collins + Wiktionary)
+14535) Priscilla (+'s - name - Wikipedia)
+14536) beetroots (added plural)
+14537) pawpaw (another way of papaw)
+14538) pawnor
+14539) Pawnee
+14540) pawnbrokery
+14541) pawnbrokeress
+14542) pawnbrokerage
+14543) pawnbrokering
 =============
 British English Dictionary (Forked) 2.40
 by Marco A.G.Pinto
