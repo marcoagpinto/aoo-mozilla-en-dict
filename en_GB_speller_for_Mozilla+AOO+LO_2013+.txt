@@ -17484,6 +17484,58 @@ V2.40 (ongoing)
 14541) pawnbrokeress
 14542) pawnbrokerage
 14543) pawnbrokering
+
+22-AUG-2016
+14544) Belview (name - Wikipedia)
+14545) boatlike
+14546) boatless
+14547) boatlift (+s +ing +ed)
+14548) Ashmore (+'s - name - Wikipedia)
+14549) Ang (+'s - name - Wikipedia)
+14550) partiers (added plural)
+14551) parturifacient
+14552) partschinite
+14553) oxlip (+plural)
+14554) bird's-foot (+plural)
+14555) ancho (+plural)
+14556) knapweed (+plural)
+14557) cong. (Collins - abbreviation)
+14558) quod
+14559) rangeland (+plural)
+14560) rangeless
+14561) rangeful
+14562) rangefinders (added plural)
+14563) riflescope (+plural)
+14564) rangeability + rangability
+14565) Beachcroft (+'s - name - Wikipedia)
+14566) range-taker
+14567) range-amplitude
+14568) AK
+14569) AK-47 (+plural +'s)
+14570) housewifish
+14571) housewifeship
+14572) housewifery
+14573) Marysville (+'s - name - Wikipedia)
+14574) housesmith
+14575) housesharer
+14576) housemate (+plural)
+14577) housemastership
+14578) housemasterly
+14579) housemaster
+14580) Benedictines (added plural)
+14581) housemastering
+14582) housemistress
+14583) housemothers (added plural + 's)
+14584) houseowner (+plural +'s)
+14585) houseplace
+14586) houseparent (+plural +'s - fixed: house-parent)
+14587) houseshare
+14588) housestead
+14589) housemonger
+14590) housemotherly
+14591) housemating
+14592) landlordism
+14593) Louisbourg (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.40
 by Marco A.G.Pinto
