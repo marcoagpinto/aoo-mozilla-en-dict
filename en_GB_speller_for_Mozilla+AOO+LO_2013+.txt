@@ -17584,6 +17584,109 @@ V2.40
 14637) rombowline + rumbowline
 14638) Romberg (+'s - name - Wikipedia)
 14639) Rimington (+'s - name - Wikipedia)
+
+
+V2.41 (ongoing)
+5-SEP-2016
+14640) bodysnatcher (+plural)
+14641) bodysnatching
+14642) ballastless
+14643) blowsy (+ier +iest +ily +ness)
+14644) bodyhood
+14645) bodyline
+14646) Larwood (+'s - name - Wikipedia)
+14647) Cardus (+'s - name - Wikipedia)
+14648) bodyside (+plural)
+14649) Brookhouse (+'s - name - Wikipedia)
+14650) decklid (+plural - Wiktionary)
+14651) torquey (+ier +iest)
+14652) baryonic
+14653) barycentres (added plural)
+14654) barwing (+plural)
+14655) flowerpecker (+plural)
+14656) sibia (+plural)
+14657) rosefinch (+plural)
+14658) cyclostome (+plural)
+14659) convergently (Wiktionary)
+14660) cyclosportive (+plural)
+14661) cyclostyle (+s +ing +ed)
+14662) Coolidge's (added the 's - name - Wikipedia)
+14663) diphthongal
+14664) monophthong (added singular)
+14665) monophthongal
+14666) Monophoto
+14667) photocompose (+s +ing +ed)
+14668) photocomposer
+14669) photocoagulator
+14670) photocoagulation
+14671) choroidal
+14672) photocollage
+14673) intraocular (Wiktionary)
+14674) neovascular (Wiktionary)
+14675) j'adoube
+14676) Ivanchuk (+'s - name - Wikipedia)
+14677) Pescatore (+'s - name - Wikipedia)
+14678) cybersmut
+
+6-SEP-2016
+14679) hotkey (+plural - Wiktionary)
+14680) Peugeot (+'s - name - Wikipedia)
+14681) thingummybob (+plural - Wiktionary + Collins)
+14682) handpiece
+14683) handprint (+plural)
+14684) Rivermont (+'s - name - Wikipedia)
+14685) Bassey (+'s - name - Wikipedia)
+14686) maharaja (+'s +plural)
+14687) feretory (+plural)
+14688) Ferber (+'s - name - Wikipedia)
+14689) phylotypic (Wiktionary)
+14690) Pholidota
+14691) Metatheria
+14692) metatherian (+plural)
+14693) supercontinent (+plural)
+14694) Pangaea
+14695) Laurasia
+14696) Laurasian
+14697) Variscan
+14698) Euramerica (Wiktionary)
+14699) Gondwanan (Wiktionary)
+14700) Neoproterozoic (Wiktionary)
+14701) Tethys
+14702) Rodinia
+14703) mid-ocean (mid-ocean ridge)
+14704) mid-oceanic
+14705) mid-market
+14706) mid-management
+14707) mid-level
+14708) mid-layer
+14709) mid-kidney
+14710) mid-fi
+14711) mid-European
+14712) mid-feather
+14713) mid-earth
+14714) mid-deep
+14715) mid-distance
+14716) mid-engined
+14717) mid-deck
+14718) mid-cycle
+14719) mid-continental
+14720) mid-coast
+14721) mid-continent
+14722) mid-circle
+14723) mid-channel
+14724) mid-century
+14725) mid-chest
+14726) mid-career
+14727) mid-calf
+14728) mid-breast
+14729) mid-brow
+14730) mid-body
+14731) Mid-Atlantic
+14732) mid-angle
+14733) Mid-America
+14734) Mid-American
+14735) mid-aged
+14736) mid-age
 =============
-British English Dictionary (Forked) 2.40
+British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
