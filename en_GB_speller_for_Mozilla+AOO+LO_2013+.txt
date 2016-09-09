@@ -17687,6 +17687,129 @@ V2.41 (ongoing)
 14734) Mid-American
 14735) mid-aged
 14736) mid-age
+
+7-SEP-2016
+14737) McGavin (+'s - name - Wikipedia)
+14738) Áron (+'s - name - Wikipedia)
+14739) Budea (+'s - name - Google)
+14740) Frédéric (+'s - name - Wikipedia)
+14741) Laboureur (+'s - name - Google)
+14742) Fenton (+'s - name - Wikipedia)
+14743) Hyrum (+'s - name - Wikipedia)
+14744) Allee (+'s - name - Wikipedia)
+14745) Jörg (+'s - name - Wikipedia)
+14746) Knobloch (+'s - name - Wikipedia)
+14747) Rae (+'s - name - Wikipedia)
+14748) Battilana (+'s - name - Wikipedia)
+14749) misappreciate (+s +ing +ed +ion)
+14750) misappliance
+14751) Misanthropos
+14752) misanthropism
+14753) horoscopic
+14754) horoscopy
+14755) horoscopical
+14756) Paniker (+'s - name - Wikipedia)
+14757) lifeworld (+plural)
+14758) hermeneutical
+14759) hermeneutically
+14760) unsuspicious (+ly +ness)
+14761) undergird (+s +ing +ed)
+14762) underfur
+14763) overfur
+14764) overhair
+14765) high-carbon
+14766) overhard
+14767) overharvest (+s +ing +ed)
+14768) unsustainably
+14769) unswathe (+s +ing +ed)
+14770) multifunctionality
+
+9-SEP-2016
+14771) eng.
+14772) pseudomorphed + pseudomorphing (merged into pseudomorph)
+14773) phillipsite
+14774) rutile
+14775) sericite
+14776) rhombohedral
+14777) pargasite
+14778) cuprite
+14779) cerussite (+plural - Wiktionary)
+14780) vug (+plural)
+14781) vuggy
+14782) vugular
+14783) Gunnison (+'s - name - Wikipedia)
+14784) septarium
+14785) septaria (plural of previous word)
+14786) septarian
+14787) micrite
+14788) micritic
+14789) oncolitic
+14790) calcarenite (+plural - Wiktionary)
+14791) grapestone (+plural - Wiktionary)
+14792) authigenic
+14793) aragonite
+14794) botryoidal
+14795) crystallographically
+14796) nanomolar
+14797) amphibole (+plural)
+14798) enantiomorph (+plural)
+14799) enantiomorphic
+14800) enantiomorphism
+14801) enantiomorphous
+14802) Smithson (+'s - name - Wikipedia)
+14803) Stephens (+'s - name - Wikipedia)
+14804) axiologies (added plural)
+14805) expressivist (+plural - Wiktionary)
+14806) expressivism (Wiktionary)
+14807) printhead (+plural)
+14808) printery (+plural)
+14809) printergram
+14810) printerdom
+14811) printer-plotter
+14812) plotter-printer
+14813) plottery
+14814) plottingly
+14815) plotwise
+14816) plotty
+14817) Dumas (added 's - name - Wikipedia)
+14818) McNab (+'s - name - Wikipedia)
+14819) Saville (+'s - name - Wikipedia)
+14820) diaphysis
+14821) diaphyses (plural of previous word)
+14822) epiphysis
+14823) epiphyses (plural of previous word)
+14824) epiphyseal
+14825) glycosuria
+14826) glycosuric
+14827) monosaccharide (+plural)
+14828) mesophyll
+14829) pseudogamy
+14830) parthenogenetic
+14831) parthenogenetically
+14832) unmated
+14833) triploidy
+14834) inviable
+14835) inviability
+14836) clathrin
+14837) fruitlet (+plural)
+14838) drupel
+14839) Calvados
+14840) agnate (+plural)
+14841) agnatic
+14842) agnation
+14843) Wingfield (+'s - name - Wikipedia)
+14844) Morville (+'s - name - Wikipedia)
+14845) matrilateral
+14846) patrilateral
+14847) patrilineage
+14848) matrilineage
+14849) matrilineal
+14850) matrilineally
+14851) patrilineal
+14852) patriline
+14853) matriline
+14854) matrifocal
+14855) patrifocal (Wiktionary)
 =============
 British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
