@@ -17858,6 +17858,37 @@ V2.41 (ongoing)
 14899) crystallinity
 14900) exhalant (Collins)
 14901) pharmacokinetic (+plural +ally)
+14902) hyperchromasia (Wiktionary)
+14903) myelomonocytic
+14904) myelocyte
+14905) myeloblast
+14906) promyelocyte + premyelocyte
+14907) prenasal
+14908) postnasal
+14909) postmultiply (+s +ing +ed +ion)
+14910) postmodernists (added plural)
+14911) Jameson's (added 's - name - Wikipedia)
+14912) postnarial
+14913) appellatives (added plural)
+14914) Williams (+'s - name - Wikipedia)
+14915) emblements
+14916) Hooft (+'s - name - Wikipedia)
+14917) emblematize (+s +ing +ed -IZE)
+14918) emblematise (+s +ing +ed -ISE)
+14919) lemmatize (+s +ing +ed +ion -IZE)
+14920) lemmatise (+s +ing +ed +ion -ISE)
+14921) bowhead (+plural - bowhead whale)
+14922) microhylid (+plural - Wiktionary)
+14923) corncrakes (added plural)
+14924) Garten (+'s - name - Wikipedia)
+14925) corncockle (+plural)
+14926) cornbrash
+14927) turbidite (+plural)
+14928) turbiditic
+14929) basinal (Collins)
+14930) volcanogenic
+14931) volcanologic
+14932) volcano-tectonic
 =============
 British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
