@@ -17810,6 +17810,54 @@ V2.41 (ongoing)
 14853) matriline
 14854) matrifocal
 14855) patrifocal (Wiktionary)
+
+14-SEP-2016
+14856) Gpg4win (+'s - the software)
+14857) Auchan (+'s - name - Wikipedia)
+14858) Tzu (+'s - name - Wikipedia)
+14859) plexiform
+14860) toothbrushing (Collins)
+14861) tegmentum
+14862) tegmenta (plural of previous word)
+14863) pulvinar
+14864) lemniscus (Collins)
+14865) lemnisci (plural of previous word - Collins)
+14866) occiput
+14867) supraoccipital
+14868) glossopharyngeal
+14869) velopharyngeal (Wiktionary)
+14870) carbamazepine
+14871) gabapentin (Collins)
+14872) fentanyl
+14873) phenytoin
+14874) pentazocine
+14875) verapamil
+14876) amitriptyline
+14877) desipramine (Collins)
+14878) amitotic
+14879) amitosis
+14880) amitotically
+14881) transcriptionally
+14882) micronucleus (Collins)
+14883) micronuclei (plural of previous word - Collins)
+14884) macronucleus (Collins)
+14885) macronuclei (plural of previous word - Collins)
+14886) cytokinesis
+14887) binucleated + binucleate (Collins)
+14888) conidium
+14889) conidia
+14890) propagule (+plural)
+14891) hypha
+14892) hyphae (plural of previous word)
+14893) hyphal
+14894) mycelium
+14895) mycelia (plural of previous word)
+14896) mycelial
+14897) candidal (Collins)
+14898) inhalational
+14899) crystallinity
+14900) exhalant (Collins)
+14901) pharmacokinetic (+plural +ally)
 =============
 British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
