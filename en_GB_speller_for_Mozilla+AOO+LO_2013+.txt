@@ -17889,6 +17889,69 @@ V2.41 (ongoing)
 14930) volcanogenic
 14931) volcanologic
 14932) volcano-tectonic
+
+19-SEP-2016
+14933) MSM (+'s - abbreviation: mainstream media)
+14934) cyberthefts (added plural)
+14935) cybersurfs + cybersurfing + cybersurfed (merged into cybersurf)
+14936) SCADA (+'s)
+14937) cyberweapon (+plural)
+14938) cybrary
+14939) Polly (+'s - name - Wikipedia)
+14940) Berlinski (+'s - name - Wikipedia)
+14941) Behe (+'s - name - Wikipedia)
+14942) bourn + bourne (+plural)
+14943) entelechy (+plural)
+14944) refutative
+14945) refusenik (added singular)
+14946) Brezhnev's (added 's - name - Wikipedia)
+14947) D-notice
+14948) eidolon (+plural)
+14949) eidola (another plural of the previous word)
+14950) subjectification
+14951) subjecthood
+14952) subjectible + subjectable
+14953) subjectdom
+14954) subjectship
+14955) subjugal
+14956) plagal
+14957) placozoan
+14958) placoid
+14959) Ciceronian (plural not found in Oxford + Wiktionary)
+14960) Tertullian (+'s - name - Wikipedia)
+14961) instrumentalize (+s +ing +ed -IZE - Wiktionary)
+14962) instrumentalise (+s +ing +ed -ISE - Wiktionary)
+14963) Ciceronianism (Wiktionary)
+14964) miasmic
+14965) miasmically
+14966) fetid
+14967) fetidly
+14968) fetidness
+14969) Yohanna (+'s - name - Wikipedia)
+14970) garum (Collins)
+14971) Alaskan (+plural)
+14972) eternality
+14973) eternalize (+s +ing +ed -IZE)
+14974) eternalise (+s +ing +ed -ISE)
+14975) phantasmagorial
+14976) phantasmagoric
+14977) dreamscape (+plural)
+14978) phantasmagorian
+14979) phantasmagorist
+14980) phantasmagorically
+14981) phantasmagory
+14982) saturnalian
+14983) Saturnian
+14984) Cassini (+'s - name - Wikipedia)
+14985) cassingle (+plural)
+14986) alt-rock
+14987) chartbuster (+plural)
+14988) caliche
+14989) overbank (+s +ing +ed)
+14990) overballast (+s +ing +ed)
+14991) overbake (+s +ing +ed)
+14992) overeaters (added plural)
+14993) Kluxer (+plural)
 =============
 British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
