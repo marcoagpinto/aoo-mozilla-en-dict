@@ -17952,6 +17952,37 @@ V2.41 (ongoing)
 14991) overbake (+s +ing +ed)
 14992) overeaters (added plural)
 14993) Kluxer (+plural)
+
+22-SEP-2016
+14994) ramdisk (+plural - Wiktionary)
+14995) follically (Wiktionary)
+14996) cyber-thriller
+14997) cyberart
+14998) cyberbabe
+14999) cybercash
+15000) cybercommunity
+15001) cybercop
+15002) cybernetically
+15003) cybernocracy
+15004) cyberman
+15005) cyberlife
+15006) cyberlaw (+plural)
+15007) cyberjournalist
+15008) cyberland
+15009) cyberlibertarian
+15010) cybermall
+15011) cybernates + cybernating + cybernated (merged into cybernate)
+15012) Kaylee (+'s - name - Wikipedia)
+15013) Duvall (+'s - name - Wikipedia)
+15014) noteholder
+15015) notehead
+15016) notedly
+15017) notecase
+15018) notecard (+plural)
+15019) Rehnquist (+'s - name - Wikipedia)
+15020) Tilly (+'s - name - Wikipedia)
+15021) showjump (+s +ing +ed +er +ers)
+15022) eventer (+plural)
 =============
 British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
