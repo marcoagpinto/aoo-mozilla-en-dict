@@ -17586,7 +17586,7 @@ V2.40
 14639) Rimington (+'s - name - Wikipedia)
 
 
-V2.41 (ongoing)
+V2.41
 5-SEP-2016
 14640) bodysnatcher (+plural)
 14641) bodysnatching
@@ -17983,6 +17983,120 @@ V2.41 (ongoing)
 15020) Tilly (+'s - name - Wikipedia)
 15021) showjump (+s +ing +ed +er +ers)
 15022) eventer (+plural)
+
+25-SEP-2016
+15023) Ainsworth (+'s - name - Wikipedia)
+15024) Bleiler (+'s - name - Wikipedia)
+15025) Colburn (+'s - name - Wikipedia)
+15026) Chetham (+'s - name - Wikipedia)
+15027) Routledge (+'s - name - Wikipedia)
+15028) Malkin (+'s - name - Wikipedia)
+15029) Potts (+'s - name - Wikipedia)
+15030) Slater (+'s - name - Wikipedia)
+15031) Crossley (+'s - name - Wikipedia)
+15032) Heswall (+'s - name - Wikipedia)
+
+26-SEP-2016
+15033) blockchain
+15034) bitcoin's (added the 's)
+15035) comix
+15036) navaid (+plural)
+15037) bareboat
+15038) coonskin (+plural)
+15039) coonhound (+plural)
+15040) cooncan
+15041) estuarial
+15042) Estremadura
+15043) estovers
+15044) Durbin (+'s - name - Wikipedia)
+15045) panko
+15046) prebiotic
+15047) replicator (+plural)
+15048) inulin
+15049) dextran
+15050) knucklebone (+plural)
+15051) craftspersons (fix: removed as the plural is craftspeople)
+15052) craftsperson
+15053) craftwork (+er +ers)
+15054) handcrafts + handcrafting (merged into handcraft)
+15055) patchworked
+15056) patchworking
+15057) patchworky
+15058) snatchy
+15059) masseter
+15060) digastric
+15061) hypoglossal (hypoglossal nerve)
+15062) mylohyoid
+15063) patulous
+15064) patulousness
+15065) patulin
+15066) pawnless (Wiktionary)
+15067) Bellhouse (+'s - name - Wikipedia)
+15068) epistaxis
+15069) subconjunctival
+15070) fluticasone (Wiktionary)
+15071) petechial
+15072) adenosine
+15073) abiotically
+15074) pentose
+15075) aminohydrolase (Wiktionary)
+15076) deaminase (adenosine deaminase)
+15077) chemosynthetic
+15078) chemoautotroph (+plural)
+15079) chemoautotrophic
+15080) chemoautotrophy
+15081) thyasirid (Wiktionary)
+15082) chemoattraction
+15083) chemoattractive
+15084) chemoautotrophically + chemautotrophically
+15085) chemocline
+15086) chemoimmunotherapy
+15087) chemokine (+plural)
+15088) pro-inflammatory
+15089) pro-legate
+15090) pro-lifer (+plural - merged into pro-life)
+15091) pro-nuke
+15092) pro-knock
+15093) pro-European
+15094) pro-ethnic
+15095) pro-drop
+15096) pro-celeb
+15097) pro-celebrity
+15098) pro-cathedral
+15099) pro-attitude
+15100) pro-angiosperm
+15101) aftertime
+15102) aftersound
+15103) aftershow
+15104) aftersight
+15105) yuga (+plural - lowercase)
+15106) Buckminster (+'s - name - Wikipedia)
+15107) Sanskritist (+plural)
+15108) chokeberries (added plural)
+15109) cockleburs (added plural)
+15110) cockloft (+plural)
+15111) cockneyisms (added plural)
+15112) cockler (+plural)
+15113) braconid (+plural)
+15114) ichneumons (added plural)
+15115) ichnography (+plural)
+15116) entablature (+plural)
+15117) palmette (+plural)
+15118) palmery
+15119) Palmerstonianism + Palmerstonism
+15120) Palmerstonian
+15121) five-spice
+15122) tonkatsu
+15123) zucchetto (+plural)
+15124) Swarga + Svarga
+15125) germling
+15126) gerontic
+15127) oneirology (Collins)
+15128) geomancy
+15129) geomancer (+plural)
+15130) freerides (merged into freeride)
+15131) freerode (simple past of freeride)
+15132) freeridden (past participle of freeride)
 =============
 British English Dictionary (Forked) 2.41
 by Marco A.G.Pinto
