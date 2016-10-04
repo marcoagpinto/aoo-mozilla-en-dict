@@ -18097,6 +18097,63 @@ V2.41
 15130) freerides (merged into freeride)
 15131) freerode (simple past of freeride)
 15132) freeridden (past participle of freeride)
+
+
+V2.42 (ongoing)
+4-OCT-2016
+15133) Hunspell's (added the 's)
+15134) Giorgi (+'s - name - Wikipedia)
+15135) Cottrell (+'s - name - Wikipedia)
+15136) OpenSSL's (added the 's)
+15137) Brno (+'s - name - Wikipedia)
+15138) SeaMonkey's (added the 's)
+15139) Yahveh (+'s - name - Wikipedia + Google)
+15140) mythologic
+15141) Eliphas (+'s - name - Wikipedia + Google)
+15142) Thelemic (Wiktionary)
+15143) Thelemically (Wiktionary)
+15144) Thelemite (+plural - Wiktionary)
+15145) Thelema (Wiktionary)
+15146) McMurtry (+'s - name - Wikipedia)
+15147) Taxil (+'s - name - Wikipedia)
+15148) frater
+15149) Satans (added plural)
+15150) Mazza (+'s - name - Wikipedia)
+15151) neo-Catholic
+15152) neo-Catholicism
+15153) Éliphas (+'s - name - Wikipedia)
+15154) Lévi (+'s - name - Wikipedia)
+15155) Papus (+'s - name - Wikipedia)
+15156) Chacornac (+'s - name - Wikipedia)
+15157) prosocial
+15158) Madelyn (+'s - name - Wikipedia)
+15159) Chennai (+'s - name - Wikipedia)
+15160) prosobranchiate
+15161) Prosobranchia
+15162) prosobranch (+plural - prosobranchs)
+15163) pulmonate (+plural)
+15164) Yamazaki (+'s - name - Wikipedia)
+15165) mtDNA (Wiktionary)
+15166) lacustrine
+15167) microcontinental
+15168) microcontinent (+plural)
+15169) microcolony
+15170) microcoleoptera
+15171) microcomputing
+15172) triac (+plural)
+15173) microcopy (+plural)
+15174) microcosmically
+15175) microcosmal
+15176) microcosmography
+15177) microcosmopolitan
+15178) microcrack (+s +ing +ed)
+15179) microcrystal
+15180) Wronski (+'s - name - Wikipedia)
+15181) Constant (+'s - name - Wikipedia)
+15182) noteholders (added plural - Wiktionary)
+15183) Burstyn (+'s - name - Wikipedia)
+15184) Falcoff (+'s - name - Wikipedia)
+15185) nothing-buttery
 =============
-British English Dictionary (Forked) 2.41
+British English Dictionary (Forked) 2.42
 by Marco A.G.Pinto
