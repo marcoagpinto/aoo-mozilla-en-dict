@@ -18154,6 +18154,59 @@ V2.42 (ongoing)
 15183) Burstyn (+'s - name - Wikipedia)
 15184) Falcoff (+'s - name - Wikipedia)
 15185) nothing-buttery
+
+5-OCT-2016
+15186) Aleister's (added 's - name - Wikipedia)
+15187) pre-made
+15188) Labatt (+'s - name - Wikipedia)
+15189) Bortz (+'s - name - Wikipedia)
+15190) datastore (+plural - Wiktionary)
+15191) Alexa (+'s - name - Wikipedia)
+15192) Zhang (+'s - name - Wikipedia)
+15193) Pinyin
+15194) piney
+15195) muscadine (+plural)
+15196) Heine (+'s - name - Wikipedia)
+15197) liny (+ier +iest)
+15198) afrown
+15199) Palaearctic
+15200) anthropophilic
+15201) anthropophagously
+15202) cannibalistically
+15203) Gilligan (+'s - name - Wikipedia)
+15204) Kuru (+'s - name - Wikipedia)
+15205) Polyphemus
+15206) Shotaro (+'s - name - Wikipedia)
+15207) aeronomy
+15208) aeronomist
+15209) aeronomer
+15210) aeronomic
+15211) aeronomical
+15212) aeronautica
+15213) aeronef
+15214) Paxton (+'s - name - Wikipedia)
+15215) Leonov (+'s - name - Wikipedia)
+15216) airling
+15217) flarepath
+15218) crash-lands (merged into crash-land)
+15219) NVH (abbreviation: noise vibration and harshness - Collins)
+15220) gamba (+plural +'s)
+15221) caramba
+15222) Evesham (+'s - name - Wikipedia)
+15223) caragana
+15224) zenana (+plural)
+15225) Masood (+'s - name - Wikipedia)
+15226) Azam (+'s - name - Wikipedia)
+15227) tramontana
+15228) amphoterism
+15229) chloramphenicol
+15230) methicillin
+15231) gentamicin
+15232) tobramycin
+15233) amphotericin (Wiktionary)
+15234) amikacin (Wiktionary)
+15235) cefotaxime (Wiktionary)
+15236) polymyxin (+plural)
 =============
 British English Dictionary (Forked) 2.42
 by Marco A.G.Pinto
