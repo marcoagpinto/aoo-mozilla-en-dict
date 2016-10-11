@@ -18207,6 +18207,32 @@ V2.42 (ongoing)
 15234) amikacin (Wiktionary)
 15235) cefotaxime (Wiktionary)
 15236) polymyxin (+plural)
+
+11-OCT-2016
+15237) Macaulay (+'s - name - Wikipedia)
+15238) Macaulayan
+15239) Macaulayesque
+15240) Clough (+'s - name - Wikipedia)
+15241) quetzal (+plural)
+15242) jabiru (+plural)
+15243) lorikeet (+plural)
+15244) caracara (+plural)
+15245) daresay
+15246) outstare (+s +ing +ed)
+15247) Santander (+'s - name - Wikipedia)
+15248) xi
+15249) Xi
+15250) biomolecular
+15251) biomineralization (-IZE)
+15252) biomineralisation (-ISE)
+15253) biomineral
+15254) biomineralized (-IZE)
+15255) biomineralised (-ISE)
+15256) biomorphism
+15257) Martineau (+'s - name - Wikipedia)
+15258) bion
+15259) kittiwake (added singular +'s)
+15260) whinstone
 =============
 British English Dictionary (Forked) 2.42
 by Marco A.G.Pinto
