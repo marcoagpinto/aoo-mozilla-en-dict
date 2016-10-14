@@ -18233,6 +18233,80 @@ V2.42 (ongoing)
 15258) bion
 15259) kittiwake (added singular +'s)
 15260) whinstone
+
+12-OCT-2016
+15261) nvidia (+'s - name - it can have different capitals - Wikipedia)
+15262) haptics
+15263) MSI (+'s - name - Wikipedia)
+15264) NVMe (+'s - Wikipedia)
+15265) GTX (Wikipedia)
+15266) prootic
+15267) periotic
+15268) otic
+15269) epiotic (Wiktionary)
+15270) opisthotic
+15271) opisthosoma
+15272) pre-abdomen
+15273) postabdomen
+15274) postable
+15275) postabdominal
+15276) postabortal
+15277) postabortion
+15278) postacetabular
+15279) opisthosomal
+15280) opisthorchiasis
+15281) opisthograph (+ic)
+15282) opisthognathous
+15283) endospore (+plural)
+15284) endostylar
+15285) endostyle (Collins)
+15286) chiasma
+15287) chiasmata (plural of previous word)
+15288) Douro (+'s - name - Wikipedia)
+15289) Oruro (+'s - name - Wikipedia)
+15290) Ishiguro (+'s - name - Wikipedia)
+15291) starchwoman
+15292) starchwort
+15293) starchly
+15294) agnolotti
+15295) parmesan (+plural)
+15296) piciform
+15297) Coues (+'s - name - Wikipedia)
+15298) puffbird (+plural)
+15299) jacamar (+plural)
+15300) understander
+15301) third-hand
+
+14-OCT-2016
+15302) Harvie (+'s - name - Wikipedia)
+15303) Leven (+'s - name - Wikipedia)
+15304) Dennistoun (+'s - name - Wikipedia)
+15305) Wardrop (+'s - name - Wikipedia)
+15306) Winsten (+'s - name - Wikipedia)
+15307) Hiatt (+'s - name - Wikipedia)
+15308) Antietam (+'s - name - Wikipedia)
+15309) Hitt (+'s - name - Wikipedia)
+15310) McDevitt (+'s - name - Wikipedia)
+15311) Kincaid (+'s - name - Wikipedia)
+15312) Harriman (+'s - name - Wikipedia)
+15313) Pennell (+'s - name - Wikipedia)
+15314) protofeminist (Wiktionary)
+15315) Wollstonecraft (+'s - name - Wikipedia)
+15316) Gosse (+'s - name - Wikipedia)
+15317) Wedmore (+'s - name - Wikipedia)
+15318) Jude's (added the 's - name - Wikipedia)
+15319) Bertelsen (+'s - name - Wikipedia)
+15320) Grigson (+'s - name - Wikipedia)
+15321) Boldini (+'s - name - Wikipedia)
+15322) Sterne (+'s - name - Wikipedia)
+15323) Whitechapel (+'s - name - Wikipedia)
+15324) Whibley (+'s - name - Wikipedia)
+15325) Baldry (+'s - name - Wikipedia)
+15326) MacColl (+'s - name - Wikipedia)
+15327) Besant (+'s - name - Wikipedia)
+15328) Meaghan (+'s - name - Wikipedia)
+15329) Gissing (+'s - name - Wikipedia)
+15330) Kegan (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.42
 by Marco A.G.Pinto
