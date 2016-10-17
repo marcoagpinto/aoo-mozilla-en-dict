@@ -18307,6 +18307,122 @@ V2.42 (ongoing)
 15328) Meaghan (+'s - name - Wikipedia)
 15329) Gissing (+'s - name - Wikipedia)
 15330) Kegan (+'s - name - Wikipedia)
+
+17-OCT-2016
+15331) cor
+15332) man-o'-war
+15333) men-o'-war (plural of previous word)
+15334) men-of-war (added plural)
+15335) beakhead
+15336) Bembridge (+'s - name - Wikipedia)
+15337) cercopithecoid (+plural)
+15338) hamadryas
+15339) platysma (+plural)
+15340) platysmata (another plural of the previous word)
+15341) Soames (+'s - name - Wikipedia)
+15342) Raleigh (+'s - name - Wikipedia)
+15343) OLE (abbreviation: Object linking and embedding)
+15344) Oldspeaker
+15345) oldly
+15346) hand-axe
+15347) unwonted
+15348) unwontedness
+15349) unworkability
+15350) unworkably
+15351) unworkableness
+15352) unworkmanlike
+15353) metacone
+15354) protocone
+15355) hypoconid (+plural - Wiktionary)
+15356) entoconid (+plural - Wiktionary)
+15357) talonid (+plural - Wiktionary)
+15358) conule (+plural - Wiktionary)
+15359) anteroloph
+15360) ka
+15361) ba
+15362) Ba
+15363) cinerarium (+plural)
+15364) cinerary (cinerary urn)
+15365) rosarium (+plural)
+15366) rosaria (another plural of the previous word)
+15367) columbarium
+15368) columbaria (plural of previous word)
+15369) frigidarium
+15370) frigidaria (plural of previous word)
+15371) sudarium
+15372) sudaria (plural of previous word)
+15373) tepidarium
+15374) tepidaria (plural of previous word)
+15375) abducens
+15376) exotropia (Collins)
+15377) hypotropia (Wiktionary)
+15378) trochlear
+15379) coronoid (+plural)
+15380) capsulotomy (+plural - Wiktionary)
+15381) parainfluenza
+15382) atraumatic
+15383) atrabilious
+15384) atrabiliousness
+15385) atrazine
+15386) simazine
+15387) triazine
+15388) phenoxy
+15389) phenoxide
+15390) phenotyping
+15391) phenosafranine + phenosafranin
+15392) desensitizer (+plural - IZE)
+15393) desensitiser (+plural - ISE)
+15394) hardcopy (+plural - Wiktionary)
+15395) NeoOffice (+'s - name - Wikipedia)
+15396) Debian's (added the 's - name - Wikipedia)
+15397) Parma (+'s - name - Wikipedia)
+15398) MLSO (Medical Laboratory Scientific Officer)
+15399) shitbag (vulgar slang)
+15400) shitehawk (+plural - vulgar slang)
+15401) verbals (added plural)
+15402) autoplay (+s +ing +ed)
+15403) dataveillances (added plural)
+15404) datary
+15405) datasphere
+15406) dataglove (+plural)
+15407) abandonedly
+15408) Mandeville (+'s - name - Wikipedia)
+15409) abandonable
+15410) Chadian (+plural)
+15411) chad
+15412) Trinidadian (+plural)
+15413) polytonality
+15414) appoggiatura (+plural)
+15415) appoggiature (another plural of the previous word)
+15416) applotment
+15417) Bedell (+'s - name - Wikipedia)
+15418) Kilmore (+'s - name - Wikipedia)
+15419) ostinato (+plural)
+15420) ostinati (another plural of the previous word)
+15421) chordophone (+plural)
+15422) chordotonal
+15423) mechanoreceptor (+plural)
+15424) mechanoreceptive
+15425) neurosensory
+15426) neurosecretory
+15427) neurosecretion
+15428) neuroretinitis
+15429) neuroregulatory
+15430) neuroradiology
+15431) neuroregulator
+15432) neuroradiologist
+15433) neuroradiological (+ly)
+15434) neuropteroid
+15435) Scudder (+'s - name - Wikipedia)
+15436) neuropteran (+plural)
+15437) neuropterous
+15438) orthopsychiatry
+15439) orthopsychiatric
+15440) orthopsychiatrist (+plural)
+15441) orthopraxy + orthopraxis
+15442) orthoprax
+15443) orthopod
+15444) Ostlere (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.42
 by Marco A.G.Pinto
