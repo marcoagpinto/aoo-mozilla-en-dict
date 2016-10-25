@@ -18100,6 +18100,7 @@ V2.41
 
 
 V2.42
+4-OCT-2016
 15133) Hunspell's (added the 's)
 15134) Giorgi (+'s - name - Wikipedia)
 15135) Cottrell (+'s - name - Wikipedia)
