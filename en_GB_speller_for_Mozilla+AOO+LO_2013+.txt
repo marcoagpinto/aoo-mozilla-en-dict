@@ -18099,7 +18099,7 @@ V2.41
 15132) freeridden (past participle of freeride)
 
 
-V2.42 (ongoing)
+V2.42
 4-OCT-2016
 15133) Hunspell's (added the 's)
 15134) Giorgi (+'s - name - Wikipedia)
@@ -18512,6 +18512,96 @@ V2.42 (ongoing)
 15525) Bonanome (+'s - name - Wikipedia + Google)
 15526) Joachim (+'s - name - Wikipedia)
 15527) Ehrig (+'s - name - Wikipedia + Google)
+15528) pantheress
+15529) pantherish
+15530) pantherishly
+15531) Mulford (+'s - name - Wikipedia)
+15532) pantherine
+15533) pantheology
+15534) pantheonic
+15535) pantheologist (+plural - Wiktionary)
+15536) panthenol
+15537) pantheistical
+15538) pantheistically
+15539) spiritualistically (Wiktionary)
+15540) superbeing
+15541) organicism
+15542) organicist
+15543) organicistic
+15544) organicalness
+15545) organicity
+15546) organification
+15547) organify (+s +ing +ed)
+15548) organigram + organogram (+plural of both)
+15549) postless (Wiktionary)
+15550) Maclean (+'s - name - Wikipedia)
+15551) Leedham (+'s - name - Wikipedia)
+15552) Berea (+'s - name - Wikipedia)
+15553) Hillbrow (+'s - name - Wikipedia)
+15554) Yeoville (+'s - name - Wikipedia + Google)
+15555) Todmorden (+'s - name - Wikipedia)
+15556) Sutcliffe (+'s - name - Wikipedia)
+15557) Lenah (+'s - name - Wikipedia + Google)
+15558) Higbee (+'s - name - Wikipedia)
+15559) Ridgewood (+'s - name - Wikipedia)
+15560) Walmart (+'s - name - Wikipedia)
+15561) Dillard (+'s - name - Wikipedia)
+15562) Kresge (+'s - name - Wikipedia)
+15563) Cuyahoga (+'s - name - Wikipedia)
+15564) Penney (+'s - name - Wikipedia)
+15565) Shafran (+'s - name - Wikipedia)
+
+24-OCT-2016
+15566) Ratner (+'s - name - Wikipedia)
+15567) Macy (+'s - name - Wikipedia)
+15568) supercentre
+15569) supercentenarian (+plural)
+15570) superchip
+15571) superchurch
+15572) superciliary
+15573) corrugator (Collins)
+15574) carisoprodol (Wiktionary)
+15575) chlorzoxazone (Wiktionary)
+15576) Stensen (+'s - name - Wikipedia)
+15577) shakedown (removed: Chiefly American)
+15578) dauphinois + dauphinoise
+15579) mangetout (+plural)
+15580) Harel (+'s - name - Wikipedia)
+15581) backcasting (merged into backcast)
+15582) centrepin
+15583) Grice (+'s - name - Wikipedia)
+15584) centrement
+15585) centreless
+15586) rimfire
+15587) Cimarron (+'s - name - Wikipedia)
+15588) muzzle-loaders (added plural)
+15589)  jackassing + jackassed (merged into jackass - Wiktionary)
+15590) centreboarder
+15591) superphosphate
+15592) Kalgoorlie (+'s - name - Wikipedia)
+15593) kalian (+plural)
+15594) Hersham (+'s - name - Wikipedia)
+15595) Lastingham (+'s - name - Wikipedia + Google)
+15596) sidesman
+15597) sidesmen (plural of previous word)
+15598) Devorah (+'s - name - Wikipedia)
+15599) Turkmen (+plural)
+15600) Aral (+'s - name - Wikipedia)
+15601) Turku (+'s - name - Wikipedia)
+15602) turlough
+15603) deltaic
+15604) prograde (+s +ing +ed +ion)
+15605) cartographical
+15606) cartographically
+15607) cytomegalic
+15608) immunolabelling + immunolabeling
+15609) immunofluorescence
+15610) immunofluorescent
+15611) immunoperoxidase
+15612) João (+'s - name - Wikipedia)
+15613) Fernandes (+'s - name - Wikipedia)
+15614) Tiago (+'s - name - Wikipedia)
+15615) Cláudio (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.42
 by Marco A.G.Pinto
