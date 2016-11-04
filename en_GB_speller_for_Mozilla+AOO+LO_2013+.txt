@@ -18602,6 +18602,137 @@ V2.42
 15613) Fernandes (+'s - name - Wikipedia)
 15614) Tiago (+'s - name - Wikipedia)
 15615) Cláudio (+'s - name - Wikipedia)
+
+
+V2.43 (ongoing)
+2-NOV-2016
+15616) jobsworth (+plural +'s)
+15617) jobsmith
+15618) jobster
+15619) jobwork
+15620) intraspecies (Collins)
+15621) intrapersonal
+15622) intrapreneur (+plural)
+15623) Gooden (+'s - name - Wikipedia)
+15624) neuraxial + neuroaxial
+15625) neuraxis + neuroaxis
+15626) neurectomy
+15627) uterosacral (Wiktionary)
+15628) prolactinoma
+15629) fulguration (+plural)
+15630) fulgurant
+15631) fulgurous
+15632) fulgurate (+s +ing +ed)
+15633) electrofulguration (Wiktionary)
+15634) electrocauterize (+s +ing +ed +ion - Wiktionary)
+15635) Eurostat (+'s - Wikipedia)
+15636) Karajan (+'s - name - Wikipedia)
+15637) Reichling (+'s - name - Wikipedia)
+15638) co-decision (Wiktionary)
+15639) EUR-Lex (Wikipedia)
+15640) ECB (+'s - Wikipedia)
+15641) Blankenship (+'s - name - Wikipedia)
+15642) Raymer (+'s - name - Wikipedia)
+15643) homestay (+plural)
+15644) homeshoring + homesourcing
+15645) homeschool (+s +ing +ed)
+15646) Homerology
+15647) Homerologist
+15648) Homeritic
+15649) Homerite
+15650) Purchas
+15651) etymon (+plural)
+15652) etyma (another plural of the previous word)
+15653) McGahern (+'s - name - Wikipedia)
+15654) Leathley (+'s - name - Wikipedia + Google)
+15655) ulteriorly
+15656) anaplastic (Collins)
+15657) Bashkiria (+'s - name - Wikipedia)
+15658) bashment
+15659) after-party
+15660) uptempo
+15661) riddim (+plural)
+15662) Dalston (+'s - name - Wikipedia)
+15663) Garnier (+'s - name - Wikipedia)
+15664) dancehall (+plural - Wiktionary)
+15665) Bajan (+plural)
+15666) bajada (+plural)
+15667) Summerford (+'s - name - Wikipedia)
+15668) southing (+plural)
+15669) farofa
+15670) cartouche (+plural)
+15671) sloosh (+s +ing +ed)
+15672) tarboosh (+plural)
+15673) tarbrush
+15674) Tardigrada
+15675) protostome (+plural)
+15676) protosun
+15677) protosulphate + protosulfate
+15678) protosyntactical
+15679) Quine (+'s - name - Wikipedia)
+15680) protosyntax
+15681) prototaxic
+15682) prototheme
+15683) prototheca
+15684) protothere
+15685) prototherian (+plural)
+15686) therian (+plural)
+15687) Chelicerata
+15688) chelicera
+15689) chelicerae (plural of previous word)
+15690) cheliceral
+15691) pedipalp (+plural)
+15692) frontless
+15693) frontmost
+15694) frondeur (+plural)
+15695) Baathism
+15696) Baathist + Ba'athist (+plural of both)
+15697) Baath + Ba'ath (Baath Party)
+15698) Eros's (added the 's - Wikipedia)
+15699) artemisinin
+15700) artesunate (Wiktionary)
+15701) antifungals (added plural)
+15702) nystatin
+15703) mycologic
+15704) mycological
+15705) mycologically
+15706) ciclopirox (Wiktionary)
+15707) clotrimazole (Wiktionary)
+15708) candidosis (Wiktionary)
+
+4-NOV-2016
+15709) helpfile (+plural +'s)
+15710) Phenom (AMD Phenom - +'s - name - Wikipedia)
+15711) Waheed (+'s - name - Wikipedia)
+15712) waggy (+ier +iest +ily - Wiktionary)
+15713) whitethorn
+15714) goldcrest (+plural)
+15715) whacko (+plural)
+15716) Boileau (+'s - name - Wikipedia)
+15717) Miró (+'s - name - Wikipedia)
+15718) Zhengzhou (+'s - name - Wikipedia)
+15719) Zhou (+'s - name - Wikipedia)
+15720) Xuzhou (+'s - name - Wikipedia)
+15721) Bardot (+'s - name - Wikipedia)
+15722) Perrault (+'s - name - Wikipedia)
+15723) Rouault (+'s - name - Wikipedia)
+15724) malapropos
+15725) colonoscopically
+15726) bretylium (Wiktionary)
+15727) diapauses + diapaused (merged into diapause)
+15728) biozone
+15729) bioyogurt
+15730) biowaste
+15731) biowar
+15732) biovolume
+15733) biotypology
+15734) biotrophy (+ic)
+15735) biotreatment
+15736) biotoxin (+plural)
+15737) dedifferentiate (+s +ing +ed)
+15738) taxman
+15739) taxmen (plural of previous word)
+15740) collectivistic
 =============
-British English Dictionary (Forked) 2.42
+British English Dictionary (Forked) 2.43
 by Marco A.G.Pinto
