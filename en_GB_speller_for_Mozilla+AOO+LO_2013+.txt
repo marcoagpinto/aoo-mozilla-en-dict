@@ -18733,6 +18733,131 @@ V2.43 (ongoing)
 15738) taxman
 15739) taxmen (plural of previous word)
 15740) collectivistic
+
+8-NOV-2016
+15741) privatizer (+s +'s - IZE)
+15742) privatiser (+s +'s - ISE)
+15743) privatism (+plural)
+15744) privatistic
+15745) chancers (added plural)
+15746) Britpop (+er +ers)
+15747) potshot (+plural)
+15748) masterclass (+plural +'s - fixed: master-class)
+15749) Sillars (+'s - name - Wikipedia + Google)
+15750) Salmond (+'s - name - Wikipedia)
+15751) Dalyell (+'s - name - Wikipedia)
+15752) Linlithgow (+'s - name - Wikipedia)
+15753) Foulkes (+'s - name - Wikipedia)
+15754) Emrys (+'s - name - Wikipedia + Google)
+15755) Alasdair (+'s - name - Wikipedia)
+15756) webshop (+plural +'s +ing +er +ers +'s - Wiktionary)
+15757) Martijn (+'s - name - Wikipedia)
+15758) Heide (+'s - name - Wikipedia)
+15759) Paulo (+'s - name - Wikipedia)
+15760) Sami (+'s - name - Wikipedia)
+15761) Koivisto (+'s - name - Wikipedia)
+15762) Baars (+'s - name - Wikipedia + Google)
+15763) Mifsud (+'s - name - Wikipedia)
+15764) Nogueira (+'s - name - Wikipedia)
+15765) McCune (+'s - name - Wikipedia)
+15766) Nuno (+'s - name - Wikipedia)
+
+10-NOV-2016
+15767) sociolinguist (added singular)
+15768) sociolinguistically
+15769) indexical
+15770) Peirce (+'s - name - Wikipedia)
+15771) index-linking
+15772) acceptee
+15773) acceptilation
+15774) mother-bomb
+15775) mother-and-baby
+15776) mother-child
+15777) mother-in-babe
+15778) elan (added singular)
+15779) electrocardiographic (Collins)
+15780) electrocardiographically (Collins)
+15781) electrocatalysis
+15782) electrocatalytic
+15783) electrocatalyst
+15784) endoluminal (Wiktionary)
+15785) electroceramic (+plural)
+15786) electrochemic
+15787) adaptative
+15788) linguicide (Wiktionary)
+15789) gubbins
+15790) wheelspin
+15791) wheedler (+plural)
+15792) wheedlingly
+15793) unprofessionalism
+15794) egressive (+plural)
+15795) pulmonic
+15796) ingressive (+plural)
+15797) velaric (velaric airstream)
+15798) lenition
+15799) lenite (+s +ing +ed)
+15800) delens (punctum delens - Wiktionary)
+15801) delentia (plural of previous word - Wiktionary)
+15802) Hogmanay (+'s - name - Wikipedia + Google)
+15803) slopy (+ier +iest - Collins)
+15804) Inveraray (+'s - name - Wikipedia)
+15805) criterium
+15806) Pict (+plural)
+15807) Pictish
+15808) fluvioglacial
+15809) sheesh
+15810) wisent (+plural)
+15811) aurochs
+15812) unpronounceability
+15813) rewild (+s +ing +ed)
+15814) Lascaux (+'s - name - Wikipedia + Google)
+15815) Altamira (+'s - name - Wikipedia)
+15816) archaeozoological (Wiktionary)
+15817) gaur (+plural)
+15818) kouprey
+15819) oblast (+plural)
+15820) anthropomorphizes + anthropomorphized (merged anthropomorphize -IZE)
+15821) anthropomorphises + anthropomorphised (merged anthropomorphise -ISE)
+15822) shirty (+ier +iest)
+15823) shirtily
+15824) shirtiness
+15825) Turkestan (+'s - name - Wikipedia)
+15826) Benbecula (+'s - name - Wikipedia)
+15827) Uist (+plural +'s - name - Wikipedia)
+15828) Barra (+'s - name - Wikipedia)
+15829) Berneray (+'s - name - Wikipedia)
+15830) Kilda (+'s - name - Wikipedia)
+15831) Faroe (+'s - name - Wikipedia)
+15832) Arran (+'s - name - Wikipedia)
+15833) Cumbrae (+'s - name - Wikipedia)
+15834) Ailsa (+'s - name - Wikipedia)
+15835) Auskerry (+'s - name - Wikipedia + Google)
+15836) Baleshare (+'s - name - Wikipedia + Google)
+15837) Eilean (+'s - name - Wikipedia + Google)
+15838) Garbh (+'s - name - Wikipedia + Google)
+15839) Grimsay (+'s - name - Wikipedia)
+15840) Linga (+'s - name - Wikipedia)
+15841) Lunga (+'s - name - Wikipedia)
+15842) Oronsay (+'s - name - Wikipedia + Google)
+15843) Oldany (+'s - name - Wikipedia + Google)
+15844) Muckle (+'s - name - Wikipedia)
+15845) Ronaldsay (+'s - name - Wikipedia)
+15846) Horrisdale (+'s - name - Wikipedia + Google)
+15847) Kisimul (+'s - name - Wikipedia + Google)
+15848) Ensay (+'s - name - Wikipedia)
+15849) Sween (+'s - name - Wikipedia + Google)
+15850) Lomond (+'s - name - Wikipedia)
+15851) Inchlonaig (+'s - name - Wikipedia + Google)
+15852) Inchcruin (+'s - name - Wikipedia + Google)
+15853) Loain (+'s - name - Wikipedia + Google)
+15854) Gair (+'s - name - Wikipedia)
+15855) Cille (+'s - name - Wikipedia)
+15856) Cromarty (+'s - name - Wikipedia)
+15857) Whithorn (+'s - name - Wikipedia)
+15858) Gluss (+'s - name - Wikipedia + Google)
+15859) Burntisland (+'s - name - Wikipedia)
+15860) Isleornsay (+'s - name - Wikipedia + Google)
+15861) Islesteps (+'s - name - Wikipedia + Google)
 =============
 British English Dictionary (Forked) 2.43
 by Marco A.G.Pinto
