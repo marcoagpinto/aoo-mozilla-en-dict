@@ -18858,6 +18858,36 @@ V2.43 (ongoing)
 15859) Burntisland (+'s - name - Wikipedia)
 15860) Isleornsay (+'s - name - Wikipedia + Google)
 15861) Islesteps (+'s - name - Wikipedia + Google)
+
+11-NOV-2016
+15862) Budea/M (removed by request)
+
+22-NOV-2016
+15863) outlie (+s +ing +ed)
+15864) rebounder (+plural)
+15865) Whittingham (+'s - name - Wikipedia)
+15866) Treadwell (+'s - name - Wikipedia)
+15867) round-off
+15868) hoplite (+plural)
+15869) greave (+plural)
+15870) backsword (+plural)
+15871) non-participation
+15872) disendow (+s +ing +ed +ment)
+15873) chalcedonic (merged into chalcedony)
+15874) acicular
+15875) hydrozincite (Collins)
+15876) hemimorphite
+15877) metasilicate
+15878) microcrystals (added plural)
+15879) aegirine + egirine
+15880) acanthite
+15881) polymorph (+plural)
+15882) paramorph (+ic)
+15883) paramorphous
+15884) aerometeorograph
+15885) aerometry (+ic)
+15886) aeromotive
+15887) aeromodellers (added plural)
 =============
 British English Dictionary (Forked) 2.43
 by Marco A.G.Pinto
