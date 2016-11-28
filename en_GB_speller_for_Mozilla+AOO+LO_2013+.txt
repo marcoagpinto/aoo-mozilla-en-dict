@@ -18604,7 +18604,7 @@ V2.42
 15615) Cláudio (+'s - name - Wikipedia)
 
 
-V2.43 (ongoing)
+V2.43
 2-NOV-2016
 15616) jobsworth (+plural +'s)
 15617) jobsmith
@@ -18888,6 +18888,46 @@ V2.43 (ongoing)
 15885) aerometry (+ic)
 15886) aeromotive
 15887) aeromodellers (added plural)
+
+27-NOV-2016
+15888) downshifted (merged into downshift)
+15889) riverfront (+plural)
+15890) macropore
+15891) macropodid
+15892) macropleural
+15893) macroplankton (+ic)
+15894) macropine
+15895) macrophytic
+15896) macrophyte (+plural)
+15897) fibrillar
+15898) fibrillary
+15899) adiantum
+15900) adiabaticity
+15901) adiaphanous
+15902) adiaphorism
+15903) indifferentism
+15904) indifferentist (+plural)
+15905) latitudinarianism
+15906) Sagittarian
+15907) sabbatarian (+plural)
+15908) sabbatarianism
+15909) Trinitarian (+plural)
+15910) Trinitarianism
+15911) messiahship
+15912) skyer (another way of skier)
+15913) Zechariah (+'s - name - Wikipedia)
+15914) Zedekiah (+'s - name - Wikipedia)
+15915) Kintyre (+'s - name - Wikipedia)
+
+28-NOV-2016
+15916) Aol. (removed on request - LibreOffice)
+15917) bullcrap (removed on request - possibly American - LibreOffice)
+15918) c.Elegans (removed on request - LibreOffice)
+15919) cong. (removed on request - LibreOffice)
+15920) craftspersons (added plural on request - LibreOffice)
+15921) haptic (added singular on request - LibreOffice)
+15922) HRI (removed on request - LibreOffice)
+15923) HTTPd (removed on request - LibreOffice)
 =============
 British English Dictionary (Forked) 2.43
 by Marco A.G.Pinto
