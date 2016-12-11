@@ -18928,6 +18928,87 @@ V2.43
 15921) haptic (added singular on request - LibreOffice)
 15922) HRI (removed on request - LibreOffice)
 15923) HTTPd (removed on request - LibreOffice)
+
+
+V2.44 (ongoing)
+11-DEC-2016
+15924) chermoula
+15925) moomba
+15926) Farnsworth (+'s - name - Wikipedia)
+15927) bolete (+plural)
+15928) boletus (+plural - another way of previous word)
+15929) blimpish (+ly +ness - Collins)
+15930) blimpery
+15931) Blimpian
+15932) Blimpism
+15933) sex-blind
+15934) sex-appealing
+15935) sex-chromosomal
+15936) sex-controlled
+15937) sex-discriminating
+15938) sex-free
+15939) sex-hungry
+15940) sex-kittenish
+15941) sex-limited
+15942) sex-neutral
+15943) sex-reversed
+15944) sexadecimal
+15945) sexagenal
+15946) sexagenary
+15947) sexagenarianism
+15948) Dibdin (+'s - name - Wikipedia)
+15949) sex-reversing
+15950) sex-positive
+15951) sex-negative
+15952) bioclimate
+15953) Hebden (+'s - name - Wikipedia)
+15954) bioclimatics (added plural)
+15955) speciational
+15956) speciations (added plural)
+15957) speciates (merged into speciate)
+15958) acidotic
+15959) endogenesis
+15960) endogeny
+15961) folliculitis
+15962) post-truth
+15963) promisee
+15964) celebutante (+plural)
+15965) celebritydom
+15966) celebrityhood
+15967) Malick (+'s - name - Wikipedia)
+15968) sociopolitical (fixed: socio-political)
+15969) sociotechnic (+plural)
+15970) sociotechnical
+15971) macrodynamics (added plural)
+15972) macrodont
+15973) macrodontia
+15974) macrocytosis
+15975) macrocyte
+15976) macrocyst
+15977) macrocrystallinity
+15978) pyrrole
+15979) heteroaromatic
+15980) sociostatic
+15981) lory (+plural)
+15982) screenwriting
+15983) screenwash
+15984) Maddin (+'s - name - Wikipedia)
+15985) headend (+plural)
+15986) unitard (+plural)
+15987) Drumgoole (+'s - name - Wikipedia)
+15988) Farrah (+'s - name - Wikipedia)
+15989) turtleshell
+15990) Tuscans (added plural)
+15991) Aragonese (Collins)
+15992) Etruscans (added plural)
+15993) Carthaginians (added plural)
+15994) Rufford (+'s - name - Wikipedia)
+15995) Etrurian (+plural)
+15996) Etruscologist
+15997) Etruscology
+15998) achaetous
+15999) chaeta
+16000) chaetae (plural of previous word)
 =============
-British English Dictionary (Forked) 2.43
+British English Dictionary (Forked) 2.44
 by Marco A.G.Pinto
