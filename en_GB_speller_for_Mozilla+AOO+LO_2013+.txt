@@ -19009,6 +19009,75 @@ V2.44 (ongoing)
 15998) achaetous
 15999) chaeta
 16000) chaetae (plural of previous word)
+
+15-DEC-2016
+16001) sriracha
+16002) SRN (Oxford - abbreviation: State Registered Nurse)
+16003) Erastianism
+16004) Erastian
+16005) Erastus (+'s - name - Wikipedia)
+16006) Lieber (+'s - name - Wikipedia)
+16007) supraliminal
+16008) DVD-R
+16009) DVD-video
+16010) compartmentation
+16011) stovepipe (fixed: stove-pipe)
+16012) stovies
+16013) cheesepare
+16014) cheesemonger's (added the 's)
+16015) cartoony (merged into cartoon)
+16016) Yokosuka (+'s - name - Wikipedia)
+16017) Darren's (added 's - name - Wikipedia)
+16018) Caravaggesque
+16019) tenebrism
+16020) tenebrist
+16021) tenebrosity
+16022) tenebrionid
+
+16-DEC-2016
+16023) statewise
+16024) statesmancraft
+16025) statesfolk
+16026) yearful
+16027) preharvest
+16028) shearling (+plural)
+16029) gimmer (+plural)
+16030) cutover (+plural)
+16031) ribbonfish (+plural)
+16032) ribbonry
+16033) ribbony
+16034) Farey (+'s - name - Wikipedia)
+16035) babymother (+plural)
+16036) babymoon
+16037) wigeon (+plural)
+16038) wides (added plural)
+16039) widish
+16040) yorker (+plural - added lowercase)
+16041) Minorca (+'s - name - Wikipedia)
+16042) Kumble (+'s - name - Wikipedia)
+16043) Bedser (+'s - name - Wikipedia)
+16044) Yorkist (+plural)
+16045) Lancastrian (+plural)
+16046) Yorkshiremen (added plural)
+16047) Burridge (+'s - name - Wikipedia)
+16048) Yorkshirewoman
+16049) Yorkshirewomen (plural of previous word)
+16050) Yorubas (added plural)
+16051) Fennoscandia (+'s - name - Wikipedia+Google)
+16052) lovage
+16053) archlute (+plural)
+16054) chitarrone (+plural)
+16055) theorbo (+plural)
+16056) Caravaggio (+'s - name - Wikipedia)
+16057) Baschenis (+'s - name - Wikipedia+Google)
+16058) exsufflation
+16059) extemporary (+ily +ness)
+16060) porcellaneous
+16061) porcellanous
+16062) porbeagle (+plural +'s)
+16063) poral (+ly)
+16064) populistic
+16065) populator
 =============
 British English Dictionary (Forked) 2.44
 by Marco A.G.Pinto
