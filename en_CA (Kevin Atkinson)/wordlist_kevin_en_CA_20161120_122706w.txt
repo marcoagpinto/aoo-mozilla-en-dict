@@ -8743,7 +8743,7 @@ Honiara
 Honiara's
 Honolulu
 Honolulu's
-Honourable
+Honorable
 Honshu
 Honshu's
 Hood
@@ -23667,7 +23667,6 @@ anachronistically
 anaconda
 anaconda's
 anacondas
-anaemically
 anaerobe
 anaerobe's
 anaerobes
@@ -23683,6 +23682,7 @@ anaesthetist's
 anaesthetists
 anaesthetization
 anaesthetization's
+anaesthetizations
 anaesthetize
 anaesthetized
 anaesthetizes
@@ -23842,6 +23842,7 @@ anecdotes
 anemia
 anemia's
 anemic
+anemically
 anemometer
 anemometer's
 anemometers
@@ -29906,6 +29907,8 @@ blowier
 blowiest
 blowing
 blowjob
+blowjob's
+blowjobs
 blowlamp
 blowlamps
 blown
@@ -33622,9 +33625,9 @@ carbuncle
 carbuncle's
 carbuncles
 carbuncular
-carburetor
-carburetor's
-carburetors
+carburettor
+carburettor's
+carburettors
 carcass
 carcass's
 carcasses
@@ -42192,6 +42195,7 @@ cultist's
 cultists
 cultivable
 cultivar
+cultivar's
 cultivars
 cultivatable
 cultivate
@@ -51503,7 +51507,6 @@ escutcheon's
 escutcheons
 esophageal
 esophagi
-esophagus
 esophagus's
 esoteric
 esoterically
@@ -52346,12 +52349,14 @@ exodus's
 exoduses
 exogenous
 exon
+exon's
 exonerate
 exonerated
 exonerates
 exonerating
 exoneration
 exoneration's
+exons
 exoplanet
 exoplanet's
 exoplanets
@@ -53994,6 +53999,7 @@ festoons
 fests
 feta
 feta's
+fetal
 fetch
 fetched
 fetcher
@@ -55590,7 +55596,6 @@ fodders
 foe
 foe's
 foes
-foetal
 fog
 fog's
 fogbound
@@ -60836,6 +60841,7 @@ haddock's
 haddocks
 hadn't
 hadst
+haem
 hafnium
 hafnium's
 haft
@@ -62296,7 +62302,6 @@ hematologist's
 hematologists
 hematology
 hematology's
-heme
 heme's
 hemisphere
 hemisphere's
@@ -62704,6 +62709,8 @@ highwayman's
 highwaymen
 highways
 hijab
+hijab's
+hijabs
 hijack
 hijack's
 hijacked
@@ -63174,6 +63181,8 @@ homeopathic
 homeopaths
 homeopathy
 homeopathy's
+homeostasis
+homeostasis's
 homeostatic
 homeowner
 homeowner's
@@ -63246,8 +63255,6 @@ hominy
 hominy's
 homo
 homo's
-homoeostasis
-homoeostasis's
 homoerotic
 homogeneity
 homogeneity's
@@ -70739,9 +70746,9 @@ laryngitis
 laryngitis's
 larynx
 larynx's
-lasagna
-lasagna's
-lasagnas
+lasagne
+lasagne's
+lasagnes
 lascivious
 lasciviously
 lasciviousness
@@ -71127,7 +71134,6 @@ leanness's
 leans
 leap
 leap's
-leaped
 leaper
 leaper's
 leapers
@@ -71138,6 +71144,7 @@ leapfrogging
 leapfrogs
 leaping
 leaps
+leapt
 learn
 learned
 learnedly
@@ -74734,7 +74741,6 @@ mates
 matey
 mateys
 math
-math's
 mathematical
 mathematically
 mathematician
@@ -74742,7 +74748,6 @@ mathematician's
 mathematicians
 mathematics
 mathematics's
-maths
 matinee
 matinee's
 matinees
@@ -75151,6 +75156,8 @@ meetinghouses
 meetings
 meets
 meetup
+meetup's
+meetups
 meg
 mega
 megabit
@@ -78374,7 +78381,6 @@ multivitamin's
 multivitamins
 multiyear
 mum
-mum's
 mumble
 mumble's
 mumbled
@@ -78401,7 +78407,6 @@ mummy
 mummy's
 mumps
 mumps's
-mums
 mun
 munch
 munched
@@ -81407,6 +81412,7 @@ oenology's
 oenophile
 oenophile's
 oenophiles
+oesophagus
 oeuvre
 oeuvre's
 oeuvres
@@ -82302,6 +82308,7 @@ ostrich
 ostrich's
 ostriches
 other
+other's
 otherness
 others
 otherwise
@@ -93886,6 +93893,9 @@ recursions
 recursive
 recursively
 recuse
+recused
+recuses
+recusing
 recyclable
 recyclable's
 recyclables
@@ -94081,6 +94091,7 @@ reduces
 reducible
 reducing
 reductase
+reductase's
 reduction
 reduction's
 reductionist
@@ -99747,6 +99758,8 @@ screenplay's
 screenplays
 screens
 screensaver
+screensaver's
+screensavers
 screenshot
 screenshots
 screenwriter
@@ -102917,17 +102930,16 @@ skiffle
 skiffs
 skiing
 skiing's
+skilful
 skilfully
+skilfulness
+skilfulness's
 skill
 skill's
 skilled
 skillet
 skillet's
 skillets
-skillful
-skillfully
-skillfulness
-skillfulness's
 skills
 skim
 skim's
@@ -112416,6 +112428,10 @@ timeserving
 timeserving's
 timeshare
 timeshares
+timestamp
+timestamp's
+timestamped
+timestamps
 timetable
 timetable's
 timetabled
@@ -112940,6 +112956,7 @@ tool
 tool's
 toolbar
 toolbar's
+toolbars
 toolbox
 toolbox's
 toolboxes
@@ -120094,6 +120111,9 @@ weans
 weapon
 weapon's
 weaponize
+weaponized
+weaponizes
+weaponizing
 weaponless
 weaponry
 weaponry's
@@ -121005,6 +121025,8 @@ wikis
 wild
 wild's
 wildcard
+wildcard's
+wildcards
 wildcat
 wildcat's
 wildcats
