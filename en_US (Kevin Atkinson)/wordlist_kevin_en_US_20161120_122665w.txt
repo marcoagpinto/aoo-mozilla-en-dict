@@ -23845,6 +23845,7 @@ anesthetist's
 anesthetists
 anesthetization
 anesthetization's
+anesthetizations
 anesthetize
 anesthetized
 anesthetizes
@@ -29897,6 +29898,8 @@ blowier
 blowiest
 blowing
 blowjob
+blowjob's
+blowjobs
 blowlamp
 blowlamps
 blown
@@ -32343,9 +32346,6 @@ burp's
 burped
 burping
 burps
-burqa
-burqa's
-burqas
 burr
 burr's
 burred
@@ -42182,6 +42182,7 @@ cultist's
 cultists
 cultivable
 cultivar
+cultivar's
 cultivars
 cultivatable
 cultivate
@@ -52330,12 +52331,14 @@ exodus's
 exoduses
 exogenous
 exon
+exon's
 exonerate
 exonerated
 exonerates
 exonerating
 exoneration
 exoneration's
+exons
 exoplanet
 exoplanet's
 exoplanets
@@ -62681,6 +62684,8 @@ highwayman's
 highwaymen
 highways
 hijab
+hijab's
+hijabs
 hijack
 hijack's
 hijacked
@@ -74714,7 +74719,6 @@ mates
 matey
 mateys
 math
-math's
 mathematical
 mathematically
 mathematician
@@ -74722,7 +74726,6 @@ mathematician's
 mathematicians
 mathematics
 mathematics's
-maths
 matinee
 matinee's
 matinees
@@ -75130,6 +75133,8 @@ meetinghouses
 meetings
 meets
 meetup
+meetup's
+meetups
 meg
 mega
 megabit
@@ -78343,7 +78348,6 @@ multivitamin's
 multivitamins
 multiyear
 mum
-mum's
 mumble
 mumble's
 mumbled
@@ -78370,7 +78374,6 @@ mummy
 mummy's
 mumps
 mumps's
-mums
 mun
 munch
 munched
@@ -82272,6 +82275,7 @@ ostrich
 ostrich's
 ostriches
 other
+other's
 otherness
 others
 otherwise
@@ -93851,6 +93855,9 @@ recursions
 recursive
 recursively
 recuse
+recused
+recuses
+recusing
 recyclable
 recyclable's
 recyclables
@@ -94046,6 +94053,7 @@ reduces
 reducible
 reducing
 reductase
+reductase's
 reduction
 reduction's
 reductionist
@@ -99712,6 +99720,8 @@ screenplay's
 screenplays
 screens
 screensaver
+screensaver's
+screensavers
 screenshot
 screenshots
 screenwriter
@@ -102882,7 +102892,6 @@ skiffle
 skiffs
 skiing
 skiing's
-skilfully
 skill
 skill's
 skilled
@@ -112378,6 +112387,10 @@ timeserving
 timeserving's
 timeshare
 timeshares
+timestamp
+timestamp's
+timestamped
+timestamps
 timetable
 timetable's
 timetabled
@@ -112902,6 +112915,7 @@ tool
 tool's
 toolbar
 toolbar's
+toolbars
 toolbox
 toolbox's
 toolboxes
@@ -120056,6 +120070,9 @@ weans
 weapon
 weapon's
 weaponize
+weaponized
+weaponizes
+weaponizing
 weaponless
 weaponry
 weaponry's
@@ -120967,6 +120984,8 @@ wikis
 wild
 wild's
 wildcard
+wildcard's
+wildcards
 wildcat
 wildcat's
 wildcats
