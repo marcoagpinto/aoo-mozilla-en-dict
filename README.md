@@ -16,8 +16,8 @@ Modifying, updating and maintaining a dictionary is a hard task but an important
 The initial idea was that other projects could also use this GitHub entry and take the .AFF and .DIC files and use them in projects which use proofing -or spellchecking- functionalities.
 
 
-I (Marco Pinto) am only improving the en_GB. The en_US and en_CA are maintained by Kevin Atkinson.
-Please contact Kevin directly for the latter two:
+I (Marco Pinto) am only improving the en_GB. The en_AU, en_US and en_CA are maintained by Kevin Atkinson.
+Please contact Kevin directly for the latter three:
 http://wordlist.aspell.net 
 and https://sourceforge.net/projects/wordlist/files/Hunspell
 . en_ZA is maintained by Dwayne Bailey:
@@ -36,6 +36,7 @@ http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
   
   
 #### Licences for the wordlists:
+* en_AU (Kevin Atkinson) - BSD/MIT-Like;
 * en_CA (Kevin Atkinson) - BSD/MIT-Like;
 * en_GB (Marco A.G.Pinto) - LGPL;
 * en_US (Kevin Atkinson) - BSD/MIT-Like;
