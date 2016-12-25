@@ -19108,6 +19108,119 @@ V2.44 (ongoing)
 16091) pedatisect
 16092) discernable
 16093) discernableness + discernibleness
+
+21-DEC-2016
+16094) unblur (+s +ing +ed - Wiktionary)
+16095) Quentin (+'s - name - Wikipedia)
+16096) Baldinger (+'s - name - Wikipedia)
+16097) copy-protected
+16098) symphysis
+16099) symphyses (plural of previous word)
+16100) periosteum
+16101) periostea (plural of previous word)
+16102) thievishly
+16103) McHugh (+'s - name - Wikipedia)
+16104) extratropical
+16105) extravagancy (+plural)
+16106) extrauterine
+16107) akinesia
+16108) akinetic
+16109) Parkinsonian
+16110) mutism
+16111) mutineering
+16112) copulatively
+16113) intromission
+16114) introject (+s +ing +ed)
+16115) introjection
+16116) introgressive
+16117) RNAs (added plural - Wiktionary)
+16118) microRNAs (added plural)
+16119) mononucleotide
+16120) heteromorph (+plural +y +ic)
+16121) anteroventral (Wiktionary)
+16122) pre-adult
+16123) boardsail (+ing)
+16124) boardslide (+plural)
+16125) leatherback
+
+22-DEC-2016
+16126) multiselection (Wiktionary)
+16127) multiselect (+s +ing +ed - Wiktionary)
+16128) setups (added plural)
+16129) carinate (+ed +ion)
+16130) inturned (Collins)
+16131) topotype (+plural - Collins + Wiktionary)
+16132) phenetically
+16133) pneumatized (-IZE)
+16134) pneumatised (-ISE)
+16135) BMus (abbreviation: Bachelor of Music)
+16136) BEd (abbreviation: Bachelor of Education)
+16137) Elsevier (+'s - name - Wikipedia)
+16138) MBBS + MBChB (abbreviation: Bachelor of Medicine and Surgery - Collins)
+16139) premodern
+16140) phytopathology
+16141) phytopathological
+16142) phytopathologist
+16143) DFA + D.F.A. (abbreviation:  Doctor of Fine Arts - Collins)
+16144) downtrends (added plural)
+16145) uptrend (+plural)
+16146) eco-friendly
+16147) agroecologist
+16148) agroecology
+16149) Vandermeer (+'s - name - Wikipedia)
+16150) agroforester (Collins)
+16151) floristry
+16152) embryony
+16153) organogenesis
+16154) epicotyl (+plural)
+16155) retinoic (retinoic acid)
+
+25-DEC-2016
+16156) gigot
+16157) cassoulet
+16158) tagine + tajine (+plural of both)
+16159) lasagna (another way of lasagne)
+16160) flageolet
+16161) melodeon + melodion (+plural of both)
+16162) haute
+16163) Blackfen (+'s - name - Wikipedia + Google)
+16164) takingly
+16165) takingness
+16166) crambo
+16167) crammers (added plural)
+16168) Reidy (+'s - name - Wikipedia)
+16169) bookwise
+16170) bookwright
+16171) Friulian (+plural)
+16172) Friuli (+'s - name - Wikipedia)
+16173) frittata (+plural)
+16174) dipterocarp (+plural)
+16175) montane
+16176) Salamanca (+'s - name - Wikipedia)
+16177) Lubyanka + Lubianka
+16178) Aloysius (+'s - name - Wikipedia)
+16179) ayahuasca
+16180) sura + surah (+plural of both)
+16181) peripeteia
+16182) uropygium
+16183) uropygial
+16184) glandless (Collins)
+16185) urophilia
+16186) urolagnia
+16187) urolithiasis
+16188) urologic
+16189) euphoriant
+16190) cisplatin
+16191) deoxynivalenol (Wiktionary)
+16192) vomitoxin (Wiktionary)
+16193) diaphoretic
+16194) dyspnoeic
+16195) hepatosplenomegaly (Wiktionary)
+16196) obtund (+s +ing +ed)
+16197) proarrhythmic (Wiktionary)
+16198) ribosomes (added plural)
+16199) cistron (+plural)
+16200) rDNA (+plural - Wiktionary)
 =============
 British English Dictionary (Forked) 2.44
 by Marco A.G.Pinto
