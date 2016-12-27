@@ -19221,6 +19221,54 @@ V2.44 (ongoing)
 16198) ribosomes (added plural)
 16199) cistron (+plural)
 16200) rDNA (+plural - Wiktionary)
+
+27-DEC-2016
+16201) offense (removed - American word)
+16202) eyewear
+16203) eyewasher
+16204) eyeward (+plural)
+16205) anthracnose
+16206) cyclorama (+plural)
+16207) cycloramic
+16208) backlights (added plural)
+16209) backlines (added plural)
+16210) showcard (+plural)
+16211) subscale (Collins)
+16212) showbiz's (added the 's)
+16213) aftertouch
+16214) multi-timbral
+16215) poutingly
+16216) pouty (+ier +iest)
+16217) sneerers (added plural)
+16218) pillowy
+16219) pillorize (+s +ing +ed -IZE)
+16220) pillorise (+s +ing +ed -ISE)
+16221) pillarization (-IZE)
+16222) pillarisation (-ISE)
+16223) pillock (+plural)
+16224) pilliwinks
+16225) Garvin (+'s - name - Wikipedia)
+16226) superspy (+plural - Collins)
+16227) pixieish
+16228) shopworker's (added the 's)
+16229) shopwalker (+plural)
+16230) arsy-versy
+16231) anxiogenic
+16232) anxiety-ridden
+16233) anxiety-free
+16234) offenceless (+ly)
+16235) Donne (+'s - name - Wikipedia)
+16236) Eurojust (Wiktionary)
+16237) paralic
+16238) paralinguistics (added plural)
+16239) paraliturgical
+16240) paralipsis
+16241) anastrophe (+plural)
+16242) paramedian
+16243) supratrochlear (Wiktionary)
+16244) biose
+16245) disaccharide (+plural)
+16246) glycolaldehyde (Wiktionary)
 =============
 British English Dictionary (Forked) 2.44
 by Marco A.G.Pinto
