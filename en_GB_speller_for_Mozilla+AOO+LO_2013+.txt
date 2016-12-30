@@ -18930,7 +18930,7 @@ V2.43
 15923) HTTPd (removed on request - LibreOffice)
 
 
-V2.44 (ongoing)
+V2.44
 11-DEC-2016
 15924) chermoula
 15925) moomba
@@ -19269,6 +19269,91 @@ V2.44 (ongoing)
 16244) biose
 16245) disaccharide (+plural)
 16246) glycolaldehyde (Wiktionary)
+
+28-DEC-2016
+16247) EOL (Wiktionary)
+16248) selah
+16249) covellite
+16250) bornite
+16251) chalcocite
+16252) arsenical
+16253) arsenious
+16254) arsenides (added plural)
+16255) stibnite
+16256) orpiment
+16257) azurite
+16258) pyromorphite
+16259) scheelite
+16260) lithologic
+16261) lithologically
+16262) flexography (+ic)
+16263) immiscibility
+16264) immiscibly
+16265) cyclopentane (Collins)
+16266) omissible
+16267) omittable
+16268) remissible
+16269) Amaral (+'s - name - Wikipedia)
+16270) COPD (abbrev: chronic obstructive pulmonary disease - Wiktionary)
+
+29-DEC-2016
+16271) gamergate
+16272) casteless (Collins)
+16273) RTA (abbreviation: Road Traffic Accident)
+16274) antidromic
+16275) capsaicin
+16276) orthodromic
+16277) electrophysiologic
+16278) electropolishes (added plural)
+16279) electropollution
+16280) alkoxide + alkoxid
+16281) micropore (+plural)
+16282) microporosity
+16283) microporous
+16284) non-woven
+16285) macropodine
+16286) macropod (+plural)
+16287) macrolensing
+16288) telithromycin (Wiktionary)
+16289) penicillinase (+plural)
+16290) penicillium
+16291) penicillia (plural of previous word)
+16292) decarboxylase
+16293) photorespiratory
+16294) ornithine
+16295) orotate
+16296) transferase (+plural)
+16297) decarboxylate (+s +ing +ed +ion)
+16298) diosgenin
+16299) sapogenin (Collins)
+16300) huisache (+plural)
+16301) undercard (+plural)
+16302) Eastman's (added the 's - name)
+16303) undercapitalize (+s +ing +ed -IZE)
+16304) undercapitalise (+s +ing +ed -ISE)
+16305) undercast (+s +ing)
+16306) Middleton's (added the 's - name)
+16307) undercliff
+16308) walkable
+16309) walkability
+16310) walkathon (+plural)
+16311) Cesarewitch
+16312) cespitose
+16313) liberated
+16314) mecamylamine
+16315) Meccan
+16316) mech (+plural)
+16317) mechameck
+16318) mecha (+plural)
+16319) mechanicalness
+16320) dedendum (+plural)
+16321) dedans
+16322) decussate (+s +ing +ed +ion)
+16323) zapateado (+plural)
+16324) skunkworks
+16325) skutterudite
+16326) skunkweed
+16327) skullcapped
 =============
 British English Dictionary (Forked) 2.44
 by Marco A.G.Pinto
