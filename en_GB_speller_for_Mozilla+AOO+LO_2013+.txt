@@ -19354,6 +19354,93 @@ V2.44
 16325) skutterudite
 16326) skunkweed
 16327) skullcapped
+
+
+V2.45 (ongoing)
+3-JAN-2017
+16328) untenability
+16329) untenableness
+16330) untenably
+16331) untechnical
+16332) untempered
+16333) unsponsored
+16334) unspontaneous
+16335) unspiritual
+16336) unspirituality
+16337) unspiritually
+16338) unspirited
+16339) Vasconic (Wiktionary)
+16340) Aquitanian + Acquitanian + Aquitainian
+16341) Aquitania (+'s - name - Wikipedia)
+16342) Biscayan (Wiktionary)
+16343) Navarrese
+16344) Navarre (+'s - name - Wikipedia)
+16345) Gipuzkoan (Wikipedia)
+16346) Souletin (Wikipedia)
+16347) Francoist (+plural)
+16348) Álava (+'s - name - Wikipedia)
+16349) Vasconist (Wiktionary)
+16350) widdle (+s +ing +ed)
+16351) Hispania (+'s - name - Wikipedia)
+16352) reconquista
+16353) Labourd (+'s - name - Wikipedia)
+16354) soulhood
+16355) soulify
+16356) Soule (+'s - name - Wikipedia)
+16357) rejoinder (+plural)
+16358) withy (+plural)
+16359) withes (another plural of previous word)
+16360) Trossachs (name - Wikipedia)
+16361) chartulary (+plural - Collins)
+16362) cartulary (+plural - Collins)
+16363) Lothians (Collins)
+16364) Pharaonic (Collins)
+16365) Dugald (name - Wikipedia)
+16366) unworked
+16367) haugh (+plural)
+16368) Pictland
+16369) Sassenach (+plural)
+16370) Ochils (name - Wikipedia)
+16371) Nairnshire (name - Wikipedia)
+16372) Nairn (+'s - name - Wikipedia)
+16373) Solway (+'s - name - Wikipedia)
+16374) wight (+plural)
+16375) heathy
+16376) Crieff (+'s - name - Wikipedia)
+16377) glebe (+plural)
+16378) mensal
+16379) Christmassy
+16380) gunter
+16381) gunter-rigged
+16382) sprit
+16383) spritsail (+plural)
+16384) lateen
+16385) carrack (+plural)
+16386) sailmaker (+plural)
+16387) sailmaking
+16388) forwardmost (Wiktionary)
+16389) buntline (+plural)
+16390) SwiftKey (Wikipedia + Google - used on Android)
+16391) goadsman (Collins)
+16392) goadsmen (plural of previous word - Collins)
+16393) farmstock (Wiktionary)
+16394) carl (+plural - Wiktionary)
+16395) corrie (+plural)
+16396) Jamieson (+'s - name - Wikipedia)
+16397) knowe
+16398) skene
+16399) garth (+plural)
+16400) halbard (Wiktionary)
+16401) scribal
+16402) MacBain (+'s - name - Wikipedia)
+16403) wester (+s +ing +ed)
+16404) Wester (+'s - name - Wikipedia)
+16405) Besançon (+'s - name - Wikipedia)
+16406) pinfold (+s +ing +ed)
+16407) darnel
+16408) fumitory
+16409) myrobalan
+16410) henbane
 =============
-British English Dictionary (Forked) 2.44
+British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
