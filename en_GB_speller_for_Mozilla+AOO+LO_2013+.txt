@@ -19517,6 +19517,32 @@ V2.45 (ongoing)
 16480) bindi (+plural)
 16481) pre-press
 16482) Kenny's (added the 's - name - Wikipedia)
-=============                
+16483) mIRC's (added the 's)
+16484) Abdullah's (added the 's)
+16485) Abidjan's (added the 's)
+16486) Sunland (+'s - name - Wikipedia)
+16487) Demetrius (+'s - name - Wikipedia)
+16488) unventured (Wiktionary)
+16489) unawed
+16490) unawares (another way of unaware)
+16491) grasscloth (+plural)
+16492) ashplant (+plural)
+16493) hurley (+plural)
+16494) sliotar (+plural)
+16495) sliotair (another plural of previous word)
+16496) Harriot (+'s - name - Wikipedia)
+16497) titaniferous
+16498) arsey
+16499) arsier
+16500) arsiest
+16501) organophosphorus
+16502) organosedimentary
+16503) organosol
+16504) organophosphorous
+16505) organonymy
+16506) carbonyls (added plural)
+16507) carbonometer
+16508) carbonous
+=============
 British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
