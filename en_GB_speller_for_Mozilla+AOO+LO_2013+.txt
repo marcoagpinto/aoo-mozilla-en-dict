@@ -19441,6 +19441,82 @@ V2.45 (ongoing)
 16408) fumitory
 16409) myrobalan
 16410) henbane
-=============
+
+5-JAN-2017
+16411) lawlessly (Collins)
+16412) rayless (+ly +ness - Collins)
+16413) saplessness (Collins)
+16414) sexlessly (Collins)
+16415) sexlessness (Collins)
+16416) axel (+plural)
+16417) photogrammetry (+ic)
+16418) photogrammetrist
+16419) photogrammetrical (+ly)
+16420) photogrammeter
+16421) photogoniometry
+16422) photogoniometer
+16423) photoglyphography
+16424) photoglyphy (+ic)
+16425) photogeology
+16426) photogeological
+16427) photogeologist
+16428) outwash
+16429) esker (+plural)
+16430) subglacial (+ly)
+16431) unforested
+16432) unsisterly
+16433) unsinkability
+16434) unsignposted
+16435) unshriven
+16436) Englishness
+
+6-JAN-2017
+16437) Chartism (uppercase)
+16438) chartism (lowercase)
+16439) charterhouse (+plural)
+16440) Carthusian (+plural)
+16441) Cistercian (+plural)
+16442) ministership (+plural)
+16443) maladminister (+s +ing +ed)
+16444) maladministrator
+16445) curcumin (Collins)
+16446) malaeration + malaëration
+16447) Malagasies (added plural)
+16448) Austronesian
+16449) Polynesian (+plural)
+16450) Anglos (added plural)
+16451) Anglistics
+16452) Anglist
+16453) committeeship
+16454) committeeism
+16455) committent
+16456) upbuild (+s +ing)
+16457) upbuilt (past of previous verb)
+16458) untilled
+16459) untinged
+16460) untogether
+16461) untoned
+16462) streakily
+16463) streakiness
+16464) unrentable
+16465) unrepaid
+16466) unrepair
+16467) unrepaired
+16468) unmended
+16469) unmensurable
+16470) unmenseful
+16471) unmentionability
+16472) unmentionableness
+16473) unmentionably
+16474) unmercantile
+16475) Gray's (added the 's - name - Wikipedia)
+16476) lengthsman (Collins)
+16477) lengthsmen (plural of previous word - Collins)
+16478) widthwise
+16479) mangalsutra (Collins)
+16480) bindi (+plural)
+16481) pre-press
+16482) Kenny's (added the 's - name - Wikipedia)
+=============                
 British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
