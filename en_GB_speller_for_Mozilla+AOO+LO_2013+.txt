@@ -19543,6 +19543,84 @@ V2.45 (ongoing)
 16506) carbonyls (added plural)
 16507) carbonometer
 16508) carbonous
+
+8-JAN-2017
+16509) prophetize (+s +ing +ed -IZE)
+16510) prophetise (+s +ing +ed -ISE)
+16511) prophetless
+16512) prophetocracy
+16513) prophetship
+16514) prophethood
+16515) prophetism
+16516) Hagiographa
+16517) prophesiable
+16518) foretellable (Wiktionary)
+16519) prophetly
+16520) prophetry
+16521) prophylactically
+16522) serologic
+16523) serologist (+plural)
+16524) nephrosis
+16525) nephrotic
+16526) pathologic (Collins)
+16527) bronchiectasis 
+16528) bronchopulmonary (Wiktionary)
+16529) aspergillosis
+16530) pleuritic
+16531) Hazlewood (+'s - name - Wikipedia)
+16532) phenobarbitone
+16533) lignocaine
+16534) novocaine (fix: removed uppercase)
+16535) methylprednisolone
+16536) betamethasone (Wiktionary)
+16537) mesosalpinx
+16538) oxymetazoline (Wiktionary)
+16539) overgeneralize (+s +ing +ed +ion -IZE)
+16540) overgeneralisation (-ISE)
+16541) overgenerosity
+16542) overgenerously
+16543) overget (+s +ing)
+16544) overgot (past of previous verb)
+16545) overglance (+s +ing +ed)
+16546) overgild (+s +ing +ed)
+16547) shad (+plural)
+
+9-JAN-2017
+16548) fundament (+plural)
+16549) facture
+16550) seriality
+16551) criterial
+16552) fundamentality
+16553) non-fundamental
+16554) non-gay
+16555) irrationalism
+16556) irrationalist (+plural)
+16557) sharia + shariah + shariat
+16558) Hadith (+'s - name - Wikipedia)
+16559) Sunna (+'s - name - Wikipedia)
+16560) sharedness
+16561) MacNeice (+'s - name - Wikipedia)
+16562) calendric
+16563) calendrical
+16564) reinitiate (+s +ing +ed)
+16565) reinherit
+16566) reinject (+s +ing +ed)
+16567) reinjection
+16568) reinnervate (+s +ing +ed +ion)
+16569) reinquire (+s +ing +ed)
+16570) reinscribe (+s +ing +ed)
+16571) reinsist (+s +ing +ed)
+16572) reinspection
+16573) off-roader (+plural)
+16574) off-sale (+plural)
+16575) Eastwood's (added the 's - name - Wikipedia)
+16576) breadcrumbed
+16577) lasagna's (added the 's)
+16578) soursop (+plural)
+16579) plumrose
+16580) dasheen (+plural)
+16581) piermaster
+16582) pierless
 =============
 British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
