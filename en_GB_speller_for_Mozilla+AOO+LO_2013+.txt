@@ -19621,6 +19621,45 @@ V2.45 (ongoing)
 16580) dasheen (+plural)
 16581) piermaster
 16582) pierless
+
+14-JAN-2017
+16583) Cyberian
+16584) Cyberia
+16585) punningly
+16586) forerun (+s +ing)
+16587) foreran (past of previous word)
+16588) human-like
+16589) chestily
+16590) chestiness
+16591) musculation
+16592) ophthalmoplegia
+16593) ophthalmoplegic
+16594) diastasis (Collins)
+16595) diastases (plural of previous word - Collins)
+16596) diastatic (Collins)
+16597) cybergeek
+16598) cyberfeminism
+16599) cybercultural
+16600) autosampler
+16601) autorotative
+16602) autoresponders (added plural)
+16603) autoregulatory
+16604) autoregulate (+s +ing +ed +ion)
+16605) autoregression
+16606) autoreactive
+16607) autoaggressive
+16608) autoallergy (+ic)
+16609) autoanalyser
+16610) autoanalyst
+16611) autoanalysis
+16612) autoantibody (+plural)
+16613) autoantigen
+16614) autobasidiomycete
+16615) autobio
+16616) autobasidium
+16617) basidium
+16618) basidia (plural of previous word)
+16619) basify (+s +ing +ed)
 =============
 British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
