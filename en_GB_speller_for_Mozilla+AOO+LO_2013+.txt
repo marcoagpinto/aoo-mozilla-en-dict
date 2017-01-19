@@ -19660,6 +19660,45 @@ V2.45 (ongoing)
 16617) basidium
 16618) basidia (plural of previous word)
 16619) basify (+s +ing +ed)
+16620) subitem (+plural - Wiktionary + Collins)
+16621) sub-item (+plural - Oxford)
+
+19-JAN-2017
+16622) interpenetrate (+s +ing +ed +ion +ive)
+16623) interpellate (+s +ing +ed)
+16624) interpellator
+16625) interosseous
+16626) lumbricalis (Collins)
+16627) lumbrical (Collins)
+16628) dateable (another way of datable)
+16629) unrelapsing
+16630) Cheyne (+'s - name - Wikipedia)
+16631) unrelatable
+16632) unrejoicing
+16633) unrejoiced
+16634) unrejected
+16635) unrein (+s +ing +ed)
+16636) unreimbursed
+16637) sonographer's (added the 's)
+16638) assonate (+s +ing +ed)
+16639) agglutinable
+16640) agglutinability
+16641) agglutinant
+16642) agglutinator
+16643) precipitin (+plural)
+16644) tetrameric
+16645) glycosylate (+s +ing +ed - Collins + Wiktionary)
+16646) tetralogy (+plural)
+16647) atresia
+16648) anthracitic (Collins)
+16649) decalitre (+plural)
+16650) decalcomania
+16651) scumble (+s +ing +ed)
+16652) monoprint (+plural)
+16653) frottage (+plural)
+16654) concertist (+plural)
+16655) ripienist
+16656) ripicolous
 =============
 British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
