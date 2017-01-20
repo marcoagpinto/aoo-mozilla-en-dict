@@ -19699,6 +19699,67 @@ V2.45 (ongoing)
 16654) concertist (+plural)
 16655) ripienist
 16656) ripicolous
+
+20-JAN-2017
+16657) wabbit
+16658) crucifer (+plural)
+16659) diamorphine
+16660) primigravida
+16661) primigravidae (plural of previous word)
+16662) chemoprophylaxis
+16663) chemoprophylactic
+16664) bioequivalence
+16665) bioequivalency
+16666) bioenvironmental
+16667) bioproduct
+16668) bioprocess (+ing)
+16669) bioplast
+16670) biopirate
+16671) biophysiology
+16672) biophysiologist
+16673) biophoton
+16674) biophotonics
+16675) biophobia
+16676) biophilosophy
+16677) pharma's (added the 's)
+16678) Pfizer (+'s - name - Wikipedia)
+16679) cannabidiol (+plural)
+16680) halothane
+16681) halophile (+plural +ic)
+16682) midazolam
+16683) dentate
+16684) diencephalon
+16685) diencephalic
+16686) Trumpism (Collins)
+16687) infundibular
+16688) acetabular
+16689) aponeurosis
+16690) aponeuroses (plural of previous word)
+16691) aponeurotic
+16692) contracture (+plural)
+16693) palmar (palmar arch)
+16694) flexor (+plural)
+16695) ovalescent
+16696) ovalish
+16697) ovaliform
+16698) ovalbumin
+16699) catalase
+16700) aldolase
+16701) transferrin
+16702) coagulase
+16703) legionella
+16704) legionellae (plural of previous word)
+16705) feedlot (+plural)
+16706) bacteriologically
+16707) toxicological (Collins)
+16708) toxicologic (Collins)
+16709) toxicologically (Collins)
+16710) serodiagnosis
+16711) serodiagnostic
+16712) immunoprotective (Wiktionary)
+16713) seroepidemiological (Wiktionary)
+16714) Brexiteer (+plural)
+16715) Brexiter (+plural)
 =============
 British English Dictionary (Forked) 2.45
 by Marco A.G.Pinto
