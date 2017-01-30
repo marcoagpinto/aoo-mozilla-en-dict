@@ -19356,7 +19356,7 @@ V2.44
 16327) skullcapped
 
 
-V2.45 (ongoing)
+V2.45
 3-JAN-2017
 16328) untenability
 16329) untenableness
