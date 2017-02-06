@@ -19814,6 +19814,48 @@ V2.45
 16765) nearish
 16766) Judaea (another way of Judea)
 16767) Judaean + Judean (+plural of both)
+
+
+V2.46 (ongoing)
+6-FEB-2017
+16768) glassmaker's (added the 's)
+16769) pontil + punty
+16770) rhumb
+16771) rhumbatron + rumbatron
+16772) granivorous
+16773) Braxton (+'s - name - Wikipedia)
+16774) Josephine's (added the 's - name - Wikipedia)
+16775) Wujing (+'s - name - Wikipedia)
+16776) yakuza (+'s)
+16777) Yakuza (+'s - uppercase)
+16778) Selangor (+'s - name - Wikipedia)
+16779) Zamani (+'s - name - Wikipedia)
+16780) Ressler (+'s - name - Wikipedia)
+16781) Floriana (+'s - name - Wikipedia)
+16782) bierkeller (+plural)
+16783) Garrick's (added the 's - name - Wikipedia)
+16784) uncuff (+s +ing +ed - Collins + Wiktionary)
+16785) untraceably
+16786) Brimley (+'s - name - Wikipedia)
+16787) Malik (+'s - name - Wikipedia)
+16788) Kingmaker (+plural)
+16789) kibitzer (+plural)
+16790) kibitka (+plural)
+16791) gipsy's (added 's)
+16792) procuress (+plural)
+16793) tantric
+16794) meretrix
+16795) oiran
+16796) soapland (+plural - Collins)
+16797) Yoshiwara (name - Wikipedia)
+16798) nautch
+16799) devadasi (+plural)
+16800) Renuka (+'s - name - Wikipedia)
+16801) Hogarth's (added the 's - name - Wikipedia)
+16802) dexamethasone
+16803) Torino (+'s - name - Wikipedia)
+16804) audiovisually (Collins)
+16805) hight (removed as Oxford says it is archaic)
 =============
-British English Dictionary (Forked) 2.45
+British English Dictionary (Forked) 2.46
 by Marco A.G.Pinto
