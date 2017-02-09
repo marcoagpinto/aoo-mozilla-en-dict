@@ -19856,6 +19856,28 @@ V2.46 (ongoing)
 16803) Torino (+'s - name - Wikipedia)
 16804) audiovisually (Collins)
 16805) hight (removed as Oxford says it is archaic)
+
+8-FEB-2017
+16806) unsubscription (Wiktionary)
+16807) tussore + tussah
+16808) chiru
+16809) faille
+16810) waterproofer (+plural)
+16811) waterproofness
+16812) trowelling + trowelled (merged into trowel)
+16813) epithetical
+16814) epithetically
+16815) convoluting (merged into convolute)
+16816) databank (+plural)
+16817) unannotated (Collins)
+16818) abled
+16819) ablegate (+tion)
+16820) ableness
+16821) ableism + ablism
+16822) ableist
+16823) ablepsy
+16824) Bullokar (+'s - name - Wikipedia)
+16825) serviceberry (+plural)
 =============
 British English Dictionary (Forked) 2.46
 by Marco A.G.Pinto
