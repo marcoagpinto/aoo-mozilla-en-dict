@@ -20002,6 +20002,41 @@ V2.46 (ongoing)
 16939) alumine
 16940) aluming
 16941) aluminated
+
+24-FEB-2017
+16942) Rodin (+'s - name - Wikipedia)
+16943) Rudner (+'s - name - Wikipedia)
+16944) Herodian (+plural)
+16945) Europol (Collins)
+16946) Fujimori (+'s - name - Wikipedia)
+16947) delegitimize (+s +ing +ed +ion -IZE)
+16948) delegitimise (+s +ing +ed +ion -ISE)
+16949) fetishize (+s +ing +ed +ion -IZE)
+16950) fetishise (+s +ing +ed +ion -ISE)
+16951) enroot (+s +ing +ed - Collins)
+16952) Maximiliano (+'s - name - Wikipedia)
+16953) Howie (+'s - name - Wikipedia)
+16954) disconformity (+plural)
+16955) phosphatic
+16956) taphonomy
+16957) taphonomic
+16958) taphonomist (+plural)
+16959) graptolite (+plural)
+16960) teammate's (added the 's)
+16961) unrobbed
+16962) chipper (+plural)
+16963) grapplers (added plural)
+16964) carbonara
+16965) unsmoked (Collins)
+16966) calzone (+plural)
+16967) calzoni (another plural of previous word)
+16968) calypsonian (+plural)
+16969) seducible
+16970) smithing + smithed (merged into smith)
+16971) alkanol
+16972) lyophilize (+s +ing +ed +ion -IZE)
+16973) lyophilise (+s +ing +ed +ion -ISE)
+16974) histone (+plural)
 =============
 British English Dictionary (Forked) 2.46
 by Marco A.G.Pinto
