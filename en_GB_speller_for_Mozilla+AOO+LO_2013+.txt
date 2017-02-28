@@ -19816,7 +19816,7 @@ V2.45
 16767) Judaean + Judean (+plural of both)
 
 
-V2.46 (ongoing)
+V2.46
 6-FEB-2017
 16768) glassmaker's (added the 's)
 16769) pontil + punty
@@ -20037,6 +20037,18 @@ V2.46 (ongoing)
 16972) lyophilize (+s +ing +ed +ion -IZE)
 16973) lyophilise (+s +ing +ed +ion -ISE)
 16974) histone (+plural)
+
+28-FEB-2017
+16975) unencrypt (+s +ing +ed - Wiktionary)
+16976) perjink
+16977) inequable
+16978) ineludible
+16979) ineliminable
+16980) inelasticity
+16981) inegalitarian
+16982) ineffectuality
+16983) inflammatories (added plural - Collins)
+16984) inflammatorily (Collins)
 =============
 British English Dictionary (Forked) 2.46
 by Marco A.G.Pinto
