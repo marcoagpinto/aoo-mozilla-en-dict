@@ -20049,6 +20049,42 @@ V2.46
 16982) ineffectuality
 16983) inflammatories (added plural - Collins)
 16984) inflammatorily (Collins)
+
+
+V2.47 (ongoing)
+6-MAR-2017
+16985) voila
+16986) Jacqueline's (added 's - name - Wikipedia)
+16987) workover
+16988) whipstock (+plural)
+16989) whipworm (+plural)
+16990) brittlestar (+plural)
+16991) babesiasis (another way of babesiosis)
+16992) dystrophies (added plural)
+16993) myotonic (myotonic dystrophy)
+16994) heliotherapy
+16995) heliospheric
+16996) heliostat (+plural)
+16997) blueshift
+16998) redshift (+ed)
+16999) whimbrel (+plural)
+16700) dunlin (+plural)
+16701) buffleheads (added plural)
+16702) scaup (+plural)
+16703) gallinule (+plural)
+16704) moorhen (+plural)
+16705) swamphen (+plural)
+16706) dive-bomb (+s +ing +ed +er +ers)
+16707) divaricate (+s +ing +ed +ion)
+16708) divalency
+16709) bivalency (Collins)
+16710) chlorinator (+plural)
+16711) wastewater
+16712) unstratified (Collins)
+16713) redactional
+16714) autotropism
+16715) autotrophically
+16716) autotransfuse (+s +ing +ed +ion)
 =============
-British English Dictionary (Forked) 2.46
+British English Dictionary (Forked) 2.47
 by Marco A.G.Pinto
