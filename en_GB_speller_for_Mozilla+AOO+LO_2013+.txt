@@ -20085,6 +20085,44 @@ V2.47 (ongoing)
 16714) autotropism
 16715) autotrophically
 16716) autotransfuse (+s +ing +ed +ion)
+
+8-MAR-2017
+16717) GSoC (Google Summer of Code - Wikipedia)
+16718) unmark (+s +ing +ed - Wiktionary)
+16719) gentoo (+plural)
+16720) Havisham (+'s - name - Wikipedia)
+16721) gentleman-at-arms
+16722) gentrifier (+plural)
+16723) genu
+16724) genua (plural of previous word)
+16725) interregna (another plural of interregnum)
+16726) Africanity
+16727) Africanness
+16728) Africanoid
+16729) Africanthropus
+16730) Africo-American
+16731) outdance (+s +ing +ed)
+16732) outdare (+s +ing +ed)
+16733) outdazzle (+s +ing +ed)
+16734) outdoer
+16735) Mitford (+'s - name - Wikipedia)
+16736) bedjackets (added plural)
+16737) interlaminate (+s +ing +ed - Collins)
+16738) ferromagnesian
+16739) ferromagnetically
+16740) ferrometer
+16741) ferrohydrodynamic (+plural)
+16742) ferrofluid (+plural)
+16743) ferroelectrically
+16744) ferrocyanide
+16745) uncompromisingness
+16746) uncompromised (Wiktionary)
+16747) uncomprehension
+16748) uncomplexed
+16749) uncircumscribed (Collins)
+16750) Farkas (+'s - name - Wikipedia)
+16751) Diophantine (+'s - name - Wikipedia + Google)
+16752) Besicovitch (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.47
 by Marco A.G.Pinto
