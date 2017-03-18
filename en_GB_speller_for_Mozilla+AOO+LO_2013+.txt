@@ -20153,6 +20153,78 @@ V2.47 (ongoing)
 16778) ventriloquial
 16779) ventriloquize (+s +ing +ed -IZE)
 16780) ventriloquise (+s +ing +ed -ISE)
+
+15-MAR-2017
+16781) timeses + timesing + timesed (verb)
+16782) timerity
+16783) temerous (+ly - Collins)
+16784) timenoguy
+16785) exponible
+16786) indiscernibility
+16787) indiscernibly
+16788) greenstuff
+16789) felsic
+16790) craton (+plural +ic)
+16791) intraplate (Collins)
+16792) chalybeate
+16793) suboxide (+plural)
+16794) terpolymer (+plural)
+16795) disubstituted
+16796) phototoxic
+16797) leukaemic
+16798) torulosis
+16799) chikungunya
+16800) sporulate (+s +ing +ed +ion)
+16801) exosporium (Collins)
+16802) exosporia (plural of previous word - Collins)
+16803) clostridium
+16804) clostridia (plural of previous word)
+16805) clostridial
+16806) bleomycin
+16807) dapsone
+16808) rifampicin + rifampin
+16809) multibacillary
+16810) paucibacillary
+16811) sulphone (+plural)
+16812) sulphapyridine + sulfapyridine
+16813) sulphasalazine + sulfasalazine
+16814) Crohn (+'s - name - Wikipedia)
+16815) akathisia
+
+18-MAR-2017
+16816) Pythagoreanism
+16817) Pythagoric
+16818) Pythagorical
+16819) pythagorically
+16820) Pythagorician
+16821) logicist (+plural)
+16822) enthymeme (+plural)
+16823) Brouwer (+'s - name - Wikipedia)
+16824) Aristotelianism (Collins)
+16825) neo-Aristotelianism
+16826) Aurelian (+'s - name - Wikipedia)
+16827) Octavian (+'s - name - Wikipedia)
+16828) orientationally
+16829) orientator
+16830) dichroic
+16831) dichroism
+16832) tropomyosin
+16833) troponin
+16834) tropophilous
+16835) tropopause
+16836) tropophyte
+16837) hypothetico-deductive
+16838) hypotheticals (added plural)
+16839) determinist (+plural)
+16840) inherence
+16841) advocateship
+16842) advocation
+16843) Feynman (+'s - name - Wikipedia)
+16844) Wigner (+'s - name - Wikipedia)
+16845) homeomorphism
+16846) homeomorphic
+16847) homeodomain + homoeodomain
+16848) homeness
 =============
 British English Dictionary (Forked) 2.47
 by Marco A.G.Pinto
