@@ -20233,6 +20233,75 @@ V2.47 (ongoing)
 16854) athetotic
 16855) choreiform (Collins)
 16856) aldosteronism
+
+19-MAR-2017
+16857) injunct (+s +ing +ed)
+16858) superinjunction
+16859) Ferranti (+'s - name - Wikipedia)
+16860) octonion + octonian
+16861) Goldbach (+'s - name - Wikipedia)
+16862) metrizability + metrisability
+16863) discretization
+16864) Chern (+'s - name - Wikipedia)
+16865) Thales (+'s - name - Wikipedia)
+16866) Epicureanism
+16867) Spinoza (+'s - name - Wikipedia)
+16868) Kierkegaard (+'s - name - Wikipedia)
+16869) soteriology
+16870) soteriological
+16871) samsara
+16872) samsaric
+16873) moksha
+16874) ahimsa
+16875) Daoism
+16876) Confucianists (added plural)
+16877) Whiteley (+'s - name - Wikipedia)
+16878) episteme
+16879) Frankfurt's (added 's - name - Wikipedia)
+16880) messianism
+16881) interoceanic
+16882) aldermanic
+16883) aldermanship
+16884) aldermancy
+
+21-MAR-2017
+16885) bork (+s +ing +ed - Collins)
+16886) aluminide
+16887) aidos
+16888) AIDS-related
+16889) Parthian (+plural)
+16890) Parthia (+'s - name - Wikipedia)
+16891) Antony (+'s - name - Wikipedia)
+16892) Crassus (+'s - name - Wikipedia)
+16893) Phrygian (+plural)
+16894) Phrygia (+'s - name - Wikipedia)
+16895) phryganeid + phryganid
+16896) phronetal
+16897) phrenotropic
+16898) phronesis
+16899) Skelton (+'s - name - Wikipedia)
+16900) phrenosplenic
+16901) phrenopathy
+16902) psychographer
+16903) psychobiographer
+16904) psychobiography (+plural)
+16905) psychobiological
+16906) psychobiologist
+16907) maiolica
+16908) chiminea (Collins)
+16909) earthboard
+16910) earth-year
+16911) divulgement
+16912) promycelium
+16913) sporidium (Collins)
+16914) sporidia (plural of previous word - Collins)
+16915) promptuary (+plural)
+16916) promptress
+16917) promptive
+16918) Macready (+'s - name - Wikipedia)
+16919) swimfeeder (+plural)
+16920) fibroin
+16921) subsample (+s +ing +ed)
 =============
 British English Dictionary (Forked) 2.47
 by Marco A.G.Pinto
