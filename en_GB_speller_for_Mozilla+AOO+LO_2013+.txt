@@ -20051,7 +20051,7 @@ V2.46
 16984) inflammatorily (Collins)
 
 
-V2.47 (ongoing)
+V2.47
 6-MAR-2017
 16985) voila
 16986) Jacqueline's (added 's - name - Wikipedia)
@@ -20302,6 +20302,57 @@ V2.47 (ongoing)
 16919) swimfeeder (+plural)
 16920) fibroin
 16921) subsample (+s +ing +ed)
+
+26-MAR-2017
+16922) subsalt
+16923) subrotundate
+16924) subrotund
+16925) subround
+16926) subrogate (+s +ing +ed)
+16927) subrident
+16928) subreptitiously
+16929) subreptitious
+16930) subreption
+16931) obreption (Collins)
+16932) escheat (+s +ing +ed)
+16933) actionability
+16934) actionably
+16935) actioner (+plural)
+16936) reshoot (+s +ing + reshot)
+16937) piscivorous
+16938) piscivore (+plural)
+16939) biomagnify (+s +ing +ed +ion)
+16940) biomagnetic
+16941) exaptation (+plural)
+16942) exanimate
+16943) exarch (+plural)
+16944) archidiaconal
+16945) acta
+16946) actant (+plural)
+16947) metafunction (+plural)
+16948) metafunctional
+
+28-MAR-2017
+16949) extraposition
+16950) constellate (+s +ing +ed)
+16951) gatekeeping
+16952) gatefold (+plural)
+16953) descendibility
+16954) descendible
+16955) descendeur (+plural)
+16956) empennage
+16957) aeroembolism
+16958) aeroelastics (added plural)
+16959) aeroelastician
+16960) aerodromic (+plural)
+16961) aerocycle
+16962) aerocar
+16963) aerocurve
+16964) aerobus
+16965) aerobot
+16966) aerobiosis
+16967) aerobiotic
+16968) geostrategical
 =============
 British English Dictionary (Forked) 2.47
 by Marco A.G.Pinto
