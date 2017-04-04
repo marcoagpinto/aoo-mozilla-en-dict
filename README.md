@@ -13,7 +13,7 @@ In some cases we will have to start from a long-time gone position, which is the
 
 Modifying, updating and maintaining a dictionary is a hard task but an important one for current and future generations.
 
-The initial idea was that other projects could also use this GitHub entry and take the .AFF and .DIC files and use them in projects which use proofing -or spellchecking- functionalities.
+The initial idea was that other projects could also use this GitHub entry and take the .AFF and .DIC files and use them in projects which use proofing — or spellchecking — functionalities.
 
 
 I (Marco Pinto) am only improving the en_GB. The en_AU, en_US and en_CA are maintained by Kevin Atkinson.
