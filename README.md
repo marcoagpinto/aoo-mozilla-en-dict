@@ -36,11 +36,11 @@ http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
   
   
 #### Licences for the wordlists:
-* en_AU (Kevin Atkinson) - BSD/MIT-Like;
-* en_CA (Kevin Atkinson) - BSD/MIT-Like;
-* en_GB (Marco A.G.Pinto) - LGPL;
-* en_US (Kevin Atkinson) - BSD/MIT-Like;
-* en_ZA (Dwayne Bailey) - LGPL. 
+* en_AU (Kevin Atkinson) — BSD/MIT-Like;
+* en_CA (Kevin Atkinson) — BSD/MIT-Like;
+* en_GB (Marco A.G.Pinto) — LGPL;
+* en_US (Kevin Atkinson) — BSD/MIT-Like;
+* en_ZA (Dwayne Bailey) — LGPL. 
   
 
 #### Suggesting words:
@@ -48,3 +48,8 @@ http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
 (First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there, check <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> at the top of this page).  
 If <B>NOT</B> found:
 * Open a case or e-mail Marco Pinto ( <B>marcoagpinto AT mail.telepac.pt</B> ) with the suggested words.
+  
+
+#### Projects using GB/Proofing Tool GUI:
+
+If you know of any projects that use them, please let me know and I will list them in the official page.
