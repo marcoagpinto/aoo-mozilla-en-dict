@@ -20353,6 +20353,59 @@ V2.47
 16966) aerobiosis
 16967) aerobiotic
 16968) geostrategical
+
+
+V2.48 (ongoing)
+4-APR-2017
+16969) Nikola (+'s - name - Wikipedia)
+16970) bladeless (Collins)
+16971) Austro-Hungarian
+16972) Hertzian (Hertzian wave)
+16973) Marconi's (added +'s - name - Wikipedia)
+16974) inductivity (Collins)
+16975) indue (+s +ing +ed - another way of endue)
+16976) endplay (+s +ing +ed)
+16977) creakingly
+16978) bodyguarding
+16979) tiptronic + Tiptronic
+16980) dollarization (-IZE)
+16981) dollarisation (-ISE)
+16982) annuitize (+s +ing +ed -IZE)
+16983) annuitise (+s +ing +ed -ISE)
+16984) Judah's (added +'s - name - Wikipedia)
+16985) Assyriological
+16986) Assyriologist (+plural)
+16987) coccyxes (another plural of coccyx)
+16988) coccygeal
+16989) endonuclease (+plural)
+16990) endoparasite (+plural +ic)
+
+8-APR-2017
+16991) epimedium (+plural)
+16992) epilithic
+16993) Bryophyta
+16994) gametophytes (added plural)
+16995) apheresis
+16996) aphereses (plural of previous word)
+16997) approximant (+plural)
+16998) standardly
+16999) candela (added singular)
+17000) steradian (added singular)
+17001) siemens (lowercase)
+17002) weber (lowercase)
+17003) tesla (lowercase)
+17004) becquerel (+plural)
+17005) sievert (+plural)
+17006) Charles’s (added +'s - name - Wikipedia)
+17007) eponymic (Collins)
+17008) Angelman (+'s - name - Wikipedia)
+17009) Borna (+'s - name - Wikipedia)
+17010) Leclanché (+'s - name - Wikipedia)
+17011) Caro (+'s - name - Wikipedia)
+17012) Bartholin (+'s - name - Wikipedia)
+17013) Wernicke (+'s - name - Wikipedia)
+17014) Casparian (Casparian strip - Collins)
+17015) Rous (+'s - name - Wikipedia)
 =============
-British English Dictionary (Forked) 2.47
+British English Dictionary (Forked) 2.48
 by Marco A.G.Pinto
