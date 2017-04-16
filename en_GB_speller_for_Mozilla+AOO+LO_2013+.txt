@@ -20406,6 +20406,59 @@ V2.48 (ongoing)
 17013) Wernicke (+'s - name - Wikipedia)
 17014) Casparian (Casparian strip - Collins)
 17015) Rous (+'s - name - Wikipedia)
+
+9-APR-2017
+17016) Steinmeier (+'s - name - Wikipedia)
+17017) Merkel (+'s - name - Wikipedia)
+17018) Schröder (+'s - name - Wikipedia)
+17019) Abkhazia (+'s - name - Wikipedia)
+17020) António (+'s - name - Wikipedia)
+17021) Guterres (+'s - name - Wikipedia)
+17022) Fabius (+'s - name - Wikipedia)
+17023) Tsipras (+'s - name - Wikipedia)
+17024) Guantanamo (+'s - name - Wikipedia)
+17025) guanosine
+17026) cytidine
+17027) pseudouridine
+17028) uridine
+17029) inosine
+17030) ribose
+17031) ribophorin
+17032) ribonucleoside
+17033) ribonucleotide
+17034) ribonucleoprotein
+17035) ribonuclease
+17036) denaturant (+plural)
+
+11-APR-2017
+17037) Added missing Roman numbers between 1-30
+
+16-APR-2017
+17038) dictums (another plural of dictum)
+17039) chaperonin (+plural)
+17040) somatostatin
+17041) neurotensin
+17042) inhibin
+17043) somatotrophin
+17044) cholecystokinin
+17045) gastrin
+17046) secretin
+17047) corticosterone
+17048) apogean
+17049) apodosis
+17050) apodoses (plural of previous word)
+17051) apodictic + apodeictic
+17052) improvership
+17053) improvidential
+17054) denazification
+17055) inexistent
+17056) obscurant (+ic - Collins)
+17057) obsceneness
+17058) planarian (+plural)
+17059) cestode (+plural)
+17060) Planaria
+17061) nazir
+17062) Naziphile + Naziphil
 =============
 British English Dictionary (Forked) 2.48
 by Marco A.G.Pinto
