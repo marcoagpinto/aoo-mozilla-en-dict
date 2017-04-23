@@ -20485,6 +20485,54 @@ V2.48 (ongoing)
 17084) strabismic
 17085) stracciatella
 17086) beefeaters (added plural)
+
+22-APR-2017
+17087) storeman (+'s)
+17088) storemen (plural of previous word)
+17089) drydown
+17090) pneumoconiosis
+17091) pneumoconiotic + pneumokoniotic
+17092) herpetological
+17093) herptile (+plural)
+17094) entomophagy
+17095) entomophagist (+plural)
+17096) entomophagous
+17097) cytosome
+17098) anagenesis
+17099) anagenetic
+17100) bioerosion
+17101) biofacies
+17102) biofiltration
+17103) biofilter
+17104) resveratrol
+17105) pycnogenol
+17106) phytonutrient (+plural)
+17107) phytomonad
+17108) phytoflagellate (+plural)
+
+23-APR-2017
+17109) mindshare
+17110) mindware
+17111) mindstyle
+17112) coneflowers (added plural)
+17113) banksia (+plural)
+17114) grevillea (+plural)
+17115) gingerroot (Collins)
+17116) helichrysum
+17117) boxthorn
+17118) frogbit (+plural)
+17119) cattail (+plural)
+17120) bunchflower
+17121) regolith
+17122) geophone
+17123) geophilic
+17124) geophilous + geophyllous
+17125) biostatisticians (added plural)
+17126) atavistically
+17127) biomechanism
+17128) biomechatronics
+17129) biomechanists (added plural)
+17130) biochore
 =============
 British English Dictionary (Forked) 2.48
 by Marco A.G.Pinto
