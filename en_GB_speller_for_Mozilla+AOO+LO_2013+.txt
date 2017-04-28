@@ -20355,7 +20355,7 @@ V2.47
 16968) geostrategical
 
 
-V2.48 (ongoing)
+V2.48
 4-APR-2017
 16969) Nikola (+'s - name - Wikipedia)
 16970) bladeless (Collins)
@@ -20533,6 +20533,31 @@ V2.48 (ongoing)
 17128) biomechatronics
 17129) biomechanists (added plural)
 17130) biochore
+
+26-APR-2017
+17131) Broxburn (+'s - name - Wikipedia)
+17132) Pumpherston (+'s - name - Wikipedia)
+17133) McCampbell (+'s - name - Wikipedia)
+17134) Adm. (abbreviation: Admiral)
+17135) admaxillary
+17136) submaxillary (submaxillary gland)
+17137) submedian
+17138) submedial
+17139) submembranaceous
+17140) submembranous
+17141) submental
+17142) submenu (+plural)
+17143) subform (+plural)
+17144) subformation
+17145) subfossil (+plural)
+17146) subforum
+17147) subfraction
+17148) subfractionation
+17149) subfrigid
+17150) subfunction
+17151) discectomy
+17152) neurodevelopmental
+17153) extrachromosomally
 =============
 British English Dictionary (Forked) 2.48
 by Marco A.G.Pinto
