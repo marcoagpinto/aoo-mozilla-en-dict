@@ -20558,6 +20558,56 @@ V2.48
 17151) discectomy
 17152) neurodevelopmental
 17153) extrachromosomally
+
+
+V2.49 (ongoing)
+4-MAY-2017
+17154) trough (added: +ing +ed +er +ers +er's)
+17155) troubleshot
+17156) eta (lowercase)
+17157) Eta (Astronomy)
+17158) evangelization (-IZE)
+17159) evangelisation (-ISE)
+17160) evangelizer (+plural -IZE)
+17161) evangeliser (+plural -ISE)
+17162) expertize (+s +ing +ed -IZE)
+17163) expertising + expertised (merged into expertise - ISE)
+17164) extinguishment
+17165) facia (+plural)
+17166) fascial
+17167) glovebox (+plural)
+17168) soffit (+plural)
+17169) fete (+s +ing +ed)
+17170) fosterage
+17171) fosterers (added plural)
+
+6-MAY-2017
+17172) flunkeys (added plural)
+17173) flunkeyism
+17174) fluoboric
+17175) fluoborate
+17176) fluocerite
+17177) fluohydric (fluohydric acid)
+17178) forebrain (+plural)
+17179) retroperitoneal
+17180) endocardium
+17181) epicardium
+17182) epicardial
+17183) epicardiac
+17184) forgiveable (fix: removed)
+17185) forgivable
+17186) formulary (+plural)
+17187) frangipani (+plural)
+17188) styrofoam (fix: Oxford says this trademark is lowercase)
+17189) fretless
+17190) fretboards (added plural)
+17191) fug
+17192) fuelwood
+17193) coolhouse
+17194) gaijin
+17195) gastrectomy (+plural)
+17196) gearstick
+17197) driveline (+plural)
 =============
-British English Dictionary (Forked) 2.48
+British English Dictionary (Forked) 2.49
 by Marco A.G.Pinto
