@@ -20608,6 +20608,57 @@ V2.49 (ongoing)
 17195) gastrectomy (+plural)
 17196) gearstick
 17197) driveline (+plural)
+
+10-MAY-2017
+17198) wackily + wackiness (merged into wacky)
+17199) whacky (+ier +iest +ily +ness)
+17200) whacko's (added the 's)
+17201) wacko (+plural +'s - Collins)
+17202) wackoes (another plural)
+17203) crapper (vulgar slang)
+17204) Ashcroft (+'s - name - Wikipedia)
+17205) Brigitte (+'s - name - Wikipedia)
+17206) Amiens (+'s - name - Wikipedia)
+17207) DST (abbreviation: Daylight saving time)
+17208) Becquet (+'s - name - Wikipedia)
+17209) TGV
+17210) Bernaville (name - Wikipedia)
+17211) Abbeville (+'s - name - Wikipedia)
+17212) diesel-hydraulic (+plural)
+17213) diestock (+plural)
+17214) meanish
+17215) Quincey (+'s - name - Wikipedia)
+17216) meaningly
+17217) meanderingly
+17218) meanderer
+17219) Meandrina
+17220) meandrine + maeandrine
+17221) spinachy
+17222) anisogamy
+17223) anisogamous
+17224) plurilocular
+17225) isogamy
+17226) isogamete (+plural)
+17227) isogamous
+17228) isogeotherm
+17229) isogeothermal
+17230) isogloss (+plural)
+17231) Padé (name - Wikipedia)
+17232) adjoint (+plural)
+17233) adjournal
+17234) justiciary (+plural)
+17235) countercurrently
+17236) promilitary (Collins)
+17237) Liffey (+'s - name - Wikipedia)
+17238) countermarch (+s +ing +ed)
+17239) carillonneur (+plural)
+17240) ratite (+plural)
+17241) squamate (+plural)
+17242) crocodilian (+plural)
+17243) caiman (+plural)
+17244) gharial (+plural)
+17245) fenestra
+17246) fenestrae (plural of previous word)
 =============
 British English Dictionary (Forked) 2.49
 by Marco A.G.Pinto
