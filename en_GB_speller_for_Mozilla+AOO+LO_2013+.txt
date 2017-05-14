@@ -20659,6 +20659,64 @@ V2.49 (ongoing)
 17244) gharial (+plural)
 17245) fenestra
 17246) fenestrae (plural of previous word)
+
+14-MAY-2017
+17247) pre-order (+ing +ed were missing)
+17248) lunations (added plural)
+17249) lunates (added plural)
+17250) microlith (+s +ic)
+17251) globefish (+plural)
+17252) pufferfish (+plural)
+17253) balloonfish (+plural)
+17254) balloonful
+17255) birthdate (+plural)
+17256) seroconvert (+s +ing +ed)
+17257) seroconversion (+plural)
+17258) post-exposure
+17259) blood-borne
+17260) thalassaemia
+17261) thalassotherapy
+17262) thalassic
+17263) thalamic
+17264) antero-septal
+17265) antero-posteriorly
+17266) antero-parietal
+17267) antero-frontal
+17268) anteriorness
+17269) anteriormost
+17270) anteversion
+17271) retrovert (+s +ing +ed)
+17272) retroversion
+17273) non-dominant
+17274) introversive
+17275) introvertive
+17276) extraverts (added plural)
+17277) iconoclastically
+17278) pseudomorphosis
+17279) pseudomorphously
+17280) pseudomorphically
+17281) pseudomonocotyledonous
+17282) pseudomonas
+17283) turfgrass (Collins)
+17284) biomacromolecule
+17285) biolytic
+17286) enzymic
+17287) cytokinin (+plural)
+17288) ribozyme (+plural)
+17289) ribostamycin
+17290) nucleohistone
+17291) nucleogenetic
+17292) nucleogenesis
+17293) nucleosynthesis
+17294) nucleosynthetic
+17295) interconvert (+s +ing +ed)
+17296) interconvertible
+17297) turbos (added plural)
+17298) turbinates (added plural)
+17299) turbinal (+plural)
+17300) forecabin (+plural)
+17301) forecheck (+s +ing +ed +er +ers)
+17302) counterparty's (added the 's)
 =============
 British English Dictionary (Forked) 2.49
 by Marco A.G.Pinto
