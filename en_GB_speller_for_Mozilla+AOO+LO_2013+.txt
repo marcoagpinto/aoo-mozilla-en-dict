@@ -20717,6 +20717,43 @@ V2.49 (ongoing)
 17300) forecabin (+plural)
 17301) forecheck (+s +ing +ed +er +ers)
 17302) counterparty's (added the 's)
+17303) disjuncture (+plural)
+17304) Catlin (+'s - name - Wikipedia)
+17305) excusal (+plural)
+17306) cineaste + cineast (+plural of both)
+17307) palaeogravity
+17308) palaeoherpetology
+17309) palaeohydrology
+17310) palaeoichnology
+17311) Jacob's (added 's - name - Wikipedia)
+17312) Cafferty (+'s - name - Wikipedia)
+17313) excusatory
+17314) exeat (+plural)
+17315) stylee
+17316) dosh
+17317) dosha (+plural)
+17318) panchakarma
+17319) prakriti
+17320) bhakti
+17321) sadhana (Collins)
+17322) jnana (jnana yoga - Collins)
+17323) Saiva (Collins)
+17324) Saivism (Collins)
+17325) Saivite (+plural - Collins)
+17326) Rama (+'s - name - Wikipedia)
+17327) afterview
+17328) Jedburgh (+'s - name - Wikipedia)
+17329) omnifarious
+17330) omniferous
+17331) omnificence
+17332) omnificent
+17333) omnific
+17334) omniform
+17335) omnifocal
+17336) omnigenous
+17337) omnilateral
+17338) omnilaterally
+17339) omnilingual
 =============
 British English Dictionary (Forked) 2.49
 by Marco A.G.Pinto
