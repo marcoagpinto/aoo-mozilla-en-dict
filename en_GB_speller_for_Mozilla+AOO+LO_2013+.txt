@@ -20754,6 +20754,36 @@ V2.49 (ongoing)
 17337) omnilateral
 17338) omnilaterally
 17339) omnilingual
+
+16-MAY-2017
+17340) goby (+plural)
+17341) gobstopper (+plural)
+17342) gobsmacked
+17343) gobsmacking
+17344) Borland (+'s - name - Wikipedia)
+17345) cinquecento
+17346) cinquecentist
+17347) goslings (added plural)
+17348) grandad (+plural)
+17349) grandbabe
+17350) grandbaby (+plural)
+17351) Cerney (+'s - name - Wikipedia)
+17352) gung-ho
+17353) gunge (+s +ing +ed)
+17354) gungy (+ier +iest)
+17355) gunite
+17356) shotcrete
+17357) Cowen (+'s - name - Wikipedia)
+17358) handbell (+plural)
+17359) handbasket
+17360) handbasins (added plural)
+17361) handbaggy
+17362) handovers (added plural)
+17363) hatful
+17364) codology
+17365) supraspecific
+17366) headhunts + headhunted (merged into headhunt)
+17367) ethnobiology
 =============
 British English Dictionary (Forked) 2.49
 by Marco A.G.Pinto
