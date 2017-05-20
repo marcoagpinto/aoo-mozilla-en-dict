@@ -20784,6 +20784,58 @@ V2.49 (ongoing)
 17365) supraspecific
 17366) headhunts + headhunted (merged into headhunt)
 17367) ethnobiology
+
+18-MAY-2017
+17368) liberalist (+plural)
+17369) liberalistic
+17370) Gladstonian (+plural)
+17371) glaikit
+17372) animalistic
+17373) animalist (+plural)
+17374) animally
+17375) animalish
+17376) animalistically
+17377) animaliculture
+17378) deal's (added 's)
+17379) mergee
+17380) mergence
+17381) crake (+plural)
+17382) dabchick (+plural)
+17383) garganey (+plural)
+17384) garget
+17385) mastitis
+17386) erythematic
+17387) nasolabial
+17388) keratosis
+17389) keratoses (plural of previous word)
+17390) keratotomy
+17391) conservativism
+
+20-MAY-2017
+17392) multiexposure
+17393) multielectron
+17394) multidisciplined
+17395) multienzyme
+17396) heterologous
+17397) heterology (+plural)
+17398) periglandular
+17399) periglacially
+17400) perigenital
+17401) ergosphere
+17402) provitamin
+17403) provisorium
+17404) provisor
+17405) archicerebellum
+17406) archicortical
+17407) hillman
+17408) hillmen (plural of previous word)
+17409) hillocky
+17410) hillstar (+plural)
+17411) concertgoer (+plural)
+17412) durchkomponiert
+17413) dodecaphonic
+17414) cabaletta (+plural)
+17415) cabalette (another plural of the previous word)
 =============
 British English Dictionary (Forked) 2.49
 by Marco A.G.Pinto
