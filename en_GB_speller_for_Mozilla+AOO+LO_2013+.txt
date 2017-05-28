@@ -20560,7 +20560,7 @@ V2.48
 17153) extrachromosomally
 
 
-V2.49 (ongoing)
+V2.49
 4-MAY-2017
 17154) trough (added: +ing +ed +er +ers +er's)
 17155) troubleshot
