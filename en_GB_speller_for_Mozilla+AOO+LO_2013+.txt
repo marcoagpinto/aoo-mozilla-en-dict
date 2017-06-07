@@ -20910,6 +20910,95 @@ V2.49
 17483) Everton's (added 's - name - Wikipedia)
 17484) premieral
 17485) premieress
+
+
+V2.50 (ongoing)
+2-JUN-2017
+17486) Davidson's (added 's - name - Wikipedia)
+17487) Crisium (name - Wikipedia)
+17488) Gairy (+'s - name - Wikipedia)
+17489) Allingham (+'s - name - Wikipedia)
+17490) Centauri (Alpha Centauri)
+17491) Mahabharata
+17492) Zac (+'s - name - Wikipedia)
+17493) Gessner (+'s - name - Wikipedia)
+17494) Ladd (+'s - name - Wikipedia)
+17495) Koresh (+'s - name - Wikipedia)
+17496) Giza (+'s - name - Wikipedia)
+17497) opinioned
+17498) parasynthesis
+17499) parasynthetic
+17500) parasynthetically
+17501) parasynaptic
+17502) parasyntheton
+17503) parasyphilitic
+17504) paratactical
+17505) parataxic
+17506) paratectonic
+17507) parageosyncline
+17508) epeirogeny
+17509) epeirogenesis
+17510) epeirogenic
+17511) orthotectonic
+17512) magmatism
+17513) orthogeosyncline
+17514) miogeosyncline
+17515) eugeosyncline (Collins)
+
+6-JUN-2017
+17516) inarticulateness
+17517) Isocrates (+'s - name - Wikipedia)
+17518) isoclines (added plural)
+17519) isoclinic
+17520) isoclinal
+17521) mylonite (+plural)
+17522) mylohyoideus
+17523) mylodont
+17524) myliobatid
+17525) incorrectness
+17526) incorporeality
+17527) incorporeity (+plural)
+17528) incorporative
+17529) Lewanika (+'s - name - Wikipedia)
+17530) incuriosity
+17531) incuriously
+17532) incuriousness
+17533) Pynchon (+'s - name - Wikipedia)
+17534) incurability
+17535) Crampsey (+'s - name - Wikipedia)
+17536) incurrent
+17537) pectinirhomb
+17538) excurrent
+17539) subdermal
+17540) rhomb (+plural)
+17541) rhombiferan
+17542) ambulacrum
+17543) ambulacra (plural of previous word)
+17544) ambulacral (+plural)
+17545) Ambrosian
+17546) diffractive
+17547) diffractively
+17548) wavefront (+plural)
+17549) ultrashort
+17550) Smolensky (+'s - name - Wikipedia)
+17551) chemopreventive
+17552) geometrid (+plural)
+17553) morphospecies
+17554) noctuid (+plural)
+17555) pyralid (+plural)
+17556) melanism
+17557) melanic
+17558) indeclinable
+17559) Slepian (+'s - name - Wikipedia)
+17560) indecorum
+17561) ineradicably
+17562) inequivalve
+17563) riblet
+17564) ribohomopolymer
+17565) deoxyribonuclease
+17566) fibrinolysin (Collins)
+17567) haemolysin (Collins)
+17568) leucocidin (Collins)
 =============
-British English Dictionary (Forked) 2.49
+British English Dictionary (Forked) 2.50
 by Marco A.G.Pinto
