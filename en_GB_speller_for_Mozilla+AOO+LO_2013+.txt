@@ -20999,6 +20999,77 @@ V2.50 (ongoing)
 17566) fibrinolysin (Collins)
 17567) haemolysin (Collins)
 17568) leucocidin (Collins)
+
+8-JUN-2017
+17569) alimentation
+17570) prokinetic
+17571) enteral (+ly)
+17572) hyperalimentation
+17573) tonometry (+ic - Collins)
+17574) prealbumin
+17575) preadvise (+s +ing +ed)
+17576) vampish
+17577) vampishly
+17578) vampishness
+17579) vampy (+ier +iest)
+17580) LanguageTool's (added the 's)
+17581) babouche (+plural)
+17582) ansatz
+17583) ansation
+17584) quantal (+ly)
+17585) cryohydrate
+17586) amyloid
+17587) amyloidosis
+17588) periostitis
+17589) clindamycin (Collins)
+17590) hoc (ad hoc)
+17591) nauseam (ad nauseam)
+17592) ab + initio (ab initio)
+17593) antineutrino (+plural - Collins)
+17594) antiproton (+plural)
+17595) antineutron (+plural)
+17596) antielectron (Collins)
+
+9-JUN-2017
+17597) positivize (+s +ing +ed)
+17598) cytokeratin
+17599) mucin
+17600) chemosurgery
+17601) chemostat (+plural)
+17602) chemosphere
+17603) chemosensitivity
+17604) chemosensitive
+17605) chemoreceptive
+17606) chemoreflex
+17607) chemoselective
+17608) bisectional (+ly - Collins)
+17609) borescope (+plural)
+17610) cockatiel (+plural +'s)
+17611) cockalorum (+plural)
+17612) devilfish (+plural)
+17613) tanginess
+17614) zings (merged into zing)
+17615) zingy (+ier +iest)
+17616) Fitzpatrick's (added 's - name - Wikipedia)
+17617) varietals (added plural + ly)
+17618) Syrah (+plural +'s)
+17619) breadthways + breadthwise
+17620) crostini
+17621) croqueta (+plural)
+
+10-JUN-2017
+17622) munchie (+plural)
+17623) call-out (+plural)
+17624) adenopathy
+17625) sonoluminescent
+17626) sonoluminescence
+17627) inputted (+er +ers - merged into input)
+17628) inpouring
+17629) inotropy
+17630) inositol
+17631) salinization (-IZE)
+17632) salinisation (-ISE)
+17633) salinate (+s +ing +ed)
 =============
 British English Dictionary (Forked) 2.50
 by Marco A.G.Pinto
