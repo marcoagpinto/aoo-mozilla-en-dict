@@ -21070,6 +21070,65 @@ V2.50 (ongoing)
 17631) salinization (-IZE)
 17632) salinisation (-ISE)
 17633) salinate (+s +ing +ed)
+
+13-JUN-2017
+17634) Cherkasy (+'s - name - Wikipedia)
+17635) Chernihiv (+'s - name - Wikipedia)
+17636) Chernivtsi (+'s - name - Wikipedia)
+17637) collets (added plural)
+17638) hessonite (Collins)
+17639) collenchyma
+17640) sclerenchyma
+17641) lignify (+s +ing +ed +ion)
+17642) carpophore (+plural)
+17643) collider (+plural +'s)
+17644) Okinawan
+17645) dangly
+17646) carabineer + carabinier (+plural of both)
+17647) Accrington (+'s - name - Wikipedia)
+17648) combusts + combusting (merged into combust)
+17649) combustors (added plural)
+17650) combuster
+17651) physiographer
+17652) physiographic
+17653) physiographical
+17654) physiographically
+17655) compensators (added plural)
+17656) uncooled (Collins)
+17657) counterstroke (+plural)
+17658) Abercromby (+'s - name - Wikipedia)
+
+15-JUN-2017
+17659) deliverability
+17660) diagonalization (Collins)
+17661) diluents (added plural)
+17662) albuterol (Collins)
+17663) antiasthmatic + antasthmatic
+17664) tenesmus
+17665) discretionally
+17666) discretionarily
+17667) confessionary
+17668) proportionable
+17669) proportionably
+17670) proportionability
+17671) Doxygen (software - Wikipedia)
+17672) droopily
+17673) extraocular (extraocular muscle)
+17674) extranuclear
+17675) Drupal (+'s - name - Wikipedia)
+17676) exoplanetary (Wiktionary)
+17677) gappy (+ier +iest)
+17678) glitchy (+ier +iest)
+17679) graphene
+17680) graphematic
+17681) haymaker (+plural +'s)
+17682) Casterbridge (name - Wikipedia)
+17683) haymaking
+17684) headwear
+17685) helicity
+17686) helicoid (+al)
+17687) helicons (added plural)
+17688) ashfall (Collins)
 =============
 British English Dictionary (Forked) 2.50
 by Marco A.G.Pinto
