@@ -7,7 +7,7 @@ For many years that people stopped maintaining dictionaries for open-source soft
 
 It would be great if we could continue their work and improve the already existing dictionaries or create new ones.
 
-The biggest issue is that most of these dictionaries are obfuscated (codified in a way that only certain software packages can have access to the wordlists) and the original developers are no longer available to provide the clean text ones.
+The biggest issue is that most of these dictionaries are obfuscated (codified in a way that only certain software packages can have access to the wordlists) and the original developers are long gone to provide the clean text ones.
 
 In some cases we will have to start from a long-time gone position, the last known clean text version of the dictionary.
 
