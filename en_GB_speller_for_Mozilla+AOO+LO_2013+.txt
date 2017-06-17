@@ -21129,6 +21129,42 @@ V2.50 (ongoing)
 17686) helicoid (+al)
 17687) helicons (added plural)
 17688) ashfall (Collins)
+
+17-JUN-2017
+17689) Staffell (+'s - name - Wikipedia)
+17690) labelmate (+plural)
+17691) Hilburn (+'s - name - Wikipedia)
+17692) Inglewood (+'s - name - Wikipedia)
+17693) Halen (+'s - name - Wikipedia)
+17694) Edney (+'s - name - Wikipedia)
+17695) Caballé (+'s - name - Wikipedia)
+17696) Kensal (name - Wikipedia)
+17697) Leppard (+'s - name - Wikipedia)
+17698) Luciano (+'s - name - Wikipedia)
+17699) Wyclef (+'s - name - Wikipedia)
+17700) Freddie's (added 's - name - Wikipedia)
+17701) superfrontal
+17702) superfusate
+17703) funkadelic
+17704) funkster (+plural)
+17705) Findlay (+'s - name - Wikipedia)
+17706) Monteith (+'s - name - Wikipedia)
+17707) soulster (+plural)
+17708) soulstress
+17709) soulship
+17710) soullessness
+17711) soulish
+17712) soulie
+17713) souler
+17714) soulace
+17715) hypergeometric (Collins)
+17716) geophagy
+17717) geophagist
+17718) geonomy (+ic)
+17719) geonavigation
+17720) palaeosol (+plural)
+17721) uniformitarian (+plural)
+17722) neocatastrophism
 =============
 British English Dictionary (Forked) 2.50
 by Marco A.G.Pinto
