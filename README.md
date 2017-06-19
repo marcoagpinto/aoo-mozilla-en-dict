@@ -23,7 +23,7 @@ and https://sourceforge.net/projects/wordlist/files/Hunspell
 . en_ZA is maintained by Dwayne Bailey:
 http://translate.org.za
 
-I will try to release a monthly update for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it so that people won't be notified to update the dictionary exactly after installing the latest AOO. This means that a release version is skipped for AOO and LO.
+I will try to release a monthly update for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it to avoid notifying people to update the dictionary after installing the latest AOO. This means that a release version is skipped for AOO and LO.
 
 Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a log of all the changes.
 
