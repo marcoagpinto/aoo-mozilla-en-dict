@@ -21165,6 +21165,47 @@ V2.50 (ongoing)
 17720) palaeosol (+plural)
 17721) uniformitarian (+plural)
 17722) neocatastrophism
+
+22-JUN-2017
+17723) igniters (added plural)
+17724) crimpage
+17725) criminous (+ness)
+17726) criminatory
+17727) criminate (+s +ing +ed - Collins)
+17728) iBook (+plural - Wiktionary)
+17729) indistinguishability
+17730) indistinctive
+17731) indistinctively
+17732) indistinctiveness
+17733) indissolubility
+17734) interlay (+s +ing +laid)
+17735) Javadoc (Wiktionary)
+17736) jQuery (Wiktionary)
+17737) Laplacian (Collins)
+17738) liftable
+17739) linctus
+17740) tickly (+ier +iest)
+17741) ticklishly
+17742) ticlopidine
+17743) clopidogrel
+17744) livelily
+17745) stonecrop
+17746) whipbird (+plural)
+17747) whipless
+17748) earlyish
+17749) Katelyn (+'s - name - Wikipedia)
+17750) Luhansk (+'s - name - Wikipedia)
+17751) Lutsk (+'s - name - Wikipedia)
+17752) Lviv (+'s - name - Wikipedia)
+17753) macaron (+plural)
+17754) Macarena
+17755) meddlesomely
+17756) meddlesomeness
+17757) meddlingly
+17758) mediacy
+17759) mediacracy + mediaocracy
+17760) mediacrat
+17761) mediad
 =============
 British English Dictionary (Forked) 2.50
 by Marco A.G.Pinto
