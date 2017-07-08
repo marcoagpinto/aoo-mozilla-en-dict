@@ -21229,6 +21229,71 @@ V2.50
 17780) microtherm
 17781) microthermal
 17782) microthermic
+
+
+V2.51 (ongoing)
+3-JUL-2017
+17783) foodbank (+plural +'s - Collins)
+17784) rictus
+17785) rictal
+17786) interramal (Collins)
+17787) Benedictus
+17788) Magnificat
+17789) magnetrons (added plural)
+17790) safranine + safranin
+17791) ultramicrotome
+17792) toluidine (toluidine blue)
+17793) phosphuretted
+17794) phosphyl
+17795) phosvitin
+17796) phosphoprotein (+plural)
+17797) multisite (fixed: multi-site)
+17798) multiskilled
+17799) multispecialist
+17800) multispecies
+17801) demilune (+plural)
+17802) Angleton (+'s - name - Wikipedia)
+17803) natation
+17804) natatorial
+17805) natatory
+17806) facepalm (+s +ing +ed)
+17807) Rawson (+'s - name - Wikipedia)
+17808) EULA (End User License Agreement)
+
+8-JUL-2017
+17809) communicableness
+17810) communer
+17811) communautaire
+17812) communard (+plural)
+17813) communar
+17814) Lucinda (+'s - name - Wikipedia)
+17815) unbothered
+17816) shouty
+17817) Tollerton (+'s - name - Wikipedia)
+17818) Brooke (+'s - name - Wikipedia)
+17819) Wigginton (+'s - name - Wikipedia)
+17820) Bucky (+'s - name - Wikipedia)
+17821) Ramon (+'s - name - Wikipedia)
+17822) Halbert (+'s - name - Wikipedia)
+17823) Roxburgh (+'s - name - Wikipedia)
+17824) Brenna (+'s - name - Wikipedia)
+17825) Hastert (+'s - name - Wikipedia)
+17826) Mattias (+'s - name - Wikipedia)
+17827) Hibbert (+'s - name - Wikipedia)
+17828) Soriano (+'s - name - Wikipedia)
+17829) Ramnath (+'s - name - Wikipedia)
+17830) wakey-wakey
+17831) Quijote (+'s - name - Wikipedia)
+17832) Sancho (+'s - name - Wikipedia)
+17833) Izumi (+'s - name - Wikipedia)
+17834) wakeboard (+ing +er +ers)
+17835) funboard (+plural)
+17836) funambulist (+plural)
+17837) funambulism
+17838) noctambulist (+plural)
+17839) noctambulism
+17840) noctambulistic
+17841) noctambulous
 =============
-British English Dictionary (Forked) 2.50
+British English Dictionary (Forked) 2.51
 by Marco A.G.Pinto
