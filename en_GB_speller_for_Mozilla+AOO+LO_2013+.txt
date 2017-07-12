@@ -21326,6 +21326,76 @@ V2.51 (ongoing)
 17869) monogenesis
 17870) monogenetic
 17871) polygenetic (+ally)
+
+12-JUL-2017
+17872) Newdigate (+'s - name - Wikipedia)
+17873) schizotype (+plural)
+17874) schizotypal
+17875) schizotypy
+17876) schizostylis
+17877) dissocial (Collins)
+17878) Cleckley (+'s - name - Wikipedia)
+17879) Hervey (+'s - name - Wikipedia)
+17880) repopularise (+s +ing +ed - Collins + Wiktionary)
+17881) chromatopsia
+17882) xanthopsia (Collins)
+17883) photopsia
+17884) antisociality (Collins)
+17885) psychoticism
+17886) Machiavellians (added plural)
+17887) Machiavellianism
+17888) tetrad (+plural)
+17889) microsporogenesis
+17890) parthenocarpically
+17891) parthenocarpy (+ic)
+17892) uncinate
+17893) fascicular
+17894) fascicule (+plural)
+17895) fasciculus
+17896) fasciculi (plural of previous word)
+17897) orbitofrontal (orbitofrontal cortex)
+17898) Farrington (+'s - name - Wikipedia)
+17899) spandrel (added singular)
+17900) striatum
+17901) striata (plural of previous word)
+17902) parahippocampal
+17903) serotoninergic (Collins)
+17904) McCord (+'s - name - Wikipedia)
+17905) subscales (added plural - Wiktionary)
+17906) Fritzon (+'s - name - Wikipedia)
+17907) Stedman (+'s - name - Wikipedia)
+17908) normlessness
+17909) Durkheim (+'s - name - Wikipedia)
+17910) reborrowing
+17911) Hegelians (added plural)
+17912) Kantians (added plural)
+17913) Verstehen
+17914) Simmel (+'s - name - Wikipedia)
+17915) prestructure (+s +ing +ed - Collins)
+17916) Talcott (+'s - name - Wikipedia)
+17917) Malthus (+'s - name - Wikipedia)
+17918) Wilbert (+'s - name - Wikipedia)
+17919) Holmwood (+'s - name - Wikipedia)
+17920) retreatism
+17921) Malinowskian
+17922) Malinowski (+'s - name - Wikipedia)
+17923) affinal
+17924) Richerson (+'s - name - Wikipedia)
+17925) structuration
+17926) ecofact
+17927) Cunnington (+'s - name - Wikipedia)
+17928) Hutton (+'s - name - Wikipedia)
+17929) prehistorical
+17930) misrepresentative
+17931) Binford (+'s - name - Wikipedia)
+17932) processual
+17933) Willey (+'s - name - Wikipedia)
+17934) detectorist (+plural)
+17935) ethnoarchaeology
+17936) ethnoarchaeological
+17937) ethnoarchaeologist (+plural)
+17938) archaeometry (+ic)
+17939) Kennewick (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.51
 by Marco A.G.Pinto
