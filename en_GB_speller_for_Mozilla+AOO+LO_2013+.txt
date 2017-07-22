@@ -21434,6 +21434,38 @@ V2.51 (ongoing)
 17973) operationalize (+s +ing +ed - IZE)
 17974) operationalise (+s +ing +ed - ISE)
 17975) Takagi (+'s - name - Wikipedia)
+
+22-JUL-2017
+17976) millennialist (+plural)
+17977) dispensationalism
+17978) dispensationalist (+plural)
+17979) optometrist (+plural)
+17980) sociometrically
+17981) sociometrist (+plural)
+17982) psychodramatist
+17983) psychodramatics
+17984) psychodiagnosis
+17985) psychocoma
+17986) psychochemistry
+17987) psychocentric
+17988) psychobiotic
+17989) psychobilly
+17990) psychobabbler
+17991) psychoacoustician
+17992) wattling + wattled (merged into wattle)
+17993) flagstoned
+17994) mortarless
+17995) mortalness
+17996) mortalize (+s +ing +ed -IZE)
+17997) mortalise (+s +ing +ed -ISE)
+17998) mortalist
+17999) mortalism
+18000) Minkowski (+'s - name - Wikipedia)
+18001) non-using
+18002) mitzvah
+18003) mitzvoth (plural of previous word)
+18004) Molière (+'s - name - Wikipedia)
+18005) Molièresque
 =============
 British English Dictionary (Forked) 2.51
 by Marco A.G.Pinto
