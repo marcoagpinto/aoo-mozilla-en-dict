@@ -21466,6 +21466,34 @@ V2.51 (ongoing)
 18003) mitzvoth (plural of previous word)
 18004) Molière (+'s - name - Wikipedia)
 18005) Molièresque
+
+23-JUL-2017
+18006) muchly
+18007) mucate
+18008) mucic (mucic acid)
+18009) multipart
+18010) multipacket
+18011) multipack (+plural)
+18012) multiovulate
+18013) multiovular
+18014) methaemoglobin
+18015) methaemoglobinaemia
+18016) nitrosamine (+plural)
+18017) topoisomerase (+plural)
+18018) polyploidization
+18019) helicase (Collins)
+18020) Xenopus
+18021) microbrowser (+plural)
+18022) microburner
+18023) microbus
+18024) microbusiness (+plural)
+18025) microcamera
+18026) microcanonical
+18027) microcar (+plural)
+18028) microcard (+s +ing +ed)
+18029) microcassette
+18030) microcell (+plural)
+18031) microcellular
 =============
 British English Dictionary (Forked) 2.51
 by Marco A.G.Pinto
