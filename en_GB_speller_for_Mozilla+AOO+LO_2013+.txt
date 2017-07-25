@@ -21231,7 +21231,7 @@ V2.50
 17782) microthermic
 
 
-V2.51 (ongoing)
+V2.51
 3-JUL-2017
 17783) foodbank (+plural +'s - Collins)
 17784) rictus
@@ -21494,6 +21494,69 @@ V2.51 (ongoing)
 18029) microcassette
 18030) microcell (+plural)
 18031) microcellular
+18032) Shemhamforash (Wikipedia)
+18033) Tetragrammaton
+
+25-JUL-2017
+18034) oculus
+18035) oculi (plural of previous word)
+18036) oculonasal
+18037) oculomotor
+18038) oculogyric
+18039) oculogravic
+18040) oculogenital
+18041) oculocutaneous
+18042) oculocephalic
+18043) Odesa (+'s - name - Wikipedia)
+18044) orthonormality
+18045) orthonormalization
+18046) orthomyxovirus
+18047) orthomorphism
+18048) orthomorphic
+18049) orthology
+18050) Fotherby (+'s - name - Wikipedia)
+18051) orthologous
+18052) orthokinetic
+18053) orthokinesis
+18054) orthological
+18055) surficial (+ally)
+18056) outskirting
+18056) outskirter
+18057) outsleep (+s +ing +outslept)
+18058) outslug (+s +ing +ed)
+18059) outsmell (+s +ing +ed)
+18060) outsmile (+s +ing +ed)
+18061) outspeak (+s +ing +outspoke)
+18062) overarch (+s +ing +ed)
+18063) overanxious+overanxiety+overanxiously (fix: removed hyphen)
+18064) overrange
+18065) overrash
+18066) Holinshed (+'s - name - Wikipedia)
+18067) overinvest (+s +ing +ed)
+18068) overtighten (+s +ing +ed - Collins)
+18069) ricinine
+18070) quinidine
+18071) barbituric (barbituric acid)
+18072) passivate (+s +ing +ed)
+18073) safener
+18074) safelight (+s +ing +ed)
+18075) orthochromatic
+18076) pentane
+18077) pentangular
+18078) perplexingly
+18079) perplexedness
+18080) perplexability
+18081) phonons (added plural)
+18082) nanocrystal
+18083) polycrystal
+18084) polycross
+18085) polycratism
+18086) polycracy
+18087) democratism
+18088) democratist
+18089) pictograms (added plural)
+18090) pictorialist
+18091) pictorialism
 =============
 British English Dictionary (Forked) 2.51
 by Marco A.G.Pinto
