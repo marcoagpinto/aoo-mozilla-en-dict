@@ -21557,6 +21557,44 @@ V2.51
 18089) pictograms (added plural)
 18090) pictorialist
 18091) pictorialism
+
+V2.52 (ongoing)
+8-AUG-2017
+18092) pitot
+18093) copita (+plural)
+18094) Poincaré (+'s)
+18095) Perelman (+'s - name - Wikipedia)
+18096) poimenic
+18097) poilu (+plural)
+18098) Nevinson (+'s - name - Wikipedia)
+18099) Verdun (+'s - name - Wikipedia)
+18100) predefine (+s +ing +ed)
+18101) preventability
+18102) quadrennia (another plural of quadrennium)
+18103) quadriannulate
+18104) ringlike (Collins)
+18105) quadribasic
+18106) tetrabasic (Collins)
+18107) tetrabasicity (Collins)
+18108) quadricarinate
+18109) homography (+plural)
+18110) Schur (+'s - name - Wikipedia)
+18111) quadriarticulate
+18112) radome (+plural)
+18113) reckonable
+18114) unreckonable
+18115) unreclaimable
+18116) unreclaimed
+18117) unrecognition
+18118) unreclining
+18119) unrecognizable (+bly -IZE)
+18120) Eddie's (added 's - name - Wikipedia)
+18121) reckonmaster
+18122) reclaimant
+18123) regeneratory
+18124) reify (+s +ing +ed +ion)
+18125) reificatory
+18126) reidentify (+s +ing +ed +ion)
 =============
-British English Dictionary (Forked) 2.51
+British English Dictionary (Forked) 2.52
 by Marco A.G.Pinto
