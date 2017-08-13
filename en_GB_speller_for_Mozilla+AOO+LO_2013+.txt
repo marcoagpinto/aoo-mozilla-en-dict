@@ -21595,6 +21595,28 @@ V2.52 (ongoing)
 18124) reify (+s +ing +ed +ion)
 18125) reificatory
 18126) reidentify (+s +ing +ed +ion)
+
+13-AUG-2017
+18127) repressurize (+s +ing +ed)
+18128) repressure (+s +ing +ed)
+18129) repressory
+18130) repressionist
+18131) repressionary
+18132) retractive
+18133) pectoralis
+18134) protractive
+18135) myofibroblast
+18136) protractility
+18137) protractile
+18138) erythrism
+18139) erythritol
+18140) univocal (+lity +ly)
+18141) varifocal (+plural)
+18142) retrim (+s +ing +ed)
+18143) reversers (added plural)
+18144) turnback
+18145) turncock (+plural)
+18146) draincock
 =============
 British English Dictionary (Forked) 2.52
 by Marco A.G.Pinto
