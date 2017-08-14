@@ -21617,6 +21617,49 @@ V2.52 (ongoing)
 18144) turnback
 18145) turncock (+plural)
 18146) draincock
+
+14-AUG-2017
+18147) ring-fences (merged into ring-fence)
+18148) Rivne (+'s - name - Wikipedia)
+18149) dieback
+18150) weighable
+18151) weigher
+18152) Schengen (+'s - name - Wikipedia)
+18153) scintillator (+plural)
+18154) cinéma-vérité
+18155) cinemagoer (+plural)
+18156) cinemagoing
+18157) cinematically
+18158) uncompelling (Collins)
+18159) kinematograph (another way of cinematograph)
+18160) Segway (trademark)
+18161) swingometer (+plural)
+18162) swingman
+18163) swingmen (plural of previous word)
+18164) swingiest
+18165) seriatim
+18166) seriately
+18167) seriate (+s +ing +ed +ion)
+18168) tracheid (+plural)
+18169) tracheitis
+18170) pseudomembrane (+plural)
+18171) pseudomembranous
+18172) shiitake (another way of shitake)
+18173) Helicobacter + helicobacter
+18174) helichrysums (added plural)
+18175) Goldhaber (+'s - name - Wikipedia)
+18176) corticofugal + corticifugal
+18177) Hilperton (+'s - name - Wikipedia)
+18178) Fossett (+'s - name - Wikipedia)
+18179) shortboarding
+18180) shortboarder
+18181) shortboard
+18182) side-slip (+s +ing +ed)
+18183) siting (merged into site)
+18184) spinless
+18185) spinor
+18186) splining (merged into spline)
+18187) statin (+plural)
 =============
 British English Dictionary (Forked) 2.52
 by Marco A.G.Pinto
