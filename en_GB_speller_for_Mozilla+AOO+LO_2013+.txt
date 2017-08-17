@@ -21660,6 +21660,73 @@ V2.52 (ongoing)
 18185) spinor
 18186) splining (merged into spline)
 18187) statin (+plural)
+
+15-AUG-2017
+18188) biopsychology
+18189) biopsychological
+18190) biorational
+18191) biopsychosocial
+18192) biordinal
+18193) proleg (+plural)
+18194) biorefinery
+18195) ecogeographic
+18196) ecogeographical
+18197) regretless
+18198) regressor
+18199) regressivity
+18200) fire-setting
+18201) multilobed
+18202) uninucleate
+18203) uninvestigated
+18204) uninventive (+ly +ness)
+18205) uninvitedly
+18206) uninvoked
+18207) uninvitingly
+
+17-AUG-2017
+18208) LaVey's (added 's - name - Wikipedia)
+18209) amianthus
+18210) carnallite
+18211) lepidolite
+18212) pollucite
+18213) sylvite
+18214) kieserite
+18215) diopside
+18216) unreason
+18217) unrealness
+18218) unreaped
+18219) unreasonability
+18220) orniscopy
+18221) ornithic
+18222) ornithichnite
+18223) LaVeyan (+plural - Wiktionary)
+18224) LaVeyanist (+plural - Wiktionary)
+18225) Luciferian (+plural - Wiktionary)
+18226) Luciferianism (Wiktionary)
+18227) LaVeyanism (Wiktionary)
+18228) mysticist
+18229) Thoughter (New Thoughter)
+18230) Odinist
+18231) Odinic
+18232) Odinism
+18233) Baha'i + Bahai (+plural of both)
+18234) Baha'ism
+18235) pietism
+18236) pietist (+plural)
+18237) pietistic
+18238) pietistical (+ally)
+18239) occultic
+18240) factionalize (+s +ing +ed -IZE)
+18241) factionalise (+s +ing +ed -ISE)
+18242) provocateur (+plural - agent provocateur)
+18243) geraniol
+18244) fleabane
+18245) vetiver + vetivert
+18246) Nadramia (+'s - name - Wikipedia)
+18247) Hegarty (+'s - name - Wikipedia)
+18248) diabolist (+plural)
+18249) unliving
+18250) Sheldrake (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.52
 by Marco A.G.Pinto
