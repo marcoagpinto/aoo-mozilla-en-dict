@@ -21558,7 +21558,7 @@ V2.51
 18090) pictorialist
 18091) pictorialism
 
-V2.52 (ongoing)
+V2.52
 8-AUG-2017
 18092) pitot
 18093) copita (+plural)
@@ -21727,6 +21727,55 @@ V2.52 (ongoing)
 18248) diabolist (+plural)
 18249) unliving
 18250) Sheldrake (+'s - name - Wikipedia)
+
+23-AUG-2017
+18251) pinny (+plural)
+18252) overgarment (+plural)
+18253) surcoat (+plural)
+18254) suramin
+18255) stilbene
+18256) cardioprotective
+18257) cardiopathy (+plural)
+18258) Extremadura (+'s - name - Wikipedia)
+18259) cancellous
+18260) microfracture (+plural)
+18261) microfracturing
+18262) microforge
+18263) micromanipulator
+18264) micromania
+18265) micromanager (+plural)
+18266) micromachinery
+18267) micromachine
+18268) micrological
+18269) micrologic
+18270) microlitre (+plural)
+18271) microlitic
+18272) microlite
+18273) pyrochlore
+18274) orthoclase
+18275) pyrophosphate
+18276) thylakoid (+plural)
+18277) pseudogout
+18278) pseudographer
+18279) pseudograph
+18280) pseudoglobulin
+18281) pseudogley
+18282) pseudoglioma
+18283) retinoblastoma
+18284) retinocerebral
+18285) retinoate
+18286) bronchocele (+plural)
+18287) arteriosclerotic
+18288) arteriology
+18289) arteriogram
+18290) arteriographic
+18291) frenemy (+plural)
+18292) Frenchly
+18293) Frenchless
+18294) Frenchism
+18295) Frenchify (+s +ing +ed)
+18296) Frenchification
+18297) Frencher
 =============
 British English Dictionary (Forked) 2.52
 by Marco A.G.Pinto
