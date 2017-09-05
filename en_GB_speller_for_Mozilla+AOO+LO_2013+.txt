@@ -21776,6 +21776,104 @@ V2.52
 18295) Frenchify (+s +ing +ed)
 18296) Frenchification
 18297) Frencher
+
+V2.53 (ongoing)
+1-SEP-2017
+18298) Kim's (added 's - name - Wikipedia)
+18299) Kimberley's (added 's - name - Wikipedia)
+18300) Jan's (added 's - name - Wikipedia)
+18301) Jana's (added 's - name - Wikipedia)
+18302) Janice's (added 's - name - Wikipedia)
+18303) Janis's (added 's - name - Wikipedia)
+18304) Janesville's (added 's - name - Wikipedia)
+18305) Jansen's (added 's - name - Wikipedia)
+18306) Jardine's (added 's - name - Wikipedia)
+18307) Lara's (added 's - name - Wikipedia)
+18308) Laramie's (added 's - name - Wikipedia)
+18309) Laredo's (added 's - name - Wikipedia)
+18310) Larousse's (added 's - name - Wikipedia)
+18311) Lars's (added 's - name - Wikipedia)
+18312) Larsen's (added 's - name - Wikipedia)
+18313) Larson's (added 's - name - Wikipedia)
+18314) Lauderdale's (added 's - name - Wikipedia)
+18315) Launceston's (added 's - name - Wikipedia)
+18316) Acadia's (added 's - name - Wikipedia)
+18317) Achill's (added 's - name - Wikipedia)
+18318) Achilles's (added 's - name - Wikipedia)
+18319) Adkins's (added 's - name - Wikipedia)
+18320) Alameda's (added 's - name - Wikipedia)
+18321) Alamogordo's (added 's - name - Wikipedia)
+18322) Aldebaran's (added 's - name - Wikipedia)
+18323) Aldus's (added 's - name - Wikipedia)
+18324) Aleck's (added 's - name - Wikipedia)
+18325) Alentejo's (added 's - name - Wikipedia)
+18326) Aleut's (added 's - name - Wikipedia)
+18327) Alexis's (added 's - name - Wikipedia)
+18328) Algarve's (added 's - name - Wikipedia)
+18329) Allendale's (added 's - name - Wikipedia)
+18330) Allentown's (added 's - name - Wikipedia)
+18331) Miles (+'s - name - Wikipedia)
+
+3-SEP-2017
+18332) micromechanical
+18333) micromechanics
+18334) micromachines (added plural)
+18335) micromanipulation
+18336) sub-assembly (+plural)
+18337) subcreation
+18338) subcreative
+18339) subpart
+18340) subtextual
+18341) subvocalize (+s +ing +ed +ion -IZE)
+18342) subvocalise (+s +ing +ed +ion -ISE)
+18343) subvital
+18344) subvocal (+ally)
+18345) subwarden
+18346) subwoofers (added plural)
+18347) subworld
+18348) subzone
+18349) subzonal
+18350) superactivity (Collins)
+18351) psychiatrically
+18352) psychiatrical
+18353) blouson (+plural)
+18354) knicks (added plural)
+18355) Blundeville (+'s - name - Wikipedia)
+18356) Sexagesima
+18357) Quinquagesima
+18358) quinquagesimal
+18359) Cawdrey (+'s - name - Wikipedia)
+18360) quinoyl
+18361) benzoquinone
+
+5-SEP-2017
+18362) benzoyl
+18363) propionyl
+18364) Dreser (+'s - name - Wikipedia)
+18365) Elberfeld (+'s - name - Wikipedia)
+18366) aconine
+18367) aconitine
+18368) aconitum
+18369) aconitic
+18370) tricarboxylic
+18371) tricameral
+18372) Botha (+'s - name - Wikipedia)
+18373) Hendrickse (+'s - name - Wikipedia)
+18374) tricar (+plural)
+18375) Montagu (+'s - name - Wikipedia)
+18376) tricast (+plural)
+18377) underprice (+s +ing +ed)
+18378) underproof
+18379) underqualified
+18380) underquote (+s +ing +ed)
+18381) undersaturated
+18382) undersaturation
+18383) Josh's (added 's - name - Wikipedia)
+18384) legitimateness
+18385) legitimates (merged into legitimate)
+18386) legitimatization
+18387) legitimatize (+s +ing +ed -IZE)
+18388) legitimatise (+s +ing +ed -ISE)
 =============
-British English Dictionary (Forked) 2.52
+British English Dictionary (Forked) 2.53
 by Marco A.G.Pinto
