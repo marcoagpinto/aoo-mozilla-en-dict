@@ -21874,6 +21874,37 @@ V2.53 (ongoing)
 18386) legitimatization
 18387) legitimatize (+s +ing +ed -IZE)
 18388) legitimatise (+s +ing +ed -ISE)
+
+9-SEP-2017
+18389) supercriticality
+18390) supercrescent
+18391) supercontract (+s +ing +ed +ion)
+18392) palaeogeographically
+18393) palaeogeography
+18394) palaeogeographic
+18395) palaeogeographer (+plural)
+18396) palaeogeographical
+18397) terrane (+plural)
+18398) tectonostratigraphic
+18399) tectonophysics
+18400) techspeak
+18401) habitus
+18402) hardwire (+s +ing +ed)
+18403) supermacho (Collins)
+18404) supersensory
+18405) supersensitivity
+18406) supersensible
+18407) supersensual
+18408) supersensualism
+18409) sensualism
+18410) sensualize (+s +ing +ed -IZE)
+18411) sensualise (+s +ing +ed -ISE)
+18412) sensualistic
+18413) sensualization (-IZE)
+18414) sensualisation (-ISE)
+18415) sensum
+18416) sensa (plural of previous word)
+18417) sensuosity
 =============
 British English Dictionary (Forked) 2.53
 by Marco A.G.Pinto
