@@ -21905,6 +21905,78 @@ V2.53 (ongoing)
 18415) sensum
 18416) sensa (plural of previous word)
 18417) sensuosity
+
+12-SEP-2017
+18418) unclip (+s +ing +ed)
+18419) Justin's (added 's - name - Wikipedia)
+18420) uncloister (+s +ing +ed)
+18421) unclosable + uncloseable
+18422) MacLachlan (+'s - name - Wikipedia)
+18423) superpartner (+plural)
+18424) gravitino
+18425) suppressively (Collins)
+18426) surreally
+18427) surrealness
+18428) surra
+18429) switchover
+18430) swither (+s +ing +ed)
+18431) Dawson's (added 's - name - Wikipedia)
+18432) telematic (+plural)
+18433) telemanometer
+18434) backcomb (+s +ing +ed)
+18435) tensiometer (Collins)
+18436) timeous (+ly)
+18437) wherethrough (Collins)
+18438) scrappage
+18439) carmaker (+plural)
+18440) Nantais (+'s - name - Wikipedia)
+18441) scrappily
+18442) scrappiness
+18443) dermatophyte (+plural)
+18444) dermatophytic
+18445) shufti (+plural)
+18446) shuffleboard
+18447) pound's (added 's)
+18448) shudderingly
+18449) shubunkin (+plural)
+18450) oralist
+18451) oralism (+'s)
+18452) orality
+18453) ideality (+plural)
+18454) vocality
+18455) whispery
+18456) unshed (Collins)
+
+15-SEP-2017
+18457) terzetto (+plural)
+18458) terzetti (another plural of previous word)
+18459) tercet (+plural)
+18460) terebinth
+18461) teredo (+plural)
+18462) shipworm (+plural)
+18463) snoozefest
+18464) snoozer (+plural)
+18465) snoozy (+ier +iest)
+18466) undersecretary's (added +'s)
+18467) enframe (+s +ing +ed - Collins)
+18468) Hockley (+'s - name - Wikipedia)
+18469) Prestwich (+'s - name - Wikipedia)
+18470) dance's (added +'s)
+18471) Fagen (+'s - name - Wikipedia)
+18472) Gideon's (added +'s - name - Wikipedia)
+18473) superstardom
+18474) superstandard
+18475) supersound
+18476) Millikan (+'s - name - Wikipedia)
+18477) transitorily
+18478) transitoriness
+18479) cameration
+18480) downtempo
+18481) downthrow (+s +downthrew +downthrown)
+18482) townish
+18483) townless
+18484) townlet
+18485) townward (+plural)
 =============
 British English Dictionary (Forked) 2.53
 by Marco A.G.Pinto
