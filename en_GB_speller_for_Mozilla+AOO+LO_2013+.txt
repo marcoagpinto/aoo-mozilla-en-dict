@@ -21977,6 +21977,47 @@ V2.53 (ongoing)
 18483) townless
 18484) townlet
 18485) townward (+plural)
+
+17-SEP-2017
+18486) judgment (+plural)
+18487) judgmental (+ally)
+18488) judgementalism + judgmentalism
+18489) iodoacetate
+18490) bromoform (Collins)
+18491) trichloroacetic
+18492) perchloroethylene
+18493) dieldrin
+18494) aldrin
+18495) indole
+18496) diphenylamine
+18497) dicentrics (added plural)
+18498) ullage
+18499) Beckman (+'s - name - Wikipedia)
+18500) sarcosine
+18501) sonicate (+s +ing +ed +ion)
+18502) prewarm (+s +ing +ed - Collins)
+18503) prewash (+s +ing +ed - Collins)
+18504) sonicator
+
+19-SEP-2017
+18505) naffs + naffed + naffing + naffly (merged into naff)
+18506) Nafion
+18507) perfluorinated
+18508) loos (added plural)
+18509) longwool (+plural)
+18510) longward (+plural)
+18511) longwall
+18512) hydrogeology
+18513) hydrogeological
+18514) hydrogeologist (+plural)
+18515) rooklet
+18516) rookish
+18517) rookeried
+18518) patrolatry
+18519) patrolette
+18520) patrological
+18521) patrologist
+18522) patronymical
 =============
 British English Dictionary (Forked) 2.53
 by Marco A.G.Pinto
