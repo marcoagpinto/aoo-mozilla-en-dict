@@ -21777,7 +21777,7 @@ V2.52
 18296) Frenchification
 18297) Frencher
 
-V2.53 (ongoing)
+V2.53
 1-SEP-2017
 18298) Kim's (added 's - name - Wikipedia)
 18299) Kimberley's (added 's - name - Wikipedia)
@@ -22018,6 +22018,92 @@ V2.53 (ongoing)
 18520) patrological
 18521) patrologist
 18522) patronymical
+
+21-SEP-2017
+18523) Leuven (+'s - name - Wikipedia)
+18524) Luigi (+'s - name - Wikipedia)
+18525) Jürgen (+'s - name - Wikipedia + Google)
+18526) Berlinguer (+'s - name - Wikipedia)
+18527) ultrasensitive (Collins)
+18528) heliopause
+18529) heliogravure (+plural)
+18530) heliograph (+s +ing +ed +ic)
+18531) heliogram (+plural)
+18532) helictite (+plural)
+18533) groupy
+18534) groupist
+18535) groupism
+18536) underheat (+s +ing +ed - Collins)
+
+25-SEP-2017
+18537) ethnophaulism
+18538) ethnopharmacologist
+18539) ethnopoetics
+18540) ethnopsychological
+18541) ethnopsychology
+18542) ethnosemantic (+plural)
+18543) ethnozoology
+18544) ethography
+18545) primatology
+18546) primatological
+18547) primatologist (+plural)
+18548) primateship
+18549) primaveral
+18550) ethologic
+18551) ethosuximide
+18552) ethoxide + ethoxyde
+18553) ethoxy
+18554) ethoxyl
+18555) cringers (added plural)
+18556) dumpster (+plural)
+18557) chugger (+plural)
+18558) clitty
+18559) clitter (+s +ing +ed)
+18560) cock-a-leekie
+18561) WebExtension (+plural)
+18562) unsanitized (Wiktionary -IZE)
+18563) inclusivity
+18564) bitrate (+plural - Wiktionary)
+18565) unsanitised (Wiktionary -ISE)
+
+26-SEP-2017
+18566) ACPI (Wiktionary)
+18567) Lucovsky (+'s - name - Wikipedia)
+18568) Novell (+'s - name - Wikipedia)
+18569) pre-install (+s +ing +ed)
+18570) preloads + preloaded (merged into preload)
+18571) Sega (+'s - name - Wikipedia)
+18572) virtualize (+s +ing +ed +er +ers +ion -IZE)
+18573) virtualise (+s +ing +ed +er +ers +ion -ISE)
+18574) UAC (Wiktionary)
+18575) Mitnick (+'s - name - Wikipedia)
+18576) preliteracy
+18577) prelinguistic (+plural)
+18578) prelingual
+18579) prelimit (+s +ing +ed)
+18580) prelimination
+18581) prelim (+plural)
+18582) prelibation
+18583) prelife
+18584) preleukaemic
+18585) prelection + praelection
+18586) prelect (+s +ing +ed)
+18587) praelect (+s +ing +ed)
+18588) prelaunch
+18589) Vandenberg (+'s - name - Wikipedia)
+18590) Lompoc (+'s - name - Wikipedia)
+18591) prelatist
+18592) prelatism
+18593) prelatically
+18594) prelateship
+18595) prelatial
+18596) prelate-martyr
+18597) prelapsarian
+18598) prelabrum
+18599) clypeus
+18600) clypei (plural of previous word)
+18601) clypeal
+18602) Clytemnestra (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.53
 by Marco A.G.Pinto
