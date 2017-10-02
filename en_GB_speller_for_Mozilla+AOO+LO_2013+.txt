@@ -22104,6 +22104,72 @@ V2.53
 18600) clypei (plural of previous word)
 18601) clypeal
 18602) Clytemnestra (+'s - name - Wikipedia)
+
+V2.54 (ongoing)
+1-OCT-2017
+18603) captionless (Collins)
+18604) Spiegelman (+'s - name - Wikipedia)
+18605) interpretational
+18606) McNeer (+'s - name - Wikipedia)
+18607) Heckman (+'s - name - Wikipedia)
+18608) Labunski (+'s - name - Wikipedia)
+18609) Elbridge (+'s - name - Wikipedia)
+18610) revisal
+18611) revisory
+18612) remonstrances (added plural)
+18613) eighthly
+18614) ninthly
+18615) minoritarian
+18616) Barnette (+'s - name - Wikipedia)
+18617) Furman (+'s - name - Wikipedia)
+18618) non-cooperative
+18619) Talton (+'s - name - Wikipedia)
+18620) consecrators (added plural)
+18621) butcher-bird (+plural)
+18622) euthanise (+s +ing +ed)
+18623) eutopia
+18624) eutopian
+18625) eutrophication
+18626) eutrophicate (+s +ing +ed)
+18627) eutrophy
+18628) dystrophic
+
+2-OCT-2017
+18629) strigil (+plural)
+18630) stridulate (+s +ing +ed +ion +ions)
+18631) stridulant
+18632) stridulatory
+18633) inspiratory
+18634) arachnology (Collins)
+18635) arachnologist (Collins)
+18636) schloss
+18637) epistrophe
+18638) polyptoton
+18639) polysyndeton
+18640) polysymptomatic
+18641) chronicity
+18642) bronchospastic (Collins)
+18643) histopathology
+18644) histopathological
+18645) histopathologically
+18646) histopathologist (+plural)
+18647) histonomy
+18648) histomorphology
+18649) histometabasis
+18650) permineralized (-IZE)
+18651) permineralized (-ISE)
+18652) permineralization
+18653) permillage
+18654) permie + permy
+18655) Permic
+18656) vermian
+18657) vermis
+18658) nodulus
+18659) pyramis (Collins)
+18660) nodum
+18661) NOED (New Oxford English Dictionary)
+18662) noegenetic
+18663) noegenesis
 =============
-British English Dictionary (Forked) 2.53
+British English Dictionary (Forked) 2.54
 by Marco A.G.Pinto
