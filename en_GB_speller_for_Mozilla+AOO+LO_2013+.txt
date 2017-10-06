@@ -22199,6 +22199,17 @@ V2.54 (ongoing)
 18688) shirtlifter
 18689) shisha (+plural)
 18690) hubble-bubble
+18691) Catalonian (+plural)
+18692) Catalonia's (added 's - name - Wikipedia)
+18693) Jochen (+'s - name - Wikipedia)
+18694) Saalfeld (+'s - name - Wikipedia)
+18695) Seibert (+'s - name - Wikipedia)
+18696) Gildernew (+'s - name - Wikipedia)
+18697) Milliband (+'s - name - Wikipedia)
+18698) Carwyn (+'s - name - Wikipedia)
+18699) Rojava (+'s - name - Wikipedia)
+18700) Puigdemont (+'s - name - Wikipedia)
+18701) manifestant (Collins)
 =============
 British English Dictionary (Forked) 2.54
 by Marco A.G.Pinto
