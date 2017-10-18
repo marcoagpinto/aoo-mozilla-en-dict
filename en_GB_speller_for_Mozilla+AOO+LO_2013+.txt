@@ -22429,6 +22429,77 @@ V2.54 (ongoing)
 18908) muricacean
 18909) muricid
 18910) muricidal
+
+18-OCT-2017
+18911) VirtualBox (+'s)
+18912) how-to (+plural)
+18913) staffrooms (added plural)
+18914) Staffs. (abbreviation Staffordshire.)
+18915) infeudation
+18916) infibulate (+s +ing +ed +ion)
+18917) peltast
+18918) peltately
+18919) peltate
+18920) peltation
+18921) pelters (added plural)
+18922) pelterer
+18923) peltiform
+18924) pelta
+18925) peltae (plural of previous word)
+18926) peltage
+18927) pelage
+18928) pelagial
+18929) peladic
+18930) Allbutt (+'s - name - Wikipedia)
+18931) pelade
+18932) areata (alopecia areata)
+18933) alopecian
+18934) alopecist
+18935) alopecy
+18936) alopecoid
+18937) wherry (+plural)
+18938) wherryman
+18939) wherrymen (plural of previous word)
+18940) plafond
+18941) placophoran
+18942) placodont (+plural)
+18943) placoderm (+plural)
+18944) symphyseal
+18945) symphysial
+18946) posteroventral (+ly)
+18947) landline (+plural +'s)
+18948) landlessness
+18949) landnam
+18950) landscapist (+plural)
+18951) lawned
+18952) lawny
+18953) oaring + oarless (merged into oar)
+18954) oarage
+18955) oarer
+18956) oarfish (+plural)
+18957) ländler
+18958) endergonic
+18959) exergonic
+18960) exercycle
+18961) happenable
+18962) happenchance
+18963) happiless
+18964) hapaxanthic
+18965) haphazarder
+18966) haphazardry
+18967) haplobiont (+ic)
+18968) haplochromine (+plural)
+18969) fluviatile
+18970) perthitic
+18971) wacke
+18972) albite
+18973) porphyrous
+18974) porphyropsin
+18975) porphyroid
+18976) porphyrogeniture
+18977) porphyrogenite + porphyrogenitus
+18978) porphyroclast (+ic)
+18979) porphyroblast (+ic)
 =============
 British English Dictionary (Forked) 2.54
 by Marco A.G.Pinto
