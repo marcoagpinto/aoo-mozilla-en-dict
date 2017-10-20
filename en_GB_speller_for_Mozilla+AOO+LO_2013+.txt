@@ -22500,6 +22500,61 @@ V2.54 (ongoing)
 18977) porphyrogenite + porphyrogenitus
 18978) porphyroclast (+ic)
 18979) porphyroblast (+ic)
+
+20-OCT-2017
+18980) nondeterminism
+18981) nondescriptness
+18982) nondeterministic
+18983) redbone
+18984) redberry
+18985) redbeard
+18986) redbelly
+18987) redate (+s +ing +ed)
+18988) redargutive
+18989) redargution
+18990) redargue (+s +ing +ed)
+18991) redactorial + redactoral
+18992) redan
+18993) vitrifaction
+18994) vitrifiable
+18995) tumefy (+s +ing +ed)
+18996) tumefaction
+18997) tumefacient
+18998) humify (+s +ing +ed)
+18999) humification
+19000) humiliator (+plural)
+19001) humint
+19002) hummel
+19003) pescatarian + pescetarian (+plural of both)
+19004) quoddity
+19005) quodlibetal
+19006) quodlibetical
+19007) Fulke (+'s - name - Wikipedia)
+19008) quodlibetic
+19009) quoiler
+19010) fenestrated
+19011) fenestrate
+19012) autozooid
+19013) autozoom
+19014) autoxidization
+19015) autotypic
+19016) autotypy
+19017) hemiparasite (+plural)
+19018) hemipenis
+19019) hemipenes (plural of previous word)
+19020) hemiplegia
+19021) hemiplegic
+19022) hemiparesis
+19023) hemipode (+plural)
+19024) sandgrouse
+19025) button-quail (+plural)
+19026) Madeiran (+plural)
+19027) madeleine (+plural)
+19028) excruciations (added plural)
+19029) Proustian
+19030) Proustiana
+19031) proustite
+19032) Prout (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.54
 by Marco A.G.Pinto
