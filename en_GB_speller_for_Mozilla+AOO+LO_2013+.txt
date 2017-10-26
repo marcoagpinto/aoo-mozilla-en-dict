@@ -22105,7 +22105,7 @@ V2.53
 18601) clypeal
 18602) Clytemnestra (+'s - name - Wikipedia)
 
-V2.54 (ongoing)
+V2.54
 1-OCT-2017
 18603) captionless (Collins)
 18604) Spiegelman (+'s - name - Wikipedia)
@@ -22412,7 +22412,7 @@ V2.54 (ongoing)
 18891) ethmoturbinal
 18892) turbinated (Collins)
 18893) concha
-18894) conchae (plural or previous word)
+18894) conchae (plural of previous word)
 18895) conchiolin
 18896) conchology
 18897) conchological
@@ -22555,6 +22555,141 @@ V2.54 (ongoing)
 19030) Proustiana
 19031) proustite
 19032) Prout (+'s - name - Wikipedia)
+
+23-OCT-2017
+19033) whammy (+plural)
+19034) wham-bam
+19035) sailboat (+plural)
+19036) whammo
+19037) thumbless
+19038) wood-hoopoe (+plural)
+19039) savanna (+plural)
+19040) savannahs (added plural)
+19041) Savannah (name of place - 's was already in)
+19042) savanilla
+19043) Goode (+'s - name - Wikipedia)
+19044) Attenborough (+'s - name - Wikipedia)
+19045) ichthyoid (+plural)
+19046) marvellingly
+19047) Geronimo (+'s - name - Wikipedia)
+19048) pernickety
+19049) germophobic + germaphobic
+19050) germophobia + germaphobia
+19051) germophobe + germaphobe
+19052) germless
+19053) grazing
+19054) grazier (+plural)
+19055) dysphasia
+19056) dysphasic
+19057) dysphonia
+19058) laryngoscope (+plural)
+19059) laryngoscopy
+19060) endotracheal (+ly)
+19061) ventilatory
+19062) sheiling (Collins)
+19063) borealis (Collins)
+19064) Lofoten (+'s - name - Wikipedia)
+19065) Portree (+'s - name - Wikipedia)
+19066) Matheson (+'s - name - Wikipedia)
+19067) shinty (+plural)
+19068) Murdo (+'s - name - Wikipedia)
+19069) Minch (+'s - name - Wikipedia)
+19070) Seaforth (+'s - name - Wikipedia)
+19071) Hebridean (+plural)
+19072) Periclean
+19073) Finlay (+'s - name - Wikipedia)
+19074) rigueur (de rigueur)
+
+24-OCT-2017
+19075) Labradors (added plural)
+19076) trixie
+19077) trivium
+19078) Coyle (+'s - name - Wikipedia)
+19079) whirler (+plural)
+19080) whirlingly
+19081) whiptail (+plural)
+19082) whipstitch (+s +ing +ed)
+19083) whippy (+ier +iest +ness)
+19084) whimperer (+plural)
+19085) whimperingly
+19086) Hudsonian
+19087) whicker (+s +ing +ed)
+19088) wheelback
+19089) dyno (+s +ing +dyno'd +ed)
+19090) dynamometer
+19091) dynast (+plural)
+19092) spirulina
+19093) botryoid
+19094) botryolite + botriolite
+19095) botrytis
+19096) botryose
+19097) botrytized + botrytised
+19098) Botswanan + Botswanian
+19099) bottarga
+19100) wettable
+19101) wettish
+19102) westwardmost
+19103) Westralian
+19104) Westpolitik
+19105) Westphalians (added plural)
+19106) houndstooth (added plural)
+19107) houngan (+plural)
+19108) houndfish (+plural)
+19109) beliefful (+ness)
+19110) beliefless
+19111) Belial's (added +'s - name - Wikipedia)
+19112) Belgravia (+'s - name - Wikipedia)
+19113) Knightsbridge (+'s - name - Wikipedia)
+19114) Marduk (+'s - name - Wikipedia)
+19115) pin-rail
+19116) weaselly
+19117) wearisomeness
+19118) weals + wealing + wealed (merged into weal)
+19119) underseal (+s +ing +ed)
+19120) subshrub (+s +by)
+19121) subshell
+19122) subsexual
+19123) subservientness
+19124) subsessile
+19125) subserviate (+s +ing +ed)
+19126) subserve (+s +ing +ed)
+19127) subserous
+
+25-OCT-2017
+19128) subserosa
+19129) subserosal
+19130) subperitoneal
+19131) subpersonality
+19132) subpetiolar
+19133) subpetiolate
+19134) subpetiole (+ed)
+19135) subphotospheric
+19136) subphyla (plural of subphylum)
+19137) amphioxus
+19138) coelom (+plural)
+19139) coelomata (another plural of the previous word)
+19140) coelomate
+19141) coelomic
+19142) synsacrum (+plural)
+19143) synsacra (another plural of the previous word)
+19144) agrammatic
+19145) prosodical (+ly)
+19146) prosodial
+19147) prosodeme
+19148) proslambanomenos
+19149) prosneusis
+19150) Ptolemy
+19151) octants (added plural)
+19152) octanoyl
+19153) octantal
+19154) octapeptide
+19155) octarch
+19156) octastich
+19157) octatomic
+19158) tetratomic
+19159) monatomic
+19160) pentatomic + penta-atomic
+19161) seethingly
 =============
 British English Dictionary (Forked) 2.54
 by Marco A.G.Pinto
