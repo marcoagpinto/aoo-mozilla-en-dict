@@ -22690,6 +22690,122 @@ V2.54
 19159) monatomic
 19160) pentatomic + penta-atomic
 19161) seethingly
+
+V2.55 (ongoing)
+1-NOV-2017
+19162) Aberfeldie's (added +'s - name - Wikipedia)
+19163) Addis's (added +'s - name - Wikipedia)
+19164) Aeneas's (added +'s - name - Wikipedia)
+19165) Aeneid's (added +'s - name - Wikipedia)
+19166) Aeolus's (added +'s - name - Wikipedia)
+19167) Aeschylus's (added +'s - name - Wikipedia)
+19168) Aesculapius's (added +'s - name - Wikipedia)
+19169) Agey's (added +'s - name - Wikipedia)
+19170) Ahmari's (added +'s - name - Wikipedia)
+19171) Aintree's (added +'s - name - Wikipedia)
+19172) Ainu's (added +'s - name - Wikipedia)
+19173) Tux (+'s - name - Wikipedia)
+19174) chromebook (+plural - Wiktionary)
+19175) CentOS (+'s - name - Wikipedia)
+19176) openSUSE (+'s - name - Wikipedia)
+19177) Mageia (+'s - name - Wikipedia)
+19178) SUSE (+'s - name - Wikipedia)
+19179) LXDE (+'s - name - Wikipedia)
+19180) Mir (+'s - name - Wikipedia)
+19181) Xfce (+'s - name - Wikipedia)
+19182) Ossanna (+'s - name - Wikipedia)
+19183) McIlroy (+'s - name - Wikipedia)
+19184) Hurd (+'s - name - Wikipedia)
+19185) Tanenbaum (+'s - name - Wikipedia)
+19186) MINIX (+'s - name - Wikipedia)
+19187) userland (Wiktionary)
+19188) GNOME (+'s - name - Wikipedia)
+19189) Sinhalese
+19190) Slackware (+'s - name - Wikipedia)
+19191) HTPC (+plural - Wiktionary)
+19192) Shuttleworth (+'s - name - Wikipedia)
+19193) Lubuntu (+'s - name - Wikipedia)
+19194) Canonical (+'s - name - Wikipedia)
+19195) unarchive (+s +ing +ed - Wiktionary)
+19196) TrueType (Wikipedia)
+19197) hypervisor (+plural - Wiktionary)
+19198) VMware (+'s - name - Wikipedia)
+19199) Hyneman (+'s - name - Wikipedia)
+19200) Cory (+'s - name - Wikipedia)
+19201) Doctorow (+'s - name - Wikipedia)
+19202) Lenovo (+'s - name - Wikipedia)
+19203) Hasee (+'s - name - Wikipedia)
+19204) WMV (Wiktionary)
+19205) Siracusa (+'s - name - Wikipedia)
+19206) Forstall (+'s - name - Wikipedia)
+19207) MacBook (+plural - Wiktionary)
+19208) Tognazzini (+'s - name - Wikipedia)
+19209) ATI (+'s - name - Wikipedia)
+19210) Radeon (+'s - name - Wikipedia)
+19211) Burdett-Coutts (+'s - name - Wikipedia)
+19212) Joynson-Hicks (+'s - name - Wikipedia)
+19213) Onslow (+'s - name - Wikipedia)
+19214) provostship
+19215) Whitstable (+'s - name - Wikipedia)
+19216) Wetherby (+'s - name - Wikipedia)
+
+2-NOV-2017
+19217) Meredith's (added +'s - name - Wikipedia)
+19218) Petri's (added +'s - name - Wikipedia)
+19219) Petronas's (added +'s - name - Wikipedia)
+19220) Phnom's (added +'s - name - Wikipedia)
+19221) Schoharie's (added +'s - name - Wikipedia)
+19222) Roveri's (added +'s - name - Wikipedia)
+19223) FOSDEM (name - Wikipedia)
+19224) Mathies (+'s - name - Wikipedia)
+19225) Theriault (+'s - name - Wikipedia)
+19226) Thériault (+'s - name - Wikipedia)
+19227) Maglione (+'s - name - Wikipedia)
+19228) Jagielski (+'s - name - Wikipedia)
+19229) Fritzsche (+'s - name - Wikipedia)
+19230) Heiko (+'s - name - Wikipedia)
+19231) Tietze (+'s - name - Wikipedia)
+19232) Sapin (+'s - name - Wikipedia)
+19233) Jesup (+'s - name - Wikipedia)
+19234) Randell (+'s - name - Wikipedia)
+19235) Ibrahima (+'s - name - Wikipedia)
+19236) Mamadou (+'s - name - Wikipedia)
+19237) Niang (+'s - name - Wikipedia)
+19238) Makoto (+'s - name - Wikipedia)
+19239) Kato (+'s - name - Wikipedia)
+19240) Thurgood (+'s - name - Wikipedia)
+19241) Overholt (+'s - name - Wikipedia)
+19242) Palomares (+'s - name - Wikipedia)
+19243) Martí­nez (+'s - name - Wikipedia)
+10244) Nika (+'s - name - Wikipedia)
+10245) Layzell (+'s - name - Wikipedia)
+10246) threadsafe (Wiktionary)
+
+3-NOV-2017
+10247) plagiaristically
+10248) plagiarization
+10249) plagihedral
+10250) dextrorotatory
+10251) dextrorotation
+10252) laevorotation
+10253) Laetrile (trademark)
+10254) nitrile (+plural)
+10255) nitrifier
+10256) nitriferous
+10257) nitrifaction
+10258) nitridation
+10259) nitriding + nitrided (merged into nitride)
+10260) flacon
+10261) microtopography
+10262) microtopographic
+10263) microtopographical
+10264) microtomy
+10265) microtomist
+10266) microtomic
+10267) reflexed
+10268) pronotum
+10269) mucro (+plural)
+10270) mucrones (another plural of the previous word)
 =============
-British English Dictionary (Forked) 2.54
+British English Dictionary (Forked) 2.55
 by Marco A.G.Pinto
