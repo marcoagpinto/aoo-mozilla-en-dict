@@ -22777,35 +22777,80 @@ V2.55 (ongoing)
 19241) Overholt (+'s - name - Wikipedia)
 19242) Palomares (+'s - name - Wikipedia)
 19243) Martí­nez (+'s - name - Wikipedia)
-10244) Nika (+'s - name - Wikipedia)
-10245) Layzell (+'s - name - Wikipedia)
-10246) threadsafe (Wiktionary)
+19244) Nika (+'s - name - Wikipedia)
+19245) Layzell (+'s - name - Wikipedia)
+19246) threadsafe (Wiktionary)
 
 3-NOV-2017
-10247) plagiaristically
-10248) plagiarization
-10249) plagihedral
-10250) dextrorotatory
-10251) dextrorotation
-10252) laevorotation
-10253) Laetrile (trademark)
-10254) nitrile (+plural)
-10255) nitrifier
-10256) nitriferous
-10257) nitrifaction
-10258) nitridation
-10259) nitriding + nitrided (merged into nitride)
-10260) flacon
-10261) microtopography
-10262) microtopographic
-10263) microtopographical
-10264) microtomy
-10265) microtomist
-10266) microtomic
-10267) reflexed
-10268) pronotum
-10269) mucro (+plural)
-10270) mucrones (another plural of the previous word)
+19247) plagiaristically
+19248) plagiarization
+19249) plagihedral
+19250) dextrorotatory
+19251) dextrorotation
+19252) laevorotation
+19253) Laetrile (trademark)
+19254) nitrile (+plural)
+19255) nitrifier
+19256) nitriferous
+19257) nitrifaction
+19258) nitridation
+19259) nitriding + nitrided (merged into nitride)
+19260) flacon
+19261) microtopography
+19262) microtopographic
+19263) microtopographical
+19264) microtomy
+19265) microtomist
+19266) microtomic
+19267) reflexed
+19268) pronotum
+19269) mucro (+plural)
+19270) mucrones (another plural of the previous word)
+
+6-NOV-2017
+19271) Joyce's (added +'s - name - Wikipedia)
+19272) Segal (+'s - name - Wikipedia)
+19273) Haydon (+'s - name - Wikipedia)
+19274) genitosexual
+19275) genitorial
+19276) genitor (+plural)
+19277) Medwin (+'s - name - Wikipedia)
+19278) genitocrural
+19279) genitofemoral
+19280) genito-urinary
+19281) genitively + genetively
+19282) genitalic
+19283) geniused
+19284) genizah (+plural)
+19285) genlock (+s +ing +ed)
+19286) infanticidal
+19287) patricidal
+19288) regicidal
+19289) tyrannicidal
+19290) tyrannicide (+plural)
+19291) Felton (+'s - name - Wikipedia)
+19292) Doyle's (added +'s - name - Wikipedia)
+19293) tyrannosaurid
+19294) tyrannulet (+plural)
+19295) tyrannously
+19296) liberating (merged into liberate)
+19297) liberaloid
+19298) sexipolar
+19299) sexine
+19300) exine (+plural)
+19301) exintine
+19302) exindusiate
+19303) eximiousness
+19304) eximious
+19305) exility
+19306) exilian
+19307) exilic
+19308) thematize (+s +ing +ed +ion -IZE)
+19309) thematise (+s +ing +ed +ion -ISE)
+19310) pugnant
+19311) pugree
+19312) pugreed
+19313) Praed (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.55
 by Marco A.G.Pinto
