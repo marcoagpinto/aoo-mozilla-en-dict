@@ -22996,6 +22996,9 @@ V2.55 (ongoing)
 19448) semigroup
 19449) simplicial (Wiktionary)
 19450) tensorial (Wiktionary)
+19451) Amperian (Drew - Kevin Atkinson's GitHub)
+19452) Liouvillean (Drew - Kevin Atkinson's GitHub)
+19453) olog (Drew - Kevin Atkinson's GitHub)
 =============
 British English Dictionary (Forked) 2.55
 by Marco A.G.Pinto
