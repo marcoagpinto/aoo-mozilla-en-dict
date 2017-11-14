@@ -22952,6 +22952,50 @@ V2.55 (ongoing)
 19406) Whidbey (+'s - name - Wikipedia)
 19407) whiffle (+s +ing +ed)
 19408) whiffy (+ier +iest)
+
+14-NOV-2017
+19409) algebroid (+plural - Wiktionary)
+19410) Brillouin (+'s - name - Wikipedia)
+19411) cocycle (+plural - Wiktionary)
+19412) codimension (+plural - Wiktionary)
+19413) colimit (+s +ing +ed - Wiktionary)
+19414) contravariance (+plural - Wiktionary)
+19415) contravariant (Wiktionary)
+19416) covector (+plural - Wiktionary)
+19417) decoherence (+plural - Wiktionary)
+19418) decoherent (Wiktionary)
+19419) diffeomorphic (+ally - Wiktionary)
+19420) diffeomorphism (+plural - Wiktionary)
+19421) eigenspace (+plural - Wiktionary)
+19422) epimorphic (Wiktionary)
+19423) epimorphism (+plural - Wiktionary)
+19424) homotopic (Wiktionary)
+19425) Liouville (+'s - name - Wikipedia)
+19426) monoid
+19427) Noetherian (Wiktionary)
+19428) nonsingular (Wiktionary)
+19429) ology
+19430) ologist (+plural)
+19431) operad (+plural - Wiktionary)
+19432) phononic (Wiktionary)
+19433) plasmonic (Wiktionary)
+19434) polariton (+plural - Wiktionary)
+19435) subcomplex (+plural - Wiktionary)
+19436) submodule (+plural - Wiktionary)
+19437) symplectic (Wiktionary)
+19438) triangularize (+s +ing +ed - Wiktionary)
+19439) anharmonic (Wiktionary)
+19440) antiferromagnetism (Wiktionary)
+19441) cohomology (+plural - Wiktionary)
+19442) cosecant (+plural - Wiktionary)
+19443) diamagnetism (+plural - Wiktionary)
+19444) magnon (+plural - Wiktionary)
+19445) Markovian
+19446) plasmon (+plural - Wiktionary)
+19447) Riemannian
+19448) semigroup
+19449) simplicial (Wiktionary)
+19450) tensorial (Wiktionary)
 =============
 British English Dictionary (Forked) 2.55
 by Marco A.G.Pinto
