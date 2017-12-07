@@ -25097,7 +25097,96 @@ V2.56 (ongoing)
 21520) MySpell's (added +'s - name - Wikipedia)
 21521) Mysticeti's (added +'s - name - Wikipedia)
 21522) Möbius's (added +'s - name - Wikipedia)
-=M done=
+21523) NAT (Wiktionary: network address translation)
+21524) NTLM (Wiktionary: NT LAN Manager)
+
+7-DEC-2017
+21525) aggress (+s +ing +ed)
+21526) aggressee
+21527) aggregometer
+21528) assortative
+21529) autotelic
+21530) autoswitch (+s +ing +ed)
+21531) autosuggestive
+21532) autosuggestionist
+21533) autosuggestible
+21534) ceteris
+21535) paribus
+21536) correlational
+21537) social-psychological
+21538) counter-intuitively
+21539) deindividuation (Collins)
+21540) distractibility + distractability
+21541) distractible
+21542) effortful
+21543) effortfully
+21544) fMRI
+21545) heteroscedastic (Collins)
+21546) hominem
+21547) hydrophilicity
+21548) log-normal
+21549) log-normality
+21550) log-normally
+21551) misattribute (+s +ing +ed +ion +ions)
+21552) neuroplasticity
+21553) neuroplasm (+ic)
+21554) noetic
+21555) noetical + noëtical
+21556) personifiable
+21557) personeity + personëity
+21558) personed
+21559) personative
+21560) petitionable
+21561) petitionary
+21562) petitgrain
+21563) N'Djemena's (added +'s - name - Wikipedia)
+21564) Nafion's (added +'s - name - Wikipedia)
+21565) Nairnshire's (added +'s - name - Wikipedia)
+21566) Nantwich's (added +'s - name - Wikipedia)
+21567) Natchez's (added +'s - name - Wikipedia)
+21568) Nathel's (added +'s - name - Wikipedia)
+21569) NatWest's (added +'s - name - Wikipedia)
+21570) Navajo's (added +'s - name - Wikipedia)
+21571) Navarrese's (added +'s - name - Wikipedia)
+21572) Ndebele's (added +'s - name - Wikipedia)
+21573) Ne's (added +'s - name - Wikipedia)
+21574) Neale's (added +'s - name - Wikipedia)
+21575) Neolithic's (added +'s - name - Wikipedia)
+21576) Netherfield's (added +'s - name - Wikipedia)
+21577) Netherhampton's (added +'s - name - Wikipedia)
+21578) Neuburg's (added +'s - name - Wikipedia)
+21579) Neupogen's (added +'s - name - Wikipedia)
+21580) Newbridge's (added +'s - name - Wikipedia)
+21581) Newcastle-under-Lyme's (added +'s - name - Wikipedia)
+21582) Newnham's (added +'s - name - Wikipedia)
+21583) Nibelung's (added +'s - name - Wikipedia)
+21584) Nibelungen's (added +'s - name - Wikipedia)
+21585) Nibelungenlied's (added +'s - name - Wikipedia)
+21586) Nice's (added +'s - name - Wikipedia)
+21587) NickServ's (added +'s - name - Wikipedia)
+21588) Nihang's (added +'s - name - Wikipedia)
+21589) Nils's (added +'s - name - Wikipedia)
+21590) Niterói's (added +'s - name - Wikipedia)
+21591) Niuo's (added +'s - name - Wikipedia)
+21592) Nizari's (added +'s - name - Wikipedia)
+21593) Noble's (added +'s - name - Wikipedia)
+21594) Nok's (added +'s - name - Wikipedia)
+21595) Nonya's (added +'s - name - Wikipedia)
+21596) Noraid's (added +'s - name - Wikipedia)
+21597) Nordholts's (added +'s - name - Wikipedia)
+21598) Norplant's (added +'s - name - Wikipedia)
+21599) Norris's (added +'s - name - Wikipedia)
+21600) Northman's (added +'s - name - Wikipedia)
+21601) Nostradamus's (added +'s - name - Wikipedia)
+21602) Notre's (added +'s - name - Wikipedia)
+21603) Notting's (added +'s - name - Wikipedia)
+21604) Nounéa's (added +'s - name - Wikipedia)
+21605) Nova's (added +'s - name - Wikipedia)
+21606) Novocain's (added +'s - name - Wikipedia)
+21607) Nuku'alofa's (added +'s - name - Wikipedia)
+21608) Nunavut's (added +'s - name - Wikipedia)
+21609) Nuneaton's (added +'s - name - Wikipedia)
+=N done=
 =============
 British English Dictionary (Forked) 2.56
 by Marco A.G.Pinto
