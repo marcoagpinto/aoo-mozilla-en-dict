@@ -13,7 +13,9 @@ In some cases we will have to start from a long-time gone position, the last kno
 
 Modifying, updating and maintaining a dictionary is a hard task but an important one for current and future generations.
 
-The initial idea was that other projects could also use this GitHub entry and take the .AFF and .DIC files and use them in projects which use proofing — or spellchecking — functionalities.
+The dictionaries here are the most recent versions available and this repository was created to make it easier for developers to find all in one place.
+
+The idea was that other projects could use this GitHub and take the .AFF and .DIC files and use them in projects which use proofing — or spellchecking — functionalities.
 
 
 I (Marco Pinto) am only improving the en_GB. The en_AU, en_US and en_CA are maintained by Kevin Atkinson.
@@ -23,7 +25,7 @@ and https://sourceforge.net/projects/wordlist/files/Hunspell
 . en_ZA is maintained by Dwayne Bailey:
 http://translate.org.za
 
-I will try to release a monthly update for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it to avoid notifying people to update the dictionary after installing the latest AOO. This means that a release version is skipped for AOO and LO.
+I will try to release monthly updates for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it to avoid notifying people to update the dictionary after installing the latest AOO. This means that a release version is skipped for AOO.
 
 Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a log of all the changes.
 
