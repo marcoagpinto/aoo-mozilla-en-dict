@@ -26205,6 +26205,107 @@ V2.56 (ongoing)
 22611) Jonson (+'s - name - Wikipedia)
 22612) justiceable
 22613) justicely
+
+19-DEC-2017
+22614) Lebenswelt
+22615) unreflective (Collins)
+22616) unreflectively (Collins)
+22617) Nicolas (+'s - name - Wikipedia)
+22618) Lebowa (+'s - name - Wikipedia)
+22619) Lebrun (+'s - name - Wikipedia)
+22620) lebkuchen
+22621) lebensspur
+22622) Lebenslust
+22623) Lebensform
+22624) multimedial
+22625) multimegabit
+22626) Blish (+'s - name - Wikipedia)
+22627) multimanned
+22628) multiman
+22629) multimachine
+22630) multilocus
+22631) multiloculate
+22632) multilocular
+22633) multilocation
+22634) Pusey (+'s - name - Wikipedia)
+22635) multilocational
+22636) McLuhan (+'s - name - Wikipedia)
+22637) multilocularity
+22638) presexual
+22639) prepubertal
+22640) prepuberty
+22641) prepubertally
+22642) prepubic
+22643) prepubis + praepubis
+22644) Cruise (+'s - name - Wikipedia)
+22645) legalitarian
+22646) pheasantry (+plural)
+22647) phellandrene
+22648) Pheidippides (+'s - name - Wikipedia)
+22649) Sydenham (+'s - name - Wikipedia)
+22650) phellem
+22651) suberize (+s +ing +ed +ion -IZE)
+22652) suberise (+s +ing +ed +ion -ISE)
+22653) suberone
+22654) suberonyl
+22655) papilionaceous
+22656) papilionid (+plural)
+22657) nymphalid (+plural)
+22658) birdwing (+plural)
+22659) apollo (+plural)
+22660) Dionysiac
+22661) apophatic
+22662) theologize (+s +ing +ed -IZE)
+22663) theologise (+s +ing +ed -ISE)
+22664) Moltmann (+'s - name - Wikipedia)
+22665) Ratzinger (+'s - name - Wikipedia)
+22666) theogony (+plural)
+22667) Hesiod (+'s - name - Wikipedia)
+22668) Eleusis (+'s - name - Wikipedia)
+22669) Derveni (+'s - name - Wikipedia)
+22670) Argonautica (+'s - name - Wikipedia)
+22671) Fra (+'s - name - Wikipedia)
+22672) Angelico (+'s - name - Wikipedia)
+
+20-DEC-2017
+22673) MailChimp (+'s - name - Wikipedia)
+22674) Manjoo (+'s - name - Wikipedia)
+22675) Farhad (+'s - name - Wikipedia)
+22676) podcast's (added +'s - Wikipedia)
+22677) Rashida (+'s - name - Wikipedia)
+22678) Donnenberg (+'s - name - Wikipedia)
+22679) imagism
+22680) imagist (+plural)
+22681) imagistic
+22682) literalize (added +s +ing +ed -IZE)
+22683) literalise (added +s +ing +ed -ISE)
+22684) Aldington (+'s - name - Wikipedia)
+22685) Benstock (+'s - name - Wikipedia)
+22686) Mifflin (+'s - name - Wikipedia)
+22687) Jeri (+'s - name - Wikipedia)
+22688) Biblo (+'s - name - Wikipedia)
+22689) Tannen (+'s - name - Wikipedia)
+22690) Litz (+'s - name - Wikipedia)
+22691) Symons (+'s - name - Wikipedia)
+22692) MacGowan (+'s - name - Wikipedia)
+22693) Longenbach (+'s - name - Wikipedia)
+22694) historicize (+s +ing +ed +ion -IZE)
+22695) historicise (+s +ing +ed +ion -ISE)
+22696) Chesnutt (+'s - name - Wikipedia)
+22697) Barkan (+'s - name - Wikipedia)
+22698) Wallerstein (+'s - name - Wikipedia)
+22699) subpar
+22700) Samouelle (+'s - name - Wikipedia)
+22701) subornee
+22702) Cogut (+'s - name - Wikipedia)
+22703) suborner (+plural)
+22704) Quorn (+'s - name - Wikipedia)
+22705) mycoprotein
+22706) mycoplasmology
+22707) mycoplasmologist
+22708) mycoplasmosis
+22709) mycoplasmal
+22710) mycoplasmic
 =============
 British English Dictionary (Forked) 2.56
 by Marco A.G.Pinto
