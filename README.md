@@ -30,7 +30,7 @@ I will try to release monthly updates for Mozilla, and every two months for Open
 Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a log of all the changes.
 
 I always keep a note of the most recent version released for Mozilla, AOO and LO on the official Proofing Tool GUI site:
-http://marcoagpinto.cidadevirtual.pt/proofingtoolgui.html
+http://proofingtoolgui.org
 
 
 #### Each GitHub folder has:
