@@ -26582,6 +26582,171 @@ V2.56
 22976) Armin (+'s - name - Wikipedia)
 22977) Luboš (+'s - name - Wikipedia)
 22978) Luňák (+'s - name - Wikipedia)
+
+V2.57 (ongoing)
+2-JAN-2018
+22979) scuppering (merged into scupper)
+22980) scuppernong
+22981) mongering
+22982) john (+plural)
+22983) mama-san (+plural)
+22984) Caulfield (+'s - name - Wikipedia)
+22985) Comintern (+'s - name - Wikipedia)
+22986) doggie
+22987) dogginess
+22988) Zohar (+'s - name - Wikipedia)
+22989) Naamah (+'s - name - Wikipedia)
+22990) Lais (+'s - name - Wikipedia)
+22991) Eisheth (+'s - name - Wikipedia)
+22992) Zenunim (+'s - name - Wikipedia)
+22993) Craigslist (+'s - name - Wikipedia)
+22994) Ramos (+'s - name - Wikipedia)
+22995) Patpong (+'s - name - Wikipedia)
+22996) Vadia (+'s - name - Wikipedia)
+22997) Honwana (+'s - name - Wikipedia)
+22998) Alcinda (+'s - name - Wikipedia)
+22999) Wickman (+'s - name - Wikipedia)
+23000) Limbaugh (+'s - name - Wikipedia)
+23001) Lubin (+'s - name - Wikipedia)
+23002) Ramseyer (+'s - name - Wikipedia)
+23003) Nickie (+'s - name - Wikipedia)
+23004) Findlen (+'s - name - Wikipedia)
+23005) Rossiaud (+'s - name - Wikipedia)
+23006) Bullough (+'s - name - Wikipedia)
+23007) Knauer (+'s - name - Wikipedia)
+23008) Karras (+'s - name - Wikipedia)
+23009) Brundage (+'s - name - Wikipedia)
+23010) bardash (+plural - Collins)
+23011) Redrobe (+'s - name - Wikipedia)
+23012) Jill (+'s - name - Wikipedia)
+23013) Harsin (+'s - name - Wikipedia)
+23014) Allyn (+'s - name - Wikipedia)
+23015) Scambler (+'s - name - Wikipedia)
+23016) Weitzer (+'s - name - Wikipedia)
+23017) Dynes (+'s - name - Wikipedia)
+23018) Siegal (+'s - name - Wikipedia)
+23019) Wellings (+'s - name - Wikipedia)
+23020) Bennetts (+'s - name - Wikipedia)
+23021) Languedoc (+'s - name - Wikipedia)
+23022) Bowmer (+'s - name - Wikipedia)
+23023) Shabbir (+'s - name - Wikipedia)
+23024) Potterat (+'s - name - Wikipedia)
+
+3-JAN-2018
+23025) sex's (added +'s)
+23026) abductee's (added +'s)
+23027) abortional
+23028) abseilers (added plural)
+23029) honeypot's (added +'s)
+23030) hoodwinkers (added plural)
+23031) hotlinked (merged into hotlink)
+23032) hotline's (added +'s)
+23033) mine's (added +'s)
+23034) mineable + minable
+23035) demine (+s +ing +ed +er +ers)
+23036) Beyoncé (+'s - name - Wikipedia)
+23037) demi-sec
+23038) moelleux
+23039) doux
+23040) brut
+23041) Gorey (+'s - name - Wikipedia)
+23042) Killigrew (+'s - name - Wikipedia)
+23043) Bruton (+'s - name - Wikipedia)
+23044) Desna (+'s - name - Wikipedia)
+23045) Brylcreem (+'s +ed)
+23046) Aylward (+'s - name - Wikipedia)
+23047) Steere (+'s - name - Wikipedia)
+23048) Takahashi (+'s - name - Wikipedia)
+23049) Quercus
+23050) Bryozoa
+23051) Ectoprocta
+23052) Polyzoa
+23053) lophophorate (+plural)
+23054) Phoronida
+23055) phoronid (+plural)
+23056) holothurian (+plural)
+23057) echiurid (+plural)
+23059) Entoprocta
+23060) entoproct (+plural)
+23061) Gastrotricha
+23062) gastrotrich (+plural)
+23063) multiciliate (+ed)
+23064) micronation
+23065) microneedle
+23066) Palikir (+'s - name - Wikipedia)
+23067) micronize (+s +ing +ed +ion +er +ers -IZE)
+23068) micronise (+s +ing +ed +ion +er +ers -ISE)
+23069) non-greasy
+23070) micronuclear
+23071) micronodular
+23072) macronutrient (+plural)
+23073) Ritu (+'s - name - Wikipedia)
+23074) Kothari (+'s - name - Wikipedia)
+23075) Cristau (+'s - name - Wikipedia)
+23076) Sylvestre (+'s - name - Wikipedia)
+23077) Ledru (+'s - name - Wikipedia)
+23078) Panos (+'s - name - Wikipedia)
+23079) Tseng (+'s - name - Wikipedia)
+23080) Tsai (+'s - name - Wikipedia)
+23081) Asif (+'s - name - Wikipedia)
+23082) Youssuff (+'s - name - Wikipedia)
+
+5-JAN-2018
+23083) macropaedia
+23084) Ilich (+'s - name - Wikipedia)
+23085) Ulyanov (+'s - name - Wikipedia)
+23086) Leninists (added plural)
+23087) Leninite
+23088) Leninakan (+'s - name - Wikipedia)
+23089) Gyumri (+'s - name - Wikipedia)
+23090) taniwha (+plural)
+23091) menehune
+23092) meneghinite
+23093) polyuria
+23094) polyuric
+23095) polydipsia
+23096) nephrolithiasis
+23097) insipidus
+23098) nephrogenic
+23099) nephrogastric
+23100) nephrocolic
+23101) nephroblastoma
+23102) multicystic
+23103) Wilms (+'s - name - Wikipedia)
+23104) multidentate
+23105) multicycle
+23106) multicyclic
+23107) multidenticulate
+23108) multidialectalism
+23109) bidialectalism (Collins)
+23110) multidigitate
+23111) multidialectal
+23112) bidialectal (Collins)
+23113) lesseeship (+plural)
+23114) Durney (+'s - name - Wikipedia)
+23115) Penley (+'s - name - Wikipedia)
+23116) Coppin (+'s - name - Wikipedia)
+23117) bargee (+plural)
+23118) thuggee
+23119) allottee (+plural)
+23120) bawbee (+plural)
+23121) buckshee
+23122) Trincomalee (+'s - name - Wikipedia)
+23123) maquis
+23124) maquisard (+plural)
+23125) maquillage (+ed)
+23126) lettergram
+23127) letterform (+plural)
+23128) technification
+23129) technicum + technikum
+23130) technified
+23131) technicology
+23132) technicize (+s +ing +ed -IZE)
+23133) technicise (+s +ing +ed -ISE)
+23134) technicity
+23135) provisory
+23136) provisorily
+23137) quickstarter (software term)
 =============
-British English Dictionary (Forked) 2.56
+British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
