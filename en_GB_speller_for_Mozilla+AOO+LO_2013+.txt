@@ -26814,6 +26814,122 @@ V2.57 (ongoing)
 23198) Ingo (+'s - name - Wikipedia)
 23199) Kaganski (+'s - name - Wikipedia)
 23200) Stanislav (+'s - name - Wikipedia)
+
+10-JAN-2018
+23201) Alexandre (+'s - name - Wikipedia)
+23202) Duarte (+'s - name - Wikipedia)
+23203) Teixeira (+'s - name - Wikipedia)
+23204) Damas (+'s - name - Wikipedia)
+23205) Rawlinson (+'s - name - Wikipedia)
+23206) Barros (+'s - name - Wikipedia)
+23207) Moura (+'s - name - Wikipedia)
+23208) Henrique (+'s - name - Wikipedia)
+23209) Schuessler (+'s - name - Wikipedia)
+23210) Sinkkonen (+'s - name - Wikipedia)
+23211) Keijo (+'s - name - Wikipedia)
+23212) Borges (+'s - name - Wikipedia)
+23213) Versen (+'s - name - Wikipedia)
+23214) der (part of name - Wikipedia)
+23215) Patti (+'s - name - Wikipedia)
+23216) Correia (+'s - name - Wikipedia)
+23217) Bettencourt (+'s - name - Wikipedia)
+23218) Sabash (+'s - name - Wikipedia)
+23219) Cunha (+'s - name - Wikipedia)
+23220) Ullyatt (+'s - name - Wikipedia)
+23221) Wilen (+'s - name - Wikipedia)
+23222) Guerra (+'s - name - Wikipedia)
+23223) Viana (+'s - name - Wikipedia)
+23224) Oskar (+'s - name - Wikipedia)
+23225) Nery (+'s - name - Wikipedia)
+23226) Ribeiro (+'s - name - Wikipedia)
+23227) Abreu (+'s - name - Wikipedia)
+23228) Schierl (+'s - name - Wikipedia)
+23229) Trevisan (+'s - name - Wikipedia)
+23230) Trévisan (+'s - name - Wikipedia)
+23231) Poletto (+'s - name - Wikipedia)
+23232) Swales (+'s - name - Wikipedia)
+23233) Leal (+'s - name - Wikipedia)
+23234) hyperbolize (+s +ing +ed -IZE)
+23235) hyperbolise (+s +ing +ed -ISE)
+23236) hyperbolae (another plural of hyperbola)
+23237) hyperbolical
+23238) hyperbolism
+23239) apocalyptical (Collins)
+23240) hyperbaton (+plural)
+23241) hyperbaric
+23242) hyperimmune
+23243) hyperimmunized
+23244) immunoblot (+s +ing +ed)
+
+12-JAN-2018
+23245) immunobiology
+23246) immunobiological
+23247) immunobiologic
+23248) biocatalysis
+23249) bioburden
+23250) biocapacity
+23251) bioblast
+23252) Altmann (+'s - name - Wikipedia)
+23253) protobiont
+23254) protobird
+23255) protocanonical
+23256) deuterocanonical
+23257) deuterostome
+23258) biocellate
+23259) biocentrically
+23260) Eiseley (+'s - name - Wikipedia)
+23261) Lanza (+'s - name - Wikipedia)
+23262) bioceramic
+23263) biochem
+23264) Lehmann (+'s - name - Wikipedia)
+23265) biochemic
+23266) biocatalyst (+plural)
+23267) Rath (+'s - name - Wikipedia)
+23268) biocatalytic
+23269) lentoid
+23270) lentogenic
+23271) lentivirus (+plural)
+23272) lentisk
+23273) lentissimo
+23274) zucchini (+plural)
+23275) Beim (+'s - name - Wikipedia)
+23276) Zukor (+'s - name - Wikipedia)
+23277) Zug (+'s - name - Wikipedia)
+23278) Zsigmondy (+'s - name - Wikipedia)
+23279) Zr
+23280) Lauper (+'s - name - Wikipedia)
+23281) Zollitsch (+'s - name - Wikipedia)
+23282) zitherist (+plural)
+23283) cittern (+plural)
+23284) rebec + rebeck (+plural)
+23285) krummhorn + crumhorn (+plural)
+23286) sackbut (+plural)
+23287) hurdy-gurdy (+plural)
+23288) ripieno (+plural)
+23289) ripieni (another plural of previous word)
+23290) concertino (+plural)
+23291) Creston (+'s - name - Wikipedia)
+23292) Cassino (+'s - name - Wikipedia)
+23293) ladino (+plural)
+23294) Ladino (+plural)
+23295) Ladislaus (+'s - name - Wikipedia)
+23296) ladleful
+23297) ladler (+plural)
+23298) Ladoga (+'s - name - Wikipedia)
+23299) ladrone (+plural)
+23300) leptonic
+23301) melanocyte (+plural)
+23302) ependyma
+23303) ependymal
+23304) neuroglia
+23305) somata (Collins)
+23306) oligodendroglia
+23307) oligodendroglial
+23308) immunocytochemistry
+23309) glioma (+plural)
+23310) gliomata (another plural of previous word)
+23311) glioblastoma (+plural)
+23312) glioblastomata (another plural of previous word)
 =============
 British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
