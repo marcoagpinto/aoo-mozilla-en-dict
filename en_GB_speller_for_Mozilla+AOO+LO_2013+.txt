@@ -26930,6 +26930,64 @@ V2.57 (ongoing)
 23310) gliomata (another plural of previous word)
 23311) glioblastoma (+plural)
 23312) glioblastomata (another plural of previous word)
+23313) clitic (+plural)
+23314) cliticization (-IZE)
+23315) cliticisation (-ISE)
+23316) cliticize (+s +ing +ed -IZE)
+23317) cliticise (+s +ing +ed -ISE)
+23318) postposition (added singular)
+23319) postpositional
+23320) Vicenza (+'s - name - Wikipedia)
+23321) affixation
+23322) interdigitate (+s +ing +ed)
+23323) polysynthetic (+ally)
+23324) appositive (+plural)
+23325) complementizer (+plural -IZE)
+23326) complementiser (+plural -ISE)
+23327) nominalize (+s +ing +ed +ion -IZE)
+23328) nominalise (+s +ing +ed +ion -ISE)
+23329) nominalizable
+23330) nominalistically
+23331) nominalism
+23332) nominalist (+plural)
+23333) nominalistic
+23334) Adorno (+'s - name - Wikipedia)
+23335) Ockham (+'s - name - Wikipedia)
+23336) Barash (+'s - name - Wikipedia)
+23337) Tillich (+'s - name - Wikipedia)
+23338) Buridan (+'s - name - Wikipedia)
+23339) honorifics (added plural)
+23340) Rizza (+'s - name - Wikipedia)
+23341) honorifically
+23342) Drezner (+'s - name - Wikipedia)
+23343) Muñoz (+'s - name - Wikipedia)
+23344) periphrastically
+23345) suppletion
+23346) suppletive
+23347) lexemic (Collins)
+23348) Rufinus (+'s - name - Wikipedia)
+23349) Tristram (+'s - name - Wikipedia)
+23350) Thackery (+'s - name - Wikipedia)
+23351) Nickleby (+'s - name - Wikipedia)
+23352) inflectionless + inflexionless
+23353) inflexional
+23354) inflexionally
+23355) Wycliffe (+'s - name - Wikipedia)
+23356) Roshan (+'s - name - Wikipedia)
+23357) McArthur (+'s - name - Wikipedia)
+23358) Burchfield (+'s - name - Wikipedia)
+23359) Quinion (+'s - name - Wikipedia)
+23360) Greenbaum (+'s - name - Wikipedia)
+23361) Huddleston (+'s - name - Wikipedia)
+23362) Pullum (+'s - name - Wikipedia)
+23363) Longman (+'s - name - Wikipedia)
+23364) Algeo (+'s - name - Wikipedia)
+23365) morphosyntactic
+23366) morphosyntactically
+23367) morphosyntax
+23368) morphotactic (+plural)
+23369) morphotectonic (+plural)
+23370) morphotic
 =============
 British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
