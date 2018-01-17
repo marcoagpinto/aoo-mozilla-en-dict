@@ -26988,6 +26988,141 @@ V2.57 (ongoing)
 23368) morphotactic (+plural)
 23369) morphotectonic (+plural)
 23370) morphotic
+
+13-JAN-2018
+23371) dojo's (added +'s - Wikipedia)
+23372) facula
+23373) faculae (plural of previous word)
+23374) facular
+23375) facty
+23376) factualist (+plural)
+23377) factualism
+23378) factrix
+23379) factotumship
+23380) teetotum (+plural)
+23381) tefillin
+23382) mezuzah (+plural)
+23383) mezuzoth (another plural of previous word)
+23384) shofar (+plural)
+23385) shofroth (another plural of previous word)
+23386) matutinal
+23387) Mata (+'s - name - Wikipedia)
+23388) Hari (+'s - name - Wikipedia)
+23389) duskily
+23390) Duse (+'s - name - Wikipedia)
+23391) Eleonora (+'s - name - Wikipedia)
+23392) Durrës (+'s - name - Wikipedia)
+23393) Durrell (+'s - name - Wikipedia)
+23394) Durocher (+'s - name - Wikipedia)
+23395) sensei's (added +'s - Wikipedia)
+23396) Duroc (+plural)
+23397) Tamworths (added plural - it is a name and a kind of pig too)
+23398) tamponade
+23399) Tampico (+'s - name - Wikipedia)
+23400) Rarotonga (+'s - name - Wikipedia)
+23401) Rarotongan
+23402) pintoresque
+23403) Pintsch (+'s - name - Wikipedia)
+
+15-JAN-2018
+23404) scoutship (+'s +plural - Wiktionary)
+23405) Bouchaniche (+'s - name - Wikipedia)
+23406) Hallet (+'s - name - Wikipedia)
+23407) Beaulieu (+'s - name - Wikipedia)
+23408) Santilli (+'s - name - Wikipedia)
+23409) shitholes (added plural - Wiktionary)
+23410) spitty
+23411) chlorella
+23412) chlorhexidine
+23413) iodophor (+plural)
+23414) iodometry (+ic)
+23415) absorptiometer (+plural)
+23416) absorptiometric
+23417) absorptiometry
+23418) absorptiometrically
+23419) absorptance
+23420) hitman (+'s)
+23421) Gilbank (+'s - name - Wikipedia)
+23422) Rippner (+'s - name - Wikipedia)
+23423) Giba (+'s - name - Wikipedia)
+23424) Maki (+'s - name - Wikipedia)
+23425) Bakley (+'s - name - Wikipedia)
+23426) Tocqueville (+'s - name - Wikipedia)
+23427) hitmaker
+23428) Goebbels (+'s - name - Wikipedia)
+23429) Hesperian
+23430) Hesperides
+23431) Cancerian (+plural)
+23432) canceration
+23433) cancered
+23434) Mabbe (+'s - name - Wikipedia)
+23435) cancericidal + cancerocidal
+23436) cancerologist
+23437) cancerology
+23438) cancerogenic
+23439) cancerousness
+23440) cancerwort
+23441) cancroid
+23442) parthenopid
+23443) brachyuran (+plural)
+23444) hyperplastic (Collins)
+23445) brachypellic
+23446) braciola
+23447) cavatelli
+23448) rusticism
+23449) rusticle
+23450) rusticness
+23451) rusticly
+23452) Rustin (+'s - name - Wikipedia)
+23453) rustless (rustless steel)
+23454) rustlingly
+23455) Ruston (+'s - name - Wikipedia)
+23456) rustproofer
+23457) rustred
+23458) Meyrick (+'s - name - Wikipedia)
+23459) rustily
+23460) bustian
+23461) bustiers (added plural)
+23462) strappy (+ier +iest)
+23463) Majella (+'s - name - Wikipedia)
+23464) razzle
+23465) raunch
+23466) flutteringly
+23467) Rachel (+'s - name - Wikipedia)
+23468) declutter (+s +ing +ed)
+23469) declinist (+plural)
+23470) declutch (+s +ing +ed)
+23471) Yeltsin (+'s - name - Wikipedia)
+23472) decoke (+s +ing +ed)
+
+17-JAN-2018
+23473) cosupervisor's (added +'s)
+23474) PowerPoint's (added +'s)
+23475) supervisorship
+23476) supervolcano
+23477) supervolcanoes + supervolcanos (plurals of previous word)
+23478) supervolute
+23479) vernation
+23480) stereomicroscope
+23481) stereolithography (+ic)
+23482) Archytas (+'s - name - Wikipedia)
+23483) Brisson (+'s - name - Wikipedia)
+23484) stereopticon
+23485) stereopsis
+23486) stereoptic
+23487) clawless
+23488) Johor (+'s - name - Wikipedia)
+23489) Elman (+'s - name - Wikipedia)
+23490) ouzel + ousel (+'s for both)
+23491) merlins (added plural)
+23492) Capetian (+plural)
+23493) Plantagenet (+plural)
+23494) Angevin (+plural +'s)
+23495) Regno (+'s - name - Wikipedia)
+23496) angiocardiographic
+23497) angioid
+23498) Bruch (+'s - name - Wikipedia)
+23499) Paget (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
