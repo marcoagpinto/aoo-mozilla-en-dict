@@ -27123,6 +27123,58 @@ V2.57 (ongoing)
 23497) angioid
 23498) Bruch (+'s - name - Wikipedia)
 23499) Paget (+'s - name - Wikipedia)
+
+22-JAN-2018
+23500) license (added +'s)
+23501) Haworth (+'s - name - Wikipedia)
+23502) licencing + licenced (merged into licence - Wiktionary)
+23503) brewhouse (+plural)
+23504) Wheatley (+'s - name - Wikipedia)
+23505) Taverner (+'s - name - Wikipedia)
+23506) Henaghan (+'s - name - Wikipedia)
+23507) Clarissa (+'s - name - Wikipedia)
+23508) Dalloway (+'s - name - Wikipedia)
+23509) Cadzow (+'s - name - Wikipedia)
+23510) Kanak (+'s - name - Wikipedia)
+23511) nightwalker (+plural)
+23512) Valjean (+'s - name - Wikipedia)
+23513) nightwalking
+23514) Carlsberg (+'s - name - Wikipedia)
+23515) Denn (+'s - name - Wikipedia)
+23516) mandragora
+23517) Mandrax
+23518) Dagestanian
+23519) Dagestani (+plural)
+23520) Terek (+'s - name - Wikipedia)
+23521) Makhachkala (+'s - name - Wikipedia)
+23522) Dagestan (+'s - name - Wikipedia)
+23523) daffily
+23524) primulin + primuline
+23525) primulaceous
+23526) primrosed
+23527) primrosy + primrosey
+23528) primsy + premsie
+23529) primstaff + primestaff
+23530) polyanthus
+23531) Wanda (+'s - name - Wikipedia)
+23532) lobelia (+plural)
+23533) orientalism (+plural - changed to lowercase)
+23534) orientalist (+plural - changed to lowercase)
+23535) Notovich (+'s - name - Wikipedia)
+23536) Transjordan (+'s - name - Wikipedia)
+23537) orientality
+23538) orientational
+23539) Wharfedale (+'s - name - Wikipedia)
+23540) Kincardine (+'s - name - Wikipedia)
+23541) Ulverston (+'s - name - Wikipedia)
+23542) bandolier (+plural)
+23543) Bashkir (+plural)
+23544) Coetzee (+'s - name - Wikipedia)
+23545) Medea (+'s - name - Wikipedia)
+23546) Melilla (+'s - name - Wikipedia)
+23547) Galatea (+'s - name - Wikipedia)
+23548) Meir (+'s - name - Wikipedia)
+23549) Cordelier (+plural)
 =============
 British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
