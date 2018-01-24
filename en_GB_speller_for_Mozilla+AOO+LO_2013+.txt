@@ -27175,6 +27175,125 @@ V2.57 (ongoing)
 23547) Galatea (+'s - name - Wikipedia)
 23548) Meir (+'s - name - Wikipedia)
 23549) Cordelier (+plural)
+
+23-JAN-2018
+23550) lymphoblast (+plural +ic)
+23551) Sjogren (+'s - name - Wikipedia)
+23552) lymphokine (+plural)
+23553) monokine (+plural)
+23554) leukotriene (+plural)
+23555) arachidonic (arachidonic acid)
+23556) thromboxane
+23557) thronal
+23558) Nonjuror
+23559) epigenetics
+23560) superorganism (+plural)
+23561) Hearn (+'s - name - Wikipedia)
+23562) superorganic
+23563) superosculate (+s +ing +ed)
+23564) superovulate (+s +ing +ed)
+23565) superoxides (added plural)
+23566) superoxygenation
+23567) superoxygenated
+23568) superparamagnetic
+23569) superparamagnetism
+23570) superparasite
+23571) superparasitic
+23572) superparasitism
+23573) superparticular
+23574) superparticularity
+23575) sparticle (+plural)
+23576) Higgs (+'s - name - Wikipedia)
+23577) thymoma (+plural)
+23578) thymomata (another plural of the previous word)
+23579) oncovirus (+plural - Collins)
+23580) wollastonite
+23581) vesuvianite
+23582) zoisite
+23583) leucocratic (Collins)
+23584) thulite (Collins)
+23585) pectolite
+23586) pyroxenoid
+23587) rhodonite
+23588) tridymite
+23589) paramorphism
+23590) paramorphs (added plural)
+23591) glucuronide (Collins)
+23592) coeliac (+plural)
+23593) immunomodulator
+23594) immunopathologic + immunopathological
+23595) immunopathologist
+23596) immunopharmacology
+23597) myelogenous
+23598) oncogenic
+23599) oncogenesis
+23600) oncogenicity
+23601) Marek (+'s - name - Wikipedia)
+23602) multistep
+23603) retroviral
+23604) aneuploid
+23605) aneuploidy
+
+24-JAN-2018
+23606) metastasize (+s +ing +ed -IZE)
+23607) adrenals (added plural)
+23608) metastatement
+23609) metasternal
+23610) metasternum
+23611) metastatically
+23612) metastomial
+23613) Lankester (+'s - name - Wikipedia)
+23614) metastomium
+23615) pygidium
+23616) pygidia (plural of previous word)
+23617) pygarg
+23618) Pliny (+'s - name - Wikipedia)
+23619) pygal
+23620) intravasation (Collins)
+23621) mesenchyme
+23622) mesenchymal
+23623) mesenchymatous
+23624) fibrosus (annulus fibrosus)
+23625) pulposus (nucleus pulposus)
+23626) collagenic (Collins)
+23627) collagenous (Collins)
+23628) seminoma (Collins)
+23629) blastoma (+plural)
+23630) blastomata (another plural of the previous word)
+23631) blastodisk + blastodisc (+plural of both)
+23632) amniote (+plural)
+23633) amnia (another plural of amnion)
+23634) zymodeme
+23635) zymogen (+plural)
+23636) thrombin
+23637) prothrombin
+23638) prothonotariat + protonotariat
+23639) Ogilvie (+'s - name - Wikipedia)
+23640) prothetically
+23641) prothetical
+23642) prothesis
+23643) protheses (plural of previous word)
+23644) Bickerstaffe (+'s - name - Wikipedia)
+23645) Inchbald (+'s - name - Wikipedia)
+23646) Rahim (+'s - name - Wikipedia)
+23647) Qadir (+'s - name - Wikipedia)
+23648) prefixation
+23649) prefixion
+23650) unrustling
+23651) Ohlsson (+'s - name - Wikipedia)
+23652) unringed
+23653) unrip (+s +ing +ed)
+23654) unrigorous
+23655) Hakluyt (+'s - name - Wikipedia)
+23656) Jencks (+'s - name - Wikipedia)
+23657) unrightness
+23658) unrightfulness
+23659) unrightful (+ly)
+23660) unrightly
+23661) MathWorks (+'s - name - Wikipedia)
+23662) MATLAB (+'s - name - Wikipedia)
+23663) Wolfram (+'s - name - Wikipedia)
+23664) Sievers (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
