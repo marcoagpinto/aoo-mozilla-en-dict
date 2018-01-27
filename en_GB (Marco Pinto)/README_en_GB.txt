@@ -106,6 +106,9 @@ http://proofingtoolgui.org
 FAQ:
 http://marcoagpinto.cidadevirtual.pt/faq.html
 
+FAQ ("movie", "automobile", "airplane", "hardcover" and "bookstore"):
+http://marcoagpinto.cidadevirtual.pt/faq.html#7
+
 Changelog:
 http://marcoagpinto.cidadevirtual.pt/en_GB_CHANGES.txt
 
