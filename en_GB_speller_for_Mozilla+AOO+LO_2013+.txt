@@ -26583,7 +26583,7 @@ V2.56
 22977) Luboš (+'s - name - Wikipedia)
 22978) Luňák (+'s - name - Wikipedia)
 
-V2.57 (ongoing)
+V2.57
 2-JAN-2018
 22979) scuppering (merged into scupper)
 22980) scuppernong
@@ -27294,6 +27294,160 @@ V2.57 (ongoing)
 23662) MATLAB (+'s - name - Wikipedia)
 23663) Wolfram (+'s - name - Wikipedia)
 23664) Sievers (+'s - name - Wikipedia)
+23665) Cinavia (+'s - Wikipedia)
+23666) AACS (+'s - Wikipedia)
+23667) PowerDVD (+'s - Wikipedia)
+23668) CyberLink (+'s - company name - Wikipedia)
+
+25-JAN-2018
+23669) Bazargan (+'s - name - Wikipedia)
+23670) Benedetti (+'s - name - Wikipedia)
+23671) Bruera (+'s - name - Wikipedia)
+23672) Carducci (+'s - name - Wikipedia)
+23673) Eberle (+'s - name - Wikipedia)
+23674) Rhiner (+'s - name - Wikipedia)
+23675) Slatkin (+'s - name - Wikipedia)
+23676) Waldmann (+'s - name - Wikipedia)
+23677) Cassileth (+'s - name - Wikipedia)
+23678) Deng (+'s - name - Wikipedia)
+23679) Rheingold (+'s - name - Wikipedia)
+23680) Alberts (+'s - name - Wikipedia)
+23681) Pawelec (+'s - name - Wikipedia)
+23682) Sikora (+'s - name - Wikipedia)
+23683) Magalhães (+'s - name - Wikipedia)
+23684) Anisimov (+'s - name - Wikipedia)
+23685) Schottenfeld (+'s - name - Wikipedia)
+23686) Fraumeni (+'s - name - Wikipedia)
+23687) Bostwick (+'s - name - Wikipedia)
+23688) Mosby (+'s - name - Wikipedia)
+23689) Jemal (+'s - name - Wikipedia)
+23690) Hajdu (+'s - name - Wikipedia)
+23691) Shimkin (+'s - name - Wikipedia)
+23692) Aegina (+'s - name - Wikipedia)
+23693) Joris (+'s - name - Wikipedia)
+23694) Isabelle (+'s - name - Wikipedia)
+23695) Majno (+'s - name - Wikipedia)
+23696) Rapini (+'s - name - Wikipedia)
+23697) McCulley (+'s - name - Wikipedia)
+23698) Gayle (+'s - name - Wikipedia)
+23699) Ehrenreich (+'s - name - Wikipedia)
+23700) Bathsheba (+'s - name - Wikipedia)
+23701) Leong (+'s - name - Wikipedia)
+23702) Kirschner (+'s - name - Wikipedia)
+23703) Tilghman (+'s - name - Wikipedia)
+23704) Kolata (+'s - name - Wikipedia)
+23705) Winther (+'s - name - Wikipedia)
+23706) Begley (+'s - name - Wikipedia)
+23707) Plowman (+'s - name - Wikipedia)
+23708) Wanjek (+'s - name - Wikipedia)
+23709) Thamm (+'s - name - Wikipedia)
+23710) Henke (+'s - name - Wikipedia)
+23711) Yarbro (+'s - name - Wikipedia)
+23712) Pritchard (+'s - name - Wikipedia)
+23713) Gobel (+'s - name - Wikipedia)
+23714) Wujcik (+'s - name - Wikipedia)
+23715) Varmus (+'s - name - Wikipedia)
+23716) Hongwang (+'s - name - Wikipedia)
+23717) Tannock (+'s - name - Wikipedia)
+23718) Siddhartha (+'s - name - Wikipedia)
+23719) Mukherjee (+'s - name - Wikipedia)
+23720) Pazdur (+'s - name - Wikipedia)
+23721) Kleinsmith (+'s - name - Wikipedia)
+23722) Weichselbaum (+'s - name - Wikipedia)
+23723) Martine (+'s - name - Wikipedia)
+23724) Schnipper (+'s - name - Wikipedia)
+23725) Fleshman (+'s - name - Wikipedia)
+23726) Burstein (+'s - name - Wikipedia)
+23727) Hillner (+'s - name - Wikipedia)
+23728) Venook (+'s - name - Wikipedia)
+23729) Mulcahy (+'s - name - Wikipedia)
+23730) Saltz (+'s - name - Wikipedia)
+23731) Shibata (+'s - name - Wikipedia)
+23732) Willett (+'s - name - Wikipedia)
+23733) Debono (+'s - name - Wikipedia)
+23734) Sofocleous (+'s - name - Wikipedia)
+23735) Allred (+'s - name - Wikipedia)
+23736) Rao (+'s - name - Wikipedia)
+23737) Choti (+'s - name - Wikipedia)
+23738) Ettinger (+'s - name - Wikipedia)
+23739) Strawn (+'s - name - Wikipedia)
+23740) Akerley (+'s - name - Wikipedia)
+23741) Bepler (+'s - name - Wikipedia)
+23742) Laskin (+'s - name - Wikipedia)
+23743) Giaccone (+'s - name - Wikipedia)
+23744) Nordquist (+'s - name - Wikipedia)
+23745) Temin (+'s - name - Wikipedia)
+23746) Piantadosi (+'s - name - Wikipedia)
+23747) Pao (+'s - name - Wikipedia)
+23748) Aliff (+'s - name - Wikipedia)
+23749) Pfister (+'s - name - Wikipedia)
+23750) Baldock (+'s - name - Wikipedia)
+23751) Healy (+'s - name - Wikipedia)
+23752) Thwaite (+'s - name - Wikipedia)
+23753) Crowther (+'s - name - Wikipedia)
+23754) McMorran (+'s - name - Wikipedia)
+23755) Kunkler (+'s - name - Wikipedia)
+23756) Bomford (+'s - name - Wikipedia)
+23757) Rampling (+'s - name - Wikipedia)
+23758) Gulati (+'s - name - Wikipedia)
+23759) Croswell (+'s - name - Wikipedia)
+23760) Jungner (+'s - name - Wikipedia)
+23761) Nikolova (+'s - name - Wikipedia)
+23762) Simonetti (+'s - name - Wikipedia)
+23763) Fergusson (+'s - name - Wikipedia)
+23764) Doucette (+'s - name - Wikipedia)
+23765) Seely (+'s - name - Wikipedia)
+23766) Sagar (+'s - name - Wikipedia)
+23767) Minna (+'s - name - Wikipedia)
+23768) Sandler (+'s - name - Wikipedia)
+23769) Haile (+'s - name - Wikipedia)
+23770) PMID (+plural - Wiktionary)
+23771) Chou (+'s - name - Wikipedia)
+23772) Madan (+'s - name - Wikipedia)
+23773) Gleitsmann (+'s - name - Wikipedia)
+23774) Plummer (+'s - name - Wikipedia)
+23775) Brinkman (+'s - name - Wikipedia)
+23776) Zeegers (+'s - name - Wikipedia)
+23777) Zwahlen (+'s - name - Wikipedia)
+23778) Horneber (+'s - name - Wikipedia)
+23779) Ahnen (+'s - name - Wikipedia)
+23780) Crespi (+'s - name - Wikipedia)
+23781) Snover (+'s - name - Wikipedia)
+23782) Ueland (+'s - name - Wikipedia)
+23783) Saibil (+'s - name - Wikipedia)
+23784) Marcon (+'s - name - Wikipedia)
+23785) Giovane (+'s - name - Wikipedia)
+
+26-JAN-2018
+23786) movie (+plural +'s - added after a lot of complain)
+23787) ductal
+23788) arborescent
+23789) arborescence
+23790) laticifer (+plural)
+23791) laticiferous
+23792) polyposis
+23793) polypragmatic
+23794) polypragmatist
+23795) polypragmatism
+23796) polypragmon
+23797) polypragmosyne
+23798) polypro
+23799) tamoxifen
+23800) raloxifene
+23801) finasteride
+23802) sigmoidoscopy
+23803) sigmoidoscope
+23804) sigmoidoscopic
+23805) overdiagnosis
+23806) overtreatment
+23807) photofluorography
+23808) antimetabolite (+plural)
+23809) myeloma (+plural)
+23810) myelomata (another plural of the previous word)
+23811) vulval
+23812) vulvar
+23813) thermotherapy (Collins)
+23814) disproven (Collins)
 =============
 British English Dictionary (Forked) 2.57
 by Marco A.G.Pinto
