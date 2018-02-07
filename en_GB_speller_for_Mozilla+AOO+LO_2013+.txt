@@ -27448,6 +27448,135 @@ V2.57
 23812) vulvar
 23813) thermotherapy (Collins)
 23814) disproven (Collins)
+
+V2.58 (ongoing)
+2-FEB-2018
+23815) Anand (+'s - name - Wikipedia)
+23816) Harikumar (+'s - name - Wikipedia)
+23817) Tharakan (+'s - name - Wikipedia)
+23818) Sundaram (+'s - name - Wikipedia)
+23819) Aggarwal (+'s - name - Wikipedia)
+23820) Jayasekara (+'s - name - Wikipedia)
+23821) MacInnis (+'s - name - Wikipedia)
+23822) Kushi (+'s - name - Wikipedia)
+23823) Bandera (+'s - name - Wikipedia)
+23824) Gansler (+'s - name - Wikipedia)
+23825) Dubas (+'s - name - Wikipedia)
+23826) Forman (+'s - name - Wikipedia)
+23827) Hanahan (+'s - name - Wikipedia)
+23828) Anguiano (+'s - name - Wikipedia)
+23829) Piven (+'s - name - Wikipedia)
+23830) Rosenstein (+'s - name - Wikipedia)
+23831) Kravchenko (+'s - name - Wikipedia)
+23832) Stacey (+'s - name - Wikipedia)
+23833) Fedewa (+'s - name - Wikipedia)
+23834) Brawley (+'s - name - Wikipedia)
+23835) Neglia (+'s - name - Wikipedia)
+23836) Chesson (+'s - name - Wikipedia)
+23837) Chytil (+'s - name - Wikipedia)
+23838) Mesquita (+'s - name - Wikipedia)
+23839) Norpoth (+'s - name - Wikipedia)
+23840) Pastorino (+'s - name - Wikipedia)
+23841) Thurnham (+'s - name - Wikipedia)
+23842) Grimble (+'s - name - Wikipedia)
+23843) Hermus (+'s - name - Wikipedia)
+23844) Boffetta (+'s - name - Wikipedia)
+23845) Dubey (+'s - name - Wikipedia)
+23846) Schütze (+'s - name - Wikipedia)
+23847) Romaguera (+'s - name - Wikipedia)
+23848) Rohrmann (+'s - name - Wikipedia)
+23849) Clapp (+'s - name - Wikipedia)
+23850) Irigaray (+'s - name - Wikipedia)
+23851) Hardell (+'s - name - Wikipedia)
+23852) Montagnier (+'s - name - Wikipedia)
+23853) Bhaskaran (+'s - name - Wikipedia)
+23854) Smeeth (+'s - name - Wikipedia)
+23855) Rothenbacher (+'s - name - Wikipedia)
+23856) Roizman (+'s - name - Wikipedia)
+23857) Khalili (+'s - name - Wikipedia)
+23858) Damania (+'s - name - Wikipedia)
+23859) Buendia (+'s - name - Wikipedia)
+23860) Skerlev (+'s - name - Wikipedia)
+23861) Nordlinger (+'s - name - Wikipedia)
+23862) Maltoni (+'s - name - Wikipedia)
+23863) Gaeta (+'s - name - Wikipedia)
+23864) Allavena (+'s - name - Wikipedia)
+23865) Mantovani (+'s - name - Wikipedia)
+
+6-FEB-2018
+23866) Rowlands (+'s - name - Wikipedia)
+23867) Gunnell (+'s - name - Wikipedia)
+23868) Axelrad (+'s - name - Wikipedia)
+23869) Yajnik (+'s - name - Wikipedia)
+23870) Croce (+'s - name - Wikipedia)
+23871) Rabson (+'s - name - Wikipedia)
+23872) Degenhardt (+'s - name - Wikipedia)
+23873) Merlo (+'s - name - Wikipedia)
+23874) Maley (+'s - name - Wikipedia)
+23875) Baylin (+'s - name - Wikipedia)
+23876) Kanwal (+'s - name - Wikipedia)
+23877) Diederich (+'s - name - Wikipedia)
+23878) Esteller (+'s - name - Wikipedia)
+23879) Pfeifer (+'s - name - Wikipedia)
+23880) Prasad (+'s - name - Wikipedia)
+23881) Narayanan (+'s - name - Wikipedia)
+23882) Fritzell (+'s - name - Wikipedia)
+23883) Hegan (+'s - name - Wikipedia)
+23884) Oostrom (+'s - name - Wikipedia)
+23885) Steeg (+'s - name - Wikipedia)
+23886) Morano (+'s - name - Wikipedia)
+23887) Gottesman (+'s - name - Wikipedia)
+23888) Santillo (+'s - name - Wikipedia)
+23889) Fearon (+'s - name - Wikipedia)
+23890) Vogelstein (+'s - name - Wikipedia)
+23891) Papadopoulos (+'s - name - Wikipedia)
+23892) Velculescu (+'s - name - Wikipedia)
+23893) Kinzler (+'s - name - Wikipedia)
+23894) Varricchio (+'s - name - Wikipedia)
+23895) Bolland (+'s - name - Wikipedia)
+23896) Holick (+'s - name - Wikipedia)
+23897) corporatocracy (+plural)
+23898) corporeity
+23899) corporativism
+23900) corporativist (+plural)
+23901) sub-prime
+
+7-FEB-2018
+23902) stratocracy (+plural)
+23903) stratocrat
+23904) stratocratic
+23905) stratocumulous
+23906) stratocumulus
+23907) stratopause
+23908) stratopedarch
+23909) stratose
+23910) journalistically
+23911) journo (+plural)
+23912) Jovian (+plural)
+23913) Uranist
+23914) uranious
+23915) uranism
+23916) uranile + uranyl
+23917) uranous
+23918) uranothorite
+23919) uranothallite
+23920) uranospinite
+23921) uranoscopid
+23922) uranoscopus + ouranoscopos
+23923) uranoscopy + ouranoscopy
+23924) megacorporation
+23925) megacorporate
+23926) megacolon
+23927) megachilid
+23928) megaceros
+23929) megacentre
+23930) megacarrier
+23931) megacephalic
+23932) megabook
+23933) megabitch
+23934) megabasite
+23935) megabacterium
+23936) unbottle (+s +ing +ed - Collins)
 =============
-British English Dictionary (Forked) 2.57
+British English Dictionary (Forked) 2.58
 by Marco A.G.Pinto
