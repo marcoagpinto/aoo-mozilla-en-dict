@@ -27577,6 +27577,88 @@ V2.58 (ongoing)
 23934) megabasite
 23935) megabacterium
 23936) unbottle (+s +ing +ed - Collins)
+
+12-FEB-2018
+23937) revolutionism
+23938) Hanbury (+'s - name - Wikipedia)
+23939) Cleland (+'s - name - Wikipedia)
+23940) Meyerson (+'s - name - Wikipedia)
+23941) Amir (+'s - name - Wikipedia)
+23942) Stiglitz (+'s - name - Wikipedia)
+23943) Perkins (+'s - name - Wikipedia)
+23944) Simons (+'s - name - Wikipedia)
+23945) Sirota (+'s - name - Wikipedia)
+23946) Oremus (+'s - name - Wikipedia)
+23947) electrospray
+23948) electrostatically
+23949) electrospinning
+23950) electroslag
+23951) electrorheological
+23952) electroretinography
+23953) electroretinographic
+23954) electroretinography
+23955) pyrazolone
+23956) pyrectic
+23957) desman (+plural +'s)
+23958) robocop
+23959) roboteer
+23960) robotesque
+23961) robotian
+23962) robotical
+23963) roboticized + roboticised
+23964) robotism
+23965) robotlike
+23966) robotologist
+23967) robotology
+23968) roboticist (+plural)
+23969) robotize (+s +ing +ed +ion -IZE)
+23970) robotnik + robotnick
+23971) Parsee (+plural)
+23972) appendicectomy
+
+13-FEB-2018
+23973) appendant (+plural)
+23974) Patroni (+'s - name - Wikipedia)
+23975) leguminoid
+23976) legumin + legumine
+23977) legumen
+23978) leguleian
+23979) Webbe (+'s - name - Wikipedia)
+23980) legrandite
+23981) palatalize (+s +ing +ed +ion -IZE)
+23982) palatalise (+s +ing +ed +ion -ISE)
+23983) palatality
+23984) Fitzedward (+'s - name - Wikipedia)
+23985) palatalism
+23986) Blyth (+'s - name - Wikipedia)
+23987) parasphenoid
+23988) paraspinal
+23989) parasphenoidal
+23990) parasorbic
+23991) parasomnia
+23992) lentigo
+23993) lentigines (plural of previous word)
+23994) leopard-skin
+23995) Léotard (+'s - name - Wikipedia)
+23996) Mitova (+'s - name - Wikipedia)
+23997) Neisser (+'s - name - Wikipedia)
+23998) leprosity
+23999) leprosied
+24000) letterheaded
+24001) technify (+s +ing +ed)
+24002) Lettermanesque
+24003) lettermonger + wordmonger
+24004) Nashe (+'s - name - Wikipedia)
+24005) wordmanship
+24006) wordly
+24007) wordman
+24008) wordlore
+24009) wordish
+24010) wordie
+24011) wordfinder (+plural)
+24012) wordable
+24013) wordcraft
+24014) wordhoard
 =============
 British English Dictionary (Forked) 2.58
 by Marco A.G.Pinto
