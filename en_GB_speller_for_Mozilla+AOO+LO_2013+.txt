@@ -27659,6 +27659,75 @@ V2.58 (ongoing)
 24012) wordable
 24013) wordcraft
 24014) wordhoard
+
+14-FEB-2018
+24015) Zheng (+'s - name - Wikipedia)
+24016) Hagmann (+'s - name - Wikipedia)
+24017) Menzo (+'s - name - Wikipedia)
+24018) Zhao (+'s - name - Wikipedia)
+24019) Ezzati (+'s - name - Wikipedia)
+24020) Hannun (+'s - name - Wikipedia)
+24021) Ouyang (+'s - name - Wikipedia)
+24022) Thomsen (+'s - name - Wikipedia)
+24023) Hagerty (+'s - name - Wikipedia)
+24024) Giovannucci (+'s - name - Wikipedia)
+24025) Rothwell (+'s - name - Wikipedia)
+24026) Stampfer (+'s - name - Wikipedia)
+24027) Ogawa (+'s - name - Wikipedia)
+24028) Berretta (+'s - name - Wikipedia)
+24029) Cavallaro (+'s - name - Wikipedia)
+24030) Vander (+'s - name - Wikipedia)
+24031) Tappenden (+'s - name - Wikipedia)
+24032) Kolesar (+'s - name - Wikipedia)
+24033) Rimm (+'s - name - Wikipedia)
+24034) Warlow (+'s - name - Wikipedia)
+24035) Fowkes (+'s - name - Wikipedia)
+24036) Lewin (+'s - name - Wikipedia)
+24037) Rostom (+'s - name - Wikipedia)
+24038) Papaioannou (+'s - name - Wikipedia)
+24039) Hoorn (+'s - name - Wikipedia)
+24040) Wicki (+'s - name - Wikipedia)
+24041) Dubé (+'s - name - Wikipedia)
+24042) Moher (+'s - name - Wikipedia)
+24043) Barrowman (+'s - name - Wikipedia)
+24044) Manowar (+'s - name - Wikipedia)
+
+15-FEB-2018
+24045) stubbled
+24046) nubble (+s +ed)
+24047) footbed (+plural)
+24048) midsole (+plural)
+24049) delaminate (+s +ing +ed +ion)
+24050) Georgina (+'s - name - Wikipedia)
+24051) Faringdon (+'s - name - Wikipedia)
+24052) midshore
+24053) midshire
+24054) midshipmanship
+24055) romaine
+24056) isoleucine
+24057) representationism
+24058) representationist
+24059) federationist (+plural)
+24060) unchurch (+s +ing +ed)
+24061) unchosen
+24062) unchristianly
+24063) unchivalrous
+24064) unchastened
+24065) unchastity
+24066) uncharitableness
+24067) Kentaro (+'s - name - Wikipedia)
+24068) Vivien (+'s - name - Wikipedia)
+24069) monohydric
+24070) undischarged
+24071) ketamine
+24072) undiscoverable
+24073) undisguisedly
+24074) undisputable
+24075) undiscussed
+24076) undiscussable + undiscussible (Collins)
+24077) levonorgestrel
+24078) liberticide
+24079) liberticidal
 =============
 British English Dictionary (Forked) 2.58
 by Marco A.G.Pinto
