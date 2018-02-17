@@ -2059,6 +2059,7 @@ Bela
 Bela's
 Belarus
 Belarus's
+Belarusian
 Belau
 Belau's
 Belem
@@ -2112,6 +2113,7 @@ Benchley
 Benchley's
 Bender
 Bender's
+Bendictus
 Bendix
 Bendix's
 Benedict
@@ -2783,6 +2785,7 @@ Brewer
 Brewer's
 Brewster
 Brewster's
+Brexit
 Brezhnev
 Brezhnev's
 Brian
@@ -3147,6 +3150,7 @@ CD
 CD's
 CDC
 CDT
+CDs
 CEO
 CEO's
 CF
@@ -4905,6 +4909,7 @@ DST
 DTP
 DUI
 DVD
+DVDs
 DVR
 DVR's
 DVRs
@@ -11836,6 +11841,7 @@ Maghreb's
 Magi
 Maginot
 Maginot's
+Magnificat
 Magnitogorsk
 Magnitogorsk's
 Magog
@@ -17288,6 +17294,8 @@ Segre
 Segre's
 Segundo
 Segundo's
+Segway
+Segways
 Seiko
 Seiko's
 Seine
@@ -22672,6 +22680,9 @@ aggregating
 aggregation
 aggregation's
 aggregations
+aggregator
+aggregator's
+aggregators
 aggression
 aggression's
 aggressive
@@ -23556,6 +23567,8 @@ amidst
 amigo
 amigo's
 amigos
+amine
+amines
 amino
 amiss
 amity
@@ -23700,6 +23713,7 @@ amusing
 amusingly
 amylase
 amylase's
+amyloid
 an
 anabolism
 anabolism's
@@ -24350,6 +24364,12 @@ antimicrobial
 antimissile
 antimony
 antimony's
+antineutrino
+antineutrino's
+antineutrinos
+antineutron
+antineutron's
+antineutrons
 antinuclear
 antioxidant
 antioxidant's
@@ -24385,6 +24405,9 @@ antipodes
 antipodes's
 antipollution
 antipoverty
+antiproton
+antiproton's
+antiprotons
 antiquarian
 antiquarian's
 antiquarianism
@@ -25720,6 +25743,7 @@ assistant's
 assistants
 assisted
 assisting
+assistive
 assists
 assize
 assize's
@@ -32135,6 +32159,7 @@ bulldozing
 bulled
 bullet
 bullet's
+bulleted
 bulletin
 bulletin's
 bulletined
@@ -32188,6 +32213,7 @@ bullring
 bullring's
 bullrings
 bulls
+bullseye
 bullshit
 bullshit's
 bullshits
@@ -34561,6 +34587,7 @@ cavillings
 cavils
 caving
 caving's
+cavitation
 cavities
 cavity
 cavity's
@@ -37339,6 +37366,9 @@ cockade
 cockade's
 cockades
 cockamamie
+cockatiel
+cockatiel's
+cockatiels
 cockatoo
 cockatoo's
 cockatoos
@@ -37781,6 +37811,8 @@ collegians
 collegiate
 collide
 collided
+collider
+colliders
 collides
 colliding
 collie
@@ -37983,14 +38015,18 @@ combo
 combo's
 combos
 combs
+combust
+combusted
 combustibility
 combustibility's
 combustible
 combustible's
 combustibles
+combusting
 combustion
 combustion's
 combustive
+combusts
 come
 come's
 comeback
@@ -38876,6 +38912,7 @@ condition
 condition's
 conditional
 conditional's
+conditionality
 conditionally
 conditionals
 conditioned
@@ -39844,6 +39881,7 @@ contour's
 contoured
 contouring
 contours
+contra
 contraband
 contraband's
 contrabassoon
@@ -41001,6 +41039,9 @@ countersinks
 counterspies
 counterspy
 counterspy's
+counterstroke
+counterstroke's
+counterstrokes
 countersunk
 countertenor
 countertenor's
@@ -41825,6 +41866,7 @@ criterion's
 critic
 critic's
 critical
+criticality
 critically
 criticise
 criticised
@@ -43823,6 +43865,7 @@ decree's
 decreed
 decreeing
 decrees
+decrement
 decremented
 decrements
 decrepit
@@ -45855,6 +45898,7 @@ diffusing
 diffusion
 diffusion's
 diffusive
+diffusivity
 dig
 dig's
 digerati
@@ -45963,6 +46007,7 @@ dillydallied
 dillydallies
 dillydally
 dillydallying
+diluent
 dilute
 diluted
 dilutes
@@ -49153,6 +49198,7 @@ dysphoric
 dysprosium
 dysprosium's
 dystonia
+dystopia
 dz
 e
 e'en
@@ -49371,6 +49417,7 @@ ecclesiastics
 echelon
 echelon's
 echelons
+echidna
 echinoderm
 echinoderm's
 echinoderms
@@ -49635,6 +49682,7 @@ effluents
 effluvia
 effluvium
 effluvium's
+efflux
 effort
 effort's
 effortless
@@ -51046,6 +51094,7 @@ entente
 entente's
 ententes
 enter
+enteral
 entered
 enteric
 entering
@@ -51134,6 +51183,7 @@ entourages
 entr'acte
 entrails
 entrails's
+entrained
 entrance
 entrance's
 entranced
@@ -51890,6 +51940,7 @@ eugenicist's
 eugenicists
 eugenics
 eugenics's
+eukaryotes
 eulogies
 eulogise
 eulogised
@@ -51960,6 +52011,8 @@ evaluation
 evaluation's
 evaluations
 evaluative
+evaluator
+evaluators
 evanescence
 evanescence's
 evanescent
@@ -52984,6 +53037,7 @@ extracting
 extraction
 extraction's
 extractions
+extractive
 extractor
 extractor's
 extractors
@@ -53186,6 +53240,10 @@ facecloth's
 facecloths
 faced
 faceless
+facepalm
+facepalmed
+facepalming
+facepalms
 faces
 facet
 facet's
@@ -56520,6 +56578,7 @@ fouls
 found
 foundation
 foundation's
+foundational
 foundations
 founded
 founder
@@ -59148,6 +59207,8 @@ glummer
 glummest
 glumness
 glumness's
+gluon
+gluons
 glut
 glut's
 gluten
@@ -59171,6 +59232,7 @@ glycerol
 glycerol's
 glycogen
 glycogen's
+glycol
 glyph
 gm
 gnarl
@@ -61959,6 +62021,8 @@ haying
 hayloft
 hayloft's
 haylofts
+haymaker
+haymakers
 haymaking
 haymow
 haymow's
@@ -62644,6 +62708,7 @@ heretical
 heretics
 hereto
 heretofore
+hereunder
 hereunto
 hereupon
 herewith
@@ -64544,6 +64609,7 @@ hydrometer's
 hydrometers
 hydrometry
 hydrometry's
+hydrophilic
 hydrophobia
 hydrophobia's
 hydrophobic
@@ -66851,6 +66917,7 @@ informally
 informant
 informant's
 informants
+informatics
 information
 information's
 informational
@@ -67201,6 +67268,7 @@ inordinate
 inordinately
 inorganic
 inorganically
+inositol
 inpatient
 inpatient's
 inpatients
@@ -68341,6 +68409,9 @@ invertebrate
 invertebrate's
 invertebrates
 inverted
+inverter
+inverter's
+inverters
 inverting
 inverts
 invest
@@ -69883,6 +69954,8 @@ ketch's
 ketches
 ketchup
 ketchup's
+ketone
+ketones
 kettle
 kettle's
 kettledrum
@@ -73402,6 +73475,7 @@ lumbers
 lumberyard
 lumberyard's
 lumberyards
+lumen
 luminaries
 luminary
 luminary's
@@ -73539,6 +73613,7 @@ lutenists
 lutes
 lutetium
 lutetium's
+lux
 luxuriance
 luxuriance's
 luxuriant
@@ -75124,6 +75199,7 @@ maxillae
 maxillary
 maxim
 maxim's
+maxima
 maximal
 maximally
 maximisation
@@ -76623,6 +76699,7 @@ minicomputers
 minifloppies
 minim
 minim's
+minima
 minimal
 minimalism
 minimalism's
@@ -77265,6 +77342,7 @@ mitten
 mitten's
 mittens
 mitts
+mitzvah
 mix
 mix's
 mixable
@@ -78557,6 +78635,7 @@ mullioned
 mullions
 mulls
 multi
+multichannel
 multicoloured
 multicultural
 multiculturalism
@@ -78586,6 +78665,7 @@ multimillionaires
 multinational
 multinational's
 multinationals
+multipart
 multiparty
 multiplayer
 multiplayer's
@@ -78674,6 +78754,7 @@ mun
 munch
 munched
 munches
+munchie
 munchies
 munchies's
 munching
@@ -78898,6 +78979,7 @@ mutable
 mutably
 mutagen
 mutagen's
+mutagenic
 mutagens
 mutant
 mutant's
@@ -80131,6 +80213,7 @@ nitration
 nitration's
 nitre
 nitre's
+nitric
 nitrification
 nitrification's
 nitrite
@@ -81636,6 +81719,7 @@ oculars
 oculist
 oculist's
 oculists
+oculomotor
 odalisque
 odalisque's
 odalisques
@@ -81968,6 +82052,7 @@ omnivorousness
 omnivorousness's
 oms
 on
+onboard
 once
 once's
 oncogene
@@ -83298,6 +83383,7 @@ overindulgence's
 overindulgent
 overindulges
 overindulging
+overinflated
 overjoy
 overjoyed
 overjoying
@@ -83678,6 +83764,7 @@ oxidants
 oxidase
 oxidation
 oxidation's
+oxidative
 oxide
 oxide's
 oxides
@@ -84398,6 +84485,8 @@ paramedicals
 paramedics
 parameter
 parameter's
+parameterise
+parameterised
 parameters
 parametric
 paramilitaries
@@ -86053,6 +86142,7 @@ perplexed
 perplexedly
 perplexes
 perplexing
+perplexingly
 perplexities
 perplexity
 perplexity's
@@ -86859,6 +86949,8 @@ picot
 picot's
 picots
 pics
+pictogram
+pictograms
 pictograph
 pictograph's
 pictographs
@@ -89667,6 +89759,7 @@ preordain
 preordained
 preordaining
 preordains
+preowned
 prep
 prep's
 prepackage
@@ -90313,6 +90406,7 @@ proceeds
 proceeds's
 process
 process's
+processable
 processed
 processes
 processing
@@ -92335,6 +92429,7 @@ quince's
 quinces
 quine
 quines
+quinidine
 quinine
 quinine's
 quinoa
@@ -92563,8 +92658,10 @@ radial
 radial's
 radially
 radials
+radian
 radiance
 radiance's
+radians
 radiant
 radiantly
 radiate
@@ -95063,6 +95160,10 @@ reinfection
 reinfection's
 reinfections
 reinfects
+reinflate
+reinflated
+reinflates
+reinflating
 reinforce
 reinforced
 reinforcement
@@ -95741,6 +95842,7 @@ repealing
 repeals
 repeat
 repeat's
+repeatability
 repeatable
 repeatably
 repeated
@@ -95868,6 +95970,8 @@ reposed
 reposeful
 reposes
 reposing
+reposition
+repositioning
 repositories
 repository
 repository's
@@ -96134,6 +96238,8 @@ reseeded
 reseeding
 reseeds
 resell
+reseller
+resellers
 reselling
 resells
 resemblance
@@ -96261,6 +96367,7 @@ resister's
 resisters
 resistible
 resisting
+resistivity
 resistless
 resistor
 resistor's
@@ -100442,6 +100549,7 @@ sear
 sear's
 search
 search's
+searchable
 searched
 searcher
 searcher's
@@ -108513,6 +108621,9 @@ subdividing
 subdivision
 subdivision's
 subdivisions
+subdomain
+subdomain's
+subdomains
 subdominant
 subdue
 subdued
@@ -109326,6 +109437,7 @@ superconductivity's
 superconductor
 superconductor's
 superconductors
+supercritical
 superego
 superego's
 superegos
@@ -109385,6 +109497,7 @@ superman's
 supermarket
 supermarket's
 supermarkets
+supermassive
 supermen
 supermodel
 supermodel's
@@ -109558,6 +109671,7 @@ suppressible
 suppressing
 suppression
 suppression's
+suppressive
 suppressor
 suppressor's
 suppressors
@@ -110970,6 +111084,7 @@ tasering
 tasers
 task
 task's
+taskbar
 tasked
 tasking
 taskmaster
@@ -112105,6 +112220,7 @@ thereof
 thereon
 thereto
 theretofore
+thereunder
 thereunto
 thereupon
 therewith
@@ -113782,6 +113898,7 @@ trabeculae
 trabecular
 trace
 trace's
+traceability
 traceable
 traced
 tracer
@@ -115792,6 +115909,7 @@ ultramarine
 ultramarine's
 ultramodern
 ultras
+ultrashort
 ultrasonic
 ultrasonically
 ultrasound
@@ -115862,6 +115980,7 @@ unaccountably
 unaccounted
 unaccredited
 unaccustomed
+unachievable
 unacknowledged
 unacquainted
 unaddressed
@@ -115994,6 +116113,7 @@ unbosom
 unbosomed
 unbosoming
 unbosoms
+unbothered
 unbound
 unbounded
 unbowed
@@ -116101,7 +116221,10 @@ unclothed
 unclothes
 unclothing
 unclouded
+unclutter
 uncluttered
+uncluttering
+unclutters
 uncoil
 uncoiled
 uncoiling
@@ -116368,6 +116491,7 @@ underhanded
 underhandedly
 underhandedness
 underhandedness's
+underinflated
 underlain
 underlay
 underlay's
@@ -116988,6 +117112,7 @@ uninterruptedly
 uninterruptible
 uninvited
 uninviting
+uninvolved
 union
 union's
 unionisation
@@ -117237,6 +117362,7 @@ unofficial
 unofficially
 unopened
 unopposed
+unordered
 unorganised
 unoriginal
 unorthodox
@@ -117292,6 +117418,7 @@ unpolluted
 unpopular
 unpopularity
 unpopularity's
+unpopulated
 unpractical
 unpractised
 unprecedented
@@ -117313,6 +117440,7 @@ unpreventable
 unprincipled
 unprintable
 unprivileged
+unproblematic
 unprocessed
 unproductive
 unproductively
@@ -117414,6 +117542,7 @@ unrest's
 unrestrained
 unrestricted
 unrevealed
+unrevealing
 unrewarded
 unrewarding
 unrighteous
@@ -119022,6 +119151,7 @@ victimise
 victimised
 victimises
 victimising
+victimless
 victims
 victor
 victor's
@@ -119572,6 +119702,7 @@ volubly
 volume
 volume's
 volumes
+volumetric
 voluminous
 voluminously
 voluminousness
@@ -120400,6 +120531,7 @@ waveband
 wavebands
 waved
 waveform
+wavefront
 wavelength
 wavelength's
 wavelengths
@@ -122235,6 +122367,9 @@ workshop
 workshop's
 workshops
 workshy
+worksite
+worksites
+workspace
 workstation
 workstation's
 workstations
