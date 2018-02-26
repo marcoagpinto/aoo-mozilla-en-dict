@@ -3,13 +3,14 @@ original English wordlist created by Kevin Atkinson for
 Pspell and  Aspell and thus is covered by his original
 LGPL licence. 
 
-It has been extensively updated by David Bartlett, Brian Kelk
-and Andrew Brown:
+It has been extensively updated by David Bartlett, Brian Kelk,
+Andrew Brown and Marco A.G.Pinto:
  — Numerous Americanism have been removed;
  — Numerous American spellings have been corrected;
  — Missing words have been added;
  — Many errors have been corrected;
- — Compound hyphenated words have been added where appropriate.
+ — Compound hyphenated words have been added where appropriate;
+ — Thousands of proper names have been added.
 
 Valuable inputs to this process were received from many other
 people - far too numerous to name. Serious thanks to you all
@@ -108,6 +109,7 @@ http://marcoagpinto.cidadevirtual.pt/faq.html
 
 FAQ ("movie", "automobile", "airplane", "hardcover" and "bookstore"):
 http://marcoagpinto.cidadevirtual.pt/faq.html#7
+Notice: Due to complains, "movie" has been added on V2.57 since it is a widely used word.
 
 Changelog:
 http://marcoagpinto.cidadevirtual.pt/en_GB_CHANGES.txt
