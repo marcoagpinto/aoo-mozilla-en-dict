@@ -27449,7 +27449,7 @@ V2.57
 23813) thermotherapy (Collins)
 23814) disproven (Collins)
 
-V2.58 (ongoing)
+V2.58
 2-FEB-2018
 23815) Anand (+'s - name - Wikipedia)
 23816) Harikumar (+'s - name - Wikipedia)
@@ -28135,6 +28135,7 @@ V2.58 (ongoing)
 24475) Tibni (+'s - name - Wikipedia)
 24476) Uzziah (+'s - name - Wikipedia)
 24477) Zimri (+'s - name - Wikipedia)
+24478) PhD's (added +'s)
 =============
 British English Dictionary (Forked) 2.58
 by Marco A.G.Pinto
