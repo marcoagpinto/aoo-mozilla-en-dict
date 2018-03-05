@@ -28136,6 +28136,65 @@ V2.58
 24476) Uzziah (+'s - name - Wikipedia)
 24477) Zimri (+'s - name - Wikipedia)
 24478) PhD's (added +'s)
+
+
+V2.59 (ongoing)
+1-MAR-2018
+24479) sonless
+24480) sonship (+plural +'s)
+24481) forsakenness
+24482) unalleviated
+24483) forsterite
+24484) weigela
+24485) deutzia (+plural)
+24486) osmatic
+24487) macrosmatic
+24488) microsmatic
+24489) microsociolinguistic (+s)
+24490) microsociety
+24491) microsleep
+24492) microsequence
+24493) microsequencing
+24494) microsiphon
+24495) microseismology
+24496) microseismogram
+24497) microseismometer
+24498) microseismicity
+24499) microsegment
+24500) macrosegment
+24501) immunohistochemical
+
+5-MAR-2018
+24502) Libran (+plural)
+23503) Tuvaluan (+plural)
+23504) Ellice  (+'s - name - Wikipedia)
+23505) Ellicott  (+'s - name - Wikipedia)
+23506) afterness
+23507) afterloads + afterloaded (merged into afterload)
+23508) afterheat
+23509) afterhand
+23510) aftergrowth
+23511) aftergrass
+23512) afterfeed
+23513) afterdischarge
+23514) aftercool (+s +ing +ed)
+23515) aftercooler
+23516) aftercast + eftercast
+23517) chlordiazepoxide
+23518) lorazepam
+23519) loranthus
+23520) Lorain (+'s - name - Wikipedia)
+23521) loquitur
+23522) fugacity
+23523) fugally
+23524) Beethovenian (+plural)
+23525) munguba
+23526) quercitron
+23527) planus
+23528) leukodystrophy
+23529) leukaemogenic
+23530) leukaemogen
+23531) leukaemogenesis
 =============
-British English Dictionary (Forked) 2.58
+British English Dictionary (Forked) 2.59
 by Marco A.G.Pinto
