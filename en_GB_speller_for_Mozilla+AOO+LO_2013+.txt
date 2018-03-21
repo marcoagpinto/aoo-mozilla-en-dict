@@ -28506,6 +28506,97 @@ V2.59 (ongoing)
 23830) unblest
 23831) unbirthday (+plural)
 23832) unbiddable
+
+19-MAR-2018
+23833) tif (+plural)
+23834) TIF (+plural - uppercase)
+23835) snash
+23836) snarl-up (+plural)
+23837) Jenna (+'s - name - Wikipedia)
+23838) Peyroux (+'s - name - Wikipedia)
+23839) Armfield (+'s - name - Wikipedia)
+23840) Harijan (+plural)
+23841) Adivasi (+plural)
+23842) kombu
+23843) carrageenan
+23844) wakame
+23845) arame
+23846) aramid
+23847) aralia (+plural)
+23848) Roshi (added +'s)
+23849) interlocution (+plural)
+23850) Himel (+'s - name - Wikipedia)
+23851) interlockers (added plural)
+23852) ziplock + Ziploc
+23853) Krayzelburg (+'s - name - Wikipedia)
+23854) sealable
+23855) thermos (+plural)
+23856) Redonda (+'s - name - Wikipedia)
+23857) Raël (+'s - name - Wikipedia)
+23858) Amgen (+'s - name - Wikipedia)
+23859) Priceline (+'s - name - Wikipedia)
+23860) Celgene (+'s - name - Wikipedia)
+23861) Biogen (+'s - name - Wikipedia)
+23862) Baidu (+'s - name - Wikipedia)
+23863) Altaba (+'s - name - Wikipedia)
+23864) VideoLAN (+'s - name - Wikipedia)
+
+21-MAR-2018
+23865) microfloppy
+23866) microfine
+23867) microgametocyte
+23868) gametocyte (+plural)
+23869) microgamete (+plural)
+23870) microgametophyte
+23871) microgeographic
+23872) microgeographical
+23873) microglossary
+23874) μg
+23875) microgranitoid
+23876) tubulin
+23877) rouleau (+plural)
+23878) roulading
+23879) rouky
+23880) Tubulidentata
+23881) Artiodactyla
+23882) Chiroptera
+23883) Hyracoidea
+23884) Sirenia
+23885) Proboscidea
+23886) proboscidial + proboscideal
+23887) proboscidiform
+23888) MacLeay
+23889) probosciform
+23890) proboscidate
+23891) proboscidean + proboscidian (+plural of both)
+23892) proboscic
+23893) Lisbeth (+'s - name - Wikipedia)
+23894) Marner (+'s - name - Wikipedia)
+23895) Matsui (+'s - name - Wikipedia)
+23896) Yan (+'s - name - Wikipedia)
+23897) Helmuth (+'s - name - Wikipedia)
+23898) Lüders (+'s - name - Wikipedia)
+23899) Pollitzer (+'s - name - Wikipedia)
+23900) Gershoni (+'s - name - Wikipedia)
+23901) Lockshin (+'s - name - Wikipedia)
+23902) Zakeri (+'s - name - Wikipedia)
+23903) Hattori (+'s - name - Wikipedia)
+23904) Rushton (+'s - name - Wikipedia)
+23905) Charlesworth (+'s - name - Wikipedia)
+23906) Ahlberg (+'s - name - Wikipedia)
+23907) Figuerola (+'s - name - Wikipedia)
+23908) Jordi (+'s - name - Wikipedia)
+23909) Malden (+'s - name - Wikipedia)
+23910) Mank (+'s - name - Wikipedia)
+23911) Miyazaki (+'s - name - Wikipedia)
+23912) Nichinan (+'s - name - Wikipedia)
+23913) Bornholdt (+'s - name - Wikipedia)
+23914) Oliveira (+'s - name - Wikipedia)
+23915) Wichmann (+'s - name - Wikipedia)
+23916) Weidinger (+'s - name - Wikipedia)
+23917) Gharaibeh (+'s - name - Wikipedia)
+23918) Chiarello (+'s - name - Wikipedia)
+23919) Kronenberg (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.59
 by Marco A.G.Pinto
