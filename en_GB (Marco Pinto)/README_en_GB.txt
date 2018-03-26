@@ -99,7 +99,7 @@ Main difficulties developing this dictionary:
 
 Please let Marco A.G.Pinto know of any errors that you find:
 E-mail:
-marcoagpinto@mail.telepac.pt
+marcoagpinto@sapo.pt
 
 Site:
 http://proofingtoolgui.org
@@ -109,7 +109,7 @@ http://marcoagpinto.cidadevirtual.pt/faq.html
 
 FAQ ("movie", "automobile", "airplane", "hardcover" and "bookstore"):
 http://marcoagpinto.cidadevirtual.pt/faq.html#7
-Notice: Due to complains, "movie" has been added on V2.57 since it is a widely used word.
+Notice: Due to complains, "movie" was added on V2.57 since it is a widely used word.
 
 Changelog:
 http://marcoagpinto.cidadevirtual.pt/en_GB_CHANGES.txt
