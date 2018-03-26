@@ -28138,7 +28138,7 @@ V2.58
 24478) PhD's (added +'s)
 
 
-V2.59 (ongoing)
+V2.59
 1-MAR-2018
 24479) sonless
 24480) sonship (+plural +'s)
@@ -28597,6 +28597,44 @@ V2.59 (ongoing)
 23917) Gharaibeh (+'s - name - Wikipedia)
 23918) Chiarello (+'s - name - Wikipedia)
 23919) Kronenberg (+'s - name - Wikipedia)
+
+23-MAR-2018
+23920) Kleopatra (+'s - name - Wikipedia)
+23921) VRML (+'s)
+23922) Yong (+'s - name - Wikipedia)
+23923) Alkire (+'s - name - Wikipedia)
+23924) Estevez (+'s - name - Wikipedia)
+23925) Meitinger (+'s - name - Wikipedia)
+23926) Sikorska (+'s - name - Wikipedia)
+23927) Göran (+'s - name - Wikipedia)
+23928) Goffinet (+'s - name - Wikipedia)
+23929) Fabián (+'s - name - Wikipedia)
+23930) Deasy (+'s - name - Wikipedia)
+23931) pudendal
+23932) pudic
+23933) pudendous
+23934) pudency
+23935) Skene (+'s - name - Wikipedia)
+23936) perinea (plural of perineum)
+23937) perineal
+23938) Gräfenberg (+'s - name - Wikipedia)
+23939) Herbenick (+'s - name - Wikipedia)
+23940) Seidman (+'s - name - Wikipedia)
+23941) Antinous (+'s - name - Wikipedia)
+23942) Boellstorff (+'s - name - Wikipedia)
+23943) Felice (+'s - name - Wikipedia)
+23944) barebacking
+23945) cryptosporidiosis
+23946) giardiasis
+23947) lymphogranuloma (Collins)
+23948) salmonellosis
+23949) shigella
+23950) shigellae (plural of previous word)
+23951) rectosigmoid
+23952) rectosigmoidal
+23953) Kegel (+'s - name - Wikipedia)
+23954) papilloma (+plural)
+23955) papillomata (another plural of previous word)
 =============
 British English Dictionary (Forked) 2.59
 by Marco A.G.Pinto
