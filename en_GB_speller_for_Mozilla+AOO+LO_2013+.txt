@@ -28635,6 +28635,68 @@ V2.59
 23953) Kegel (+'s - name - Wikipedia)
 23954) papilloma (+plural)
 23955) papillomata (another plural of previous word)
+
+
+V2.60 (ongoing)
+1-APR-2018
+23956) oversoul (+plural +'s)
+23957) oversolicitous
+23958) oversolicitude
+23959) oversow (+s +ing +ed +oversown)
+23960) overspan (+s +ing +ed)
+23961) oversparred
+23962) overspecialize (+s +ing +ed +ion -IZE)
+23963) overspecific
+23964) overspecification
+23965) overspecify (+s +ing +ed)
+23966) overspin
+23967) overspray
+23968) overspinner
+23969) webwork
+23970) webzine (+plural)
+23971) websterite
+23972) clinopyroxene
+23973) orthopyroxene
+23974) orthoquartzite
+23975) unmetamorphosed
+23976) unmetallic
+23977) unmetabolized
+23978) unmesmerized
+23979) unmerry
+23980) unmeritingly
+23981) unmeritedly
+23982) unmeritable
+23983) meritless
+23984) meritist
+23985) merithallus
+23986) meritful
+23987) meriter
+23988) meritable
+23989) merit-making
+
+3-APR-2018
+23990) sensorium (+plural)
+23991) sensoria (another plural of the previous word)
+23992) sensorially
+23993) emesis
+23994) emetine
+23995) emetophobe (+plural)
+23996) emetophobia
+23997) emetophobic
+23998) glug (+s +ing +ed)
+23999) gluggable
+24000) glunch (+s +ing +ed)
+24001) gluonic
+24002) haemoglobinopathy
+24003) haemocytometer
+24004) haemocoel
+24005) haemochromatosis
+24006) haematoxylin
+24007) trichrome
+24008) phosphotungstic
+24009) fuchsin + fuchsine
+24010) phosphomolybdic
+24011) phosphomonoesterase + phosphormonoesterase
 =============
-British English Dictionary (Forked) 2.59
+British English Dictionary (Forked) 2.60
 by Marco A.G.Pinto
