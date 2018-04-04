@@ -24,7 +24,7 @@ I will try to release monthly updates for Mozilla, and every two months for Open
 
 Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a changelog.
 
-I always keep a note of the most recent version released for Mozilla, AOO and LO on the official Proofing Tool GUI site:
+I keep a note of the most recent release for Mozilla, AOO and LO on the Proofing Tool GUI site:
 http://proofingtoolgui.org
 
 
