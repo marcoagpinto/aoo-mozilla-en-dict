@@ -13,7 +13,7 @@ In some cases we will have to start from a long-time gone position, the last kno
 
 Modifying, updating and maintaining a dictionary is a hard task but an important one for current and future generations.
 
-The dictionaries here are the most recent versions available and this repository was created to make it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects which use proofing — or spellchecking — functionalities.
+The dictionaries here are the most recent versions available and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
 I (Marco Pinto) am only improving the en_GB. The en_AU, en_US and en_CA are maintained by Kevin Atkinson.
 Please contact Kevin directly for the latter three:
