@@ -20,14 +20,12 @@ The idea was that other projects could use this GitHub and take the .AFF and .DI
 
 I (Marco Pinto) am only improving the en_GB. The en_AU, en_US and en_CA are maintained by Kevin Atkinson.
 Please contact Kevin directly for the latter three:
-http://wordlist.aspell.net 
-and https://sourceforge.net/projects/wordlist/files/Hunspell
-. en_ZA is maintained by Dwayne Bailey:
+https://github.com/en-wl/wordlist, http://wordlist.aspell.net and https://sourceforge.net/projects/wordlist/files/Hunspell. en_ZA is maintained by Dwayne Bailey:
 http://translate.org.za
 
 I will try to release monthly updates for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it to avoid notifying people to update the dictionary after installing the latest AOO. This means that a release version is skipped for AOO.
 
-Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a log of all the changes.
+Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a changelog.
 
 I always keep a note of the most recent version released for Mozilla, AOO and LO on the official Proofing Tool GUI site:
 http://proofingtoolgui.org
