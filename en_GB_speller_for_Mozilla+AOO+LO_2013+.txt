@@ -28697,6 +28697,71 @@ V2.60 (ongoing)
 24009) fuchsin + fuchsine
 24010) phosphomolybdic
 24011) phosphomonoesterase + phosphormonoesterase
+
+5-APR-2018
+24012) unascertained
+24013) unascertainable
+24014) unartistically
+24015) unarranged
+24016) unartistic
+24017) unary
+24018) unashamedness
+24019) unassailability
+24020) unassailably
+24021) unassailableness
+24022) unassignable
+24023) unassimilated
+24024) unassimilable
+24025) unassociated
+24026) unassumingness
+24027) unattempted
+24028) unauthentically
+24029) unavoidability
+24030) unavoidableness
+24031) unavowed
+24032) unbanked
+24033) unbeloved
+24034) unbelt (+s +ing +ed)
+24035) unbendable
+
+8-APR-2018
+24036) Harunobu (+'s - name - Wikipedia)
+24037) pederastic
+24038) Bogomil (+plural)
+24039) Bogomilism
+24040) Hadiths (added plural)
+24041) coprophilia
+24042) felch (+s +ing +ed - Collins)
+24043) Weiten (+'s - name - Wikipedia)
+24044) Lentz (+'s - name - Wikipedia)
+24045) Gershenson (+'s - name - Wikipedia)
+24046) Oswalt (+'s - name - Wikipedia)
+24047) Johansson (+'s - name - Wikipedia)
+24048) DeVault (+'s - name - Wikipedia)
+24049) Jayson (+'s - name - Wikipedia)
+24050) Goldstone (+'s - name - Wikipedia)
+24051) Welton (+'s - name - Wikipedia)
+24052) Janell (+'s - name - Wikipedia)
+24053) Wenzel (+'s - name - Wikipedia)
+24054) Sprecher (+'s - name - Wikipedia)
+24055) Doka (+'s - name - Wikipedia)
+24056) Kressel (+'s - name - Wikipedia)
+24057) Wasdell (+'s - name - Wikipedia)
+24058) Kamini (+'s - name - Wikipedia)
+24059) Haggerty (+'s - name - Wikipedia)
+24060) Gwendolyn (+'s - name - Wikipedia)
+24061) Leick (+'s - name - Wikipedia)
+24062) Tannahill (+'s - name - Wikipedia)
+24063) McKean (+'s - name - Wikipedia)
+24064) Kopelson (+'s - name - Wikipedia)
+24065) Twersky (+'s - name - Wikipedia)
+24066) Crompton (+'s - name - Wikipedia)
+24067) Asthana (+'s - name - Wikipedia)
+24068) homoeroticism
+24069) malthouse (+plural)
+24070) symposial (Collins)
+24071) Pollini (+'s - name - Wikipedia)
+24072) Leupp (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.60
 by Marco A.G.Pinto
