@@ -28637,7 +28637,7 @@ V2.59
 23955) papillomata (another plural of previous word)
 
 
-V2.60 (ongoing)
+V2.60
 The user az0 suggested a list of 328 names of famous people on Kevin's GitHub: "These 328 name tokens were derived from the top 100 lists in Google Trends via this repository (https://github.com/az0/google-trend-names). The geography was set to US, and it spanned dates from 2004 to 2018."
 
 1-APR-2018
@@ -29084,6 +29084,61 @@ The user az0 suggested a list of 328 names of famous people on Kevin's GitHub: "
 24380) postmenopause
 24381) photoplethysmograph (+ic)
 24382) supravaginal
+
+22-APR-2018
+24383) commonsensology
+24384) commonsensicality
+24385) commonsensically
+24386) commonhold
+24387) commonance
+24388) commonable
+24389) commonage
+24390) commixtion + commixion
+24391) committeeing
+24392) inflictable
+24393) delict
+24394) chalaza
+24395) chalazae (plural of previous word)
+24396) chalazal
+24397) Chalcedon (+'s - name - Wikipedia)
+24398) Chalcedonian
+24399) Miltonian
+24400) Laconian (+plural)
+24401) Tennysonian (+plural)
+24402) Tobagonian (+plural)
+24403) Johnsonian
+24404) Etonian (+plural)
+24405) Aberdonian (+plural)
+24406) aberemurder
+24407) downcourt
+24408) downconverter (+plural)
+24409) downconversion (+plural)
+24410) downcode (+s +ing +ed)
+24411) downchange (+s +ing +ed)
+24412) downburst (+plural)
+24413) miserabilism
+24414) miserabilist (+plural)
+
+23-APR-2018
+24415) precariat (+'s)
+24416) lumpenproletariat (+'s)
+24417) casualise (+s +ing +ed +ion -ISE)
+24418) casualize (+s +ing +ed +ion -IZE)
+24419) plutonomy
+24420) penality
+24421) McJob (+plural)
+24422) Machiko (+'s - name - Wikipedia)
+24423) Osawa (+'s - name - Wikipedia)
+24424) O'Mahony (+'s - name - Wikipedia)
+24425) Lorna (+'s - name - Wikipedia)
+24426) Devine (+'s - name - Wikipedia)
+24427) precarium
+24428) precartilaginous
+24429) precative
+24430) precatory
+24431) precaudal
+24432) precausation
+24433) precautional
 =============
 British English Dictionary (Forked) 2.60
 by Marco A.G.Pinto
