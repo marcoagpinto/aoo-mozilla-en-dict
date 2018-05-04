@@ -29139,6 +29139,114 @@ The user az0 suggested a list of 328 names of famous people on Kevin's GitHub: "
 24431) precaudal
 24432) precausation
 24433) precautional
+
+
+V2.61 (ongoing)
+2-MAY-2018
+24434) Aristippus (+'s - name - Wikipedia)
+24435) Cyrenaic
+24436) Cyrenaica (+'s - name - Wikipedia)
+24437) Cyrene (+'s - name - Wikipedia)
+24438) Epirus (+'s - name - Wikipedia)
+24439) pseudobulb (+plural)
+24440) pseudobulbar
+24441) bulbar
+24442) bulbospongiosus
+24443) hippeastrum (+plural)
+24444) beltline
+24445) cyclopean (changed to lowercase)
+24446) cyclopentadiene (+plural)
+24447) cycloparaffin (+plural)
+24448) gravimetrically (Collins)
+24449) olefinic
+24450) olecranon
+24451) tophus
+24452) tophi (plural of previous word)
+24453) valgus
+24454) ligamental
+24455) ligamentary
+24456) ligamentous
+24457) micelle (added singular)
+24458) micellar
+24459) counterion (Collins)
+24460) steric (+ally)
+24461) sterigma
+24462) sterigmata (plural of previous word)
+24463) triclosan
+24464) sterilizable (-IZE)
+24465) sterilisable (-ISE)
+24466) sterlet
+24467) Sterlitamak (+'s - name - Wikipedia)
+24468) sterned
+24469) sternmost
+24470) sternwards
+24471) Stern (+'s - name - Wikipedia)
+24472) omentum
+24473) omenta (plural of previous word)
+24474) omental
+24475) omenology
+24476) omentopexy
+24477) pseudobulbil
+24478) aposporous (Collins)
+24479) pseudocarp (+plural)
+24480) pseudocholinesterase
+24481) pseudochrysolite
+24482) pseudocirrhosis
+24483) pseudocoel + pseudocele + pseudocoele
+24484) pseudocoelom
+24485) pseudocolour (+plural)
+24486) pseudocolouring
+24487) pseudocompatibility
+24488) pseudocone
+24489) pseudoconglomerate
+24490) pseudocortex
+24491) pseudocosta
+24492) pseudocostate
+24493) pseudocubic
+24494) pseudocubical
+24495) pseudocumene
+24496) pseudocyphella
+24497) myxoid
+24498) myxoflagellate
+24499) myxofibroma
+24500) myxoedematous + myxedematous
+24501) seafoods (added plural)
+24502) seacock
+24503) seaborgium
+24504) Sg (seaborgium)
+24505) seaboards (added plural)
+24506) Seabee (+plural)
+24507) sea-moth (+plural)
+
+4-MAY-2018
+24508) Hartsfield (+'s - name - Wikipedia)
+24509) Klingler (+'s - name - Wikipedia)
+24510) Desai (+'s - name - Wikipedia)
+24511) Heidegger (+'s - name - Wikipedia)
+24512) hyphy (+'s)
+24513) crunk (+'s)
+24514) crural
+24515) cerebri
+24516) jural
+24517) unalienated (Collins)
+24518) junto (+plural)
+24519) Bonaventura (+'s - name - Wikipedia)
+24520) Angostura (+'s - name - Wikipedia)
+24521) Dürer (+'s - name - Wikipedia)
+24522) Madura (+'s - name - Wikipedia)
+24523) durra
+24524) Prospero (+'s - name - Wikipedia)
+24525) triticale
+24526) mung
+24527) wheats (added plural)
+24528) glycaemia
+24529) glycaemic
+24530) glycated
+24531) glycation
+24532) hydroxybutyrate
+24533) hydroxylate (added +s +ing +ed)
+24534) Hydrozoa
+24535) hydrozoan (+plural)
 =============
-British English Dictionary (Forked) 2.60
+British English Dictionary (Forked) 2.61
 by Marco A.G.Pinto
