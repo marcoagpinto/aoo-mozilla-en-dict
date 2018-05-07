@@ -29247,6 +29247,103 @@ V2.61 (ongoing)
 24533) hydroxylate (added +s +ing +ed)
 24534) Hydrozoa
 24535) hydrozoan (+plural)
+
+6-MAY-2018
+24536) terroir
+24537) kiddush
+24538) viniculture
+24539) vinicultural
+24540) viniculturist (+plural)
+24541) amphoras (another plural of amphora)
+24542) Proto-Germanic
+24543) Transcaucasia (+'s - name - Wikipedia)
+24544) Kartvelian
+24545) anthocyan
+24546) wort (+plural)
+24547) tokay (+plural)
+24548) Sauvignon
+24549) Pinot
+24550) fermentable
+24551) Gamay
+24552) Merlot
+24553) phylloxera
+24554) pectinase
+24555) brunello
+24556) Margaux
+24557) stovetop (+plural)
+24558) entheogen (+plural)
+24559) entheogenic
+24560) oxidizers (added plural -IZE)
+24561) oxidizable (-IZE)
+24562) oxidize (+s +ing +ed -IZE)
+24563) oxidisable (-ISE)
+24564) oxidise (+s +ing +ed -ISE)
+24565) oenological
+24566) oenologist (+plural)
+24567) négociant
+
+7-MAY-2018
+24568) baccy (+'s)
+24569) netminder (+'s)
+24570) netminding
+24571) netsman
+24572) netsuke (+plural)
+24573) nettable
+24574) netters (added plural)
+24575) Nettie
+24576) pigweed
+24577) pigwash
+24578) Dekker (+'s - name - Wikipedia)
+24579) pigwidgeon + pigwidgin
+24580) homogenous
+24581) keratoplasty
+24582) keratose
+24583) keratomileusis
+24584) photorefractive
+24585) keratectomy
+24586) mycobacterium
+24587) mycobacteria (plural of previous word)
+24588) excimer (+plural)
+24589) Northcote (+'s - name - Wikipedia)
+24590) excipient (+plural)
+24591) exciseman
+24592) excisemen (plural of previous word)
+24593) excisional
+24594) excitant (+plural)
+24595) excitative
+24596) neuromechanical
+24597) neuromechanism
+24598) neuromatous
+24599) neuromarketing
+24600) internetwork (+s +ing +ed)
+24601) internetted
+24602) internity
+24603) interno-medial + interno-median
+24604) internodal
+24605) internodial
+24606) internodium
+24607) internonce
+24608) trigonal
+24609) trigonally
+24610) bipyramid (Collins)
+24611) metaphosphate
+24612) cubane (Collins)
+24613) sarcomere (+plural)
+24614) rhodochrosite
+24615) rhodolite
+24616) rhodomel
+24617) rhodologist
+24618) Garpenberg (+'s - name - Wikipedia)
+24619) rhodophane
+24620) rhodophycean
+24621) phycoerythrin
+24622) phycology
+24623) phycological
+24624) phycologist (+plural)
+24625) protozoologist
+24626) protozoology + protozoölogy
+24627) protozoologically
+24628) protozoological
 =============
 British English Dictionary (Forked) 2.61
 by Marco A.G.Pinto
