@@ -29461,6 +29461,125 @@ V2.61 (ongoing)
 24739) Bloomquist (+'s - name - Wikipedia)
 24740) phytochemistry
 24741) phytochemist (+plural)
+
+15-MAY-2018
+24742) remotes (added plural)
+24743) intermesh (+s +ing +ed)
+24744) Weiser (+'s - name - Wikipedia)
+24745) Songdo (+'s - name - Wikipedia)
+24746) myoelectricity
+24747) trackable (Collins)
+24748) iophendylate + iofendylate
+24749) iontophoresis
+24750) ionotropy
+24751) ionotropic
+24752) Brookman (+'s - name - Wikipedia)
+24753) Verbeek (+'s - name - Wikipedia)
+24754) Huawei (+'s - name - Wikipedia)
+24755) Dahua (+'s - name - Wikipedia)
+24756) ZTE (+'s - name - Wikipedia)
+24757) Mirai (+'s - name - Wikipedia)
+24758) Junade (+'s - name - Wikipedia)
+24759) Littman (+'s - name - Wikipedia)
+24760) Lonergan (+'s - name - Wikipedia)
+24761) Renaud (+'s - name - Wikipedia)
+24762) Noura (+'s - name - Wikipedia)
+24763) Aleisa (+'s - name - Wikipedia)
+24764) Hsu (+'s - name - Wikipedia)
+24765) Friedemann (+'s - name - Wikipedia)
+24766) Wigmore (+'s - name - Wikipedia)
+24767) Sarma (+'s - name - Wikipedia)
+24768) Sanjay (+'s - name - Wikipedia)
+24769) Raji (+'s - name - Wikipedia)
+24770) Bushell (+'s - name - Wikipedia)
+24771) Magrassi (+'s - name - Wikipedia)
+24772) Pontin (+'s - name - Wikipedia)
+24773) Zhuge (+'s - name - Wikipedia)
+24774) Panarella (+'s - name - Wikipedia)
+24775) Jayawardena (+'s - name - Wikipedia)
+24776) Sehgal (+'s - name - Wikipedia)
+24777) Gemalto (+'s - name - Wikipedia)
+24778) Eggimann (+'s - name - Wikipedia)
+24779) Adriano (+'s - name - Wikipedia)
+24780) Hensel (+'s - name - Wikipedia)
+24781) Mulvenna (+'s - name - Wikipedia)
+24782) Raafat (+'s - name - Wikipedia)
+24783) Kandil (+'s - name - Wikipedia)
+24784) Kang (+'s - name - Wikipedia)
+24785) Schoening (+'s - name - Wikipedia)
+24786) Shixing (+'s - name - Wikipedia)
+24787) Xu (+'s - name - Wikipedia)
+24788) Mohammadi (+'s - name - Wikipedia)
+24789) Lipsky (+'s - name - Wikipedia)
+24790) Fitchard (+'s - name - Wikipedia)
+24791) Philippe (+'s - name - Wikipedia)
+24792) enablement
+24793) Brickley (+'s - name - Wikipedia)
+24794) Waldner (+'s - name - Wikipedia)
+24795) nanocomputer (+plural)
+24796) nanodiamond (+plural)
+24797) nanograms (added plural)
+24798) fullerene (+plural)
+24799) fulleride
+24800) fullerite
+24801) exascale (Wiktionary)
+24802) Zerka (+'s - name - Wikipedia)
+24803) Moreno (+'s - name - Wikipedia)
+24804) micrometry
+24805) stereology (Collins)
+24806) craniometry (+ic)
+24807) olfactometer
+24808) olfactometry
+24809) optometer
+24810) hypermetropic
+24811) Krizan (+'s - name - Wikipedia)
+24812) hypernym (+plural)
+24813) hyperonic
+24814) Faulk (+'s - name - Wikipedia)
+
+17-MAY-2018
+24815) saudade (+plural)
+24816) learnability
+24817) learnable
+24818) optimizable (Wiktionary -IZE)
+24819) optimisable (Wiktionary -ISE)
+24820) scaleability (another way of scalability)
+24821) compositionality (Wiktionary)
+24822) superscalar
+24823) supersaturations (added plural)
+24824) supersalient
+24825) superrotation
+24826) superregenerator
+24827) superregenerative
+24828) superregeneration
+24829) superreality
+24830) superrealistic
+24831) superradiant
+24832) superradiance
+24833) superpub
+24834) superpurgation
+24835) superproportioned
+24836) superprofit
+24837) superpowered
+24838) superposability
+24839) superplus
+24840) superplume
+24841) superplanetary
+24842) superphysical
+24843) superpersonality
+24844) superpersonal
+24845) superpersonalism
+24846) superperson
+24847) saucisson (+plural)
+24848) cantal
+24849) Shevchenko (+'s - name - Wikipedia)
+24850) Nevsky (+'s - name - Wikipedia)
+24851) Koopman (+'s - name - Wikipedia)
+24852) Sergei (+'s - name - Wikipedia)
+24853) Taras (+'s - name - Wikipedia)
+24854) Auden (+'s - name - Wikipedia)
+24855) Tippett (+'s - name - Wikipedia)
+24856) DeMars (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.61
 by Marco A.G.Pinto
