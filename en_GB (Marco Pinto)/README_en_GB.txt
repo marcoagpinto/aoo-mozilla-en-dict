@@ -73,7 +73,10 @@ OOo Issue 63541 — remove *dessicated
 2018-05-01 — The user az0 suggested a list of 328 names of famous people on Kevin's GitHub:
              "These 328 name tokens were derived from the top 100 lists in Google Trends via
 			 this repository (https://github.com/az0/google-trend-names). The geography was
-			 set to US, and it spanned dates from 2004 to 2018."			 
+			 set to US, and it spanned dates from 2004 to 2018."
+2018-06-01 — Added most places from New Zealand and England (looked for towns, counties, villages):
+			 https://en.wikipedia.org/wiki/List_of_towns_in_England
+			 https://en.wikipedia.org/wiki/List_of_towns_in_New_Zealand
  
 -------
 
