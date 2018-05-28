@@ -29141,7 +29141,7 @@ The user az0 suggested a list of 328 names of famous people on Kevin's GitHub: "
 24433) precautional
 
 
-V2.61 (ongoing)
+V2.61
 2-MAY-2018
 24434) Aristippus (+'s - name - Wikipedia)
 24435) Cyrenaic
@@ -30997,6 +30997,146 @@ V2.61 (ongoing)
 25059) Breckland (+'s - name - Wikipedia)
 25060) Hertsmere (+'s - name - Wikipedia)
 25061) Thanet (+'s - name - Wikipedia)
+
+27-MAY-2018
+25062) Nicomachus (+'s - name - Wikipedia)
+25063) hectocotylus
+25064) hectocotyli
+25065) organon
+25066) Mieza (+'s - name - Wikipedia)
+25067) Hermias
+25068) hierophant (+plural)
+25069) hierophantic
+25070) hylomorphism
+25071) hylomorphic
+25072) substantiality
+25073) macrostructure (+plural)
+25074) macrostructural
+25075) Lyell (+'s - name - Wikipedia)
+25076) upheave (+s +ing +ed)
+25077) beekeeper (+plural +'s - fixed: bee-keeper)
+25078) beekeeping (+'s - fixed: bee-keeping)
+25079) naturalistically
+25080) epideictic
+25081) dithyramb
+25082) dithyrambic
+25083) Halliwell (+'s - name - Wikipedia)
+25084) ensoul (+s +ing +ed)
+25085) ensoulment
+25086) pericarp (+plural)
+25087) acroamatic (+s)
+25088) Herophilus (+'s - name - Wikipedia)
+25089) exoteric
+25090) Alessandro (+'s - name - Wikipedia)
+25091) Allain (+'s - name - Wikipedia)
+25092) Lacedaemonian (+plural)
+25093) Haase (+'s - name - Wikipedia)
+25094) Sedley (+'s - name - Wikipedia)
+25095) Carruthers (+'s - name - Wikipedia)
+25096) Ebenstein (+'s - name - Wikipedia)
+25097) Freeland (+'s - name - Wikipedia)
+25098) Durant (+'s - name - Wikipedia)
+25099) Sorabji (+'s - name - Wikipedia)
+25100) Bekker (+'s - name - Wikipedia)
+25101) exothermal
+25102) exothermally
+25103) exosolar
+25104) exordium (+plural)
+25105) exordia (another plural of the previous word)
+25106) exordial
+25107) exopodite + exopod
+25108) exophthalmic (exophthalmic goitre)
+25109) exophora
+25110) exophoric
+25111) endophora
+25112) endophoric
+25113) endometritis
+25114) endolithic
+25115) autogenous
+25116) autogenocide
+25117) acrobacy
+25118) acroblast
+25119) acrosome (+plural)
+25120) acrosin
+25121) acrosomal
+25122) acroscopic
+25123) enstatite
+25124) perovskite (+plural)
+25125) phlogopite
+25126) kimberlite
+25127) smectite
+25128) Websterian
+25129) epidiascope
+25130) epidotic
+25131) epigastric
+25132) epigeal
+25133) epigene
+25134) macrostate (+plural)
+25135) microstate (+plural)
+25136) microstimulation
+25137) microstome
+25138) microstratification
+25139) microstratigraphy
+25140) microstratigraphic
+25141) microteaching
+25142) microtine
+25143) Aminet (+'s - name - Wikipedia)
+25144) AROS (+'s - name - Wikipedia)
+25145) MorphOS (+'s - name - Wikipedia)
+25146) Kickstart (+'s - name - Wikipedia)
+25147) Agnus (+'s - name - Wikipedia)
+25148) Zorro (+'s - name - Wikipedia)
+25149) AmigaDOS (+'s - name - Wikipedia)
+25150) CDTV (+'s - name - Wikipedia)
+25151) no-brainer (+plural)
+25152) RCA (+'s - name - Wikipedia)
+25153) Tramiel (+'s - name - Wikipedia)
+25154) Rattigan (+'s - name - Wikipedia)
+25155) AmigaOne (+'s - name - Wikipedia)
+25156) microkernel (+plural +'s)
+25157) Haynie (+'s - name - Wikipedia)
+25158) Kittel (+'s - name - Wikipedia)
+25159) Schönfeld (+'s - name - Wikipedia)
+25160) Hirasawa (+'s - name - Wikipedia)
+25161) Susumu (+'s - name - Wikipedia)
+25162) Casale (+'s - name - Wikipedia)
+25163) Mangapiko (+'s - name - Wikipedia)
+25164) Mangaohoi (+'s - name - Wikipedia)
+25165) Kakepuku (+'s - name - Wikipedia)
+25166) Maungatautari (+'s - name - Wikipedia)
+25167) Mylchreest (+'s - name - Wikipedia)
+25168) Cowan (+'s - name - Wikipedia)
+25169) minehunter (+plural)
+25170) minehunting
+25171) mineless
+25172) minelayer (+plural)
+25173) minelaying
+25174) mineproof
+25175) minenwerfer
+25176) countermines + countermined (merged into countermine)
+25177) saturnalias (added plural)
+25178) Saturnight
+25179) saturniid (+plural)
+25180) satyagrahi (+plural)
+25181) satyrid
+25182) Caiaphas (+'s - name - Wikipedia)
+25183) Zealotes (+'s - name - Wikipedia)
+25184) Elliman (+'s - name - Wikipedia)
+25185) Dennen (+'s - name - Wikipedia)
+25186) Fenholt (+'s - name - Wikipedia)
+25187) Vereen (+'s - name - Wikipedia)
+25188) Hellinger (+'s - name - Wikipedia)
+25189) Annas (+'s - name - Wikipedia)
+25190) Neeley (+'s - name - Wikipedia)
+25191) Stigwood (+'s - name - Wikipedia)
+25192) Corff (+'s - name - Wikipedia)
+25193) Tomson (+'s - name - Wikipedia)
+25194) Pradon (+'s - name - Wikipedia)
+25195) Kristen (+'s - name - Wikipedia)
+25196) Hurney (+'s - name - Wikipedia)
+25197) Moyles (+'s - name - Wikipedia)
+25198) Sheader (+'s - name - Wikipedia)
+25199) Kandel (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.61
 by Marco A.G.Pinto
