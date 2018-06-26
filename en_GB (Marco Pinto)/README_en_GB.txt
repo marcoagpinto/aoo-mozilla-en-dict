@@ -10,7 +10,7 @@ Andrew Brown and Marco A.G.Pinto:
  — Missing words have been added;
  — Many errors have been corrected;
  — Compound hyphenated words have been added where appropriate;
- — Thousands of proper names have been added.
+ — Thousands of proper/places names have been added.
 
 Valuable inputs to this process were received from many other
 people - far too numerous to name. Serious thanks to you all
@@ -74,15 +74,25 @@ OOo Issue 63541 — remove *dessicated
              "These 328 name tokens were derived from the top 100 lists in Google Trends via
 			 this repository (https://github.com/az0/google-trend-names). The geography was
 			 set to US, and it spanned dates from 2004 to 2018."
-2018-06-01 — Added most places from New Zealand and England (looked for towns, counties, villages):
-			 https://en.wikipedia.org/wiki/List_of_towns_in_England
-			 https://en.wikipedia.org/wiki/List_of_towns_in_New_Zealand
- 
+2018-06-01 — Added most places from New Zealand and UK (looked for towns, counties, villages):
+			  — https://en.wikipedia.org/wiki/List_of_towns_in_England;
+			  — https://en.wikipedia.org/wiki/List_of_towns_in_New_Zealand.
+2018-07-01 — Added most places from New Zealand and UK (looked for suburbs, parishes, boroughs, communities):
+			  — https://en.wikipedia.org/wiki/List_of_civil_parishes_in_England;			 
+			  — https://en.wikipedia.org/wiki/List_of_civil_parishes_in_Scotland;
+			  — https://en.wikipedia.org/wiki/List_of_places_in_Scotland;
+			  — https://en.wikipedia.org/wiki/List_of_communities_in_Wales;
+			  — https://en.wikipedia.org/wiki/Local_government_in_Wales;
+			  — https://en.wikipedia.org/wiki/List_of_towns_and_villages_in_Northern_Ireland;
+			  — https://en.wikipedia.org/wiki/Counties_of_Northern_Ireland;
+              — https://en.wikipedia.org/wiki/Category:Suburbs_in_New_Zealand.
+			 Also added places from OpenStreetMap which were sent to me by Peter C.:
+			 © OpenStreetMap contributors: www.openstreetmap.org/copyright
 -------
 
 MARCO A.G.PINTO:
 Since the dictionary hasn't been updated for many years,
-I decided to fork it in order to add new words and fixes.
+I forked it in order to add new words and fixes.
 
 I even added words such as common names of software and hardware.
 
@@ -97,7 +107,7 @@ The sources used to verify the spelling of the words I included in the dictionar
  3) Macmillan Dictionary;
  4) Wiktionary (used with caution);
  5) Wikipedia (used with caution);
- 6) Physical dictionaries
+ 6) Physical dictionaries.
 
 Main difficulties developing this dictionary:
  1) Proper names;
@@ -116,7 +126,7 @@ http://marcoagpinto.cidadevirtual.pt/faq.html
 
 FAQ ("movie", "automobile", "airplane", "hardcover" and "bookstore"):
 http://marcoagpinto.cidadevirtual.pt/faq.html#7
-Notice: Due to complains, "movie" was added on V2.57 since it is a widely used word.
+Notice: Due to complaints, "movie" was added on V2.57 since it is a widely used word.
 
 Changelog:
 http://marcoagpinto.cidadevirtual.pt/en_GB_CHANGES.txt
