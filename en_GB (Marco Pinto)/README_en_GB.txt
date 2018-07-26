@@ -70,7 +70,7 @@ OOo Issue 63541 — remove *dessicated
              ICONV 1
              ICONV ’ '
 	         Thanks to Jeroen Ooms
-2018-05-01 — The user az0 suggested a list of 328 names of famous people on Kevin's GitHub:
+2018-05-01 — Andrew Ziem suggested a list of 328 names of famous people on Kevin's GitHub:
              "These 328 name tokens were derived from the top 100 lists in Google Trends via
 			 this repository (https://github.com/az0/google-trend-names). The geography was
 			 set to US, and it spanned dates from 2004 to 2018."
@@ -88,6 +88,9 @@ OOo Issue 63541 — remove *dessicated
               — https://en.wikipedia.org/wiki/Category:Suburbs_in_New_Zealand.
 			 Also added places from OpenStreetMap which were sent to me by Peter C.:
 			 © OpenStreetMap contributors: www.openstreetmap.org/copyright
+2018-08-01 — Slightly higher quality icon
+		   — Added tons of drugs names supplied by the user Andrew Ziem on Kevin's GitHub
+		   — Fixed/improved flag "5": "women's" was missing
 -------
 
 MARCO A.G.PINTO:
