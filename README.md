@@ -17,7 +17,7 @@ The dictionaries here are the most recent versions available and this repository
 
 I (Marco Pinto) am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net and https://sourceforge.net/projects/wordlist/files/Hunspell. Dwayne Bailey maintains the en_ZA: http://translate.org.za
 
-I will try to release monthly updates for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is about to be released, there is no dictionary update for it to avoid notifying people to update it after installing the latest AOO. Thus, a release is skipped for AOO.
+I will try to release monthly updates for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is to be released, there is no dictionary update for it to avoid notifying people to update it after installing the latest AOO. Thus, a release is skipped for AOO.
 
 Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a changelog.
 
