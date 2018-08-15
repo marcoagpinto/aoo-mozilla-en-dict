@@ -44735,6 +44735,88 @@ V2.64 (ongoing)
 38690) Ystrad-Ffin (+'s - name - Wikipedia)
 38691) Ystradowen (+'s - name - Wikipedia)
 38692) Ystradyfodwg (+'s - name - Wikipedia)
+
+13-AUG-2018
+38693) arborists (added plural +'s)
+38694) sidesway
+38695) sidestepper (+plural)
+38696) sideshowman
+38697) Worsley  
+38698) arboreta (another plural of arboretum)
+38699) arboreality
+38700) dromaeosaurid (+plural)
+38701) dromaeosaur (+plural)
+38702) dromond (+plural)
+38703) bourdon (+plural)
+38704) arborization (+plural -IZE)
+38705) arborisation (+plural -ISE)
+38706) arborvirus
+38707) dendrology
+38708) dendrological
+38709) dendrologist (+plural)
+38710) homeowner's (added 's)
+38711) Junger (+'s - name - Wikipedia)
+38712) Leavell (+'s - name - Wikipedia)
+38713) McGough (+'s - name - Wikipedia)
+38714) Shigo (+'s - name - Wikipedia)
+38715) Perdue (+'s - name - Wikipedia)
+38716) podocarp (+plural)
+38717) mycorrhiza
+38718) mycorrhizae (plural of previous word)
+38719) mycorrhizal
+38720) inosculate (+s +ing +ed +ion)
+38721) pneumatophore (+plural)
+38722) subaerial (+ally)
+38723) subaerialist
+38724) subagitation
+38725) subahship
+38726) subah
+38727) subak + soebak
+38728) subalgebra
+38729) subalternant
+38730) overtop (+s +ing +ed)
+38731) lenticel (+plural)
+38732) herbivory
+38733) phylloclade (+plural)
+38734) mudbanks (added plural)
+38735) interglacials (added plural)
+38736) biodiverse
+38737) turnery
+38738) salicylate (+plural)
+38739) evapotranspiration
+38740) bristlecone (bristlecone pine)
+
+15-AUG-2018
+38741) wholewheat
+38742) wholescale
+38743) wholesaleness
+38744) wholesalely
+38745) wholewise
+38746) wholism
+38747) wholist
+38748) whizz-kid (+plural)
+38749) whizz
+38750) westernize (+s +ing +ed +ion +er +ers -IZE)
+38751) westerniser (+plural -ISE)
+38752) wellington (+plural - lowercase)
+38753) westernness
+38754) westernly
+38755) westerveldite
+38756) wavily
+38757) waverer (+plural)
+38758) wavery
+38759) intercountry (Collins)
+38760) irrationalities (added plural)
+38761) irrebuttable
+38762) irreclaimably
+38763) irrecuperable
+38764) irredentists (added plural)
+38765) autonomist (+plural)
+38766) autopathography (+plural)
+38767) autonym
+38768) autopathy
+38769) autopen (+plural)
+38770) autophagic
 =============
 British English Dictionary (Forked) 2.64
 by Marco A.G.Pinto
