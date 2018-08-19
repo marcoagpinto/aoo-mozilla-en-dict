@@ -44187,7 +44187,7 @@ V2.64 (ongoing)
 38142) Kenfig (+'s - name - Wikipedia)
 38143) Quarrington (+'s - name - Wikipedia)
 38144) Quatford (+'s - name - Wikipedia)
-38145) Quebec (+'s - name - Wikipedia)
+38145) Quebec (+'s - name - Wikipedia) <- deleted
 38146) Queensway (+'s - name - Wikipedia)
 38147) Racton (+'s - name - Wikipedia)
 38148) Lordington (+'s - name - Wikipedia)
@@ -44817,6 +44817,55 @@ V2.64 (ongoing)
 38768) autopathy
 38769) autopen (+plural)
 38770) autophagic
+
+17-AUG-2018
+38771) karst (+plural +ic)
+38772) karstify (+s +ing +ed +ion)
+38773) geotectonics
+38774) geostatistics
+38775) geostatics
+38776) karyokinesis
+38777) karyotype (+plural)
+38778) karyotypic
+38779) karyotyping
+38780) chorionic
+38781) choriocarcinoma (+plural)
+38782) choriocarcinomata (another plural of previous word)
+38783) chorioallantoic
+38784) allantois
+38785) allantoides (plural of previous word)
+38786) allantoic
+38787) allantoid
+38788) klaxons (added plural)
+38789) klebsiella
+38790) pneumocystic
+38791) koruna (+plural)
+38792) kudu (+plural)
+38793) lacework
+38794) lacewood
+38795) lacery
+38796) lacertoid
+38797) lacertilian (+plural)
+38798) lacertiform
+
+19-AUG-2018
+38799) wherefrom (suggested by Peter:  "used particularly in literary circles")
+38800) whereness (suggested by Peter:  "used particularly in literary circles")
+38801) whereabout (suggested by Peter:  "used particularly in literary circles")
+38802) whereafter (suggested by Peter:  "used particularly in literary circles")
+38803) whereagainst (suggested by Peter:  "used particularly in literary circles")
+38804) wherefor (suggested by Peter:  "used particularly in literary circles")
+38805) wherefrom (suggested by Peter:  "used particularly in literary circles")
+38806) whereinsoever (suggested by Peter:  "used particularly in literary circles")
+38807) whereinto (suggested by Peter:  "used particularly in literary circles")
+38808) whereout (suggested by Peter:  "used particularly in literary circles")
+38809) whereuntil (suggested by Peter:  "used particularly in literary circles")
+38810) whereunder (suggested by Peter:  "used particularly in literary circles")
+38811) whereuntil (suggested by Peter:  "used particularly in literary circles")
+38812) whereunto (suggested by Peter:  "used particularly in literary circles")
+38813) where'er (suggested by Peter:  "used particularly in literary circles")
+38814) whereso (suggested by Peter:  "used particularly in literary circles")
+38815) wheresoe'er (suggested by Peter:  "used particularly in literary circles")
 =============
 British English Dictionary (Forked) 2.64
 by Marco A.G.Pinto
