@@ -44866,6 +44866,74 @@ V2.64 (ongoing)
 38813) where'er (suggested by Peter:  "used particularly in literary circles")
 38814) whereso (suggested by Peter:  "used particularly in literary circles")
 38815) wheresoe'er (suggested by Peter:  "used particularly in literary circles")
+
+20-AUG-2018
+38816) lamplit
+38817) lamprophyre
+38818) feldspathic
+38819) carbonatite (+plural)
+38820) diatreme (+plural)
+38821) syenite
+38822) syenitic
+38823) landform (added singular)
+38824) lateralize (+s +ing +ed +ion -IZE)
+38825 lateralise (+s +ing +ed +ion -ISE)
+38826) laterality
+38827) pleiotropic
+38828) pleiotropism
+38829) lateralizer
+38830) lateralward
+38831) laterad
+38832) leat (+plural)
+38833) leastways
+38834) lightish
+38835) lightless
+38836) haemostat
+38837) liminal
+38838) liminality
+38839) racialize (+s +ing +ed +ion -IZE)
+38840) racialise (+s +ing +ed +ion -ISE)
+38841) raciation
+38842) lobotomize (+s +ing +ed +ion -IZE)
+38843) lobotomise (+s +ing +ed +ion -ISE)
+38844) lobscouse
+38845) lobopodium
+38846) lobopodia (plural of previous word)
+38847) lobopodial
+38848) lobopod (+plural)
+38849) loblolly (+plural)
+38850) lobectomy (+plural)
+
+21-AUG-2018
+38851) Sorbian
+38852) Wendish
+38853) Lusatian
+38854) sorb (lowercase)
+38855) Sorb (+plural)
+38856) sorbent
+38857) sorbefacient
+38858) sorbitan (+plural)
+38859) polyoxyethylene
+38860) sopranino (+plural)
+38861) soporose + soporous
+38862) homeware (+plural)
+38863) homewardly
+38864) longhouse (+plural)
+38865) loth
+38866) loanholder
+38867) lumina (plural of lumen)
+38868) luminal
+38869) makeweight (+plural)
+38870) Ronaldinho (+'s - name - Wikipedia)
+38871) chuffs + chuffing (merged into chuff)
+38872) chuddies
+38873) masterwork (+plural)
+38874) mastersinger
+38875) mediatory
+38876) mediatorship
+38877) mediatress + mediatrix + mediatrice
+38878) merman
+38879) mermen (plural of previous word)
 =============
 British English Dictionary (Forked) 2.64
 by Marco A.G.Pinto
