@@ -37394,7 +37394,7 @@ V2.63
 31362) Whittlesford (+'s - name - Wikipedia)
 
 
-V2.64 (ongoing)
+V2.64
 2-AUG-2018
 31363) Colebatch (+'s - name - Wikipedia)
 31364) Coleby (+'s - name - Wikipedia)
@@ -44877,7 +44877,7 @@ V2.64 (ongoing)
 38822) syenitic
 38823) landform (added singular)
 38824) lateralize (+s +ing +ed +ion -IZE)
-38825 lateralise (+s +ing +ed +ion -ISE)
+38825) lateralise (+s +ing +ed +ion -ISE)
 38826) laterality
 38827) pleiotropic
 38828) pleiotropism
@@ -44934,6 +44934,50 @@ V2.64 (ongoing)
 38877) mediatress + mediatrix + mediatrice
 38878) merman
 38879) mermen (plural of previous word)
+
+22-AUG-2018
+38880) VCD (+plural +'s - Wikipedia)
+38881) JVC (+'s - name - Wikipedia)
+38882) subformat (+plural - Wiktionary)
+38883) Darussalam (+'s - name - Wikipedia)
+38884) plug-ins (added plural +'s)
+38885) HD-DVD (Collins)
+38886) Junko (+'s - name - Wikipedia)
+38887) Faison (+'s - name - Wikipedia)
+38888) Chiariglione (+'s - name - Wikipedia)
+38889) grimily
+38890) grimoires (added plural)
+38891) Grimond (+'s - name - Wikipedia)
+38892) dislikable (another way of dislikeable)
+38893) disliker
+38894) disloyalist
+38895) dislodgeable
+38896) Dunmore (+'s - name - Wikipedia)
+38897) dismissiveness
+38898) disfellowship (+s +ing +ed)
+38899) disestablishmentarianism
+38900) disentitle (+s +ing +ed)
+38901) disentitlement
+38902) whiz (removed: North American)
+38903) whizz (+s +ing +ed)
+38904) whizzy (+ier +iest)
+38905) flabellum
+38906) flabella (plural of previous word)
+38907) tradal
+
+23-AUG-2018
+38908) depollute (+s +ing +ed)
+38909) accidented
+38910) accidentality
+38911) accidentalist
+38912) accidentalism
+38913) custode
+38914) custodee
+38915) pollutable
+38916) pollutedly
+38917) pollutedness
+38918) pollutional
+38919) pollutive
 =============
 British English Dictionary (Forked) 2.64
 by Marco A.G.Pinto
