@@ -47166,6 +47166,50 @@ V2.65 (ongoing)
 40465) muzakman
 40466) muzhik + moujik
 40467) muzz
+
+6-SEP-2018
+40468) ultranationalism
+40469) ultranationalist (+plural)
+40470) ultranationalistic
+40471) ultraportables (added plural)
+40472) ultramundane
+40473) lapidify (+s +ing +ed)
+40474) lapilli
+40475) elutriate (+s +ing +ed +ion)
+40476) macrofauna
+40477) macroemulsion
+40478) macroeconomy
+40479) hegemon (+plural)
+40480) theoreticism
+40481) theoreticist
+40482) nightwatchman
+40483) nightwatchmen (plural of previous word)
+40484) nighty
+40485) nightlike
+40486) nightlifer
+40487) oast
+40488) oasal
+40489) objectless
+40490) obituarist (+plural)
+40491) obituarize (+s +ing +ed -IZE)
+40492) obituarise (+s +ing +ed -ISE)
+40493) obituarily
+40494) obitual
+40495) obiter
+40496) one-offs (added plural)
+40497) Orimulsion
+40498) orinasal
+40499) Orionid (+plural)
+40500) orismological
+40501) orismology
+40502) oristic
+40503) ostlers (added plural)
+40504) ostium
+40505) ostia (plural of previous word)
+40506) ostiolum
+40507) ostiole
+40508) ascocarp (Collins)
+40509) ostiary
 =============
 British English Dictionary (Forked) 2.65
 by Marco A.G.Pinto
