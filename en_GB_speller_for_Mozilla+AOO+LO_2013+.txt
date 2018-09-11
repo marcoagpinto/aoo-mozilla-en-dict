@@ -47178,7 +47178,7 @@ V2.65 (ongoing)
 40475) elutriate (+s +ing +ed +ion)
 40476) macrofauna
 40477) macroemulsion
-40478) macroeconomy
+40478) macroeconomy (+plural)
 40479) hegemon (+plural)
 40480) theoreticism
 40481) theoreticist
@@ -47210,6 +47210,100 @@ V2.65 (ongoing)
 40507) ostiole
 40508) ascocarp (Collins)
 40509) ostiary
+
+7-SEP-2018
+40510) microeconomy (+plural - Wiktionary)
+40511) macroeconomist (+plural - Wiktionary)
+40512) Okun (+'s - name - Wikipedia)
+40513) Pigou (+'s - name - Wikipedia)
+40514) Solow (+'s - name - Wikipedia)
+40515) contractionary
+40516) Mises (+'s - name - Wikipedia)
+40517) Keynesianism
+40518) Modigliani (+'s - name - Wikipedia)
+40519) Kydland (+'s - name - Wikipedia)
+40520) Rotemberg (+'s - name - Wikipedia)
+40521) Mankiw (+'s - name - Wikipedia)
+40522) Romer (+'s - name - Wikipedia)
+40523) monopsony (+plural)
+40524) oligopsony (+plural)
+40525) Paretian
+40526) Kaldor (+'s - name - Wikipedia)
+40527) Frisch (+'s - name - Wikipedia)
+40528) Ruffin (+'s - name - Wikipedia)
+40529) Pindyck (+'s - name - Wikipedia)
+40530) Rubinfeld (+'s - name - Wikipedia)
+40531) Perloff (+'s - name - Wikipedia)
+40532) McGuigan (+'s - name - Wikipedia)
+40533) Whinston (+'s - name - Wikipedia)
+40534) Hirshleifer (+'s - name - Wikipedia)
+40535) Hagendorf (+'s - name - Wikipedia)
+40536) Amihai (+'s - name - Wikipedia)
+40537) Bouman (+'s - name - Wikipedia)
+40538) Kreps (+'s - name - Wikipedia)
+40539) Jehle (+'s - name - Wikipedia)
+40540) Reny (+'s - name - Wikipedia)
+40541) Aldine (+'s - name - Wikipedia)
+40542) Laffont (+'s - name - Wikipedia)
+40543) Deardorff (+'s - name - Wikipedia)
+40544) Graciela (+'s - name - Wikipedia)
+40545) Chichilnisky (+'s - name - Wikipedia)
+40546) Marchant (+'s - name - Wikipedia)
+40547) Andreu (+'s - name - Wikipedia)
+
+10-SEP-2018
+40548) ostracize (+s +ing +ed +ion -IZE)
+40549) ostracizer (-IZE)
+40550) ostraciser (-ISE)
+40551) ostracisation (-ISE)
+40552) ostracion
+40553) ostracean
+40554) ostomy (+plural)
+40555) overdramatize (+s +ing +ed -IZE)
+40556) overdramatise (+s +ing +ed -ISE)
+40557) overdramatic
+40558) overdrawer
+40559) overdrink (+s)
+40560) overdrank
+40561) overdrunk
+40562) overdry (+s +ing +ed)
+40563) overfamiliar
+40564) overfamiliarity
+40565) overexpansion
+40566) overexact
+40567) overmantel (+plural)
+40568) overdoor
+40569) overdominant
+40570) overdominance
+40571) overdot (+s +ing +ed)
+40572) overdosage (+plural)
+40573) hepatotoxic
+40574) hepatotoxicity
+40575) hepatotoxin (+plural)
+40576) pyrrolizidine
+40577) pyrrolidone
+40578) overdispersed
+40579) overdispersal
+40580) overdispersion
+40581) overdoer
+40582) pacemen (added plural)
+40583) pachanga
+40584) merengue
+40585) charanga (Collins)
+40586) mereology
+40587) mereological
+40588) mereness
+40589) merenda
+40590) palaeolithical
+40591) palaeolithologic
+40592) palling + palled (merged into pal)
+40593) pakkawood
+40594) pakora (+plural)
+40595) kofta (+plural)
+40596) samosa (+plural)
+40597) kachori (+plural)
+40598) bhaji (+plural)
+40599) bhajia (another plural of previous word)
 =============
 British English Dictionary (Forked) 2.65
 by Marco A.G.Pinto
