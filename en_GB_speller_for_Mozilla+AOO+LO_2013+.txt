@@ -47304,6 +47304,66 @@ V2.65 (ongoing)
 40597) kachori (+plural)
 40598) bhaji (+plural)
 40599) bhajia (another plural of previous word)
+
+12-SEP-2018
+40600) optimity
+40601) optimistical
+40602) optimific
+40603) optimate (+plural)
+40604) optime + optimé (+plural of both)
+40605) ineluctability
+40606) dispeller
+40607) disowner (+plural)
+40608) disownment
+40609) tradable + tradeable
+40610) Pareto (+'s - name - Wikipedia)
+40611) marginalist
+40612) marginalism
+40613) solipsistic
+40614) solipsistically
+40615) solipsismal
+40616) soliloquist (+plural)
+40617) soliloquize (+s +ing +ed -IZE)
+40618) solifluction
+40619) Jonny (+'s - name - Wikipedia)
+40620) unspectacularly
+40621) unspellable
+40622) medievalism
+40623) medievalize (+s +ing +ed -IZE)
+40624) medievalise (+s +ing +ed -ISE)
+40625) medievally
+40626) mediety
+40627) medicus
+40628) medico-chirurgical
+40629) Morgenstern (+'s - name - Wikipedia)
+40630) Akerlof (+'s - name - Wikipedia)
+40631) non-bank
+40632) Ricardian (+plural)
+40633) Ricardianism
+40634) ricasso
+40635) Riccati + Ricatti + Riccatti
+40636) Kahneman (+'s - name - Wikipedia)
+40637) Xenophon (+'s - name - Wikipedia)
+40638) Schumpeter (+'s - name - Wikipedia)
+40639) Boeotian (+plural)
+40640) Boeotia (+'s - name - Wikipedia)
+40641) boehmite (+plural)
+40642) oxyhydroxide (added singular)
+40643) gibbsite
+40644) physiocrat (+plural)
+40645) physiocracy
+40646) physiocratic
+40647) physiocratism
+40648) physiogenesis
+40649) physiogenetic
+40650) physiogeny
+40651) Freiburg (+'s - name - Wikipedia)
+40652) Ziliak (+'s - name - Wikipedia)
+40653) Joskow (+'s - name - Wikipedia)
+40654) Mirowski (+'s - name - Wikipedia)
+40655) Nassim (+'s - name - Wikipedia)
+40656) Taleb (+'s - name - Wikipedia)
+40657) Haeckel (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.65
 by Marco A.G.Pinto
