@@ -47470,6 +47470,51 @@ V2.65 (ongoing)
 40755) Scotist (+plural +'s)
 40756) deposit's (added 's)
 40757) desktop's (added 's)
+
+18-SEP-2018
+40758) hair-drier + hair-dryer (removed)
+40759) hairdryer + hairdrier (+plural +'s)
+40760) kidskin (+plural)
+40761) kidult (+plural)
+40762) kidvid
+40763) airbag's (added 's)
+40764) airbase's (added 's)
+40765) yogurt's (added 's)
+40766) worksheet's (added 's)
+40767) intellectualist's (added 's)
+40768) voluntarist's (added 's)
+40769) voluminosity
+40770) volumize (+s +ing +ed +er +ers -IZE)
+40771) volumise (+s +ing +ed +er +ers -ISE)
+40772) superclean (Collins)
+40773) jojoba
+40774) calendula (+plural)
+40775) lauryl
+40776) candelilla (Collins)
+40777) morrhuate
+40778) nitroprusside
+40779) yardman (+'s)
+40780) yardmen (plural of previous word)
+40781) yardmaster (+plural +'s)
+40782) workaholic's (added 's)
+40783) woodman's (added 's)
+40784) woodmen's (added 's)
+40785) chiffchaff (+plural)
+40786) sapsucker (+plural +'s)
+40787) piculet (+plural +'s)
+40788) wryneck (+plural +'s)
+40789) pukish
+40790) pukkah (another way of pukka)
+40791) slapper's (added 's)
+40792) slaughterman's (added 's)
+40793) Amazonas's (added 's)
+40794) amberjack's (added 's)
+40795) Andorran's (added 's)
+40796) Anglist (added 's)
+40797) annalistic
+40798) annalistically
+40799) brookweed's (added 's)
+40800) Buddhologist's (added 's)
 =============
 British English Dictionary (Forked) 2.65
 by Marco A.G.Pinto
