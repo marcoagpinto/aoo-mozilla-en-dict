@@ -47515,6 +47515,58 @@ V2.65 (ongoing)
 40798) annalistically
 40799) brookweed's (added 's)
 40800) Buddhologist's (added 's)
+
+19-SEP-2018
+40801) commercial's (added 's)
+40802) commerciality
+40803) Presbyterianism
+40804) Congregationalist's (added 's + plural)
+40805) congregationalize (+s +ing +ed -IZE)
+40806) congregationalise (+s +ing +ed -ISE)
+40807) congressperson's (added 's)
+40808) connectable
+40809) connatural (+ly)
+40810) conserve's (added 's)
+40811) meadowlands (added plural)
+40812) meadowless
+40813) marguerite (+plural +'s)
+40814) gerbera (+plural +'s)
+40815) console's (added 's)
+40816) constant's (added 's)
+40817) cottonseed (+plural +'s)
+40818) cottonmouth's (added 's)
+40819) lunatic's (added 's)
+40820) rotenone
+40821) rotgut
+40822) mafia's (added 's)
+40823) malware's
+40824) mammogram's (added 's)
+40825) manifest's (added 's)
+40826) menace's (added 's)
+40827) microchip's (added 's)
+40828) militance
+40829) militant's (added 's)
+40830) napoleon's (added 's)
+40831) newborn's (added 's)
+40832) newbie's (added 's)
+40833) right-click (added +s +ing +ed - verb)
+40834) left-click (added +s +ing +ed - verb)
+40835) ninja's (added 's)
+40836) registrant's (added 's)
+40837) repellent's (added 's)
+40838) riffle's (added 's)
+40839) rootkit's (added 's)
+40840) sailboat's (added 's)
+40841) seabird's (added 's)
+40842) sensitives (added plural)
+40843) serial's (added 's)
+40844) snowboard's (added 's)
+40845) snowsuit (+plural +'s)
+40846) songbook's (added 's)
+40847) sonogram's (added 's)
+40848) sonographs (added plural +'s to singular)
+40849) underslung
+40850) undersoil's (added 's)
 =============
 British English Dictionary (Forked) 2.65
 by Marco A.G.Pinto
