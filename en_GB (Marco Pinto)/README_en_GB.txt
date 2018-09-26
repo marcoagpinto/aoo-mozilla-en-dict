@@ -27,18 +27,18 @@ rules for MySpell and is also provided under the LGPL.
 
 In creating the affix rules an attempt has been made to
 reproduce the most general rules for English word
-formation, rather than merely use it as a means to
-compress the size of the dictionary. It is hoped that this
-will facilitate future localisation to other variants of
-English.
+formation, rather than merely use it to compress the
+size of the dictionary. It is hoped that this will
+facilitate future localisation to other variants of English.
 
 ---
 
-This is a locally hosted copy of the English dictionaries with fixed dash handling and new ligature and phonetic suggestion support extension:
-http://extensions.openoffice.org/en/node/3785
+This is a locally hosted copy of the English dictionaries with fixed
+dash handling and new ligature and phonetic suggestion support extension:
+https://extensions.openoffice.org/en/node/3785
 
 Original version of the en_GB dictionary:
-http://www.openoffice.org/issues/show_bug.cgi/id=72145
+https://bz.apache.org/ooo/show_bug.cgi?id=72145
 
 OpenOffice.org patch and morphological extension.
 
@@ -48,24 +48,24 @@ created by Kevin Atkinson and released on http://wordlist.sourceforge.net.
 Other fixes:
 
 OOo Issue 48060 — add numbers with affixes by COMPOUNDRULE (1st, 111th, 1990s etc.)
-OOo Issue 29112, 55498 - add NOSUGGEST flags to taboo words
+OOo Issue 29112, 55498 — add NOSUGGEST flags to taboo words
 New REP items (better suggestions for accented words and a few mistakes)
 OOo Issue 63541 — remove *dessicated
 
 2008-12-18 — NOSUGGEST, NUMBER/COMPOUNDRULE patches (nemeth AT OOo)
 2010-03-09 (nemeth AT OOo)
- — UTF-8 encoded dictionary:
-      — fix em-dash problem of OOo 3.2 by BREAK
-      — suggesting words with typographical apostrophes
-      — recognizing words with Unicode f ligatures
- — add phonetic suggestion (© 2000 Björn Jacke)
-
+		   — UTF-8 encoded dictionary:
+			 — Fix em-dash problem of OOo 3.2 by BREAK
+		     — Suggesting words with typographical apostrophes
+		     — Recognising words with Unicode f ligatures
+		   — Add phonetic suggestion (© 2000 Björn Jacke)
 2013-08-25 — GB forked by Marco A.G.Pinto
 2016-06-10 — NOSUGGEST added to this clean version of the GB .AFF (Marco A.G.Pinto)
 2016-06-21 — COMPOUNDING added to this clean version of the GB .AFF (Áron Budea)
 2016-08-01 — GB changelog is no longer included in the README file
 2016-09-11 — .AFF + .DIC now use Linux line endings
 2017-10-08 — Mozilla: used <em:maxVersion>*</em:maxVersion> to work with all future versions
+             except Thunderbird
 2017-12-16 — Added to the .AFF:
              ICONV 1
              ICONV ’ '
@@ -98,14 +98,16 @@ to
 			 Also, added places sent to me by Peter C.:
 			 © OpenStreetMap contributors: www.openstreetmap.org/copyright.
 			 © The Clergy of the Church of England Database Project, 2005.
-
+2018-10-01 — Added the cities from Australia by population:
+			  — https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population
+           — Added tons of cities from the US with a 10 000+ population.
+             This list was supplied by Michael Holroyd on Kevin Atkinson's GitHub.
+           — Added tons of possessives to nouns, thanks to Jörg Knobloch.
+			 
 -------
 
 MARCO A.G.PINTO:
-Since the dictionary hasn't been updated for many years,
-I forked it to add new words and fixes.
-
-I even added words such as common names of software and hardware.
+Since the dictionary wasn't updated for many years, I forked it to add new words and fixes.
 
 I grabbed Mozilla's version since it wasn't obfuscated. Alexandro Colorado and I
 tried to unmunch the OpenOffice version but all we got was rubbish.
