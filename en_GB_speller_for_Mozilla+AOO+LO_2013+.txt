@@ -48021,6 +48021,76 @@ V2.66 (ongoing)
 41206) stumpage (+'s)
 41207) needleworker (added plural +'s)
 41208) neologist's (added 's)
+
+4-OCT-2018
+41209) oarfish's (added 's)
+41210) oarer's (added 's)
+41211) OBE's (added 's)
+41212) obituarist's (added 's)
+41213) objectivist's (added 's)
+41214) oboist's (added 's)
+41215) octopod's (added 's)
+41216) octoroons (added plural)
+41217) oenophile's (added 's)
+41218) oenologist's (added 's)
+41219) ogress's (added 's)
+41220) oilbird's (added 's)
+41221) oilcan's (added 's)
+41222) oilstone's (added 's)
+41223) OLED's (added 's)
+41224) olefins (added plural)
+41225) olfactometer's (added 's)
+41226) oligo's (added 's)
+41227) oligomer's (added 's)
+41228) oligopolist's (added 's)
+41229) oligopsonist's (added 's)
+41230) ologist's (added 's)
+41231) pantile (+'s)
+41232) paramountcy
+41233) paramountship
+41234) paramylene (+'s)
+41235) passionateness
+41236) passionary (+'s)
+41237) passionable
+41238) patinate (+s +ing +ed +ion)
+41239) patinaed
+41240) peephole (+plural +'s)
+41241) pejoratives (added plural)
+41242) pejorism
+41243) pejorist (+'s)
+41244) pejoration
+41245) phenomenologist (+plural +'s)
+41246) externalism
+41247) externalist (+'s)
+41248) photostat (+s +ing +ed)
+41249) photostationary
+41250) photostereograph (+'s)
+41251) photostimulable
+41252) photostereogram
+41253) placatingly
+41254) placardeer (+'s)
+41255) proprietorially
+41256) particularness
+41257) prosecutorial
+41258) prosecutorship
+41259) prosecutrix (+'s)
+41260) proselytation
+41261) proseity
+41262) home-born
+41263) prostatic
+41264) bisphenol
+41265) epididymis
+41266) epididymides (plural of previous word)
+41267) punchcard (+'s)
+41268) puppyhood
+41269) puppetmaster (+plural +'s)
+41270) puppetism
+41271) puppetish
+41272) puppeteering
+41273) puppetdom
+41274) purlin (+plural +'s)
+41275) purloinment
+41276) puromycin
 =============
 British English Dictionary (Forked) 2.66
 by Marco A.G.Pinto
