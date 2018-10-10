@@ -48196,6 +48196,75 @@ V2.66 (ongoing)
 41377) lentisk's (added 's) 
 41378) sidestepper's (added 's)
 41379) Fenian's (added 's)
+
+10-OCT-2018
+41380) putto
+41381) putti (plural of previous word)
+41382) Netherlandish
+41383) unroused
+41384) classicize (+s +ing +ed -IZE)
+41385) classicise (+s +ing +ed -ISE)
+41386) veristic
+41387) illusionistic
+41388) illusorily
+41389) delusory
+41390) deluder's (added 's) 
+41391) pyracantha (+'s)
+41392) firethorn (+plural +'s)
+41393) firestop
+41394) firesider (+'s)
+41395) cherrywood
+41396) radiatively
+41397) ceratopsian (+plural +'s)
+41398) actinopterygian
+41399) radio-astronomical
+41400) ratable
+41401) rateability + ratability
+41402) rateably + ratably
+41403) ratel (+plural +'s)
+41404) rater's (added 's)
+41405) ravingly
+41406) ravinement
+41407) razored + razoring (merged into razor)
+41408) realty
+41409) rebuttable
+41410) rebutment
+41411) recharger (+plural +'s)
+41412) rechannel (+s +ing +ed)
+41413) rechallenge (+s +ing +ed)
+41414) rechange (+s +ing +ed)
+41415) rechain (+s +ing +ed)
+41416) reconsult (+s +ing +ed)
+41417) rediscuss (+s +ing +ed)
+41418) referencer (+'s)
+41419) embolize (+s +ing +ed - Collins -IZE)
+41420) embolise (+s +ing +ed - Collins -ISE)
+41421) rejustify (+s +ing +ed - Collins)
+41422) relator (+plural +'s)
+41423) rematerialize (+s +ing +ed -IZE)
+41424) rematerialise (+s +ing +ed -ISE)
+41425) antihistaminic (Collins)
+41426) Asprey (+'s - name - Wikipedia)
+41427) keto (keto acid)
+41428) ketogenesis
+41429) ketogenic
+41430) ketonaemia
+41431) hypergranulation
+41432) hypergolic
+41433) hyperflier (+plural +'s)
+41434) hyperextensions (added plural)
+41435) hyperemesis
+41436) hyperdrive (+plural +'s)
+41437) hyperdiploid
+41438) hyperborean
+41439) hypoventilation
+41440) hypotrophy (+plural)
+41441) hypotonic
+41442) hypotonicity
+41443) hypotonia
+41444) hypothyroidic
+41445) outdress (+s +ing +ed)
+41446) outdwelling
 =============
 British English Dictionary (Forked) 2.66
 by Marco A.G.Pinto
