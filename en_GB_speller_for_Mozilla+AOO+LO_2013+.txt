@@ -48826,6 +48826,173 @@ V2.66
 41989) Africanist's (added 's)
 41990) Afrocentrist's (added 's)
 41991) ageists (added plural)
+
+
+V2.67 (ongoing)
+1-NOV-2018
+41992) Landauer (+'s - name - Wikipedia)
+41993) equiprobable
+41994) equiprobability (+'s)
+41995) equipotent
+41996) equipartitioned
+41997) pointwise
+41998) Kullback (+'s - name - Wikipedia)
+41999) Leibler (+'s - name - Wikipedia)
+42000) pointwork (+'s)
+42001) Rényi (+'s - name - Wikipedia)
+42002) stationarity (+'s)
+42003) stationarily
+42004) decipherability (Collins)
+42005) Kolmogorov (+'s - name - Wikipedia)
+42006) Ysidro (+'s - name - Wikipedia)
+42007) Frieden (+'s - name - Wikipedia)
+42008) Fubini (+'s - name - Wikipedia)
+42009) Wilks (+'s - name - Wikipedia)
+42010) Schervish (+'s - name - Wikipedia)
+42011) Ramalho (+'s - name - Wikipedia)
+42012) César (+'s - name - Wikipedia)
+42013) Canelhas (+'s - name - Wikipedia)
+42014) Levor (+'s - name - Wikipedia)
+42015) Soni (+'s - name - Wikipedia)
+42016) Varshney (+'s - name - Wikipedia)
+42017) Mindell (+'s - name - Wikipedia)
+42018) Gerovitch (+'s - name - Wikipedia)
+42019) Gleick (+'s - name - Wikipedia)
+42020) Slava (+'s - name - Wikipedia)
+42021) discretize (+s +ing +ed +ion -IZE)
+42022) discretise (+s +ing +ed +ion -ISE)
+42023) multigrid (Collins)
+42024) discretively
+42025) discretive
+42026) negentropic
+42027) negentropy (+'s)
+42028) negawatt (+plural +'s)
+42029) Golomb (+'s - name - Wikipedia)
+42030) psychoacoustically
+42031) psychoacoustical
+42032) Bowley (+'s - name - Wikipedia)
+42033) psychophysicist (+'s)
+42034) psychophysiologic
+42035) psychopolitical
+42036) psychopolitics
+42037) polytomous
+42038) polytomy (+'s)
+42039) polytonalist (+'s)
+42040) polytone (+'s)
+42041) polytonic
+42042) Mosteller (+'s - name - Wikipedia)
+42043) Tukey (+'s - name - Wikipedia)
+42044) Nelder (+'s - name - Wikipedia)
+42045) miscompute (+s +ing +ed)
+42046) miscomputation
+42047) misconceit (+s +ing +ed)
+42048) misconceiver (+plural +'s)
+42049) Lazo (+'s - name - Wikipedia)
+42050) Gerolamo (+'s - name - Wikipedia)
+42051) Cardano (+'s - name - Wikipedia)
+42052) Graunt (+'s - name - Wikipedia)
+42053) Adrien (+'s - name - Wikipedia)
+42054) predicatively
+42055) chemometrics
+42056) chemomechanical
+42057) chemometric
+42058) chemophobia (+'s)
+42059) chemoradiotherapy
+42060) sabermetrics
+42061) sabermetric
+42062) sabermetrician (+'s)
+42063) Romijn (+'s - name - Wikipedia)
+42064) Rossman (+'s - name - Wikipedia)
+42065) Chrisman (+'s - name - Wikipedia)
+42066) Drennan (+'s - name - Wikipedia)
+42067) historial
+42068) historiate (+s +ing +ed)
+42069) Illowsky (+'s - name - Wikipedia)
+42070) Gigerenzer (+'s - name - Wikipedia)
+42071) Ioannidis (+'s - name - Wikipedia)
+42072) Peano (+'s - name - Wikipedia)
+42073) Plimpton (+'s - name - Wikipedia)
+42074) Bakhshali (+'s - name - Wikipedia)
+42075) Pythagoreans (added plural +'s)
+42076) Apollonius (+'s - name - Wikipedia)
+42077) Perga (+'s - name - Wikipedia)
+42078) Hipparchus (+'s - name - Wikipedia)
+42079) Nicaea (+'s - name - Wikipedia)
+42080) Diophantus (+'s - name - Wikipedia)
+42081) Leonhard (+'s - name - Wikipedia)
+42082) Khayyam (+'s - name - Wikipedia)
+42083) Sharaf (+'s - name - Wikipedia)
+42084) Lakatos (+'s - name - Wikipedia)
+42085) Gottfried (+'s - name - Wikipedia)
+42086) axiomatization (Collins -IZE)
+42087) axiomatisation (Collins -ISE)
+42088) hypercomplex (Collins)
+42089) Riehm (+'s - name - Wikipedia)
+42090) Bourbaki (+'s - name - Wikipedia)
+42091) multilinear
+42092) multilayering
+42093) Kneebone (+'s - name - Wikipedia)
+42094) Florian (+'s - name - Wikipedia)
+42095) Monastyrsky (+'s - name - Wikipedia)
+42096) benzoylmethylecgonine (Wiktionary)
+42097) medicalize (+s +ing +ed +ion -IZE)
+42098) medicalise (+s +ing +ed +ion -ISE)
+42099) medicamental
+42100) tetracaine (+'s)
+42101) catabolizes + catabolized (merged into catabolize -IZE)
+42102) catabolise (+s +ing +ed -ISE)
+42103) cataclasis
+42104) cataclastic
+42105) catadioptric
+41106) Belushi (+'s - name - Wikipedia)
+41107) Hedberg (+'s - name - Wikipedia)
+41108) Layne (+'s - name - Wikipedia)
+41109) downregulation (Collins)
+41110) neurofilament (+'s)
+41111) striatal
+41112) eosinophilia
+41113) plasminogen
+41114) Goodpasture (+'s - name - Wikipedia)
+41115) accumbens (nucleus accumbens)
+41116) dynorphin (Collins)
+41117) abruption
+41118) abruptedly
+41119) presynaptic
+41120) presynaptically
+
+2-NOV-2018
+41121) mannitol
+41122) phencyclidine
+41123) tropane + tropan (+'s)
+41124) tropaeolum (+plural +'s)
+41125) tropaeolaceous
+41126) tropacocaine (+'s)
+41127) tropinone (+'s)
+41128) stereoselective
+41129) stereoselectivity (+'s)
+41130) stereospecific
+41131) stereospecifically
+41132) stereospecificity (+'s)
+41133) stereograph (+plural +'s)
+41134) stereographically
+41135) stereobate (+'s)
+41136) stylobate (+'s)
+41137) stylograph (+ic +plural +'s)
+41138) styloid
+41139) stylolite (+plural +'s)
+41140) stylometry (+ic)
+41141) stylopized (-IZE)
+41142) stylopised (-ISE)
+41143) putrescine (+'s)
+41144) agmatine (+'s)
+41145) cinnamic
+41146) prochiral
+41147) racemic
+41148) stereoisomer (+plural +'s)
+41149) stereoisomeric
+41150) stereoisomerism
+41151) imine
+41152) biomimetic (+s)
 =============
-British English Dictionary (Forked) 2.66
+British English Dictionary (Forked) 2.67
 by Marco A.G.Pinto
