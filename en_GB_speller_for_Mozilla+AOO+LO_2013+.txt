@@ -48993,6 +48993,79 @@ V2.67 (ongoing)
 41150) stereoisomerism
 41151) imine
 41152) biomimetic (+s)
+
+3-NOV-2018
+41153) cyclize (+s +ing +ed +ion -IZE)
+41154) cyclise (+s +ing +ed +ion -ISE)
+41155) polyimide
+41156) monoterpene (+'s)
+41157) limonene
+41158) polyene (+plural +'s)
+41159) polyendocrinopathy (+'s)
+41160) polyendocrine
+41161) Schiff (+'s - name - Wikipedia)
+41162) Leete (+'s - name - Wikipedia)
+41163) Mannich (+'s - name - Wikipedia)
+41164) Willstätter (+'s - name - Wikipedia)
+41165) Wöhler (+'s - name - Wikipedia)
+41166) ophthalmological (Collins)
+41167) peridural
+41168) Quincke (+'s - name - Wikipedia)
+41169) Jellinek (+'s - name - Wikipedia)
+41170) Würzburg (+'s - name - Wikipedia)
+41171) harvestable
+41172) markups (added plural +'s)
+41173) modafinil (Collins)
+41174) Yamakawa (+'s - name - Wikipedia)
+41175) Kawamura (+'s - name - Wikipedia)
+41176) Miyamoto (+'s - name - Wikipedia)
+41177) Hosokawa (+'s - name - Wikipedia)
+41178) anorexically
+41179) neuropharmacology
+41180) neuropharmacologic
+41181) neuropharmacological
+41182) neuropharmacologist (+'s)
+41183) laryngology
+41184) laryngologist (+'s)
+41185) otology
+41186) otological
+41187) otologist (+plural +'s)
+41188) Rodway (+'s - name - Wikipedia)
+41189) Franceschi (+'s - name - Wikipedia)
+41190) Blakemore (+'s - name - Wikipedia)
+41191) pyrolysate + pyrolyzate (+'s)
+41192) hydrolytic
+41193) Steinhardt (+'s - name - Wikipedia)
+
+6-NOV-2018
+41194) Darfur (+'s - name - Wikipedia)
+41195) denaturalize (+s +ing +ed +ion -IZE)
+41196) denaturalise (+s +ing +ed +ion -ISE)
+41197) Nansen (+'s - name - Wikipedia)
+41198) Pomerania (+'s - name - Wikipedia)
+41199) Sadako (+'s - name - Wikipedia)
+41200) Pinheiro (+'s - name - Wikipedia)
+41201) Lamey (+'s - name - Wikipedia)
+41202) Ramtha (+'s - name - Wikipedia)
+41203) governorate (+plural +'s)
+41204) Warneford (+'s - name - Wikipedia)
+41205) governmentwide
+41206) governmentalization (+'s -IZE)
+41207) governmentalisation (+'s -ISE)
+41208) governmentalist (+'s)
+41209) governmentese (+'s)
+41210) permethrin
+41211) primaquine
+41212) ethnonationalist (+plural +'s)
+41213) ethnonationalism
+41214) jihadist + jehadist (+plural +'s)
+41215) jihadism + jehadism (+'s)
+41216) jehad (another way of jihad)
+41217) Islamification (+'s)
+41218) Islamization (-IZE)
+41219) Islamisation (-ISE)
+41220) Islamize (+s +ing +ed -IZE)
+41221) Islamise (+s +ing +ed -ISE)
 =============
 British English Dictionary (Forked) 2.67
 by Marco A.G.Pinto
