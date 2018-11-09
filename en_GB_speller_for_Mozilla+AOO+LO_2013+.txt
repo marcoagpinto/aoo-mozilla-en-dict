@@ -49066,6 +49066,75 @@ V2.67 (ongoing)
 41219) Islamisation (-ISE)
 41220) Islamize (+s +ing +ed -IZE)
 41221) Islamise (+s +ing +ed -ISE)
+
+8-NOV-2018
+41222) Wallice (+'s - name - Wikipedia)
+41223) Devereaux (+'s - name - Wikipedia)
+41224) Roxx (+'s - name - Wikipedia)
+41225) Bianca (+'s - name - Wikipedia)
+41226) Biaggi (+'s - name - Wikipedia)
+41227) Nena (+'s - name - Wikipedia)
+41228) Madigan (+'s - name - Wikipedia)
+41229) Basten (+'s - name - Wikipedia)
+41230) Shergold (+'s - name - Wikipedia)
+41231) Nightline (+'s)
+41232) Corlear (+'s - name - Wikipedia)
+41233) Hammurabi (+'s - name - Wikipedia)
+41234) Umar (+'s - name - Wikipedia)
+41235) Edo (+'s - name - Wikipedia)
+41236) monogrammist (+'s)
+41237) Cora (+'s - name - Wikipedia)
+41238) outcall (+plural +s)
+41239) incall (+plural +s - Wiktionary)
+41240) Collinson (+'s - name - Wikipedia)
+41241) oogamous
+41242) oogamously
+41243) oogamy (+'s)
+41244) totipotent
+41245) totipotency (+'s)
+41246) blastomere (+plural +'s)
+41247) spermatium (Collins)
+41248) spermatia (plural of previous word - Collins)
+41249) centriole (+plural +'s)
+41250) pronucleus
+41251) pronuclei (plural of previous word)
+41252) midpiece (+'s)
+41253) spermatozoal
+41254) spermatozoan
+41255) post-meiotic
+41256) melphalan (+'s)
+41257) spermatogenic (Collins)
+41258) preformationism
+41259) preformation
+41260) preformationist (+plural +'s)
+41261) gametangial
+41262) antheridium
+41263) antheridia (plural of previous word)
+41264) antheridial
+41265) polyspermy (+'s)
+41266) Fishman (+'s - name - Wikipedia)
+41267) Khanal (+'s - name - Wikipedia)
+41268) Overstreet (+'s - name - Wikipedia)
+41269) Marchetti (+'s - name - Wikipedia)
+41270) Benecke (+'s - name - Wikipedia)
+41271) Polyanovsky (+'s - name - Wikipedia)
+41272) Leroux (+'s - name - Wikipedia)
+41273) Blachon (+'s - name - Wikipedia)
+
+9-NOV-2018
+41274) variating + variated (merged into variate - Wiktionary)
+41275) pre
+41276) homunculi + homuncules (plural of homunculus)
+41277) homuncular
+41278) homozygosity
+41279) homozygote (+plural +'s)
+41280) homotransplant (+plural +'s)
+41281) homosocially
+41282) homosexualize (+s +ing +ed +ion -IZE)
+41283) homosexualise (+s +ing +ed +ion -ISE)
+41284) homosexualism
+41285) homopteran (+plural +'s)
+41286) homopterous
 =============
 British English Dictionary (Forked) 2.67
 by Marco A.G.Pinto
