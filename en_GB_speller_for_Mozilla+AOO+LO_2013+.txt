@@ -49195,6 +49195,32 @@ V2.67 (ongoing)
 41340) bonobo's (added +'s)
 41341) intermenstrual (Collins)
 41342) playslip (Collins)
+
+16-NOV-2018
+41343) mathematize (+s +ing +ed +ion -IZE)
+41344) mathematise (+s +ing +ed +ion -ISE)
+41345) mathematicize (+s +ing +ed +ion -IZE)
+41346) mathematicise (+s +ing +ed -ISE)
+41347) mathematicism (+'s)
+41348) mathematicalness
+41349) mathematicality
+41350) dialectician (+'s)
+41351) mechanician (+plural +'s)
+41352) interpleader (+'s)
+41353) wildling (+plural +'s)
+41354) affines (added plural +'s)
+41355) affinally
+41356) affinage
+41357) affineur (+'s)
+41358) affinitative
+41359) affinition (+'s)
+41360) Akaike (+'s - name - Wikipedia)
+41361) Arbuthnot (+'s - name - Wikipedia)
+41362) Poisson (+'s - name - Wikipedia)
+41363) Siméon (+'s - name - Wikipedia)
+41364) Ugarte (+'s - name - Wikipedia)
+41365) Moivre (+'s - name - Wikipedia)
+41366) Chernoff (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.67
 by Marco A.G.Pinto
