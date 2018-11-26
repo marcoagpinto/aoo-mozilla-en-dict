@@ -1,4 +1,4 @@
-87483
+88267
 'gainst
 'mongst
 'neath
@@ -240,6 +240,9 @@ abiogenesis
 abiogenic
 abiotic
 abiotically
+Abitibi-Ouest/M
+Abitibi-Témiscamingue/M
+Abitibi/M
 abject/PY
 abjection/MS
 abjectness/S
@@ -319,6 +322,8 @@ abrogation/M
 abrogator/MS
 Abronhill/M
 abrupt/TPY
+abruptedly
+abruption
 abruptness/S
 abs/M
 abscess/DSGM
@@ -401,8 +406,8 @@ abyss/SM
 abyssal
 Abyssinia/M
 Abyssinian/S
-Ac
 AC
+Ac
 acacia/SM
 academe/1SMZw
 academia/MS
@@ -517,6 +522,7 @@ accrue/SGD
 acct
 acculturate/VDSNGn
 acculturation/M
+accumbens
 accumulate/DSGNVnvu
 accumulation/M
 accumulative/P
@@ -839,6 +845,7 @@ adenomata
 adenomatous
 adenopathy
 adenosine
+adenosis
 adenoviral
 adenovirus/S
 adept/MTPYS
@@ -974,6 +981,7 @@ Adrian/M
 Adriana/M
 Adriano/M
 Adriatic/M
+Adrien/M
 Adrienne/M
 adrift
 adroit/TYP
@@ -1189,8 +1197,13 @@ affidavit/SM
 affiliate/nESGDN
 affiliated/U
 affiliation/ME
+affinage
 affinal
-affine
+affinally
+affine/SM
+affineur/M
+affinitative
+affinition/M
 affinity/MS
 affirm/DGVnvSN
 affirmation/MA
@@ -1421,6 +1434,7 @@ agitprop/SM
 agleam
 aglitter
 aglow
+agmatine/M
 agnate/S
 Agnatha
 agnatic
@@ -1478,8 +1492,8 @@ agriproduct/S
 agriscience/3
 agritourism
 agro-industry/SO
-agrobacterium
 Agrobacterium
+agrobacterium
 agrobiological
 agrobiologist
 agrobiology
@@ -1520,6 +1534,7 @@ Ahipara/M
 Ahititi/M
 Ahlberg/M
 Ahmari/M
+Ahmed/M
 Ahnen/M
 Ahoghill/M
 aholehole
@@ -1664,6 +1679,7 @@ Ajax/M
 AK
 AK-47/SM
 aka
+Akaike/M
 Akaroa/M
 akasha/W
 akathisia
@@ -1692,8 +1708,8 @@ al-Haili
 Al-Haili/M
 al-Jazeera
 Al-Jazeera/M
-al-Qa'ida/M
 Al-Qa'ida/M
+al-Qa'ida/M
 Al-Qaeda/M
 al-Qaeda/M
 al-Sharif
@@ -1744,6 +1760,8 @@ Albee/M
 albeit
 Albemarle/M
 Alberbury/M
+Alberni-Clayoquot/M
+Alberni/M
 Albert/M
 Alberta/M
 Alberto/M
@@ -1761,6 +1779,7 @@ Albourne/M
 Albrecht/M
 Albright/M
 Albrighton/M
+albuginean
 album/MS
 albumen/SM
 albumin/MS
@@ -1924,6 +1943,7 @@ Algiers/M
 alginate/SM
 ALGOL
 Algol/M
+Algoma/M
 Algonquian
 Algonquin/M
 algophobia
@@ -2620,6 +2640,7 @@ ampullae
 amputate/DNSGn
 amputation/M
 amputee/SM
+Amqui/M
 Amroth/M
 Amsterdam/M
 Amstrad/M
@@ -3090,6 +3111,7 @@ anorectal
 anorectic
 anorexia/MS
 anorexic/S
+anorexically
 anorgasmia
 anorgasmic
 anorthosite
@@ -3170,6 +3192,9 @@ anteverted
 anthelmintic/S
 anthem/MdS
 anther/MS
+antheridia
+antheridial
+antheridium
 antherozoid/S
 anthesis
 anthill/S
@@ -3442,6 +3467,7 @@ antiworm
 Antje/M
 antler/MS
 antlered
+Antoine-Labelle/M
 Antoine/M
 Antoinette/M
 Anton/M
@@ -3565,6 +3591,7 @@ Apollo/M
 apollo/S
 Apollonia/M
 Apollonian
+Apollonius/M
 apologetic/SY
 apologetics/M
 apologia/SM
@@ -3881,6 +3908,7 @@ arbour/MDS
 arbovirus/S
 Arbroath/M
 Arbury/M
+Arbuthnot/M
 Arbuthnott/M
 arbutus/MS
 arc/SMDG
@@ -4049,6 +4077,7 @@ areology
 Ares/M
 Aretha/M
 argent/M
+Argenteuil/M
 Argentina/M
 Argentine/SM
 Argentinian/S
@@ -4140,6 +4169,7 @@ Arliss/M
 arm's
 arm-wrestle
 arm-wrestling
+Arm/M
 arm/RELGDS
 armada/SM
 Armadale/M
@@ -4325,6 +4355,7 @@ artesunate
 artful/P
 artfulness/S
 Arth/M
+Arthabaska/M
 Arthington/M
 Arthingworth/M
 Arthog/M
@@ -4394,6 +4425,7 @@ Asa/M
 asana/S
 asap
 Asaph/M
+Asbestos/M
 asbestos/SM
 asbestosis
 ASBO/S
@@ -4680,8 +4712,8 @@ assume/GNXBSDV
 assumedly
 assumer/M
 assuming/U
-Assumption/M
 assumption/M
+Assumption/M
 assurance/SAM
 assure/GASkD
 assured/PY
@@ -5069,6 +5101,7 @@ Auglaize/M
 augment/NnDRGS
 augmentation/M
 augmentative/S
+augmentive
 augur/dMS
 augury/SM
 August/M
@@ -5197,6 +5230,8 @@ authorship/MS
 autism/MS
 autistic
 auto
+auto-erotic
+auto-eroticism
 auto-suggestibility/M
 autoaggressive
 autoallergy/W
@@ -5447,6 +5482,7 @@ avidness
 Aviemore/M
 avifauna
 avifaunal
+Avignon/M
 Avington/M
 avionic/S
 avionics/M
@@ -5556,10 +5592,12 @@ axillary
 axinite
 axiology/SM1w
 axiom/SWM1
+axiomatisation
 axiomatising
+axiomatization
 axiomatizing
-Axis/M
 axis/M
+Axis/M
 axisymmetric
 axle/SM
 Axminster/M
@@ -5640,9 +5678,9 @@ B-movie/S
 b.c.c.
 B.Sc.
 b/pb
-ba
-BA
 Ba
+BA
+ba
 Ba'ath/M
 Ba'athist/S
 baa/GSD
@@ -5888,8 +5926,8 @@ Badsey/M
 Badsworth/M
 badware
 Badwell/M
-BAE
 BAe
+BAE
 Baedeker/M
 Baez/M
 Baffin/M
@@ -5933,6 +5971,9 @@ Bahnson/M
 Bahrain/M
 baht
 Baidu/M
+Baie-Comeau/M
+Baie-D'Urfé/M
+Baie-Saint-Paul/M
 Baikal/M
 bail/7MDG
 Bail/M
@@ -5976,6 +6017,7 @@ Bakersfield/M
 bakery/MS
 bakeware
 Bakewell/M
+Bakhshali/M
 baking/M
 baklava/M
 Bakley/M
@@ -6280,6 +6322,7 @@ bannister/SM
 Bannock/M
 bannock/MS
 Bannockburn/M
+Bannon/M
 banns
 Banos/M
 banquet/rdSM
@@ -6422,6 +6465,7 @@ Barkestone/M
 Barkham/M
 Barking/M
 Barkley/M
+Barkmere/M
 barks/C
 Barkston/M
 Barkway/M
@@ -6606,6 +6650,7 @@ baryon/MS
 baryonic
 Barzman/M
 bas-relief/S
+Bas-Saint-Laurent/M
 bas/Sd1o
 basal
 Basaleg/M
@@ -6678,6 +6723,7 @@ basophil/SW
 basophilia
 Basotho/M
 Basque/MS
+Basques/M
 bass/S3M
 Basse-Terre/M
 Bassenthwaite/M
@@ -6702,6 +6748,7 @@ bast/DRGM
 bastard/Q8q-MSYZ
 bastardy/M
 baste/nSN
+Basten/M
 Bastien/M
 Bastille/M
 Bastin/M
@@ -6786,6 +6833,7 @@ battledress
 Battlefield/M
 battlefield/MS
 Battleflat/M
+Battleford/M
 battlefront/MS
 battleground/SM
 battlement/D
@@ -6869,8 +6917,8 @@ BBC/M
 bbl
 BBQ
 BBS/S
-BC
 bc
+BC
 bcc
 BCD
 BCE
@@ -6980,10 +7028,14 @@ Beatson/M
 Beattie/M
 Beatty/M
 beau/SM
+Beauce-Sartigan/M
+Beauceville/M
 Beauchamp/M
 Beauchamps/M
 Beaudesert/M
 Beaufort/M
+Beauharnois-Salaberry/M
+Beauharnois/M
 Beaujolais/M
 Beaulieu/M
 Beauly/M
@@ -6991,6 +7043,7 @@ Beauman/M
 Beaumaris/M
 Beaumont-cum-Moze/M
 Beaumont/M
+Beaupré/M
 Beauregard/M
 Beausale/M
 Beaussier/M
@@ -7337,6 +7390,7 @@ Belleek/M
 Belleeks/M
 Bellefontaine/M
 Bellerby/M
+Belleterre/M
 belletrist/SMW
 Belleville/M
 Bellevue/M
@@ -7373,6 +7427,7 @@ bellying
 Belmarsh/M
 Belmont/M
 Belmopan/M
+Beloeil/M
 Beloit/M
 belong/GSDJ
 belonging/M
@@ -7397,6 +7452,7 @@ Beltrami/M
 Beltsville/M
 beltway/SM
 beluga/SM
+Belushi/M
 belvedere/M
 Belvidere/M
 Belview/M
@@ -7438,6 +7494,7 @@ Bendooragh/M
 bendy/TP
 Bene't/M
 beneath
+Benecke/M
 Benedetti/M
 Benedict/M
 Benedictine/SM
@@ -7530,6 +7587,7 @@ benzoin
 benzonatate/M
 benzoquinone
 benzoyl
+benzoylmethylecgonine
 benztropine/M
 benzyl
 Beoley/M
@@ -7643,6 +7701,7 @@ Bert/M
 Bertelsen/M
 berth/GSDM
 Bertha/M
+Berthierville/M
 Bertie/M
 Bertolucci/M
 Bertram/M
@@ -7828,6 +7887,8 @@ bi-gender
 bi-gendered
 bi-level
 bi/M
+Biaggi/M
+Bianca/M
 biannual/Y
 bias/MDSG
 biased/U
@@ -8029,8 +8090,8 @@ billhook/S
 Billian/M
 billiard/MS
 Billie/M
-Billing/M
 billing/M
+Billing/M
 Billingborough/M
 Billinge/M
 Billingford/M
@@ -8269,6 +8330,7 @@ biometrical
 biometrician/S
 biometrics/M
 biometry/WM
+biomimetic/S
 biomineral
 biomineralisation
 biomineralised
@@ -8616,6 +8678,7 @@ blab/RSDG
 blabber/d
 blabbermouth/SM
 Blaby/M
+Blachon/M
 black-hearted
 Black/M
 black/MTSPYGD
@@ -8714,6 +8777,7 @@ blagueur
 blah/MDSG
 Blaina/M
 Blaine/M
+Blainville/M
 Blair/M
 Blairdaff/M
 Blairgowrie/M
@@ -8728,6 +8792,7 @@ Blake/M
 Blakedown/M
 Blakelaw/M
 Blakemere/M
+Blakemore/M
 Blakeney/M
 Blakenhall/M
 Blakenham/M
@@ -8739,8 +8804,8 @@ blameless/PY
 blamelessness/S
 blameworthiness/S
 blameworthy/P
-blanc/M
 Blanc/M
+blanc/M
 blanch/DSG
 Blanchard/M
 Blanche/M
@@ -8779,6 +8844,7 @@ blastodisk/S
 blastoff/SM
 blastoma/S
 blastomata
+blastomere/SM
 blastomycosis
 Blaston/M
 blastula
@@ -9179,8 +9245,8 @@ boatyard/SM
 bob/MDGSZ
 Bobbie/M
 bobbin/SM
-Bobbing/M
 bobbing/M
+Bobbing/M
 Bobbington/M
 Bobbingworth/M
 bobbish
@@ -9302,7 +9368,9 @@ boiler/MS
 boilermaker/MS
 boilerplate/SM
 boing
+Bois-des-Filion/M
 Bois/M
+Boisbriand/M
 Boise/M
 boisterous/YP
 boisterousness/S
@@ -9345,8 +9413,8 @@ Bolney/M
 Bolnhurst/M
 Bologna/M
 bolognaise
-Bolognese
 bolognese
+Bolognese
 bolometer/WSM
 boloney's
 Bolshevik/SM
@@ -9393,6 +9461,7 @@ Bonapartism
 Bonapartist
 Bonar/M
 Bonaventura/M
+Bonaventure/M
 bonbon/SM
 Bonby/M
 Boncath/M
@@ -9442,7 +9511,7 @@ Bonnington/M
 bonny/T
 Bonnybridge/M
 Bonnyrigg/M
-bonobo/S
+bonobo/SM
 bonsai/M
 Bonsall/M
 Bontnewydd/M
@@ -9740,6 +9809,7 @@ Botwnnog/M
 Bouchaniche/M
 Bouchard/M
 Boucher/M
+Boucherville/M
 Bouckaert/M
 bouclé
 Boudica/M
@@ -9781,6 +9851,7 @@ bountiful/P
 bountifulness/S
 bounty/6DjSM
 bouquet/MS
+Bourbaki/M
 Bourbon/M
 bourbon/MS
 Bourbonnais/M
@@ -9847,6 +9918,7 @@ bowl/R6MSDG
 Bowland-with-Leagram/M
 Bowland/M
 Bowles/M
+Bowley/M
 bowlful/S
 bowline/SM
 bowling/M
@@ -10117,6 +10189,7 @@ Bransgore/M
 Branson/M
 Branston/M
 Brant/M
+Brantford/M
 Brantham/M
 Brantingham/M
 Brantley/M
@@ -10681,6 +10754,7 @@ brolly/S
 bromance
 bromantic
 Bromborough/M
+Brome-Missisquoi/M
 Brome/M
 bromeliad/S
 Bromesberrow/M
@@ -10693,6 +10767,7 @@ bromine/M
 Bromley/M
 bromocriptine
 bromoform
+Bromont/M
 Brompton-on-Swale/M
 Brompton/M
 Bromsberrow/M
@@ -10779,6 +10854,7 @@ Brora/M
 Bros.
 brose
 Broseley/M
+Brossard/M
 broth/RMS
 brothel/SM
 brother-in-law
@@ -10816,6 +10892,7 @@ brownish
 Brownlow/M
 brownness/S
 brownout/SM
+Brownsburg-Chatham/M
 Brownsburg/M
 Brownside/M
 brownstone/MS
@@ -10987,8 +11064,8 @@ buckeye/MS
 Buckfastleigh/M
 Buckhaven/M
 Buckholt/M
-buckhorn/M
 Buckhorn/M
+buckhorn/M
 buckhound/S
 Buckhurst/M
 Buckie/M
@@ -11665,6 +11742,7 @@ Byzantine/SM
 Byzantinism
 Byzantinist/S
 Byzantium/M
+Bécancour/M
 bêche
 bête/S
 bêtise
@@ -11672,8 +11750,8 @@ Bôn-y-maen/M
 c.elegans
 C.Lit.
 c/nN
-CA
 ca
+CA
 Ca/y
 CAA
 caatinga
@@ -11864,8 +11942,8 @@ cake/MDGS
 cakeage
 cakehole
 cakewalk/SDGM
-Cal
 cal
+Cal
 Calabar/M
 Calabasas/M
 calabash/SM
@@ -12017,6 +12095,7 @@ calorifically
 calorimeter/SMW
 calorimetry/M
 calotype
+Calouste/M
 Calow/M
 calque/SGD
 Calstock/M
@@ -12137,6 +12216,7 @@ Campanus/M
 Campbell/M
 Campbells/M
 Campbellsport/M
+Campbellton/M
 Campbelltown/M
 Campbeltown/M
 Campden/M
@@ -12167,6 +12247,7 @@ can't
 can't've
 can-opener
 can/dz2SDRZrGyM
+Cana/M
 Canaan/M
 Canaanite
 Canada/M
@@ -12208,7 +12289,9 @@ candela/S
 candelabra/S
 candelabrum/M
 candelilla
+Candiac/M
 candid/PY
+candida
 candidacy/MS
 candidal
 candidate/MS
@@ -12240,11 +12323,13 @@ candytuft/S
 Cane/M
 cane/SMJ
 canebrake/SM
+Canelhas/M
 Canes/M
 Canewdon/M
 Canfield/M
 Canford/M
 Cangeford/M
+Caniapiscau/M
 canine/S
 caning/M
 Canis/M
@@ -12349,6 +12434,8 @@ canyon/SM
 Caol/M
 Caolán/M
 cap's
+Cap-Chat/M
+Cap-Santé/M
 cap/SADG
 capability/ISM
 capable/IP
@@ -12387,6 +12474,7 @@ Capistrano/M
 capita/onM
 capital/-qMQs893S
 Capital/M
+Capitale-Nationale/M
 capitalise/ADGnS
 capitalised/Uc
 capitalises/c
@@ -12557,6 +12645,7 @@ card-index
 card/DERGS
 Cardale/M
 cardamom/SM
+Cardano/M
 cardboard/SM
 Carden/M
 Cardenden/M
@@ -12634,11 +12723,13 @@ Carharrack/M
 Carhays/M
 Carib/S
 Caribbean
+Cariboo/M
 caribou/M
 caricature/3SGDM
 caricaturisation
 caricaturization
 caries/M
+Carignan/M
 carillon/MS
 carillonneur/S
 Carina/M
@@ -12655,6 +12746,7 @@ Carl/MG
 carl/S
 Carla/M
 Carlby/M
+Carleton-sur-Mer/M
 Carleton/M
 Carlieu/M
 Carlin/M
@@ -12683,6 +12775,7 @@ Carmel/M
 Carmen/M
 Carmichael/M
 carmine/SM
+Carmona/M
 Carmunnock/M
 Carmyle/M
 Carmyllie/M
@@ -12966,6 +13059,7 @@ Castlecaulfield/M
 Castledawson/M
 Castlederg/M
 Castleford/M
+Castlegar/M
 Castlegate/M
 Castlehill/M
 Castlelevington/M
@@ -13005,16 +13099,20 @@ cat-bear
 cat-sit/RG
 cat/M2ZzDGS
 catabolic
+catabolise/SGD
 catabolism
 catabolite/S
-catabolize/G
+catabolize/SGD
 catachreses
 catachresis
 catachrestic
+cataclasis
+cataclastic
 cataclysm/WSM
 cataclysmal
 cataclysmically
 catacomb/MS
+catadioptric
 catadromous
 catafalque/SM
 Catahoula/M
@@ -13095,6 +13193,7 @@ catfight/SG
 catfish/SGDM
 catgut/SM
 Catharine/M
+Catharines/M
 catharses
 catharsis/M
 cathartic
@@ -13177,6 +13276,7 @@ Caunton/M
 causal
 causalgia
 causality/MS
+Causapscal/M
 causate/vV
 causation/M
 causative/S
@@ -13266,8 +13366,8 @@ cDNA
 CDP/M
 CDT
 CDTV/M
-Ce
 CE
+Ce
 ceanothus
 cease/CDSG
 ceasefire/S
@@ -13397,6 +13497,7 @@ centralism/M
 centralist
 centrality/SM
 centralize/CDNSAnG
+Centre-du-Québec/M
 centre/GDRMJ3WoS
 Centre/M
 centreboard/SM
@@ -13418,6 +13519,7 @@ centrifugation/M
 centrifuge/MGNDS
 centring/M
 Centrino/M
+centriole/SM
 centripetal/Y
 centrism
 Centro/M
@@ -13573,6 +13675,7 @@ Chaffee/M
 chaffer/rd
 chaffinch/SM
 chaffweed
+Chagall/M
 Chagas/M
 Chagford/M
 chagrin/MS
@@ -13645,6 +13748,7 @@ chambermaid/MS
 chamberpot/S
 Chambers/M
 Chambersburg/M
+Chambly/M
 chambray/SM
 chameleon/MS
 chamfer/dSM
@@ -13653,8 +13757,8 @@ chamois/MDSG
 chamomile/MS
 champ/DGS
 champagne/SM
-champaign/M
 Champaign/M
+champaign/M
 champers
 Champflower/M
 champion/SGDM
@@ -13719,6 +13823,7 @@ chaology/3
 chaos/MS
 chaotic/Y
 chap/SDMG
+Chapais/M
 Chaparral/M
 chapbook/MS
 chapeau/MS
@@ -13809,6 +13914,7 @@ Charleston/M
 Charlestown/M
 Charlesworth/M
 Charleton/M
+Charlevoix-Est/M
 Charlevoix/M
 Charley/M
 Charlie/M
@@ -13894,6 +14000,7 @@ chatty/PT
 ChatZilla/M
 Chaucer/M
 Chaucerian/S
+Chaudière-Appalaches/M
 chauffeur/DSMG
 Chautauqua/M
 chauvinism/MS
@@ -14038,10 +14145,15 @@ chemoceptor/SM
 chemocline
 chemoimmunotherapy
 chemokine/SM
+chemomechanical
+chemometric
+chemometrics
+chemophobia/M
 chemoprevention
 chemopreventive
 chemoprophylactic
 chemoprophylaxis
+chemoradiotherapy
 chemoreception
 chemoreceptive
 chemoreceptor/SM
@@ -14091,6 +14203,7 @@ Chern/M
 Chernihiv/M
 Chernivtsi/M
 Chernobyl/M
+Chernoff/M
 Cherokee/SM
 cheroot/MS
 Cherrington/M
@@ -14126,6 +14239,7 @@ Chesterblade/M
 Chesterfield/M
 chesterfield/SM
 Chesterford/M
+Chestermere/M
 Chesterton/M
 Chestfield/M
 chestful/S
@@ -14174,6 +14288,7 @@ chiaroscuro/MS
 chiasma
 chiasmata
 Chiba/M
+Chibougamau/M
 Chicago/M
 Chicagoan/S
 Chicagoland/SM
@@ -14281,6 +14396,7 @@ Chillicothe/M
 chilliness/S
 Chillingham/M
 Chillington/M
+Chilliwack/M
 chillness/S
 chilly/TPS
 Chilmark/M
@@ -14497,8 +14613,8 @@ choral
 chorale/MS
 chord/GSDM
 chordal
-Chordata
 chordata
+Chordata
 chordate/SM
 chording/M
 chordophone/S
@@ -14544,6 +14660,7 @@ Chowley/M
 Chris/M
 Chrishall/M
 chrism/MS
+Chrisman/M
 Chrissie/M
 Christ/M
 Christadelphian/S
@@ -14650,6 +14767,7 @@ Chula/M
 Chulmleigh/M
 chum/2DzMZSG
 Chumleigh/M
+Chumley/M
 chumminess/S
 chummy/TP
 chump/MGDS
@@ -14705,7 +14823,10 @@ chutzpah/SM
 chyme/MS
 chymotrypsinogen
 Chytil/M
+chytrid
+Château-Richer/M
 château/SM
+Châteauguay/M
 châtelaine/MS
 CI
 Ci
@@ -14802,6 +14923,7 @@ cingula
 cingulate
 cingulum
 cinnabar/MS
+cinnamic
 Cinnaminson/M
 cinnamon/SM
 cinnarizine
@@ -15015,6 +15137,7 @@ Clarborough/M
 Clare/MZ
 Claremont/M
 Claremore/M
+Clarence-Rockland/M
 Clarence/M
 Clarendon/M
 claret/dSM
@@ -15542,8 +15665,8 @@ Clyro/M
 Clyst/M
 Clytemnestra/M
 Cláudio/M
-cm
 Cm
+cm
 Cmd.
 Cmdr
 Cmdre
@@ -15672,6 +15795,7 @@ coater/S
 Coates/M
 Coatesville/M
 Coatham/M
+Coaticook/M
 coatigan
 coating's/c
 coating/SM
@@ -15959,6 +16083,7 @@ coiffed
 coiffing
 coiffure/SDMG
 coil/USADG
+Coimbra/M
 coin/RMDG
 coinage/MS
 coincide/SGD
@@ -15980,6 +16105,7 @@ colander/SM
 colatitude/SM
 Colaton/M
 Colbert/M
+Colborne/M
 Colburn/M
 Colbury/M
 Colby/M
@@ -16118,6 +16244,7 @@ Collington/M
 Collingtree/M
 Collingwood/M
 Collins/M
+Collinson/M
 Collinsville/M
 collision/M
 collocational
@@ -16247,6 +16374,7 @@ Colwall/M
 Colwich/M
 Colwick/M
 Colwinston/M
+Colwood/M
 Colwyn/M
 Colyton/M
 coma/SM
@@ -16473,6 +16601,7 @@ commutator/M
 commute/R
 Comoran
 Comoros/M
+Comox/M
 comp/DGS
 compact/TRPDYG
 compaction/M
@@ -17302,6 +17431,7 @@ contravariant
 contravene/SGD
 contravener/M
 contravention/MS
+Contrecoeur/M
 contretemps/M
 contribute/DvGVy
 contribution/SM
@@ -17419,6 +17549,7 @@ cookhouse/SM
 cookie/MS
 cooking/M
 Cookley/M
+Cookshire-Eaton/M
 Cookstown/M
 cookware/SM
 cool-box/SM
@@ -17548,7 +17679,9 @@ copywriting
 coquetry/SM
 coquette/SMGD
 coquettish/Y
+Coquitlam/M
 cor
+Cora/M
 coracle/SM
 coracoid
 Coral/M
@@ -17619,6 +17752,7 @@ corks/U
 corkscrew/DSMG
 corkwood/S
 corky/T
+Corlear/M
 Corley/M
 Corliss/M
 corm/SM
@@ -17642,6 +17776,7 @@ Cornelius/M
 Cornell/M
 Cornelly/M
 corner/d
+Corner/M
 cornerman
 cornermen
 cornerstone/SM
@@ -17660,6 +17795,7 @@ cornflower/SM
 Cornhill/M
 cornice/DSMG
 corniculate
+cornification
 corniness/S
 Corning/M
 Cornish/M
@@ -17699,6 +17835,7 @@ corpora/MnVo
 corporal/MS
 corporate/3SY
 corporates/I
+Corporation/M
 corporation/MIS
 corporatise/SDGn
 corporatism/M
@@ -17715,8 +17852,8 @@ corpse/MDG
 corpulence/SM
 corpulent/Y
 corpulentness/S
-Corpus/M
 corpus/M
+Corpus/M
 corpuscle/MS
 corpuscular
 Corpusty/M
@@ -17889,6 +18026,7 @@ Cota-Robles/M
 cotangent/SM
 Cotcliffe/M
 cote/SM
+Coteau-du-Lac/M
 Cotebrook/M
 coterie/MS
 coterminous/Y
@@ -18159,8 +18297,8 @@ covellite
 coven/SM
 covenant/DSGM
 covenantal
-Covenanter/SM
 covenanter/SM
+Covenanter/SM
 covenantor/SM
 Coveney/M
 Covenham/M
@@ -18198,6 +18336,7 @@ cow-pat/SM
 Cow/M
 cow/ShGMDm
 Cowan/M
+Cowansville/M
 coward/SMY
 cowardice/SM
 cowardliness/S
@@ -18223,13 +18362,14 @@ cowgirl/SM
 cowhand
 cowherd/SM
 cowhide/SGDM
+Cowichan/M
 Cowick/M
 Cowie/M
 cowl/DGMS
 Cowlam/M
 Cowley/M
-cowling/M
 Cowling/M
+cowling/M
 Cowlinge/M
 Cowlitz/M
 Cowper/M
@@ -18985,8 +19125,8 @@ crustless
 crusty/TPS
 crutch/SDGM
 Cruwys/M
-crux/M
 Crux/M
+crux/M
 Cruz/M
 cruzado/S
 cry/CRSGD
@@ -19466,8 +19606,8 @@ Cyanamid
 cyanate/M
 cyanide/SMGD
 cyanoacrylate/S
-cyanobacteria
 Cyanobacteria
+cyanobacteria
 cyanobacterial
 cyanocobalamin/M
 cyanogen/M
@@ -19563,6 +19703,9 @@ cycleway/S
 cyclicity
 cycling's
 cycling/A
+cyclisation
+cyclise/SGD
+cyclize/SGDN
 cyclizine
 cycloaddition/S
 cyclobenzaprine/M
@@ -19660,6 +19803,7 @@ cytokinesis
 cytokinin/S
 cytologically
 cytology/3wSM
+cytolysis
 cytomegalic
 cytomegalovirus
 cytometer
@@ -19690,12 +19834,17 @@ Czechoslovakian
 Czechs
 Càrlabhagh/M
 Cédric/M
+César/M
+Côte-de-Beaupré/M
+Côte-de-Gaspé/M
+Côte-Nord/M
 Côte/M
 D'Abernon/M
 D'Abitot/M
 D'Arcy/M
 d'Arezzo
 d'art
+D'Autray/M
 d'Azur
 D'Eivile/M
 d'Estaing
@@ -19949,6 +20098,7 @@ Darenth/M
 daresay
 Daresbury/M
 Darfield/M
+Darfur/M
 Dargaville/M
 Darger/M
 Darien/M
@@ -20063,6 +20213,7 @@ dauphinois
 dauphinoise
 Dauwe/M
 Dave/M
+Daveluyville/M
 Davenham/M
 Davenport/MS
 Daventry/M
@@ -20335,6 +20486,7 @@ decimetre/MS
 decimetric
 decinary
 decipher/dL7r
+decipherability
 decipherable/IU
 decision-making
 decision/IMS
@@ -20481,8 +20633,8 @@ Deepika/M
 Deeping/M
 deepish
 deepness/S
-deer/M
 Deer/M
+deer/M
 Deere/M
 Deerfield/M
 deergrass
@@ -20502,8 +20654,8 @@ defamation/M
 defame/yRGn
 defat/SDG
 default/R
-defcon
 DEFCON
+defcon
 defeasance/S
 defeasibility
 defeasible
@@ -20743,6 +20895,7 @@ Delpike/M
 Delport/M
 Delran/M
 Delray/M
+Delson/M
 Delta/M
 delta/SM
 deltaic
@@ -20874,6 +21027,9 @@ demythologize/nDGNS
 den/ZDSGM
 Denaby/M
 denary
+denaturalisation
+denaturalise/SGD
+denaturalize/SGDN
 denaturant/S
 denaturation
 denature/G
@@ -21134,6 +21290,7 @@ DES/M
 Des/M
 Desai/M
 desalinate/SNnGD
+Desbiens/M
 Desborough/M
 descale/GDS
 descaler/S
@@ -21214,6 +21371,8 @@ deskill/SGD
 desktop/SM
 desman/SM
 Desmond/M
+desmosomal
+desmosome/SM
 Desna/M
 desogestrel/M
 desolate/YNPkGnDS
@@ -21344,6 +21503,7 @@ deutocerebra
 deutocerebrum
 Deutsch/M
 deutzia/S
+Deux-Montagnes/M
 Deuxhill/M
 dev/S
 devadasi/S
@@ -21364,6 +21524,7 @@ developer/SAM
 development/fMS
 developmental/Y
 deverbal/S
+Devereaux/M
 Devereux/M
 Deverill/M
 Devi/M
@@ -21417,8 +21578,8 @@ dewdrop/SM
 Dewey/M
 Dewhurst/M
 dewiness/S
-Dewitt/M
 DeWitt/M
+Dewitt/M
 dewlap/SM
 Dewlish/M
 Dewsall/M
@@ -21500,6 +21661,7 @@ dial/RSMGD
 dialect/wWSo1M
 dialectal
 dialectic/MS
+dialectician/M
 dialectology/w3
 dialogic
 dialogical
@@ -21529,6 +21691,7 @@ diapedesis
 diaper/S
 diaphanous/PY
 diaphone/S
+diaphoresis
 diaphoretic
 diaphragm/MS
 diaphragmatic
@@ -21666,6 +21829,7 @@ dietary/S
 dietetic/S
 dietetics/M
 diethyl
+diethylstilboestrol/M
 dietician/MS
 dietitian/SM
 Dietrich/M
@@ -21864,6 +22028,7 @@ Dionysiac
 Dionysian
 Dionysus/M
 Diophantine/M
+Diophantus/M
 diopside
 dioptre/SM
 diorama/SM
@@ -22053,7 +22218,12 @@ discretion/IMS
 discretionally
 discretionarily
 discretionary
+discretisation
+discretise/SGD
+discretive
+discretively
 discretization
+discretize/SGDN
 discriminable
 discriminant/SM
 discriminate/SnNDVGky
@@ -22581,6 +22751,7 @@ doily/SM
 doing/MaS
 dojo/SM
 Doka/M
+Dolbeau-Mistassini/M
 Dolbenmaen/M
 Dolby/M
 doldrums
@@ -22595,6 +22766,7 @@ dolichocephalic
 dolichocephaly
 doll/SDMGY
 dollar/SM
+Dollard-des-Ormeaux/M
 dollarisation
 dollarise/SGD
 dollarization
@@ -22623,6 +22795,7 @@ Dolton/M
 Dolwyddelan/M
 Dom/M
 domain/MS
+Domaine-du-Roy/M
 dome/SMGD
 Domer/M
 domes/W
@@ -22694,6 +22867,7 @@ donkey/SM
 donkeyman
 donkeymen
 Donna/M
+Donnacona/M
 Donne/M
 Donnellan/M
 Donnelly/M
@@ -22801,6 +22975,7 @@ Dorstone/M
 dorsum
 Dortmund/M
 Dorton/M
+Dorval/M
 dory/MS
 dos/dSDG
 dosage/MS
@@ -22968,6 +23143,7 @@ downplay/DGS
 downpour/SM
 downrange
 downrate/D
+downregulation
 downright/YP
 downriver
 downs/8
@@ -23146,6 +23322,7 @@ Dreghorn/M
 Drelincourt/M
 drench/GDS
 drencher/M
+Drennan/M
 Dresden/M
 Dreser/M
 dress/Z2RSDGJ
@@ -23302,6 +23479,7 @@ Drumlaghy/M
 drumlin/MS
 Drumlough/M
 Drummond/M
+Drummondville/M
 Drummullan/M
 Drumnacanvy/M
 Drumnadrochit/M
@@ -23506,6 +23684,7 @@ Dunchideock/M
 Dunchurch/M
 Duncton/M
 Dundalk/M
+Dundas/M
 Dundee/M
 dunderhead/SM
 Dundon/M
@@ -23520,6 +23699,7 @@ Dunedin/M
 Dunfermline/M
 Dunford/M
 dung/DGSM
+Dungan/M
 Dungannon/M
 dungaree/MS
 dungeon/GSMD
@@ -23604,6 +23784,7 @@ duopolistic
 duopoly/S3M
 duotone/S
 DuPage/M
+Duparquet/M
 dupe/RSMGD
 dupion/M
 duple
@@ -23772,6 +23953,7 @@ Dynes/M
 dyno'd
 dyno/SGD
 dynode/SM
+dynorphin
 Dyrdek/M
 Dyrham/M
 Dysart/M
@@ -23828,6 +24010,7 @@ décolleté
 décolletée
 décor/SM
 découpage
+Dégelis/M
 déjà
 démodé
 dénouement
@@ -24035,8 +24218,8 @@ Eastry/M
 Eastside/M
 Easttown/M
 Eastville/M
-eastward/S
 Eastward/S
+eastward/S
 Eastwell/M
 Eastwick/M
 Eastwood/M
@@ -24315,9 +24498,11 @@ Edmonton/M
 Edmund/M
 Edmunds/M
 Edmundsbury/M
+Edmundston/M
 Edna/M
 Ednam/M
 Edney/M
+Edo/M
 Edom/M
 EDP
 Edrin/M
@@ -25573,6 +25758,7 @@ enterer/MS
 enteric
 enteritides
 enteritis/MS
+enterocele
 enterococci
 enterococcus
 enterohepatic
@@ -25687,6 +25873,7 @@ eohippus/M
 EOL
 eolith/W
 eosinophil/S
+eosinophilia
 eosinophilic
 EP
 EPA
@@ -25877,9 +26064,13 @@ equinox/MS
 equip/LDSG
 equipage/SM
 equipartition/M
+equipartitioned
 equipoise/MSDG
+equipotent
 equipotential
 equipped/UA
+equiprobability/M
+equiprobable
 equiproportional/Y
 equiproportionality
 equiproportionate
@@ -26159,6 +26350,7 @@ Estelle/M
 Esteller/M
 Esterházy/M
 Estes/M
+Estevan/M
 Estevez/M
 Esther/M
 Estill/M
@@ -26179,10 +26371,12 @@ estradiol/M
 estrange/DGLS
 estranger/M
 Estremadura/M
+Estrie/M
 estrogens/M
 estuarial
 estuarine
 estuary/SM
+Estérel/M
 et
 ET/S
 ETA
@@ -26262,6 +26456,8 @@ ethnomusicologic
 ethnomusicological
 ethnomusicologist/S
 ethnomusicology
+ethnonationalism
+ethnonationalist/SM
 ethnonym
 ethnopharmacologist
 ethnopharmacology
@@ -27899,7 +28095,7 @@ fell/GSTD
 Fell/M
 fellah
 fellahin
-fellate
+fellate/SGD
 fellatio/MS
 fellator
 Felley/M
@@ -28004,6 +28200,7 @@ Fermi/M
 fermion/MS
 fermionic
 fermium/M
+Fermont/M
 fern/MZS
 Fernandes/M
 Fernandez/M
@@ -28018,6 +28215,7 @@ Fernham/M
 Fernhill/M
 Fernhout/M
 Fernhurst/M
+Fernie/M
 Fernley/M
 Fernside/M
 Fernwood/M
@@ -28343,6 +28541,9 @@ filtrate's
 filtrate/IGDNnS
 filtration/MI
 Fimber/M
+fimbria
+fimbriae
+fimbrial
 fin/DZGowMdS
 finable
 finagle/RSGD
@@ -28561,6 +28762,7 @@ Fishkill/M
 Fishlake/M
 Fishley/M
 fishlike
+Fishman/M
 fishmeal
 fishmonger/SM
 fishnet/SM
@@ -28904,6 +29106,7 @@ Flimby/M
 flimflam/SDGM
 flimsiness/S
 flimsy/TPY
+Flin/M
 flinch/DSG
 flincher/M
 flinching/U
@@ -28952,6 +29155,7 @@ Flodden/M
 floe/SM
 flog/DSGJR
 flogging/M
+Flon/M
 flood/SGMD
 flooder
 floodgate/MS
@@ -28988,6 +29192,7 @@ florescent/I
 floret/SM
 Florey/M
 Florham/M
+Florian/M
 Floriana/M
 floriculture/O3
 florid/PY
@@ -29485,6 +29690,7 @@ Forestier/M
 forestland/S
 forestry/SM
 forests/AC
+Forestville/M
 foretaste/MGSD
 foretell/GRS
 foretellable
@@ -29688,6 +29894,7 @@ Fosdyke/M
 FOSS
 Foss/M
 fossa
+Fossambault-sur-le-Lac/M
 Fosse/M
 FOSSer/S
 Fossett/M
@@ -29816,6 +30023,7 @@ fractiousness/S
 fracture/DSMG
 Fradley/M
 Fradswell/M
+fraenulum/M
 fragile/Y
 fragility/MS
 fragment/NGMSnD
@@ -29843,6 +30051,7 @@ Fran/M
 franc/SM
 France/SM
 Francesca/M
+Franceschi/M
 Francesco/M
 franchise's
 franchise/ESDG
@@ -29885,8 +30094,8 @@ frankincense/MS
 Frankish
 Frankleigh/M
 Frankley/M
-Franklin/M
 franklin/M
+Franklin/M
 frankness/S
 Franks/M
 Frankton/M
@@ -29899,6 +30108,7 @@ François/M
 Françoise/M
 frap/GSD
 frappé
+Fraser-Fort/M
 Fraser/M
 Fraserburgh/M
 frater
@@ -30039,6 +30249,7 @@ frenemy/SM
 frenetic/Y
 Frensham/M
 Frentzen/M
+frenulum/M
 Frenze/M
 frenzy/DMShG
 freon/S
@@ -30106,6 +30317,7 @@ Fridrich/M
 fried/A
 Friedel/M
 Friedemann/M
+Frieden/M
 Friedkin/M
 Friedman/M
 Friedrich/M
@@ -30235,6 +30447,7 @@ Front/M
 frontage/SM
 frontal/YS
 frontbencher/SM
+Frontenac/M
 frontend/S
 fronter/F
 frontier/SM
@@ -30326,9 +30539,10 @@ FSA
 FSF/M
 ft/C
 FTC
-FTP
 ftp
+FTP
 fu
+Fubini/M
 Fuchs/M
 fuchsia/SM
 fuchsin
@@ -30441,6 +30655,7 @@ Funafuti/M
 funambulism
 funambulist/S
 funboard/S
+Funchal/M
 function/SMyGopD
 functional
 functionalism/M
@@ -30802,6 +31017,7 @@ gamesman
 gamesmanship/MS
 gamesmen
 gamest/R
+gametangial
 gamete/WMS
 gametocyte/S
 gametogenesis
@@ -31010,6 +31226,8 @@ gasometer/MS
 gasp/SRDGk
 Gaspar/M
 Gasper/M
+Gaspé/M
+Gaspésie-Îles-de-la-Madeleine/M
 Gasque/M
 gassed
 gasser/SM
@@ -31073,6 +31291,7 @@ gathered/AI
 gathering/M
 gathers/A
 Gatima/M
+Gatineau/M
 Gatlinburg/M
 Gatling/SM
 Gatos/M
@@ -31164,8 +31383,8 @@ gazpacho/SM
 gazump/SGD
 gazunder/Sd
 Gazza/M
-Gb
 GB
+Gb
 Gbit
 GBP
 Gbps
@@ -31503,11 +31722,13 @@ Germoe/M
 germophobe
 germophobia
 germophobic
+Gerolamo/M
 Gerold/M
 Geronimo/M
 gerontic
 gerontocracy/M
 gerontology/3SMw
+Gerovitch/M
 Gerrans/M
 Gerrards/M
 Gerrit/M
@@ -31641,6 +31862,7 @@ gigaton/S
 gigatonne/S
 gigavolt
 gigawatt/MS
+Gigerenzer/M
 giggle/RGDSYk
 Giggleswick/M
 giggly/T
@@ -31740,6 +31962,7 @@ Gipping/M
 gipsy/SM
 Gipuzkoan/M
 giraffe/SM
+Giraldo/M
 Giraldus/M
 Girardeau/M
 Giraud/M
@@ -31911,6 +32134,7 @@ glee/jSM6
 gleeful/P
 gleefulness/S
 Gleevec/M
+Gleick/M
 Gleitsmann/M
 Glemham/M
 Glemsford/M
@@ -32197,6 +32421,7 @@ goalscorer/SM
 goalscoring
 goaltending
 goalwards
+Goan/SM
 Goanese
 goat/SMZ
 goatee/SMd
@@ -32346,8 +32571,10 @@ Goliath/M
 golliwog/SM
 golly/S
 gollywog
+Golomb/M
 Golspie/M
 Goltho/M
+Gomes/M
 Gomez/M
 Gomorrah/M
 gonad/SM
@@ -32378,6 +32605,7 @@ Gonubie/M
 Gonville/M
 Gonzales/M
 Gonzalez/M
+Gonçalves/M
 goo/ZM
 Goober/M
 Goochland/M
@@ -32408,6 +32636,7 @@ Goodmanham/M
 goodness/S
 Goodnestone/M
 goodnight
+Goodpasture/M
 Goodramgate/M
 Goodrich/M
 Goodshaw/M
@@ -32538,6 +32767,7 @@ GOTO
 gotta
 gotten
 Gottesman/M
+Gottfried/M
 gouache/S
 Gouda/M
 Goudhurst/M
@@ -32571,9 +32801,15 @@ governed/U
 governess/MS
 government/aM
 governmental/Y
+governmentalisation/M
 governmentalism
+governmentalist/M
+governmentalization/M
+governmentese/M
 governments
+governmentwide
 governor/MS
+governorate/SM
 governorship/MS
 Govind/M
 Govt.
@@ -32727,6 +32963,7 @@ grandchildren
 granddad/SMZ
 granddaddy/SM
 granddaughter/MS
+Grande-Rivière/M
 Grande/M
 grandee/SM
 grandeur/SM
@@ -32762,6 +32999,7 @@ grange/SM
 Grangemouth/M
 Granger/M
 Grangetown/M
+Granit/M
 Granite/M
 granite/MWS
 granitoid/S
@@ -32862,6 +33100,7 @@ gratuity/MS
 Gratus/M
 Gratwich/M
 Grauman/M
+Graunt/M
 gravadlax
 gravamen/MS
 grave-stone/SM
@@ -33364,6 +33603,7 @@ gubernatorial
 Gucci/M
 Guderian/M
 gudgeon/M
+Guelph/M
 Guenther/M
 guerilla/SM
 Guernsey/M
@@ -33444,6 +33684,7 @@ Gujerati/S
 gulag/S
 Gulag/SM
 Gulati/M
+Gulbenkian/M
 Gulberwick/M
 Guldeford/M
 gulden/MS
@@ -33936,6 +34177,7 @@ Hald/M
 Halden/M
 Haldenby/M
 Halderman/M
+Haldimand/M
 hale/SIDG
 Halebank/M
 Halen/M
@@ -33990,8 +34232,8 @@ half-truth/S
 half-wave
 half-way
 half-yearly
-Half/M
 half/M
+Half/M
 halfbreed
 Halfmoon/M
 halfness
@@ -34125,6 +34367,7 @@ hammock/MS
 Hammond/M
 Hammonton/M
 Hammoon/M
+Hammurabi/M
 hammy/T
 Hamon/M
 Hampden/M
@@ -34525,8 +34768,8 @@ Harrisburg/M
 Harrison/M
 Harrisonburg/M
 Harrisonville/M
-harrogate/M
 Harrogate/M
+harrogate/M
 Harrold/M
 Harroldston/M
 Harrow-on-the-Hill/M
@@ -34580,6 +34823,7 @@ Harty/M
 Harunobu/M
 Harvard/M
 harvest/MRGDS
+harvestable
 harvested/U
 harvestman/M
 harvestmen/M
@@ -34648,6 +34892,7 @@ Hastingleigh/M
 Hastings/M
 hasty/TP
 Haswell/M
+Hat/M
 hat/rGRSMdpD
 Hataitai/M
 hatband/S
@@ -34709,8 +34954,14 @@ Haupiri/M
 Hauptmann/M
 Hauraki/M
 Hauser/M
+Haut-Richelieu/M
+Haut-Saint-François/M
+Haut-Saint-Laurent/M
 Hautbois/M
 haute
+Haute-Côte-Nord/M
+Haute-Gaspésie/M
+Haute-Yamaska/M
 Haute/M
 hauteur
 Hauxton/M
@@ -35044,6 +35295,7 @@ heavyhearted
 heavyset
 heavyweight/MS
 Hebden/M
+hebdomadal
 hebe
 Hebei/M
 Heber/M
@@ -35076,6 +35328,7 @@ hectolitre/S
 hectometre/SM
 hector/dS
 Hecuba/M
+Hedberg/M
 Heddington/M
 Heddon/M
 Hedenham/M
@@ -35887,6 +36140,7 @@ Hiligaynon/S
 Hilkevitch/M
 hill/2MGYS
 Hillam/M
+Hillard/M
 Hillary/M
 Hillbrow/M
 Hillcrest/M
@@ -35993,6 +36247,7 @@ Hinxworth/M
 hip/TZMDSG
 hipbone/SM
 hipness/S
+Hipparchus/M
 hippeastrum/S
 hippie/M
 hipping/M
@@ -36043,6 +36298,7 @@ hist
 histamine/MS
 histaminic
 histidine
+histiocyte/SM
 histochemic
 histochemical
 histochemistry/M
@@ -36064,7 +36320,9 @@ histopathologist/SM
 histopathology
 histoplasmin
 histoplasmosis
+historial
 historian/SM
+historiate/SGD
 historical/P
 historicisation
 historicise/SGD
@@ -36490,17 +36748,30 @@ homophonic/Y
 homophonous
 homopolar
 homopolymers
+homopteran/SM
+homopterous
 homorganic
 homoromantic/S
 homosex
 homosexual/SMY
+homosexualisation
+homosexualise/SGD
+homosexualism
 homosexualist/SM
 homosexuality/SM
+homosexualize/SGDN
 homosocial
 homosociality
+homosocially
 homotopic
 homotopy
+homotransplant/SM
+homozygosity
+homozygote/SM
 homozygous/Y
+homuncular
+homuncules
+homunculi
 homunculus
 Hon.
 Honda/M
@@ -36767,14 +37038,15 @@ Horwood/M
 hos/Sd
 hosanna/GSD
 hosannah
-Hose/M
 hose/M
+Hose/M
 Hosea/M
 hosepipe
 Hoshea/M
 hosier/SMZ
 hosiery/SM
 Hosny/M
+Hosokawa/M
 hosp
 hospice/MS
 hospitable/YI
@@ -37098,6 +37370,7 @@ Humberside/M
 Humberston/M
 Humberstone/M
 Humbert/M
+Humberto/M
 Humberton/M
 Humbie/M
 Humble/M
@@ -37383,6 +37656,7 @@ hydroid/S
 hydrology/M31Sw
 hydrolyse/DSG
 hydrolysis/M
+hydrolytic
 hydromagnetic/S
 hydromassage
 hydromechanics/M
@@ -37490,6 +37764,7 @@ hypercharge
 hypercholesterolaemia
 hyperchromasia
 hypercompetitive
+hypercomplex
 hyperconnected
 hyperconscious
 hypercorrect
@@ -37696,8 +37971,8 @@ Hz
 Héloise/M
 Hügelschäfer/M
 Hāwea/M
-i
 I
+i
 I'd
 I'll
 I'm
@@ -37997,6 +38272,7 @@ illocution/S
 illocutionary
 Illogan/M
 illogical
+Illowsky/M
 Illston/M
 illude/SGD
 illume/GD
@@ -38076,6 +38352,7 @@ imbue/SGD
 IMF/M
 IMHO
 imidazole
+imine
 imitable/I
 imitate/DVGvNunS
 imitation/M
@@ -38390,6 +38667,7 @@ inbuilt
 Inc.
 Inca/S
 incalculable/PY
+incall/SM
 incandesce/SGD
 incandescence/SM
 incandescent/SY
@@ -38592,6 +38870,7 @@ indie/S
 indifferentism
 indifferentist/S
 indigence/SM
+indigene/SM
 indigenous/YP
 indigent/YS
 indigestibility
@@ -39456,6 +39735,7 @@ intermediation/M
 intermediator/S
 intermedium
 intermembrane
+intermenstrual
 intermesh/SGD
 intermetallic
 intermetrics
@@ -39525,6 +39805,7 @@ interphase
 interplanetary
 interplant/SGD
 interplay/MGDS
+interpleader/M
 Interpol/M
 interpolar
 interpolatable
@@ -39847,6 +40128,7 @@ invoke/RnDGNS
 involuntariness/S
 involuntary/P
 involute/S
+involuted
 involution/SM
 involve/LGhSD
 involved/U
@@ -39858,6 +40140,7 @@ inward/YP
 Inwardleigh/M
 Inyo/M
 Ioan/M
+Ioannidis/M
 iodate
 iodide/MS
 iodine/M
@@ -40086,18 +40369,23 @@ isinglass/SM
 ISIS/M
 Isis/M
 isiZulu
-Isl.
 isl.
+Isl.
 Islam/M
 Islamabad/M
 Islamdom
 Islamic
+Islamification/M
+Islamisation
+Islamise/SGD
 Islamism/M
 Islamist/S
 Islamistic
 Islamite
 Islamitic
 Islamitish
+Islamization
+Islamize/SGD
 Islamofascism
 Islamofascist
 Islamophobe
@@ -40333,6 +40621,7 @@ Jacoby/M
 Jacopo/M
 jacquard/MS
 Jacqueline/M
+Jacques-Cartier/M
 Jacques/M
 jacuzzi
 Jada/M
@@ -40425,6 +40714,7 @@ jar/MG6JSD
 Jarausch/M
 Jardine/M
 jardinière/MS
+Jardins-de-Napierville/M
 Jared/M
 jarful/S
 jargon/M
@@ -40449,6 +40739,7 @@ JavaScript/M
 javelin/MS
 Javi/M
 Javier/M
+Jaw/M
 jaw/pMDGS
 jawbone/SDM
 jawbreaker/SM
@@ -40513,7 +40804,9 @@ Jeffreys/M
 Jeffreyston/M
 Jeffries/M
 jeggings
-jehad's
+jehad/M
+jehadism/M
+jehadist/SM
 Jehle/M
 Jehoahaz/M
 Jehoash/M
@@ -40528,6 +40821,7 @@ jejune/PY
 jejunum/M
 Jekyll/M
 jell/DYGS
+Jellinek/M
 jello's
 jelly/DGMS
 jellybean's
@@ -40639,6 +40933,8 @@ jiggle/DSYG
 jiggly/T
 jigsaw/MS
 jihad/MS
+jihadism/M
+jihadist/SM
 Jilin/M
 Jill/M
 Jillie/M
@@ -40762,6 +41058,7 @@ joky/YT
 Jolene/M
 Jolie/M
 Joliet/M
+Joliette/M
 Jolitta/M
 Jolla/M
 jollification/SM
@@ -40852,10 +41149,10 @@ joyride/RGMS
 joyrode
 joystick/S
 João/M
-jpeg/S
 JPEG/S
-JPG
+jpeg/S
 jpg
+JPG
 JPY
 jQuery
 Jr
@@ -41127,7 +41424,9 @@ Kames/M
 kamikaze/SM
 Kamini/M
 Kamino/M
+Kamloops/M
 Kamo/M
+Kamouraska/M
 Kampala/M
 Kampf/M
 Kampuchea/M
@@ -41267,6 +41566,8 @@ Kauri/M
 Kauwhata/M
 Kavanagh/M
 Kawakawa/M
+Kawamura/M
+Kawartha/M
 Kawasaki/M
 Kawerau/M
 Kay/M
@@ -41327,8 +41628,8 @@ keelhaul/GDS
 keen/TGDPY
 Keenan/M
 Keene/M
-Keener/M
 keener/M
+Keener/M
 keening/M
 keenness/S
 keep-fit
@@ -41379,6 +41680,7 @@ Kellyanne/M
 Kelmarsh/M
 Kelmscot/M
 Kelmscott/M
+Kelowna/M
 kelp/DGSM
 kelpers
 Kelsale/M
@@ -41455,6 +41757,7 @@ Kennoway/M
 Kenny/M
 keno's
 Kenobi/M
+Kenora/M
 Kenosha/M
 kenosis
 kenotic
@@ -41639,10 +41942,12 @@ Khalid/M
 Khalifa/M
 Khalili/M
 khan/MS
+Khanal/M
 Khandallah/M
 Khandelwal/M
 Khartoum/M
 Khayat/M
+Khayyam/M
 Khmer/M
 Khoisan/M
 Khomeini/M
@@ -42144,6 +42449,7 @@ kitenge
 kitesurfer/S
 kitesurfing
 kith/MS
+Kitimat-Stikine/M
 Kitsap/M
 kitsch/ZSM
 Kittel/M
@@ -42227,6 +42533,7 @@ knee-high/S
 knee-jerk
 knee-length
 knee/dMS
+Kneebone/M
 kneecap/SGMD
 kneehole
 kneel/DRGS
@@ -42305,8 +42612,8 @@ Knossos/M
 knot/ZMS2GD
 knothole/MS
 Knott/M
-knotting/M
 Knotting/M
+knotting/M
 Knottingley/M
 knotty/TP
 know-how
@@ -42360,6 +42667,7 @@ Koenigsberg/M
 Koerner/M
 Koertzen/M
 Koester/M
+Koestler/M
 Kofi/M
 kofta/S
 Koga/M
@@ -42384,6 +42692,7 @@ kola/SM
 Kolata/M
 Kolbe/M
 Kolesar/M
+Kolmogorov/M
 Kolonia/M
 Kolyma/M
 kombu
@@ -42399,6 +42708,7 @@ kookiness/S
 kooky/YT
 Koopman/M
 Kootenai/M
+Kootenay/M
 kopeck/MS
 kopeks
 Kopelson/M
@@ -42515,6 +42825,7 @@ Kuiti/M
 Kukan/M
 Kukuk/M
 kulaks
+Kullback/M
 Kumar/M
 Kumara/M
 Kumari/M
@@ -42591,11 +42902,19 @@ Kyushu/M
 König/M
 Kühn/M
 Kümmel/M
+L'Ancienne-Lorette/M
+L'Assomption/M
+L'Islet/M
+L'Épiphanie/M
+L'Érable/M
+L'Île-Cadieux/M
+L'Île-Dorval/M
+L'Île-Perrot/M
 l/3
 l10n
 La'youn/M
-la/M
 La/M
+la/M
 Lab/M
 lab/oMS
 Labatt/M
@@ -42627,6 +42946,7 @@ laboured/MP
 Laboureur/M
 labouring/M
 labradoodle/S
+Labrador/M
 Labrador/SM
 labradorite
 labroid
@@ -42635,6 +42955,11 @@ Labunski/M
 laburnum/MS
 labyrinth/SM
 labyrinthine
+Lac-Delage/M
+Lac-Mégantic/M
+Lac-Saint-Jean-Est/M
+Lac-Saint-Joseph/M
+Lac-Sergent/M
 lac/DGSM
 Lac/M
 Lacan/M
@@ -42659,7 +42984,9 @@ Lacey/M
 Lach/M
 Lachman/M
 lachrymal/S
+lachrymation
 lachrymose
+Lachute/M
 lacing/M
 lack/MS
 lackadaisical/Y
@@ -42670,6 +42997,7 @@ Lackford/M
 lacklustre
 Laclede/M
 Lacock/M
+Lacombe/M
 Laconia/M
 Laconian/S
 laconic/Y
@@ -42677,8 +43005,10 @@ lacquer/SrdM
 lacquerware
 lacquerwork
 lacrimal
+lacrimation
 lacrosse/MS
 lacrymal
+lacrymation
 Lacs/M
 lactam/S
 lactate/SNMnDxG
@@ -42707,8 +43037,8 @@ Laden/M
 laden/Uc
 Ladies/M
 lading/M
-Ladino/S
 ladino/S
+Ladino/S
 Ladislaus/M
 ladle/GSMD
 ladleful
@@ -42746,8 +43076,8 @@ lagniappe's
 lagoon/SM
 lagoonal
 Lagos/M
-LaGrange/M
 Lagrange/M
+LaGrange/M
 Lagrangian/M
 Laguerre/M
 Laguna/M
@@ -42766,6 +43096,7 @@ Lais/M
 laissez
 laissez-faire
 laity/MS
+Lakatos/M
 Lake/M
 lake/SM
 Lakehurst/M
@@ -42815,6 +43146,7 @@ Lambrook/M
 lambskin/MS
 Lambston/M
 lambswool
+Lambton/M
 lame/YDPT
 lamebrain/MS
 lamed/M
@@ -42839,6 +43171,7 @@ lamenter
 lamers
 Lamerton/M
 Lamesley/M
+Lamey/M
 lamina/Mn
 laminae
 laminar
@@ -42883,6 +43216,7 @@ Lana/M
 Lanai/M
 Lanark/M
 Lanarkshire/M
+Lanaudière/M
 Lanbadarn/M
 Lanbadog/M
 Lancashire/M
@@ -42900,6 +43234,7 @@ Land/M
 land/mJDRGSMp
 Landahaussy/M
 landau/M
+Landauer/M
 landaus
 Landbeach/M
 Landcross/M
@@ -43127,6 +43462,8 @@ laryngeal/SY
 larynges
 laryngitides
 laryngitis/M
+laryngologist/M
+laryngology
 laryngoscope/S
 laryngoscopy
 larynx/M
@@ -43254,6 +43591,7 @@ Lauderdale/M
 Lauderhill/M
 lauds/M
 Laue/M
+Laufer/M
 laugh/7RSlGkDJ
 laughable/P
 Laugharne/M
@@ -43294,6 +43632,7 @@ Laurence/M
 Laurencekirk/M
 Laurens/M
 Laurent/M
+Laurentides/M
 Laurie/M
 Laurieston/M
 Laurinburg/M
@@ -43306,6 +43645,7 @@ lava/SM
 Lavaca/M
 lavage/SM
 Laval/M
+Lavaltrie/M
 Lavant/M
 lavatera
 lavatorial
@@ -43390,6 +43730,7 @@ laying/ca
 Layla/M
 layman/M
 laymen/M
+Layne/M
 layout/SM
 layover/MS
 laypeople
@@ -43412,6 +43753,7 @@ laze/GZDS
 Lazenby/M
 laziness/S
 Lazio/M
+Lazo/M
 Lazonby/M
 lazuli/M
 lazy/GDTPY
@@ -43525,6 +43867,7 @@ Leawood/M
 Lebanese
 Lebanon/M
 Lebberston/M
+Lebel-sur-Quévillon/M
 Lebensform
 Lebenslust
 lebensraum
@@ -43569,6 +43912,7 @@ Ledgers/M
 Ledru/M
 Ledsham/M
 Ledston/M
+Leduc/M
 Ledyard/M
 Lee-Enfield/M
 Lee-Metford/M
@@ -43593,6 +43937,7 @@ Leesburg/M
 Leese/M
 Leeston/M
 Leeswood/M
+Leete/M
 Leeuwenhoek/M
 leeward/S
 leeway/SM
@@ -43685,6 +44030,7 @@ Lehmann/M
 Lehrman/M
 lei/SM
 Leia/M
+Leibler/M
 Leibniz/M
 Leica/M
 Leicester/M
@@ -43812,6 +44158,7 @@ Leonardo/M
 Leonards/M
 Leone/M
 Leong/M
+Leonhard/M
 Leoni/M
 Leonid/M
 leonine
@@ -43826,8 +44173,8 @@ leotard/SM
 Lepe/M
 leper/SM
 lepidolite
-Lepidoptera
 lepidoptera
+Lepidoptera
 lepidopteran/S
 lepidopterist/S
 lepidopterous
@@ -43852,6 +44199,7 @@ leptospirosis
 leptotene
 Lepus/M
 Lermond/M
+Leroux/M
 Leroy/M
 Lerwick/M
 Les/M
@@ -43891,6 +44239,7 @@ lethal/Y
 lethality/M
 Letham/M
 lethargy/1SMW
+Lethbridge/M
 Lethe/M
 Lethendy/M
 Letheringham/M
@@ -43983,6 +44332,7 @@ levocetirizine/M
 levodopa
 levofloxacin/M
 levonorgestrel/M
+Levor/M
 levothyroxine/M
 Levy/M
 levy/SDRG
@@ -43995,8 +44345,8 @@ Lewellys/M
 Lewes/M
 Leweston/M
 Lewin/M
-lewis/M
 Lewis/M
+lewis/M
 Lewisboro/M
 Lewisburg/M
 Lewisham/M
@@ -44138,8 +44488,8 @@ lick/JDSG
 licker/M
 lickerish
 Lickey/M
-licking/M
 Licking/M
+licking/M
 licorice
 lid/MpGDS
 Liddell/M
@@ -44339,6 +44689,7 @@ limnological
 limnologist/S
 limnology
 limo/S
+limonene
 limonite/W
 limousine/SM
 limp/STGDPY
@@ -44435,6 +44786,7 @@ linguistical
 linguistician/S
 linguistics/M
 Lingwood/M
+Linhares/M
 liniment/SM
 lining's
 lining/feA
@@ -44459,8 +44811,8 @@ Linlithgowshire/M
 Linn/M
 Linnaeus/M
 linnet/MS
-lino/M
 Lino/M
+lino/M
 linoleate
 linolenate
 linolenic
@@ -44841,8 +45193,8 @@ Llanfair-ar-y-bryn/M
 Llanfair-Pwllgwyngill/M
 Llanfair-y-Cummwd/M
 Llanfair-ym-Muallt/M
-Llanfair-yn-neubwll/M
 Llanfair-yn-Neubwll/M
+Llanfair-yn-neubwll/M
 Llanfair-yng-Nghornwy/M
 Llanfair/M
 Llanfairfechan/M
@@ -44862,8 +45214,8 @@ Llanffinan/M
 Llanfflewyn/M
 Llanfiangel/M
 Llanfigael/M
-Llanfihangel-ar-Arth/M
 Llanfihangel-ar-arth/M
+Llanfihangel-ar-Arth/M
 Llanfihangel-Glyn-Myfyr/M
 Llanfihangel-y-Creuddyn/M
 Llanfihangel-yn-Gwynfa/M
@@ -45098,6 +45450,7 @@ Lliswerry/M
 Lllanerchymedd/M
 Llowes/M
 Lloyd/M
+Lloydminster/M
 Lloyds/M
 Llwchwr/M
 Llwydcoed/M
@@ -45192,6 +45545,7 @@ Lochcarron-Skye/M
 Lochcarron/M
 Lochee/M
 Lochend/M
+Lochery/M
 Lochfyneside/M
 Lochgair/M
 Lochgelly/M
@@ -45207,8 +45561,8 @@ Lochranza/M
 Lochrutton/M
 lochs
 Lochs-Crossbost/M
-Lochs-in-Bernera/M
 Lochs-In-Bernera/M
+Lochs-in-Bernera/M
 Lochwinnoch/M
 Lochwood/M
 loci/M
@@ -45461,6 +45815,7 @@ longsword
 Longthorne/M
 Longton/M
 Longtown/M
+Longueuil/M
 longueur/SM
 Longueville/M
 Longview/M
@@ -45627,6 +45982,7 @@ Louis/M
 Louisa/M
 Louisbourg/M
 Louise/M
+Louiseville/M
 Louisiana/M
 Louisianan
 Louisville/M
@@ -45702,6 +46058,7 @@ low/DGSTYP
 Low/M
 lowbrow/SM
 Lowca/M
+Lowdermilk/M
 Lowdham/M
 Lowe/My
 Lowell/M
@@ -46000,6 +46357,7 @@ lustrous/YP
 lusty/TP
 lutanist/SM
 lute/SGMD
+luteal
 lutein
 lutenist/SM
 lutetium/M
@@ -46167,14 +46525,16 @@ Lyttleton/M
 László/M
 ländler
 Léotard/M
+Léry/M
 Lévi/M
+Lévis/M
 Lüders/M
 Lüth/M
 m
 M-DISC/M
 M.Sc.
-MA
 mA
+MA
 ma'am
 ma/FMS
 Maastricht/M
@@ -46189,6 +46549,7 @@ macabre/Y
 macadam/QMS
 macadamia/S
 Macalister/M
+Macamic/M
 Macandrew/M
 Macanese
 Macao/M
@@ -46267,8 +46628,8 @@ MacIntyre/M
 mack/M
 Mackay/M
 Macken/M
-Mackenzie/M
 MacKenzie/M
+Mackenzie/M
 mackerel/SM
 Mackie/M
 Mackinac/M
@@ -46406,6 +46767,7 @@ Madera/M
 Madge/M
 madhouse/MS
 Madhya/M
+Madigan/M
 Madingley/M
 Madion/M
 Madison/M
@@ -46616,8 +46978,8 @@ mainland/RMS
 mainline/RSGD
 mainly
 mainmast/MS
-mains/M
 Mains/M
+mains/M
 mainsail/MS
 mainsheet
 mainspring/MS
@@ -46712,6 +47074,7 @@ malaria/SM
 malarial
 malarious
 malarkey/SM
+Malartic/M
 malate
 malathion/S
 Malawi/M
@@ -46723,6 +47086,7 @@ Malayan/MS
 Malaysia/M
 Malaysian/S
 malaëration
+Malbaie/M
 Malbec/M
 Malbis/M
 Malborough/M
@@ -46993,6 +47357,7 @@ Manichaean/SM
 Manichaeanism
 Manichaeism
 Manichean/SM
+Manicouagan/M
 manicure/3DSMG
 manifest/DYSGNnM
 manifestant
@@ -47016,6 +47381,7 @@ Manistee/M
 Manitoba/M
 Manitoban/M
 Manitowoc/M
+Maniwaki/M
 Manjoo/M
 Mank/M
 Mankato/M
@@ -47038,6 +47404,7 @@ mannerliness/U
 mannerly/P
 Manney/M
 Mannheim/M
+Mannich/M
 mannikin's
 manning
 Manningford/M
@@ -47045,6 +47412,7 @@ Mannington/M
 Manningtree/M
 mannish/PY
 mannishness/S
+mannitol
 Mannofield/M
 mannose
 Manny/M
@@ -47203,6 +47571,7 @@ march/DRSG
 March/M
 Marcham/M
 Marchant/M
+Marchetti/M
 Marchington/M
 marchioness/MS
 Marchmont/M
@@ -47259,13 +47628,15 @@ marginality
 Margo/M
 Margolin/M
 Margot/M
+Marguerite-D'Youville/M
 Marguerite/M
 marguerite/SM
 Marham/M
 Marhamchurch/M
 Marholm/M
-Maria/M
+Maria-Chapdelaine/M
 maria/M
+Maria/M
 mariachi's
 Mariah/M
 Mariamman/M
@@ -47281,6 +47652,7 @@ Marie/M
 Mariel/M
 Maries/M
 Marietta/M
+Marieville/M
 marigold/SM
 Marigot/M
 marijuana/SM
@@ -47350,7 +47722,7 @@ Marks/M
 Marksbury/M
 Markshall/M
 marksmanship/S
-markup
+markup/SM
 Markus/M
 Markyate/M
 marl/SGDM
@@ -47445,6 +47817,7 @@ martempered
 martempering
 marten/MS
 martensite/W
+Martensville/M
 Martha/M
 Marthall/M
 Martham/M
@@ -47533,6 +47906,7 @@ masc
 Mascagni/M
 mascara/DGSM
 mascot/MS
+Mascouche/M
 masculine/YP
 masculinisation
 masculinise/SGD
@@ -47552,6 +47926,8 @@ Mashpee/M
 masjid/S
 mask/JRDMSG
 masked/U
+Maskinongé/M
+Maskoutains/M
 masks/U
 Masnick/M
 masochism/SM
@@ -47633,14 +48009,18 @@ Mata/M
 Matabele/SM
 Matabeleland/M
 matador/SM
+Matagami/M
 Matagorda/M
 Matakana/M
 Matakohe/M
 Matamata-Piako/M
 Matamata/M
+Matane/M
 Matangi/M
+Matanie/M
 Matanuska-Susitna/M
 Matapu/M
+Matapédia/M
 Matarangi/M
 Matarau/M
 Matata/M
@@ -47684,8 +48064,16 @@ Mathavarn/M
 Mathematica/M
 Mathematical/M
 mathematical/Y
+mathematicality
+mathematicalness
 mathematician/MS
+mathematicise/SGD
+mathematicism/M
+mathematicize/SGDN
 mathematics/M
+mathematisation
+mathematise/SGD
+mathematize/SGDN
 Matheny/M
 Mather/M
 Mathern/M
@@ -47816,6 +48204,7 @@ Maur/M
 Maura/M
 Maureen/M
 Maurice/M
+Mauricie/M
 Mauricio/M
 Maurine/M
 Mauritania/M
@@ -47927,8 +48316,8 @@ mazy/T
 Mazza/M
 maître
 mañana/M
-MB
 Mb
+MB
 MBA/MS
 Mbabane/M
 MBBS
@@ -48028,6 +48417,7 @@ McHenry/M
 McHugh/M
 MCI
 McIlroy/M
+McIndoe/M
 McIntosh/M
 McIntyre/M
 McJob/S
@@ -48087,6 +48477,7 @@ me/3s
 Meaburn/M
 mead/MS
 Meade/M
+Meadow/M
 meadow/SM
 Meadowbank/M
 meadowland/MS
@@ -48173,6 +48564,7 @@ mechameck
 mechanic/SMY
 mechanical/S
 mechanicalness
+mechanician/SM
 mechanise/BnRSDG
 mechanised/U
 mechanism/MS
@@ -48194,8 +48586,8 @@ Mecoptera
 mecopteran/S
 mecopterous
 Mecosta/M
-MEd
 Med
+MEd
 medal/MSD
 medallion/MS
 medallist/S
@@ -48241,7 +48633,11 @@ MediaWiki/M
 medic/NYVnMS
 Medicaid/M
 medical/S
+medicalisation
+medicalise/SGD
+medicalize/SGDN
 medicament/SM
+medicamental
 Medicare/M
 medicate/SGD
 medication/M
@@ -48440,6 +48836,7 @@ Meldrew/M
 Meldrum/M
 melee/S
 Melford/M
+Melfort/M
 Melick/M
 Meliden/M
 Melilla/M
@@ -48486,6 +48883,7 @@ melodramatic/S
 melody/SWM1
 melon/SM
 meloxicam/M
+melphalan/M
 melpomenish
 Melrose/M
 Melsonby/M
@@ -48534,6 +48932,7 @@ memorization/M
 memory/s9Q8oq-SM
 memoryless
 Memphis/M
+Memphrémagog/M
 men-at-arms
 men-o'-war
 men-of-war
@@ -49048,6 +49447,7 @@ metriphonate
 metrisability
 metritis
 metrizability
+Metro/M
 metro/MS
 metrological
 metrology/3
@@ -49561,6 +49961,7 @@ Midlothian/M
 Midmar/M
 midmost/S
 midnight/SM
+midpiece/M
 midpoint/MS
 midrange
 midrib/MS
@@ -49814,6 +50215,7 @@ mind/phSiR6DjMG
 Mindanao/M
 mindbogglingly
 minded/A
+Mindell/M
 Minden/M
 minder/AS
 mindful/U
@@ -49850,6 +50252,7 @@ mineralocorticoid/S
 mineralogy/Mw3S
 Minerva/M
 mines/f
+Mines/M
 mineshaft/S
 minestrone/MS
 minesweeper/SM
@@ -49977,6 +50380,7 @@ Miquelon/M
 Mir/M
 Mira/M
 Mirabeau/M
+Mirabel/M
 miracle/MS
 miraculous/YP
 Mirada/M
@@ -49984,6 +50388,7 @@ mirage/DSMG
 Mirage/M
 Mirai/M
 Miramar/M
+Miramichi/M
 Miranda/M
 mIRC/M
 mire/DMGSZ
@@ -50055,6 +50460,10 @@ miscible/CI
 misclassified
 miscommunicate
 miscommunications
+miscomputation
+miscompute/SGD
+misconceit/SGD
+misconceiver/SM
 misconfiguration
 misconfigure/D
 misconstruction/S
@@ -50242,6 +50651,7 @@ Mitford/M
 mitigate/DNnyGS
 mitigated/U
 mitigation/M
+Mitis/M
 Mitnick/M
 mitochondria
 mitochondrial
@@ -50269,6 +50679,7 @@ mixed/U
 mixer/SM
 Mixtec/S
 mixture/MS
+Miyamoto/M
 Miyazaki/M
 mizzen/SM
 mizzenmast/MS
@@ -50276,8 +50687,8 @@ MK3D
 mk3d
 mka
 MKA
-MKS
 mks
+MKS
 mkv
 MKV
 ml
@@ -50330,6 +50741,7 @@ mockers/M
 mockery/SM
 mockingbird/SM
 mod/RoSGD
+modafinil
 modal/S
 modality/SM
 Modan/M
@@ -50428,6 +50840,7 @@ moist/PYT
 moisten/rdS
 moistness/S
 moisture/sQMS
+Moivre/M
 Mojave/M
 Mokau/M
 Mokena/M
@@ -50519,6 +50932,7 @@ Monash/M
 monastery/MS
 monastic/YS
 monasticism/MS
+Monastyrsky/M
 monatomic
 monaural/Y
 monazite
@@ -50660,6 +51074,7 @@ monogeny
 monoglot
 monogram/DGSM
 monogrammatic
+monogrammist/M
 monograph/SMDG
 monographic
 monohull/S
@@ -50739,6 +51154,7 @@ monospermal
 monospermous
 monostable
 monosyllable/WSM
+monoterpene/M
 monotheism/MS
 monotheist/WS
 monotherapy
@@ -50771,6 +51187,10 @@ monstrance's/A
 monstrance/SM
 monstrosity/MS
 monstrous/YP
+Mont-Joli/M
+Mont-Laurier/M
+Mont-Saint-Hilaire/M
+Mont-Tremblant/M
 Montacute/M
 montage/SMDG
 Montagnier/M
@@ -50809,6 +51229,7 @@ month/MSY
 monthly/S
 Monticello/M
 Montis/M
+Montmagny/M
 Montmartre/M
 Montour/M
 Montoya/M
@@ -50817,8 +51238,11 @@ Montrachet/M
 Montreal/M
 Montresor/M
 Montrose/M
+Montréal-Est/M
+Montréal/M
 Montserrat/M
 Montville/M
+Montérégie/M
 monument/oMS
 monumental
 monumentality/M
@@ -50879,6 +51303,7 @@ Moors/M
 Moorside/M
 Moorthorpe/M
 Moortown/M
+Moose/M
 moose/M
 moot/GSD
 mooter
@@ -51104,6 +51529,7 @@ Mosspark/M
 Mosstodloch/M
 mossy/T
 most/Y
+Mosteller/M
 Mosterton/M
 Moston/M
 Mostyn/M
@@ -51201,6 +51627,7 @@ Mouldsworth/M
 mouldy/TP
 Moule/M
 Moulin/M
+Moulins/M
 Moulsford/M
 Moulsoe/M
 moult/RSGD
@@ -51331,12 +51758,12 @@ Mr/M
 MRI
 mRNA
 Mrs
-Ms
 ms
+Ms
 MS-DOS
 mSATA
-MSc
 MSC
+MSc
 MSDN
 MSI/M
 MSM/M
@@ -51376,6 +51803,7 @@ mucocutaneous
 mucoid
 mucoidal
 mucoidy
+mucopolysaccharide/SM
 mucosa/M
 mucosae
 mucosal
@@ -51556,6 +51984,7 @@ multifunction/oD
 multifunctional
 multifunctionality
 multigrain
+multigrid
 multigym
 multiheaded
 multihull/S
@@ -51566,10 +51995,12 @@ multilateralism
 multilateralist/S
 multilayer
 multilayered/P
+multilayering
 multilevel/D
 multiline
 multilineal
 multilineality
+multilinear
 multilingual/S
 multilingualism/S
 multilingually
@@ -51755,6 +52186,7 @@ murderess/S
 murderous/YP
 Murdo/M
 Murdoch/M
+Murdochville/M
 Murdock/M
 Mure/M
 Murfreesboro/M
@@ -51943,8 +52375,8 @@ muzzle/DGUS
 muzzler/M
 muzzy/TYP
 Muñoz/M
-mW
 MW
+mW
 my
 myalgia
 myalgic
@@ -52101,11 +52533,14 @@ myxoma/S
 myxomata
 myxomatosis
 myxomatous
+Mékinac/M
 mélange
 Mélissa/M
 mémoire
 ménage
+Métabetchouan-Lac-à-la-Croix/M
 métier/S
+Métis-sur-Mer/M
 mêlée/MS
 Mòr/M
 Möbius/M
@@ -52227,6 +52662,7 @@ Nampa/M
 NaN
 nan/MZ
 Nana/M
+Nanaimo/M
 Nanak/M
 nance
 Nance/ZM
@@ -52275,6 +52711,7 @@ nanotechnologist/SM
 nanotechnology/M
 nanotube/SM
 nanowire/SM
+Nansen/M
 Nant-ddu/M
 Nant/M
 Nantais/M
@@ -52652,6 +53089,9 @@ negativeness/S
 negativism/MS
 negativity/SM
 negator/MS
+negawatt/SM
+negentropic
+negentropy/M
 Negev/M
 neglect/6jSDG
 neglecter/M
@@ -52689,6 +53129,7 @@ Neill/M
 Neilston/M
 Neisser/M
 neither
+Nelder/M
 Nell/MY
 Nelle/M
 Nellie/M
@@ -52711,6 +53152,7 @@ nemesia/S
 nemesis
 Nemesis/M
 Nempnett/M
+Nena/M
 Nennius/M
 Nenthorn/M
 neo-Aristotelianism
@@ -52957,6 +53399,7 @@ neuroendocrinology
 neurofeedback
 neurofibril/S
 neurofibrillary
+neurofilament/M
 neurogenesis
 neurogenetic/S
 neurogeneticist
@@ -52992,6 +53435,10 @@ neuropathologist/S
 neuropathology/M
 neuropathy/S
 neuropeptide/S
+neuropharmacologic
+neuropharmacological
+neuropharmacologist/M
+neuropharmacology
 neurophysiological
 neurophysiologist/S
 neurophysiology/M
@@ -53062,6 +53509,7 @@ neutropenia
 neutropenic
 neutrophil/S
 neutrophilic
+Neuville/M
 Neuwirth/M
 Neva/M
 Nevada/M
@@ -53132,6 +53580,7 @@ newer
 newest
 newfangled
 newfound
+Newfoundland/M
 Newfoundland/RM
 Newgate/M
 Newhall/M
@@ -53256,6 +53705,7 @@ Nibelungenlied/M
 Nibiru/M
 Nibley/M
 Nic/M
+Nicaea/M
 NICAP/M
 Nicaragua/M
 Nicaraguan/S
@@ -53300,6 +53750,8 @@ Nicola/MS
 Nicolas/M
 Nicolaus/M
 Nicole/M
+Nicolet-Yamaska/M
+Nicolet/M
 Nicollet/M
 Nicollette/M
 Nicomachus/M
@@ -53361,6 +53813,7 @@ nightjar/S
 nightlife
 nightlifer
 nightlike
+Nightline/M
 nightly/S
 nightmare/MS
 nightmarish/Y
@@ -53455,6 +53908,7 @@ Nintendo/M
 ninthly
 niobium/M
 nip/RGD2SZ
+Nipissing/M
 nippiness/S
 nipping/Y
 nipple/SM
@@ -53797,6 +54251,7 @@ non-gay
 non-gendered
 non-genetic
 non-genetically
+non-genital
 non-German/W
 non-governmental
 non-granular
@@ -54113,6 +54568,7 @@ norbornane
 Norbreck/M
 Norbury/M
 Norco/M
+Nord-du-Québec/M
 Nordelph/M
 Norden/M
 Nordholts/M
@@ -54145,6 +54601,7 @@ normalizing/A
 Norman/MS
 Normanby/M
 Normandale/M
+Normandin/M
 Normandy/M
 Normanton/M
 normative/P
@@ -54163,19 +54620,19 @@ Norsewood/M
 Norte/M
 Nortel/M
 north-east/M
-north-easterly
 north-Easterly
+north-easterly
 north-eastern
-north-Eastward/S
 north-eastward/S
+north-Eastward/S
 north-north-east
 north-south
 north-west/M
 north-westerly
 north-Westerly
 north-western
-north-Westward/S
 north-westward/S
+north-Westward/S
 North/M
 north/MSG
 Northallerton/M
@@ -54328,6 +54785,8 @@ notochord/S
 notoriety/S
 notorious/PY
 Notovich/M
+Notre-Dame-de-l'Île-Perrot/M
+Notre-Dame-des-Prairies/M
 Notre/M
 Nottage/M
 Notting/M
@@ -54353,6 +54812,7 @@ nous/M
 nouveau
 nouveaux
 nouvelle
+Nouvelle-Beauce/M
 Nov
 Nova/M
 nova/SM
@@ -54393,8 +54853,8 @@ Np
 NPD
 NRA
 nroff/M
-ns
 NS
+ns
 NSA/M
 NSF
 NT
@@ -54516,8 +54976,8 @@ nurse/RMJSDG
 nursemaid/SM
 nurser/Z
 nursery/mSM
-nursling/M
 Nursling/M
+nursling/M
 Nursted/M
 nurture/MRDSG
 nurtureless
@@ -54603,8 +55063,8 @@ O
 O'Brien/M
 O'Callahan/M
 O'Casey/M
-o'clock
 o'Clock
+o'clock
 O'Connell/M
 O'Connor/M
 O'Dell/M
@@ -54657,6 +55117,7 @@ Oakshaw/M
 Oakthorpe/M
 oakum/SM
 Oakura/M
+Oakville/M
 oakwood
 Oamaru/M
 OAP
@@ -55222,6 +55683,8 @@ OK/GDM
 Okaihau/M
 Okaloosa/M
 Okamoto/M
+Okanagan-Similkameen/M
+Okanagan/M
 Okanogan/M
 okapi/SM
 Okato/M
@@ -55540,6 +56003,9 @@ onyx/SM
 oocyte/S
 OODA
 oodles
+oogamous
+oogamously
+oogamy/M
 ooh/DSG
 oolitic
 Ooms/M
@@ -55633,6 +56099,7 @@ Ophiuchus/M
 Ophiuroidea
 ophthalmia
 ophthalmic/S
+ophthalmological
 ophthalmology/3MWS
 ophthalmoplegia
 ophthalmoplegic
@@ -55667,6 +56134,7 @@ opposed/U
 opposer/M
 opposite/YPS
 opposition/M
+oppositionist/SM
 oppress/VNuSvDGX
 oppression/M
 oppressive/P
@@ -55903,6 +56371,7 @@ originals
 originate/SDG
 origination/M
 originator/MS
+Orillia/M
 Orimulsion
 Orin/M
 orinasal
@@ -56037,6 +56506,7 @@ orthostatic
 orthotectonic
 orthotic/S
 orthotist/S
+Ortins/M
 Ortiz/M
 Ortolà/M
 Orton/M
@@ -56072,6 +56542,7 @@ OSGi
 Osgodby/M
 Osgood/M
 OSHA
+Oshawa/M
 Oshii/M
 Oshkosh/M
 Oshtemo/M
@@ -56211,6 +56682,9 @@ otocyst
 Otoe/M
 OTOH
 otolith/SW
+otological
+otologist/SM
+otology
 Otomanguean
 Otomi
 Otorohanga/M
@@ -56278,6 +56752,7 @@ out/MDSGJ
 Outagamie/M
 outage
 outang/S
+Outaouais/M
 outargue
 outbacker
 outbalance
@@ -56289,6 +56764,7 @@ outbred
 outbreed/G
 outbreeder
 outburst/M
+outcall/SM
 outcast/G
 outclass
 outcome/M
@@ -56703,6 +57179,7 @@ overstimulation
 Overstone/M
 overstorey/S
 Overstrand/M
+Overstreet/M
 overstress/SGD
 overstretch
 overstrict
@@ -56847,8 +57324,8 @@ Oxonian
 Oxordshire/M
 oxpecker/S
 Oxspring/M
-OXT
 oxt
+OXT
 oxtail/MS
 Oxted/M
 Oxton/M
@@ -57168,8 +57645,8 @@ Palma/M
 palmar
 palmate
 Palmdale/M
-palmer/M
 Palmer/M
+palmer/M
 Palmers/M
 Palmerston/M
 Palmerstonian
@@ -57399,6 +57876,7 @@ papilloma/S
 papillomata
 papillomavirus
 Papin/M
+Papineau/M
 papist
 papoose/MS
 pappardelle
@@ -57699,6 +58177,7 @@ parkour
 Parks/M
 Parkside/M
 Parkstone/M
+Parksville/M
 parkway/SM
 parky/T
 parlance/SM
@@ -57708,6 +58187,11 @@ parley/MGDS
 parliament/MS
 parliamentarian/MS
 parliamentarianism
+parliamentarily
+parliamentariness
+parliamentarisation
+parliamentarism/M
+parliamentarization
 parliamentary/U
 Parlier/M
 Parlington/M
@@ -57850,6 +58334,7 @@ pasha/MS
 Pask/M
 Paskin/M
 Paso/M
+Paspébiac/M
 Pasquotank/M
 pass/7SuVNXvlk
 Pass/M
@@ -58157,6 +58642,7 @@ payout/S
 PayPal/M
 payphone/S
 payroll/SM
+Pays-d'en-Haut/M
 pays/fcK
 payslip/S
 Payson/M
@@ -58189,6 +58675,7 @@ pea-green
 pea/MS
 peaberry/S
 Peabody/M
+Peace/M
 peace/Ml6j
 peaceable/P
 peaceful/T
@@ -58217,6 +58704,7 @@ peaky/P
 peal's
 peal/SAGD
 Peale/M
+Peano/M
 peanut/SM
 pear/MYS
 Pearce/M
@@ -58294,6 +58782,7 @@ pedicab/SM
 pedicel/S
 pedicellate
 pedicle/S
+pedicled
 pedicular
 pedicure/GS3DM
 pedigree/MS
@@ -58622,6 +59111,7 @@ Pentecostalism
 Penterry/M
 Pentewan/M
 penthouse/SM
+Penticton/M
 Pentir/M
 pentium
 pentlandite
@@ -58777,6 +59267,7 @@ perfumery/MS
 perfunctory/PY
 perfused
 perfusion/M
+Perga/M
 Pergamon/M
 pergola/SM
 perhaps
@@ -58797,6 +59288,7 @@ peridermal
 peridia
 peridium
 peridot/S
+peridural
 perigee/MS
 perigenital
 periglacial
@@ -58857,6 +59349,7 @@ peritoneum/MS
 peritonitis/MS
 Perivale/M
 perivascular
+perivitelline
 periwig/SM
 periwinkle/MS
 perjink
@@ -58889,6 +59382,7 @@ permeability/SIM
 permeable/IP
 permeance/S
 permeate/BDNnGS
+permethrin
 Permian/M
 Permic
 permie
@@ -59054,6 +59548,7 @@ pessary/S
 pessimal/Y
 pessimism/MS
 pessimist/MSW1
+Pessoa/M
 pest/SM
 pester/dS
 pesticidal
@@ -59260,6 +59755,7 @@ phellem
 phellogen
 Phelps/M
 phenacetin/SM
+phencyclidine
 phenetic/S
 phenetically
 phenformin
@@ -59800,6 +60296,7 @@ Piercy/M
 Pierhead/M
 pierless
 piermaster
+Pierre-De/M
 Pierre/M
 Pierrepoint/M
 Pierrepont/M
@@ -59942,6 +60439,7 @@ pincered
 pinch/DSG
 Pinchbeck/M
 pincher/M
+Pincourt/M
 pincushion/MS
 Pindyck/M
 pine's
@@ -59966,6 +60464,7 @@ ping-pong
 ping/SGDR
 pingable
 pinhead/SDiM
+Pinheiro/M
 Pinhoe/M
 pinhole/MS
 pinion/DMGS
@@ -60328,6 +60827,7 @@ plash/DMGSZ
 plasm/M
 plasma/SM
 plasmid/S
+plasminogen
 plasmodesma
 plasmodesmata
 plasmodia
@@ -60358,8 +60858,8 @@ platen/MS
 platform/MS
 platformate
 platformer/S
-platforming
 Platforming
+platforming
 platformist
 platformless
 platformy
@@ -60427,6 +60927,7 @@ playpen/SM
 playroom/SM
 playscheme/S
 playschool/S
+playslip
 PlayStation/SM
 playsuit
 plaything/SM
@@ -60434,8 +60935,8 @@ playtime/MS
 playwright/MS
 playwriting/M
 plaza/SM
-PLC
 plc
+PLC
 Plea/M
 plea/MS
 pleach/SGD
@@ -60492,6 +60993,7 @@ pleonastic/Y
 Pleshey/M
 Pleshy/M
 plesiosaur/S
+Plessisville/M
 plessor
 plethora/MS
 pleura/M
@@ -60516,6 +61018,7 @@ plies/FAI
 plight/DGMS
 plighter
 Plimmerton/M
+Plimpton/M
 Plimsoll/M
 plimsolls
 plink/SGDZ
@@ -60622,8 +61125,8 @@ plutocrat/SMW
 plutocratically
 pluton/S
 Plutonian
-plutonic
 Plutonic
+plutonic
 plutonium/M
 plutonomy
 pluvial/S
@@ -60680,6 +61183,7 @@ po/QY
 poach/RDSG
 Pocahontas/M
 Pocatello/M
+Pocatière/M
 pochard/S
 pochette
 pock/SDM
@@ -60722,6 +61226,7 @@ Poggs/M
 pogo
 pogrom/SM
 pohutukawa/S
+Pohénégamook/M
 Poi/M
 poignancy/SM
 poignant/Y
@@ -60738,6 +61243,7 @@ point-of-sale
 point-to-point
 point/RhSpGiMDZ
 pointe
+Pointe-Claire/M
 Pointe/M
 pointed/P
 pointillism/SM
@@ -60749,6 +61255,8 @@ Pointon/M
 points/e
 pointsman
 pointsmen
+pointwise
+pointwork/M
 pointy/T
 poise/M
 poison/dMrS
@@ -60756,6 +61264,7 @@ poisoning/SM
 poisonous/Y
 poisonousness
 poisonwood
+Poisson/M
 poke-shakings
 poke/yRDSGZ
 pokeberry
@@ -60899,6 +61408,7 @@ polyamorous
 polyamory
 polyandrous
 polyandry/SM
+Polyanovsky/M
 polyanthus
 polyatomic
 Polybius/M
@@ -60920,6 +61430,9 @@ polycyclic
 polycystic
 polydipsia
 polyelectrolyte/S
+polyendocrine
+polyendocrinopathy/M
+polyene/SM
 polyester/MS
 polyether/S
 polyethism
@@ -60945,6 +61458,7 @@ polyhedra
 polyhedral
 polyhedron/SM
 polyhydroxy
+polyimide
 polyisobutylene
 polyisocyanates
 polyisoprene
@@ -61012,6 +61526,7 @@ polysiloxane
 polysome/S
 polysomnography
 polysomy/W
+polyspermy/M
 polystyrene/MS
 polysyllable/WSM
 polysymptomatic
@@ -61022,8 +61537,13 @@ polytene
 polytheism/MS
 polytheist/WSM
 polythene/M
+polytomous
+polytomy/M
 polytonal/Y
+polytonalist/M
 polytonality
+polytone/M
+polytonic
 polytopes
 polyunsaturated
 polyunsaturates
@@ -61038,6 +61558,7 @@ pomander/MS
 Pomare/M
 pomegranate/MS
 pomelo/S
+Pomerania/M
 Pomeranian/S
 Pomeroy/M
 Pomfret/M
@@ -61079,6 +61600,7 @@ poniard/SM
 Ponnamperuma/M
 pons/M
 Ponsonby/M
+Pont-Rouge/M
 Pont-y-clun/M
 Pont/M
 pontage
@@ -61233,6 +61755,7 @@ Porritt/M
 Porsche/MS
 port's/A
 Port-au-Prince/M
+Port-Cartier/M
 Port-of-Spain/M
 port/lDMYSBRG
 Port/M
@@ -61297,6 +61820,7 @@ portmanteau/SM
 Portmeirion/M
 Portmoak/M
 Portnahaven/M
+Portneuf/M
 Porto/M
 Portobello/M
 portobello/S
@@ -61382,6 +61906,7 @@ post-horn/MS
 post-impressionism
 post-impressionist/W
 post-industrial
+post-meiotic
 post-millennial
 post-millennialism
 post-millennialist
@@ -61728,6 +62253,7 @@ prayer/j6
 prayerbook
 prayerful/P
 PRC
+pre
 pre-abdomen
 pre-adolescent
 pre-adult
@@ -61898,6 +62424,7 @@ predicateless
 predication/M
 predicational
 predicatival
+predicatively
 predicator
 predict/DSvBGlV
 predictabilities
@@ -61938,6 +62465,9 @@ prefixation
 prefixion
 preflight/G
 preform
+preformation
+preformationism
+preformationist/SM
 prefrontal/S
 pregabalin/M
 preglacial
@@ -62207,6 +62737,8 @@ presumer/M
 presumption/M
 presumptuousness/S
 presymptomatic
+presynaptic
+presynaptically
 pretence/MS
 pretending/U
 pretentious/YU
@@ -62283,6 +62815,7 @@ prima-donna
 primacy/SM
 primaeval
 primal
+primaquine
 primary/YMS
 primase
 primate/MS
@@ -62330,6 +62863,7 @@ Princes/M
 princess/MS
 Princethorpe/M
 Princeton/M
+Princeville/M
 principal/SY
 principality/SM
 Principe/M
@@ -62477,6 +63011,7 @@ processional/S
 processor/MS
 processors/K
 processual
+prochiral
 prochlorperazine
 proclaim/DRS7G
 proclamation/MS
@@ -62688,6 +63223,8 @@ pronouncedly
 pronouncement/SM
 pronouncer/M
 pronto
+pronuclei
+pronucleus
 pronunciation/aSM
 proof-read/GS
 proof-reader/S
@@ -63060,6 +63597,7 @@ prussic
 pry/TkDRGS
 Prynne/M
 précis/dSM
+Prévost/M
 PS
 psalm/M3S
 psalmist
@@ -63137,6 +63675,7 @@ pseudorandom/Y
 pseudoscience/S
 pseudoscientific
 pseudoscientist/S
+pseudostratified
 pseudotetragonal
 pseudotetramerous
 pseudotillite
@@ -63176,6 +63715,8 @@ psycho-aesthetic/S
 psycho-educational
 psycho/SM
 psychoacoustic/S
+psychoacoustical
+psychoacoustically
 psychoacoustician
 psychoacoustics/M
 psychoactive
@@ -63237,9 +63778,13 @@ psychophonetic/S
 psychophony
 psychophysic
 psychophysical/Y
+psychophysicist/M
 psychophysics/M
+psychophysiologic
 psychophysiological
 psychophysiology/3M
+psychopolitical
+psychopolitics
 psychos/S
 psychosexual/Y
 psychosis/M
@@ -63632,6 +64177,7 @@ putrefactive
 putrefy/GSD
 putrescence/MS
 putrescent
+putrescine/M
 putrid/PY
 putridity/M
 puts/e
@@ -63722,8 +64268,10 @@ pyroclastic/S
 pyrocoll
 pyrogenic
 pyrogenicity
+pyrolysate/M
 pyrolyse/SWD
 pyrolysis/M
+pyrolyzate/M
 pyromania/SM
 pyromaniac/MS
 pyrometer/SM
@@ -63749,7 +64297,7 @@ pyruvate
 pyruvic
 Pytchley/M
 Pythagoras/M
-Pythagorean
+Pythagorean/SM
 Pythagoreanism
 Pythagoric
 pythagorically
@@ -63925,6 +64473,7 @@ qubit/SM
 Queally/M
 queasiness/S
 queasy/PYT
+Quebec/M
 Quebec/RM
 Quebecer/S
 Quebecois/M
@@ -63975,6 +64524,7 @@ querulous/Y
 querulousness/S
 query/GMSD
 quesadilla/SM
+Quesnel/M
 quest's/FI
 quest/ADSRGM
 quester/FMS
@@ -64045,6 +64595,7 @@ quinary
 quince/SM
 quincentenary/M
 Quincey/M
+Quincke/M
 Quincy/M
 Quine/M
 quinidine/M
@@ -64063,6 +64614,7 @@ quinquennial/Y
 quinsy/SM
 quint/WMS
 Quinta/M
+Quinte/M
 quintessence/MS
 quintessential/Y
 quintet/SM
@@ -64159,6 +64711,7 @@ racecourse/SM
 racegoer/SM
 racehorse/SM
 raceme/MS
+racemic
 racemose
 racetrack/MS
 raceway/SM
@@ -64212,7 +64765,14 @@ radiation/MI
 radiatively
 radiator/SM
 radical/SQM
+radicalisation
+radicalish
 radicalism/MS
+radicality
+radicalization
+radicalize/SGD
+radicand/M
+radicant
 radices
 radicle/S
 radicular
@@ -64458,6 +65018,7 @@ ram/DSGM
 RAM/S
 Rama/M
 Ramadan/M
+Ramalho/M
 Ramalingam/M
 Ramapo/M
 Ramarama/M
@@ -64505,6 +65066,7 @@ Ramsgreave/M
 ramshackle
 Ramsholt/M
 Ramshorn/M
+Ramtha/M
 ramus
 ran/Aec
 Ranby/M
@@ -64801,8 +65363,8 @@ razzmatazz
 Raël/M
 Rb
 RCA/M
-RD/M
 Rd/M
+RD/M
 rDNA/S
 RDS
 re-adapt/SDG
@@ -64832,7 +65394,10 @@ re-export/7
 re-form/N
 re-fund
 re-radiated
+re-registration
 re-release/DGS
+re-roll/SGD
+re-romanization
 re-route/GSD
 re-routeing
 re-site/SDG
@@ -64877,8 +65442,8 @@ reading/aS
 Reading/M
 Readington/M
 readjust/LG
-README
 readme
+README
 readopt/G
 readout/MS
 reads/aA
@@ -65167,6 +65732,7 @@ Rectory/M
 rectory/SM
 rectosigmoid
 rectosigmoidal
+rectouterine
 rectum/MS
 rectus
 Reculver/M
@@ -65563,6 +66129,7 @@ reimmerse/SGD
 reimmersion
 reimmigrant
 reimmigration
+reimpart/SGD
 reimplace/SGD
 reimplant/SGDN
 reimportation
@@ -65577,6 +66144,7 @@ reinflate/SDGN
 reinforce/LDSG
 reinforced/U
 reinforcer/MS
+Reinhard/M
 Reinhardt/M
 reinherit
 Reinhold/M
@@ -65764,16 +66332,20 @@ renaissance/S
 renal
 Renaldo/M
 Renard/M
+renardite/M
 renascence
 Renata/M
 Renate/M
+renationalize/SGDN
 Renato/M
+renaturable
 Renaud/M
 Renault/SM
 rend/GS
 Rendall/M
 Rendcomb/M
 Rendcombe/M
+Rendel/M
 render/rdJS
 rendezvous/SDGM
 Rendham/M
@@ -65800,6 +66372,12 @@ rennin/M
 Rennington/M
 Reno/M
 Renoir/M
+renopericardial
+renormalisation
+renormalizability
+renormalizable
+renormalization
+renormalize/SGD
 renounce/GDS
 renouncement
 renouncer/M
@@ -65862,10 +66440,12 @@ repeatable/U
 repeated/U
 repel/DNGSn
 repellent/SYM
+repellingly
 repent/SDG
 repentance/MS
 repentant/UY
 repenter
+Repentigny/M
 repercussion
 repertoire/SM
 repertory/SM
@@ -65951,7 +66531,10 @@ reprogramme
 reprographer/S
 reprographic
 reprography
-reproof/G
+reproject/SGD
+repromise/SGD
+repromulgate/SGD
+reproof/SGD
 reprove/k
 reprover
 reptile/MS
@@ -66161,6 +66744,7 @@ rest/6VjpvGuDMS
 restage/SGD
 restamp/SGD
 restart/G
+restartable
 restartless
 restaurant/MS
 restaurateur/SM
@@ -66216,8 +66800,13 @@ retch/SGD
 reteach/G
 retell/G
 retention/SM
+retentionist/SM
 retentive/Y
 retentiveness
+retentivity/SM
+retexture/SGD
+retexturise/SGD
+retexturize/SGD
 Retford/M
 rethink/G
 reticence
@@ -66248,6 +66837,7 @@ retire/kL
 retiree/S
 retirer/S
 retiré
+retornado/SM
 retort/DG
 retortion/SM
 retouch/R
@@ -66330,6 +66920,7 @@ revelation/SM
 revelatory
 Reveley/M
 revelry/SM
+Revelstoke/M
 revenant/S
 revenge/D6jSMG
 revenger/M
@@ -66519,8 +67110,8 @@ Rhonda/M
 Rhondda/M
 Rhone/M
 Rhoose/M
-Rhos-y-Corn/M
 Rhos-y-corn/M
+Rhos-y-Corn/M
 Rhos/M
 Rhosbeirio/M
 Rhoscolyn/M
@@ -66687,6 +67278,7 @@ Ridlington/M
 Ridware/M
 Riefenstahl/M
 Riegl/M
+Riehm/M
 Riemann/M
 Riemannian
 Riesling/SM
@@ -66760,6 +67352,8 @@ rimfire
 Rimington/M
 Rimkus/M
 Rimm/M
+Rimouski-Neigette/M
+Rimouski/M
 Rimpoche/M
 Rimpton/M
 Rimswell/M
@@ -66773,8 +67367,12 @@ ringback
 ringbark/SGD
 ringbolt
 ringbone
+ringild/M
+ringildry/M
+ringingly
 Ringland/M
 ringleader/SM
+ringless
 ringlet/SM
 Ringley/M
 ringlike
@@ -66903,6 +67501,9 @@ rivet/drSMk
 Riviera/M
 riving/C
 Rivington/M
+Rivière-du-Loup/M
+Rivière-du-Nord/M
+Rivière-Rouge/M
 Rivne/M
 rivulet/SM
 Riwaka/M
@@ -66960,6 +67561,7 @@ Robbinsville/M
 Robby/M
 robe/MDS
 Roberson/M
+Robert-Cliche/M
 Robert/SM
 Roberta/M
 Roberto/M
@@ -66967,6 +67569,7 @@ Roberton/M
 Roberts/M
 Robertsbridge/M
 Robertson/M
+Roberval/M
 robes/E
 Robeson/M
 Robespierre/M
@@ -67012,6 +67615,7 @@ Roch/M
 Rochdale/M
 Roche/M
 Rochelle/M
+Rocher-Percé/M
 Rochester/M
 Rochford/M
 rock-bottom
@@ -67087,6 +67691,7 @@ Rodriguez/M
 Rodriquez/M
 Rodríguez/M
 Rodsley/M
+Rodway/M
 Rodwell/M
 roe/MS
 roebuck/SM
@@ -67200,6 +67805,7 @@ Romer/M
 Romero/M
 Romesh/M
 Romford/M
+Romijn/M
 Romina/M
 Rommel/M
 Romney/M
@@ -67328,6 +67934,7 @@ Rosemead/M
 Rosemonde/M
 Rosemont/M
 Rosemount/M
+Rosemère/M
 Rosen/M
 Rosenallis/M
 Rosenbaum/M
@@ -67366,8 +67973,10 @@ Rossiaud/M
 Rossington/M
 Rossini/M
 Rosskeen/M
+Rossland/M
 Rosslea/M
 Rosslyn/M
+Rossman/M
 Rossmanith/M
 roster/MSd
 Rostherne/M
@@ -67496,6 +68105,7 @@ Rousey/M
 Rousham/M
 Rousky/M
 Rousseau/M
+Roussillon/M
 roust/GDS
 roustabout/MS
 rout/RGDJ
@@ -67509,6 +68119,8 @@ routinism
 routinist/S
 Routledge/M
 Routt/M
+Rouville/M
+Rouyn-Noranda/M
 roué/MS
 rove/RGDS
 Roveri/M
@@ -67554,6 +68166,7 @@ Roxholme/M
 Roxie/M
 Roxton/M
 Roxwell/M
+Roxx/M
 Roy/M
 royal/3SY
 Royal/M
@@ -67639,7 +68252,7 @@ ruby/SM
 Ruchazie/M
 ruche/SDG
 Ruchill/M
-ruck/M
+ruck/MS
 Ruckinge/M
 Ruckland/M
 Ruckley/M
@@ -67692,8 +68305,8 @@ rufous
 Rufus/M
 rug/hSMDi
 rugae
-Rugby/M
 rugby/M
+Rugby/M
 Rugeley/M
 Ruggiero/M
 Ruggles/M
@@ -67904,6 +68517,7 @@ Ryton/M
 Ryukyu/M
 régime/MS
 Régis/M
+Rényi/M
 résumé/S
 Réunion/M
 rôle/MS
@@ -67920,9 +68534,13 @@ Sabar/M
 Sabash/M
 sabbatarian/S
 sabbatarianism
+sabbath/M
 Sabbath/MS
 sabbatical/S
 Sabden/M
+sabermetric
+sabermetrician/M
+sabermetrics
 Sabha/M
 Sabin/M
 Sabina/M
@@ -67981,6 +68599,7 @@ sacroiliac/S
 sacrosanct
 sacrum/M
 sad/T3PY
+Sadako/M
 Sadat/M
 Sadberge/M
 Saddam/M
@@ -68048,6 +68667,8 @@ Sagittarian
 Sagittarius/M
 sago/SM
 saguaro/MS
+Saguenay-Lac-Saint-Jean/M
+Saguenay/M
 Saham/M
 sahara
 Sahara/M
@@ -68075,11 +68696,53 @@ sailmaking
 sailor/MSY
 sailplane/S
 Sainsbury/M
+Saint-Augustin-de-Desmaures/M
+Saint-Basile-le-Grand/M
+Saint-Basile/M
+Saint-Bruno-de-Montarville/M
+Saint-Colomban/M
+Saint-Constant/M
+Saint-Césaire/M
 Saint-Denis/M
+Saint-Eustache/M
+Saint-Félicien/M
+Saint-Gabriel/M
+Saint-Georges/M
+Saint-Hyacinthe/M
+Saint-Jean-sur-Richelieu/M
+Saint-Joseph-de-Beauce/M
+Saint-Joseph-de-Sorel/M
+Saint-Jérôme/M
+Saint-Lambert/M
+Saint-Lazare/M
+Saint-Lin-Laurentides/M
+Saint-Luc/M
+Saint-Marc-des-Carrières/M
+Saint-Ours/M
+Saint-Pamphile/M
+Saint-Pascal/M
+Saint-Pie/M
+Saint-Raymond/M
+Saint-Rémi/M
+Saint-Sauveur/M
+Saint-Tite/M
 Saint-Tropez/M
 Saint/M
 saint/YDSM
 Saintbury/M
+Sainte-Adèle/M
+Sainte-Agathe-des-Monts/M
+Sainte-Anne-de-Beaupré/M
+Sainte-Anne-de-Bellevue/M
+Sainte-Anne-des-Monts/M
+Sainte-Anne-des-Plaines/M
+Sainte-Catherine-de-la-Jacques-Cartier/M
+Sainte-Catherine/M
+Sainte-Julie/M
+Sainte-Marguerite-du-Lac-Masson/M
+Sainte-Marie/M
+Sainte-Marthe-sur-le-Lac/M
+Sainte-Thérèse/M
 Saintfield/M
 sainthood/SM
 saintlike
@@ -68099,6 +68762,7 @@ Sakti/M
 sakti/MS
 Sal/M
 salaam/M
+Salaberry-de-Valleyfield/M
 salacious/Y
 salaciousness
 salacity/M
@@ -68167,6 +68831,7 @@ sally/DMSG
 Sallyanne/M
 Salman/M
 salmeterol/M
+Salmon/M
 salmon/MS
 Salmonby/M
 Salmond/M
@@ -68257,12 +68922,13 @@ Salvidenus/M
 salvific
 Salvin/M
 Salvington/M
-salvo/M
+salvo/MS
 salvoes
 salwar
 Salwarpe/M
 Salzburg/M
 Sam/ZM
+Samadhi/M
 Samael/M
 Samah/M
 Samantha/M
@@ -68478,6 +69144,7 @@ sapwood/M
 Sara/M
 Saracen/SM
 Sarah/M
+Saraiva/M
 Sarajevo/M
 Saraland/M
 Saran/M
@@ -68511,6 +69178,7 @@ Sarma/M
 Sarmatia/M
 Sarmatian
 Sarnesfield/M
+Sarnia/M
 sarong/SM
 Sarpedon/M
 Sarpy/M
@@ -68624,12 +69292,14 @@ Saundra/M
 saunter/dS
 saunterer
 Saunton/M
+Saurel/M
 saurian/S
 sauropod/SM
 sausage/SM
 Sausthorpe/M
 Sauternes/M
 sauté/SGD
+sautéd
 Sauvignon
 savable
 savage/DPSYGy
@@ -68788,6 +69458,7 @@ scapular/S
 scar/dDSGM
 scarab/SM
 Scaramouch/M
+Scaramucci/M
 Scarborough/M
 scarce/YT
 scarceness
@@ -68800,7 +69471,7 @@ scaremonger/SM
 scaremongering
 scarer/M
 scareware
-scarf/DM
+scarf/SGDM
 Scargill/M
 scarification/M
 scarifier/S
@@ -68817,8 +69488,8 @@ Scarning/M
 scarp/DGSM
 Scarrington/M
 Scarsdale/M
-SCART/M
 Scart/M
+SCART/M
 Scarthingwell/M
 Scartho/M
 Scarva/M
@@ -68866,6 +69537,7 @@ scheduled/UA
 schedules/A
 scheduling/A
 scheelite
+Schefferville/M
 Scheherazade/M
 schema/S1M
 schemata
@@ -68881,18 +69553,21 @@ Schenkman/M
 Scherer/M
 Schererville/M
 Schertz/M
+Schervish/M
 Scherzer/M
 scherzi
 scherzo/SM
 Schick/M
 Schierholz/M
 Schierl/M
+Schiff/M
 Schild/M
 Schiller/M
 schilling/SM
 Schinas/M
 schism/MS
-schismatic
+schismatic/SM
+schismatically
 schist/SM
 schistosome/S
 schistosomiasis
@@ -69102,6 +69777,7 @@ Scotland/M
 scotopic
 scotoscope
 Scotstoun/M
+Scotstown/M
 Scott/M
 Scotter/M
 Scottie/SM
@@ -69970,6 +70646,7 @@ Senn/M
 senna/M
 Sennacherib/M
 Sennen/M
+Senneterre/M
 Sennett/M
 sennit
 sensa
@@ -70061,6 +70738,8 @@ Seppo/M
 seppuku
 sepses
 sepsis
+Sept-Rivières/M
+Sept-Îles/M
 sept/NWM
 septa/M
 septal
@@ -70324,7 +71003,7 @@ sexed/fc
 sexennia
 sexennial
 sexennium/S
-sexercise
+sexercise/SM
 sexfoil
 Sexhow/M
 sexine
@@ -70518,6 +71197,7 @@ Shapinsay/M
 Shapiro/M
 Shapwick/M
 Shaquille/M
+Sharaf/M
 Sharam/M
 Sharapova/M
 Sharath/M
@@ -70579,6 +71259,7 @@ Shawano/M
 Shawbury/M
 Shawell/M
 Shawford/M
+Shawinigan/M
 shawl/MDS
 Shawlands/M
 shawm/SM
@@ -70745,6 +71426,7 @@ Sherehog/M
 Sherfield-on-Loddon/M
 Sherfield/M
 Sherford/M
+Shergold/M
 Sheri/M
 Sheridan/M
 Sheriff/M
@@ -71188,6 +71870,7 @@ Shurdington/M
 shuriken/S
 shush/DSG
 Shustoke/M
+Shuswap/M
 shut-down/SM
 shut-eye
 shut-off/M
@@ -71483,6 +72166,7 @@ Silvington/M
 Silwy/M
 SIM/S
 simazine
+Simcoe/M
 SIMD
 Simeon/M
 simethicone
@@ -71540,6 +72224,7 @@ simultaneity/MS
 simultaneous/Y
 simultaneousness
 simvastatin/M
+Siméon/M
 sin's/A
 sin/pRSj6GDM
 Sinai/M
@@ -71724,6 +72409,7 @@ Skea/M
 skean/S
 skedaddle/SGD
 Skeeby/M
+Skeena-Queen/M
 skeet/M
 Skeffington/M
 Skeffling/M
@@ -71915,6 +72601,7 @@ Slaughterford/M
 slaughterhouse/SM
 slaughterman/M
 Slav/SM
+Slava/M
 slave-bangle
 slave-born
 slave-drive
@@ -72695,6 +73382,7 @@ songster/SM
 songstress/MS
 songwriter/SM
 songwriting
+Soni/M
 Sonia/M
 sonicate/SGDN
 sonicator
@@ -72769,6 +73457,7 @@ sorceress/S
 sorcery/SM
 sordid/PY
 sore/TSY
+Sorel-Tracy/M
 soreness
 Sorensen/M
 Sorenson/M
@@ -72835,6 +73524,7 @@ soulship
 soulster/S
 soulstress
 sound/GJSTMDRYp
+Sound/M
 soundalike/S
 soundbar/S
 soundboard/MS
@@ -72871,8 +73561,8 @@ sousaphone/MS
 souse
 souterrain/S
 south-east/M
-south-Easterly
 south-easterly
+south-Easterly
 south-eastern
 south-Eastward/S
 south-eastward/S
@@ -73195,15 +73885,20 @@ Spenser/M
 Spenserian
 spent/Ufcea
 sperm/MS
+spermatia
 spermatic
 spermatid/SO
+spermatium
 spermatocyte/S
 spermatogenesis
+spermatogenic
 spermatogonia
 spermatogonium
 spermatophore/SM
 spermatophyte/MS
 spermatozoa
+spermatozoal
+spermatozoan
 spermatozoid/SM
 spermatozoon/M
 spermicidal
@@ -73534,6 +74229,7 @@ Sprouston/M
 sprout/DGS
 Sprowston/M
 Sproxton/M
+Spruce/M
 spruce/YMDPSG
 sprucer
 sprue/M
@@ -73726,6 +74422,7 @@ Stahl/M
 staid/PY
 Stain/M
 stain/SpDG
+stainable
 Stainborough/M
 Stainbrough/M
 Stainburn/M
@@ -73733,7 +74430,7 @@ Stainby/M
 Staindrop/M
 stained-glass
 stained/U
-stainer/M
+stainer/MS
 Staines-upon-Thames/M
 Staines/M
 Stainfield/M
@@ -73986,7 +74683,9 @@ statin/S
 station-wagon/MS
 station/eMS
 Station/M
+stationarily
 stationariness
+stationarity/M
 stationary
 stationed
 stationer/ZSM
@@ -74103,9 +74802,11 @@ steganography/W
 stegosaurus/S
 Stehmann/M
 stein/MS
+Steinbach/M
 Steinbeck/M
 Steinberg/M
 Steiner/M
+Steinhardt/M
 Steinmeier/M
 Steinmetz/M
 Steinway/M
@@ -74176,13 +74877,19 @@ stepson/MS
 stepwise
 steradian/S
 stereo/SM
+stereobate/M
 stereocamera/S
 stereochemical/Y
 stereochemistry
 stereognosis
 stereognostic
 stereogram/S
+stereograph/SM
+stereographically
 stereography/MW
+stereoisomer/SM
+stereoisomeric
+stereoisomerism
 stereolithography/W
 stereological/Y
 stereology
@@ -74197,6 +74904,11 @@ stereopticon
 stereoregular
 stereoscope/ZWM1S
 stereoscopy/M
+stereoselective
+stereoselectivity/M
+stereospecific
+stereospecifically
+stereospecificity/M
 stereotactic
 stereotactically
 stereotaxic
@@ -74300,6 +75012,7 @@ stigmatization/CS
 Stigwood/M
 Stihler/M
 stilbene
+stilboestrol
 stile/MS
 stiletto/SM
 still/SDPTG
@@ -74677,8 +75390,8 @@ strap/DUSG
 strapless
 strappy/T
 Strasbourg/M
-Strata/M
 strata/M
+Strata/M
 stratagem/MS
 strategic/S
 strategy/W3MSw1
@@ -74693,6 +75406,7 @@ Strathbogie/M
 Strathbraan/M
 Strathbrock/M
 Strathclyde/M
+Strathcona/M
 Strathdon/M
 Strathern/M
 Strathfillan/M
@@ -74801,6 +75515,7 @@ strewn
 stria/nM
 striae
 striata
+striatal
 striate/SGD
 striation/M
 striatum
@@ -75024,6 +75739,13 @@ stylishness
 stylist/WM1S
 stylistic/S
 stylize/nSNDG
+stylobate/M
+stylograph/WSM
+styloid
+stylolite/SM
+stylometry/W
+stylopised
+stylopized
 stylus/SM
 stymie/SD
 stymieing
@@ -75667,6 +76389,7 @@ Summerhill/M
 Summerhouse/M
 summerhouse/MS
 Summers/M
+Summerside/M
 summertime/M
 Summertown/M
 Summerville/M
@@ -75854,6 +76577,7 @@ superhighway/SM
 superhuman/Y
 superimpose/XSGDN
 superimposition/M
+superinfection
 superinjunction
 superintend/DSG
 superintendence/Z
@@ -76217,8 +76941,8 @@ Sverdlovsk/M
 Svetlana/M
 SVG
 SVGA
-svn
 SVN
+svn
 SW
 swab/SMDG
 Swabia/M
@@ -76615,8 +77339,8 @@ synonymousness
 synonymy/SM
 synopses
 synopsis/M
-Synoptic/S
 synoptic/S
+Synoptic/S
 synoptical
 synoptically
 synostoses
@@ -77573,6 +78297,7 @@ temerarious/P
 temerity/SM
 temerous/Y
 Temin/M
+Temiskaming/M
 temp/GMRSTD
 Tempe/M
 temper/dESM
@@ -77863,6 +78588,7 @@ Teton/M
 tetra/SM
 tetrabasic
 tetrabasicity
+tetracaine/M
 tetrachloride/M
 tetrachord/SM
 tetracyclic
@@ -78263,6 +78989,7 @@ Thomism/M
 Thomist/S
 Thomistic
 Thomley/M
+Thompson-Nicola/M
 Thompson/M
 Thomsen/M
 Thomson/M
@@ -78321,6 +79048,7 @@ Thornton-on-the-Hill/M
 Thornton/M
 Thornville/M
 thorny/T
+Thorold/M
 Thoroton/M
 thorough/YP
 thoroughbred/S
@@ -78478,9 +79206,10 @@ thumbscrew/MS
 Thumiger/M
 thump/MGSD
 thumper
+Thunder/M
 thunder/SZkMd
-thunderbird/SM
 Thunderbird/SM
+thunderbird/SM
 thunderbolt/MS
 thunderbox
 thunderbug/S
@@ -78563,6 +79292,7 @@ thyrsus
 thyself
 THz
 Thériault/M
+Thérèse-De/M
 Ti/M
 Tiago/M
 Tian/M
@@ -78765,9 +79495,11 @@ timid/Y
 timidity/SM
 timidness
 timing/M
+Timiskaming/M
 Timm/M
 Timmer/M
 Timmermann/M
+Timmins/M
 Timmy/M
 timocracy/S
 Timofeev/M
@@ -79246,8 +79978,8 @@ topsoil/M
 topspin/MS
 topsy-turvy
 toque/MS
-tor/M
 Tor/M
+tor/M
 Torah/MS
 Torbain/M
 Torbay/M
@@ -79362,6 +80094,8 @@ totemist/S
 totemistic
 Totham/M
 Tothill/M
+totipotency/M
+totipotent
 Totland/M
 Totnes/M
 Toto/M
@@ -80009,6 +80743,7 @@ trichological
 trichologist/S
 trichology
 trichome/S
+trichomonad/SM
 trichomoniasis
 trichopteran/S
 trichotillomania
@@ -80201,6 +80936,8 @@ troglodyte/SM
 troika/SM
 troilism
 Troilus/M
+Trois-Pistoles/M
+Trois-Rivières/M
 Trojan/MS
 trojan/SM
 troll/DGMS
@@ -80216,11 +80953,17 @@ Trondheim/M
 Troon/M
 troop/RDMGS
 troopship/MS
+tropacocaine/M
+tropaeolaceous
+tropaeolum/SM
+tropan/M
+tropane/M
 trope/WMSw1
 trophically
 trophoblast/SW
 trophy/MS
 tropic/SM
+tropinone/M
 tropism/MS
 tropomyosin
 troponin
@@ -80421,6 +81164,7 @@ Tugby/M
 Tugford/M
 Tuhua/M
 tuition/SMI
+Tukey/M
 Tukwila/M
 Tulane/M
 tularaemia
@@ -80503,14 +81247,15 @@ Tunstead/M
 Tunworth/M
 Tuolumne/M
 Tupac/M
-Tupelo/M
 tupelo/M
+Tupelo/M
 Tupholme/M
 tuple/S
 tuppence/M
 Tupper/M
 Tupperware/M
 Tupton/M
+Tuque/M
 Tur/M
 Turangi/M
 turban/SM
@@ -80867,6 +81612,9 @@ tzigane
 Tzipora/M
 Tzu/M
 Tzukim/M
+Témiscaming/M
+Témiscouata-sur-le-Lac/M
+Témiscouata/M
 tête
 tête-bêche
 tête-à-tête
@@ -80893,8 +81641,8 @@ ubiquitous/Y
 ubiquitousness
 ubiquity/S
 Ubley/M
-Ubuntu/M
 ubuntu/M
+Ubuntu/M
 Ucha/M
 Uchaf/M
 Uchiyama/M
@@ -80928,6 +81676,7 @@ ufology/M
 Ufton/M
 Uganda/M
 Ugandan/S
+Ugarte/M
 Ugborough/M
 Uggeshall/M
 Ugglebarnby/M
@@ -81052,6 +81801,7 @@ Ulyanov/M
 Ulysses/M
 um
 Umang/M
+Umar/M
 Umatilla/M
 Umawera/M
 Umbanda/M
@@ -82700,9 +83450,12 @@ vainglory/SM
 vainness
 Vaishnavi/M
 Vajna/M
+Val-d'Or/M
+Val-Saint-François/M
 Val/M
 valacyclovir/M
 valance/MS
+Valcourt/M
 Valdez/M
 Valdosta/M
 Valdés/M
@@ -82751,6 +83504,9 @@ Valley/M
 valley/SM
 Valleyfield/M
 Valli/M
+Vallée-de-l'Or/M
+Vallée-de-la-Gatineau/M
+Vallée-du-Richelieu/M
 valonia/S
 valorisation
 valorise/SGD
@@ -82830,6 +83586,7 @@ var.
 Varaha/M
 Varahi/M
 Varanasi/M
+Varennes/M
 Varga/M
 Vargas/M
 variability/SIM
@@ -82841,7 +83598,7 @@ Varian/M
 variance's
 variance/IS
 variant/IS
-variate/MnxNS
+variate/MnxNSGD
 variation/M
 varicella
 varices
@@ -82870,6 +83627,7 @@ varnish/SDMG
 varnished/U
 varnisher/S
 Varricchio/M
+Varshney/M
 varsity/SM
 varve/SD
 vary/BSDlGkh
@@ -82913,6 +83671,8 @@ Vatican/M
 Vauchurch/M
 vaudeville/SM
 vaudevillian/SM
+Vaudreuil-Dorion/M
+Vaudreuil-Soulanges/M
 Vaughan/M
 Vaughn/M
 vault/RSGMD
@@ -82928,6 +83688,7 @@ VDT
 VDU
 veal's
 veal/A
+Vecchietti/M
 vector/FM
 vectored
 vectorial
@@ -83328,6 +84089,7 @@ Victoria/M
 Victorian/SM
 Victoriana/M
 Victorianism
+Victoriaville/M
 victorious/Y
 Victorville/M
 victory/SM
@@ -83416,6 +84178,7 @@ villainous/Y
 villainy/SM
 villanelle/S
 Villanovan/M
+Ville-Marie/M
 Villegas/M
 villein/SM
 villeinage/M
@@ -83502,7 +84265,9 @@ Virginstow/M
 Virgo/SM
 virgule/MS
 virile
+virilise/SGD
 virility/SM
+virilize/SGD
 virion/S
 Virley/M
 viroid/S
@@ -83819,11 +84584,12 @@ vulvae
 vulval
 vulvar
 vulvovaginal
+vulvovaginitis
 vuvuzela/S
 Vytorin/M
 Vyvanse/M
-W
 w
+W
 WA
 wa-wa
 WAAC/S
@@ -84062,6 +84828,7 @@ Wallerstein/M
 Wallerthwaite/M
 wallet/SM
 wallflower/SM
+Wallice/M
 Wallingford/M
 Wallington/M
 Wallingwells/M
@@ -84136,6 +84903,7 @@ Wangaratta/M
 Wangford/M
 wangle/GDS
 Wanjek/M
+wank/SGD!
 wanker/S
 Wankie/M
 wanky
@@ -84259,6 +85027,7 @@ warn/GSDkJ
 Warnborough/M
 Warndon/M
 Warne/M
+Warneford/M
 Warner/M
 Warnford/M
 Warnham/M
@@ -85008,6 +85777,7 @@ Westminster/M
 Westmont/M
 Westmoreland/M
 Westmorland/M
+Westmount/M
 Westnewton/M
 Westoe/M
 Weston-in-Gordano/M
@@ -85046,6 +85816,7 @@ Westwick/M
 Westwood/M
 wet-nurse/S
 wet/TSDYG
+Wetaskiwin/M
 Wetheral/M
 Wetherby/M
 Wetherden/M
@@ -85070,6 +85841,7 @@ Wexler/M
 Weybourne/M
 Weybread/M
 Weybridge/M
+Weyburn/M
 Weyhill/M
 Weyl/M
 Weymouth/M
@@ -85505,6 +86277,7 @@ Whyte/M
 Whyteleafe/M
 WI
 Wi-Fi
+Wiarda/M
 Wibsey/M
 Wibtoft/M
 Wicca/M
@@ -85662,6 +86435,7 @@ wildfire/MS
 wildfowl/M
 wilding/M
 wildlife/M
+wildling/SM
 Wildmore/M
 Wildomar/M
 Wildon/M
@@ -85685,6 +86459,7 @@ Wilkie/M
 Wilkins/M
 Wilkinsburg/M
 Wilkinson/M
+Wilks/M
 Wilksby/M
 will/GkSYD
 Will/M
@@ -85746,6 +86521,7 @@ Willowick/M
 willowy/T
 willpower/MS
 Wills/M
+Willstätter/M
 willy-nilly
 Willy/M
 willy/S
@@ -85895,6 +86671,7 @@ Winkburn/M
 Winkfield/M
 winkle/DSG
 Winkleigh/M
+Winkler/M
 winkler/S
 Winkney/M
 Winksley/M
@@ -86721,8 +87498,8 @@ Wyresdale/M
 Wyrley/M
 Wysall/M
 Wysing/M
-WYSIWYG
 Wysiwyg
+WYSIWYG
 Wyss/M
 Wythall/M
 Wytham/M
@@ -86733,7 +87510,9 @@ Wyton-on-the-Hill/M
 Wyton/M
 Wyverstone/M
 Wyville/M
+Wöhler/M
 Wölfling/M
+Würzburg/M
 x
 X
 x-axis
@@ -86792,8 +87571,8 @@ Xindi/M
 Xining/M
 Xinjiang/M
 xiv
-xix
 XIX
+xix
 Xizang/M
 XL
 xlsx
@@ -86804,8 +87583,8 @@ Xolair/M
 Xopenex/M
 XOR
 XP
-XPI
 xpi
+XPI
 Xpressway/M
 Xu/M
 Xubuntu/M
@@ -86869,6 +87648,7 @@ Yalta/M
 yam/SM
 Yama/M
 Yamaha/M
+Yamakawa/M
 Yamamoto/M
 Yamaura/M
 Yamazaki/M
@@ -87083,6 +87863,7 @@ Yorkshireman/M
 Yorkshiremen/M
 Yorkshirewoman/M
 Yorkshirewomen/M
+Yorkton/M
 Yorktown/M
 Yorkville/M
 Yoruba/SM
@@ -87106,6 +87887,7 @@ Youlton/M
 Young/M
 young/T
 Youngberry/M
+Youngblood/M
 youngish
 Youngman/M
 youngster/SM
@@ -87135,6 +87917,7 @@ Ysceifiog/M
 Yscir/M
 Ysgeifiog/M
 Ysgubor-y-coed/M
+Ysidro/M
 Yspytty/M
 Ystalyfera/M
 Ystern/M
@@ -87482,3 +88265,4 @@ Zyvox/M
 Ōtara/M
 Štrba/M
 μg
+μm

@@ -103,6 +103,8 @@ to
            — Added tons of cities from the US with a 10 000+ population.
              This list was supplied by Michael Holroyd on Kevin Atkinson's GitHub.
            — Added tons of possessives to nouns, thanks to Jörg Knobloch.
+2018-12-01 — Added the cities from Canada:
+			  — https://en.wikipedia.org/wiki/List_of_cities_in_Canada	   
 			 
 -------
 
