@@ -48828,7 +48828,7 @@ V2.66
 41991) ageists (added plural)
 
 
-V2.67 (ongoing)
+V2.67
 1-NOV-2018
 41992) Landauer (+'s - name - Wikipedia)
 41993) equiprobable
@@ -49627,6 +49627,80 @@ V2.67 (ongoing)
 41768) Yorkton (+'s - name - Wikipedia)
 41769) February (+'s - name - Wikipedia) <- removed
 41770) Through (+'s - name - Wikipedia) <- removed
+
+19-NOV-2018
+41771) renationalize (+s +ing +ed +ion -IZE)
+41772) renaturable
+41773) renardite (+'s)
+41774) renormalization (-IZE)
+41775) renormalisation (-ISE)
+41776) renormalize (+s +ing +ed -IZE)
+41777) renormalizable
+41778) renormalizability
+41779) renopericardial
+41780) repellingly (Collins)
+41781) reproject (+s +ing +ed)
+41782) repromise (+s +ing +ed)
+41783) repromulgate (+s +ing +ed)
+41784) reproofs + reproofed (merged into reproof)
+41785) re-registration
+41786) re-roll (+s +ing +ed)
+41787) re-romanization
+41788) restartable (Collins)
+41789) retentivity (+plural +'s)
+41790) retentionist (+plural +'s)
+41791) retexture (+s +ing +ed)
+41792) retexturize (+s +ing +ed -IZE)
+41793) retexturise (+s +ing +ed -ISE)
+41794) reimpart (+s +ing +ed)
+41795) ringingly
+41796) ringild (+'s)
+41797) ringildry (+'s)
+41798) ringless
+41799) rucks (added plural)
+41800) sabbath (+'s - also in lowercase)
+41801) Ortins (+'s - name - Wikipedia)
+41802) diaphoresis
+41803) lachrymation + lacrimation + lacrymation
+41804) salvos (added plural)
+41805) sautéd
+41806) scarfs + scarfing (merged into scarf)
+41807) schismatics (added plural +'s)
+41808) schismatically
+
+20-NOV-2018
+41809) Rendel (+'s - name - Wikipedia)
+41810) parliamentarism (+'s)
+41811) parliamentarily
+41812) parliamentariness
+41813) parliamentarization (-IZE)
+41814) parliamentarisation (-ISE)
+41815) Gonçalves (+'s - name - Wikipedia)
+41816) Gomes (+'s - name - Wikipedia)
+41817) Coimbra (+'s - name - Wikipedia)
+41818) Carmona (+'s - name - Wikipedia)
+41819) radicalization (-IZE)
+41820) radicalisation (-ISE)
+41821) radicality
+41822) radicalish
+41823) radicalize (+s +ing +ed -IZE)
+41824) radicand (+'s)
+41825) radicant
+41826) hebdomadal
+41827) Funchal (+'s - name - Wikipedia)
+41828) Calouste (+'s - name - Wikipedia)
+41829) Gulbenkian (+'s - name - Wikipedia)
+41830) Koestler (+'s - name - Wikipedia)
+41831) Chagall (+'s - name - Wikipedia)
+41832) Humberto (+'s - name - Wikipedia)
+41833) indigene (+plural +'s)
+41834) retornado (+plural +'s)
+41835) Goan (+plural +'s)
+41836) oppositionist (+plural +'s)
+41837) Wiarda (+'s - name - Wikipedia)
+41838) Lochery (+'s - name - Wikipedia)
+41839) Saraiva (+'s - name - Wikipedia)
+41840) Pessoa (+'s - name - Wikipedia)
 =============
 British English Dictionary (Forked) 2.67
 by Marco A.G.Pinto
