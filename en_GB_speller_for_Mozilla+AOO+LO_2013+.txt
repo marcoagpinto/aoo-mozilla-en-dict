@@ -49701,6 +49701,188 @@ V2.67
 41838) Lochery (+'s - name - Wikipedia)
 41839) Saraiva (+'s - name - Wikipedia)
 41840) Pessoa (+'s - name - Wikipedia)
+
+
+V2.68 (ongoing)
+1-DEC-2018
+41841) wikiproject (+plural +'s - Wiktionary + Wikipedia)
+41842) wikitext (+'s - Wiktionary + Wikipedia)
+41843) wikify (+s +ing +ed - Wiktionary + Wikipedia)
+41844) unwatch (+s +ing +ed - Wiktionary + Wikipedia)
+41845) undeletion (Wiktionary + Wikipedia)
+41846) transclusion (+plural +'s - Wiktionary + Wikipedia)
+41847) TOC (+plural +'s - Wiktionary + Wikipedia)
+41848) rollbacker (+plural +'s - Wiktionary + Wikipedia)
+41849) blockquote (+plural +'s - Wiktionary + Wikipedia)
+41950) autopatrolled (Wiktionary + Wikipedia)
+41951) infobox (+plural +'s - Wiktionary + Wikipedia)
+41952) linkify (+s +ing +ed +ion - Wiktionary + Wikipedia)
+41953) meatpuppet (+plural +'s - Wiktionary + Wikipedia)
+41954) oversight (+s +ing +ed - Wiktionary + Wikipedia)
+41955) Phabricator (+'s - name - Wikipedia)
+41956) twinkle's (added +'s - Wiktionary + Wikipedia)
+41957) testcase (+plural +'s - Wiktionary + Wikipedia)
+41958) Sutterfield (+'s - name - Wikipedia)
+41959) Dang (+'s - name - Wikipedia)
+41960) Arzoumanian (+'s - name - Wikipedia)
+41961) Steliga (+'s - name - Wikipedia)
+41962) Porvoo (+'s - name - Wikipedia)
+41963) Athanasian
+41964) Restitutus (+'s - name - Wikipedia)
+41965) Serdica (+'s - name - Wikipedia)
+41966) Ariminum (+'s - name - Wikipedia)
+41967) Oswiu (+'s - name - Wikipedia)
+41968) Boleyn (+'s - name - Wikipedia)
+41969) Mullally (+'s - name - Wikipedia)
+41970) Anabaptism
+41971) Diarmid (+'s - name - Wikipedia)
+41972) predestinarian (+plural +'s)
+41973) churchmanship
+41974) Treweek (+'s - name - Wikipedia)
+41975) Jody (+'s - name - Wikipedia)
+41976) Hackwood (+'s - name - Wikipedia)
+41977) Sentamu (+'s - name - Wikipedia)
+41978) Tynwald (+'s - name - Wikipedia)
+41979) Porteous (+'s - name - Wikipedia)
+41980) Cahill (+'s - name - Wikipedia)
+
+2-DEC-2018
+41981) Banach (+'s - name - Wikipedia)
+41982) Grothendieck (+'s - name - Wikipedia)
+41983) sub-base (+'s)
+41984) holomorphic (Collins)
+41985) Fréchet (+'s - name - Wikipedia)
+41986) metrizable (-IZE)
+41987) metrisable (-ISE)
+41988) Fredholm (+'s - name - Wikipedia)
+41989) Takeyuki (+'s - name - Wikipedia)
+41990) Litvinov (+'s - name - Wikipedia)
+41991) Konishi (+'s - name - Wikipedia)
+41992) Kitagawa (+'s - name - Wikipedia)
+41993) relatedly
+41994) heteroscedasticity (Collins)
+41995) Bregman (+'s - name - Wikipedia)
+41996) exchangeability
+41997) gasketed
+41998) frequentist (+plural +'s - Wiktionary)
+41999) Bandyopadhyay (+'s - name - Wikipedia)
+42000) Jörgen (+'s - name - Wikipedia)
+42001) Casella (+'s - name - Wikipedia)
+42002) Bonello (+'s - name - Wikipedia)
+42003) decompressor (+'s)
+42004) deduplicate (+s +ing +ed +ion - Collins)
+42005) Vetter (+'s - name - Wikipedia)
+42006) Mahmud (+'s - name - Wikipedia)
+42007) Krishnamurthy (+'s - name - Wikipedia)
+42008) Zwicker (+'s - name - Wikipedia)
+42009) inequation (+plural +'s - Collins + Wiktionary)
+42010) Ruffini (+'s - name - Wikipedia)
+42011) lemniscate (Collins)
+42012) multivariable
+42013) sextic
+42014) octic
+42015) antiderivative (+plural +'s - Collins)
+42016) Lachaud (+'s - name - Wikipedia)
+
+3-DEC-2018
+42017) hackish
+42018) hackingly
+42019) studentize (+s +ing +ed -IZE)
+42020) studentise (+s +ing +ed -ISE)
+42021) WikiProject (+plural +'s - Wikipedia)
+42022) Chan (+'s - name - Wikipedia)
+42023) Kahan (+'s - name - Wikipedia)
+42024) Gertz (+'s - name - Wikipedia)
+42025) Janine (+'s - name - Wikipedia)
+42026) Sweetman (+'s - name - Wikipedia)
+42027) Terriberry (+'s - name - Wikipedia)
+42028) Weisstein (+'s - name - Wikipedia)
+42029) Choi (+'s - name - Wikipedia)
+42030) Golub (+'s - name - Wikipedia)
+42031) studentish
+42032) studentism
+42033) studentless
+42034) studentry (+'s)
+42035) studerite (+'s)
+42036) studiable
+42037) Trevisa (+'s - name - Wikipedia)
+42038) studify (+s +ing +ed)
+42039) Raphson (+'s - name - Wikipedia)
+42040) Kamil (+'s - name - Wikipedia)
+42041) Chaum (+'s - name - Wikipedia)
+42042) Lansky (+'s - name - Wikipedia)
+42043) altcoin (+plural +'s - Wiktionary)
+42044) Hankins (+'s - name - Wikipedia)
+42045) Vigna (+'s - name - Wikipedia)
+42046) cryptocurrency's (added 's)
+42047) blockchains (added plural - Wiktionary)
+42048) startup (+plural - Collins)
+42049) Maduro (+'s - name - Wikipedia)
+42050) Garza (+'s - name - Wikipedia)
+42051) Homero (+'s - name - Wikipedia)
+42052) Buffett (+'s - name - Wikipedia)
+
+4-DEC-2018
+42053) Lorimer (+'s - name - Wikipedia)
+42054) Seabury (+'s - name - Wikipedia)
+42055) Hochschild (+'s - name - Wikipedia)
+42056) Kohn (+'s - name - Wikipedia)
+42057) Gutfreund (+'s - name - Wikipedia)
+42058) Mozer (+'s - name - Wikipedia)
+42059) nowhen
+42060) everywhen
+42061) everywhence
+42062) everywhereness
+42063) everyhow
+42064) Scafell (+'s - name - Wikipedia)
+42065) hydropower
+42066) Chapeltown (+'s - name - Wikipedia)
+42067) Highlane (+'s - name - Wikipedia)
+42068) Waterlooville (+'s - name - Wikipedia)
+42069) Crim (+'s - name - Wikipedia)
+42070) Sheppey (+'s - name - Wikipedia)
+42071) Wallasea (+'s - name - Wikipedia)
+42072) Roa (+'s - name - Wikipedia)
+42073) Vyrnwy (+'s - name - Wikipedia)
+42074) Durdle (+'s - name - Wikipedia)
+42075) Kielder (+'s - name - Wikipedia)
+42076) Ullswater (+'s - name - Wikipedia)
+42077) heptarchy (+plural)
+42078) heptarchic
+42079) heptarchical
+42080) heptameter (+plural +'s)
+42081) heptamerous
+42082) heptamer (+'s)
+42083) geocode (+s +ing +ed +'s)
+
+5-DEC-2018
+42084) indescribability
+42085) Christoffel (+'s - name - Wikipedia)
+42086) Schwarzschild (+'s - name - Wikipedia)
+42087) magnetostatics
+42088) mesoscopic
+42089) astroparticle (+'s)
+42090) Strassmann (+'s - name - Wikipedia)
+42091) nuclides (added plural)
+42092) Meitner (+'s - name - Wikipedia)
+42093) Kurchatov (+'s - name - Wikipedia)
+42094) Goeppert (+'s - name - Wikipedia)
+42095) stroboscopically
+42096) stroboscopical
+42097) strobila
+42098) strobilae (plural of previous word)
+42099) strobilation
+42100) MeV
+42101) Philippsburg (+'s - name - Wikipedia)
+42102) hypocentre (+plural +'s)
+42103) Cockcroft (+'s - name - Wikipedia)
+42104) Oliphant (+'s - name - Wikipedia)
+42105) Noddack (+'s - name - Wikipedia)
+42106) deuteride (Collins)
+42107) unenriched (Collins)
+42108) Oklo (+'s - name - Wikipedia)
+42109) Kuroda (+'s - name - Wikipedia)
+42110) photofission
 =============
-British English Dictionary (Forked) 2.67
+British English Dictionary (Forked) 2.68
 by Marco A.G.Pinto
