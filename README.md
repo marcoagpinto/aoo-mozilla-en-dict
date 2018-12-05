@@ -45,4 +45,4 @@ If <B>NOT</B> found:
 
 #### Projects using GB/Proofing Tool GUI:
 
-If you know of any projects that use them, please let me know and I will list them in the official page.
+If you know of any projects that use them, please let me know and I will list them in the official PTG page.
