@@ -49938,6 +49938,107 @@ V2.68 (ongoing)
 42161) theophany (+plural +s)
 42162) mujahid (+'s)
 42163) Mawlid + Milad (+'s)
+
+10-DEC-2018
+42164) www (added also in lowercase)
+42165) restorationism
+42166) restorationist (+plural +'s)
+42167) pre-conciliar
+42168) neo-scholastic
+42169) neo-scholasticism
+42170) ichthys (Collins)
+42171) Zebedee (+'s - name - Wikipedia)
+42172) Decius (+'s - name - Wikipedia)
+42173) Diocletian (+'s - name - Wikipedia)
+42174) Trdat (+'s - name - Wikipedia)
+42175) Licinius (+'s - name - Wikipedia)
+42176) Mardonius (+'s - name - Wikipedia)
+42177) Gratian (+'s - name - Wikipedia)
+42178) Valentinian (+'s - name - Wikipedia)
+42179) Verden (+'s - name - Wikipedia)
+42180) Rüegg (+'s - name - Wikipedia)
+42181) Alexios (+'s - name - Wikipedia)
+42182) Cathar (+plural +'s)
+42183) Catharism
+42184) Catharist (+plural +'s)
+42185) Waldenses
+42186) Waldensian (+plural +'s)
+42187) Zwingli (+'s - name - Wikipedia)
+42188) Oecolampadius (+'s - name - Wikipedia)
+42189) Arminius (+'s - name - Wikipedia)
+42190) Müntzer (+'s - name - Wikipedia)
+42191) Karlstadt (+'s - name - Wikipedia)
+42192) Frisia (+'s - name - Wikipedia)
+42193) de-Christianize (+s +ing +ed +ion -IZE)
+42194) de-Christianise (+s +ing +ed +ion -ISE)
+42195) subtheme (+plural +'s - Collins)
+42196) de-anglicize (+s +ing +ed +ion -IZE)
+42197) de-anglicise (+s +ing +ed +ion -ISE)
+42198) ultramontanes (added plural)
+42199) ultramontanism
+42200) Gallican (+plural +'s)
+42201) Gallicanism
+42202) eremitic
+42203) eremitical
+42204) pre-existent
+42205) antitrinitarian (+plural +'s - Collins)
+42206) Adoptionist (+plural +'s)
+42207) Adoptionism
+42208) adoptional
+42209) modalism
+42210) modalist (+plural +'s)
+42211) modalistic
+42212) partialism
+42213) anagoge (Collins)
+42214) anagogy (Collins)
+42215) anagogic (Collins)
+42216) anagogically (Collins)
+42217) Helvetic
+42218) Helvetians (added plural +'s)
+42219) annihilationism (Collins)
+42220) chrismation (+plural +'s)
+42221) parament (+plural +'s)
+42222) aniconism
+42223) affusion
+42224) ecclesiologically (Collins)
+42225) Miaphysite
+42226) Eritrean (+plural +'s)
+42227) aniconic (Collins)
+42228) eparchy (+plural +'s)
+42229) confessionalism (Collins)
+42230) anthroposophical (Collins)
+42231) Martinist (+plural +'s)
+42232) Martinism
+
+13-DEC-2018
+42233) Pacher (+'s - name - Wikipedia)
+42234) othered + othering (merged into other)
+42235) Balaam (+'s - name - Wikipedia)
+42236) maleficium (+'s)
+42237) Paulician (+plural +'s)
+42238) Paulicianism
+42239) Hussite (+plural +'s)
+42240) Hussitism
+42241) Dashwood (+'s - name - Wikipedia)
+42242) shapeshifter (+plural +'s - Collins)
+42243) shapeshifting (Collins)
+42244) McMartin (+'s - name - Wikipedia)
+42245) Lanning (+'s - name - Wikipedia)
+42246) esotericism
+42247) esotericist (+plural +'s)
+42248) Naglowska (+'s - name - Wikipedia)
+42249) Introvigne (+'s - name - Wikipedia)
+42250) opposers (added plural)
+42251) oxymoronically
+42252) Aquino (+'s - name - Wikipedia)
+42253) predestinationism
+42254) FAT (+'s - Wiktionary)
+42255) exFAT (+'s - Wiktionary)
+42256) FAT32 (+'s - Wiktionary)
+42257) FAT16 (+'s - Wiktionary)
+42258) NTFS's (added also +'s - Wiktionary)
+42259) FAT12 (+'s - Wiktionary)
+42260) FAT64 (+'s - Wiktionary)
 =============
 British English Dictionary (Forked) 2.68
 by Marco A.G.Pinto
