@@ -50039,6 +50039,75 @@ V2.68 (ongoing)
 42258) NTFS's (added also +'s - Wiktionary)
 42259) FAT12 (+'s - Wiktionary)
 42260) FAT64 (+'s - Wiktionary)
+
+17-DEC-2018
+42261) downie (+plural +'s - Wiktionary)
+42262) downily
+42263) downiness
+42264) Greendykes (+'s - name - Wikipedia)
+42265) Cairnpapple (+'s - name - Wikipedia)
+42266) Hopetoun (+'s - name - Wikipedia)
+42267) Almondell (+'s - name - Wikipedia)
+42268) Calderwood (+'s - name - Wikipedia)
+42269) Almond (+'s - name - Wikipedia)
+42270) Heritage (+'s - name - Wikipedia) (removed)
+42271) Railway (+'s - name - Wikipedia) (removed)
+42272) Viaduct (+'s - name - Wikipedia) (removed)
+42273) Almondvale (+'s - name - Wikipedia)
+42274) Stadium (+'s - name - Wikipedia) (removed)
+42275) Auldcathie (+'s - name - Wikipedia)
+42276) Ballencrieff (+'s - name - Wikipedia)
+42277) Bangour (+'s - name - Wikipedia)
+42278) Beecraigs (+'s - name - Wikipedia)
+42279) Prehistoric (+'s - name - Wikipedia) (removed)
+42280) Site (+'s - name - Wikipedia) (removed)
+42281) Sawmill (+'s - name - Wikipedia) (removed)
+42282) Bellsquarry (+'s - name - Wikipedia)
+42283) Bennie (+'s - name - Wikipedia)
+42284) Museum (+'s - name - Wikipedia) (removed)
+42285) Hillfort (+'s - name - Wikipedia)
+42286) Castlethorn (+'s - name - Wikipedia)
+42287) Cockleroy (+'s - name - Wikipedia)
+42288) Drumshoreland (+'s - name - Wikipedia)
+42289) Eliburn (+'s - name - Wikipedia)
+42290) Reservoir (+'s - name - Wikipedia) (removed)
+42291) Greenrigg (+'s - name - Wikipedia)
+42292) Binns (+'s - name - Wikipedia)
+42293) Niddry (+'s - name - Wikipedia)
+42294) Ogilface (+'s - name - Wikipedia)
+42295) Polkemmet (+'s - name - Wikipedia)
+42296) Preceptory (+'s - name - Wikipedia) (removed)
+42297) Jaenisch (+'s - name - Wikipedia)
+42298) Cartagena (+'s - name - Wikipedia)
+42299) DNA's (added +'s)
+42300) transcriptomics
+42301) biolistics
+42302) extrachromosomal
+42303) clonally
+42304) nucleases (added plural)
+42305) hybridoma (Collins)
+42306) knockouts (added plural +'s)
+42307) chymosin (Collins)
+42308) biomining
+42309) pharming
+42310) maladaptation (+plural)
+42311) superweed (+plural +'s)
+42312) triphosphate
+42313) diphosphate
+42314) transcriptase
+42315) Kornberg (+'s - name - Wikipedia)
+42316) ribonucleotide (added plural +'s)
+42317) polymerase's (added +'s)
+42318) phosphoryl
+42319) organellar
+42320) prokaryotes (added plural +'s)
+42321) procaryotes (added plural +'s)
+42322) operon (+plural +'s)
+42323) autodigestion
+42324) abasic
+42325) xeroderma
+42326) pigmentosum
+42327) reassociate (+s +ing +ed)
 =============
 British English Dictionary (Forked) 2.68
 by Marco A.G.Pinto
