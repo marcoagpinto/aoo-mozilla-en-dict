@@ -50189,6 +50189,49 @@ V2.68 (ongoing)
 42402) grindcore
 42403) reappropriation
 42404) reapprove (+s +ing +ed)
+42405) kickstart (+s +ing +ed +'s)
+
+26-DEC-2018
+42406) bootkit (+plural +'s - Wiktionary)
+42407) Skrenta (+'s - name - Wikipedia)
+42408) cryptovirology (Wiktionary)
+42409) Schickard (+'s - name - Wikipedia)
+42410) datalogy (Wiktionary)
+42411) Krum (+'s - name - Wikipedia)
+42412) teletype (+s +ing +ed +'s)
+42413) teletransportation
+42414) teletransport (+s +ing +ed)
+42415) telethermometry
+42416) telethermometer
+42417) teletherapy
+42418) teletheatre
+42419) teleteaching
+42420) telesurgery (+plural +'s)
+42421) telesurgeon (+plural +'s)
+42422) teletalkie
+42423) electromechanically
+42424) electromatic
+42425) Pearne (+'s - name - Wikipedia)
+42426) ENIAC (+'s - name - Wikipedia)
+42427) BINAC (+'s - name - Wikipedia)
+42428) stenograph (+s +ing +ed - Collins)
+42429) rekey (+s +ing +ed)
+42430) rekill (+s +ing +ed)
+42431) rekindler
+42432) rekiss (+s +ing +ed)
+42433) rekindlement
+42434) phreak (+s +ing +ed +'s)
+42435) phreaker (+plural +'s)
+42436) phreatomagmatic
+42437) phreatophyte (+plural +'s)
+42438) phreatophytic
+42439) Feigin (+'s - name - Wikipedia)
+42440) PIN (+plural +'s - uppercase)
+42441) remediate (added +s +ing +ed)
+42442) remeasurements (added plural +'s)
+42443) remeant
+42444) remediability
+42445) aggregator's (added +'s)
 ===========
 British English Dictionary (Forked) 2.68
 by Marco A.G.Pinto
