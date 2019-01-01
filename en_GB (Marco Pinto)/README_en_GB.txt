@@ -1,7 +1,7 @@
 This dictionary was initially based on a subset of the
 original English wordlist created by Kevin Atkinson for
 Pspell and Aspell and thus is covered by his original
-LGPL licence. 
+LGPL licence.
 
 It has been extensively updated by David Bartlett, Brian Kelk,
 Andrew Brown and Marco A.G.Pinto:
@@ -10,7 +10,8 @@ Andrew Brown and Marco A.G.Pinto:
  — Missing words have been added;
  — Many errors have been corrected;
  — Compound hyphenated words have been added where appropriate;
- — Thousands of proper/places names have been added.
+ — Thousands of proper/places names have been added;
+ — Thousands of possessives have been added to nouns and proper names.
 
 Valuable inputs to this process were received from many other
 people — far too numerous to name. Serious thanks to you all
