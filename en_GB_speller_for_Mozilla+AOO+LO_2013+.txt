@@ -49703,7 +49703,7 @@ V2.67
 41840) Pessoa (+'s - name - Wikipedia)
 
 
-V2.68 (ongoing)
+V2.68
 1-DEC-2018
 41841) wikiproject (+plural +'s - Wiktionary + Wikipedia)
 41842) wikitext (+'s - Wiktionary + Wikipedia)
@@ -50232,6 +50232,153 @@ V2.68 (ongoing)
 42443) remeant
 42444) remediability
 42445) aggregator's (added +'s)
+
+27-DEC-2018
+42446) zirconia
+42447) gabbro (+plural +'s)
+42448) gabbroic
+42449) gabbroid
+42450) ricin
+42451) mesclun
+42452) Deuteronomic (Collins)
+42453) Indology
+42454) Indological
+42455) Indologist (+plural +'s)
+42456) indomethacin
+42457) hemicrania
+42458) lapidate (+s +ing +ed +ion - Collins)
+42459) Stossel (+'s - name - Wikipedia)
+42460) nonmonogamous (Collins)
+42461) tubal (Collins)
+42462) algolagnia
+42463) algolagnic
+42464) algology
+42465) algological
+42466) algologist (+plural +'s)
+42467) hydrobiologist (+plural +'s - Collins)
+42468) electrostimulation
+42469) electrostriction
+42470) electrosurgically
+42471) electrosynthesis
+42472) electrotactic
+42473) electrotaxis
+42474) electrotechnician (+plural +'s)
+42475) safeword (+plural +'s)
+42476) saffrony
+42477) monounsaturated
+42478) monounsaturate
+42479) polyurethaning + polyurethaned (merged into polyurethane)
+42480) polyuronide
+42481) polyversity
+42482) polyvalent
+42483) polyvalence
+42484) uronic (uronic acid)
+42485) tractate (+plural +'s)
+42486) tractableness
+42487) Tractarianism
+42488) Tractarian (+plural +'s)
+42489) tractional
+
+29-DEC-2018
+42490) neovagina (+plural +'s - Wiktionary)
+42491) neovaginal (Wiktionary)
+42492) Goldwater (+'s - name - Wikipedia)
+42493) Holloman (+'s - name - Wikipedia)
+42494) Bennewitz (+'s - name - Wikipedia)
+42495) Santorini (+'s - name - Wikipedia)
+42496) skyhook (+plural +'s)
+42497) Scully (+'s - name - Wikipedia)
+42498) precensor (+s +ing +ed - Collins)
+42499) moscovium (Collins)
+42500) Reticuli (Zeta Reticuli - added +'s - name - Wikipedia)
+42501) Branton (+'s - name - Wikipedia)
+42502) Wheless (+'s - name - Wikipedia)
+42503) Kecksburg (+'s - name - Wikipedia)
+42504) Applewhite (+'s - name - Wikipedia)
+42505) Hale-Bopp (+'s - name - Wikipedia)
+42506) Farrakhan (+'s - name - Wikipedia)
+42507) Marcionism
+42508) Marcionist + Marcionite (+plural +'s)
+42509) Marcionitism
+42510) vril (Collins)
+42511) Tenerife (+'s - name - Wikipedia)
+42512) Hynek (+'s - name - Wikipedia)
+42513) Vallée (+'s - name - Wikipedia)
+42514) Sturrock (+'s - name - Wikipedia)
+42515) Denzler (+'s - name - Wikipedia)
+42516) Sheaffer (+'s - name - Wikipedia)
+42517) dataflow (dataflow architecture - Collins)
+42518) abducible (Wiktionary)
+42519) permease
+42520) galactosidase (+plural +'s)
+42521) hypnotizable (Collins -IZE)
+42522) hypnotizability (Collins -IZE)
+42523) hypnotization (Collins -IZE)
+42524) hypnotizer (+plural +'s - Collins -IZE)
+42525) hypnotisable (Collins -ISE)
+42526) hypnotisability (Collins -ISE)
+42527) hypnotisation (Collins -ISE)
+42528) hypnotiser (+plural +'s - Collins -ISE)
+42529) Rogerson (+'s - name - Wikipedia)
+42530) Randles (+'s - name - Wikipedia)
+42531) Bullard (+'s - name - Wikipedia)
+42532) Basterfield (+'s - name - Wikipedia)
+42533) Zhaoguo (+'s - name - Wikipedia)
+42534) Meng (+'s - name - Wikipedia)
+42535) Klarer (+'s - name - Wikipedia)
+42536) Allagash (+'s - name - Wikipedia)
+42537) Valentich (+'s - name - Wikipedia)
+
+30-DEC-2018
+42538) Icke (+'s - name - Wikipedia)
+42539) Egnew (+'s - name - Wikipedia)
+42540) Gilda (+'s - name - Wikipedia)
+42541) Sueli (+'s - name - Wikipedia)
+42542) circumstellar (Collins)
+42543) exoplanetology (Wiktionary)
+42544) Proxmire (+'s - name - Wikipedia)
+42545) wide-field
+42546) DSP
+42547) commensally
+42548) commensurability
+42549) commensurateness
+42550) Gedye (+'s - name - Wikipedia)
+42551) Kasnoff (+'s - name - Wikipedia)
+42552) Werthimer (+'s - name - Wikipedia)
+42553) Townes (+'s - name - Wikipedia)
+42554) Shuch (+'s - name - Wikipedia)
+42555) biosystem (+plural +'s)
+42556) biosynthetically
+42557) biosystematic
+42558) biosystematy
+42559) biosynthesize (+s +ing +ed)
+42560) biostrome
+42561) biostromal
+42562) libration (+'s - Collins)
+42563) librational (Collins)
+42564) librate (+s +ing +ed)
+42565) non-planar
+42566) shader (+plural +'s)
+42567) shadoof
+42568) shaddock
+42569) shadblow
+42570) astroengineering
+42571) technosignature (+plural +'s - Wiktionary)
+42572) Jakosky (+'s - name - Wikipedia)
+42573) Shostak (+'s - name - Wikipedia)
+42574) Carrigan (+'s - name - Wikipedia)
+42575) Almar (+'s - name - Wikipedia)
+42576) Zaitsev (+'s - name - Wikipedia)
+42577) Popperian
+42578) Basalla (+'s - name - Wikipedia)
+42579) metalaw (+'s)
+42580) metalaxyl
+42581) metalegal
+42582) metaleptic
+42583) metalepsis
+42584) metaleptical
+42585) metaleptically
+42586) metalevel
 ===========
 British English Dictionary (Forked) 2.68
 by Marco A.G.Pinto
