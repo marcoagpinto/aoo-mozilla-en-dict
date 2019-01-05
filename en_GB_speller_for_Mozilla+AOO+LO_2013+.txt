@@ -50379,6 +50379,93 @@ V2.68
 42584) metaleptical
 42585) metaleptically
 42586) metalevel
+
+V2.69 (ongoing)
+4-JAN-2019
+Suggested on GitHub by Ding-adong:
+42587) Aboriginal (added singular)
+42588) African-American (+plural +'s - Collins)
+42589) BitInstant (+'s - Wikipedia)
+42590) Cyclopean (uppercase - Collins)
+42591) able/nVvYNTDP (added DP to remove abled + ableness)
+42592) accelerant (+plural +'s)
+42593) allocute (+s +ing +ed)
+42594) allotriophagy (Wiktionary)
+42595) amnio (+plural +'s)
+42596) anthropomancy
+42597) aphrodisiacal (it is an adjective - it doesn't have plural)
+42598) arachnophobe
+42599) assemblance
+42600) assimilator (+plural +'s)
+42601) astrometric (it is an adjective - it doesn't have plural)
+42602) attaboy
+42603) backswing (+plural +'s)
+42604) baldie (+plural +'s)
+42605) bicep (added singular)
+42606) biohazardous
+42607) biomechanoid (+plural +'s - Wiktionary)
+42608) bioscan (+plural +'s - Wiktionary)
+42609) blowjob (+plural +'s - Wiktionary)
+42610) bodge (+s +ing +ed +er +ers)
+42611) brassic
+42612) bustier (added singular +'s)
+42613) capsize (+s +ing +ed +'s)
+42614) childbed
+42615) unclasp's + clasp's (merged into clasp)
+42616) coffee-house (+plural +'s - Collins)
+42617) cohabitate (+s +ing +ed - Wiktionary)
+42618) counter-insurgency
+42619) defensive + indefensive (it is an adjective - it doesn't have plural)
+42620) fasciitis
+42621) first-born (another way of firstborn - Collins)
+42622) flatline (+s +ing +ed +er +ers)
+42623) indecenter (REMOVED - TYPO)
+
+5-JAN-2019
+Suggested on GitHub by Ding-adong:
+42624) hydrobromide (+plural +'s - Wiktionary)
+42625) infomercial (+plural +'s - American, but there is no GB similar)
+42626) intel
+42627) leucotome (Collins)
+42628) life-force (Collins)
+42629) necrotize (+s +ing +ed -IZE)
+42630) necrotise (+s +ing +ed -ISE)
+42631) offensive/IYPSM (merged flags)
+42632) osteoplasty
+42633) post-mortem
+42634) postdate (+s +ing +ed - Collins)
+42635) pretension (+plural +less)
+42636) scotograph (+plural +'s - Wiktionary)
+42637) seize (+s +ing +ed +able +bility)
+42638) staff/ADGSR
+42639) stenography (merged into stenograph)
+42640) sub-editorship
+42641) taser (+s +ing +ed)
+42642) tasseography (Wiktionary)
+42643) terawatt (+plural +'s)
+42644) thoron (Collins)
+42645) tiddler (+plural +'s)
+42646) tiffin
+42647) tikka
+42648) tod
+42649) toke (+s +ing +ed +er +ers)
+42650) tosspot (+plural +'s)
+42651) tox
+42652) visual/8sY-9QSq3 (merged flags)
+42653) voiceprint (+plural +'s)
+42654) voiceprinter
+42655) wack
+42656) waggon (+plural +'s)
+42657) wakey (Wiktionary)
+42658) weaverbird (+plural +'s - Collins)
+42659) welsher + welcher (+plural +'s)
+42660) welsh + welch (+s +ing +ed)
+42661) whoremonger (flag !)
+42662) world-view (Collins)
+42663) xenoanthropology (Wiktionary)
+42664) xenobiology
+42665) yip (+s +ing +ed)
+42666) zit (+plural +'s +y)
 ===========
-British English Dictionary (Forked) 2.68
+British English Dictionary (Forked) 2.69
 by Marco A.G.Pinto
