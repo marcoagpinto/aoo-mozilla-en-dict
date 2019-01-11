@@ -50504,6 +50504,78 @@ Suggested on GitHub by Ding-adong:
 42700) anima
 42701) animacy
 42702) LGBT
+
+10-JAN-2019
+42703) LCDs (added plural)
+42704) Constantin (+'s - name - Wikipedia)
+42705) Perskyi (+'s - name - Wikipedia)
+42706) Nipkow (+'s - name - Wikipedia)
+42707) Gottlieb (+'s - name - Wikipedia)
+42708) photoconductivity
+42709) photoconductive
+42710) photoconductor
+42711) electrophotography (+ic - Collins)
+42712) electroconductive (Wiktionary)
+42713) Korn (+'s - name - Wikipedia)
+42714) Rignoux (+'s - name - Wikipedia)
+42715) Zworykin (+'s - name - Wikipedia)
+42716) lagger
+42717) laggy (+ier +iest - Wiktionary)
+42718) televisor (+plural +'s)
+42719) Pathé (+'s - name - Wikipedia)
+42720) Kenjiro (+'s - name - Wikipedia)
+42721) Takayanagi (+'s - name - Wikipedia)
+42722) Hamamatsu (+'s - name - Wikipedia)
+42723) Shizuoka (+'s - name - Wikipedia)
+42724) Weinhart (+'s - name - Wikipedia)
+42725) Tihanyi (+'s - name - Wikipedia)
+42726) Kálmán (+'s - name - Wikipedia)
+42727) iconoscope (image iconoscope)
+42728) multipactor (+plural +'s - Wiktionary)
+42729) orthicon
+42730) vidicon (+plural +'s)
+42731) Plumbicon
+42732) Szczepanik (+'s - name - Wikipedia)
+42733) Schreiber (+'s - name - Wikipedia)
+42734) IPTV (+'s - Wiktionary)
+42735) WebTV (+'s)
+42736) Yagi (+'s - name - Wikipedia)
+42737) AMOLED (+'s - Collins)
+42738) UHD (+'s)
+42739) Osbournes (+'s - name - Wikipedia)
+42740) NHK (+'s - name - Wikipedia)
+42741) booleans (added plural +'s)
+
+11-JAN-2019
+42742) Sheol (+'s - name - Wikipedia)
+42743) Gehrts (+'s - name - Wikipedia)
+42744) Hades (+'s - name - Wikipedia)
+42745) monistic
+42756) dualists (added plural +'s)
+42757) regardable
+42758) regalize (+s +ing +ed -IZE)
+42759) regalise (+s +ing +ed -ISE)
+42760) Devadatta (+'s - name - Wikipedia)
+42761) vowless
+42762) Erebus (+'s - name - Wikipedia)
+42763) Moorcock (+'s - name - Wikipedia)
+42764) McMaster (+'s - name - Wikipedia)
+42765) Bujold (+'s - name - Wikipedia)
+42766) acharya (+plural +'s)
+42767) Vaishnava (+plural +'s)
+42768) Habegger (+'s - name - Wikipedia)
+42769) Diggory (+'s - name - Wikipedia)
+42770) Jobson (+'s - name - Wikipedia)
+42771) Fairman (+'s - name - Wikipedia)
+42772) Moritz (+'s - name - Wikipedia)
+42773) Fortunato (+'s - name - Wikipedia)
+42774) Benavides (+'s - name - Wikipedia)
+42775) Sheidlower (+'s - name - Wikipedia)
+42776) Emanuella (+'s - name - Wikipedia)
+42777) Liptak (+'s - name - Wikipedia)
+42778) Camfield (+'s - name - Wikipedia)
+42779) Evandale (+'s - name - Wikipedia)
+42780) Nicolay (+'s - name - Wikipedia)
 ===========
 British English Dictionary (Forked) 2.69
 by Marco A.G.Pinto
