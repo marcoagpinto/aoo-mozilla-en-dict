@@ -50576,6 +50576,101 @@ Suggested on GitHub by Ding-adong:
 42778) Camfield (+'s - name - Wikipedia)
 42779) Evandale (+'s - name - Wikipedia)
 42780) Nicolay (+'s - name - Wikipedia)
+42781) loudish
+42782) loudens (merged into louden)
+
+15-JAN-2019
+42783) Flanery (+'s - name - Wikipedia)
+42784) Jonesy (+'s - name - Wikipedia)
+42785) Ravenwood (+'s - name - Wikipedia)
+42786) arch-rival (+plural +'s)
+42787) Capshaw (+'s - name - Wikipedia)
+42788) imagineer (+plural +'s +s +ing +ed)
+42789) novelize (+s +ing +ed +ion -IZE)
+42790) novelise (+s +ing +ed +ion -ISE)
+42791) novelism
+42792) novelish
+42793) novelettist
+42794) novelettish
+42795) Luceno (+'s - name - Wikipedia)
+42796) Nathanson (+'s - name - Wikipedia)
+42797) Kasdan (+'s - name - Wikipedia)
+42798) Huyck (+'s - name - Wikipedia)
+42799) Caidin (+'s - name - Wikipedia)
+42800) pratfall (+plural +'s)
+42801) hard-boil (+s +ing +ed)
+42802) Quatermain (+'s - name - Wikipedia)
+42803) McDuck (+'s - name - Wikipedia)
+42804) Connery (+'s - name - Wikipedia)
+42805) Webley (+'s - name - Wikipedia)
+42806) unchaperoned (+'s - name - Wikipedia)
+42807) Jonathon (+'s - name - Wikipedia)
+42808) Mariano (+'s - name - Wikipedia)
+42809) Hata (+'s - name - Wikipedia)
+42810) Brode (+'s - name - Wikipedia)
+42811) McGeough (+'s - name - Wikipedia)
+42812) Steinman (+'s - name - Wikipedia)
+42813) Pyburn (+'s - name - Wikipedia)
+
+18-JAN-2019
+42814) Fix: replaced "MacOS" with "macOS"
+42815) iCloud (+'s)
+42816) HomePod (+'s)
+42817) OneDrive's (added +'s)
+42818) synesis
+42819) unrestrictive
+42820) whosever
+42821) uncontracted (Collins)
+42822) stative (+plural +ly)
+42823) stativity
+42824) statize (+s +ing +ed +ion -IZE)
+42825) statise (+s +ing +ed -ISE)
+42826) inflectable (Collins)
+42827) declinable
+42828) adposition (+plural +'s)
+42829) circumposition (+plural +'s)
+42830) preverb (+plural +'s)
+42831) preverbal
+42832) primally
+42833) subcategorize (+s +ing +ed +ion -IZE)
+42834) subcategorise (+s +ing +ed +ion -ISE)
+42835) ideophone (+plural +'s)
+42836) verbing
+42837) Redinger (+'s - name - Wikipedia)
+42838) Zwicky (+'s - name - Wikipedia)
+42839) Aikhenvald (+'s - name - Wikipedia)
+42840) categorial
+42841) verbify (+s +ing +ed +ion - Collins)
+
+22-JAN-2019
+42842) Sautoy (+'s - name - Wikipedia)
+42843) falsificationism (Wiktionary)
+42844) octonions (added plural +'s)
+42845) octonians (added plural +'s)
+42846) straightedge (+ed - Collins)
+42847) Theaetetus (+'s - name - Wikipedia)
+42848) Chios (+'s - name - Wikipedia)
+42849) Alhazen (+'s - name - Wikipedia)
+42850) Collatz (+'s - name - Wikipedia)
+42851) primality
+42852) psychologism
+42853) psychologistic
+42854) psychologistically
+42855) psychologize (+s +ing +ed +ion +er +ers -IZE)
+42856) psychologise (+s +ing +ed +ion +er +ers -ISE)
+42857) psychologue (+plural +'s)
+42858) psychologics
+42859) Casselman (+'s - name - Wikipedia)
+42860) Antonella (+'s - name - Wikipedia)
+42861) Cupillari (+'s - name - Wikipedia)
+42862) Gossett (+'s - name - Wikipedia)
+42863) Kneale (+'s - name - Wikipedia)
+42864) π (Pi)
+42865) Wayback (+'s - name - Wikipedia)
+42866) Herbst (+'s - name - Wikipedia)
+42867) Gordon (+'s - name - Wikipedia)
+42868) Lesmoir (+'s - name - Wikipedia)
+42869) Bysshe (+'s - name - Wikipedia)
 ===========
 British English Dictionary (Forked) 2.69
 by Marco A.G.Pinto
