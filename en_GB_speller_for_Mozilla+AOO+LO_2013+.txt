@@ -50380,7 +50380,7 @@ V2.68
 42585) metaleptically
 42586) metalevel
 
-V2.69 (ongoing)
+V2.69
 4-JAN-2019
 Suggested on GitHub by Ding-adong:
 42587) Aboriginal (added singular)
@@ -50671,6 +50671,109 @@ Suggested on GitHub by Ding-adong:
 42867) Gordon (+'s - name - Wikipedia)
 42868) Lesmoir (+'s - name - Wikipedia)
 42869) Bysshe (+'s - name - Wikipedia)
+
+23-JAN-2019
+42870) umbilic (+plural +'s - Wiktionary)
+42871) Darboux (+'s - name - Wikipedia)
+42872) Hannay (+'s - name - Wikipedia)
+42873) submanifold (+plural +'s - Wiktionary)
+42874) Carathéodory (+'s - name - Wikipedia)
+42875) Villars (+'s - name - Wikipedia)
+42876) Crighton (+'s - name - Wikipedia)
+42877) Buneman (+'s - name - Wikipedia)
+42878) Lickorish (+'s - name - Wikipedia)
+42879) Poston (+'s - name - Wikipedia)
+42880) Trotman (+'s - name - Wikipedia)
+42881) McCrory (+'s - name - Wikipedia)
+42882) Goresky (+'s - name - Wikipedia)
+42883) Smale (+'s - name - Wikipedia)
+42884) Postle (+'s - name - Wikipedia)
+42885) Warnock (+'s - name - Wikipedia)
+42886) Springer (+'s - name - Wikipedia)
+42887) Barsotti (+'s - name - Wikipedia)
+42888) Calman (+'s - name - Wikipedia)
+42889) Lichty (+'s - name - Wikipedia)
+42890) Hoest (+'s - name - Wikipedia)
+42891) Arno (+'s - name - Wikipedia)
+42892) MacNelly (+'s - name - Wikipedia)
+42893) Scarfe (+'s - name - Wikipedia)
+42894) Segar (+'s - name - Wikipedia)
+42895) Gillray (+'s - name - Wikipedia)
+42896) Rowlandson (+'s - name - Wikipedia)
+42897) rotoscope (+s +ing +ed +'s)
+42898) Adelson (+'s - name - Wikipedia)
+42899) Rowson (+'s - name - Wikipedia)
+42900) Tenniel (+'s - name - Wikipedia)
+42901) Walasek (+'s - name - Wikipedia)
+42902) Sackville (+'s - name - Wikipedia)
+42903) Blackbeard (+'s - name - Wikipedia)
+42904) Yockey (+'s - name - Wikipedia)
+42905) Fiore (+'s - name - Wikipedia)
+42906) rotorcraft (+'s)
+42907) rotound
+42908) rotstone + rottenstone
+42909) rottenish
+42910) rotty
+
+24-JAN-2019
+42911) extortionary (Collins)
+42912) extorsively (Collins)
+42913) extirpator (+plural +'s)
+42914) pseudoreligious (Wiktionary)
+42915) pseudoreligion (+plural +'s - Wiktionary)
+42916) pseudoscientist's (added 's)
+42917) pseudoscope (+plural +'s +ic)
+42918) pseudosclerosis
+42919) pseudoscorpion (+plural +'s)
+42920) pseudoscopy
+42921) pseudoseptate
+42922) pseudosexual (+ly)
+42923) pseudosopher
+42924) pseudosophy
+42925) pseudospecies
+42926) pseudospeciation
+42927) pseudosphere (+plural +'s)
+42928) pseudospherical
+42929) pseudospiracle
+42930) pseudosporangium
+42931) pseudospore (+plural +'s)
+42932) pseudostem (+plural +'s)
+42933) pseudostigma
+42934) pseudostigmatic
+
+27-JAN-2019
+42935) oliguria
+42936) oliguric
+42937) anuria
+42938) anuric
+42939) postrenal
+42940) postreductional
+42941) postreduction
+42942) urobilin (Collins)
+42943) urobilinogen (Collins)
+42944) rhabdomyolysis
+42945) melanuria
+42946) propofol
+42947) acetazolamide + acetazoleamide
+42948) chlorothiazide
+42949) methenamine
+42950) protoscientific
+42951) urokinase
+42952) waulking
+42953) onomatopoetic
+42954) onomatopoeically
+42955) Guyton (+'s - name - Wikipedia)
+42956) Cartmell (+'s - name - Wikipedia)
+42957) lithiasis
+42958) Schreckenberger (+'s - name - Wikipedia)
+42959) Zilliox (+'s - name - Wikipedia)
+42960) Rosenfeld (+'s - name - Wikipedia)
+42961) Steinfeld (+'s - name - Wikipedia)
+42962) Jönsson (+'s - name - Wikipedia)
+42963) Lomax (+'s - name - Wikipedia)
+42964) Håkan (+'s - name - Wikipedia)
+42965) Höglund (+'s - name - Wikipedia)
+42966) Carrell (+'s - name - Wikipedia)
 ===========
 British English Dictionary (Forked) 2.69
 by Marco A.G.Pinto

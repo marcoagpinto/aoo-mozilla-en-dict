@@ -14,7 +14,7 @@
 #   3) Plurals.
 #
 # David Bartlett, Andrew Brown, Marco A.G.Pinto.
-# V 2.68, 2019-01-01
+# V 2.69, 2019-02-01
 
 SET UTF-8
 
@@ -151,7 +151,7 @@ SFX u 0 ativeness [^aeiou]l
 SFX u 0 iveness [st] 
 SFX u y icativeness y 
 SFX u 0 ativeness [^abdeilosty] 
-SFX N Y 26
+SFX N Y 33
 SFX N b ption b 
 SFX N d sion d 
 SFX N be ption be 
@@ -160,11 +160,18 @@ SFX N de sion de
 SFX N ke cation ke 
 SFX N e ption ume 
 SFX N e mation [^u]me 
-SFX N e ion [^o]se 
+SFX N e ion cise 
+SFX N e ion [tfl]use 
+SFX N e ion [rsn]se 
+SFX N e ion ulse 
+SFX N e ion [v]ise 
 SFX N e ition ose 
 SFX N e ation [iou]te 
 SFX N e ion [^iou]te 
+SFX N e ation rise 
 SFX N e ation [^bcdkmst]e 
+SFX N e ation [^uriolsna][^bcdkmztrlvgu]e 
+SFX N e ation [^crbav][mi][^bcdkmztrlvgun]e 
 SFX N el ulsion el 
 SFX N 0 lation [aiou]l 
 SFX N 0 ation [^aeiou]l 
@@ -627,7 +634,7 @@ SFX m 0 smen's [aeiou][bdklmnt]e
 SFX m 0 men's [^aeiou][bdklmnt]e 
 SFX m 0 men's [^bdklmnt]e 
 SFX m 0 men's [^bdeknmt] 
-SFX 5 Y 16
+SFX 5 Y 20
 SFX 5 0 swoman [bdknmt] 
 SFX 5 0 swoman [aeiou][bdklmnt]e 
 SFX 5 0 woman [^aeiou][bdklmnt]e 
@@ -644,6 +651,10 @@ SFX 5 0 woman's [^aeiou][bdklmnt]e
 SFX 5 0 woman's [^bdklmnt]e 
 SFX 5 0 woman's [^bdeknmt] 
 SFX 5 0 women's [^bdeknmt] 
+SFX 5 0 swomen's [bdknmt] 
+SFX 5 0 swomen's [aeiou][bdklmnt]e 
+SFX 5 0 women's [^aeiou][bdklmnt]e 
+SFX 5 0 women's [^bdklmnt]e 
 SFX 6 Y 3
 SFX 6 y iful [^aeiou]y 
 SFX 6 0 ful [aeiou]y 
@@ -1167,7 +1178,7 @@ SFX 3 0 ist [aeiou]e
 SFX 3 y ist [^aeioubp]y 
 SFX 3 0 ist [aeioubp]y 
 SFX 3 o ist o 
-SFX 3 0 ists [^eoy] 
+SFX 3 0 ist [^eoy] 
 SFX 3 e ists [^aceiou]e 
 SFX 3 ce tists ce 
 SFX 3 0 ists [aeiou]e 
