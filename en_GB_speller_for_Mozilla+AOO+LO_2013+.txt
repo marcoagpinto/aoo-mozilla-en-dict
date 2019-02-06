@@ -50774,6 +50774,91 @@ Suggested on GitHub by Ding-adong:
 42964) Håkan (+'s - name - Wikipedia)
 42965) Höglund (+'s - name - Wikipedia)
 42966) Carrell (+'s - name - Wikipedia)
+
+V2.70 (ongoing)
+6-FEB-2019
+Ding-adong suggestions and others found based on them:
+42967) gas/FC -> moved to outside: "congas" & "degas"
+42968) gas's + gases + gassed (merged into gas)
+42969) affectless + affectlessness (merged into affect: affect/p=hVvNnkDiSG)
+42970) analyser's (added 's and merged nouns into analyse)
+42971) analysability
+42972) begrudger (added plural + 's and merged into begrudge)
+42973) iTouch (+plural +'s - Wiktionary)
+42974) iZombie (+'s - name - name of TV Series - Wikipedia)
+42975) conservatorship
+42976) cryobank (+plural +'s)
+42977) harmonist (+plural +'s)
+42978) melodist (+plural +'s)
+42979) unsurpassable
+42980) unsurpassably
+42981) unsurmountable
+42982) hypospray (+plural +'s)
+42983) hyposensitize (+s +ing +ed +ion -IZE)
+42984) hyposensitise (+s +ing +ed +ion -ISE)
+42985) hyposensitivity (+plural +'s)
+42986) cunny (+plural +'s - added ! flag)
+42987) cunting (added ! flag)
+42988) cunty (+ier +iest - added ! flag)
+42989) neurotherapy (+plural +'s - Wiktionary)
+42990) nighter (+plural +'s - Wiktionary)
+42991) overnighter (added singular + 's)
+42992) overnumber (+s +ing +ed)
+42993) outparcel (+plural +'s)
+42994) outoffice
+42995) outnoise (+s +ing +ed)
+42996) outbox (+s +ing +ed)
+42997) outborn
+42998) rowbacks (added plural +'s)
+42999) rowable
+43000) numpty (+plural +'s)
+43001) nump (+plural +'s)
+43002) nummus
+43003) nummulitic
+43004) nummulite (+plural +'s)
+43005) nummulary
+43006) nummular
+43007) nummion
+43008) nummiform
+43009) numismatology
+43010) numismatologist (+plural +'s)
+43011) numismatography
+43012) plasmatic
+43013) plasmic
+43014) plasher (+plural +'s - merged into plash)
+43015) plaquette (+plural +'s)
+43016) planuliform
+43017) planulate
+43018) planulation
+43019) planuloid
+43020) precognitively (Wiktionary)
+43021) preludize (+s +ing +ed -IZE)
+43022) preludise (+s +ing +ed -ISE)
+43023) razzia (+plural +'s)
+43024) razorbill (added singular +'s)
+43025) razorable
+43026) rathole (+plural +'s)
+43027) raticide
+43028) ratificationist
+43029) ratificatory
+43030) ratifiable (merged into ratify)
+43031) reaccession
+43032) reaccess
+43033) reabsorptive
+43034) reabridge (+s +ing +ed)
+43035) reablement
+43036) rollover (+plural +'s)
+43037) rollock (+s)
+43038) rollmop's (added 's)
+43039) slurpy (merged into slurp)
+43040) slurper (+plural +'s - merged into slurp)
+43041) smackhead (+plural +'s)
+43042) smackeroo (+plural +'s)
+43043) strewth + struth
+43044) streusel
+43045) stretto
+43046) stretti (plural of previous word)
+43047) sublight (Wiktionary)
 ===========
-British English Dictionary (Forked) 2.69
+British English Dictionary (Forked) 2.70
 by Marco A.G.Pinto
