@@ -50775,9 +50775,10 @@ Suggested on GitHub by Ding-adong:
 42965) Höglund (+'s - name - Wikipedia)
 42966) Carrell (+'s - name - Wikipedia)
 
+
 V2.70 (ongoing)
+Tons of suggestions from Ding-adong and others found based on them:
 6-FEB-2019
-Ding-adong suggestions and others found based on them:
 42967) gas/FC -> moved to outside: "congas" & "degas"
 42968) gas's + gases + gassed (merged into gas)
 42969) affectless + affectlessness (merged into affect: affect/p=hVvNnkDiSG)
@@ -50859,6 +50860,75 @@ Ding-adong suggestions and others found based on them:
 43045) stretto
 43046) stretti (plural of previous word)
 43047) sublight (Wiktionary)
+
+7-FEB-2019
+43048) account/MBlSGp (Ding-adong)
+43049) joy/pMDG6jSc (Ding-adong)
+43050) pigeonhole (removed hyphen - Ding-adong + added +er +ers +'s)
+43051) jetpack (+plural +'s)
+43052) jetfoil (+plural +'s)
+43053) jetport (+plural +'s)
+43054) niner (+plural +'s)
+43055) ninesome
+43056) ninepenny
+43057) nerk (+plural +'s)
+43058) nerka
+43059) nerium
+43060) neritine
+43061) neritic
+43062) pranny
+43063) pranky
+43064) prankish (+ness)
+43065) prankful
+43066) pranking + pranked (merged into prank)
+43067) pranksome
+43068) prang (+s +ing +ed)
+43069) prannet
+43070) necrotization (merged into necrotizatize -IZE)
+43071) necrotisation (merged into necrotizatise -ISE)
+43072) necroscopical
+43073) necroscopic
+43074) necropolitan
+43075) necrophobic
+43076) necrophobe (+plural +'s)
+43077) necrophilous + nekrophilus
+43078) necrophily + nekrophily
+43079) necrophilists (added plural)
+43080) necrophagy
+43081) favourless (Collins)
+43082) endeavourment (Collins)
+43083) elusion (+plural +'s)
+43084) elusory
+43085) emerse (+ed +ion)
+43086) cossie (+plural +'s)
+43087) cozzie (+plural +'s)
+43088) cosmovision
+43089) cosmopolite (added +'s)
+43090) heliocentricity (Collins)
+43091) heliocentricism (Collins)
+43092) amir (+plural +'s)
+43093) budgetarily (Collins)
+43094) boracic
+43095) carborane (+plural +'s)
+43096) carbonylation
+43097) brickie (+plural +'s)
+43098) bricoleur (+plural +'s)
+43099) bridally (merged into bridal)
+43100) acceleratedly
+43101) supercar (+plural +'s)
+43102) supercapacitor (+plural +'s)
+43103) ambivert (+plural +'s)
+43104) ambiversion
+43105) Bremner (+'s - name - Wikipedia)
+43106) blondie (+plural +'s)
+43107) chippy's + chippiness (merged into chippy)
+43108) grav (Collins)
+43109) grippy (+ier +iest)
+43110) grippe
+43111) silverback (+plural +'s)
+43112) silverberry (+plural +'s)
+43113) silvereye (+plural +'s)
+43114) silverpoint
 ===========
 British English Dictionary (Forked) 2.70
 by Marco A.G.Pinto
