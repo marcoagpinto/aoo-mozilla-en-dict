@@ -50929,6 +50929,44 @@ Tons of suggestions from Ding-adong and others found based on them:
 43112) silverberry (+plural +'s)
 43113) silvereye (+plural +'s)
 43114) silverpoint
+
+11-FEB-2019
+43115) sidearm (+s +ing +ed +er +ers +'s)
+43116) sideband (+plural +'s)
+43117) sideage + sidage
+43118) sicko (+plural +'s)
+43119) scientifical
+43120) scientificality
+43121) scientificalness (merged into scientifical)
+43122) scientificism
+43123) scientificness
+43124) scientifiction
+43125) scientifics
+43126) shite (+plural +'s + added ! flag)
+43127) scouser (+plural +'s - Collins)
+43128) sellotape (+s +ing +ed)
+43129) securitize (+s +ing +ed +ion +ions - IZE)
+43130) securitise (+s +ing +ed +ion +ions - ISE)
+43131) scrump (+s +ing +ed +er +ers +'s)
+43132) scrumple (+s +ing +ed)
+43133) shipwide (Wiktionary)
+43134) rucksacked
+43135) rucksackful
+43136) safehouse (+plural +'s - Wiktionary)
+43137) rock'n'roll (Collins)
+43138) roadsweeper (+plural +'s - Collins)
+43139) sandboy (+plural +'s)
+43140) sandboard (+plural +ing +er +ers +'s)
+43141) sanguine/YnC (Ding-adong)
+43142) satcom
+43143) spearman (+'s)
+43144) spearmen (plural of previous word)
+43145) spearwort (+plural +'s)
+43146) souffle (+plural +'s)
+43147) soucouyant (+plural +'s)
+43148) soubresaut
+43149) stimulators (added plural)
+43150) youse
 ===========
 British English Dictionary (Forked) 2.70
 by Marco A.G.Pinto
