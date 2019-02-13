@@ -50998,6 +50998,55 @@ Tons of suggestions from Ding-adong and others found based on them:
 43177) decontaminants (added plural +'s)
 43178) earless (merged into ear)
 43179) eaning
+
+13-FEB-2019
+43180) accension
+43181) accelerograph
+43182) accelerogram
+43183) acceleratory
+43184) aerogrammes (added plural +'s)
+43185) allocution (+plural +'s)
+43186) allocutus
+43187) allocyclic
+43188) animatable (Wiktionary)
+43189) apple-cart (+plural +'s - Wiktionary)
+43190) ball-breaker (+plural +'s)
+43191) ball-buster (+plural +'s)
+43192) ball-breaking
+43193) barrel-bombing
+43194) barrel-chested
+43195) barrel-roofed
+43196) barrel-vaulted
+43197) barrel/GMDS6 (Ding-adong)
+43198) believeth (Wiktionary)
+43199) bevvy (+s +ing +ed +'s - Collins)
+43200) bioelectronic (+ally)
+43201) bladder/MSd (Ding-adong)
+43202) bonk/drS (Ding-adong)
+43203) boogeyman/M (Ding-adong)
+43204) bosting + bostin
+43205) boyo (+plural +'s)
+43206) brick/drS (Ding-adong)
+43207) broadcast/SdAR (Ding-adong)
+43208) bruit/Sd (Ding-adong)
+43209) bruiter (+plural +'s)
+43210) bruv + bruvver (+plural +'s)
+43211) bucky (+plural +'s)
+43212) bunce
+43213) Bundt
+43214) butt/SMZ (Ding-adong)
+43215) butter/drZS (Ding-adong)
+43216) cannae (+plural)
+43217) cauda
+43218) caudae (plural of previous word)
+43219) charver + charva + chava (+plural +'s)
+43220) BarcaLounger (+plural +'s)
+43221) circularisation (+plural - merged into circular)
+43222) civvy (+plural +'s)
+43223) contessa (+plural +'s)
+43224) disfiguration (+plural +'s)
+43225) disinvesting
+43226) dishumour (Collins)
 ===========
 British English Dictionary (Forked) 2.70
 by Marco A.G.Pinto
