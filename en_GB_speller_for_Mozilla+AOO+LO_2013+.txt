@@ -51047,6 +51047,92 @@ Tons of suggestions from Ding-adong and others found based on them:
 43224) disfiguration (+plural +'s)
 43225) disinvesting
 43226) dishumour (Collins)
+
+15-FEB-2019
+43227) salvagers (added plural)
+43228) sapien (added singular +'s - Wiktionary)
+43229) sarge (+plural +'s)
+43230) sargasso
+43231) sarky (+ier +iest +sarkily +sarkiness)
+43232) rendles + rindles + rindless + rindlis
+43233) rendingly
+43234) rendible
+43235) shake-down (+plural +'s - Wiktionary)
+43236) slayed (merged into slay)
+43237) stevias (added plural)
+43238) strategise (+s +ing +ed)
+43239) strategos
+43240) strategus
+43241) strategician
+43242) subatomically (Wiktionary)
+43243) strippergram (+plural +'s)
+43244) tete (Collins)
+43245) thready (+ier +iest)
+43246) technicolour (+ed)
+43247) diss (+s +ing +ed)
+43248) doofer (+plural +'s)
+43249) cruft (+y)
+43250) eclose (+s +ing +ed)
+43251) eclosion (+plural +'s)
+43252) eclogite
+43253) amphibolite
+43254) blueschist
+43255) pyroxenite
+
+18-FEB-2019
+43256) internet's (added +'s)
+43257) interneurone's (added +'s)
+43258) interneuron's (added +'s)
+43259) interpellations (added plural)
+43260) interpellator (added plural +'s)
+43261) interpleaders (added plural)
+43262) geminate (+s +ing +ed +ion)
+43263) geminal (+ly)
+43264) gemelli
+43265) intimaters (added plural)
+43266) intonation (+s +ing +ed +ion)
+43267) intranet's (added +'s)
+43268) intrapreneur's (added +'s)
+43269) intrapreneurial
+43270) intrathoracic
+43271) intraventricular
+43272) intrazonal
+43273) anti-aggression
+43274) anti-collision
+43275) anti-corrosion
+43276) anti-depression
+43277) anti-recession
+43278) anti-subversion
+43279) dissentient (+plural +'s)
+43280) backroom (+plural +'s)
+43281) liberationist (added singular +'s)
+43282) evulsion
+43283) examinate (+s +ing +ed +ion)
+43284) fructuous
+43285) fuckwad (+plural +'s - Wiktionary - Added ! flag)
+43286) gimme
+43287) gullibly
+43288) gullibleness
+43289) gullery (+plural +'s)
+43290) gyppo + gippo (+plural +'s)
+43291) xenobiological (Wiktionary)
+43292) trailhead (+plural +'s)
+43293) tricorder (+plural +'s - Wiktionary)
+43294) trepidatious (+ly)
+43295) trebuchet (+plural +'s)
+43296) ballista (+plural)
+43297) ballistae (another plural of previous word)
+43298) mangonel (+plural +'s)
+43299) arbalest + arblast (+plural +'s)
+43300) Welshness
+43301) wacks (added plural)
+43302) telecommuted (merged into telecommute)
+43303) toerag (+plural +'s)
+43304) fly-tip (+s +ing +ed)
+43305) whatcha + watcha
+43306) valedictorian (+plural +'s)
+43307) wuss (+s +ing +ed)
+43308) wussy (+plural +'s)
 ===========
 British English Dictionary (Forked) 2.70
 by Marco A.G.Pinto
