@@ -14,7 +14,7 @@
 #   3) Plurals.
 #
 # David Bartlett, Andrew Brown, Marco A.G.Pinto.
-# V 2.69, 2019-02-01
+# V 2.70, 2019-03-01
 
 SET UTF-8
 
@@ -98,8 +98,8 @@ PFX e 0 out .
 PFX f Y 2
 PFX f 0 under [^r] 
 PFX f 0 under- r 
-PFX O Y 1
-PFX O 0 non- . 
+PFX ^ Y 1
+PFX ^ 0 non- . 
 PFX 4 Y 1
 PFX 4 0 trans . 
 
@@ -1017,29 +1017,31 @@ SFX L 0 ament's m
 SFX L y iment's [^aeiou]y 
 SFX L 0 ment's [aeiou]y 
 SFX L 0 ment's [^my] 
-SFX Z Y 22
-SFX Z e y [^aeiouy]e 
-SFX Z 0 y [aeiouy]e 
-SFX Z 0 ey [aiouy] 
-SFX Z 0 by [^aeio][aeiou]b 
-SFX Z 0 ky [^aeio][aeiou]c 
-SFX Z 0 dy [^aeio][aeiou]d 
-SFX Z 0 fy [^aeio][aeiou]f 
-SFX Z 0 gy [^aeio][aeiou]g 
-SFX Z 0 ky [^aeio][aeiou]k 
-SFX Z 0 ly [^aeio][aeiou]l 
-SFX Z 0 my [^aeio][aeiou]m 
-SFX Z 0 ny [^aeio][aiou]n 
-SFX Z 0 py [^aeio][aeiou]p 
-SFX Z 0 ry [^aeio][aiou]r 
-SFX Z 0 sy [^aeio][aeiou]s 
-SFX Z 0 ty [^aeio][aiou]t 
-SFX Z 0 vy [^aeio][aeiou]v 
-SFX Z 0 zy [^aeio][aeiou]z 
-SFX Z 0 y [^aeio]e[nrt] 
-SFX Z 0 y [aeio][aeiou][bcdfgklmnprstvz] 
-SFX Z 0 y [^aeiou][bcdfgklmnprstvz] 
-SFX Z 0 y [^aebcdfgiklmnoprstuvyz] 
+SFX Z Y 24
+SFX Z ic y dic
+SFX Z e y [^aeiouy]e
+SFX Z 0 y [aeiouy]e
+SFX Z 0 ey [aiouy]
+SFX Z 0 by [^aeio][aeiou]b
+SFX Z 0 ky [^adeio][aeiou]c
+SFX Z 0 dy [^aeio][aeiou]d
+SFX Z 0 fy [^aeio][aeiou]f
+SFX Z 0 gy [^aeio][aeiou]g
+SFX Z 0 ky [^aeio][aeiou]k
+SFX Z 0 ly [^aeio][aeiou]l
+SFX Z 0 my [^aeio][aeiou]m
+SFX Z 0 ny [^aeio][aiou]n
+SFX Z 0 py [^aeio][aeiou]p
+SFX Z 0 ry [^aeio][aiou]r
+SFX Z 0 sy [^aeio][aeiou]s
+SFX Z 0 ty [^aeio][aiou]t
+SFX Z 0 vy [^aeio][aeiou]v
+SFX Z 0 zy [^aeio][aeiou]z
+SFX Z 0 y [^aeio]e[nrt]
+SFX Z 0 y [aeio][aeiou][bcdfgklmnprtvz]
+SFX Z 0 y [^aeiou][bcdfgklmnprstvz]
+SFX Z 0 y [^aebcdfgiklmnoprstuvyz]
+SFX Z 0 ity ous
 SFX 2 Y 21
 SFX 2 e iness [^aeiouy]e 
 SFX 2 0 iness [aeiouy]e 
@@ -1085,7 +1087,7 @@ SFX z 0 vily [^aeio][aeiou]v
 SFX z 0 zily [^aeio][aeiou]z 
 SFX z 0 ily [^aeio]e[nrt] 
 SFX z 0 ily [aeio][aeiou][bcdfgklmnprstvyz] 
-SFX z 0 ily [^aeiou][bcdfgklmnprstvyz] 
+SFX z 0 ily [^aeiou][bcdfgklmnprstvz] 
 SFX z 0 ily [^ebcdfgklmnprstvyz] 
 SFX y Y 15
 SFX y e ory te 
@@ -1103,19 +1105,18 @@ SFX y 0 ry [^i]on
 SFX y 0 nery [aiu]n 
 SFX y 0 ry [^aiou]n 
 SFX y 0 ry [^ehmstn] 
-SFX O Y 12
-SFX O 0 l a 
-SFX O e al [^bcgv]e 
-SFX O e ial [bcgv]e 
-SFX O 0 ial [bcrx] 
-SFX O um al um 
-SFX O 0 al [^u]m 
-SFX O y al ty 
-SFX O y ial [^t]y 
-SFX O 0 ual [px]t 
-SFX O 0 tal [iu]t 
-SFX O 0 al [^ipux]t 
-SFX O 0 al [^aebcrtxmy] 
+SFX O Y 11
+SFX O 0 l a
+SFX O 0 al [ix]on
+SFX O 0 al ct
+SFX O 0 ial eon
+SFX O 0 al [cdhm]
+SFX O 0 ial r
+SFX O 0 tal ut
+SFX O e inal ude
+SFX O e al [mrs]e
+SFX O e al ide
+SFX O y ial y
 SFX o Y 12
 SFX o 0 lly a 
 SFX o e ally [^bcgv]e 
@@ -1193,3 +1194,19 @@ SFX 3 y ist's [^aeioubp]y
 SFX 3 0 ist's [aeioubp]y 
 SFX 3 o ist's o 
 SFX 3 0 ist's [^eoy] 
+SFX = Y 15
+SFX = y ilessness [^aeiou]y
+SFX = y ilessness's [^aeiou]y
+SFX = y ilessnesses [^aeiou]y
+SFX = 0 lessness [aeiou]y
+SFX = 0 lessness's [aeiou]y
+SFX = 0 lessnesses [aeiou]y
+SFX = 0 essness ll
+SFX = 0 essness's ll
+SFX = 0 essnesses ll
+SFX = 0 lessness [^l]l
+SFX = 0 lessness's [^l]l
+SFX = 0 lessnesses [^l]l
+SFX = 0 lessness [^ly]
+SFX = 0 lessness's [^ly]
+SFX = 0 lessnesses [^ly]

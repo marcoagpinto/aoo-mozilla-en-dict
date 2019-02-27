@@ -50776,7 +50776,7 @@ Suggested on GitHub by Ding-adong:
 42966) Carrell (+'s - name - Wikipedia)
 
 
-V2.70 (ongoing)
+V2.70
 Tons of suggestions from Ding-adong and others found based on them:
 6-FEB-2019
 42967) gas/FC -> moved to outside: "congas" & "degas"
@@ -51234,6 +51234,76 @@ Tons of suggestions from Ding-adong and others found based on them:
 43403) QRpedia (+'s - name - Wikipedia)
 43404) sig (+plural +'s - Wiktionary)
 43405) autopatrol (suggested by Wikipedia)
+
+25-FEB-2019
+43406) conductant (Wiktionary)
+43407) crikey
+43408) dissensus
+43409) drabs (added plural)
+43410) dribs
+43411) expat (+plural +'s)
+43412) fannying + fannied (merged into fanny)
+43413) glamourless (Collins)
+43414) glamourpuss (Collins)
+43415) inhesion
+43416) kayaking + kayaked +er +ers +er's (merged into kayak)
+43417) manhunter
+43418) manky (+ier +iest)
+43419) maxed (merged into max)
+43420) nanite + nannite (+plural +'s)
+43421) moonshiner (+plural +'s)
+43422) millionairess
+43423) mazel tov
+43424) malodour (+plural +'s)
+43425) nutjob (+plural +'s)
+43426) overpersuasion
+43427) positronic
+43428) recalibrations (added plural)
+43429) rancourless
+43430) rancoured
+43431) provolone
+43432) repaginate (+s +ing +ed +ion)
+43433) respirate (+s +ing +ed)
+43434) repulser (+plural +'s)
+43425) reprovision (+s +ing +ed)
+43426) restante
+43427) spiffing
+43428) squinters (added plural)
+43429) squinty (+ier +iest)
+43430) subdecision (+plural +'s - Collins)
+43431) submachine (Collins)
+43432) supersession
+43433) swallowers (added plural)
+43434) tonk (+s +ing +ed)
+43435) whoremongers (added plural)
+43436) stodge (added +s +ing +ed)
+43437) refamiliarise (+s +ing +ed - Wiktionary)
+43438) reconstructors (added plural +'s)
+43439) recce (+s +ing +ed)
+43440) pinata (+plural)
+43441) pilau + pulao (+plural +'s)
+43442) pervo (+plural +'s)
+43443) pervy (+ier +iest +ness)
+43444) perv (+s +ing +ed)
+43445) peasy
+43446) paviour (+plural +'s)
+43447) oncological
+43448) oralists (added plural +'s)
+43449) panto (+plural +'s)
+43450) paedo (+plural +'s)
+43451) poncey + poncy (+ier +iest)
+43452) pneumoencephalogram (+plural +'s)
+43453) wees + weeing (merged into wee)
+43454) wiseass (Collins)
+43455) preve  (+s)
+43456) trattoria (+plural +'s)
+43457) vapourable
+43458) vapourability
+43459) vapourer (+plural +'s)
+43460) vapourless
+43461) vapoury
+43462) vapouringly (Collins)
+43463) vapouring + vapoured (merged into vapour)
 ===========
 British English Dictionary (Forked) 2.70
 by Marco A.G.Pinto
