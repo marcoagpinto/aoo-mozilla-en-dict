@@ -51307,6 +51307,7 @@ Tons of suggestions from Ding-adong and others found based on them:
 
 
 V2.71 (ongoing)
+Tons of suggestions from Ding-adong and others found based on them:
 4-MAR-2019
 43464) counter-aggression
 43465) counter-insurgency
@@ -51384,6 +51385,40 @@ V2.71 (ongoing)
 43535) masse (Collins)
 43536) mid-watch
 43537) outman (+s +ing +ed)
+
+11-MAR-2019
+43538) cub/dWw3SD1GMZ (Ding-adong)
+43539) cuz
+43540) douchebag (+plural +'s)
+43541) derepression (Collins)
+43542) fessing + fessed
+43543) FIDE (Collins)
+43544) foie
+43545) hasta
+43546) hath
+43547) hombre (+plural +'s - Collins)
+43548) klick (+plural +'s)
+43549) knobbing + knobbed (merged into knob)
+43550) limey (+plural +'s - Collins)
+43551) looning + looned (merged into loon)
+43552) mischaracterise (+s +ing +ed - Collins)
+43553) opticals (added plural)
+43554) outgeneral (+s +ing +ed)
+43555) phenobarbital
+43556) primidone
+43557) phenylethylamine
+43558) ponces + poncing + ponced (merged into ponce)
+43559) program/BRGSJDMC (Ding-adong)
+43560) precess/GDSNx (Ding-adong)
+43561) molecular/CQY (Ding-adong)
+43562) radiosterilise/Dn (Ding-adong)
+43563) tumoural
+43564) tumourlike (Wiktionary)
+43565) antitumoural (Collins)
+43566) Tegretol (+'s - Merriam-Webster)
+43567) tryer (+plural +'s - Wiktionary)
+43568) subrule (+plural +'s - Collins)
+43569) subfunctions (added plural +'s)
 ===========
 British English Dictionary (Forked) 2.71
 by Marco A.G.Pinto
