@@ -51307,7 +51307,9 @@ Tons of suggestions from Ding-adong and others found based on them:
 
 
 V2.71 (ongoing)
-Tons of suggestions from Ding-adong and others found based on them:
+Tons of suggestions from Ding-adong and others found based on them.
+The wordlist also increased around 2K due to an improvement in FLAG P
+by Ding-adong which added the plural -nesses.
 4-MAR-2019
 43464) counter-aggression
 43465) counter-insurgency
@@ -51419,6 +51421,45 @@ Tons of suggestions from Ding-adong and others found based on them:
 43567) tryer (+plural +'s - Wiktionary)
 43568) subrule (+plural +'s - Collins)
 43569) subfunctions (added plural +'s)
+
+14-MAR-2019
+43570) towner (+plural +'s - Merriam-Webster)
+43571) tearaways (added plural +'s)
+43572) subprime (Collins)
+43573) subcentre (Collins)
+43574) erase/NDRLSG  (Ding-adong)
+43575) erm (Wiktionary)
+43576) facie (prima facie - Collins)
+43577) cetera (Collins)
+43578) fiance (+plural +'s - Collins)
+43579) fiancee (+plural +'s - Collins)
+43580) footie (added plural +'s)
+43581) hopers (added plural)
+43582) hors + concours (hors concours)
+43583) howay
+43584) jankers
+43585) mea (mea culpa)
+43586) synopsize (+s +ing +ed -IZE)
+43587) synopsise (+s +ing +ed -ISE)
+43588) 'tis
+43589) unpleasantry (+plural +'s)
+43590) reinvasion
+43591) restabilise (+s +ing +ed -ISE)
+43592) reindeers (added plural)
+43593) reimagines + reimagining (merged into reimagine)
+43594) jalapeno (+plural +'s - Collins)
+43595) narked
+43596) nasion (+plural +'s)
+43597) nicker (+s +ing +ed)
+43598) notarize (+s +ing +ed -IZE)
+43599) notarise (+s +ing +ed -ISE)
+43600) neurosynaptic (Wiktionary)
+43601) hocked + hocking (merged into hock)
+43602) 3GPP's (fixed: Ding-adong)
+43603) Bulawayo'sc/M (fixed: Ding-adong)
+43604) Blo'/M (fixed: Ding-adong)
+43605) Blo'Norton/M (fixed: Ding-adong)
+43606) James'/M (fixed: Ding-adong)
 ===========
 British English Dictionary (Forked) 2.71
 by Marco A.G.Pinto
