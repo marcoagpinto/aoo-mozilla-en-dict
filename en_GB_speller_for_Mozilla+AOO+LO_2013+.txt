@@ -51308,7 +51308,7 @@ Tons of suggestions from Ding-adong and others found based on them:
 
 V2.71 (ongoing)
 Tons of suggestions from Ding-adong and others found based on them.
-The wordlist also increased around 2K due to an improvement in FLAG P
+The wordlist also increased around 1800 due to an improvement in FLAG P
 by Ding-adong which added the plural -nesses.
 4-MAR-2019
 43464) counter-aggression
@@ -51460,6 +51460,61 @@ by Ding-adong which added the plural -nesses.
 43604) Blo'/M (fixed: Ding-adong)
 43605) Blo'Norton/M (fixed: Ding-adong)
 43606) James'/M (fixed: Ding-adong)
+
+18-MAR-2019
+43607) mammon (+plural +'s - Collins)
+43608) mammonish (Collins)
+43609) mammonism (Collins)
+43610) mammonist (+plural +'s - Collins)
+43611) mammonistic (Collins)
+43612) slingshotting + slingshotted (merged into slingshot)
+43613) vapourlike (Wiktionary)
+43614) vapourings
+43615) smartarse (+plural +'s - Collins)
+43616) regionals (added plural)
+43617) regs
+43618) plosion (+al)
+43619) pina (Collins)
+43620) Pils
+43621) reparative (reparative therapy)
+43622) lookie-likie
+43623) horseshit (used ! flag)
+43624) feedings
+43625) dumbass (+plural +'s - Wiktionary)
+43626) dipshit (+plural +'s + ! flag)
+43627) dirtbag (+plural +'s)
+43628) glamourize (+s +ing +ed +ion -IZE)
+43629) glamourise (+s +ing +ed +ion -ISE)
+43630) gofer (+plural +'s)
+43631) goofer (+plural +'s - Wiktionary)
+43632) Geordies (added plural)
+43633) gook
+43634) humoursome (+ly)
+43635) instal (+s - another way for install)
+43636) GLC
+43637) GCE
+43638) GCSE
+43639) lezzie (+plural +'s + ! flag - Collins)
+43640) lez (+plural +'s + ! flag)
+43641) lord/DcSMGf (Ding-adong)
+43642) majoring + majored (merged into major - Collins)
+43643) marketeering (grey marketeering)
+43644) court-martials + court-martialling + court-martialled (merged)
+43645) savourless + savourable + savourer+ers+er's (merged into savour)
+43646) savouringly
+43647) savourly (merged into savour)
+43648) savorous (+ly)
+43649) savoursome
+43650) rumour-monger + rumour-mongering
+43651) protege (+plural +'s - Collins)
+43652) protegee (+plural +'s - Collins)
+43653) motherfucker (+plural +'s + ! flag)
+43654) neighbourless
+43655) neighbourship
+43656) neighbourlike (Merriam-Webster)
+43657) odourful
+43658) odourlessly (Wiktionary)
+43659) odourlessness (Wiktionary)
 ===========
 British English Dictionary (Forked) 2.71
 by Marco A.G.Pinto
