@@ -51515,6 +51515,62 @@ by Ding-adong which added the plural -nesses.
 43657) odourful
 43658) odourlessly (Wiktionary)
 43659) odourlessness (Wiktionary)
+
+19-MAR-2019
+43660) HDR (+'s - name - Wikipedia)
+43661) Gustave (+'s - name - Wikipedia)
+43662) spectrographs (added plural)
+43663) spectrographic (merged into spectrograph)
+43664) spectrochemistry
+43665) Bridgestone (+'s - name - Wikipedia)
+43666) bhp
+43667) Agostini (+'s - name - Wikipedia)
+43668) Hailwood (+'s - name - Wikipedia)
+43669) highside (+s +ing +ed)
+43670) lowside (+s +ing +ed)
+43671) Nobuyuki (+'s - name - Wikipedia)
+43672) Kumagaya (+'s - name - Wikipedia)
+43673) Yoshisada (+'s - name - Wikipedia)
+43674) Pasolini (+'s - name - Wikipedia)
+43675) Gilberto (+'s - name - Wikipedia)
+43676) MotoGP (+'s - name - Wikipedia)
+43677) Márquez (+'s - name - Wikipedia)
+43678) Martín (+'s - name - Wikipedia)
+43679) Giacomo (+'s - name - Wikipedia)
+43680) Sheene (+'s - name - Wikipedia)
+43681) Renzo (+'s - name - Wikipedia)
+43682) Wakai (+'s - name - Wikipedia)
+43683) Shinichi (+'s - name - Wikipedia)
+
+25-MAR-2019
+43684) tibialis
+43685) foot-drop
+43686) haemoglobinuria
+43687) haematoporphyria
+43688) haematophagous
+43689) haemal
+43690) haemangioma (+plural +'s)
+43691) haemangiomata (another plural of previous word)
+43692) habitude (+plural +'s)
+43693) haboob (+plural +'s)
+43694) axonometric
+43695) axoplasm (+ic)
+43696) ciliary
+43697) acumentin
+43698) acultural
+43699) pleurocoel
+43700) subglobose
+43701) subglobular
+43702) subgiant
+43703) subdwarf
+43704) subduplicate
+43705) subduple
+43706) subductive
+43707) subduement
+43708) acuminose
+43709) acuminulate
+43710) acuminous
+43711) acuminate (+s +ing +ed +ion - Collins)
 ===========
 British English Dictionary (Forked) 2.71
 by Marco A.G.Pinto
