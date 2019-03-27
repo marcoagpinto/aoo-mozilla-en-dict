@@ -51306,9 +51306,9 @@ Tons of suggestions from Ding-adong and others found based on them:
 43463) vapouring + vapoured (merged into vapour)
 
 
-V2.71 (ongoing)
+V2.71
 Tons of suggestions from Ding-adong and others found based on them.
-The wordlist also increased around 1800 due to an improvement in FLAG P
+The wordlist increased around 1800 words due to an improvement in FLAG P
 by Ding-adong which added the plural -nesses.
 4-MAR-2019
 43464) counter-aggression
