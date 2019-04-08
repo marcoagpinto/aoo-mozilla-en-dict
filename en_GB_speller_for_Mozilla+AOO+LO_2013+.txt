@@ -51571,6 +51571,54 @@ by Ding-adong which added the plural -nesses.
 43709) acuminulate
 43710) acuminous
 43711) acuminate (+s +ing +ed +ion - Collins)
+
+
+V2.72 (ongoing)
+3-APR-2019
+43712) wargame (+s +ing +ed +er +ers - Wiktionary)
+43713) Goldhamer (+'s - name - Wikipedia)
+43714) unguessed (Collins)
+43715) undreamt-of (Collins)
+43716) Dunnigan (+'s - name - Wikipedia)
+43717) nyala (+'s)
+43718) reedbuck (+plural +'s)
+43719) oribi (+plural +'s)
+43720) Warholian (+plural +'s)
+
+8-APR-2019
+43721) Moltke (+'s - name - Wikipedia)
+43722) Graf (+'s - name - Wikipedia)
+43723) Sadowa (+'s - name - Wikipedia)
+43724) Janus (+'s - name - Wikipedia)
+43725) Caffrey (+'s - name - Wikipedia)
+43726) Halberstam (+'s - name - Wikipedia)
+43727) Rockliff (+'s - name - Wikipedia)
+43728) lymphoedema
+43729) haemocyanin
+43730) haemocytometers (added +plural +'s)
+43731) haematocele (+plural +'s)
+43732) haematemesis
+43733) carbonify (+s +ing +ed +ion)
+43734) accrementition
+43735) accrescence
+43736) accrete (+s +ing +ed)
+43737) sangeet (+plural +'s)
+43738) sangaree (+plural +'s)
+43739) sang-de-boeuf
+43740) symbionts (added plural)
+43741) papilloedema + papilledema
+43742) papillitis
+43743) papilliferous
+43744) oxyhaemoglobin
+43745) oxyhexaster
+43746) haemolymph
+43747) carbona
+43748) carbonado (+plural +'s)
+43749) dominical
+43750) Jacobins (added plural)
+43751) Jacobinic
+43752) Jacobinical
+43753) Jacobinism
 ===========
-British English Dictionary (Forked) 2.71
+British English Dictionary (Forked) 2.72
 by Marco A.G.Pinto
