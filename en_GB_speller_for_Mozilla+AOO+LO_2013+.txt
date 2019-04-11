@@ -51619,6 +51619,29 @@ V2.72 (ongoing)
 43751) Jacobinic
 43752) Jacobinical
 43753) Jacobinism
+
+11-APR-2019
+43754) altitudinarian
+43755) altitudinal
+43756) altitudinous
+43757) altivolant
+43758) volumed (merged into volume)
+43759) volubleness
+43760) haematomas + haematomata (plurals of haematoma)
+43761) dominie (+plural +'s)
+43762) parenchymatic (merged into parenchyma)
+43763) parenchymella
+43764) parenchyme
+43765) parencephalon
+43766) preganglionic (+ally)
+43767) pregastrular
+43768) pregeniculate
+43769) pregenital
+43770) pregenitality
+43771) pregeologic (+al)
+43772) pregerminate (+s +ing +ed +ion)
+43773) preglacially
+43774) preglenoid
 ===========
 British English Dictionary (Forked) 2.72
 by Marco A.G.Pinto
