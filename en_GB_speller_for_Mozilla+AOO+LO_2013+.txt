@@ -51642,6 +51642,33 @@ V2.72 (ongoing)
 43772) pregerminate (+s +ing +ed +ion)
 43773) preglacially
 43774) preglenoid
+
+14-APR-2019
+43775) apostatic (+al)
+43776) apostatism
+43777) tergiversant (+plural +'s - Merriam-Webster)
+43778) tergiversatory
+43779) tergiversator's (added +'s)
+43780) tergiversations (added plural)
+43781) criminously
+43782) cytogenesis
+43783) hippocampal
+43784) anhedonia
+43785) anhedonic
+43786) cytogeny
+43787) cytogenous
+43788) cytoid
+43789) haematic
+43790) haemostat (added plural +'s)
+43791) rebleed (+s +ing +past rebled)
+43792) bioabsorbable
+43793) oedematic
+43794) oedemic
+43795) inflationism
+43796) inflationist (+plural +'s)
+43797) adversative (+ly)
+43798) adversation
+43799) risk-adverse
 ===========
 British English Dictionary (Forked) 2.72
 by Marco A.G.Pinto
