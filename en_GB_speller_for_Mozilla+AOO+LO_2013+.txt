@@ -51669,6 +51669,55 @@ V2.72 (ongoing)
 43797) adversative (+ly)
 43798) adversation
 43799) risk-adverse
+
+15-APR-2019
+43800) panpsychic
+43801) panpsychism
+43802) panpsychist (+plural +'s)
+43803) panpsychistic + pampsychistic
+43804) hypnagogic + hypnogogic
+43805) hypnagogia + hypnogogia
+43806) hypnopompic
+43807) hypnophobic
+43808) hypnophobia
+43809) hypnopaedia
+43810) hypnobirth (+ing)
+43811) postganglionic (+ally)
+43812) postgenital
+43813) postgenomic
+43814) postglacially (merged into postglacial)
+43815) postgrad (+plural +'s)
+43816) postglenoid
+43817) posthetomy
+43818) mesodermic
+43819) aeonian + aionian + eonian
+43820) aeonic
+43821) aeonial
+43822) citrinin
+43823) citrination
+
+16-APR-2019
+43824) carbonless
+43825) aptronym + aptonym
+43826) aptronymic + aptonymic
+43827) orthopaedically
+43828) orthopaedic/SYZ (Ding-adong)
+43829) jealousity (removed)
+43830) industrialness
+43831) Juventus (+'s - name - Wikipedia)
+43832) industrial-strength
+43833) industrial-size (+ed)
+43834) endothermically (Collins)
+43835) endothermism (Collins)
+43836) carbon-12
+43837) carbon-13
+43838) butterless
+43839) apterygotous
+43840) apterygote (+plural +'s)
+43841) collembolan (+plural +'s)
+43842) proturan (+plural +'s)
+43843) dipluran (+plural +'s)
+43844) thysanuran (+plural +'s)
 ===========
 British English Dictionary (Forked) 2.72
 by Marco A.G.Pinto
