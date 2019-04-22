@@ -51718,6 +51718,67 @@ V2.72 (ongoing)
 43842) proturan (+plural +'s)
 43843) dipluran (+plural +'s)
 43844) thysanuran (+plural +'s)
+43845) happenstance
+
+18-APR-2019
+43846) neoliberalism (Collins)
+43847) enamourment (+plural +'s - Wiktionary)
+43848) enamouredness (Wiktionary)
+43849) ULAplus (+'s - name - Wikipedia)
+43850) fictionist (+plural +'s)
+43851) fictionality
+43852) fictioneer
+43853) fictiveness
+43854) nymphlike (Collins)
+43855) nympholept (+ic)
+43856) nymphology
+43857) nymphomaniacal
+43858) nymphaeum (+'s)
+43859) nymphaea (plural of previous word)
+43860) nympha
+43861) dwelled (merged into dwell)
+43862) repeller (+plural +'s)
+43863) industrying
+43864) organismically
+43865) organistic
+43866) organistship
+43867) organistrum
+
+22-APR-2019
+43868) Weasley (+'s - name - Wikipedia)
+43869) Vimeo (+'s - name - Wikipedia)
+43870) Zelda (+'s - name - Wikipedia)
+43871) Zendesk (+'s - name - Wikipedia)
+43872) TransferWise (+'s - name - Wikipedia)
+43873) Tanja (+'s - name - Wikipedia)
+43874) Rasmus (+'s - name - Wikipedia)
+43875) Rajesh (+'s - name - Wikipedia)
+43876) Qin (+'s - name - Wikipedia)
+43877) Monika (+'s - name - Wikipedia)
+43878) Maddie (+'s - name - Wikipedia)
+43879) Lyft (+'s - name - Wikipedia)
+43880) Groupon (+'s - name - Wikipedia)
+43881) Daniela (+'s - name - Wikipedia)
+43882) Astrid (+'s - name - Wikipedia)
+43883) Akmal (+'s - name - Wikipedia)
+43884) ASIN (+plural - Wiktionary)
+43885) MLB (+'s - name - Wikipedia)
+43886) OSX (+'s - name - Wikipedia)
+43887) knap (+s +ing +ed)
+43888) tombstoning + tombstoned + tombstoner + ers (merged tombstone)
+43889) Groombridge (+'s - name - Wikipedia)
+43890) Aghamore (+'s - name - Wikipedia)
+43891) Zachery (+'s - name - Wikipedia)
+43892) Ballyfin (+'s - name - Wikipedia)
+43893) tomcod (+plural +'s)
+43894) tomeful
+43895) tomelet (+plural +'s)
+43896) tomentulose
+43897) tomentum
+43898) tomenta (plural of previous word)
+43899) tomentose
+43900) tomentous
+43901) phobe (+plural +'s)
 ===========
 British English Dictionary (Forked) 2.72
 by Marco A.G.Pinto
