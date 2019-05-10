@@ -51861,6 +51861,94 @@ Suggestions by "Cyberknight", very hard to find, mostly found on Wiktionary.
 43976) tendinosis + tendonosis (Merriam-Webster)
 43977) tenosynovitis
 43978) tenotomy
+
+
+V2.73 (ongoing)
+2-MAY-2019
+43979) second's (added 's)
+43980) unorganised (-ise)
+43981) commentor (+plural +'s - Collins)
+43982) severability (Collins)
+43983) severalfold (Collins)
+43984) Goldsman (+'s - name - Wikipedia)
+43985) Jemison (+'s - name - Wikipedia)
+43986) Cherniawsky (+'s - name - Wikipedia)
+43987) Hetrick (+'s - name - Wikipedia)
+43988) unproduced
+43989) unproduceable
+43990) unproduceably
+43991) Lamborghinis (added plural)
+43992) Harnick (+'s - name - Wikipedia)
+43993) photoreceptive
+43994) photoreconnaissance
+43995) photorecovery
+43996) photoreactivation
+43997) photorepair
+43998) Beyer (+'s - name - Wikipedia)
+43999) Benioff (+'s - name - Wikipedia)
+44000) Kershner (+'s - name - Wikipedia)
+44001) Marquand (+'s - name - Wikipedia)
+44002) Brackett (+'s - name - Wikipedia)
+44003) Rejwan (+'s - name - Wikipedia)
+44004) Shearmur (+'s - name - Wikipedia)
+44005) Whitta (+'s - name - Wikipedia)
+44006) Weitz (+'s - name - Wikipedia)
+44007) Terrio (+'s - name - Wikipedia)
+44008) Rian (+'s - name - Wikipedia)
+44009) Arndt (+'s - name - Wikipedia)
+44010) Kazanjian (+'s - name - Wikipedia)
+44011) stormtrooper (+plural +'s - Collins)
+44012) Lando (+'s - name - Wikipedia)
+44013) Filoni (+'s - name - Wikipedia)
+44014) Kinberg (+'s - name - Wikipedia)
+44015) Weisman (+'s - name - Wikipedia)
+44016) Favreau (+'s - name - Wikipedia)
+44017) Portillo (+'s - name - Wikipedia)
+44018) Auman (+'s - name - Wikipedia)
+44019) primetime (Collins)
+44020) Cassian (+'s - name - Wikipedia)
+44021) Kylo (+'s - name - Wikipedia)
+44022) Ren (+'s - name - Wikipedia)
+44023) Giacchino (+'s - name - Wikipedia)
+44024) Calrissian (+'s - name - Wikipedia)
+44025) viewscreens (added plural +'s)
+44026) mockumentary (+plural +'s)
+44027) metafiction (+al)
+44028) metafictionist (+plural +'s)
+44029) metafictive
+44030) metadyne + métadyne
+44031) metadiscourse
+44032) metacyclic
+44033) metaculture
+44034) metacultural
+44035) metacromion
+44036) acromion
+44037) Launchpad (+'s - name - Wikipedia)
+
+10-MAY-2019
+44038) Brobdingnagian
+44039) enwrap (+s +ing +ed)
+44040) neuroscientist's (added 's)
+44041) commemorator's (added 's)
+44042) combustor's (added 's)
+44043) combfish's (added 's)
+44044) columnist (added plural + 's)
+44045) colters (added plural)
+44046) coltsfoot's (added 's)
+44047) colourist's (added 's)
+44048) colonialist (added plural + 's)
+44049) colonoscope's (added 's)
+44050) byliners (added plural)
+44051) byname's (added 's)
+44052) by-election's (added 's)
+44053) buttonholers (added plural)
+44054) butterfish's (added 's)
+44055) conceptualist's (added 's)
+44056) concertist's (added 's)
+44057) concessioner (added plural + 's)
+44058) conchologist (added plural + 's)
+44059) conclave's (added 's)
+44060) confecting + confected (merged into confect)
 ===========
-British English Dictionary (Forked) 2.72
+British English Dictionary (Forked) 2.73
 by Marco A.G.Pinto
