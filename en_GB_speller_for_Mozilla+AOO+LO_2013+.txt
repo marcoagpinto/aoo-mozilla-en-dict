@@ -51995,6 +51995,41 @@ V2.73 (ongoing)
 44100) diehard's (added 's)
 44101) digicam's (added 's)
 44102) digitately
+
+20-MAY-2019
+44103) acupunctural
+44104) acupunctuate (+s +ing +ed +ion)
+44105) trophic
+44105) haemagglutinate (+s +ing +ed)
+44106) laryngectomy (Collins)
+44107) lycaenid (+plural +'s)
+44108) lyase (+plural +'s)
+44109) hydrolase (+plural +'s)
+44110) pectate
+44111) pectase
+44112) pectinesterase
+44113) pectinibranch
+44114) pectinic (pectinic acid)
+44115) pectiniform + pecteniform
+44116) pectinoid + pectenoid
+44117) pectinate (+ed +ion)
+44118) pectinal
+44119) insectan
+44120) Insectivora
+44121) Tunisian's (added 's)
+44122) Queluz (+'s - name - Wikipedia)
+44123) Alfragide (+'s - name - Wikipedia)
+44124) Amadora (+'s - name - Wikipedia)
+44125) instinctually
+44126) Meccano (trademark)
+44127) Meccan (added plural + 's)
+44128) insufferableness
+44129) instrumently
+44130) instrumentist (+plural +'s)
+44131) instrumentary
+44132) instrumentalness
+44133) instrumentarium
+44134) Aurélio (+'s - name - Wikipedia)
 ===========
 British English Dictionary (Forked) 2.73
 by Marco A.G.Pinto
