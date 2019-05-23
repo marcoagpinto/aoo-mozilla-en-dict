@@ -52030,6 +52030,68 @@ V2.73 (ongoing)
 44132) instrumentalness
 44133) instrumentarium
 44134) Aurélio (+'s - name - Wikipedia)
+
+21-MAY-2019
+44135) interchain
+44136) intercessional
+44137) interdealer
+44138) interdepend (+s +ing +ed)
+44139) interdentally (merged into interdental)
+44140) pathotoxin
+44141) pathotype
+44142) pathogenically
+44143) pathogenetic
+44144) pathogeny
+44145) pathobiology
+44146) pathobiological
+44147) pathobiologist (+plural +'s)
+44148) pathoanatomical
+44149) pathoanatomic
+44150) pathicism
+44151) pathically
+44152) pathfinding
+44153) patheticness
+44154) pathetism
+44155) patheticly
+44156) pathetical
+44157) patrie
+44158) patriclan
+44159) patricianship
+44160) allegorize (+s +ing +ed +ion -IZE)
+44161) allegorise (+s +ing +ed +ion -ISE)
+44162) annuitization (-IZE)
+44163) annuitisation (-ISE)
+44164) apotheosise (+s +ing +ed -ISE)
+44165) botanize (added +s +ed -IZE)
+44166) botanise (added +s +ed -ISE)
+
+22-MAY-2019
+44167) Speccy (+plural +'s - Wiktionary)
+44168) Spec-chum (+plural +'s - Wiktionary)
+44169) axiomatize (+s +ing +ed +ion -IZE)
+44170) axiomatise (+s +ing +ed +ion -ISE)
+44171) defeminises (merged into defeminise -ISE)
+44172) defeminizes (merged into defeminize -IZE)
+44173) de-industrialization + de-industrialisation (removed because of hyphen)
+44174) womanization
+44175) winterize (+s +ing +ed +ion -IZE)
+44176) upsizes + upsized (merged into upsize)
+44177) uprates (merged into uprate)
+44178) Wolpert (+'s - name - Wikipedia)
+44179) Ebner (+'s - name - Wikipedia)
+44180) Escher (+'s - name - Wikipedia)
+
+23-MAY-2019
+44181) undersized (merged into undersize)
+44182) synergize (added +s +ing +ed -IZE)
+44183) synergise (added +s +ing +ed -ISE)
+44184) dualize (added +s +ing +ed +ion -IZE)
+44185) dualise (added +s +ing +ed +ion -ISE)
+44186) exteriorizes + exteriorizing (merged into exteriorize -IZE)
+44187) exteriorises + exteriorising (merged into exteriorise -ISE)
+44188) formularize (+s +ing +ed -IZE)
+44189) geneticize (added +s +ing +ed -IZE)
+44190) geneticise (added +s +ing +ed -ISE)
 ===========
 British English Dictionary (Forked) 2.73
 by Marco A.G.Pinto
