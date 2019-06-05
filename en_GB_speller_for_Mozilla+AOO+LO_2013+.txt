@@ -52240,6 +52240,95 @@ V2.73
 44330) automatist (added plural +'s)
 44331) autonomist's (added +'s)
 44332) autopen's (added +'s)
+
+
+V2.74 (ongoing)
+2-JUN-2019
+44333) EFTA (+'s - name - Wikipedia)
+44334) EEA (+'s - name - Wikipedia)
+44335) EEC's (added +'s - name - Wikipedia)
+44336) afterward (Collins)
+44337) hagride (+s +ing +er +ers - Collins)
+44338) hagrode (Collins)
+44339) hagridden (Collins)
+44340) breastless (+ness - Wiktionary)
+44341) rickettsiosis
+44342) rickettsemia (added plural +'s - Wiktionary)
+44343) megalocyte (added plural +'s)
+44344) megalocephaly (added plural +'s)
+44345) megalocephalic
+44346) microcephalies
+44347) megalocornea (added plural +'s - Wiktionary)
+44348) megaloblast (added plural +'s +ic)
+44349) megalosphere (added plural +'s - Merriam-Webster)
+44350) kidologist (added plural +'s - Collins)
+44351) kiddoes (another plural of kiddo)
+44352) kideo (added plural +'s)
+
+5-JUN-2019
+44353) pigmy (+'s)
+44354) busway's (added +'s)
+44355) butenes (added plural)
+44356) butterburs (added plural)
+44357) butternut's (added +'s)
+44358) butterwort's (added +'s)
+44359) buttonbush's (added +'s)
+44360) buttoners (added plural)
+44361) buttonhook's (added +'s)
+44362) buttonweed (added plural +'s)
+44363) petabyte's (added +'s)
+44364) bytecode's (added +'s)
+44365) Byzantinist's (added +'s)
+44366) cabaletta's (added +'s)
+44367) cabbalist's (added +'s)
+44368) cabochon (added plural +'s)
+44369) cacciatora
+44370) geobiology
+44371) geobotanic
+44372) CAD's (added +'s)
+44373) caddie's (added +'s)
+44374) cafe's (added +'s)
+44375) cagoule's (added +'s)
+44376) kagoul (added plural +'s)
+44377) caipirinha's (added +'s)
+44378) caiques (added plural +'s)
+44379) cakeholes (added plural +'s)
+44380) caladium's (added +'s)
+44381) calamari's (added +'s)
+44382) calceolaria's (added +'s)
+44383) Calcuttan (added plural +'s)
+44384) calendula's (added +'s)
+44385) caliper's (added +'s)
+44386) call-boy (added plural +'s)
+44387) call-girl's (added +'s)
+44388) verdancy
+44389) verderer (+plural +'s)
+44390) verd-antique
+44391) psychobiologist (added plural +'s)
+44392) psychobiographer (added plural +'s)
+44393) psychobabbler (added plural +'s)
+44394) psychoanalyst's (added +'s)
+44395) psychoacoustician (added plural +'s)
+44396) psychist (added plural +'s)
+44397) psychicist (added plural +'s)
+44398) pseudoscience's (added +'s)
+44399) pseudopod's (added +'s)
+44400) pseudomembrane's (added +'s)
+44401) pseudographer (added plural +'s)
+44402) pseudocyst's (added +'s)
+44403) pseudocone (added plural +'s)
+44404) pseudocolour's (added +'s)
+44405) iguanodon's (added +'s)
+44406) iguanodont
+44407) eyeliner's (added +'s)
+44408) eyeline (added plural +'s)
+44409) eyepatch (added plural +'s)
+44410) discussers (added plural)
+44411) discourager (added plural +'s)
+44412) discoursal
+44413) discographer's (added +'s)
+44414) discerners (added plural)
+44415) dirigible's (added +'s)
 ===========
-British English Dictionary (Forked) 2.73
+British English Dictionary (Forked) 2.74
 by Marco A.G.Pinto
