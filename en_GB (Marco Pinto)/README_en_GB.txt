@@ -116,6 +116,8 @@ to
 		   — Small fixes and enhancements on flags "z" and "O" by Ding-adong.
 2019-04-01 — Improved flag "P" thanks to the GitHub user Ding-adong, giving also -nesses which
 			 increased the wordlist in about 1800 valid words.
+2019-07-01 — Major cleanup of the .dic by removing hundreds of duplicates, merging flags, adding
+             possessives and plurals. 			 
 -------
 
 MARCO A.G.PINTO:
