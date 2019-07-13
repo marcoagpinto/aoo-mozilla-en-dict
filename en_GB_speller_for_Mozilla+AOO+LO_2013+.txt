@@ -53697,6 +53697,70 @@ V2.75 (ongoing)
 45738) physicalist (added plural +'s)
 45739) phylloclade's (added +'s)
 45740) phycologist's (added +'s)
+45741) xylyl (+plural +'s  - Collins)
+45742) saxitoxin (+plural +'s  - Collins)
+45743) lewisite
+45744) sarin
+45745) thiodiglycol (+plural +'s)
+45746) phosgene
+45747) chloropicrin + chlorpicrin (+plural +'s  - Collins)
+45748) Manu (+'s - name - Wikipedia)
+45749) Kautilya (+'s - name - Wikipedia)
+45750) Arthashastra (+'s - name - Wikipedia)
+45751) Mohist + Mehist + Moist (+plural +'s)
+45752) Peloponnesian
+45753) Pleistos (+'s - name - Wikipedia)
+45754) Kirrha (+'s - name - Wikipedia)
+45755) Sassanian (+plural +'s)
+45756) Taino (+plural +'s)
+45757) Hispaniola (+'s - name - Wikipedia)
+45758) Groningen (+'s - name - Wikipedia)
+45759) cacodyl
+45760) Mahan (+'s - name - Wikipedia)
+45761) Estaires (+'s - name - Wikipedia)
+45762) bromoacetate (+plural +'s  - Wiktionary)
+45763) chloroacetone (Wiktionary)
+45764) dianisidine (Merriam-Webster)
+45765) chlorosulfonate (+plural +'s  - Merriam-Webster)
+45766) lachrymatory + lacrimatory (+plural +'s)
+45767) vesicant (+plural +'s)
+45768) adamsite
+45769) diphenylaminechlorarsine (Merriam-Webster)
+45770) diphenylchloroarsine (Merriam-Webster)
+45771) diphenylcyanoarsine (Wiktionary)
+45772) Tukhachevsky (+'s - name - Wikipedia)
+45773) Tambov (+'s - name - Wikipedia)
+45774) Senussi (+plural +'s)
+45775) Abyssinian's (added +'s)
+45776) Graziani (+'s - name - Wikipedia)
+45777) Badoglio (+'s - name - Wikipedia)
+45778) Stoltzenberg (+'s - name - Wikipedia)
+45779) tabun
+45780) soman
+45781) Zyklon
+45782) Bormann (+'s - name - Wikipedia)
+45783) impregnant (+plural +'s - Collins)
+45784) simulant (+plural +'s)
+45785) Mirzayanov (+'s - name - Wikipedia)
+45786) novichok (+plural +'s - Collins)
+45787) halogenous (Wiktionary)
+45788) rodenticide (+plural +'s)
+45789) Shalikashvili (+'s - name - Wikipedia)
+45790) aerosolize (+s +ing +ed -IZE)
+45791) aerosolise (+s +ing +ed -ISE)
+45792) bursters (added plural)
+45793) persistency (+plural +'s)
+45794) non-persistent
+45795) VX (Merriam-Webster)
+45796) cyclosarin (Wiktionary)
+45797) miosis + myosis
+45798) miotic
+45799) haemolysis
+45800) oxime (+plural +'s)
+45801) mydriasis
+45802) abrin
+45803) quinuclidinyl benzilate
+45804) psychochemical
 ===========
 British English Dictionary (Forked) 2.75
 by Marco A.G.Pinto
