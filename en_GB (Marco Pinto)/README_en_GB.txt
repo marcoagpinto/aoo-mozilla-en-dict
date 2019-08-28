@@ -12,7 +12,7 @@ Andrew Brown and Marco A.G.Pinto:
  — Thousands of proper/places names have been added;
  — Thousands of possessives have been added;
  — Thousands of plurals have been added;
- — Over a thousand duplicates have been removed.
+ — Over two thousand duplicates have been removed.
 
 Valuable inputs to this process were received from many other
 people — far too numerous to name. Serious thanks to all for
@@ -122,9 +122,12 @@ to
 2019-08-01 — Major cleanup of the .dic by removing hundreds of duplicates, merging flags, adding
 			 possessives and plurals.
 		   — Improved flags: "i", "n", "N", "O", "W", "Z" and "2":
-			  — Flag "2" increased the wordlist in ~400 valid words.
-			  — Flag "i" increased the wordlist in ~200 valid words.
+			  — Flag "2" increased the wordlist in ~400 valid words;
+			  — Flag "i" increased the wordlist in ~200 valid words;
 			  — Flag "n" increased the wordlist in ~1000 valid words.
+2019-09-01 — Major cleanup of the .dic by removing hundreds of duplicates, merging flags, adding
+			 possessives and plurals.
+		   — Improved flags: "O", "W", "Z" and "3".
 -------
 
 MARCO A.G.PINTO:
