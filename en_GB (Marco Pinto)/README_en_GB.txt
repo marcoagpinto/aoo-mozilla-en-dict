@@ -128,6 +128,9 @@ to
 2019-09-01 — Major cleanup of the .dic by removing hundreds of duplicates, merging flags, adding
 			 possessives and plurals.
 		   — Improved flags: "O", "W", "Z" and "3".
+2019-10-01 — Major cleanup of the .dic by removing hundreds of duplicates, merging flags, adding
+			 possessives and plurals.
+		   — Improved flags: "O".
 -------
 
 MARCO A.G.PINTO:

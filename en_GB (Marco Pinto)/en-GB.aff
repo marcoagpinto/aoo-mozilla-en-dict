@@ -15,7 +15,7 @@
 #   3) Plurals.
 #
 # David Bartlett, Andrew Brown, Marco A.G.Pinto.
-# V 2.76, 2019-09-01
+# V 2.77, 2019-10-01
 
 SET UTF-8
 
@@ -1216,7 +1216,7 @@ SFX y 0 ry [^i]on
 SFX y 0 nery [aiu]n 
 SFX y 0 ry [^aiou]n 
 SFX y 0 ry [^ehmstn] 
-SFX O Y 19
+SFX O Y 20
 SFX O 0 al ch[ei]
 SFX O 0 al te
 SFX O 0 al [eiru][bn]
@@ -1231,6 +1231,7 @@ SFX O 0 al [cos]t
 SFX O 0 ial eon
 SFX O 0 al [cdghmwx]
 SFX O 0 ial r
+SFX O e ial [ai]ge
 SFX O 0 tal ut
 SFX O e inal ude
 SFX O e al [mnrsv]e
