@@ -57378,6 +57378,146 @@ V2.77
 49236) contraflow's (added +'s)
 49237) carbonations (added plural)
 49238) candytuft's (added +'s)
+
+
+V2.78 (ongoing)
+2-OCT-2019
+49239) invitee's (added +'s)
+49240) inviters (added plural)
+49241) involvers (added plural)
+49242) Ionians (added plural)
+49243) rulebook's (added +'s)
+49244) Rumanians (added plural)
+49245) rummagers (added plural)
+49246) runaway's (added +'s)
+49247) rustications (added plural)
+49248) rustproof (verb, added: +s)
+49249) Ruthenian's (added +'s)
+49250) Rwandan's (added +'s)
+49251) résumé's (added +'s)
+49252) sabbatarian's (added +'s)
+49253) sabbatical's (added +'s)
+49254) sabermetricians (added plural)
+49255) sabra's (added +'s)
+49256) saccharide's (added +'s)
+49257) saccule's (added +'s)
+49258) sachem's (added +'s)
+49259) sachemic
+49260) sacker (added plural +'s)
+49261) sackbut's (added +'s)
+49262) sackful's (added +'s)
+49263) saddlery's (added +'s)
+49264) sadguru's (added +'s)
+49265) sailboarder's (added +'s)
+49266) sailborders + sailborder's (removed, it is sailboarder)
+49267) sailmaker's (added +'s)
+49268) sailplane's (added +'s)
+49269) sake's (added +'s)
+49270) sakers (added plural)
+49271) Saivite's (added +'s)
+49272) saki (added singular + plural)
+49273) saleslady's (added +'s)
+49274) salesclerk (it is US, removed. In GB it is shop assistant)
+49275) salicylate's (added +'s)
+49276) salpingectomy's (added +'s)
+49277) saltation's (added +'s)
+49278) saluters (added plural)
+49279) Salvadoran's (added +'s)
+49280) salvationist (added plural +'s)
+49281) Salvationist's (added +'s)
+49282) Samoan's (added +'s)
+49283) samosa's (added +'s)
+49284) sanctifiers (added plural)
+49285) sandbagger's (added +'s)
+49286) sandbar's (added +'s)
+49287) sandcastle's (added +'s)
+49288) sander's (added +'s)
+49289) sandhill's (added +'s)
+49290) Sandinista's (added +'s)
+49291) santolina's (added +'s)
+49292) megadiverse (Wiktionary)
+49293) Achaemenid (+plural +'s)
+49294) Rigveda (+'s - name - Wikipedia)
+49295) Sahibdin (+'s - name - Wikipedia)
+49296) Ashoka (+'s - name - Wikipedia)
+49297) mahajanapada (+plural +'s - Wiktionary)
+49298) Mauryan (+plural +'s)
+49299) dhamma (+plural +'s - Wiktionary)
+49300) sangam
+49301) Akbar (+'s - name - Wikipedia)
+49302) mohur (+plural +'s)
+49303) Dalhousie (+'s - name - Wikipedia)
+49304) Naxalite (+plural +'s)
+49305) Jammu (+'s - name - Wikipedia)
+49306) seafloor
+49307) katabatic
+49308) rumped
+49309) Puducherry (+'s - name - Wikipedia)
+49310) Jawaharlal (+'s - name - Wikipedia)
+49311) former's (added +'s)
+49312) Junagadh (+'s - name - Wikipedia)
+49313) sugarcane (Collins)
+49314) Kolkata (+'s - name - Wikipedia)
+49315) Ahmedabad (+'s - name - Wikipedia)
+49316) Bihar (+'s - name - Wikipedia)
+49317) Sutras (added +'s)
+49318) sutra (+plural +'s - lowercase added)
+49319) Taj
+49320) Mahal (+'s - name - Wikipedia)
+49321) tamasha (+plural +'s)
+49322) Bhojpuri (+'s - name - Wikipedia)
+49323) Odia (+'s - name - Wikipedia)
+49324) chaddar (+plural +'s)
+49325) pagri (+plural +'s)
+49326) unstitch (+s +ing +ed)
+49327) kurta (+plural +'s)
+49328) thali (+plural +'s)
+49329) tandoor (+plural +'s)
+49330) sourdough (+plural +'s)
+49331) Upanishadic (Collins)
+49332) éclats (added plural)
+
+4-OCT-2019
+49333) Eyck (+'s - name - Wikipedia)
+49334) Rishel (+'s - name - Wikipedia)
+49335) Borchert (+'s - name - Wikipedia)
+49336) Albergati (+'s - name - Wikipedia)
+49337) branchiopod (+plural +'s)
+49338) periostracum (+'s)
+49339) periostraca (plural of previous word)
+49340) Neogene
+49341) Scaphopoda
+49342) scaphopod (+plural +'s)
+49343) orthocone (+plural +'s +ic)
+49344) underdrawing (+plural +'s)
+49345) Panofsky (+'s - name - Wikipedia)
+49346) viridian
+49347) marbleized (-ize)
+49348) marbleised (-ise)
+49349) illuminator (+plural +'s)
+49350) resinate (+s +ing +ed +'s)
+49351) Friedländer (+'s - name - Wikipedia)
+49352) resiner (+plural +'s)
+49353) resinic
+49354) resiniferous
+49355) Moissan (+'s - name - Wikipedia)
+49356) gigapascal (+plural +'s - Wiktionary)
+49357) Bridgman (+'s - name - Wikipedia)
+49358) catlinite
+49359) pyrophyllite (+plural +'s)
+49360) GPa (Wiktionary)
+49361) kPa (Wiktionary)
+49362) nanocrystals (added plural)
+49363) hyperdiamond (+plural +'s - Wiktionary)
+49364) gyrotron (+plural +'s - Wiktionary)
+49365) bandgap (+plural +'s - Wiktionary)
+49366) moissanite
+49367) labyrinthian
+49368) labyrinthal
+49369) labyrinthial
+49370) labyrinthic
+49371) labyrinthical
+49372) labyrinthitis
 ===========
-British English Dictionary (Forked) 2.77
+British English Dictionary (Forked) 2.78
 by Marco A.G.Pinto
