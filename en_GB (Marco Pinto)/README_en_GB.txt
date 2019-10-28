@@ -131,6 +131,8 @@ to
 2019-10-01 — Major cleanup of the .dic by removing hundreds of duplicates, merging flags, adding
 			 possessives and plurals.
 		   — Improved flags: "O".
+2019-11-01 — Added hundreds of possessives and plurals.
+		   — Improved flags: "O".
 -------
 
 MARCO A.G.PINTO:
