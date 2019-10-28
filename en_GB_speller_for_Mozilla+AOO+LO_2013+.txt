@@ -57380,7 +57380,7 @@ V2.77
 49238) candytuft's (added +'s)
 
 
-V2.78 (ongoing)
+V2.78
 2-OCT-2019
 49239) invitee's (added +'s)
 49240) inviters (added plural)
