@@ -58373,7 +58373,7 @@ V2.78
 50209) duologues (added plural)
 
 
-V2.79 (ongoing)
+V2.79
 5-NOV-2019
 50210) pedesis
 50211) accomplicity
@@ -59370,6 +59370,247 @@ V2.79 (ongoing)
 51274) dragonet's (added +'s)
 51275) draincock (added plural +'s)
 51276) draisine (added plural +'s)
+
+24-NOV-2019
+51277) dramaturg's (added +'s)
+51278) dramaturge's (added +'s)
+51279) dramaturgist's (added +'s)
+51280) draughtproof (verb, added +s +ed)
+51281) drawdown's (added +'s)
+51282) dreadlocked
+51283) dream-world (removed the hyphen: Oxford + Wiktionary)
+51284) dreamscape's (added +'s)
+51285) drive-in (added singular + 's)
+51286) driveline's (added +'s)
+51287) driveshaft's (added +'s)
+51288) drivetrain's (added +'s)
+51289) droller (added plural +'s)
+51290) dromaeosaur's (added +'s)
+51291) dromaeosaurid's (added +'s)
+51292) dromond's (added +'s)
+51293) drongo's (added +'s)
+51294) drop-kick (verb, added +ing +ed)
+51295) dropout's (added +'s)
+51296) dropside's (added +'s)
+51297) dropworts (added plural)
+51298) droseras (added plural)
+51299) drosophilas (added plural)
+51300) drosophilists (added plural)
+51301) drugget (added plural +'s)
+51302) drugsters (added plural)
+51303) drupels (added plural)
+51304) duchesses (added plural)
+51305) duckpond (added plural +'s)
+51306) duckpin (added singular +'s)
+51307) duckwalk (verb, added +s +ing, noun, added +'s)
+51308) duffels (added plural)
+51309) dwellings (added plural)
+51310) dynamometers (added plural)
+51311) dynorphin (added plural +'s)
+51312) décolleté (added plural +'s)
+51313) décolletée (added plural +'s)
+51314) déshabillé (added singular +'s)
+51315) earbash (verb, added +s +ed)
+
+25-NOV-2019
+51316) early's (added +'s)
+51317) earmark's (added +'s)
+51318) earthnut (added plural +'s)
+51319) earthscape (added plural +'s)
+51320) earthstar (added plural +'s)
+51321) easterly's (added +'s)
+51322) eatable's (added +'s)
+51323) echidna's (added +'s)
+51324) echiuran's (added +'s)
+51325) echiurid's (added +'s)
+51326) echiuroid's (added +'s)
+51327) echocardiogram's (added +'s)
+51328) echogram's (added +'s)
+51329) echographs (added plural)
+51330) eco-tax's (added +'s)
+51331) eco-warrior's (added +'s)
+51332) ecocentrist's (added +'s)
+51333) ecofact (added plural +'s)
+51334) ecofeminist's (added +'s)
+51335) ecofreak's (added +'s)
+51336) ecolodge's (added +'s)
+51337) econometrician (added singular +'s)
+51338) ecospheres (added plural)
+51339) ecoterrorist's (added +'s)
+51340) ecotone's (added +'s)
+51341) ecotour (verb, added +ing +ed, noun, added +'s)
+51342) ecotown's (added +'s)
+51343) ecotoxicologists (added plural)
+51344) ectomorph's (added +'s)
+51345) ectoparasite's (added +'s)
+51346) ectopic (added plural +'s +ally)
+51347) ectoplasmic
+51348) ectotherm's (added +'s)
+51349) ecu's (added +'s)
+51350) Ecuadorean's (added +'s)
+51351) Ecuadorian (added plural +'s)
+51352) Ecuadoran (added plural +'s)
+51353) edible's (added +'s)
+51354) effacers (added plural)
+51355) electioneer's (added +'s)
+51356) electresses (added plural)
+51357) embrittlement (+plural +'s)
+51358) embrittle (verb, added +s +ing +ed)
+
+26-NOV-2019
+51359) cyberinfrastructure (+plural +'s - Wiktionary)
+51360) cyberintruder (+plural +'s - Wiktionary)
+51361) cyberjournal (+plural +'s - Wiktionary)
+51362) cyberkid (+plural +'s - Wiktionary)
+51363) cyberlawyer (+plural +'s - Wiktionary)
+51364) cybermessage (+plural +'s - Wiktionary)
+51365) cybernetwork (+plural +'s - Wiktionary)
+51366) cybernerd (+plural +'s - Wiktionary)
+51367) cyberperson (+plural +'s - Wiktionary)
+51368) cyberpeople (+'s - Wiktionary)
+51369) cyberphilosopher (+plural +'s - Wiktionary)
+51370) cyberpessimist (+plural +'s - Wiktionary)
+51371) cyberpark (+plural +'s - Wiktionary)
+51372) cyberpartner (+plural +'s - Wiktionary)
+51373) cyberpirate (+plural +'s - Wiktionary)
+51374) cyberpoet (+plural +'s - Wiktionary)
+51375) cyberpoem (+plural +'s - Wiktionary)
+51376) cyberpsychological
+51377) cyberpsychologist (+plural +'s - Wiktionary)
+51378) cyberpioneer (+plural +'s - Wiktionary)
+51379) cyberpayment (+plural +'s - Wiktionary)
+51380) cyberpatient (+plural +'s - Wiktionary)
+51381) cyberperformer (+plural +'s - Wiktionary)
+51382) cyberpessimism
+51383) cyberrights
+51384) cybersaboteur (+plural +'s - Wiktionary)
+51385) cyberscum
+51386) cybersexism
+51387) cybersexual
+51388) cybersexuality (+plural +'s - Wiktionary)
+51389) cybersexy
+51390) cyberself (+plural +'s - Wiktionary)
+51391) cybershopper (+plural +'s - Wiktionary)
+51392) cyberslang
+51393) cyberspatial
+51394) cyberstrategy (+plural +'s - Wiktionary)
+51395) cyberstranger (+plural +'s - Wiktionary)
+51396) cyberstore (+plural +'s - Wiktionary)
+51397) cybersoul (+plural +'s - Wiktionary)
+51398) cyberstudies
+51399) cyberskills
+51400) cybersickness
+51401) cyberscholarship
+51402) cyberscape (+plural +'s - Wiktionary)
+51403) cyberprotest (+plural +'s +er +ers +er's - Wiktionary)
+51404) cyberprodigy (+plural +'s - Wiktionary)
+51405) cyberpolitical
+51406) cyberpolitics
+51407) cyberplagiarism
+51408) cyberpop
+51409) cyberpiracy
+51410) cyberphysical
+51411) cyberperformance (+plural +'s - Wiktionary)
+51412) cybernews
+51413) cyberoperation (+plural +'s - Wiktionary)
+51414) cyberoptimist (+plural +'s - Wiktionary)
+51415) cyberoptimism
+51416) cybername (+plural +'s - Wiktionary)
+51417) cybernarrative (+plural +'s - Wiktionary)
+51418) cybernationalism
+51419) cybernationalist (+plural +'s - Wiktionary)
+51420) cybernavigation
+51421) cybermoney
+51422) cybermedia
+51423) cybermania
+51424) cyberlove (+er +ers +er's - Wiktionary)
+51425) cyberloser (+plural +'s - Wiktionary)
+51426) cybermuseum (+plural +'s - Wiktionary)
+51427) cybermedicine
+51428) cybermarketing
+51429) cybermarriage (+plural +'s - Wiktionary)
+51430) cybermarketplace (+plural +'s - Wiktionary)
+51431) cybermap (+plural +'s - Wiktionary)
+51432) cyberlegal
+51433) cyberlearning
+51434) cyberlaundering
+51435) cyberlibertarianism
+51436) cyberlingo
+51437) cyberloafing
+51438) cyberlocker (+plural +'s - Wiktionary)
+51439) cyberliterate
+51440) cyberliterature
+51441) cyberliterary
+51442) cyberliteracy (+plural +'s - Wiktionary)
+51443) cyberlanguage
+51444) cyberjustice
+51445) cyberjournalism
+51446) cyberissues
+51447) cyberinformation
+51448) cyberimmortality
+51449) cyberimperialism
+51450) cyberism
+51451) cyberintelligence
+51452) cyberjargon
+51453) cyberjunk
+51454) cyberjunkie (+plural +'s - Wiktionary)
+51455) cyberindustry (+plural +'s - Wiktionary)
+51456) cyberintrusion (+plural +'s - Wiktionary)
+51457) cyberinteraction (+plural +'s - Wiktionary)
+51458) jujutsu (added singular)
+51459) ju-jitsu + jiu-jitsu + ju-jutsu (+'s)
+51460) kempo (Wiktionary)
+51461) infixation (added plural +'s)
+51462) infirmarer (added plural +'s)
+51463) incircle (added plural +'s)
+51464) briars (added plural)
+51465) bressummer (added plural +'s)
+51466) barbitals (added plural)
+51467) baitfish (added plural +'s)
+51468) autochrome's (added +'s)
+51469) autobio (added plural +'s)
+51470) authoress's (added +'s)
+51471) auteurist (added plural +'s)
+51472) asphyxiations (added plural)
+51473) arsewipe (added plural +'s)
+51474) aromantic's (added +'s)
+51475) argy-bargy's (added +'s)
+51476) arcology's (added +'s)
+51477) arctangent (added plural +'s)
+51478) arcsine (added plural +'s)
+51479) arcsins (added plural)
+51480) archiepiscopacy's (added +'s)
+51481) archdukedom (added plural +'s)
+51482) archdeaconry's (added +'s)
+51483) arccosine (added plural +'s)
+51484) arbovirus's (added +'s)
+51485) arborvirus (added plural +'s)
+51486) aralia's (added +'s)
+51487) arable's (added +'s)
+51488) applistructure's (added +'s)
+51489) appendicectomy (added plural +'s)
+51490) appaloosa's (added +'s)
+51491) apostolate's (added +'s)
+51492) apoprotein's (added +'s)
+51493) apollo's (added +'s)
+51494) shitter's (added +'s)
+51495) shofar's (added +'s)
+51496) shilly-shallyer (added plural +'s)
+51497) shinty's (added +'s)
+51498) shopaholic's (added +'s)
+51499) shopfitter's (added +'s)
+51500) shopfront's (added +'s)
+51501) shophouse's (added +'s)
+51502) shopman's (added +'s)
+51503) shopmen's (added +'s)
+51504) shopwalker's (added +'s)
+51505) shorelark's (added +'s)
+51506) short-circuit (verb, added +s +ing +ed)
+51507) shorthair's (added +'s)
+51508) shortlistee's (added +'s)
+51509) shortie (+plural +'s)
+51510) pyrotechnically
+51511) xenobiotic's (added +'s)
 ===========
 British English Dictionary (Forked) 2.79
 by Marco A.G.Pinto
