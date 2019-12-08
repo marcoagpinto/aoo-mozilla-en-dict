@@ -38,7 +38,7 @@ I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on
 
 #### Suggesting words:
 
-(First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there, check <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> at the top of this page).  
+(First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there, check <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> topping this page).  
 If <B>NOT</B> found:
 * Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words.
   
