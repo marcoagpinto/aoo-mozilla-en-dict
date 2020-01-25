@@ -15,7 +15,7 @@
 #   3) Plurals.
 #
 # David Bartlett, Andrew Brown, Marco A.G.Pinto.
-# V 2.80, 2020-01-01
+# V 2.81, 2020-02-01
 
 SET UTF-8
 
@@ -1216,7 +1216,7 @@ SFX y 0 ry [^i]on
 SFX y 0 nery [aiu]n 
 SFX y 0 ry [^aiou]n 
 SFX y 0 ry [^ehmstn] 
-SFX O Y 21
+SFX O Y 22
 SFX O 0 al ch[ei]
 SFX O 0 al te
 SFX O 0 al [eiru][bn]
@@ -1237,6 +1237,7 @@ SFX O 0 tal ut
 SFX O e inal ude
 SFX O e al [mnrsv]e
 SFX O e al [aioy][dp]e
+SFX O e al uge
 SFX O y ial y
 SFX o Y 12
 SFX o 0 lly a 
@@ -1251,7 +1252,7 @@ SFX o 0 ually [px]t
 SFX o 0 tally [iu]t 
 SFX o 0 ally [^ipux]t 
 SFX o 0 ally [^aebcrtxmy] 
-SFX W Y 24
+SFX W Y 25
 SFX W ce tific ce 
 SFX W e atic me 
 SFX W se tic se 
@@ -1263,7 +1264,7 @@ SFX W 0 ic [x][ay]l
 SFX W 0 ic [^ay]l 
 SFX W us ic us 
 SFX W 0 tic [^u]s 
-SFX W er ric er 
+SFX W er ric [^hm]er 
 SFX W 0 ic [^e]r 
 SFX W 0 atic [aeiou]m 
 SFX W 0 ic [^aeiou]m 
@@ -1275,7 +1276,8 @@ SFX W y ic [^t]hy
 SFX W y tic sy 
 SFX W y ic [^hs]y 
 SFX W 0 ic [^aeilmrsy] 
-SFX W 0 c gi 
+SFX W 0 ic [hm]er 
+SFX W 0 c [glms]i 
 SFX w Y 9
 SFX w e ical e 
 SFX w er rical er 
