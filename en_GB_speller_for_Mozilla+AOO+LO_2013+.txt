@@ -60744,7 +60744,7 @@ Today's words were suggested by Cyberknight.
 51710) thyroidectomy's (added +'s)
 
 
-V2.81 (ongoing)
+V2.81
 1-JAN-2020
 51711) Giroux (+'s - name - Wikipedia)
 51712) glasnost (added plural +'s)
@@ -61846,13 +61846,46 @@ Words suggested by Peter C:
 53778) accidentalists (added plural)
 53779) acclaimers (added plural)
 53780) accompaniers (added plural)
-53781) accusal (added plural)
+53781) accusals (added plural)
 53782) accusative's (added +'s)
 53783) acetaldehyde (added plural +'s)
 53784) acetaminophen's (added +'s)
 53785) acetanilide (added plural +'s)
 53786) acetazolamide's (added +'s)
 53787) acetobacter (added plural +'s)
+
+25-JAN-2020
+53788) acetyl (added plural +'s)
+53789) acetylcholine (added plural +'s)
+53790) acetylcholinesterase (added plural +'s)
+53791) achiever's (added +'s)
+53792) achondroplasia (added plural +'s)
+53793) achondroplasic (added plural +'s)
+53794) acidanthera (added plural +'s)
+53795) acidifications (added plural)
+53796) acidophil's (added +'s)
+53797) acidophile (added singular +'s)
+53798) acidoses's (added +'s)
+53799) acidotically (Wiktionary)
+53800) acidulously (Wiktionary)
+53801) aconitine (added plural +'s)
+53802) aconitum (added plural +'s)
+53803) acquittances (added plural)
+53804) acquitters (added plural)
+53805) acridine (added plural +'s)
+53806) acrobacy (added plural +'s)
+53807) acroblast (added plural +'s)
+53808) acrosin's (added +'s)
+53809) acrylamide (added plural +'s)
+53810) acrylates (added plural)
+53811) acrylic's (added +'s)
+53812) actant's (added +'s)
+53813) actin (added plural +'s)
+53814) actinopterygian (added plural +'s)
+53815) acupressure's (added +'s)
+53816) acyclovirs (removed plural, usually uncountable, and added 's)
+53817) acyl (added plural +'s)
+53818) adamant's (added +'s)
 ===========
 British English Dictionary (Forked) 2.81
 by Marco A.G.Pinto
