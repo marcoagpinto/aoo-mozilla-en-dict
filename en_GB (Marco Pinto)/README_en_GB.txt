@@ -12,7 +12,7 @@ Andrew Brown and Marco A.G.Pinto:
  — Thousands of proper/places names have been added;
  — Thousands of possessives have been added;
  — Thousands of plurals have been added;
- — Over two thousand duplicates have been removed.
+ — Thousands of duplicates have been removed.
 
 Valuable inputs to this process were received from many other
 people — far too numerous to name. Serious thanks to all for
@@ -127,7 +127,7 @@ to
 			  — Flag "n" increased the wordlist in ~1000 valid words.
 2019-11-01
 to
-2020-02-01 — Added thousands of possessives and plurals.
+2020-03-01 — Added thousands of possessives and plurals.
 		   — Improved flags: "O", "W".
 -------
 

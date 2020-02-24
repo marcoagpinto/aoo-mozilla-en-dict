@@ -1,4 +1,4 @@
-# Affix file for British English MySpell dictionary.
+﻿# Affix file for British English MySpell dictionary.
 # Also suitable as basis for Commonwealth and European English.
 # Built from scratch for MySpell. Released under LGPL.
 #
@@ -15,7 +15,7 @@
 #   3) Plurals.
 #
 # David Bartlett, Andrew Brown, Marco A.G.Pinto.
-# V 2.81, 2020-02-01
+# V 2.82, 2020-03-01
 
 SET UTF-8
 
@@ -1277,7 +1277,7 @@ SFX W y tic sy
 SFX W y ic [^hs]y 
 SFX W 0 ic [^aeilmrsy] 
 SFX W 0 ic [hm]er 
-SFX W 0 c [glms]i 
+SFX W 0 c [dglmsz]i 
 SFX w Y 9
 SFX w e ical e 
 SFX w er rical er 
