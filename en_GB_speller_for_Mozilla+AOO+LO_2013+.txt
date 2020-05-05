@@ -66898,6 +66898,129 @@ V2.85 (ongoing)
 50705) Confucian's (added +'s)
 50706) Confucianism (added plural +'s)
 50707) Congolese's (added +'s)
+
+4-MAY-2020
+GREEK LETTERS *START*
+50708) Γ
+50709) Δ
+50710) Θ
+50711) Λ
+50712) Ξ
+50713) Π
+50714) Σ
+50715) Φ
+50716) Ψ
+50717) Ω
+50718) α
+50719) β
+50720) γ
+50721) δ
+50722) ε
+50723) ζ
+50724) η
+50725) θ
+50726) ι
+50727) κ
+50728) λ
+50729) μ
+50730) ν
+50731) ξ
+50732) ο
+50733) π
+50734) ρ
+50735) σ
+50736) τ
+50737) υ
+50738) φ
+50739) χ
+50740) ψ
+50741) ω
+GREEK LETTERS *END*
+50742) tarantass (added plural +'s)
+50743) tarantism's (added +'s)
+50744) tarbrush (added plural +'s)
+50745) tarmac's (added +'s)
+50746) tarsal (added plural +'s)
+50747) tarsi's (added +'s)
+50748) tarsometatarsi's (added +'s)
+50749) tarsometatarsus's (added +'s)
+50750) tartanry's (added +'s)
+50751) Tartarean (added plural +'s)
+50752) taser's (added +'s)
+50753) tasseography's (added +'s)
+
+5-MAY-2020
+50754) tasting's (added +'s)
+50755) taus (added plural)
+50756) taunt's (added +'s)
+50757) taupes (added plural)
+50758) Taureans (added plural)
+50759) taverna's (added +'s)
+50760) tech's (added +'s)
+50761) technê's (added +'s)
+50762) techné's (added +'s)
+50763) technologism's (added +'s)
+50764) technomania's (added +'s)
+50765) technophobia (added plural +'s)
+50766) techspeak's (added +'s)
+50767) tectonophysics's (added +'s)
+50768) teenage's (added +'s)
+50769) teenybop's (added +'s)
+50770) teeter's (added +'s)
+50771) teetotal (added plural +'s)
+50772) tefillin's (added +'s)
+50773) TEFL's (added +'s)
+50774) tegmentum's (added +'s)
+50775) tegument (added plural +'s)
+50776) telefacsimile (added plural +'s)
+50777) telegraphese's (added +'s)
+50778) telencephalon's (added +'s)
+50779) teleologism (added plural +'s)
+50780) telepath's (added +'s)
+50781) telephotography's (added +'s)
+50782) teleplay's (added +'s)
+50783) teleport's (added +'s)
+50784) telepresence's (added +'s)
+50785) Teleprompter + TelePrompTers (removed)
+50786) telerecording's (added +'s)
+50787) telesales's (added +'s)
+50788) telescreen (added plural +'s)
+50789) teletalkie's (added +'s)
+50790) teleteaching's (added +'s)
+50791) teletext's (added +'s)
+50792) teletheatre's (added +'s)
+50793) teletherapy (added plural +'s)
+50794) telethermometer (added plural +'s)
+50795) telethermometry's (added +'s)
+50796) teletraffic's (added +'s)
+50797) televangelisms (removed plural and added +'s)
+50798) televangelist's (added +'s)
+50799) televiewer's (added +'s)
+50800) televisionary's (added +'s)
+50801) telithromycin's (added +'s)
+50802) temazepams (added plural)
+50803) tempi's (added +'s)
+50804) tenantry (added plural +'s)
+50805) tendinopathy (added plural +'s)
+50806) tendinosis's (added +'s)
+50807) tendonopathy (deleted: misspelling of tendinopathy)
+50808) tenebrionid (added plural +'s)
+50809) tenebrism's (added +'s)
+50810) tenebrosity's (added +'s)
+50811) tenesmus (added plural +'s)
+50812) tenner (added plural +'s)
+50813) Tennessees (added plural)
+50814) tenotomy (added plural +'s)
+50815) tensiometer (added plural +'s)
+50816) tephrite (added plural +'s)
+50817) tepidaria's (added +'s)
+50818) tepidarium's (added +'s)
+50819) terapixel's (added +'s)
+50820) teratogen's (added +'s)
+50821) teratogenicity (added plural +'s)
+50822) teratologically (Wiktionary)
+50823) tercels (added plural)
+50824) thwarters (added plural)
 ===========
 British English Dictionary (Forked) 2.85
 by Marco A.G.Pinto
