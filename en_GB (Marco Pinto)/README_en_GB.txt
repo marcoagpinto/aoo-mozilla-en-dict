@@ -127,7 +127,7 @@ to
 			  — Flag "n" increased the wordlist in ~1000 valid words.
 2019-11-01
 to
-2020-07-01 — Added thousands of possessives and plurals.
+2020-08-01 — Added thousands of possessives and plurals.
 		   — Improved flags: "3", "N", "O", "W".
 -------
 
