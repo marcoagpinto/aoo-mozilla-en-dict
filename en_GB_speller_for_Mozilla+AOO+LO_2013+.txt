@@ -69542,7 +69542,7 @@ V2.86
 61379) phagocytose (verb, added +s +ing)
 61380) phagocytosis's (added +'s)
 
-V2.87 (ongoing)
+V2.87
 5-JUL-2020
 61381) Ruez (+'s - name - Wikipedia)
 61382) Monthan (+'s - name - Wikipedia)
@@ -69886,6 +69886,142 @@ V2.87 (ongoing)
 61698) X-rayed
 61699) X-raying
 61700) X-rayings
+
+23-JUL-2020
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+61701) D-Day
+61702) English-born
+61703) English-speakers
+61704) Franco-German
+61705) Gallo-Roman
+61706) Gallo-Romans
+61707) Italian-speaker
+61708) Italian-speakers
+61709) Italian-speaking
+61710) Marxism-Leninism
+61711) Marxist-Leninist
+61712) Marxist-Leninists
+61713) Saint-Simon
+61714) Saint-Simonian
+61715) Saint-Simonianism
+61716) Saint-Simonians
+61717) Saint-Simonism
+61718) U-boat
+61719) U-boats
+61720) Judaeo-German
+61721) L-plate
+61722) L-plates
+61723) Pre-Raphaelism
+61724) Pre-Raphaelite
+61725) Pre-Raphaelites
+61726) Pre-Raphaelitism
+61727) Q-boat
+61728) Q-boats
+61729) Q-ship
+61730) Q-ships
+61731) T-shaped
+
+25-JUL-2020
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+61732) debag
+61733) debagged
+61734) debagging
+61735) debaggings
+61736) debags
+61737) debus
+61738) debussed
+61739) debusses
+61740) debussing
+61741) debussings
+61742) decastyle
+61743) decastyles
+61744) decedent
+61745) decedents
+61746) deceivable
+61747) decelerometer
+61748) decelerometers
+61749) decennia
+61750) decennium
+61751) decenniums
+61752) decollate
+61753) decollated
+61754) decollates
+61755) decollating
+61756) decollatings
+61757) decollation
+61758) decollations
+61759) decolourisation
+61760) decolourisations
+61761) decolourise
+61762) decolourised
+61763) decolourises
+61764) decolourising
+61765) decolourisings
+61766) decolourization
+61767) decolourizations
+61768) decolourize
+61769) decolourized
+61770) decolourizes
+61771) decolourizing
+61772) decolourizings
+61773) deflationist
+61774) deflationists
+61775) dekko
+61776) dekkos
+61777) delegacies
+61778) delegacy
+61779) deltiologist
+61780) deltiologists
+61781) Thomaz (+'s - name - Wikipedia)
+
+26-JUL-2020
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+61782) AB
+61783) ABM
+61784) ABMs
+61785) ABs
+61786) Algonkian
+61787) Algonkians
+61788) Algonquians
+61789) Australianism
+61790) Australianisms
+61791) Barbadian
+61792) Barbadians
+61793) Barmecide
+61794) Barmecides
+61795) Belorussian
+61796) Belorussians
+61797) Benthamite
+61798) Benthamites
+61799) Benzedrine
+61800) Benzedrines
+61801) Bermudian
+61802) Bermudians
+61803) Bildungsroman
+61804) Bildungsromans
+61805) Bohemian
+61806) Bohemians
+61807) Britishism
+61808) Britishisms
+61809) Brummie
+61810) Brummies
+61811) Byelorussian
+61812) Byelorussians
+61813) Cantabrigian
+61814) Cantabrigians
+61815) Capsian
+61816) Capsians
+61817) Carlovingian
+61818) Carlovingians
+61819) Carmelite
+61820) Carmelites
+61821) Castroism
+61822) Castroist
+61823) Castroists
+61824) Cavalier
+61825) Cavaliers
+61826) Deuteronomist
+61827) Deuteronomists
 =======
 British English Dictionary (Forked) 2.87
 by Marco A.G.Pinto
