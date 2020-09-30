@@ -70648,6 +70648,432 @@ V2.88
 61618) sexfoil (added plural +'s)
 61619) sexine (added plural +'s)
 61620) Udemy (+'s - name - Wikipedia)
+
+
+V2.89
+10-SEP-2020
+61621) sextodecimo's (added +'s)
+61622) sextuple (added plural +'s)
+61623) sexvirate (added plural +'s)
+61624) sforzandi's (added +'s)
+61625) sforzando's (added +'s)
+61626) SHA's (added +'s)
+61627) shacklers (added plural)
+61628) shaddock (added plural +'s)
+61629) shadoof (added plural +'s)
+61630) shadow-boxing's (added +'s)
+61631) Shaivism's (added +'s)
+61632) shake-out (added plural +'s)
+61633) shake-up (added plural +'s)
+61634) Shaktism's (added +'s)
+61635) shales (added plural)
+61636) shalwar (added plural +'s)
+61637) shamanism (added plural +'s)
+61638) shammer (added plural +'s)
+61639) shammy (added singular + plural)
+61640) share-out (added plural +'s)
+61641) sharia's (added +'s)
+61642) shariah's (added +'s)
+61643) shariat's (added +'s)
+61644) sharkskins (added plural)
+61645) Shavian (added plural +'s)
+61646) shchi's (added +'s)
+61647) sheepfolds (added plural)
+61648) shewbread (added plural +'s)
+61649) shiatsu's (added +'s)
+61650) shigella's (added +'s)
+61651) shigellae's (added +'s)
+61652) shiitake (added plural +'s)
+61653) shin-guard (removed: several dictionaries show no hyphen)
+61654) Shintoism (removed plural and added +'s)
+
+14-SEP-2020
+61655) ship-fever's (added +'s)
+61656) shipbuilding's (added +'s)
+61657) shipman (+'s)
+61658) shirt-tail's (added +'s)
+61659) shiur's (added +'s)
+61660) shiurim's (added +'s)
+61661) shiva (added plural +'s)
+61662) shivah (added plural +'s)
+61663) Shivaism's (added +'s)
+61664) shock's (added +'s)
+61665) shoemaking's (added +'s)
+61666) shopfitting's (added +'s)
+61667) shopkeeping's (added +'s)
+61668) shoreward's (added +'s)
+61669) shoreweed (added plural +'s)
+61670) shower-bath (removed - dictionaries don't have hyphen)
+61671) showtime (added plural +'s)
+61672) Shunammite (added plural +'s)
+61673) shut-eye's (added +'s)
+61674) shut-offs (added plural)
+61675) sibilant's (added +'s)
+61676) siccative (added plural +'s)
+61677) sick-leave (removed - dictionaries don't have hyphen)
+61678) sick-list (removed - dictionaries don't have hyphen)
+61679) sick-pay (removed - dictionaries don't have hyphen)
+61680) sideburn's (added +'s)
+61681) sideshowman's (added +'s)
+61682) sideshowmen (+'s)
+61683) SIDS's (added +'s)
+61684) sigmoid (added plural +'s)
+61685) sigmoidoscope (added plural +'s)
+61686) sign-off's (added +'s)
+61687) signori's (added +'s)
+61688) signoria's (added +'s)
+61689) signwriting's (added +'s)
+61690) silicoses's (added +'s)
+61691) siltstones (added plural)
+61692) SIMD's (added +'s)
+61693) simulacrums (added plural)
+61694) simulacra (+'s)
+61695) sinfonietta's (added +'s)
+
+17-SEP-2020
+61696) singe's (added +'s)
+61697) singer-songwriter (added plural +'s)
+61698) single-decker's (added +'s)
+61699) single-seater (added plural +'s)
+61700) single's (added +'s)
+61701) sinh (added plural +'s)
+61702) Sinhalese's (added +'s)
+61703) sinnet (added plural +'s)
+61704) sinuosity (added plural +'s)
+61705) Siouan (added plural +'s)
+61706) sip's (added +'s)
+61707) siphonage (added plural +'s)
+61708) siskin (added plural +'s)
+61709) sister-in-law's (added +'s)
+61710) sisters-in-law's (added +'s)
+61711) sit-in's (added +'s)
+61712) sit's (added +'s)
+61713) situ's (added +'s)
+61714) Sivaism's (added +'s)
+61715) sixpenny (added plural +'s)
+61716) size's (added +'s)
+61717) skarn (added plural +'s)
+61718) skerry (added singular +'s)
+61719) skeuomorph's (added +'s)
+61720) skeuomorphism (added plural +'s)
+61721) skewbald (added plural +'s)
+61722) ski-plane (added plural +'s)
+61723) ski-run (removed - dictionaries don't have hyphen)
+61724) ski's (added +'s)
+61725) skid's (added +'s)
+61726) skincare's (added +'s)
+61727) skinny (added plural +'s)
+61728) skip's (added +'s)
+61729) skipjack's (added +'s)
+61730) skiwear's (added +'s)
+61731) skulduggeries (added plural)
+61732) skulk's (added +'s)
+
+18-SEP-2020
+61733) skywatch (verb, added +s +ing +ed)
+61734) slack's (added +'s)
+61735) slash's (added +'s)
+61736) slaveholder's (added +'s)
+61737) slaveholding's (added +'s)
+61738) Slavophile (added plural +'s)
+61739) slay's (added +'s)
+61740) sleaze (verb, added +ing +ed, noun, added +'s)
+61741) sled (verb, added +s +ed, noun, added +'s)
+61742) sleek (verb, added +s)
+61743) sleepover's (added +'s)
+61744) sleepwalk's (added +'s)
+61745) slick's (added +'s)
+61746) slide's (added +'s)
+61747) slight's (added +'s)
+61748) slim's (added +'s)
+61749) slinger (added plural +'s)
+61750) slink's (added +'s)
+61751) sliotar's (added +'s)
+61752) sliotair's (added +'s)
+61753) slip-on (added singular + 's)
+61754) slither's (added +'s)
+61755) slog's (added +'s)
+61756) slogger's (added +'s)
+61757) sloganeer (verb, added +ed, noun, added +'s)
+61758) sloka's (added +'s)
+
+21-SEP-2020
+61759) sloosh's (added +'s)
+61760) slope's (added +'s)
+61761) slosh's (added +'s)
+61762) slouch's (added +'s)
+61763) Slovak's (added +'s)
+61764) Slovakian's (added +'s)
+61765) Slovene's (added +'s)
+61766) Slovenian's (added +'s)
+61767) slub's (added +'s)
+61768) slue's (added +'s)
+61769) slumberers (added plural)
+61770) slumdog's (added +'s)
+61771) slump's (added +'s)
+61772) slurp's (added +'s)
+61773) sluttier
+61774) sluttiest
+61775) smallholder's (added +'s)
+61776) smartism's (added +'s)
+61777) smarty (added plural +'s)
+61778) smash's (added +'s)
+61779) smear's (added +'s)
+61780) smectite (added plural +'s)
+61781) smegma (added plural +'s)
+61782) smell's (added +'s)
+61783) smelly (added plural +'s)
+61784) smily's (added +'s)
+61785) smirch's (added +'s)
+61786) smite's (added +'s)
+61787) smogs (added plural)
+61788) smokescreen's (added +'s)
+61789) smoking-jacket (removed - dictionaries don't have hyphen)
+61790) smoking-room (removed - dictionaries don't have hyphen)
+61791) smolt's (added +'s)
+61792) smooch's (added +'s)
+61793) SMP (added plural +'s)
+61794) SMTP's (added +'s)
+61795) smudge's (added +'s)
+61796) snakeskin (added plural +'s)
+61797) snap's (added +'s)
+61798) snarl-up's (added +'s)
+61799) snarl's (added +'s)
+61800) snarlers (added plural)
+61801) snash's (added +'s)
+61802) snatch's (added +'s)
+61803) sneak's (added +'s)
+61804) sneeze's (added +'s)
+61805) sniff's (added +'s)
+61806) sniffle's (added +'s)
+61807) snip's (added +'s)
+61808) snitch's (added +'s)
+61809) snivel's (added +'s)
+61810) snog's (added +'s)
+61811) snoop's (added +'s)
+61812) snooze's (added +'s)
+61813) snore's (added +'s)
+61814) snort's (added +'s)
+61815) snowblade's (added +'s)
+61816) snowkiting's (added +'s)
+61817) SNR (added plural +'s)
+
+22-SEP-2020
+61818) snub's (added +'s)
+61819) snuff's (added +'s)
+61820) snuffle's (added +'s)
+61821) soak's (added +'s)
+61822) soapstones (added plural)
+61823) socialities (added plural)
+61824) Socinianism's (added +'s)
+61825) socioecology (added plural +'s)
+61826) sociogeny's (added +'s)
+61827) sociogram (added plural +'s)
+61828) sociography (added plural +'s)
+61829) sociogroup's (added +'s)
+61830) sociolatry's (added +'s)
+61831) SOE (added plural +'s)
+61832) soebak's (added +'s)
+61833) sol (added plural +'s)
+61834) solaria's (added +'s)
+61835) solecist (added plural +'s)
+61836) solid's (added +'s)
+61837) solidi's (added +'s)
+61838) solidity's (added +'s)
+61839) solifluction (added plural +'s)
+61840) solvability (added plural +'s)
+61841) soman's (added +'s)
+61842) somata's (added +'s)
+61843) somatostatin (added plural +'s)
+61844) somatotrophin (added plural +'s)
+61845) somatotype's (added +'s)
+61846) somatropin's (added +'s)
+61847) sombre's (added +'s)
+61848) somnambulisms (added plural)
+61849) songcraft's (added +'s)
+61850) songwriting's (added +'s)
+61851) sonicate's (added +'s)
+61852) sonics's (added +'s)
+61853) sonochemistry's (added +'s)
+61854) sonoluminescence's (added +'s)
+61855) sonority's (added +'s)
+61856) soothsaying (added plural +'s)
+61857) sopherim's (added +'s)
+61858) sophistications (added plural)
+61859) sorbitan's (added +'s)
+61860) sorbitol (added plural +'s)
+61861) sorceress's (added +'s)
+61862) sore's (added +'s)
+61863) SOS's (added +'s)
+61864) soteriology (added plural +'s)
+
+23-SEP-2020
+61865) sou'wester (added plural +'s)
+61866) soubresaut (added plural +'s)
+61867) soubriquets (added plural)
+61868) souchong (added plural +'s)
+61869) sough's (added +'s)
+61870) soulace's (added +'s)
+61871) soulie's (added +'s)
+61872) soulify (verb, added +s +ing +ed)
+61873) soundalike's (added +'s)
+61874) Soundex (added plural +'s)
+61875) soundscape's (added +'s)
+61876) sour's (added +'s)
+61877) sourcebook's (added +'s)
+61878) soursop's (added +'s)
+61879) souse (added plural +'s)
+61880) souterrain's (added +'s)
+61881) southerly's (added +'s)
+61882) southing's (added +'s)
+61883) soy's (added +'s)
+61884) soya's (added +'s)
+61885) soybean's (added +'s)
+61886) spacefaring's (added +'s)
+61887) spacewalk's (added +'s)
+61888) spadices's (added +'s)
+61889) sparer (added singular)
+61890) sparerib (added singular +'s)
+
+28-SEP-2020
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+61891) culmiferous
+61892) culminant
+61893) culm
+61894) culms
+61895) cully
+61896) cullies
+61897) cumbrously
+61898) cupriferous
+61899) currajong
+61900) currajongs
+61901) cutpurse
+61902) cutpurses
+61903) cyclamate
+61904) cyclamates
+61905) cyma
+61906) cymas
+61907) cyprinoid
+61908) cyprinoids
+61909) cystotomies
+61910) cystotomy
+61911) dahabeeyah
+61912) dahabeeyahs
+61913) daimio
+61914) daimios
+61915) danewort
+61916) daneworts
+61917) dariole
+61918) darioles
+61919) dashpot
+61920) dashpots
+61921) dastard
+61922) dastards
+61923) datively
+61924) greenhead
+61925) greenheads
+61926) greenheart
+61927) greenhearts
+61928) greenshank
+61929) greenshanks
+61930) greystone
+61931) greystones
+61932) greywacke
+61933) greywackes
+61934) grig
+61935) grigs
+61936) grisette
+61937) grisettes
+61938) grison
+61939) grisons
+61940) grotesquerie
+61941) grotesqueries
+61942) grot
+61943) grots
+61944) groundkeeper
+61945) groundkeepers
+61946) groundsel
+61947) groundsels
+61948) grysbok
+61949) grysboks
+61950) guacharo
+61951) guacharos
+61952) guidon
+61953) guidons
+61954) guilloche
+61955) guilloches
+
+29-SEP-2020
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+61956) A1
+61957) A2
+61958) A3
+61959) A4
+61960) A5
+61961) agnail
+61962) agnails
+61963) ajutage
+61964) ajutages
+61965) akee
+61966) akees
+61967) albuminoid
+61968) albuminoids
+61969) alb
+61970) albs
+61971) alcahest
+61972) alcahests
+61973) alcaic
+61974) alcaics
+61975) alcalde
+61976) alcaldes
+61977) alguazil
+61978) alguazils
+61979) alpargata
+61980) alpargatas
+61981) alpenhorn
+61982) alpenhorns
+61983) alpenstock
+61984) alpenstocks
+61985) alphabetarian
+61986) alphabetarians
+61987) althorn
+61988) althorns
+61989) aluminate
+61990) aluminates
+61991) B1
+61992) B12
+61993) B2
+61994) flump
+61995) flumped
+61996) flumping
+61997) flumpings
+61998) flumps
+61999) fluorinate
+62000) fluorinates
+62001) fluorinating
+62002) fluorination
+62003) fluorinations
+62004) fluviometer
+62005) fluviometers
+62006) flyway
+62007) flyways
+62008) focalisation
+62009) focalisations
+62010) focalise
+62011) focalised
+62012) focalises
+62013) focalising
+62014) focalization
+62015) focalizations
+62016) focalize
+62017) focalized
+62018) focalizes
+62019) focalizing
+62020) focalizings
+62021) foliole
+62022) folioles
+62023) footstalk
+62024) footstalks
 =======
-British English Dictionary (Forked) 2.88
+British English Dictionary (Forked) 2.89
 by Marco A.G.Pinto
