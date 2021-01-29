@@ -73947,6 +73947,1514 @@ V2.92
 64741) quiddities
 64742) quiddity
 ***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+
+V2.93
+6-JAN-2021
+***Words by Cyberknight***
+64743) anthropomorphisation (+plural +'s)
+64744) lifeform (added singular +'s)
+64745) telluric
+64746) tellurous
+64747) dubnium (+'s)
+64748) hassium (+'s)
+64749) meitnerium (+'s)
+64750) darmstadtium (+'s)
+64751) roentgenium (+'s)
+64752) copernicium (+'s)
+64753) nihonium (+'s)
+64754) flerovium (+'s)
+64755) livermorium (+'s)
+64756) tennessine (+'s)
+64757) calicene (+plural +'s)
+64758) metallocene (+plural +'s)
+64759) bimetallocene (+plural +'s)
+64760) alkalimetallocene (+plural +'s)
+64761) lanthanocene (+plural +'s)
+64762) actinocene (+plural +'s)
+64763) lithocene
+64764) beryllocene
+64765) germaborocene
+64766) germaaluminocene
+64767) sodocene
+64768) magnesocene
+64769) aluminocene
+64770) potassocene
+64771) calcocene
+64772) calciocene
+64773) scandocene
+64774) titanocene
+64775) vanadocene
+64776) chromocene
+64777) manganocene
+64778) biferrocene
+64779) cobaltocene
+64780) nickelocene
+64781) cuprocene
+64782) zincocene
+64783) gallocene
+64784) germanocene
+64785) selenocene
+64786) rubidocene
+64787) strontiocene
+64788) yttrocene
+64789) zirconocene
+64790) niobocene
+64791) molibdenocene
+64792) technetocene
+64793) ruthenocene
+64794) biruthenocene
+64795) rhodocene
+64796) palladocene
+64797) argentocene
+64798) cadmocene
+64799) indocene
+64800) stannocene
+64801) stibocene
+64802) caesocene
+64803) bariocene
+64804) barocene
+64805) cerocene
+64806) neodymocene
+64807) samarocene
+64808) europocene
+64809) gadolinocene
+64810) terbocene
+64811) dysprosocene
+64812) erbocene
+64813) thulocene
+64814) ytterbocene
+64815) lutetocene
+64816) hafnocene
+64817) tantalocene
+64818) tungstenocene
+64819) rhenocene
+64820) osmocene
+64821) iridocene
+64822) platinocene
+64823) aurocene
+64824) mercurocene
+64825) thallocene
+64826) plumbocene
+64827) francocene
+64828) radocene
+64829) thorocene
+64830) protactinocene
+64831) uranocene
+64832) neptunocene
+64833) plutonocene
+64834) curocene
+***Words by Cyberknight END***
+
+8-JAN-2021
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+64835) shafter
+64836) shafters
+64837) shako
+64838) shakos
+64839) shannies
+64840) shanny
+64841) sheltie
+64842) shelties
+64843) shelty
+64844) shoeblack
+64845) shoeblacks
+64846) shoreless
+64847) showboat
+64848) showboats
+64849) sibyls
+64850) sibyl
+64851) siccus
+64852) sigla
+64853) siglum
+64854) signaries
+64855) signary
+64856) signories
+64857) signory
+64858) simurg
+64859) simurgs
+64860) sinciput
+64861) sinciputs
+64862) sinistralities
+64863) sinistrality
+64864) sipe
+64865) sipes
+64866) skeletonize
+64867) skeletonized
+64868) skeletonizes
+64869) skeletonizing
+64870) skilless
+64871) skippet
+64872) skippets
+64873) sluit
+64874) sluits
+64875) slummer
+64876) slummers
+64877) slype
+64878) slypes
+64879) smallgoods
+64880) smarm
+64881) smarmed
+64882) smarming
+64883) smarms
+64884) smarties
+64885) sniggle
+64886) sniggled
+64887) sniggles
+64888) sniggling
+64889) snooperscope
+64890) snooperscopes
+64891) snuggeries
+64892) snuggery
+64893) snugs
+64894) socle
+64895) socles
+64896) softa
+64897) softas
+64898) solan
+64899) solans
+64900) solfatara
+64901) solfataras
+64902) songful
+64903) songless
+64904) sonneteer
+64905) sonneteers
+64906) sostenuto
+64907) sostenutos
+64908) tutelar
+64909) tutsan
+64910) tutsans
+64911) twayblade
+64912) twayblades
+64913) twirp
+64914) twirps
+64915) typifier
+64916) typifiers
+64917) ulcered
+64918) unadventurously
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+9-JAN-2021
+64919) bismillah
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+64920) scutcheon
+64921) scutcheons
+64922) scutcheon's
+64923) sectarianize
+64924) sectarianized
+64925) sectarianizes
+64926) sectarianizing
+64927) seedsman
+64928) seedsman's
+64929) seedsmen
+64930) seedsmen's
+64931) sego
+64932) segos
+64933) sego's
+64934) seguidilla
+64935) seguidillas
+64936) seguidilla's
+64937) selectee
+64938) selectees
+64939) selectee's
+64940) selectman
+64941) selectmen
+64942) selectman's
+64943) selectmen's
+64944) selenious
+64945) selectness
+64946) selenic
+64947) selenographic
+64948) semidiameter
+64949) semidiameters
+64950) semidiameter's
+64951) seminarist
+64952) seminarists
+64953) seminarist's
+64954) semivowels
+64955) semmit
+64956) semmits
+64957) semmit's
+64958) semiotical
+64959) senatorship
+64960) senatorships
+64961) senatorship's
+64962) senhor
+64963) senhors
+64964) senhor's
+64965) senhora
+64966) senhoras
+64967) senhora's
+64968) senhorita
+64969) senhoritas
+64970) senhorita's
+64971) sennet
+64972) sennets
+64973) sennet's
+64974) seneschal
+64975) seneschals
+64976) seneschal's
+64977) separatory
+64978) septcentenaries
+64979) septcentenary
+64980) septcentenary's
+64981) septuple
+64982) septupled
+64983) septuples
+64984) septupling
+64985) septuplet
+64986) septuplets
+64987) septuplet's
+64988) seraskier
+64989) seraskiers
+64990) seraskier's
+64991) serang
+64992) serangs
+64993) serang's
+64994) serac
+64995) seracs
+64996) serac's
+64997) serval
+64998) servals
+64999) serval's
+65000) servitorship
+65001) servitorships
+65002) servitorship's
+65003) sesamoid
+65004) sesamoids
+65005) sesamoid's
+65006) sesquioxide
+65007) sesquioxides
+65008) sesquioxide's
+65009) sessional
+65010) sesterce
+65011) sesterces
+65012) sesterce's
+65013) sestertii
+65014) sestertii's
+65015) setwall
+65016) setwalls
+65017) setwall's
+65018) seventeens
+65019) sexangularly
+65020) sexisyllabic
+65021) sexivalent
+65022) sextillions
+65023) sexto
+65024) shabrack
+65025) shabracks
+65026) shabrack's
+65027) shadbush
+65028) shadbushes
+65029) shadbush's
+65030) shaikh
+65031) shaikhs
+65032) shaikh's
+65033) thaler
+65034) thalers
+65035) thaler's
+65036) thallic
+65037) thalloid
+65038) thallous
+65039) thalweg
+65040) thalwegs
+65041) thalweg's
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+12-JAN-2021
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+65042) rehumanize
+65043) rehumanized
+65044) rehumanizes
+65045) rehumanizing
+65046) reinsure
+65047) reinsured
+65048) reinsures
+65049) reinsuring
+65050) rejig
+65051) rejigged
+65052) rejigging
+65053) rejiggings
+65054) rejigs
+65055) rejuvenescence
+65056) rejuvenescence's
+65057) rejuvenescent
+65058) relatival
+65059) relativisation
+65060) relativisations
+65061) relativise
+65062) relativised
+65063) relativises
+65064) relativising
+65065) relativization
+65066) relativizations
+65067) relativize
+65068) relativized
+65069) relativizes
+65070) relativizing
+65071) relegable
+65072) religionise
+65073) religionised
+65074) religionises
+65075) religionising
+65076) religionize
+65077) religionized
+65078) religionizes
+65079) religionizing
+65080) religionism
+65081) religionism's
+65082) religionless
+65083) religiose
+65084) relume
+65085) relumed
+65086) relumes
+65087) reluming
+65088) relumings
+65089) reman
+65090) remanned
+65091) remanning
+65092) remannings
+65093) remans
+65094) remilitarisation
+65095) remilitarisations
+65096) remilitarise
+65097) remilitarised
+65098) remilitarises
+65099) remilitarising
+65100) remilitarization
+65101) remilitarizations
+65102) remilitarize
+65103) remilitarized
+65104) remilitarizes
+65105) remilitarizing
+65106) remindful
+65107) reminiscential
+65108) remint
+65109) reminted
+65110) reminting
+65111) remintings
+65112) remints
+65113) remise
+65114) remised
+65115) remises
+65116) remising
+65117) remise's
+65118) repass
+65119) repassed
+65120) repasses
+65121) repassing
+65122) repassings
+65123) repealable
+65124) repique
+65125) repiqued
+65126) repiques
+65127) repiquing
+65128) repique's
+65129) republicanize
+65130) republicanized
+65131) republicanizes
+65132) republicanizing
+65133) repugn
+65134) repugned
+65135) repugning
+65136) repugns
+65137) requicken
+65138) requickened
+65139) requickening
+65140) requickenings
+65141) requickens
+65142) reputing
+65143) requiescat
+65144) requiescats
+65145) requiescat's
+65146) rescuee
+65147) rescuees
+65148) rescuee's
+65149) reservable
+65150) resinoid
+65151) resinoids
+65152) resinoid's
+65153) resipiscence
+65154) resipiscence's
+65155) resipiscent
+65156) resistibility
+65157) resistibility's
+65158) resistless
+65159) resistlessly
+65160) respirable
+65161) restorable
+65162) restrainable
+65163) resultless
+65164) resumptive
+65165) resupinate
+65166) resurrectional
+65167) retainable
+65168) retardatory
+65169) retardative
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+65170) flabbergasted
+
+15-JAN-2021
+***Words by Cyberknight ***
+65171) Pavlovian
+65172) Petrovich (+'s - name - Wikipedia)
+65173) Pavlov (+'s - name - Wikipedia)
+65174) alanines (added plural)
+65175) autolysin (+plural +'s)
+65176) teichoic
+65177) lipoteichoic
+65178) ribitol (+'s)
+65179) streptose (+'s)
+65180) apiose (+plural +'s)
+65181) aldohexose (+plural +'s)
+65182) ketohexose (+plural +'s)
+65183) talose (+'s)
+65184) tagatose (+plural +'s)
+65185) altrose (+plural +'s)
+65186) allose (+'s)
+65187) idose (+plural +'s)
+65188) gulose (+plural +'s)
+65189) fucose (+plural +'s)
+65190) diose (+plural +'s)
+65191) triose (+plural +'s)
+65192) tetrose  (+plural +'s)
+65193) heptose  (+plural +'s)
+***Words by Cyberknight END***
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+65194) phonetist
+65195) phonetists
+65196) phonetist's
+65197) phormium
+65198) phormiums
+65199) phormium's
+65200) phosphite
+65201) phosphites
+65202) phosphite's
+65203) phosphinic
+65204) phon
+65205) phons
+65206) phon's
+65207) phonography
+65208) phonography's
+65209) phossy
+65210) photism
+65211) photisms
+65212) photism's
+65213) phyllode
+65214) phyllodes
+65215) phyllode's
+65216) phyllophagous
+65217) phyllopod
+65218) phyllopods
+65219) phyllopod's
+65220) phylogenic
+65221) physiognomist
+65222) physiognomists
+65223) physiognomist's
+65224) phytomer
+65225) phytomers
+65226) phytomer's
+65227) phytotomies
+65228) phytotomy
+65229) phytotomy's
+65230) phytozoon
+65231) phytozoons
+65232) phytozoon's
+65233) picaroon
+65234) picaroons
+65235) picaroon's
+65236) picayune
+65237) picayunes
+65238) picayune's
+65239) piccaninnies
+65240) piccaninny
+65241) piccaninny's
+65242) pichiciago
+65243) pichiciagos
+65244) pichiciago's
+65245) pickable
+65246) picotee
+65247) picotees
+65248) picotee's
+65249) picrate
+65250) picrates
+65251) picrate's
+65252) pigmental
+65253) pigmentary
+65254) pikelet
+65255) pikelets
+65256) pikelet's
+65257) pilewort
+65258) pileworts
+65259) pilewort's
+65260) pilgarlic
+65261) pilgarlics
+65262) pilgarlic's
+65263) piliferous
+65264) piliform
+65265) pillaret
+65266) pillarets
+65267) pillaret's
+65268) pilosity
+65269) pilosity's
+65270) pilule
+65271) pilules
+65272) pilule's
+65273) pillule
+65274) pillules
+65275) pillule's
+65276) pilulous
+65277) pilular
+65278) pilous
+65279) pilose
+65280) pinaster
+65281) pinasters
+65282) pinaster's
+65283) pincette
+65284) pincettes
+65285) pincette's
+65286) pinchbeck
+65287) pinchbeck's
+65288) pineries
+65289) pinery
+65290) pinery's
+65291) pinnular
+65292) pipistrelle
+65293) pipistrelles
+65294) pipistrelle's
+65295) pipless
+65296) pipeful
+65297) pipefuls
+65298) pipeful's
+65299) pipeless
+65300) placet
+65301) placets
+65302) placet's
+65303) plagiostome
+65304) plagiostomes
+65305) plagiostome's
+65306) plaguesome
+65307) platitudinize
+65308) platitudinized
+65309) platitudinizes
+65310) platitudinizing
+65311) playlet
+65312) playlets
+65313) playlet's
+65314) pleadable
+65315) pledget
+65316) pledgets
+65317) pledget's
+65318) plumberies
+65319) plumbery
+65320) plumbery's
+65321) plumbiferous
+65322) plumbism
+65323) plumbism's
+65324) plutarchies
+65325) plutarchy
+65326) plutarchy's
+65327) plutolatry
+65328) plutolatry's
+65329) polemize
+65330) polemized
+65331) polemizes
+65332) polemizing
+65333) pollock
+65334) pollocks
+65335) pollock's
+65336) polymerous
+65337) polyphagous
+65338) ponderosity
+65339) ponderosity's
+65340) pontified
+65341) pontifies
+65342) pontify
+65343) pontifying
+65344) portolano
+65345) portolanos
+65346) portolano's
+65347) portreeve
+65348) portreeves
+65349) portreeve's
+65350) portionless
+65351) posteen
+65352) posteens
+65353) posteen's
+65354) posteriorities
+65355) posteriority
+65356) posteriority's
+65357) postern
+65358) posterns
+65359) postern's
+65360) postil
+65361) postils
+65362) postil's
+65363) postliminies
+65364) postliminy
+65365) postliminy's
+65366) postulant
+65367) postulants
+65368) postulant's
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+16-JAN-2021
+65369) Magnoliophyta
+65370) Tracheophyta
+65371) Proteobacteria
+65372) Hexapoda
+65373) Agaricomycotina
+65374) Magnoliopsida
+65375) Equisetopsida
+65376) Agaricomycetes
+65377) Gammaproteobacteria
+65378) Pterygota
+65379) Theria
+65380) Agaricomycetidae
+65381) Panorpida
+65382) Euarchontoglires
+65383) Rosanae
+65384) Fabales
+65385) Agaricales
+65386) Enterobacterales
+65387) Brachycera
+65388) Drosophilidae
+65389) Hominidae
+65390) Fabaceae
+65391) Amanitaceae
+65392) Enterobacteriaceae
+65393) Homininae
+65394) Faboideae
+65395) Hominini
+65396) Pisum
+65397) Amanita
+65398) Escherichia
+
+19-JAN-2021
+***Words by Professor Philip Taylor and Dominic Wujastyk ***
+65399) curviform
+65400) curvet
+65401) curveted
+65402) curveting
+65403) curvets
+65404) curvet's
+65405) curvetted
+65406) curvetting
+65407) curvirostral
+65408) cushat
+65409) cushats
+65410) cushat's
+65411) cusec
+65412) cusecs
+65413) cusec's
+65414) cuscus
+65415) cuscuses
+65416) cuscus's
+65417) cutwater
+65418) cutwaters
+65419) cutwater's
+65420) cutties
+65421) cutty
+65422) cutty's
+65423) daltonism
+65424) daltonism's
+65425) damfool
+65426) damfools
+65427) damfool's
+65428) damnatory
+65429) damnification
+65430) damnifications
+65431) damnified
+65432) damnifies
+65433) damnify
+65434) damnifying
+65435) damnifyings
+65436) daphne
+65437) daphnes
+65438) daphne's
+65439) darksome
+65440) darky
+65441) darky's
+65442) darshan
+65443) darshans
+65444) darshan's
+65445) dassie
+65446) dassies
+65447) dassie's
+65448) dasyure
+65449) dasyures
+65450) dasyure's
+65451) datura
+65452) daturas
+65453) datura's
+65454) davenport
+65455) davenports
+65456) davenport's
+65457) debeak
+65458) debeaked
+65459) debeaking
+65460) debeakings
+65461) debeaks
+65462) decasyllabic
+65463) decasyllable
+65464) decasyllables
+65465) decasyllable's
+65466) decerebrate
+65467) deckle
+65468) deckles
+65469) deckle's
+65470) deconsecrate
+65471) deconsecrated
+65472) deconsecrates
+65473) deconsecrating
+65474) deconsecration
+65475) deconsecrations
+65476) decrepitate
+65477) decrepitated
+65478) decrepitates
+65479) decrepitating
+65480) decrepitatings
+65481) decrepitation
+65482) decrepitations
+65483) decrescent
+65484) defecator
+65485) defecators
+65486) defecator's
+65487) defilade
+65488) defiladed
+65489) defilades
+65490) defilading
+65491) defilade's
+65492) deflagrate
+65493) deflagrated
+65494) deflagrates
+65495) deflagrating
+65496) deflagrator
+65497) deflagrators
+65498) deflagrator's
+65499) defrayable
+65500) dehorn
+65501) dehorned
+65502) dehorning
+65503) dehornings
+65504) dehorns
+65505) dele
+65506) deled
+65507) deleing
+65508) deleings
+65509) deles
+65510) dele's
+65511) delineator
+65512) delineators
+65513) delineator's
+65514) deltiology
+65515) deltiology's
+65516) dendrochronologist
+65517) dendrochronologists
+65518) dendrochronologist's
+65519) denizenship
+65520) denizenships
+65521) denizenship's
+65522) denominationalism
+65523) denominationalism's
+65524) dentalize
+65525) dentalized
+65526) dentalizes
+65527) dentalizing
+65528) denunciator
+65529) denunciators
+65530) denunciator's
+65531) denunciatory
+65532) departmentalism
+65533) departmentalism's
+65534) Admirals
+65535) Admiral's
+65536) Bairam
+65537) Bairams
+65538) Bairam's
+65539) Bantustan
+65540) Bantustans
+65541) Bantustan's
+65542) Baptists
+65543) Baptist's
+65544) Basic
+65545) Batesian
+65546) Beltane
+65547) Beltanes
+65548) Beltane's
+65549) Berkeleian
+65550) Berkeleians
+65551) Berkeleian's
+65552) Bermudas
+65553) Bihari
+65554) Biharis
+65555) Bihari's
+65556) Bonfire
+65557) Boolean
+65558) Boolean's
+65559) Braga
+65560) Braga's
+65561) Braille
+65562) Braille's
+65563) Brailled
+65564) Brailles
+65565) Brailling
+65566) Braillings
+65567) Canuck
+65568) Canucks
+65569) Canuck's
+65570) Capitol
+65571) Capricorns
+65572) Capricorn's
+65573) Casanovas
+65574) Casanova's
+65575) Castalia
+65576) Charolais
+65577) Charolais's
+65578) Chilopoda
+65579) Christhood
+65580) Christhood's
+65581) Christolatries
+65582) Christolatry
+65583) Christolatry's
+65584) Christophanies
+65585) Christophany
+65586) Christophany's
+65587) Chubb
+65588) Chubbs
+65589) Chubb's
+65590) Copepoda
+65591) Cruscan
+65592) Cruscans
+65593) Cruscan's
+65594) Cumbrians
+65595) Cumbrian's
+65596) Cupid
+65597) Cupid's
+65598) Dantean
+65599) Danteans
+65600) Dantean's
+65601) Dayak
+65602) Dayaks
+65603) Dayak's
+65604) Deutschmark
+65605) Deutschmarks
+65606) Deutschmark's
+65607) Dinmont
+65608) Dinmonts
+65609) Dinmont's
+65610) Docetism
+65611) Docetism's
+65612) Docetist
+65613) Docetists
+65614) Docetist's
+65615) Dyak
+65616) Dyaks
+65617) Dyak's
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+20-JAN-2021
+65618) yoctosecond (+plural +'s - Wiktionary)
+65619) zeptosecond (+plural +'s - Wiktionary)
+65620) attosecond (+plural +'s - Wiktionary)
+65621) centisecond (+plural +'s - Wiktionary)
+65622) decisecond (+plural +'s - Wiktionary)
+65623) tauon (+plural +'s - Wiktionary)
+65624) zitterbewegung (+'s - Wiktionary)
+65625) sextillionth (+plural +'s - Wiktionary)
+65626) inflaton (+plural +'s - Wiktionary)
+65627) decasecond (+plural +'s - Wiktionary)
+65628) hectosecond (+plural +'s - Wiktionary)
+65629) kilosecond (+plural +'s - Wiktionary)
+65630) megasecond (+plural +'s - Wiktionary)
+65631) gigasecond (+plural +'s - Wiktionary)
+65632) terasecond (+plural +'s - Wiktionary)
+65633) petasecond (+plural +'s - Wiktionary)
+65634) exasecond (+plural +'s - Wiktionary)
+65635) zettasecond (+plural +'s - Wiktionary)
+65636) yottasecond (+plural +'s - Wiktionary)
+65637) Chicxulub (+'s - name - Wikipedia)
+65638) stelliferous (Wiktionary)
+65639) stela (+'s)
+65640) stelae (+'s)
+65641) Linde (+'s - name - Wikipedia)
+65642) Coba (+'s - name - Wikipedia)
+65643) desirability's (added +'s)
+65644) detoxication's (added +'s)
+65645) Deuteronomist's (added +'s)
+65646) deuteragonist's (added +'s)
+65647) dialogue's (added +'s)
+65648) diamagnetic (added plural +'s)
+65649) diaphoretic (added plural +'s)
+65650) weldmesh's (added +'s)
+65651) Whiggery's (added +'s)
+65652) whirr (verb, added +s +ing +ed, noun, added +'s)
+65653) wholemeal's (added +'s)
+65654) whoop's (added +'s)
+65655) wickiup (added plural +'s)
+65656) wideawake (added plural +'s)
+65657) wish's (added +'s)
+65658) witherite (added plural +'s)
+65659) wobble's (added +'s)
+65660) woosh's (added +'s)
+65661) workhead's (added +'s)
+65662) worship's (added +'s)
+65663) WRAF's (added +'s)
+65664) wriggle's (added +'s)
+65665) wring's (added +'s)
+65666) wrong's (added +'s)
+65667) xeroderma's (added +'s)
+65668) yakitori's (added +'s)
+
+21-JAN-2021
+65669) Yankeeism (added plural +'s)
+65670) yearful (added plural +'s)
+65671) yore's (added +'s)
+65672) zebibit's (added +'s)
+65673) Ziploc (added plural +'s)
+65674) zygomatic (added plural +'s)
+65675) shafter's (added +'s)
+66676) shako's (added +'s)
+66677) shanny's (added +'s)
+66678) sheltie's (added +'s)
+66679) shelty's (added +'s)
+66680) shoeblack's (added +'s)
+66681) sibyl's (added +'s)
+66682) siccus's (added +'s)
+66683) sigla's (added +'s)
+66684) siglum's (added +'s)
+66685) signary's (added +'s)
+66686) signory's (added +'s)
+66687) simurg's (added +'s)
+66688) sinciput's (added +'s)
+66689) sinistrality's (added +'s)
+66690) sipe's (added +'s)
+66691) skippet's (added +'s)
+66692) sluit's (added +'s)
+66693) slummer's (added +'s)
+66694) slype's (added +'s)
+66695) snooperscope's (added +'s)
+66696) snuggery's (added +'s)
+66697) socle's (added +'s)
+66698) softa's (added +'s)
+66699) solan's (added +'s)
+66700) solfatara's (added +'s)
+66701) sonneteer's (added +'s)
+66702) sostenuto's (added +'s)
+66703) tutsan's (added +'s)
+66704) twayblade's (added +'s)
+66705) twirp's (added +'s)
+66706) typifier's (added +'s)
+66707) relativisation's (added +'s)
+66708) relativization's (added +'s)
+66709) remilitarisation's (added +'s)
+66710) remilitarization's (added +'s)
+66711) Ryzen (+'s - name - Wikipedia)
+66712) BIOSes (added plural)
+66713) marketspace (+plural +'s)
+66714) Threadripper (+'s - name - Wikipedia)
+66715) rebadge (+s +ing +ed)
+66716) Kaby
+
+22-JAN-2021
+***Words by Professor Philip Taylor and Dominic Wujastyk***
+66717) cryogen
+66718) cryogens
+66719) cryogen's
+66720) cruzeiro
+66721) cruzeiros
+66722) cruzeiro's
+66723) cryopump
+66724) cryopumps
+66725) cryopump's
+66726) ctenophore
+66727) ctenophores
+66728) ctenophore's
+66729) cubeb
+66730) cubebs
+66731) cubeb's
+66732) cupreous
+66733) curragh
+66734) curraghs
+66735) curragh's
+66736) currish
+66737) currishly
+66738) guanaco
+66739) guanacos
+66740) guanaco's
+66741) guddler
+66742) guddlers
+66743) guddler's
+66744) guddle
+66745) guddled
+66746) guddles
+66747) guddling
+66748) guimp
+66749) guimps
+66750) guimp's
+66751) gunless
+66752) gunroom
+66753) gunrooms
+66754) gunroom's
+66755) gunyah
+66756) gunyahs
+66757) gunyah's
+66758) gurk
+66759) gurked
+66760) gurking
+66761) gurkings
+66762) gurks
+66763) gurk's
+66764) gwyniad
+66765) gwyniads
+66766) gwyniad's
+66767) gymnasial
+66768) gymnosophist
+66769) gymnosophists
+66770) gymnosophist's
+66771) gymnosophy
+66772) gymnosophy's
+66773) gynandrous
+66774) gynophobia
+66775) gynophobia's
+66776) habanera
+66777) habaneras
+66778) habanera's
+66779) habergeon
+66780) habergeons
+66781) habergeon's
+66782) habile
+66783) hagiolatry
+66784) hagiolatry's
+66785) handglass
+66786) handglasses
+66787) handglass's
+66788) handicraftsman
+66789) handicraftsmen
+66790) handicraftsman's
+66791) handicraftsmen's
+66792) haplologies
+66793) haplology
+66794) haplology's
+66795) harlequinade
+66796) harlequinades
+66797) harlequinade's
+66798) harmattan
+66799) harmattans
+66800) harmattan's
+66801) headfast
+66802) headfasts
+66803) headfast's
+66804) headachy
+66805) headmost
+66806) headspring
+66807) headsprings
+66808) headspring's
+66809) headsquare
+66810) headsquares
+66811) headsquare's
+66812) headstrongness
+66813) headstrongness's
+66814) headward
+66815) hearable
+66816) heavyish
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+24-JAN-2021
+***Words by Cyberknight***
+66817) glitch (added +ing +ed +er +ers +ers)
+***Words by Cyberknight END***
+***Words by Professor Philip Taylor and Dominic Wujastyk ***
+66818) divinize
+66819) divinized
+66820) divinizes
+66821) divinizing
+66822) divinizings
+66823) dolina
+66824) dolinas
+66825) doline
+66826) dolines
+66827) dolina's
+66828) doline's
+66829) doit
+66830) doit's
+66831) domical
+66832) doppelganger
+66833) doppelgangers
+66834) doppelganger's
+66835) dorado
+66836) dorados
+66837) dorado's
+66838) dorsalis
+66839) drayman
+66840) draymen
+66841) drayman's
+66842) draymen's
+66843) dreamful
+66844) drey
+66845) dreys
+66846) drey's
+66847) drolls
+66848) drupelet
+66849) drupelets
+66850) drupelet's
+66851) druse
+66852) druses
+66853) druse's
+66854) dudish
+66855) duffle
+66856) duffle's
+66857) duiker
+66858) duikers
+66859) duiker's
+66860) dulcitone
+66861) dulcitones
+66862) dulcitone's
+66863) dullish
+66864) duniwassal
+66865) duniwassals
+66866) duniwassal's
+66867) duodecimally
+66868) dupable
+66869) dupery
+66870) dupery's
+66871) duppies
+66872) duppy
+66873) duppy's
+66874) durative
+66875) durbar
+66876) durbars
+66877) durbar's
+66878) dyarchies
+66879) dyarchy
+66880) dyarchy's
+66881) dynamicist
+66882) dynamicists
+66883) dynamicist's
+66884) dynamist
+66885) dynamists
+66886) dynamist's
+66887) dysuria
+66888) dysuria's
+66889) echolalia
+66890) echolalia's
+66891) ecstasise
+66892) ecstasised
+66893) ecstasises
+66894) ecstasising
+66895) ecstasize
+66896) ecstasized
+66897) ecstasizes
+66898) ecstasizing
+66899) ectogenetic
+66900) ectogenetically
+66901) edacity
+66902) edacity's
+66903) edaphic
+66904) edulcorate
+66905) edulcorated
+66906) edulcorates
+66907) edulcorating
+66908) edulcoration
+66909) edulcorations
+66910) edulcoration's
+66911) eelworm
+66912) eelworms
+66913) eelworm's
+66914) eggy
+66915) eggless
+66916) egotize
+66917) egotized
+66918) egotizes
+66919) egotizing
+66920) eighteenmo
+66921) eighteenmos
+66922) eighteenmo's
+66923) ekka
+66924) ekkas
+66925) ekka's
+66926) electorship
+66927) electorships
+66928) electorship's
+66929) electrobiology
+66930) electrobiology's
+66931) elegise
+66932) elegised
+66933) elegises
+66934) elegising
+66935) elegisings
+66936) elegize
+66937) elegized
+66938) elegizes
+66939) elegizing
+66940) elegizings
+66941) elephantoid
+66942) elucidator
+66943) elucidators
+66944) elucidator's
+66945) elucidatory
+66946) emancipist
+66947) emancipists
+66948) emancipist's
+66949) emigratory
+66950) empoison
+66951) empoisoned
+66952) empoisoning
+66953) empoisonings
+66954) empoisons
+66955) enchase
+66956) enchased
+66957) enchases
+66958) enchasing
+66959) enchasings
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+26-JAN-2021
+66960) supercookie (+plural +'s)
+66961) Deckelmann (+'s - name - Wikipedia)
+66962) Mierzwinski (+'s - name - Wikipedia)
+66963) Mikal (+'s - name - Wikipedia)
+66964) Marchesini (+'s - name - Wikipedia)
+66965) Leung (+'s - name - Wikipedia)
+66966) Basu (+'s - name - Wikipedia)
+66967) Wennie (+'s - name - Wikipedia)
+***Words by Professor Philip Taylor and Dominic Wujastyk ***
+66968) apriorism
+66969) apriorism's
+66970) apronful
+66971) apronfuls
+66972) apronful's
+66973) aquatint
+66974) aquatints
+66975) aquatint's
+66976) araucaria
+66977) araucarias
+66978) araucaria's
+66979) archaeologize
+66980) archaeologized
+66981) archaeologizes
+66982) archaeologizing
+66983) archaeologizings
+66984) archonship
+66985) archonships
+66986) archonship's
+66987) areca
+66988) arecas
+66989) areca's
+66990) argentiferous
+66991) argillaceous
+66992) argute
+66993) armigerous
+66994) armiger
+66995) armigers
+66996) armiger's
+66997) armillary
+66998) arquebusier
+66999) arquebusiers
+67000) arquebusier's
+67001) arrogancy
+67002) arrogancy's
+67003) assassinator
+67004) assassinators
+67005) assassinator's
+67006) assegai
+67007) assegais
+67008) assegai's
+67009) assertor
+67010) assertors
+67011) assertor's
+67012) assimilatory
+67013) asterism
+67014) asterisms
+67015) asterism's
+67016) astrakhan
+67017) astrakhan's
+67018) astrodome
+67019) astrodomes
+67020) astrodome's
+67021) atomical
+67022) atomy
+67023) atomies
+67024) atomy's
+67025) aumbries
+67026) aumbry
+67027) aumbry's
+67028) aureola
+67029) aureolas
+67030) aureola's
+67031) autarkical
+67032) autarkist
+67033) autarkists
+67034) autarkist's
+67035) autochthonal
+67036) autochthon
+67037) autochthons
+67038) autochthones
+67039) autochthon's
+67040) autochthonic
+67041) autocode
+67042) autocodes
+67043) autocode's
+67044) autocycle
+67045) autocycles
+67046) autocycle's
+67047) avouchment
+67048) avouchments
+67049) avouchment's
+67050) babacoote
+67051) babacootes
+67052) babacoote's
+67053) baboonery
+67054) baboonery's
+67055) baboonish
+67056) bach
+67057) bached
+67058) baches
+67059) baching
+67060) bach's
+67061) badness
+67062) badness's
+67063) bagman
+67064) bagmen
+67065) bagman's
+67066) bagmen's
+67067) bagnio
+67068) bagnios
+67069) bagnio's
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+27-JAN-2021
+***Words by Professor Philip Taylor and Dominic Wujastyk ***
+67070) trochoidal
+67071) trochoid
+67072) trochoids
+67073) trochoid's
+67074) troglodytism
+67075) troglodytism's
+67076) troglodytical
+67077) troglodytic
+67078) trogon
+67079) trogons
+67080) trogon's
+67081) troller
+67082) trollers
+67083) troller's
+67084) trommel
+67085) trommels
+67086) trommel's
+67087) tropological
+67088) tropologically
+67089) tropology
+67090) tropology's
+67091) trouvaille
+67092) trouvailles
+67093) trouvaille's
+67094) trover
+67095) trover's
+67096) truceless
+67097) truckage
+67098) truckages
+67099) truckage's
+67100) truckler
+67101) trucklers
+67102) truckler's
+67103) truculency
+67104) truculency's
+67105) trudgen
+67106) trudgens
+67107) trudgen's
+67108) trudger
+67109) trudgers
+67110) trudger's
+67111) truepennies
+67112) truepenny
+67113) truepenny's
+67114) trug
+67115) trugs
+67116) trug's
+67117) truncately
+67118) trunkless
+67119) trunkful
+67120) trunkfuls
+67121) trunkful's
+67122) trunnion
+67123) trunnions
+67124) trunnion's
+67125) trustily
+67126) trustless
+67127) trustlessness
+67128) trustlessness's
+67129) trustworthily
+67130) truthless
+67131) tubbable
+67132) tubectomies
+67133) tubectomy
+67134) tubectomy's
+67135) tuberculate
+67136) tuberosity
+67137) tuberosity's
+67138) tubful
+67139) tubfuls
+67140) tubful's
+67141) tucket
+67142) tuckets
+67143) tucket's
+67144) tufaceous
+67145) tuffet
+67146) tuffets
+67147) tuffet's
+67148) tulwar
+67149) tulwars
+67150) tulwar's
+67151) tumbleweed
+67152) tumbleweed's
+67153) tuneable
+67154) tunicle
+67155) tunicles
+67156) tunicle's
+67157) turbellarian
+67158) turbellarians
+67159) turbellarian's
+67160) turbidly
+67161) turbidness
+67162) turbination
+67163) turbinations
+67164) turbination's
+67165) turbit
+67166) turbits
+67167) turbit's
+67168) turbary
+67169) turbary's
+67170) turdoid
+67171) turgescence
+67172) turgescence's
+67173) turgescent
+67174) turismo
+67175) turismos
+67176) turismo's
+67177) turnsole
+67178) turnsoles
+67179) turnsole's
+67180) turnspit
+67181) turnspits
+67182) turnspit's
+67183) tusky
+67184) tusky's
+67185) tussive
+67186) tutorage
+67187) tutorages
+67188) tutorage's
+67189) tutorially
+67190) tweeny
+67191) tweeny's
+67192) twelfthly
+67193) twibill
+67194) twibills
+67195) twibill's
+67196) undesirous
+67197) undeviatingly
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+67198) OpenSSH (+'s - name - Wikipedia)
 =======
-British English Dictionary (Forked) 2.92
+British English Dictionary (Forked) 2.93
 by Marco A.G.Pinto
