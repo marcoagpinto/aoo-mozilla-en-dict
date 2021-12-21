@@ -42,7 +42,7 @@ Each GitHub folder includes:
 
 #### Suggesting words
 
-First, check the wordlist `.txt` file with the folder of the latest `en_GB`. If the word is not there, then check <B>`en_GB_speller_for_Mozilla+AOO+LO_2013+.txt`</B> above. 
+First, check the `wordlist⋯.txt` file with the folder of the latest `en_GB`. If the word is not there, then check <B>`en_GB_speller_for_Mozilla+AOO+LO_2013+.txt`</B> above. 
 
 If <B>not</B> found, then:
 
