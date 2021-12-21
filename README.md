@@ -23,10 +23,10 @@ I try to release updates monthly for Mozilla, every two months for LibreOffice (
 
 <B>`en_GB_speller_for_Mozilla+AOO+LO_2013+.txt`</B> above provides a changelog.
 
-The Proofing Tool GUI site <https://proofingtoolgui.org> includes: 
+The Proofing Tool™ GUI (PTG) site <https://proofingtoolgui.org> includes: 
 
 * notes of the most recent releases for Mozilla Firefox and Thunderbird, SeaMonkey, LO, AOO and BlueGriffon
-* a list of projects that use `en_GB`/Proofing Tool™ GUI (PTG).
+* a list of projects that use `en_GB`/PTG.
 
 Each GitHub folder includes:
 
