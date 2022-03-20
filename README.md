@@ -1,48 +1,53 @@
-aoo-mozilla-en-dict
-===================
+## aoo-mozilla-en-dict
 
-English Dictionaries Project (AOO+Mozilla+others)
+### English Dictionaries Project
 
-For many years that people stopped maintaining dictionaries for open-source software.
+For many years, maintainance of dictionaries for open source software has lapsed.
 
-It would be great to continue their work and improve existing dictionaries or create new ones.
+It will be great to continue people's work – improve existing dictionaries or create new ones.
 
-The biggest issue is that most of these dictionaries are obfuscated (codified in a way that only certain software packages can access the wordlists) and the original developers are long-gone to provide the clean text ones.
+The greatest issues are: 
 
-In some cases, we will have to start from a long-time gone position, the last known clean text version of the dictionary.
+* most of these dictionaries are obfuscated – coded for only certain software to access the wordlists
+* decoded (clear text) versions are difficult to obtain, because original developers are long gone.
 
-Modifying, updating and maintaining a dictionary is a hard task but an important one for current and future generations.
+In some cases, we will have to start with a long ago, last known clear text version.
 
-The dictionaries here are the most recent versions available and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
+Maintaining a dictionary can be difficult, but it's important for current and future generations.
 
-I (Marco Pinto) am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net and https://sourceforge.net/projects/wordlist/files/Hunspell. Dwayne Bailey maintains the en_ZA: http://translate.org.za
+Dictionaries here are the most recent versions. This repository makes it easier for developers to find all in one place and take the `.AFF` and `.DIC` files to use them in projects with proofing — or spellchecking — functionalities.
 
-I will try to release monthly updates for Mozilla, and every two months for OpenOffice and LibreOffice. When a new version of AOO is to be released, there is no dictionary update for it to avoid notifying people to update after installing the latest AOO. Thus, a release is skipped for AOO.
+I (Marco Pinto) only maintain `en_GB`. Kevin Atkinson maintains `en_AU`, `en_US` and `en_CA` – please contact him directly for these: <https://github.com/en-wl/wordlist>, <http://wordlist.aspell.net/> and <https://sourceforge.net/projects/wordlist/files/Hunspell>. Dwayne Bailey maintains `en_ZA`: <http://translate.org.za/>.
 
-Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above where I keep a changelog.
+I try to release updates monthly for Mozilla, every two months for LibreOffice (LO) and Apache OpenOffice (AOO). When a new version of AOO is to be released, there is no dictionary update for it to avoid notifying people to update after installing the latest AOO. Thus, a release is skipped for AOO.
 
-I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI site: https://proofingtoolgui.org
+<B>`en_GB_speller_for_Mozilla+AOO+LO_2013+.txt`</B> above provides a changelog.
 
+The Proofing Tool™ GUI (PTG) site <https://proofingtoolgui.org> includes: 
 
-#### Each GitHub folder has:
-* .AFF + .DIC + README + WORDLIST.  
+* notes of the most recent releases for Mozilla Firefox and Thunderbird, SeaMonkey, LO, AOO and BlueGriffon
+* a list of projects that use `en_GB`/PTG.
+
+Each GitHub folder includes:
+
+* `.AFF` + `.DIC` + `README` + `WORDLIST`.  
   
-  
-#### Licences for the wordlists:
-* en_AU (Kevin Atkinson) — BSD/MIT-Like;
-* en_CA (Kevin Atkinson) — BSD/MIT-Like;
-* en_GB (Marco A.G.Pinto) — LGPL;
-* en_US (Kevin Atkinson) — BSD/MIT-Like;
-* en_ZA (Dwayne Bailey) — LGPL. 
-  
+#### WORDLIST licences
 
-#### Suggesting words:
+* `en_AU` (Kevin Atkinson) — BSD/MIT-Like;
+* `en_CA` (Kevin Atkinson) — BSD/MIT-Like;
+* `en_GB` (Marco A.G.Pinto) — LGPL;
+* `en_US` (Kevin Atkinson) — BSD/MIT-Like;
+* `en_ZA` (Dwayne Bailey) — LGPL.   
 
-(First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there, check <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> topping this page).  
-If <B>NOT</B> found:
-* Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words.
-  
+#### Suggesting words
 
-#### Projects using GB/Proofing Tool GUI:
+First, check the `wordlist⋯.txt` file at <https://github.com/marcoagpinto/aoo-mozilla-en-dict/tree/master/en_GB%20(Marco%20Pinto)>. If the word is not there, then check <B>`en_GB_speller_for_Mozilla+AOO+LO_2013+.txt`</B> above. 
 
-If you know of any projects that use them, please let me know and I will list them in the official PTG page.
+If <B>not</B> found, then:
+
+* open an issue or e-mail Marco Pinto <B>`<marcoagpinto AT sapo.pt>`</B> with the suggested words.
+
+#### Projects that use `en_GB`/PTG
+
+If you know of use by any project that is not [already listed](https://proofingtoolgui.org/where.html), please let me know.
