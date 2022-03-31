@@ -91756,7 +91756,7 @@ V3.0.6
 ***Words by Professor Philip Taylor and Dominic Wujastyk END***
 
 
-V3.0.7 (ongoing)
+V3.0.7
 4-MAR-2022
 ***Words by Professor Philip Taylor and Dominic Wujastyk START***
 82806) oceanaria
@@ -92362,6 +92362,148 @@ V3.0.7 (ongoing)
 83390) unpleasurably
 83391) unpleasure
 83392) unpleasure's
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+21-MAR-2022
+***Words by Professor Philip Taylor and Dominic Wujastyk START***
+83393) rubberize
+83394) rubberized
+83395) rubberizes
+83396) rubberizing
+83397) rubbly
+83398) rubefied
+83399) rubefies
+83400) rubefy
+83401) rubefying
+83402) rubicundity
+83403) rubicundity's
+83404) rubicon
+83405) rubicon's
+83406) rubiconed
+83407) rubiconing
+83408) rubicons
+83409) rubified
+83410) rubifies
+83411) rubify
+83412) rubifying
+83413) rubiginous
+83414) rubious
+83415) rubellite
+83416) rubellite's
+83417) ruckle
+83418) ruckled
+83419) ruckles
+83420) ruckling
+83421) rucklings
+83422) saggar
+83423) saggar's
+83424) saggars
+83425) sagger
+83426) sagger's
+83427) saggers
+83428) sagittate
+83429) saiga
+83430) saiga's
+83431) saigas
+83432) sanctus
+83433) sarcomatosis
+83434) sarcomatosis's
+83435) sarcomata
+83436) sarcomata's
+83437) sardius
+83438) sardius's
+83439) sarking
+83440) sarking's
+83441) saturable
+83442) saturnic
+83443) savagedom
+83444) savagedom's
+83445) saxony
+83446) saxony's
+83447) scaramouch
+83448) scaramouch's
+83449) scaramouches
+***Words by Professor Philip Taylor and Dominic Wujastyk END***
+83450) Todoist (+'s - name of popular app)
+
+24-MAR-2022
+***Words by Professor Philip Taylor and Dominic Wujastyk START***
+83451) nervily
+83452) nervation
+83453) nervation's
+83454) neroli
+83455) neroli's
+83456) nervine
+83457) nervine's
+83458) nervines
+83459) nervosa
+83460) nescience
+83461) nescience's
+83462) niceish
+83463) nictate
+83464) nictated
+83465) nictates
+83466) nictating
+83467) nictitate
+83468) nictitated
+83469) nictitates
+83470) nictitating
+83471) nictation
+83472) nictation's
+83473) nictitation
+83474) nictitation's
+83475) northerliness
+83476) northerliness's
+83477) norland
+83478) norland's
+83479) norlands
+83480) noumenon
+83481) noumenon's
+83482) noumenal
+83483) noumena
+83484) noumena's
+83485) noumenally
+83486) novelesque
+83487) novercal
+83488) novelese
+83489) novelese's
+83490) obscura
+83491) obscura's
+83492) obstupefying
+83493) obtestation
+83494) obtestation's
+83495) obtestations
+83496) och
+83497) ogival
+83498) ohmage
+83499) ohmage's
+83500) ohmages
+83501) oilery
+83502) oilery's
+83503) oilily
+83504) oleiferous
+83505) oracy
+83506) oracy's
+83507) orbicularity
+83508) orbicularity's
+83509) orbicularly
+83510) orcharding
+83511) orcharding's
+83512) ornithomancy
+83513) ornithomancy's
+83514) ornithorhynchus
+83515) ornithorhynchus's
+83516) orogenetic
+83517) oroide
+83518) oroide's
+83519) orological
+83520) orphrey
+83521) orphrey's
+83522) orphreys
+83523) oscine
+83524) oscine's
+83525) oscines
+83526) oscinine
 ***Words by Professor Philip Taylor and Dominic Wujastyk END***
 =======
 British English Dictionary (Forked) 3.0.7
