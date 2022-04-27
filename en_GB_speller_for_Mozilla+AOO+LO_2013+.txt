@@ -92505,6 +92505,405 @@ V3.0.7
 83525) oscines
 83526) oscinine
 ***Words by Professor Philip Taylor and Dominic Wujastyk END***
+
+
+V3.0.8
+7-APR-2022
+83527) fluorination's
+83528) fluviometer's
+83529) immunotherapies + immunotherapy's
+83530) impersonals + impersonal's
+83531) impetrations
+83532) implantology's
+83533) implosions
+83534) impracticabilities + impracticability's
+83535) improvabilities
+83536) impudicities
+83537) in-tray's
+83538) inappetences
+83539) inaptitudes
+83540) inauthenticity's
+83541) inchoatives
+83542) incipient's
+83543) inconsequentiality's
+83544) incoordinations
+83545) incorruption + incorruption's (and removed plural)
+83546) incurability's
+83547) indefatigabilities
+83548) indeterminist's
+83549) Indo-Aryan's
+83550) Indo-European's
+83551) inebrieties
+83552) inexhaustibility's
+83553) infeasibilities + infeasibility's
+83554) inflator's
+83555) infrareds + infrared's
+83556) ingurgitation's
+83557) inobservances
+83558) inspissation's
+83559) integralities
+83560) interfusion's
+
+12-APR-2022
+83561) cryptococcosis's
+83562) cryptococcoses
+83563) cryptococcoses's
+83564) cuprammoniums
+83565) Curragh's
+83566) currajong's
+83567) cutpurse's
+83568) cuttles
+83569) cyclamate's
+83570) cyma's
+83571) cyphel's
+83572) cyprinoid's
+83573) cypselae's
+83574) cystitis's
+83575) cystitides
+83576) cystotomy's
+83577) czarships + czarship's
+83578) Daddarios
+83579) dahabeeyah's
+83580) daimio's
+83581) Dandies + Dandie's
+83582) dandyisms
+83583) danewort's
+83584) dariole's
+83585) dashpot's
+83586) dastard's
+83587) daughterhoods
+83588) decastyle's
+83589) decelerometer's
+83590) decision-making's
+83591) deckings
+83592) decollation's
+83593) deflationist's
+83594) dekko's
+83595) delegacy's
+83596) deliquescences
+83597) Ashtarian + Ashtarians + Ashtarian's
+83598) Pleiadian + Pleiadians + Pleiadian's
+
+14-APR-2022
+83599) cockloft's
+83600) coiffeur's
+83601) coleopterist's
+83602) coleoptile's
+83603) coleorhiza's
+83604) coleorhizae's
+83605) collagist's
+83606) collectanea's
+83607) colluvium's
+83608) colocynth's
+83609) colorimetries + colorimetry's
+83610) colossi's
+83611) columbarium's
+83612) columbaria's
+83613) columbium's
+83614) comfortability's
+83615) comix's
+83616) commensalisms + commensalism's
+83617) commensalities + commensality's
+83618) commensurabilities + commensurability's
+83619) commercialities + commerciality's
+83620) committeeism's
+83621) committeeships + committeeship's
+83622) Commonwealth's
+83623) commotions + commotion's
+83624) Communism's
+83625) Communists + Communist's
+83626) commutativity's
+83627) comparatist's
+83628) compline's
+83629) compo's
+83630) componentry's
+83631) compositionality's
+83632) compulsions
+83633) compulsivities + compulsivity's
+83634) compulsory's
+83635) compurgator's
+83636) computabilities
+83637) concernment's
+83638) concha's
+83639) conchae's
+83640) conchie's
+83641) conchiolins + conchiolin's
+83642) conchoids + conchoid's
+83643) conchology's
+83644) conditionalities + conditionality's
+83645) Betterbird + Betterbird's
+
+16-APR-2022
+83646) phonation's
+83647) phonendoscope's
+83648) phoneticism's
+83649) phonoscope's
+83650) pipkin's
+83651) pishogue's
+83652) planetology's
+83653) platinotype's
+83654) refutals
+83655) regional's
+83656) supererogations
+83657) superfaces + superface's
+83658) superelevations
+83659) supercomputing's
+83660) supereminences
+83661) superfecundation's
+83662) supergravities + supergravity's
+83663) supernaturalisms
+83664) supernormality's
+83665) superordinations
+83666) superparasitism's
+83667) superpersonalities + superpersonality's
+83668) superphosphates + superphosphate's
+83669) superphylum's
+83670) superplastics + superplastic's
+83671) superplasticities + superplasticity's
+83672) superplumes + superplume's
+83673) superposability's
+83674) superpositions
+83675) superprofits + superprofit's
+83676) superpubs + superpub's
+83677) superpurgations + superpurgation's
+83678) superrealities + superreality's
+83679) superregeneration's
+83680) superregenerators + superregenerator's
+83681) superrotations + superrotation's
+83682) supersales + supersale's
+83683) supersalts + supersalt's
+83684) supersensitivity's
+83685) supersensualism's
+83686) supersessions + supersession's
+83687) supersonic's
+83688) supersounds + supersound's
+83689) superspaces + superspace's
+83690) superspeeds + superspeed's
+83691) superstardom's
+83692) supertwists + supertwist's
+83693) supervillain's
+83694) supervisions
+83695) supervisorships + supervisorship's
+83696) supervolcano's
+83697) supines + supine's
+83698) supportabilities
+83699) supranationality's
+83700) supremities
+83701) suricate's
+83702) survivabilities
+83703) survivorship's
+83704) susceptivities
+83705) suspirations + suspiration's
+83706) suspires + suspiring + suspired
+83707) sustenances
+83708) swansong's
+83709) sweatshirt's
+83710) sweatsuit's
+83711) swifties + swiftie's
+83712) swifty's
+83713) swimwear's
+83714) swingarms + swingarm's
+83715) swordsmanships
+83716) swordtails
+83717) SWOT's
+83718) sybaritisms
+83719) sycophancy's
+83720) syllabaries + syllabary's
+83721) syllabi's
+83722) sylvites + sylvite's
+83723) symbioses's
+83724) symbologies + symbology's
+83725) sympatries + sympatry's
+83726) sympodia's
+83727) sympodium's
+83728) symposia's
+83729) symptomatologies
+83730) synaereses's
+83731) synaeresis's
+83732) synaesthete's
+83733) synapomorphy's
+83734) synapsid's
+83735) synchromeshes + synchromesh's
+83736) synchronicities + synchronicity's
+83737) synchronisms
+83738) synchrotrons
+83739) syncretisms + syncretism's
+83740) syncytia's
+83741) syncytium's
+83742) syndactyls + syndactyl's
+83743) syndicalisms + syndicalism's
+83744) synopses's
+83745) Synoptic's
+83746) synostoses's
+83747) synostosis's
+83748) synsacra's
+83749) synsacrum's
+83750) synthase's
+83751) syntheses's
+83752) synth's
+83753) syntagm's
+83754) syntagma + syntagma's
+83755) syntagmata's
+83756) synonymity's
+83757) synthwave's
+83758) syntype's
+83759) syphilitic's
+83760) syphiloids + syphiloid's
+83761) syscall's
+83762) systematisms
+83763) syzygy's
+83764) tabarets
+83765) tameability's
+
+20-APR-2022
+83766) hagioscope's
+83767) halogenation's
+83768) haphazarders + haphazarder's
+83769) haplographies
+83770) iroko's
+83771) irrationalisms + irrationalism's
+83772) irredeemability's
+83773) irredeemable's
+83774) irrefutability's
+83775) irregular's
+83776) irremovability's
+83777) irreproachability's
+83778) irreproducibility's
+83779) irretrievability's
+83780) irrevocability's
+83781) ISBN's
+83782) ischium's + ischia's
+83783) Islamisms
+83784) Islamist's
+83785) Islamofascism's
+83786) Islamophobia's
+83787) isometries + isometry's
+83788) isoprenes + isoprene's
+83789) isoprenoids + isoprenoid's
+83790) isosorbides
+83791) ispaghul's
+83792) ispaghula's
+83793) ISSNs + ISSN's
+83794) itineration's
+83795) jackanapeses + jackanapes's
+83796) jackfruit's
+83797) jackstays + jackstay's
+83798) jackstone's
+83799) jackstraw's
+83800) Jacobinisms + Jacobinism's
+83801) jacquerie's
+83802) jacuzzis + jacuzzi's
+83803) jaggeries + jaggery's
+83804) Jainism's
+83805) jello's (removed: US word)
+83806) jerrymander's
+83807) Johnny's
+83808) joinders
+83809) joints + jointers
+83810) JPEG's + jpeg's + jpg's + JPG's
+83811) judgementalism's
+83812) judgmentalism's
+83813) justiciability's
+83814) justicialism's
+83815) justifiabilities
+83816) juvenilities + juvenility's
+83817) kalpas
+83818) kamacites + kamacite's
+83819) kampong's
+83820) kana's
+83821) kanaka's
+83822) Kantianism's
+83823) kanuka's
+83824) kaolinites + kaolinite's
+83825) kaon's
+83826) kaonium's
+83827) karaoke's
+83828) katakana's
+83829) kathode's
+83830) katsura's
+83831) kerfuffles
+83832) Kerguelens + Kerguelen's
+83833) khamsin's
+83834) kiang's
+83835) kicksorter's
+83836) kiddle's
+83837) killick's
+83838) kinos
+83839) GTK + GTK's
+
+25-APR-2022
+83840) ingle's
+83841) native's
+83842) natterjack's
+83843) naturalness's
+83844) nauseant's
+83845) navarin's
+83846) navelwort's
+83847) nawab's
+83848) Nazarenism's
+83849) Nazidom's
+83850) Nazifications
+83851) Naziism's
+83852) nazirs + nazir's
+83853) nebulae's
+83854) nebulosities + nebulosity's
+83855) neckcloth's
+83856) necktie's (removed: US)
+83857) neckwears + neckwear's
+83858) necrobiosis's
+83859) necrolatry's
+83860) necrologist's
+83861) necrophagy's
+83862) necrophiles
+83863) necrophilias
+83864) necrophiliac's
+83865) necrophilism's
+83866) necrophily's
+83867) necrophobia's
+83868) ned's
+83869) Neddy's
+83870) neddy's
+83871) needers
+83872) needlecords + needlecord's
+83873) needlecrafts
+83874) needledicks + needledick's
+83875) negationist's
+83876) negligibilities
+83877) neighbourships + neighbourship's
+83878) nekrophily's
+83879) nematology's
+83880) nemertine's
+83881) nenuphar's
+83882) neo-Aristotelianism's
+83883) neo-Catholicism's
+83884) neo-Confucianism's
+83885) neo-Darwinism's
+83886) neo-liberal's
+83887) neo-Marxism's
+83888) neo-Nazism's
+83889) neocatastrophism's
+83890) neoconservatisms + neoconservatism's
+83891) neoliberalisms + neoliberalism's
+83892) neologian's
+83893) neonatology's
+83894) neontologist's
+83895) neontology's
+83896) neopaganism's
+83897) neophobias + neophobia's
+83898) neoplasticism's
+83899) Neoplatonism's
+83900) neopositivism's
+83901) neorealism's
+83902) neotenies
+83903) nephridia's
+83904) nephridium's
+83905) nephrology's
+83906) nephromixium's
+83907) nereid's
+83908) neritine's
+83909) nervations
+83910) netsman's
+83911) neuroblastoma's
 =======
-British English Dictionary (Forked) 3.0.7
+British English Dictionary (Forked) 3.0.8
 by Marco A.G.Pinto
