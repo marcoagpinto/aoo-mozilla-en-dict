@@ -92904,6 +92904,365 @@ V3.0.8
 83909) nervations
 83910) netsman's
 83911) neuroblastoma's
+
+
+V3.0.9
+4-MAY-2022
+83912) askari's
+83913) assagai's
+83914) assentor's
+83915) associateship's
+83916) Assyriology's
+83917) Asthanas
+83918) asthenias + asthenia's
+83919) astrakhans
+83920) astro-archaeology's
+83921) astrobiology's
+83922) astrobotany's
+83923) astroengineering's
+83924) astrostatistics's
+83925) astroturfing's
+83926) asylum-seeker + asylum-seekers (removed, no hyphen)
+83927) Athabasca's
+83928) Athenaeum's
+83929) atheroma's
+83930) Atlas's
+83931) atmophiles + atmophile's
+83932) attunements + attunement's
+83933) ATX's
+83934) audiometries
+83935) audiospectrograms + audiospectrogram's
+83936) audiospectrograph's
+83937) audiospectrometer's
+83938) auditability's
+83939) augites + augite's
+83940) augmentative's
+83941) augmentives + augmentive's
+83942) aurei's
+83943) aureomycin's
+83944) aureus's
+83945) auriculotherapy's
+83946) aurochs's
+83947) australs + austral's
+83948) Australianism's
+83949) Austro-Hungarians + Austro-Hungarian's
+83950) autarchy's
+83951) autecology's
+83952) auteurism's
+83953) authorizations
+83954) auto's
+83955) auto-eroticism's
+83956) autosuggestibility (removed hyphen)
+
+5-MAY-2022
+83957) autoallergies + autoallergy's
+83958) autoanalysis's
+83959) autoanalyses + autoanalyses's
+83960) autoanalysts + autoanalyst's
+83961) autoantigens + autoantigen's
+83962) autobahnen's
+83963) autobasidiomycete's
+83964) autobasidium's
+83965) autobasidia + autobasidia's
+83966) autocar's
+83967) autocatalysis's
+83968) autochange's
+83969) autocollimators
+83970) autocross's
+83971) autocues + autocue's
+83972) autodetection's
+83973) autodial's
+83974) autodigestion's
+83975) autodiscovery's
+83976) autoecology's
+83977) autoeroticism's
+83978) autofill's
+83979) autofluorescence's
+83980) autofocus's
+83981) autogenesis's
+83982) autogynephilia's
+83983) autohypnosis's
+83984) autoincrement's
+83985) autokinesis's
+83986) autokinesy's
+83987) autolanded
+83988) autolaryngoscopes + autolaryngoscope's
+83989) autolatry's
+83990) autolysis's
+83991) automatic's
+83992) automaticities + automaticity's
+83993) automatisations + automatisation's
+83994) automatizations + automatization's
+83995) automatonisms + automatonism's
+83996) autometamorphism's
+83997) autometries + autometry's
+83998) autophagy's
+83999) autophotographs + autophotograph's
+84000) autopisty's
+84001) autoplay's
+84002) autoradiograph's
+84003) autoregressions + autoregression's
+84004) autorepeat's
+84005) autoreverse's
+84006) autoshaping's
+84007) autosuggestionists + autosuggestionist's
+84008) autoswitch's
+84009) autotransplant's
+84010) autotune's
+84011) autoxidation's
+84012) auxotroph's
+84013) avant-gardism's
+84014) avant-gardes + avant-garde's
+84015) avens's
+84016) averageness's
+84017) avgas's
+84018) AVI's
+84019) aviates
+84020) aviculture's
+84021) avidness's
+84022) avifauna's
+84023) avitaminoses's
+84024) avoidants + avoidant's
+84025) avoision's
+84026) avoparcin's
+84027) avouch's
+84028) avunculates + avunculate's
+84029) AWACS's
+84030) award's
+84031) awayness's
+84032) azygos's
+84033) b'day's
+84034) babble's
+84035) Babel's
+84036) babesiasis's
+84037) babesiases + babesiases's
+84038) babesiosis's
+84039) babesioses + babesioses's
+84040) babooneries
+
+7-MAY-2022
+84041) Bacchanalia's
+84042) bacilliforms + bacilliform's
+84043) back-pedals
+84044) back-seats + back-seat's
+84045) back-up (removed, it is more common without hyphen)
+84046) backbench's
+84047) backbite's
+84048) backcomb's
+84049) backcross's
+84050) backdate's
+84051) backdoor's
+84052) backport's
+84053) backscratcher's
+84054) backseats + backseat's
+84055) back-seat (removed, there are other ways without hyphen)
+84056) backslappings
+84057) backveld's
+84058) bad-egg (removed, because of hyphen)
+84059) badmash's
+84060) badnesses
+84061) baffle's
+84062) bagarre's
+84063) baggy's
+84064) bagwashes (removed, singular is uncountable)
+84065) bah's
+84066) Baha'ism's
+84067) baht's
+84068) baitcasting's
+84069) bake's
+84070) Balaclava's
+84071) balata's
+84072) baldachin's
+84073) baldaquin's
+84074) baldhead's
+84075) baldmoney's
+84076) baldpate's
+84077) balking + balk's
+84078) ball-bearing (removed, because of hyphen)
+84079) bandeaux's
+84080) bandings
+84081) banditti's
+84082) bandy-bandy's
+84083) bandy's
+84084) banes
+84085) bankassurance's
+84086) bankings
+84087) banneret's
+84088) banzai's
+84089) baptistry + baptistries
+84090) Barbadian's
+84091) Bard's
+84092) bardolatries + bardolatry's
+84093) bardy's
+84094) bare-foot (removed, because of hyphen)
+84095) barf's
+84096) barkeep's
+84097) barograph's
+84098) barometry's
+84099) barotraumas + barotrauma's
+
+8-MAY-2022
+84100) inexistent
+84101) inexistence + inexistence's
+84102) inexistency + inexistency's
+84103) barratries + barratry's
+84104) barrel-bombing's
+84105) barrister-at-law's
+84106) barter's
+84107) bartholinitis's
+84108) baselessness's
+84109) bash's
+84110) bashments + bashment's
+84111) Basic's
+84112) BASIC + BASIC's
+84113) basicities + basicity's
+84114) basidia's
+84115) basidium's
+84116) basioccipitals + basioccipital's
+84117) basketmaking's
+84118) bastardies
+84119) basting + basted
+84120) bastings
+84121) bastions
+84122) bathe's
+84123) bathymeter's
+84124) bathymetries + bathymetry's
+84125) batsmanship's
+84126) battings
+84127) battle-cry (removed, because of hyphen)
+84128) battledresses + battledress's
+84129) battlements + battlement's
+84130) battlespaces + battlespace's
+84131) batties + batty's
+84132) batwings + batwing's
+84133) bauds
+84134) bauxites
+84135) bawl's
+84136) Bayesianism's
+84137) bazillion's
+84138) BBSes (plural was wrong) + BBS's
+84139) BCDs + BCD's
+84140) BCGs + BCG's
+84141) BD-XL's
+84142) bdelliums + bdellium's
+84143) beachsides + beachside's
+84144) beadings
+
+15-MAY-2022
+84145) beadworks + beadwork's + beadworkers + beadworker's
+84146) beakheads + beakhead's
+84147) beamwidth + beamwidths + beamwidth's (removed hyphen, added deriv)
+84148) beamier + beamiest
+84149) bear-baiting's
+84150) beargrasses + beargrass's
+84151) bearings
+84152) beatings
+84153) becaplermin's
+84154) bed-wetting's
+84155) bedjacket's
+84156) bedlinens + bedlinen's
+84157) bedloads + bedload's
+84158) bedsit's
+84159) beeline's
+84160) beermat's
+84161) beezers + beezer's
+84162) beggaries
+84163) beginnings
+84164) behaviouralism's
+84165) beleaguerments + beleaguerment's
+84166) belies + belying + belied
+84167) bell-hop's (deleted)
+84168) bellyboard's
+84169) Belorussian's
+84170) beltings
+84171) Belvedere's
+84172) Benedicites + Benedicite's
+84173) Benthamite's
+84174) bento's
+84175) benzalkoniums + benzalkonium's
+84176) benzenoids + benzenoid's
+84177) benzilates + benzilate's
+84178) benzocaines + benzocaine's
+84179) benzoins + benzoin's
+84180) benzoquinones + benzoquinone's
+84181) benzoyls + benzoyl's
+84182) benzoylmethylecgonine's
+84183) benztropines
+84184) benzyls + benzyl's
+84185) bequeathments + bequeathment's
+84186) bergamots + bergamot's
+84187) bergenia's
+84188) berk's
+84189) Bermudian's
+84190) berserk's
+
+20-MAY-2022
+84191) berylliums
+84192) bester (removed: archaic)
+84193) bestsellerdom's
+84194) bestsellerism's
+84195) bestsellership's
+84196) besylates
+84197) betaines + betaine's
+84198) betamethasone's
+84199) bethels
+84200) bêtises + bêtise's
+84201) bettong's
+84202) BeV's
+84203) bevatron's
+84204) bewhiskers + bewhiskered + bewhiskering
+84205) beziques + bezique's
+84206) bfs + bf's
+84207) BFI's
+84208) bhajias + bhajia's
+84209) bhaktis + bhakti's
+84210) bhp's
+84211) bhunas + bhuna's
+84212) bi-levels + bi-level's
+84213) bibliolater's
+84214) bibliomancy's
+84215) bibliomane's
+84216) bibliomania's
+84217) bibliomaniacs
+84218) bibliophily's
+84219) bibliopole's
+84220) bibliotherapies + bibliotherapy's
+84221) BIC's
+84222) bicentenary's
+84223) bicentennial's
+84224) bicep's
+84225) bichromated (removed) + bichromates
+84226) bicker's
+84227) bickerings
+84228) biclique's
+84229) bicolours + bicolour's
+84230) biculturalisms + biculturalism's
+84231) bicuspid's
+84232) biddings
+84233) biders
+84234) bidialectalism's
+84235) biennale's
+84236) biennial's
+84237) biers
+84238) bierkeller's
+84239) biface's
+84240) bigeye's
+84241) Bigfeet's + Bigfoot's
+84242) bigha's
+84243) bigram's
+84244) biguanides + biguanide's
+84245) bijoux's
+84246) bijouterie's
+84247) bilharzias + bilharzia's
+84248) bilinears + bilinear's
+84249) bilingual's
+84250) bilirubins + bilirubin's
+84251) bilk's
+84252) billet-doux's + billets-doux's
+84253) billy-goats + billy-goat's
+84254) bilobates + bilobate's
+84255) bilocations + bilocation's
+84256) biltongs
 =======
-British English Dictionary (Forked) 3.0.8
+British English Dictionary (Forked) 3.0.9
 by Marco A.G.Pinto
