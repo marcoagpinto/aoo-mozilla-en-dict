@@ -93263,6 +93263,333 @@ V3.0.9
 84254) bilobates + bilobate's
 84255) bilocations + bilocation's
 84256) biltongs
+
+
+V3.1.0
+4-JUN-2022
+84257) bind's
+84258) binders + binder's
+84259) bindi's
+84260) bindles
+84261) bings + bing's
+84262) binominals + binominal's
+84263) binucleates + binucleate's
+84264) bio's
+84265) bioaccumulationses + bioaccumulations's
+84266) bioactivities + bioactivity's
+84267) bioadhesive's
+84268) bioavailabilities + bioavailability's
+84269) bioblasts + bioblast's
+84270) bioburdens + bioburden's
+84271) biocapacities + biocapacity's
+84272) biocatalysis's
+84273) biocatalytical + biocatalytically
+84274) agrocenosis + agrocenosis's
+84275) biocenosis's
+84276) biocentrism's
+84277) bioceramics + bioceramic's
+84278) biochars + biochar's
+84279) biochem's
+84280) biochemical's
+84281) biochore's
+84282) bioclast's
+84283) bioclimates + bioclimate's
+84284) biocoenosis's
+84285) biocoenoses's
+84286) biocolloids + biocolloid's
+84287) biocompatibility's
+84288) biocomplexity's
+84289) biocomposites + biocomposite's
+84290) biocomputation's
+84291) biocomputing's
+84292) biocontrols + biocontrol's
+84293) bioconversions + bioconversion's
+84294) bioculturally
+84295) biodatas
+
+5-JUN-2022
+84296) Khyber + Pahktunkhwa + Pahktunkhwa's (Collins Dictionary)
+84297) biodefences
+84298) biodeteriorations + biodeterioration's
+84299) biodiversely
+84300) biodomes
+84301) bioecologies
+84302) bioeffluent's
+84303) bioelements + bioelement's
+84304) bioenergies
+84305) bioengineer's
+84306) bioethanols + bioethanol's
+84307) biofiltration's
+84308) biogas's
+84309) biol's
+84310) bioluminescences + bioluminescence's
+84311) biomineralisation's
+84312) biomineralization's
+84313) biophysiologists
+84314) bioplasts + bioplast's
+84315) biopoesis's
+84316) bioprocess's
+84317) bioprospecting's
+84318) biorhythmicist's
+84319) biosensing's
+84320) biosynthesis's
+84321) birchwoods
+84322) bird-like (removed, there is better without hyphen)
+84323) bird's-foot's
+84324) birdlife's
+84325) biscotto + biscotto's
+84326) bissextiles + bissextile's
+84327) bisyllabically
+84328) Bitrex's
+84329) bittercresses + bittercress's
+84330) bittersweet's
+84331) blacklead's + blackleads + blackleading
+84332) blank's
+84333) blare's
+84334) blastomycosis's
+84335) blather's
+84336) blazon's
+84337) bleach's
+84338) blessings
+84339) Blimps + Blimp's
+84340) blimpery's
+84341) Blimpism's
+84342) blind's
+84343) blindings
+84344) bling-bling's
+84345) blink's
+84346) bliss's
+84347) blitherings + blithering's
+84348) blithesomely
+84349) bloat's
+84350) blood-brother (removed - no hyphen)
+84351) blood-heat (removed - no hyphen)
+84352) blood-money (removed - no hyphen)
+84353) blood-poisoning (removed - no hyphen)
+84354) blood-wealth's
+84355) bloodwort (removed hyphen)
+84356) bloodlettings + bloodletting's
+
+11-JUN-2022
+84357) bloodymindedness's
+84358) bloop's
+84359) blow's
+84360) blowing-up's
+84361) blubber's
+84362) blue-green's
+84363) blue-pencil + blue-pencilling + blue-pencilled
+84364) bluebush (it has a space)
+84365) blueing's (removed)
+84366) blungings (removed)
+84367) blunt's
+84368) blush's
+84369) bluster's
+84370) boardsail's
+84371) boast's
+84372) boatclubs (it has a space)
+84373) boatfly's
+84374) boatings
+84375) boatlift's
+84376) bobbings + bobbingly
+84377) bob + bobbing + bobbed + bob's
+84378) bock's
+84379) boding + boded
+84380) bodied's (it is an adjective, no possessive)
+84381) bodings
+84382) body-checks + body-checking + body-checked
+84383) body-colour (it has a space)
+84384) bodyhood's
+84385) bodying's (removed, it is a verb)
+84386) bodysnatching's
+84387) Bohemian's
+84388) boil's
+84389) boings + boing's + boinging + boinged
+84390) bold's
+84391) bolster's
+84392) bolt-ons + bolt-on's
+84393) bolts
+84394) bombard's
+84395) bonk's
+84396) boo's
+84397) bookbindings
+84398) bookend's
+84399) bookings
+84400) bookselling's
+84401) boom's
+84402) bootlegged's + bootlegging's  (removed, it is a verb)
+84403) bootlicks + bootlicked
+84404) bootprint + bootprint's
+
+21-JUN-2022
+84405) bore's
+84406) born-agains + born-again's
+84407) botanical + botanical's
+84408) botch's
+84409) bothersomely
+84410) botriolite's
+84411) botrytis's
+84412) bottle-feeds + bottle-feeding
+84413) bottle-green (removed: no hyphen)
+84414) bounce's
+84415) Bourguiba's
+84416) bow-legs (removed: no hyphen)
+84417) bow-window (removed: no hyphen)
+84418) bow's
+84419) boxfuls
+84420) BPD's
+84421) Brahmanism's
+84422) braid's
+84423) bramblings
+84424) branchlike (it has no hyphen)
+84425) branders + brander's
+84426) brandisher + brandishers + brandisher's
+84427) brash's
+84428) brasswares
+84429) brassy's
+84430) bravado's
+84431) brave's
+84432) bravo's
+84433) braze's
+84434) breadcrumb's
+84435) breadwinning's
+84436) break-falls + break-fall's
+84437) break-offs + break-off's
+84438) breakdances + breakdance's
+84439) breast-beating's
+84440) brecciating
+84441) breechings
+84442) Breisgau's
+84443) brents + brent's
+84444) Brethren's
+
+26-JUN-2022
+84445) bribe's
+84446) bric-a-brac's + bric-à-brac's
+84447) brick's
+84448) bride-to-be's + brides-to-be's
+84449) brief's
+84450) briefings
+84451) brilliant's
+84452) brim-full (removed, it is obsolete for brimful)
+84453) briny's
+84454) brisks + brisked
+84455) Britishism's
+84456) brittle's
+84457) broach's
+84458) broad's
+84459) broadcast's
+84460) broil's
+84461) brokers + broker's
+84462) bronchiectasis's
+84463) bronchiolitis's
+84464) Bronzes + Bronze's
+84465) bronzed's (removed, it is a verb)
+84466) brooklimes
+84467) broomrapes
+84468) brother-in-law's + brothers-in-law's
+84469) brothers + brother's (I really doubt it was missing, but better twice...)
+84470) brownings
+84471) bruise's
+84472) bruit's
+84473) Brummie's
+84474) brush-up's
+84475) bruters + bruter's (person who cuts diamonds)
+84476) bryology's
+84477) BSA's
+84478) bubbly's
+84479) buck-passing's
+84480) bucklings
+84481) Buddhahood's
+84482) Buddhaship's
+84483) Buddhology's
+84484) buff-tip's
+84485) buggers + bugger's
+84486) build's
+84487) buildability's
+
+27-JUN-2022
+WORDS By BABELFISH *START*
+84488) apixaban
+84489) bisoprolol
+84490) dapagliflozin
+84491) eplerenone
+84492) apixaban's
+84493) bisoprolol's
+84494) dapagliflozin's
+84495) eplerenone's
+WORDS By BABELFISH *END*
+
+30-JUN-2022
+84496) bull's-eyes + bull's-eye's
+84497) bulletproofs
+84498) bullheadedly
+84499) bullied's (removed)
+84500) bullockies
+84501) bullshots + bullshot's
+84502) bullyings
+84503) bum-bailiff's
+84504) bum-suckers + bum-sucker's
+84505) bum-sucking's
+84506) bumbledom's
+84507) bumf's
+84508) bumfluff's
+84509) bumpers + bumper's
+84510) bumph's
+84511) bunce's
+84512) bunco + buncos
+84513) buncombe
+84514) bungle's
+84515) bunker's
+84516) bunko + bunkos
+84517) bunt's
+84518) buntings
+84519) bunya's
+84520) bunyip's
+84521) buoyage's
+84522) burble's
+84523) burb + burb's
+84524) burgee's
+84525) burgeon's
+84526) burglariously
+84527) burglarproofs
+84528) burgonet's
+84529) burgrave's
+84530) burin's
+84531) burleys + burley's
+84532) Burmese's
+84533) burn's
+84534) burnable's
+84535) burnouses + burnous's
+84536) burrawang's
+84537) bushings
+84538) bushwhackings
+84539) business's
+84540) busks + busked
+84541) bustle's
+84542) busy's + bizzies
+84543) busyness's
+84544) butch's
+84545) butt-end + butt-ends (removed: no hyphen)
+84546) buttery's
+84547) buttings
+84548) buy's
+84549) Byelorussian's
+84550) byers (removed: doesn't exist?)
+84551) byssinosis's
+84552) Cabbala's
+84553) cabbalisms
+84554) cachexia's
+84555) cackle's
+84556) cacophonously
+84557) cacuminals + cacuminal's
+84558) cadastrals + cadastral's
+84559) CADCAM's
+84560) cadge's
+84561) caeca's
+84562) caecitis's
+84563) Caenorhabditis (changed to uppercase - taxonomic genus)
+84564) cafards
+84565) kompromat (+plural +'s)
 =======
-British English Dictionary (Forked) 3.0.9
+British English Dictionary (Forked) 3.1.0
 by Marco A.G.Pinto
