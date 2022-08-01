@@ -93590,6 +93590,338 @@ WORDS By BABELFISH *END*
 84563) Caenorhabditis (changed to uppercase - taxonomic genus)
 84564) cafards
 84565) kompromat (+plural +'s)
+
+V3.1.1
+7-JUL-2022
+84566) cakeage's
+84567) calabreses
+84568) calamite + calamite's
+84569) calcars
+84570) calculableness's
+84571) calentures
+84572) calibrater + calibraters
+84573) call-ups + call-up's
+84574) callees
+84575) calloses
+84576) calm's
+84577) caloric's
+84578) calque's
+84579) calces + calces's
+84580) calyces
+84581) Cambrians + Cambrian's
+84582) cameralism's
+84583) cameralistics's
+84584) camerata's
+84585) cameration's
+84586) camerawork's
+84587) camiknickers's
+84588) can-openers + can-opener's
+84589) Canaanites + Canaanite's
+84590) cancel's
+84591) canceration's
+84592) cancerology's
+84593) candids + candid's
+84594) candidas + candida's
+84595) candidiasis's
+84596) candidosis's
+84597) candy-stripe + candy-stripes + candy-stripe's
+84598) canoness's
+84599) canoodling's
+84600) Cantabrigian's
+84601) cantal's
+84602) canters + canter's
+84603) caparisoned + caparisoning
+84604) capers + caper's
+
+12-JUL-2022
+84605) capitates + capitate's
+84606) Capitol's
+84607) capoeiras
+84608) capot's
+84609) caprines + caprine's
+84610) captivation + captivations + captivation's
+84611) car-sharing (removed, no hyphen)
+84612) car-sick (removed the hyphen)
+84613) caramelisation's + caramelization's
+84614) carballylate's
+84615) carbo-loads + carbo-loaded
+84616) carbolic's
+84617) carbon-paper (removed, no hyphen)
+84618) carbona's
+84619) carbonification's
+84620) carborundum's
+84621) carboxylating + carboxylate's
+84622) carburations
+84623) carcerally
+84624) carcinogenesis's
+84625) card-indexes + card-indexing + card-indexed
+84626) cardioprotection's
+84627) cardioprotectives + cardioprotective's
+84628) carditis's
+84629) carefreely
+84630) cargos
+84631) Caribbeans + Caribbean's
+84632) Caribou's
+84633) caricaturisations + caricaturisation's + caricaturizations + caricaturization's
+84634) cark + carks + carked
+84635) Carlovingian's
+84636) Carmelite's
+84637) carnies + carnied + carny's
+84638) carney + (+s +ing +ed + 's)
+84639) carol-singing's
+84640) Caroleans + Carolean's
+84641) carom's
+84642) carouse's
+84643) carpool's
+84644) carragheens
+84646) carricks + carrick's
+84647) carry-all (removed, no hyphen and US, in GB is: holdall)
+84648) carry-cot (removed hyphen)
+84649) carry-ons + carry-on's
+84650) carry's
+84651) cartes
+84652) cartelise (+s +ing +ed)
+84653) cartelizings (removed)
+84654) Cartesianism's
+84655) cartilaginoids + cartilaginoid's
+84656) case-load (remove hyphen)
+84657) case-insensitive
+84658) cast-iron's
+84659) Castalia's
+84660) casters + caster's
+84661) castings
+84662) castrate's
+84663) Castroism's
+84664) Castroist's
+84665) casual's
+84666) cat-bears + cat-bear's
+84667) cat-sits + cat-sat
+84668) Luís + Luís's
+84669) Grilo + Grilo's
+
+15-JUL-2022
+84670) pearlescent
+
+19-JUL-2022
+84671) catachrestical + catachrestically
+84672) cataclasis's
+84673) catadioptrical
+84674) catalogue's
+84675) catalytical
+84676) catch's
+84677) catechetics's
+84678) caterwaul's
+84679) catfight's
+84680) Catharism's
+84681) cathartics + cathartic's
+84682) catholic's (removed, since in lowercase is not a noun)
+84683) cations
+84684) catlick's
+84685) caucus's
+84686) caulk's
+84687) causates + causate's
+84688) caustic's
+84689) Cavalier's
+84690) cavalier's
+84691) cavatina's
+84692) caviars + caviar's
+84693) cavil's
+84694) cellulitis's
+84695) Celt's
+84696) cembalo's
+84697) Cenotaph's
+84698) cenote's
+84699) centigrade's
+84700) centreboarder's
+84701) centrement's
+84702) centrifugal's
+84703) centrifugates + centrifugating + centrifugated
+84704) centrings
+84705) cep's
+84706) cephalometry's
+84707) Cephalonian + Cephalonians + Cephalonian's
+84708) cerebra's
+84709) cerebrals (removed, it is not a noun)
+84710) cerebriformly
+84711) cerebrovascularly
+84712) ceremonial's
+84713) ceremonialism's
+84714) ceremonialist's
+84715) certioraris
+84716) cervicals + cervical's
+84717) cervicitis's
+84718) cesses + cess's
+84719) CET's
+
+22-JUL-2022
+84720) CFC's
+84721) CFO's
+84722) CGI's
+84723) cha's
+84724) chafe's
+84725) chaffer's
+84726) chain-smokes
+84727) chalcophiles + chalcophile's
+84728) chalkline (removed, it is two words)
+84729) challenge's
+84730) champ's
+84731) Champagnes
+84732) champaign +plural +'s (removed, archaic and obsolete)
+84733) champers's
+84734) Chancellorship (removed, it is lowercase)
+84735) chancings
+84736) chancroid's
+84737) change-ringing's
+84738) changelings
+84739) channellings
+84740) chaoses (removed, usually uncountable)
+84741) chaotics + chaotic's + chaotical
+84742) chapstick's
+84743) char's
+84744) charge's
+84745) chargrills + chargrilling + chargrill's
+84746) charismatic + charismatic's
+84747) charlotte's
+84748) charmings + charming's
+84749) Charters + Charter's
+84750) Charybdis's
+84751) chase's
+84752) chasings
+84753) chatter's
+84754) cheese-paring's
+84755) cheese-skipper's
+84756) chef-d'oeuvre's + chefs-d'oeuvre + chefs-d'oeuvre's
+84757) chemoautotrophically
+84758) cheminformatics's
+84759) chemoinformatics's
+84760) chemomechanically
+84761) chemoprophylactics + chemoprophylactic's
+84762) chemosynthetically
+84763) chequeing (typo, replace with chequing + 's)
+84764) chequers + chequer's
+84765) chewy's
+84766) updaters
+
+25-JUL-2022
+84767) chg's
+84768) Chi's
+84769) Chickamauga's
+84770) chickenheartedly
+84771) chicness's
+84772) chieftainships
+84773) childrearing's
+84774) chiliad's
+84775) chimaeras
+84776) chippings
+84777) chirrup's
+84778) chit-chat's
+84779) chital's
+84780) chlamydia's
+84781) choppers + chopper's
+84782) chordings
+84783) chordotonals + chordotonal's
+84784) Christianization's + Christianisations + Christianisation's
+84785) chromakey's
+84786) chromocenes + chromocene's
+84787) chromodynamics's
+84788) chronoscope's
+84789) chuddies's
+84790) chummies + chummy's
+84791) Churchilliana's
+84792) churchmanships + churchmanship's
+84793) churchies + churchy's
+84794) churnings + churningly
+84795) churrs + churr's
+
+29-JUL-2022
+84796) daren't
+84797) cicatrizations + cicatrization's + the same for -ise
+84798) cinéma-vérité's
+84799) cinemagoing's
+84800) circularizations + circularization's
+84801) circumspheres + circumsphere's
+84802) cirrostratus's + cirrostrati + cirrostrati's
+84803) cistus's
+84804) citify (verb + derivates)
+84805) citizenhood's
+84806) citole's
+84807) citrates
+84808) Citroens
+84809) citrovorum's
+84810) civically
+84811) civilizationally
+84812) clack's
+84813) cladded
+84814) cladode's
+84815) cladogenetically
+84816) claimables + claimable's
+84817) clamber's
+84818) clamdigger + clamdigger's
+84819) clang's
+84820) clanships + clanship's
+84821) clap's
+84822) clarabella's
+84823) clarkia's
+84824) clasped's (removed, it is not noun)
+84825) class-conscious (it missed an "s" (typo))
+84826) class-list (removed, no hyphen)
+84827) classfuls + classful's
+84828) classmanship's
+84829) clatter's
+84830) claustrophobias (removed: usually uncountable)
+84831) clean's
+84832) cleanings
+84833) clear-sightedly + clear-sightedness + clear-sightedness's
+84834) clear-up's
+84835) clearing-house (removed, no hyphen)
+84836) clearings
+84837) clench's
+84838) clepsydra's + clepsydrae + clepsydrae's
+84839) Clerks + Clerk's
+84840) clerkdom's
+84841) siennas
+84842) sidle's
+84843) sidestep's
+84844) signing's
+84845) sign-ups + sign-up's
+84846) sulphamethoxazole's
+84847) sulphapyridine's
+84848) sulphasalazines + sulphasalazine's
+84849) summarisations + summarisation's (also for -ize)
+84850) summertimes
+84851) summing-up's
+84852) superchip's
+84853) supercentres + supercentre's
+84854) supercalender's
+84855) supercalifragilisticexpialidociously
+84856) supercalifragilisticexpialidociousness + supercalifragilisticexpialidociousness's
+84857) superfortresses + superfortress's
+84858) superheavyweights + superheavyweight's
+84859) superintendencies
+84860) superincumbently
+84861) simnels + simnel's
+84862) simpleness's
+84863) simoon's
+84864) simooms + simoom's
+84865) simvastatins
+84866) subsale's
+84867) substandardly + substandardness + substandardness's
+84868) subteenager's
+84869) subtention's
+84870) subvocalisations + subvocalisation's
+84871) subvocalizations + subvocalization's
+84872) sugar-daddy (removed, it has no hyphen)
+84873) sunbath (removed verb from it, it is a noun)
+84874) sunbathe (this is the verb, added its forms)
+84875) sundrops's
+84876) sates + sating + sated
+84877) surjectively
+84878) ministership's
+84879) miniseries's
+84880) miniSD's
+84881) minimizations
+84882) minimalities + minimality's
+84883) minoritarianism's
 =======
-British English Dictionary (Forked) 3.1.0
+British English Dictionary (Forked) 3.1.1
 by Marco A.G.Pinto
