@@ -93922,6 +93922,370 @@ V3.1.1
 84881) minimizations
 84882) minimalities + minimality's
 84883) minoritarianism's
+
+V3.1.2
+11-AUG-2022
+84884) cliching + cliche's + clichéing + clichéed
+84885) clickjacking's
+84886) clientele's + clienteles + clientèles
+84887) clientships + clientship's
+84888) cliffhang + cliffhangs + cliffhung
+84889) clifftop's
+84890) climactical + climactically
+84891) climb's
+84892) climbdowns + climbdown's
+84893) clinch's
+84894) clings + cling's
+84895) clink's
+84896) Clintonians + Clintonian's
+84897) clip-clops + clip-clopping + clip-clopped + clip-clop's
+84898) clip-ons + clip-on's
+84899) clippie's
+84900) clippings
+84901) clits + clit's
+84902) clitorally
+84903) clitorides's
+84904) clobber's
+84905) clock-watches + clock-watched
+84906) clockwisely
+84907) cloisonnés + cloisonné's
+84908) cloisonne + cloisonne's
+84909) clonk's
+84910) clop's
+84911) AdiIRC + AdiIRC's
+
+14-AUG-2022
+84912) close-down's
+84913) close-up's
+84914) close's
+84915) clostridia's + clostridium's
+84916) clothesbrushes + clothesbrush's
+84917) clothesman's + clothesmen's
+84918) clotrimazole's
+84919) cloud-cuckoo-land's
+84920) clubbings
+84921) clutch's
+84922) clutter's
+84923) clypei's + clypeus's
+84924) CMGs + CMG's
+84925) CMOS's
+84926) CMSs + CMS's
+84927) CNAA's
+84928) CNNs
+84929) CNSs + CNS's
+84930) CNY's
+84931) co-allies + co-ally's
+84932) co-belligerence's
+84933) co-belligerent's
+84934) co-brandings + co-branding's
+84935) co-chairing + co-chaired + co-chair's
+84936) co-conspirator's
+84937) co-counselling's
+84938) co-decision's
+84939) co-education's
+84940) co-evolutions + co-evolution's
+84941) co-founds + co-founder's
+84942) co-locate + co-locates + co-locating
+84943) co-morbid (removed hyphen)
+84944) co-morbidities + co-morbidity's
+84945) co-occurrences + co-occurrence's
+84946) co-ops + co-op's
+84947) co-operants + co-operant's
+84948) co-operative's + co-operatively
+84949) co-opts + co-opting + co-opted
+84950) co-options + co-option's
+84951) co-ordinate's
+84952) co-owner + co-owner's
+84953) co-ownerships + co-ownership's
+84954) co-pilots + co-piloted + co-piloting + co-pilot's
+84955) co-produce + co-produces + co-producing + co-producer's
+84956) co-production's
+84957) co-religionists + co-religionist's
+84958) co-star's
+84959) co-trimoxazole's
+84960) co-writers + co-writer's
+84961) coaches
+84962) coachers
+84963) coachload's
+84964) coachroof's
+84965) coachwhips + coachwhip's + coachwhipping + coachwhipping's
+84966) coachwood's
+84967) coachworks
+
+18-AUG-2022
+84968) coagulases + coagulase's
+84969) coagulatively
+84970) coal-hole + coal-hole's
+84971) coalhouses
+84972) coasteering's
+84973) coat-hangers + coat-hanger's
+84974) coatigans + coatigan's
+84975) cobaltocene's
+84976) cobber's
+84977) coccidia's
+84978) coccidioidomycosis's
+84979) coccygeally
+84980) coccyges's
+84981) cochleae's
+84982) cochoa's
+84983) cock-a-doodle-doos + cock-a-doodle-doo's
+84984) cock-a-leekies + cock-a-leekie's
+84985) cock-fight (removed hyphen)
+84986) cockfighter + cockfighters + cockfighter's
+84987) cock-of-the-rock's + cocks-of-the-rock + cocks-of-the-rock's
+84988) cock-of-the-walk (removed, no hyphen)
+84989) cock-of-the-wood (removed, no hyphen)
+84990) cockshy + cockshies + cockshy's
+84991) codebreaking's
+84992) codeveloper + codevelopers + codeveloper's
+84993) coedited
+84994) coeducation's
+84995) coeval's
+84996) coexistents + coexistent's
+84997) coffee-cake (removed, no hyphen)
+84998) coffee-maker (removed, no hyphen)
+84999) cognate's
+
+20-AUG-2022
+85000) offens + oftens (removed: Frank Teo)
+85001) cognisances + cognisance's
+85002) cognisantly
+85003) cognitive's
+85004) cognoscente's + cognoscenti's 
+85005) cohabitations + cohabitation's
+85006) coifs
+85007) coincidental + coincidents + coincident's
+85008) cokeys + cokey's
+85009) col's
+85010) colchicines + colchicine's
+85011) cold-heartedly
+85012) cold-shoulder + cold-shoulders + cold-shouldered
+85013) cold's
+85014) coli's
+85015) coliforms + coliform's
+85016) colimit's
+85017) collapses + collapsing + collapsed + collapse's
+85018) collaterals
+85019) collect's
+85020) collective's
+85021) collectivistically
+
+21-AUG-2022
+85022) renewables + renewable's + renewably + renewability + renewability's
+
+23-AUG-2022
+85023) x-axes + x-axes's
+85024) X-raying
+85025) X-rayings (removed, it is a verb)
+85026) Xanadus
+85027) Xanthippes + Xantippes
+85028) xenodiagnoses + xenodiagnoses's
+85029) XORs + XOR's
+85030) XP's
+85031) xpi's + XPI's
+85032) yack's
+85033) Yahoo + Yahoos + Yahoo's (plural for workers of Yahoo)
+85034) yammer's
+85035) yang's
+85036) yank's
+85037) yap's
+85038) yaw's
+85039) yawn's
+85040) yawp's
+85041) yd's
+85042) yearnings
+85043) yell's
+85044) yellowleg
+85045) yelp's
+85046) yield's
+
+28-AUG-2022
+85047) yin's
+85048) yip's
+85049) yn (removed)
+85050) yo-yo's
+85051) yobibit's
+85052) yodel's
+85053) young's
+85054) youthfulness's
+85055) yowl's
+85056) yuck's
+85057) yuk's
+85058) yum's
+85059) zag's
+85060) zanies + zany's
+85061) zap's
+85062) zeitgeist's
+85063) zero-rate + zero-rates + zero-rating
+85064) zestfulness's
+85065) zipx's
+85066) zirconocenes + zirconocene's
+85067) Zöllner's
+85068) zoogeography's
+85069) zoonotics + zoonotic's + zoonotically
+85070) zoosemiotics's
+85071) zuzes + zuz's
+85072) zygomorphically
+85073) zymotically
+85074) xlsx's
+85075) MIMD's
+85076) millennialisms + millennialism's
+85077) Midwesterner's
+85078) midinette's
+85079) midgies
+85080) inconsonantly
+85081) inconsequentialness's
+85082) hallucinant's
+85083) Fed + Fed's + fed + feds + fed's
+85084) meld's + melder + melders + melder's
+85085) meliorisms
+85086) moreens
+85087) morphemically
+85088) morphotactically
+85089) morrises + morris's
+85090) mortalness's
+85091) mortalism's
+85092) motile's
+85093) mousakas + mousaka's
+85094) mouseweb's
+85095) MOVs + MOV's
+85096) MPEG's
+85097) MPLA's
+85098) mucosae's
+85099) mujahedin's + mujahideen's + mujahidin's
+85100) Muhammadanism's
+85101) multipolarities + multipolarity's
+85102) multisensorial
+85103) multiversities
+85104) mummers + mummer's
+85105) museographies + museography's
+85106) muscovites + muscovite's
+85107) musk-rose (removed, no hyphen)
+85108) musique's
+85109) muttonchop + muttonchop's
+85110) muzak's
+85111) mutuality's
+85112) mycoplasmologists
+85113) mycoproteins
+85114) myeloblasts + myeloblast's
+85115) myelocytes + myelocyte's
+85116) myeloids + myeloid's
+85117) myeloma's + myelomata's
+85118) myelosuppression's
+85119) mesophyte's
+85120) messiahships + messiahship's
+85121) metages
+85122) metalline's
+85123) metheglins
+85124) metrifonate's
+85125) metriphonate's
+85126) metrisability's
+85127) metrosexuality's
+85128) metrotomes + metrotome's
+85129) metrorrhagias
+85130) mezuzoth's
+85131) mezzo-sopranos + mezzo-soprano's
+85132) mic's
+85133) microbiota's
+85134) microcomputing's
+85135) microclines
+85136) microcode's
+85137) microcoleoptera's
+85138) microcircuitries + microcircuitry's
+85139) micrographically
+85140) micrographies
+85141) microgravity's
+85142) microhylid's
+85143) micrometry's
+85144) microminiatures + microminiature's
+85145) micromanipulators
+85146) micromania's
+85147) microlites + microlite's
+85148) microlith's
+85149) micromanipulations + micromanipulation's
+85150) micromorphology's
+85151) micromutations + micromutation's
+85152) microprocessing's
+85153) micropower's
+85154) microporosities + microporosity's
+85155) microsocieties
+85156) microsome's
+85157) microsociology's
+85158) microseismology's
+85159) microsporangia's + microsporangial
+85160) microstimulations
+85161) microstratifications + microstratification's
+85162) microstratigraphy's
+85163) microstrips
+85164) microteaching's
+85165) microtechnologies + microtechnology's
+85166) microtheories
+85167) microtonalities + microtonality's
+85168) microtopographies + microtopography's
+85169) middle's
+85170) nomographies + nomography's
+85171) nomographer's
+85172) nomogram's
+85173) nominative's
+85174) nosographies
+85175) notable's
+85176) nosologies
+85177) notelet's
+85178) notionalist's
+85179) noyade's
+85180) nullipore's
+85181) nudibranchiate's
+85182) numdah's
+85183) numerability's
+85184) numnah's
+85185) nunatak's
+85186) nutlet's
+85187) nuttallite's
+85188) nympho's
+85189) oakling's
+85190) oarweeds
+85191) obeche's
+85192) obedientiaries + obedientiary's
+85193) object-libido's
+85194) obnubilation's
+85195) observabilities
+85196) obol's
+85197) occasionalisms + occasionalism's
+85198) occasionalist's + occasionalistic
+85199) occidentalism's
+85200) occidentalist's
+85201) desecrator's
+85202) dicings
+85203) didacticisms
+85204) diddlies + diddly's
+85205) diethylamides + diethylamide's
+85206) differentnesses + differentness's
+85207) dioptric's + dioptrical + dioptrically
+85208) disgorgements + disgorgement's
+85209) disfellowship's
+85210) disownments + disownment's
+85211) dixie's
+85212) divx's
+85213) divorcement's
+85214) doctrinisms + doctrinism's
+85215) dogate's
+85216) dogberry's
+85217) dogger's
+85218) doorhandle + doorhandle's
+85219) doss-houses + doss-house's
+85220) dossal's
+85221) dosser's
+85222) downlink's
+85223) downwarping + downwarped + downwarp's
+85224) downwinder + downwinders + downwinder's
+85225) drachm's
+85226) dustings
+85227) earthshakingly
+85228) ecclesiasticisms + ecclesiasticism's
+85229) ecclesiologies + ecclesiology's
+85230) ecdysones + ecdysone's + ecdysoneless
+85231) educatedness's
+85232) eldritchly
 =======
-British English Dictionary (Forked) 3.1.1
+British English Dictionary (Forked) 3.1.2
 by Marco A.G.Pinto
