@@ -94286,6 +94286,554 @@ V3.1.2
 85230) ecdysones + ecdysone's + ecdysoneless
 85231) educatedness's
 85232) eldritchly
+
+V3.1.3
+5-SEP-2022
+85233) vaginae's
+85234) stained-glass (removed, no hyphen)
+85235) stableness's
+85236) squirm's
+85237) regainable
+85238) squiredoms + squiredom's
+85239) squirehood's
+85240) squirelets + squirelet's
+85241) squash's
+85242) regalements + regalement's
+85243) refoulements + refoulement's
+85244) refractoriness's
+85245) narghile's
+85246) fomite + fomite's
+85247) footstalk's
+85248) footslog's
+85249) fogyisms
+85250) foliole's
+85251) flyness's
+85252) flatties
+85253) flanchards + flanchard's
+85254) croak's
+85255) inestimableness's
+85256) millionairesses + millionairess's
+85257) minimalism's
+85258) minesweeping's
+85259) minoxidil's
+85260) minyan's + minyanim's
+85261) paltered + paltering + palterer + palterers + palterer's
+85262) Pandyas
+85263) safeness's
+85264) safekeeping's
+85265) sagittated
+85266) sageness's
+85267) lustrewares
+85268) lymphadenopathies + lymphadenopathy's
+85269) lynchings
+85270) malodorousness's
+85271) mirador's
+
+10-SEP-2022
+85272) Q-boat's + Q-ship's
+85273) q.t.s
+85274) qiblas
+85275) qrs + qr's
+85276) qt's
+85277) quack's
+85278) quadrantals + quadrantal's
+85279) quadrennially
+85280) quadrigas + quadrigae + quadrigae's
+85281) quadrilinguals + quadrilingual's + quadrilingually
+85282) quadrivalents + quadrivalent's
+85283) quadruple's
+85284) quadruplicities
+85285) quaering + quaered
+85286) quag and derivates (removed: obsolete)
+85287) quaquaversally
+85288) quartans + quartan's
+85289) quartes + quarte's
+85290) quarter-hours + quarter-hour's + quarter-hourly
+85291) quarter-lights + quarter-light's
+85292) quarter-plates + quarter-plate's
+85293) quarters + quarter's
+85294) quarterings
+85295) quasiperiodically
+85296) quassia's
+85297) quatercentenary's
+85298) quaternity's
+85299) quatorzain's
+85300) quatorze's
+85301) quatres
+85302) quatrefoil's
+85303) quattrocentist's
+85304) quattrocento's
+85305) quench's
+85306) questionary's
+85307) quibble's
+85308) quickthorn's
+85309) quiddity's
+85310) quiesces + quiescing
+85311) quiet's
+85312) quieters
+85313) quiltings
+85314) quinacrines
+85315) quinates
+85316) quinols
+85317) quinolines
+85318) feynesses
+85319) feudalities
+85320) fibrinoids + fibrinoid's
+85321) fibromyxoids + fibromyxoid's
+85322) FIDE's
+85323) fight's
+85324) film-making's
+85325) filmings
+
+16-SEP-2022
+85326) unmute + unmutes + unmuting + unmuted
+85327) enstasy
+85328) enstatic
+85329) kitesurfing's
+85330) kick-turning + kick-turned
+85331) khanate's
+85332) kibbutznik's
+85333) kibbutzim's
+85334) death-toll (removed, no hyphen)
+85335) debridements + debridement's
+85336) decolourisation's
+85337) deconsecration's
+85338) decrepitation's
+85339) eunuchoids + eunuchoid's
+85340) exceptionalities
+85341) excentrics + excentric's
+85342) exintine's
+85343) exteroceptively
+85344) extinguishments + extinguishment's
+85345) gobemouche's
+85346) gobbies + gobby's
+85347) godfatherhood's
+85348) godfatherships + godfathership's
+85349) gombeens
+85350) gorcock's
+85351) gracilities
+85352) grantsmanship's
+85353) greenshank's
+85354) greensands
+85355) greenies + greeny's
+85356) greyest
+85357) guaiacs
+85358) guestimate's
+85359) guilefulness's
+85360) guipures
+85361) gulp's
+85362) gustations
+85363) gyropilot's
+85364) H-bomb's
+85365) habilitation's
+85366) hafnocenes + hafnocene's
+85367) mayweeds
+85368) phallicisms
+85369) universalisms
+85370) univalent's
+85371) unitard's
+85372) universitarians + universitarian's
+85373) unitaries + unitary's
+85374) unknownnesses
+85375) unmanlinesses + unmanliness's
+85376) unmannerliness's
+85377) unmeetness's
+85378) unmentionable's
+85379) Vidalias
+85380) victimhood's
+85381) virilisms
+85382) virtualities
+85383) tritenesses + triteness's
+85384) schemozzle's
+85385) rhizoid's + rhizoidal
+85386) rhodocenes + rhodocene's
+85387) rhodamines
+85388) rhodora's
+85389) rhombencephalons + rhombencephalon's
+85390) rhombencephala + rhombencephala's
+85391) rhodologist's
+85392) rhebok's
+85393) ovipositor's
+85394) ovibovine's
+85395) ovicide's
+85396) overtness's
+85397) overtrick's
+85398) overwhelmingness's
+85399) namespace's
+85400) nacarats
+85401) mysid's
+85402) mysticists + mysticist's
+85403) mythicisms
+85404) mythographies
+85405) myofibroblasts + myofibroblast's
+85406) myoglobins + myoglobin's
+85407) myomere's
+85408) myosins
+85409) muzhiks + muzhik's
+85410) mutisms + mutism's
+85411) mutualism's
+85412) murrhines + murrhine's
+85413) mumchances + mumchance's
+85414) liger's
+85415) ligase's
+85416) lie's
+85417) librarianships + librarianship's
+85418) horsedom's
+85419) horsebacks + horseback's
+85420) hottie's
+85421) housemistress's
+85422) houseware + houseware's (removed plural, usually uncountable)
+85423) huchens
+85424) devilisms
+85425) diableries
+85426) dimidiates + dimidiating + dimidiated
+85427) disagreeable's
+85428) discernibleness's
+85429) disentitlements + disentitlement's
+85430) dysurias
+85431) ECGs + ECG's
+85432) echinaceas + echinacea's + Echinacea
+85433) echolalias
+85434) ecocentrical
+85435) Elea's
+85436) electrospinning's
+85437) elephantoids + elephantoid's + elephantoidal
+85438) emblement + emblement's
+85439) embeddedness's
+85440) emeritae's
+85441) emphysematously
+85442) emptors
+85443) encipherments + encipherment's
+85444) encyclopedism's
+85445) endozoochorously
+85446) ensoulments + ensoulment's
+85447) enterotomies
+85448) entitatively
+85449) entrepreneurships
+85450) eonothems + eonothem's
+85451) eosins
+85452) fisking + fisked
+85453) fleurs + fleur's
+85454) flimflammeries
+85455) flog's
+85456) floridities
+85457) footings
+85458) fractographies
+85459) framings
+85460) Francophonia's
+85461) Francophonie's
+85462) Freeborns
+
+18-SEP-2022
+85463) unsew + unsews + unsewing + unsewed
+85464) unwit + unwits + unwitting + unwitted
+85465) unled
+85466) unbid + unbids + unbidding + unbidden
+85467) undye + undyes + undyeing + undyed
+85468) unreel + unreels + unreeling + unreeled
+85469) unglue + unglues + ungluing + unglued
+85470) unseam + unseams + unseaming + unseamed
+85471) unsown
+85472) unsnag + unsnags + unsnagging + unsnagged
+85473) unspool + unspools + unspooling + unspooled
+85474) untuned
+85475) unswept
+85476) unitise + unitises + unitising + unitised
+85477) unclamp + unclamps + unclamping + unclamped
+85478) unserved
+85479) historicisms
+85480) hitmen + hitmen's
+85481) hypoderms + hypoderm's
+85482) hypoderma's + hypodermata + hypodermata's
+85483) hypodermic's + hypodermical
+85484) hypospadiases + hypospadias's
+85485) hysterons + hysteron's
+85486) hysons
+85487) hystero-salpingo-oophorectomy (removed first hyphen) + plural +'s
+85488) hypsodonty's
+85489) hypoventilation's
+85490) hypotropias + hypotropia's
+85491) hypotonias + hypotonia's
+85492) hypothecaries + hypothecary's
+85493) hypothalami's
+85494) hypovolaemia's
+85495) hypothyroidy + hypothyroidy's
+85496) hypsometrical + hypsometrically
+85497) idiopathical + idiopathically
+85498) idiomaticness's
+85499) idocrases + idocrase's
+85500) idolatrously
+85501) IEEE's
+85502) ilea's
+85503) ilia's
+85504) jargons
+85505) japonica's
+85506) jabber's
+85507) jabberwocky's
+
+19-SEP-2022
+85508) annicut's
+85509) annihilationist's
+85510) annoyingness's
+85511) annulation's
+85512) anomies + anomie's
+85513) anons + anon's
+85514) annums + annum's
+85515) anorexic's
+85516) anorgasmia's
+85517) anovulation's
+85518) anoxia's
+85519) anoxically
+85520) ansation's
+85521) ansatz's
+85522) antasthmatics + antasthmatic's
+85523) antes
+85524) anthropocentrisms + anthropocentrism's
+85525) anthropomancy's
+85526) anthropometrical + anthropometrically
+85527) anthropometries
+85528) anthropomorphously
+85529) anthropophagy's
+85530) antitypically
+85531) Anunnaki's
+85532) anuran's
+85533) anurias + anuria's
+85534) aphonics + aphonic's
+85535) aphoristical
+85536) apiculture's + apiculturist's
+85537) Apocalypses + Apocalypse's
+85538) Apocrypha's
+85539) apocryphas
+85540) apodeictical + apodeictically
+85541) apodictical + apodictically
+85542) apolarly
+85543) apologue's
+85544) apomictically
+85545) aponeurotically
+85546) apoptotically
+85547) aposematically
+85548) apostolically + apostolical
+85549) apotropaics + apotropaic's
+85550) apparatchiki's
+85551) Appian's
+85552) appositeness's
+85553) appositions
+85554) appositional + appositionals + appositional's + appositionally
+85555) apriorisms
+85556) aprioristically
+85557) aquarist's
+85558) aquilegia's
+85559) Aquitainians + Aquitainian's
+85560) Aquitanians + Aquitanian's
+85561) Arabicisms + Arabicism's
+85562) arabis's
+85563) arachnology's
+85564) Aragonese's
+85565) arapaima's
+85566) arccoses
+85567) archaeopteryxes + archaeopteryx's
+85568) archboards + archboard's
+85569) Archean's
+85570) archenterons + archenteron's + archentera + archentera's
+85571) archfools + archfool's
+85572) archicerebellum's
+85573) archil (removed: obsolete form of orchil)
+85574) archimandrite's
+85575) archings
+85576) archon's + archontes
+85577) arcuately
+85578) Arminianism's
+85579) arquebus's
+85580) arrs + arr's
+85581) arracks
+85582) arraign's
+85583) arrases
+85584) arrearages + arrearage's
+85585) arrear + arrear's
+85586) arrestment's
+85587) arrhythmically
+85588) arrogancies
+85589) arse-licking's
+85590) arterialisation's
+85591) artisanate's
+85592) ascarid's
+85593) ascendencies + ascendency's
+85594) ascensions
+85595) asocials + asocial's
+85596) associabilities + associability's
+85597) assonants (removed, it is an adjective: singular only)
+85598) astanga's
+85599) Astride + Astride's
+85600) astrochemically
+85601) fake's
+85602) fallbacks + fallback's
+85603) familially
+85604) fanfolds + fanfolding + fanfolded (it is noun only in US)
+85605) fantabulously
+85606) fantasticalities
+85607) farcies
+85608) farinaceously
+85609) farmings
+85610) fast's
+85611) fastigiates + fastigiate's
+85612) fatuitousness + fatuitousness's
+85613) fault-finding's
+85614) Faustianly
+85615) fed-up (removed, no hyphen)
+85616) felonries
+85617) overskirt's
+85618) oversolicitously
+85619) overwear's
+85620) owner-occupier's
+85621) oxer's
+85622) paduasoys
+85623) painterliness's
+85624) palaeodesert's
+85625) pantographical + pantographically
+
+21-SEP-2022
+85626) fioriture + fioriture's
+85627) fire-walking's
+85628) fire-setting's
+85629) serialiser + serialisers + serialiser's
+85630) unscored
+85631) serialize + serializes + serializing + serialized
+85632) serializer + serializers + serializer's
+85633) serialise + serialises + serialising + serialised
+85633) serialiser + serialisers + serialiser's
+85634) serialization + serializations + serialization's
+85635) serialisation + serialisations + serialisation's
+85636) exuviae's
+85637) exuvia + exuvia's
+85638) eyewasher + eyewashers + eyewasher's
+85639) fabliaux's
+85640) factotumship's
+85641) factorages
+85642) facula's + faculae's
+85643) faddisms
+85644) failings
+85645) fairings
+85646) falcated
+85647) abamectins
+
+26-SEP-2022
+85648) burntness's
+85649) by-blows + by-blow's
+85650) cabotages
+85651) mendicities
+85652) mentorships + mentorship's
+85653) meow's
+85654) mercaptans
+85655) mesnes + mesne's
+85656) mesogaster's
+85657) mesotron's
+85658) metallophone's
+85659) metrizability's
+85660) metronidazoles + metronidazole's
+85661) microamperes + microampere's
+85662) microanatomies + microanatomy's
+85663) microamps + microamp's
+85664) micrites + micrite's
+85665) microcyte's
+85666) microevolutions + microevolution's
+85667) microfauna's
+85668) microlevels + microlevel's
+85669) microglossary's
+85670) microgramme's
+85671) microgranites + microgranite's
+85672) micrograph's
+85673) microgametophytes
+85674) micropropagations + micropropagation's
+85675) microscleres + microsclere's
+85676) microseism's
+85677) microseismicity's
+85678) microzymes + microzyme's
+85679) microxea's
+85680) midazolam's
+85681) mignonette's
+85682) mihrab's
+85683) miliaries + miliary's
+85684) militarists + militarist's
+85685) millenarianisms
+85686) plumicorn's
+85687) plumrose's
+85688) pluralizations
+85689) pneumatocyst's
+85690) pneumatologies
+85691) pneumonocele's
+85692) podzol's
+85693) policlinic's
+85694) polygenist's
+85695) polyhistor's
+85696) polynya's
+85697) polypary's
+85698) polypods + polypod's
+85699) polypragmatical + polypragmatically
+85700) polypragmatists + polypragmatist's
+85701) polypragmosyne's
+85702) polytonalists
+85703) Polyzoa (removed: obsolete)
+85704) polyzoan (removed: obsolete)
+85705) pomfret's
+85706) pompon's
+85707) ponderabilities + ponderability's
+85708) ponderosa's
+85709) ponderosities
+85710) pongid (removed: obsolete)
+85711) pongo's + pongoes
+85712) pontoneer's
+85713) pontonier's
+85714) pooka's
+85715) poon's
+85716) lovemakings
+85717) lovesicknesses
+85718) lovingnesses
+85719) lovesickly
+85720) maeandrine's
+85721) multinationalism's
+85722) multipack's
+85723) multiparity's
+85724) multiperiodic
+85725) multiplications
+85726) multiplicative's
+85727) multipoints + multipoint's
+85728) naffness's
+85729) narcotisms + narcotism's
+85730) nard's
+85731) nardoo's
+85732) narceines
+85733) narcissi's
+85734) natalities
+85735) purists + purist's
+85736) pyrolyzates
+85737) needleloom's
+85738) needfulnesses + needfulness's
+85739) ophthalmoscopies
+85740) oracularities
+85741) ordinaire's
+85742) ordinee's
+85743) periodate's
+85744) peristalith's
+85745) perisperm's + perispermic
+85746) peristome's
+85747) perpetuator's
+85748) personhoods + personhood's
+85749) naseberry's
+85750) necessary's
+85751) presentness's
+85752) prettyisms
+85753) preventabilities + preventability's
+85754) preve (removed, obsolete)
+85755) pretonically
+85756) primateship's
+85757) printerdom's
+85758) printergram's
+85759) procuress's
+85760) prod's
+85761) ptyalin's
+85762) pterygoids + pterygoid's + pterygoidal
+85763) psychosyndromes + psychosyndrome's
+85764) psyllium's
 =======
-British English Dictionary (Forked) 3.1.2
+British English Dictionary (Forked) 3.1.3
 by Marco A.G.Pinto
