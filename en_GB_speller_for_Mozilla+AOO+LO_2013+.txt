@@ -94834,6 +94834,282 @@ V3.1.3
 85762) pterygoids + pterygoid's + pterygoidal
 85763) psychosyndromes + psychosyndrome's
 85764) psyllium's
+
+
+V3.1.4
+9-OCT-2022
+85765) rawlplug + rawlplugs + rawlplug's
+85766) gullibleness's
+85767) gurgle's
+85768) gybe's
+85769) hand-axes + hand-axe's
+85770) handscrews + handscrew's
+85771) handservant's
+85772) hapaxes + hapax's
+85773) hastately
+85774) headbay's
+85775) headings
+85776) heartwort's
+85777) heliums
+85778) hell-raisers + hell-raiser's
+85779) helmsmanships + helmsmanship's
+85780) henequens
+85781) Herald + Heralds
+85782) heteroclite's
+85783) heterograft's
+85784) heuchera's + Heuchera
+85785) hexachord's + hexachordal
+85786) labilities
+85787) lacertians
+85788) lacertines
+85789) laconicisms
+85790) lactoproteins
+85791) lactescences
+85792) lacunars
+85793) lacrymation's
+85794) laicities
+85795) lamp-post's
+85796) lamprophyres + lamprophyre's
+85797) lanceolates + lanceolate's
+85798) landnam's
+85799) Lankan's
+85800) languishments
+85801) lanthanums
+85802) lansquenets
+85803) furrieries
+85804) frontlines + frontline's
+85805) oilcakes
+85806) oileries
+85807) oil-shale (removed, no hyphen)
+85808) oink's
+85809) olfactions + olfaction's
+85810) omnipotent's
+85811) oneiromancies
+85812) ontologist's
+85813) oolongs
+85814) opalines
+85815) oology's
+85816) operativenesses + operativeness's
+85817) opisthodonts + opisthodont's
+85818) oralisms
+85819) orcinols
+85820) organistships + organistship's
+85821) organicalness's
+85822) organotherapies
+85823) organzines
+85824) orgeats
+85825) organosulphur's (removed, it is an adjective)
+85826) original's
+85827) origanum's
+85828) originalism's
+85829) orismology's
+85830) oroides
+85831) orphanhoods
+85832) prahu's
+85833) pratincole's
+85834) pralltriller's
+85835) pre-teen's
+85836) preachiness's
+85837) Pre-Raphaelism's
+85838) Pre-Raphaelite's
+85839) Pre-Raphaelitism's
+85840) scrappiness's
+85841) scrawniness's
+85842) statesmancraft's
+85843) statisms + statism's
+85844) stationarities
+85845) Steadicams + Steadicam's
+85846) STD's
+85847) steganography's
+85848) stenograph's
+85849) stentorianly
+85850) stereochemistries + stereochemistry's
+85851) stereometry's
+85852) stereoisomerisms + stereoisomerism's
+85853) sternways + sternway's
+85854) sterlets + sterlet's
+85855) sternocleidomastoids + sternocleidomastoid's
+85856) STI's
+85857) stibines + stibine's
+85858) stibnites + stibnite's
+85859) stichomythias
+85860) stilbenes + stilbene's
+85861) stilboestrols + stilboestrol's
+85862) stillborn's
+85863) stinters
+85864) stinkweeds
+85865) stipule's
+85866) stipplers
+85867) stinkpots
+85868) stink's
+85869) stitches
+85870) stolidness's
+85871) stoichiometries
+85872) stomper's
+85873) stomatopods + stomatopod's
+85874) stomachaches + stomachache's
+85875) stomachic's + stomachical + stomachically
+85876) stonefish's
+
+17-OCT-2022
+85877) hypnobirth's
+85878) hanky-panky's
+85879) handcraft's
+85880) hamadryases + hamadryas's
+85881) halter-neck (removed hyphen, added plural + possessive)
+85882) halfness's
+85883) melodramatist's
+85884) melodramatical + melodramatically
+85885) meltons
+85886) mémoires + mémoire's
+85887) memoria's
+85888) mender's
+85889) mendery + mendery's + menderies
+85890) mercurialities
+85891) merendas + merenda's
+85892) merle's
+85893) meroblast's
+85894) muzzle-loader's
+85895) psychostasy's
+85896) psychostasia's
+85897) pseudotillite's
+85898) pseudospeciations + pseudospeciation's
+85899) pseudogamy's
+85900) pseudoglobulin's
+85901) psephomancy's
+85902) pseudo-intellectuals + pseudo-intellectual's
+85903) pseudochrysolite's
+85904) pseudobulbil's
+85905) pseudocoeloms + pseudocoelom's
+85906) scholarliness's
+85907) sweetlip's
+85908) viewerships
+85909) vivaces + vivace's
+85910) voicedness's
+85911) saltiness's
+85912) saltarello's
+85913) saltness's
+85914) samphire's
+85915) samites
+85916) salicins
+85917) salamandrines + salamandrine's
+85918) salesmanships + salesmanship's
+85919) salariats
+85920) saintlinesses + saintliness's
+85921) sainfoins
+85922) sailmaking's
+85923) sailing-vessel (removed, it has no hyphen)
+85924) grappas
+85925) grandparenthood's
+85926) evectional + evections
+85927) eustasies
+85928) euonymuses
+85929) eupeptically
+85930) euphuisms
+85931) humoralism's
+85932) love-child's
+85933) nictations
+85934) nictitations
+85935) nidifications
+85936) megilps
+85937) megatonne's
+
+19-OCT-2022
+85938) siderites
+85939) siderostat's + siderostatic
+85940) sideline's
+85941) sidetrack's
+85942) silly's
+85943) superactivities + superactivity's
+85944) supercoil's
+85945) tungstenocenes + tungstenocene's
+85946) turbidness's
+85947) newsmonger's
+85948) newshound's
+85949) nickelocenes + nickelocene's
+85950) nightwalking's
+85951) nigritudes
+85952) niobocenes + niobocene's
+85953) nippleworts + nipplewort's
+85954) numerosities + numerosity's
+85955) storemen's
+85956) storey's
+85957) storyline's + storyliner + storyliners + storyliner's
+85958) stratopedarch's
+85959) stratocracy's
+85960) streetwalking's
+85961) stretti's + stretto's
+85962) strigil's
+85963) strikeout's
+85964) stringpieces + stringpiece's
+85965) stridency's
+
+22-OCT-2022
+85966) Krakatoan
+85967) kriegspiels
+85968) Kuans + Kuan's
+85969) kyanites + kyanite's
+85970) kyboshes + kyboshing + kyboshed + kybosh's
+85971) kymograph's
+85972) kymography + kymography's
+85973) kyus + kyu's
+85974) kyudo's
+85975) L-plate's
+85976) labellum's + labella's
+85977) labelling's
+85978) labyrinthinely
+85979) labyrinthitis's
+85980) Lacanianism's
+85981) lacquerwares + lacquerware's
+85982) lacquerworks + lacquerwork's
+85983) lacrimals + lacrimal's
+85984) lacrimation's
+85985) lacrymals + lacrymal's
+85986) laevorotations + laevorotation's
+85987) lag's
+85988) lagena's + lagenae's
+85989) lambswools + lambswool's
+85990) lameds
+85991) lament's
+85992) laminations
+85993) landownings
+85994) larvae's
+85995) lateralities + laterality's
+85996) lattermaths
+85997) laud's
+85998) laudations
+85999) layerings
+86000) leathercloths
+86001) leaved (removed, the past is "left") + leave's
+86001) lebensraum's + lebensräume + lebensräume's
+86002) lebensspur's
+86003) lederhosen's
+86004) leecher + leechers + leecher's
+86005) leer's
+86006) leftie's
+86007) legitimateness's
+86008) lettermongers + lettermonger's
+86009) metrologies + metrology's
+86010) miconazole's
+86011) microcosmographies + microcosmography's
+86012) microflora's + microflorae + microflorae's
+
+25-OCT-2022
+86013) fides
+
+25-OCT-2022
+86014) Chantal + Chantal's
+86015) insistencies
+86016) instilments + instilment's
+86017) insuperabilities
+86018) intakes
+86019) intendments
+86020) intervenients + intervenient's
+86021) lapilli's
+86022) larkers
+86023) laryngotomies
+86024) lemmings
+86025) Metaverse + Metaverse's
 =======
-British English Dictionary (Forked) 3.1.3
+British English Dictionary (Forked) 3.1.4
 by Marco A.G.Pinto
