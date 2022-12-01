@@ -95110,6 +95110,308 @@ V3.1.4
 86023) laryngotomies
 86024) lemmings
 86025) Metaverse + Metaverse's
+
+
+V3.1.5
+
+9-NOV-2022
+86026) Julianne + Julianne's
+86027) toolshed + toolsheds + toolshed's
+86028) downdrift + downdrifts downdrift's
+86029) downlight's
+86030) downshift's
+86031) downtempo's
+86032) drawing-room + drawing-room's
+86033) dread's
+86034) dress's
+86035) dribble's
+86036) drift's
+86037) drink's
+86038) drinkable's
+86039) dudeism's
+86040) dunk's
+86041) duodecimo's
+86042) earth-year's
+86043) earthlights + earthlight's
+86044) earthshine's
+86045) easers
+86046) ecossaises
+86047) eggier + eggiest
+
+12-NOV-2022
+86048) facetiae's
+86049) factitively
+86050) fair's
+86051) falderals
+86052) feculences
+86053) feminalities
+86054) feminities
+86055) fiscalities
+86056) flyblows + flyblow's
+86057) flybacks + flyback's
+86058) flypasts
+86059) flyway's
+86060) focalisation's
+86061) focalization's
+86062) foldaways + foldaway's
+86063) foldbacks + foldback's
+86064) folderols
+86065) fourscore's
+86066) fowl-runs + fowl-run's
+86067) freightages
+86068) frications
+86069) misoprostol's
+86070) mispredictions + misprediction's
+86071) mist's
+86072) mitogen's
+86073) Mixtec's
+86074) mobocracy's
+86075) mobocrat's
+86076) mnemonist's
+86077) modernizations
+86078) Mohammedanism's
+86079) moissanites + moissanite's
+86080) moksha's
+86081) moorcock's
+86082) mophead's
+86083) morbidezza's
+86084) mucoceles + mucocele's
+86085) mucosities
+86086) multilateralisms + multilateralism's
+86087) multihull's
+86088) multifoils
+86089) multilinguists + multilinguist's
+86090) municipalisms
+86091) mycoplasmata's
+86092) mycorrhizae's
+86093) myelinations + myelination's
+86094) longstanding
+
+15-NOV-2022
+86095) nodosities
+86096) northmen (removed: it starts uppercase)
+86097) manganocenes + manganocene's
+86098) mannerliness's
+86099) manqué's (removed, it is an adjective)
+86100) manspreading's
+86101) mansuetudes
+86102) manzanillas
+86103) maquillage's
+86104) Marcellian's
+86105) Mariolatries
+86106) marlines
+86107) marlites
+86108) marocains
+86109) marrowfats + marrowfat's
+86110) marshalships + marshalship's
+86111) martagons + martagon's
+86112) marvellousness's
+86113) tactfulness's
+86114) takingness's
+86115) talkier + talkiest
+86116) tardively
+86117) tarlatans
+86118) teachings
+86119) tear-duct (removed, no hyphen)
+86120) tearfulness's
+86121) teleportations
+86122) telemarketing's
+86123) teleprocessing's
+86124) televiewing's
+86125) temporariness's
+86126) tensenesses + tenseness's
+86127) tensilities
+86128) tensilely
+86129) terpsichorean + terpsichoreans + terpsichorean's
+86130) thankfulness's
+86131) thanklessness's
+
+16-NOV-2022
+86132) q.t.'s
+86133) quadrisyllabical
+86134) quarer + quarest
+86135) quasher + quashers quasher's
+86136) quick-wittedly
+86137) quintuple's
+86138) quixotisms
+86139) quixotries
+86140) quos + quo's
+86141) quods + quod's
+86142) quoddities
+86143) quodlibetically
+86144) Quonsets + Quonset's
+86145) quorates + quorate's
+86146) pourboire's
+86147) pourpoint's
+86148) poussette's
+86149) powan's
+
+20-NOV-2022
+86150) practicableness's
+86151) procurations
+86152) profit-takings + profit-taking's
+86153) prognathisms
+86154) propafenones + propafenone's
+86155) prophetess's
+86156) prophethoods + prophethood's
+86157) prophetocracies + prophetocracie's
+86158) prophetships + prophetship's
+86159) proscriptions
+86160) prosecutorships + prosecutorship's
+86161) proselytation's
+86162) protection's
+86163) protectorships + protectorship's
+86164) protectresses + protectress's
+86165) prothonotaryships + prothonotaryship's
+86166) prothyl's
+86167) protomoon's
+86168) protonospheres + protonosphere's
+86169) protonotariat's
+86170) protopectins
+86171) protosulfate's
+86172) protosyntax's
+86173) protothemes + prototheme's
+86174) protozoölogy's + protozoology's
+86175) pruderies
+86176) prunetin's
+86177) prunitrin's
+86178) psephocrat's
+86179) psephology's
+86180) pseudos + pseudo's
+86181) pseudocoels + pseudocoel's + pseudocoeles + pseudocoele's
+86182) pseudoconglomerate's
+86183) pseudogleys + pseudogley's
+86184) pseudosopher's
+86185) pseudospiracle's
+86186) psychoactives + psychoactive's
+86187) psychobiotics + psychobiotic's
+86188) psychochemistry's
+86189) psychocoma's
+86190) psychopannychism's
+86191) psychopharmacology's
+86192) psychosynthesist's
+86193) pull-ins + pull-in's
+86194) pull-out's
+86195) pull's
+86196) pulques
+86197) puppyhoods + puppyhood's
+
+25-NOV-2022
+86198) Emmeline + Emmelines + Emmeline's
+86199) jacinths
+86200) jack-in-the-boxes + jack-in-the-boxe's
+86201) jackaroo's + jackeroo's
+86202) jackfruits
+86203) jacksies
+86204) jaconets
+86205) jag's
+86206) jaggies
+86207) jammies + jammy's
+86208) jangle's
+86209) jaunties + jaunty's
+86210) jehads
+86211) jerkies + jerky's
+86212) jerry-building's
+86213) jesses + jessing + jessed
+86214) jet-black's
+86215) jet-lag's + jet-lagging
+86216) Jewishness's
+86217) jiggery-pokery's
+86218) jiggings
+86219) jiggle's
+86220) jilt's
+86221) jimmy + jimmies
+86222) jingle's
+86223) jingoes
+86224) jink's
+86225) jinni + jinnis
+86226) JIT's
+86227) jitter's + jittered + jittering
+86228) jobbings
+86229) jobmongering's
+86230) jobsmiths + jobsmith's
+86231) jobwork's
+86232) jog's
+86233) johnny-come-latelies + johnny-come-lately's
+86234) jolly's
+86235) jolt's
+86236) josses
+
+28-NOV-2022
+86237) josh's
+86238) jostle's
+86239) jot's
+86240) jottings
+86241) JPs + JP's
+86242) JPGs
+86243) jpgs
+86244) ju-jus
+86245) jubblies + jubbly's
+86246) jubilances
+86247) Judaeo-German's
+86248) Judaeo-Christian's
+86249) judder's
+86250) judgement-seat (removed: no hyphen)
+86251) jumble's
+86252) jump-offs + jump-off's
+86253) jump-starts + jump-started + jump-start's
+86254) jump's
+86255) junglefowls
+86256) juniorities
+86257) jurally
+86258) jussively
+86259) justicehood's
+86260) justicement's
+86261) jut's
+86262) juvenescence's
+86263) JVM's
+
+29-NOV-2022
+86264) V-mail's
+86265) V-necks + V-neck's
+86266) vaccinator's
+86267) vagally
+86268) vagariously
+86269) vaginismus's
+86270) Vaishnavism's
+86271) valleculae's
+86272) valses + valse's
+86273) valuable's
+86274) value-for-money (removed, has no hyphens)
+86275) vampirism's
+86276) vanadiums
+86277) vanadocenes + vanadocene's
+86278) vanitory + vanitories + vanitory's
+86279) vaporously
+86280) variablenesses + variableness's
+86281) varicella's
+86282) varicosities + varicosity's
+86283) varietal's
+86284) variolite's
+86285) varix's
+86286) varve's
+86287) vaseful's
+86288) vasoconstrictions + vasoconstriction's
+86289) vasopressins + vasopressin's
+86290) vast's
+86291) VAT's
+86292) vaticination's
+86293) Vaud's
+86294) vaunt's + vaunter + vaunters + vaunter's
+86295) VCR's
+86296) VDTs + VDT's
+86297) VDUs + VDU's
+86298) veals
+86299) veer's
+86300) vegetativeness's
+86301) velar's
+86302) veloutés + velouté's
+86303) Venera's
+86304) venographies + venography's
+86305) ventiduct's
+86306) venture's
+86307) venturis + venturi's
+86308) verbal's
 =======
-British English Dictionary (Forked) 3.1.4
+British English Dictionary (Forked) 3.1.5
 by Marco A.G.Pinto
