@@ -95412,6 +95412,251 @@ V3.1.5
 86306) venture's
 86307) venturis + venturi's
 86308) verbal's
+
+
+V3.1.6
+
+8-DEC-2022
+86309) VX's
+86310) vulvovaginitises + vulvovaginitis's
+86311) Vulcans
+86312) VTOLs + VTOL's
+86313) VTs + VT's
+86314) VS's
+86315) vril's + Vril + Vril's
+86316) Vreelands
+86317) voyeuristically
+86318) Vostok's
+86319) vorticosely
+86320) volupté's
+86321) vol + vol's
+86322) vocable's
+86323) vlei + vleis + vlei's
+86324) vitriols
+86325) viticulturer + viticulturers + viticulturer's
+86326) visuospatially
+86327) visuomotoric
+86328) viscoelastics + viscoelastic's
+86329) Virgilianism + Virgilianism's
+86330) viperously
+86331) Vineyards + Vineyard's
+
+10-DEC-2022
+86332) vinously
+86333) virilisations + virilisation's
+86334) viva'd (removed, nonsence)
+86335) voice-band (removed hyphen)
+86336) voiceprinters + voiceprinter's
+86337) voltammagram (incorrect, it is: voltammogram)
+86338) Vulcanite (removed, it is lowercase, and it already existed in lcase)
+86339) WAs + WA's
+86340) wa-wa's + wah-wah's
+86341) wackes + wacke's
+86342) waft's
+86343) wagers + wager's
+86344) waggle's
+86345) wail's
+86346) wainscot's
+86347) wait's
+86348) wakefulnesses + wakefulness's
+86349) Waldense + Waldense's
+86350) wales + wale's
+86351) wallcoverings + wallcovering's
+86352) wallow's
+86353) WAN + WANs + WAN's
+
+11-DEC-2022
+86354) disconcerting
+86355) wangle's
+86356) wantons + wanton's
+86357) warble's
+86358) warm's
+86359) warmings + warmingly
+86360) warmths
+86361) warnings
+86362) washable's + washability's
+86363) washdays
+86364) washing-up's
+86365) Washingtonologists + Washingtonologist's
+86366) wastefulnesses + wastefulness's
+86367) watch's
+86368) watchfulnesses + watchfulness's
+86369) watchlist's
+86370) water-glass (removed, no hyphen)
+86371) water-table (removed, no hyphen)
+86372) waterboard's
+86373) watercresses
+86374) watering-hole (removed, no hyphen)
+86375) waterproof's
+86376) waterski's
+86377) WAV's
+86378) wave's
+86379) waxcloths
+86380) waybreads
+86381) wayfarings + wayfaring's
+86382) waylayer + waylayers + waylayer's
+86383) waymark's
+86384) WCs
+86385) weak-mindedly + weak-mindedness + weak-mindedness's
+86386) weakliness's
+86387) wealthies + wealthy's
+86388) weaponeer's
+86389) wearability's
+86390) weariness's
+
+20-DEC-2022
+86391) weatherboard's
+86392) weatherstrip's
+86393) web-like (removed hyphen)
+86394) webbings
+86395) webbier + webbiest
+86396) wedgie + wedgie's
+86397) weensier + weensiest
+86398) weenies + weeny's
+86399) weep's
+86400) weepies + weepie's
+86401) weigh-ins weigh-in's
+86402) weightiness's
+86403) weirds + weird's
+86404) welcome's
+86405) weld's
+86406) well-behavedly
+86407) well-being's
+86408) well-chosen (removed, no hyphen)
+86409) wellhead (removed hyphen)
+86410) well-marked (removed, no hyphen)
+86411) well-organised + well-organized (removed, no hyphen)
+86412) well-prepared (removed, no hyphen)
+86413) well's
+86414) Welshness's
+86415) Wendish's
+86516) wester's
+86517) westernness's
+86518) wet's
+86519) WFFs + WFF's
+86520) whack's
+
+25-DEC-2022
+86521) unintegrated
+86522) wheel-clamps
+86523) wheelbacks + wheelback's
+86524) wheeze's
+86525) whicker's
+86526) whiffle's
+86527) while's
+86528) whimper's
+86529) whimsicalnesses + whimsicalness's
+86530) whinge's
+86531) whinny's
+86532) whippingly + whippings
+86533) whipstitch's
+86534) whir's
+86535) whirl's
+86536) whisk's
+86537) whisper's
+86538) whists
+86539) whistle-blowings + whistle-blowing's
+86540) whistle-stops + whistle-stop's
+86541) whistle's
+86542) whits + whit's
+86543) whitefaces
+86544) whitelist's
+86545) whitewoods
+86546) whizz's
+86547) whodunnits + whodunnit's
+86548) wholemeals
+86549) wholeness's
+86550) wholesaleness's
+86551) whorishness's
+86552) whorling
+86553) wickerworker + wickerworkers + wickerworker's
+86554) wicket-gate (removed, no hyphen)
+86555) wicket-keeping's + wicketkeeping's
+86556) widdle's
+86557) wide-angled
+86558) wide's
+86559) wideness's
+86560) wiggle's
+86561) wild's + wilded
+86562) wilders + wildered + wildering
+86563) wildishly
+86564) will's
+86565) wilt's
+86566) win's
+86567) wince's + wincer + wincers + wincer's
+86568) windage's
+86569) winding-sheet (removed, no hyphen)
+86570) windward's
+
+29-DEC-2022
+86571) winemaking's
+86572) wing-like (removed hyphen)
+86573) winkle's
+86574) winnings + winning's
+86575) wintriness's
+86576) wintrily + wintriness + wintriness's
+86577) WIPs + WIP's
+86578) wipe's
+86579) wiretapper's
+86580) wirings
+86581) wirily + wiriness + wiriness's
+86582) wise's
+86583) wiseasses + wiseass's
+86584) wishing-well (removed, no hyphen)
+86585) wispily + wispiness + wispiness's
+86586) witch-hunting + witch-hunter + witch-hunters + witch-hunter's
+86587) withdrawnness's
+86588) withe + withe's
+86589) witloofs
+86590) wizen (removed: archaic of wizened)
+86591) WMAs + WMA's
+86592) WOs + WO's
+86593) naffest
+86594) naïveté's
+86595) Hermaphroditus's
+86596) geochemist's
+86597) geodetically
+86598) geosphere's
+86599) gestaltist's
+86600) geum's
+86601) ghyll's
+86602) giaour's
+86603) gigue's
+86604) gilgai's
+86605) gillaroo's
+86606) gillion's
+86607) gillyflower's
+86608) girandole's
+86609) girasol's
+86610) girasole's
+86611) glaucously
+86612) glossarist's
+86613) glossatorial + glossator's
+86614) glossographer's
+86615) glug's
+86616) glyptodon's
+86617) goanna's
+86618) gorget's
+86619) greiges
+86620) grill's
+86621) groupists + groupist's
+86622) groundshare's
+86623) predial's
+86624) predicant's
+86625) predictability's
+86626) prelateships + prelateship's
+86627) prelinguistically
+86628) prerequisition's
+86629) presbyterships + presbytership's
+86630) prochirality + prochirality's + prochiralities
+86631) prolegomenously
+86632) pseudogout's
+86633) pseudocosta's
+86634) pseudosophers
+86635) psilothrum's
+86636) psychobilly's
+86637) purblindly + purblindness + purblindness's
+86638) pure-bred's
 =======
-British English Dictionary (Forked) 3.1.5
+British English Dictionary (Forked) 3.1.6
 by Marco A.G.Pinto
