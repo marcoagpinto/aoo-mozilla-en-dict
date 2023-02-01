@@ -95657,6 +95657,232 @@ V3.1.6
 86636) psychobilly's
 86637) purblindly + purblindness + purblindness's
 86638) pure-bred's
+
+
+V3.1.7
+4-JAN-2023
+86630) saveable + deleteable (Peter)
+
+8-JAN-2023
+86631) Euan/M
+86632) Heng/M
+86633) Macleod/M
+86634) Uglow/M
+86635) Byers/M
+86636) Abercrombie/M
+86637) Ashleigh/SM
+86638) Banfield/M
+86639) Barty/M
+86640) Buch/M
+86641) Buhai/M
+86642) Gillon/M
+86643) Hewson/M
+86644) Isenbarger/M
+86645) Karaitiana/M
+86646) McIvor/M
+86647) Moolman/M
+86648) Pilbrow/M
+86649) Pittaway/M
+86650) Plumptre/M
+86651) Riddell/M
+86652) Rondón/M
+86653) Shanti/M
+86654) Udalovas/M
+86655) Weerden/M
+86656) Whiffin/M
+
+9-JAN-2023
+86657) pooing + pooed
+86658) groupings
+86659) growl's
+86660) grumble's
+86661) grunge's + removed plural (uncountable) + er ers er's
+86662) grunt's
+86663) GTAs
+86664) gubernatorially
+86665) guess's
+86666) guesstimate's
+86667) Guildhall's
+86668) guiles
+86669) gumbo + gumbos + gumbo's
+86670) gummies + gummy's
+86671) gunge's
+
+10-JAN-2023
+86672) windfarm + windfarm's + windfarms
+
+16-JAN-2023
+86673) gunnings
+86674) gurner + gurners + gurner's
+86675) gush's
+86676) gut + guts + gut's
+86677) gutters + gutter's
+86678) guttural's
+86679) guzzle's
+86680) Gwenllians
+86681) H-hours + H-hour's
+86682) ha'p'orths + ha'p'orth's
+86683) ha'pennies + ha'penny's + ha'pence + ha'pence's
+86684) ha-has + ha-ha's
+86685) habeases + habeas's
+86686) hack's
+86687) hackishly
+86688) hade (noun + verbs)
+86689) hadjes + hadji + hadjis
+86690) hadronics's + hadronically
+86691) haematogenously
+
+17-JAN-2023
+86692) Czechia + Czechia's (also added to the ZA dictionary)
+86693) haemodynamical
+86694) haemolysis's
+86695) haemophilics (removed plural, it is an adjective)
+86696) haemopoiesis's
+86697) haemopoietically
+86698) haemoptysis's
+86699) haemostasis's
+86700) haggards + haggard's
+86701) hagiographically
+86702) haikus
+86703) hair-raisingly
+86704) hairslide (removed hyphen) + hairslides + hairslide's
+86705) hair-splittings + hair-splitting's + hair-splittingly
+86706) hair-splittery + hair-splittery's
+86707) hairlessly
+86708) half-and-halfs + half-and-half's
+86709) halfbeak + halfbeak's + halfbeaks (removed also the hyphen)
+86710) half-bloods + half-blood's
+86711) half-decks + half-deck's
+86712) halfdeck + halfdecks + halfdeck's
+86713) half-fare (removed, it has no hyphen)
+86714) half-hardies + half-hardy's
+86715) half-hour's
+86716) half-inches + half-inching + half-inched + half-inch's
+
+22-JAN-2023
+86717) half-lengths + half-length's
+86718) half-life's
+86719) half-light's
+86720) half-mast's
+86721) half-moons + half-moon's
+86722) half-pay (removed, no hyphen)
+86723) half-seas-over (removed, no hyphen)
+86724) half-sovereign (removed, no hyphen)
+86725) half-steps + half-step's
+86726) half-wave (removed hyphen) + plural + 's
+86727) halfway (removed hyphen)
+86728) halieutically
+86729) hallo's
+86730) hallow's
+86731) hammeringly + hammerings
+86732) hand-helds + hand-held's
+86733) handclap's + handclapper + handclappers + handclapper's
+86734) handlings
+86735) handservants
+86736) handshakings
+86737) hang-glides + hang-glided
+86738) hang's
+
+26-JAN-2023
+86739) hanger-on's + hangers-on's
+86740) hangings
+86741) haphazards + haphazard's
+86742) happy-go-luckies + happy-go-lucky's
+86743) hara-kiri's
+86744) harangue's
+86745) harbourages + harbourage's
+86746) hard-codes + hard-coding
+86747) hard-core's
+86748) hard-done-by (removed, no hyphens)
+86749) hard-ons + hard-on's
+86750) hards + hard's
+86751) hardbakes
+86752) hardenings
+86753) hardily
+86754) harnesses + harnessing + harnessed
+86755) harpings
+86756) harrumph's
+86757) Harz's
+86758) hastated
+86759) hastily
+86760) hatch's
+86761) skirting + skirtings skirting's
+
+29-JAN-2023
+86762) CMYK + CMYK's
+86763) hatchings
+86764) hatful's + hatfully
+86765) hatha's
+86766) hawkings
+86767) haymakings + haymaking's
+86768) HCTZ (changed to uppercase)
+86769) HDRs
+86770) headbutt's
+86771) headlongly
+86772) headmasterships
+86773) headstrongly
+86774) healable
+86775) heart-leaf's + heart-leaves
+86776) heart-searchings + heart-searching's
+86777) heart-to-hearts + heart-to-heart's
+86778) heartburnings
+86779) heartfeltly + heartfeltness + heartfeltness's
+86780) heartfulness's
+86781) hearty's
+86782) heave's
+86783) heavy-handedly + heavy-handedness + heavy-handedness's
+86784) heavy's
+86785) heavyheartedly
+86786) hebetude's
+86787) heckle's
+86788) Hector + Hector's
+86789) hedonically
+86790) heehaw's
+86791) heelballs
+86792) heelings
+86793) Hegelianisms
+86794) heiling + heiled
+86795) heli-skis + heli-skied
+
+30-JAN-2023
+86796) Nowak + Nowak's + Nowaks
+86797) philogynist's
+86798) philologer's
+86799) philologian's
+86800) philosophaster's
+86801) phalansterians
+86802) smoko's
+86803) sneezewort's
+86804) snib's
+86805) snarking + snarked + snark's
+86806) sociodramatists + sociodramatist's
+86807) sonancies
+86808) sonant's
+86809) sone's
+86810) soothing + soothed
+86811) worth's
+86812) parallelometers + parallelometer's
+86813) mucocoele's
+86814) mucocutaneously
+86815) mucilaginously
+86816) mucates + mucate's
+86817) mucins + mucin's
+86818) mother-in-law's + mothers-in-law's
+86819) motherings + motheringly
+86820) mother-of-pearls + mother-of-pearl's
+86821) motos + moto's
+86822) perestroika's
+86823) hyalites
+86824) hyaloids + hyaloid's + hyaloidal
+86825) hybridities + hybridity's
+86826) hydrobiology's
+86827) hydrographies + hydrography's
+86828) hydrogeology's
+86829) hydromedusa's + hydromedusae's
+86830) hydromels
+86831) hydrofracturing's
+86832) hydroforming's
+86833) hydrogenously
 =======
-British English Dictionary (Forked) 3.1.6
+British English Dictionary (Forked) 3.1.7
 by Marco A.G.Pinto
