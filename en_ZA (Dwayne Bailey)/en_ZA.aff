@@ -23,6 +23,12 @@
 # Added the: ICONV ’ '
 # Sorted alphabetically the tags of the .aff
 #
+# 2023-01-17 (Marco A.G.Pinto)
+# Added: Czechia + Czechia's
+#
+# 2023-01-26 (Marco A.G.Pinto)
+# Fixed/improved: flag 3
+#
 
 SET UTF-8
 TRY esiaénrtolcdugmfphbyvkw-'.zqjxSNRTLCGDMFPHBEAUYOIVKWóöâôZQJXÅçèîêàïüäñ
@@ -1160,25 +1166,31 @@ SFX 1 e ically e
 SFX 1 y ically y 
 SFX 1 er rically er 
 SFX 1 0 tically ma 
-SFX 3 Y 21
+SFX 3 Y 27
 SFX 3 e ist [^aceiou]e 
 SFX 3 y ist [^aeioubp]y 
+SFX 3 0 ist [^eoy] 
+SFX 3 0 ist [^r][^a][aeioubp]y 
 SFX 3 0 ist [aeiou]e 
-SFX 3 0 ist [aeioubp]y 
+SFX 3 y ist apy
 SFX 3 o ist o 
+SFX 3 y ist ropy
 SFX 3 e ist's [^aceiou]e 
 SFX 3 y ist's [^aeioubp]y 
 SFX 3 0 ist's [^eoy] 
+SFX 3 0 ist's [^r][^a][aeioubp]y 
 SFX 3 0 ist's [aeiou]e 
-SFX 3 0 ist's [aeioubp]y 
+SFX 3 y ist's apy 
 SFX 3 o ist's o 
+SFX 3 y ist's ropy 
 SFX 3 e ists [^aceiou]e 
 SFX 3 y ists [^aeioubp]y 
 SFX 3 0 ists [^eoy] 
-SFX 3 0 ists [^eoy] 
+SFX 3 0 ists [^r][^a][aeioubp]y 
 SFX 3 0 ists [aeiou]e 
-SFX 3 0 ists [aeioubp]y 
+SFX 3 y ists apy 
 SFX 3 o ists o 
+SFX 3 y ists ropy 
 SFX 3 ce tist ce 
 SFX 3 ce tist's ce 
 SFX 3 ce tists ce 
