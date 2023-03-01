@@ -95883,6 +95883,40 @@ V3.1.7
 86831) hydrofracturing's
 86832) hydroforming's
 86833) hydrogenously
+
+
+V3.1.8
+4-FEB-2023
+86834) derogative
+
+19-FEB-2023
+86835) reorganisational
+
+21-FEB-2023
+86836) reorganisationist + reorganisationists + reorganisationist's
+
+24-FEB-2023
+86837) Caley + Caley's
+
+25-FEB-2023
+86838) ChatGPT + ChatGPT's
+86839) OpenAI + OpenAI's
+
+26-FEB-2023
+86840) unlevel + unlevels + unlevelling + unlevelled
+86841) unevolved
+
+28-FEB-2023
+86842) airball + airball's + airballs
+86843) awayday + awayday's awaydays
+86844) biradial
+86845) drawly
+86846) drib + drib's + dribs
+86847) lidar + lidar's + lidars
+86848) railbird + railbird's + railbirds
+--
+Removed tons of possessives in plurals ending with "s".
+Improved flag J adding 490 entries
 =======
-British English Dictionary (Forked) 3.1.7
+British English Dictionary (Forked) 3.1.8
 by Marco A.G.Pinto
