@@ -95917,6 +95917,246 @@ V3.1.8
 --
 Removed tons of possessives in plurals ending with "s".
 Improved flag J adding 490 entries
+
+
+
+V3.1.9
+10-MAR-2023
+86849) habitus's
+86850) Hadesarchaea
+86851) haematopoiesis's
+86852) haematopoietically
+86853) haemochromatosis's
+86854) Hails
+86855) hair-raiser + hair-raiser's + hair-raisers
+86856) halberdman + halberdman's
+86857) halberdsman + halberdsman's
+86858) halbardsman + halbardsman's
+86859) half-year + half-year's + half-years
+86860) halfpence's
+86861) halibuts
+86862) haloesque
+86863) happed
+86864) hapticospatial
+86865) haptonomy + haptonomy's
+86866) harambee + harambees + harambee's
+86867) Hargreaveses + Hargreaves's
+86868) Hasidics
+
+13-MAR-2023
+86869) interchange's
+86870) haslets
+86871) hatefully
+86872) haunt's
+86873) hausfrauen + hausfrauen's
+86874) haver's
+86875) HD-DVDs
+86876) HDTVs
+86877) head-ons + head-on's
+86878) headbays
+86879) headmanship + headmanships + headmanship's
+86880) headscarfless
+86881) headwards
+86882) headiness + headiness's
+86883) healthfully
+86884) heavenwardly + heavenwardness + heavenwardness's
+86885) hebdomadally
+86886) heliograph's
+86887) helioseismological + helioseismologically
+86888) helixes
+86889) Hellenicist + Hellenicists + Hellenicist's + Hellenically
+86890) Hellingers
+86891) helminthiases
+86892) help's
+86893) hematopathologist + hematopathologists + hematopathologist's
+86894) hemiacetals + hemiacetal's + hemiacetalic
+86895) hemianopsias
+86896) hemihedrally
+86897) hemiketals + hemiketal's
+86898) hemimetabolism + hemimetabolism's
+86899) hemipareses
+86900) hemipenises
+86901) hemistiches
+86902) hendiadyses
+86903) henotheisms
+86904) hep's
+86905) hepatitises
+86906) hepatologic + hepatological
+86907) hepatopancreases + hepatopancreas's + hepatopancreata + hepatopancreata's
+
+17-MAR-2023
+86908) heptahedral
+86909) herbaceously + herbaceousness + herbaceousness's
+86910) herbariums
+86911) hermeneuticist + hermeneuticists + hermeneuticist's
+86912) hesitance's
+86913) Hesperians
+86914) heterogenously
+86915) heterologously
+86916) heteromorphisms
+86917) heteronomously
+86918) heteronormatively
+86919) heteronymously
+86920) heterophilically
+86921) heteroplasties
+86922) heteroromanticism + heteroromanticism's
+86923) heteroscedastically
+86924) heteroses
+86925) heterosocially
+86926) heterotransplant's
+86927) heterozygote's
+86928) heterozygously + heterozygousness + heterozygousness's
+86929) hex's
+86930) hexad's + hexadic
+
+23-MAR-2023
+86931) hexapla's
+86932) Hexateuchal
+86933) Heys
+86934) hgwy's + hgwys
+86935) hi-tech's
+86936) hidalgo's + hidalgoes
+86937) hide-and-seek's
+86938) hidings + hidingly
+86939) hie's + hied
+86940) hieratics + hieratic's + hieratical + hieratically
+86941) hierocratical
+86942) hierology's
+86943) higgler + higglers + higgler's
+86944) high-flier's
+86945) high-flyer's
+86946) high-hats + high-hat's
+86947) high-jump's
+86948) high-passes + high-pass's
+86949) high-rises + high-rise's
+86950) high-steppers + high-stepper's
+86951) Highs
+86952) high's
+86953) highball's + highballer + highballer's + highballers
+86954) highfalutin's
+86955) highside's
+86956) hijack's
+86957) hike's
+86958) hillocked
+86959) hillwalking's
+86960) Himalayans
+86961) himation's + himatia + himatia's
+86962) hinds + hind's
+86963) hindquarter + hindquarter's
+86964) Hinduisms
+86965) Hindustanis
+86966) hindwards
+86967) hinnie's + hinny's
+86968) hippocampally
+86969) hippocampi's + hippocampuses + hippocampus's
+86970) hippocentaur's
+86971) hippocras's
+86972) Hippodrome's
+86973) hippophagy's
+86974) hippophil's + hippophile's
+86975) hippopotami's + hippopotamic
+86976) hiraganas + hiragana's
+
+25-MAR-2023
+86977) hircine's
+86978) hiring's
+86979) hirsutely
+86980) Hispaniolans + Hispaniolan's
+86981) hissings + hissingly
+86982) hists + hist's
+86983) histochemically + histochemicals + histochemical's
+86984) histocompatibilities + histocompatibility's
+86985) histogeneses
+86986) histogenetically
+86987) histography's
+86988) histolyses
+86989) histolytically
+86990) histomorphologies + histomorphology's + histomorphological
+              + histomorphologically
+86991) histonomy's
+86992) histopathologies + histopathology's
+86993) histoplasmin's
+86994) histoplasmosis's + histoplasmoses
+86995) historicals + historical's + historically
+86996) historiographs
+86997) hit-and-runs + hit-and-run's
+86998) hitch's
+86999) Hitchmans
+87000) hitherwards
+87001) hoardings + hoardingly
+87002) hoarsens + hoarsening
+87003) hobble's
+87004) Hobhouses
+87005) hocus-pocus's + hocus-pocuser + hocus-pocusers + hocus-pocuser's
+87006) hoddens
+87007) hodiernally
+87008) hoed + hoer + hoers + hoer's
+
+28-MAR-2023
+87009) hoick's
+87010) hoist's
+87011) hoity-toitier + hoity-toitiest + hoity-toitiness + hoity-toitiness's
+87012) hokey-cokey's
+87013) hokkus
+87014) hold's
+87015) Holdernesses
+87016) Holinesses + Holiness's
+87017) hollow's
+87018) Holmers
+87019) Holmesians + Holmesian's
+87020) Holocaust's
+87021) holomorphically
+87022) holophrasis's + holophrases
+87023) holophrastically
+87024) home-borns + home-born's
+87025) homeowner (removed hyphen)
+87026) homeowning (removed hyphen)
+87027) homeschool + homeschools + homeschooling + homeschooled
+87028) homebuilding's
+87029) homelessly
+87030) homelikeness + homelikeness's
+87031) homeomorphically
+
+30-MAR-2023
+87032) homeopathics + homeopathic's + homeopathical
+87033) homeostasis's
+87034) homeostatical + homeostatically
+87035) Homers
+87036) Homerite (removed also derivates, obsolete)
+87037) Himyarite + Himyarites + Himyarite's (current form of previous word)
+87038) Homerology's
+87039) homeschooler + homeschoolers + homeschooler's + homeschool's
+87040) homeshoring's
+87041) homesickly
+87042) homesourcing's
+87043) homeward-bounder + homeward-bounders + homeward-bounder's
+87044) homeys + homey's
+87045) homiletical + homiletically
+87046) homocentrical
+87047) homocercality + homocercality's
+87048) homoeodomains + homoeodomain's
+87049) homoeopath's
+
+31-MAR-2023
+87050) cavitate + cavitates + cavitating + cavitated
+87051) coopt + coopts + coopting + coopted
+87052) cutout + cutouts + cutout's
+87053) donee + donees + donee's
+87054) ecotropic
+87055) ecotype + ecotypes + ecotype's
+87056) ecotypic + ecotypical + ecotypically
+87057) emotivity + emotivity's
+87058) googol
+87059) intentive + intentively
+87060) logroll + logrolls + logrolling + logrolled + logroll's + -er -ers -er's
+87061) loofa + loofas + loofa's
+87062) mentee + mentees + mentee's
+87063) morse + morses + morse's
+87064) outro + outros + outro's
+87065) tannic
+87066) tote + totes + toting + toted + tote's
+87067) touse + touses + tousing + toused + touse's
+87068) unquelled
 =======
-British English Dictionary (Forked) 3.1.8
+British English Dictionary (Forked) 3.1.9
 by Marco A.G.Pinto
