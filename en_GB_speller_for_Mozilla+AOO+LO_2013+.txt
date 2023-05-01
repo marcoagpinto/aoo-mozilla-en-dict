@@ -96157,6 +96157,583 @@ V3.1.9
 87066) tote + totes + toting + toted + tote's
 87067) touse + touses + tousing + toused + touse's
 87068) unquelled
+
+
+V3.2.0
+5-APR-2023
+87069) screwdriving + screwdriving's
+87070) Volodymyr + Volodymyr's
+87071) Zelensky + Zelensky's
+87072) Zelenskyy + Zelenskyy's
+
+6-APR-2023
+87073) sackable + sack-like
+87074) homoeotherms + homoeotherm's
+87075) homoerotics + homoerotics's + homoerotically
+87076) homogamously
+87077) homogenously
+87078) homologation's
+87079) homologously
+87080) homomorphs
+87081) homonymously
+87082) homonymies + homonymy's
+87083) homoousian's
+87084) homophonously
+87085) homopolymer + homopolymer's
+87086) homorganics + homorganic's
+87087) homoromantic's + homoromanticism + homoromanticism's
+87088) homosex's
+87089) homosexualism's
+87090) homosocialities + homosociality's
+87091) homotopies + homotopy's
+87092) homousian's
+87093) homozygosity's
+87094) clowder + clowders + clowder's
+87095) homozygousness + homozygousness's
+87096) honourability's
+87097) hoo-has + hoo-ha's
+87098) hoovers
+87099) hopeful's
+87100) horaries + horary's
+87101) horizontal's
+87102) horizontalities
+87103) Horlicks + Horlicks's
+87104) horridity + horridity's
+87105) horsebreaker (removed hyphen) + horsebreaker's + horsebreakers
+87106) includable + includeable
+87107) demangle + demangles + demangling + demangled
+
+9-APR-2023
+87108) commentariat + commentariats + commentariat's
+87109) horsecloth (removed hyphen) + horsecloths + horsecloth's
+87110) horse-trading's
+87111) horseplay's + horseplayer + horseplayer's + horseplayers
+87112) horsepowers + horsepower's
+87113) horseshit's
+87114) horseys + horsey's
+87115) horsings
+87116) horsies + horsy's
+87117) hortatively + hortatives + hortative's
+87118) hortatories + hortatory's
+87119) hoses + hosing + hosed
+
+11-APR-2023
+87120) hotlink's
+87121) hotties + hotty's
+87122) houghs
+87123) houndings
+87124) hourly's
+87125) house-hunting's
+87126) house-husband (removed, no hyphen)
+87127) house-trains + house-training
+87128) houseboundness + houseboundness's
+87129) housebuilding's
+87130) housecrafts
+87131) housemastering's
+87132) housemasterships + housemastership's
+87133) housemating's
+87134) housemongers + housemonger's
+87135) houseplaces
+87136) housestead's + housesteads
+87137) housewifery's
+87138) housewifeship's
+87139) housings
+87140) hover's
+87141) hovercrafts
+87142) how-to's
+87143) hoys
+87144) hoya + hoyas + hoya's
+87145) HPVs + HPV's
+87146) HQs + HQ's
+87147) HRTs
+87148) html's
+87149) HTPC's
+87150) http's
+87151) hubble-bubbles + hubble-bubble's
+87152) hubbubs
+87153) HUDs + HUD's
+87154) Hudibrastically
+87155) Hudsonians + Hudsonian's
+87156) hug's
+87157) huggableness + huggableness's
+87158) hum's
+87159) humanistical + humanistically
+87160) humble's
+87161) humbuggeries
+87162) humeral's
+87163) humeri's + humeruses
+87164) humongously
+87165) humoursomeness + humoursomeness's
+87166) humpies + humpy's
+87167) Hunnish's + Hunnishness + Hunnishness's
+87168) hunt's
+87169) hurl's
+87170) hurlings
+87171) hurly-burly's
+87172) hurt's
+87173) husband-to-be's + husbands-to-be's
+87174) husbandliness + husbandliness's
+87175) husbandships
+87176) hush's
+87177) huskings
+87178) husky's
+87179) Hussitism's
+87180) hustle's
+87181) hydraulics's
+87182) hydrazines
+87183) hydrocephali's
+87184) hydrocephalic's + hydrocephalics
+87185) hydrochemistry's
+87186) hydrodynamically + hydrodynamics's
+87187) hydroelectrical + hydrogeologically
+87188) hydromagnetics's
+87189) unescape + unescapes + unescaping + unescaped
+87190) unterminate + unterminates + unterminating + unterminated
+87191) globbing + globbed
+87192) hydromechanics's
+87193) hydroniums + hydronium's
+87194) hydropathics + hydropathic's + hydropathical + hydropathically
+87195) hydropathies
+87196) hydrophilicities + hydrophilicity's
+87197) hydrophily's
+87198) hydrophobicities + hydrophobicity's
+87199) hydrophyte's
+87200) hydroponical + hydroponically + hydroponicist + -ist's + ists
+87201) hydroquinones
+87202) hydroxy's
+87203) hydroxylation + hydroxylation's + hydroxylations
+87204) hygienics's
+87205) hylics + hylic's + hylicist + hylicists + hylicist's
+87206) hylomorphical + hylomorphically
+87207) hylozoisms
+87208) hymenial
+87209) hymeniums
+87210) hyoscines
+87211) hyperalgesias + hyperalgesia's
+87212) hyperbarically
+87213) hypercalcaemia's + hypercalcaemias
+87214) hypercapnia's
+87215) hypercholesterolaemia's + hypercholesterolaemias
+87216) hyperchromasia's + hyperchromasias
+87217) hypercompetitiveness + hypercompetitiveness's
+87218) hypercomplexes + hypercomplex's
+87219) hyperconnectedness + hyperconnectedness's
+87220) hyperconsciousness + hyperconsciousness's + hyperconsciousnesses
+87221) hypercorrectly + hypercorrectness + hypercorrectness's
+
+12-APR-2023
+87222) demangler + demanglers + demangler's
+87223) hypercriticality + hypercriticality's
+87224) hyperdiploidy's
+87225) hyperemesis's + hyperemeses
+87226) hyperfocus's
+87227) hypergeometrics + hypergeometric's + hypergeometrical + hypergeometrically
+87228) hyperglycaemias + hyperglycaemia's
+87229) hyperionism + hyperionism's + hyperionisms + Hyperionian + hyperionic
+87230) hyperkeratosis's + hyperkeratoses
+87231) hyperkinesis's + hyperkineses
+87232) hyperkinetics + hyperkinetic's
+87233) hyperlipaemias + hyperlipaemia's
+87234) hypermetropias + hypermetropia's
+87235) hypernuclei's + hypernucleus's
+87236) hyperon's
+87237) hyperopias + hyperopically
+87238) hyperplasticity + hyperplasticity's
+87239) hyperpolarised
+87240) hyperprolactinaemia's
+87241) hyperproliferatively
+87242) hyperresponsiveness's
+
+14-APR-2023
+87243) hypersensitively
+87244) hypersonics + hypersonics's
+87245) hypersthenes
+87246) hyphenate's
+87247) hypnagogia's
+87248) hypnogogia's
+87249) hypnophobia's
+87250) hypnotic's + hypnotical
+87251) hypnotisation's + hypnotisations + hypnotization's + hypnotizations
+87252) hypoallergenicity + hypoallergenicity's
+87253) hypoblastic
+87254) hypocalcaemia + hypocalcaemia's + hypocalcaemias
+87255) hypodermal + hypodermally
+87256) hypodermises + hypodermis + hypodermes
+87257) hypogastrian
+87258) hypogeums
+87259) hypoglossals + hypoglossal's
+87260) hypogonadotropism + hypogonadotropism's
+87261) hypokalaemias + hypokalaemia's
+87262) hypolimnial
+87263) hypomagnesaemia's
+87264) hypomanias
+87265) hyposensitisations+hyposensitisation's+hyposensitizations+hyposensitization's
+87266) hypostasization + hypostasizations + hypostasization's
+87267) hypostatically
+87268) hypostatization + hypostatizations + hypostatization's
+
+15-APR-2023
+87269) hypotactically
+87270) hypothalamuses
+87271) hypothermally
+87272) hypothetical's
+87273) hypotheticality + hypotheticality's + hypotheticalities
+87274) hypoxias + hypoxial
+87275) hypsography's
+87276) onymously
+87277) ontogenesis's + ontogeneses
+87278) shiurs
+87279) sneezier + sneeziest
+87280) nocuously
+87281) selectness's
+87282) selachian's
+87283) switchgears + switchgear's
+87284) switchovers + switchover's
+87285) toothsomeness + toothsomeness's
+87286) topazolites
+87287) schoolings
+87288) schoolchildren's
+87289) solarization's + solarisation's
+87290) solander's
+87291) shemozzle's
+87292) ragtags
+87293) kick-boxing's
+87294) Gallicanisms
+87295) biodiesels
+87296) alcoholometric + alcoholometrical
+87297) aldermancies + aldermancy's
+87298) aldermanical
+87299) aldosteronisms + aldosteronism's
+87300) aldermanships + aldermanship's
+87301) bridgings
+87302) bereftness + bereftness's
+87303) diphase's
+87304) duffles
+87305) grograms
+87306) allegoricalness's
+87307) allelomorphisms
+87308) allamanda's
+87309) allemandes
+87310) mixolydian
+87311) mixen's
+
+16-APR-2023
+87312) diverter + diverters + diverter's
+87313) Xanaxes
+87314) xenologer + xenologers + xenologer's
+87315) xerodermas + xerodermata + xerodermata's
+87316) xerographically
+87317) yahs + yah's
+87318) yakitoris
+87319) yakuzas
+87320) year-rounder + year-rounders + year-rounder's
+87321) saprophage + saprophages + saprophage's
+87322) saprophagy + saprophagy's
+87323) sarangi's + sarangist + sarangists + sarangist's
+87324) sarape's
+87325) sarcastical + sarcasticalness + sarcasticalness's
+87326) sarcenets
+87327) sarcoidosis's + sarcoidoses
+87328) sarcoplasms + sarcoplasmic
+87329) sardelle's
+87330) sardonical
+87331) sardonicism + sardonicism's
+87332) sardonyx's + sardonyxes
+87333) saree's
+
+17-APR-2023
+87334) Sargassos
+87335) styloids + styloid's
+87336) stylobates
+87337) stylometry's + stylometrically
+87338) suavities
+87339) sub-aqua's
+87340) sub-assembly's
+87341) sub-bases
+87342) trod's
+87343) troglodytically
+87344) trophical
+87345) trot's
+87346) trousseaux's
+87347) trovers
+87348) truckle's
+87349) truculencies
+87350) trudge's
+87351) trueness's
+87352) trustiness's
+87353) truthiness's
+87354) trundle's
+87355) truss's
+87356) trustably
+87357) tsareviches + tsarevich's + tsarevichi + tsarevichi's
+87358) tsetses
+87359) telecomputing's
+87360) telemanometers + telemanometer's
+87361) temperateness's
+87362) monochromist's
+87363) meritists
+87364) ninons
+87365) nip's
+87366) nitrifaction's
+87367) nivosity's
+87368) oofs
+87369) piler + piler's
+87370) piledriving's
+87371) potamologist + potamologists + potamologist's
+87372) potentness's
+87373) pranksomeness + pranksomeness's
+87374) prattle's
+87375) sightedness's
+87376) sightliness's
+87377) sifting's + siftingly
+87378) sigh's
+87379) sightlessness's
+87380) silicas
+87381) simplisms
+87382) sinfoniettas + sinfoniette + sinfoniette's
+87383) Sinology's
+87384) sitophobic + sitophobics + sitophobic's
+87385) sitrep's
+87386) sittings + sittingly
+87387) seminomas + seminoma's + seminomata + seminomata's
+87388) semitendinosus's
+87389) Semitisms
+87390) southernwoods
+
+19-APR-2023
+87391) SimAnt + SimAnt's
+87392) SimCity + SimCity's
+87393) SimEarth + SimEarth's
+87394) Civilization + Civilization's
+
+21-APR-2023
+87395) gasconades
+87396) genitally + genital's
+87397) geoengineering's
+87398) geosynchronously
+87399) Germanic + Germanics
+87400) germon's
+87401) gestalts + gestalten + gestalten's
+87402) gesticulator's
+87403) Gilbertianism + Gilbertianism's
+87404) giltwood's
+87405) girldom's
+87406) gists
+87407) glabrously + glabrousness + glabrousness's
+87408) glaikits + glaikit's
+87409) glairs + glair's
+87410) glare's
+87411) gleesomely + gleesomeness + gleesomeness's
+87412) glengarry's
+87413) gley's
+87414) globe-trotting's
+87415) glomerulonephritis's + glomerulonephritides + glomerulonephrites
+87416) globigerina's + globigerinae + globigerinae's
+87417) glocalisations + glocalisation's + glocalizations + glocalization's
+87418) interfacings
+87419) monographer's + monographist's
+87420) monomark's
+87421) monometallisms + monometallism's
+87422) monologuist's
+87423) monologically
+87424) monopodiums + monopodium's + monopodia's
+87425) monosodium's
+87426) Nipponese's
+87427) otology's
+87428) Otomanguean's + Otomangueanist + Otomangueanists + Otomangueanist's
+87429) rabidities
+87430) robotologists + robotologist's
+87431) rockabillies + rockabillys
+87432) roentgenological + roentgenologically
+
+26-APR-2023
+87433) limitate
+87434) tabbable
+87435) tabless
+87436) EV + EVs + EV's
+
+27-APR-2023
+87437) bateau + bateau's + bateaux + bateaux's
+87438) benefitting + benefitted
+87439) biff +s +ing +ed + 's
+87440) demic
+87441) drooly
+87442) illiad + illiads + illiad's
+87443) kippa + kippas + kippa's + kippot + kippot's
+87444) mentee + mentees + mentee's
+87445) panini + paninis + panini's + panino + panino's
+87446) phenom + phenoms + phenom's
+87447) roily
+87448) rucola + rucola's
+87449) tutee + tutees + tutee's
+87450) unceded
+87451) uneffected
+87452) weald + wealds + weald's
+87453) wold + wolds + wold's
+
+29-APR-2023
+87454) morphia's
+87455) morphosyntaxes + morphosyntax's
+87456) morphometries + morphometry's + morphometrical
+87457) offsprings + offspringless
+87458) sissoo's
+87459) sirrah's
+87460) sirenian's
+87461) sirdar's + sirdarship + sirdarship's + sirdarships
+87462) siphuncle's
+87463) sippet's
+87464) squamously + squamousness + squamousness's
+87465) stanzaical + stanzaically
+87466) statesmanships
+87467) urtication's
+87468) urticarias + urticaria's
+87469) ursines + ursine's
+87470) urostyles + urostyle's
+87471) uroscopy's + uroscopies
+87472) uropygium's + uropygia + uropygia's
+87473) urophilia's
+87474) uropatagia's
+87475) urolithiasis's + urolithiases
+87476) urbanisms
+87477) urbanologist + urbanologists + urbanologist's
+87478) syllabubs
+87479) syenites + syenite's
+87480) sweetcorns + sweetcorn's
+87481) spathaceously
+87482) sowthistle's
+87483) spacialities
+87484) sorrowers
+87485) sorptions
+87486) sordors
+87487) solvableness's
+87488) solmization's
+87489) U-boat's + U-boater + U-boaters + U-boater's
+87490) udals
+87491) ullages + ullage's
+87492) Ziemers
+87493) soulies
+87494) soulstresses + soulstress's
+87495) soundnesses + soundness's
+87496) sowbread's
+87497) sparaxises
+87498) spectrohelioscope's
+87499) spectatorships + spectatorship's
+87500) speciosities
+87501) speedster's
+87502) speedboaters + speedboater's
+87503) speech-maker's
+87504) speech-writer's
+87505) spence's
+87506) spencer's
+87507) subahships + subahship's
+87508) subaks + subak's
+87509) subalgebras + subalgebra's + subalgebrae + subalgebrae's
+87510) stumpages
+87511) stuff's
+87512) stum's
+87513) structuralisms
+87514) strophanthins + strophanthin's
+87515) strummer's
+87516) structurations + structuration's + ist + ists + ist's +al +ally
+87517) struggle's
+87518) strut's
+87519) microfungi's
+87520) cacciatores + cacciatore's
+87521) cacciatora's
+87522) disclosures + disclosure's
+87523) antimilitarisms + antimilitarism's
+87524) antielectrons + antielectron's
+87525) antidemocratical + antidemocratically
+87526) antifundamentalists
+87527) antiferromagnetism's
+87528) antidromical + antidromically
+87529) antiblackism's
+87530) anticholinergic's
+87531) anticathode's
+87532) anticlericalism's
+87533) anticholinesterases + anticholinesterase's
+87534) anticipator's
+87535) anticlerical's + ist + ists +ist's
+87536) anticoagulant's
+87537) antibacterial's
+87538) antianxieties + antianxiety's
+87539) ambifix's
+87540) ambiences
+87541) ambients + ambient's
+87542) alguazil's
+87543) algraphy's
+87544) alicyclic's
+87545) alienee's
+87546) alienabilities + alienability's
+87547) alimentations + alimentation's
+87548) alizarins + alizarin's
+87549) alkanols + alkanol's
+87550) alkylamines + alkylamine's
+87551) alkyd's
+87552) alkoxides + alkoxide's
+87553) discernibility's
+87554) discoverabilities + discoverability's
+87555) mazzard's
+87556) mediatorships + mediatorship's
+87557) meditationists + meditationist's
+87558) mediumships + mediumship's
+87559) megabasites
+87560) megalosaurs
+87561) megalosaurians + megalosaurian's
+87562) megapod's
+87563) melodically
+87564) shabbinesses + shabbiness's
+87565) shadblows + shadblow's
+87566) shallop's
+87567) tyrosines
+87568) stringendos + stringendo's + stringendi + stringendi's
+87569) stroganoffs + stroganoff's
+87570) stringybarks + stringybark's
+87571) listenerships + listenership's
+87572) lithophiles + lithophile's
+87573) lithopones
+87574) lithotomies
+87575) lithotrities
+87576) litharges
+87577) rappees
+87578) raphias + raphia's
+87579) ricercar's
+87580) ricksha's
+87581) rickey's
+87582) nonet's
+87583) misanthropism's
+87584) skinner's
+87585) puissances
+87586) puisnes + puisne's
+87587) puke's
+87588) ammonoid's
+87589) amphipod's
+87590) amphibole's
+87591) amphiprostyle's
+87592) amphisbaena's
+87593) amoxicillins + amoxicillin's
+87594) amphibolites + amphibolite's
+87595) amoxycillins + amoxycillin's
+87596) moderatorship's
+87597) sprawl's
+87598) striations
+87599) stridulantly
+87600) wryness's
+87601) stereoscopies
+87602) stereopticons + stereopticon's
+87603) stereoselectivities
+87604) stereospecificities
+87605) stockmanship's
+87606) stockpile's
+87607) saviourship's
+87608) solvation's
+87609) exergonicity + exergonicity's + exergonicities
+87610) algebroid's
+87611) Algonkian's
+87612) Algonquian's
+87613) algorists + algorist's + algoristic
+87614) algicide's
+87615) algophobia's
 =======
-British English Dictionary (Forked) 3.1.9
+British English Dictionary (Forked) 3.2.0
 by Marco A.G.Pinto
