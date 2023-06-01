@@ -96734,6 +96734,267 @@ V3.2.0
 87613) algorists + algorist's + algoristic
 87614) algicide's
 87615) algophobia's
+
+
+V3.2.1
+3-MAY-2023
+87616) coworker + coworkers + coworker's (it is also valid without hyphen)
+87617) stapedes
+
+7-MAY-2023
+87618) zanders
+87619) Zeelandic + Zeelandic's + Zeelander + Zeelanders + Zeelander's
+87620) zeitgeists + zeitgeister + zeitgeister's + zeitgeisten + zeitgeisten's
+87621) zests + zester + zesters + zester's
+87622) ziplock's + ziplocked
+87623) Zond's
+87624) zonkedness + zonkedness's
+87625) zoochorously
+87626) Zoom + Zooms + Zoom's
+87627) zoomer + zoomers + zoomer's
+87628) zooplanktons
+87629) zymotics
+
+8-MAY-2023
+87630) Ys
+87631) yearner + yearners + yearner's
+87632) yearnful + yearnfully + yearnfulness + yearnfulness's
+87633) You-Know-Who
+87634) Youngmans (plural of proper name)
+87635) yuans
+87636) yucker + yuckers + yucker's
+87637) yuks
+87638) yuppification's
+
+12-MAY-2023
+87639) quacker + quackers + quacker's
+87640) quadrangularly
+87641) quadratical
+87642) quadriarticulated
+87643) quadringenary + quadringenaries + quadringenary's
+87644) quadrophonic
+87645) quadrupedalism + quadrupedalism's
+87646) quadrupedality + quadrupedality's
+87647) quantaloid + quantaloids + quantaloid's
+87648) quaquaversality + quaquaversality's
+87649) quarer
+87650) quarter-finalist + quarter-finalists + quarter-finalist's
+87651) quasisynchronously
+87652) quasilinearity + quasilinearity's
+87653) quasiperiodicity + quasiperiodicities + quasiperiodicity's
+
+14-MAY-2023
+87654) quashable
+87655) quicks + quick's
+87656) quintuplicate's
+87657) quiver's
+87658) quoilers
+87659) quondamship + quondamship's
+87660) quotableness + quotableness's
+87661) quote's
+87662) Rabelaisianism + Rabelaisianism's
+87663) rabis
+87664) rabids + rabid's
+87665) Rachmanisms
+87666) Khachaturians
+87667) Khalifas
+87668) menehunes + menehune's
+87669) menstruousness + menstruousness's
+87670) piss's
+87671) piscaries
+87672) pithecoids
+87673) pivotings
+87674) pizzle's
+87675) organogenesis's + organogeneses
+87676) orgulously
+87677) orneriness
+87678) ortolan's
+87679) Orwellianisms + Orwellianism's
+87680) Orwellism's
+87681) osculatories + osculatory's
+87682) Slavisms
+87683) Slavonians + Slavonian's
+87684) Slavonically
+87685) slavey's + slavies
+87686) slipshodly + slipshodness + slipshodness's
+87687) slivovitzes
+87688) sloot's
+87689) slumberousness + slumberousness's + slumberously
+87690) slumbrousness + slumbrousness's + slumbrously
+87691) slynesses
+
+15-MAY-2023
+87692) smartnesses + smartness's
+87693) smalts
+87694) smallnesses + smallness's
+87695) smarm's
+87696) Sultan's
+87697) sumptuosities
+
+17-MAY-2023
+87698) jackhammers
+87699) Jacobinically
+87700) jankers's
+87701) japan's
+87702) jarrings + jarring's
+87703) JCRs + JCR's
+87704) Jeffrieses + Jeffries's
+87705) jettison's
+87706) jettisonable
+87707) jiggers + jigger's
+87708) jingos
+87709) joggle's
+87710) journalistical
+87711) journalistics + journalistics's
+87712) Judaisation's
+87713) jugated
+87714) juggle's
+87715) juristical + juristically
+87716) jussive's
+
+
+20-MAY-2023
+87717) honoris + causa
+87718) justices + justice's
+87719) juvenilely + juvenileness + juvenileness's
+87720) juvenilia's
+87721) juxtaposer + juxtaposers + juxtaposer's
+87722) fractographical
+87723) electroslag's
+87724) electroweakino + electroweakinos + electroweakino's
+87725) elevationally
+87726) elfishness + elfishness's
+87727) elvishly
+87728) Elysians + Elysian's
+87729) Elzevir's
+87730) gawdy
+87731) gaysomeness + gaysomeness's
+87732) montanes + montane's
+87733) monthly's
+87734) monticule's
+87735) monumentalities
+87736) montmorillonites + montmorillonite's
+87737) moola's
+87738) placophorans + placophoran's
+
+
+24-MAY-2023
+87739) Kabbala's + Kabbalahs + Kabbalah's
+87740) Kabbalism's + Kabbalist's
+87741) kabooms + kaboom's
+87742) Kaddishes + Kaddishim + Kaddishim's
+87743) Kafkaesquely
+87744) kails
+87745) kainites
+87746) Kaisers
+87747) kanas
+87748) kanjis + kanji's
+87749) kaolins
+87750) karaokes
+87751) karate-chops + karate-chopping + karate-chopped
+87752) Kardashians
+87753) karmically
+87754) karyokinesis's + karyokineses
+87755) karyotyped + karyotype's
+87756) katabatics + katabatic's + katabatically
+87757) katakanas
+87758) Kazanjians
+87759) kcals
+87760) keck's
+87761) kedge's
+87762) keek's
+87763) keens
+87764) Keeners
+87765) keenings
+87766) keep-fit's
+87767) keeshond's
+87768) kelpie's
+87769) kelson's
+87770) kemps + kempy
+87771) Kempstons
+87772) kendoists + kendoist's
+87773) kenosis's + kenoses
+87774) kenoticist + kenoticists + kenoticist's + kenoticism + kenoticism's
+87775) keratinisation's + keratinisations + keratinization's + keratinizations
+87776) keratitises + keratitides
+87777) keratomileuses
+87778) kern's
+
+26-MAY-2023
+87779) termly
+87780) wellbeing + wellbeing's
+87781) kerseymeres
+87782) kerygmas
+87783) ketogenesis's
+87784) ketonaemia's
+87785) ketoses
+87786) keylogging's
+87787) keypunch's
+87788) khazis
+87789) kibbutzes
+87790) kibitka's
+87791) kiblahs
+87792) kick-start's
+87793) kick's
+87794) kid-glove's
+87795) kiddings
+87796) kiddishes + kiddish's + kiddishim + kiddishim's
+87797) kiddushes + kiddush's + kiddushim + kiddushim's
+87798) kiddies
+87799) boustrophedonic + boustrophedonically
+87800) kidnap's
+87801) kill's
+87802) kilohertzes
+87803) kilowatt-hours + kilowatt-hour's
+87804) kind's
+87805) kindlings
+87806) kinematical
+87807) kinesics's
+87808) kinesis's
+87809) kinetical
+87810) kineticism + kineticism's
+87811) Kinzlers
+87812) Kiplings
+87813) Kiplingism + Kiplingisms + Kiplingism's
+87814) kipper's + kippers
+87815) kippah + kippahs + kippah's + kippoth + kippoth's
+87816) Kirchers
+87817) Kirchners
+87818) kite-flying's
+87819) kittles + kittling + kittled
+87820) kliegs + klieg's
+87821) Klines
+87822) k-line + k-lines + k-line's
+87823) knap's
+87824) knavishness + knavishness's
+87825) knee-high's
+
+28-MAY-2023
+87826) copulae + copulae's
+87827) hegemonism + hegemonisms + hegemonism's
+87828) hegemonistic
+87829) copyeditor + copyeditors + copyeditor's + copyeditorial
+87830) systemize +s +ing +ed +ion +ions +ion's +er +ers +er's
+87831) systemise +s +ing +ed +ion +ions +ion's +er +ers +er's
+87832) copyability + copyability's
+87833) architecting + architected
+87834) rearchitect + rearchitects  +rearchitecting + rearchitected
+
+31-MAY-2023
+87835) lawfare + lawfare's
+87836) acquihire +s +ing +ed +'s
+87837) wheatgrasses
+87838) explanandum + explanandum's + explananda + explananda's
+87839) explanans + explanantia + explanantia's
+87840) explicandum + explicandum's + explicanda + explicanda's
+87841) abugida + abugidas + abugida's
+87842) alphasyllabary + alphasyllabary's + alphasyllabaries
+87843) neosyllabary + neosyllabary's + neosyllabaries
+87844) metagame +s +ing +ed +'s
+87845) theorycraft +s +ing +ed +'s +er +ers +er's
+87846) merrow + merrows + merrow's
+87847) woodsy + woodsier + woodsiest + woodsiness + woodsiness's
+87848) budtender + budtenders + budtender's
 =======
-British English Dictionary (Forked) 3.2.0
+British English Dictionary (Forked) 3.2.1
 by Marco A.G.Pinto
