@@ -96995,6 +96995,333 @@ V3.2.1
 87846) merrow + merrows + merrow's
 87847) woodsy + woodsier + woodsiest + woodsiness + woodsiness's
 87848) budtender + budtenders + budtender's
+
+
+V3.2.2
+2-JUN-2023
+87849) yuzu + yuzus + yuzu's
+
+4-JUN-2023
+87850) Jemima + Jemimas + Jemima's
+
+6-JUN-2023
+87851) Daesh + Daesh's
+87852) knee-jerks + knee-jerk's + knee-jerky
+87853) kneeless
+87854) knees-ups + knees-up's
+87855) knick-knackery's
+87856) knicking + knicked
+87857) Knickerbockers + Knickerbocker's
+87858) knife-edges + knife-edge's
+87859) knight-errantries + knight-errantry's
+87860) knightless
+87861) knit's
+87862) knocking-shops
+87863) knottings
+87864) knotworks
+87865) know-how's
+87866) know-it-alls + know-it-all's
+87867) Kos
+87868) KOs
+87869) Kohlers
+87870) kohlrabis
+87871) korfballs
+87872) Kotlers
+87873) kraemeriid + kraemeriids + kraemeriid's
+87874) Kramers
+87875) krimmers
+87876) Krizans
+87877) Krogers
+87878) kronen + kronen's
+87879) Kroneckerian + Kroneckerians + Kroneckerian's
+
+9-JUN-2023
+87880) Linuxes + Linuxen + Linuxen's
+87881) Kruegers
+87882) Krugers
+87883) Kus
+87884) kumaras
+87885) kurtosises + kurtoses
+87886) Kusters
+87887) Kutchers
+87888) kvasses
+87889) Kwans
+87890) kwashiorkors
+87891) kyphosis's + kyphoses
+87892) l10n's
+87893) Labs
+87894) labiodentals + labiodental's
+87895) indiscretely
+87896) indiscernibilities + indiscernibility's
+87897) inequivalently
+87898) inequivalves + inequivalve's
+87899) infecture's
+87900) infectresses + infectress's
+87901) infectum's
+87902) multiculturalism's
+87903) multidialectalism's
+87904) multicollisional
+87905) multifunctionalities + multifunctionality's
+87906) multilineality's
+87907) multilingual's
+87908) multilocularity's
+87909) multispecialists + multispecialist's
+87910) perjuriously
+87911) pernoctation's
+87912) peshers + pesher's + pesharim + pesharim's
+87913) snaggier + snaggiest
+87914) transexualism's
+87915) transillumination's
+87916) transitoriness's
+87917) transliterator's
+87918) transmigrator's
+87919) transposal's
+87920) transpositively
+87921) mayorships
+87922) mazarines + mazarine's
+87923) gangrenously
+
+11-JUN-2023
+87924) rosarists + rosarist's
+87925) ropemanship's
+87926) myomorphs + myomorph's
+87927) mylohyoideus's + mylohyoidei + mylohyoidei's
+87928) mettlesomely + mettlesomeness + mettlesomeness's
+87929) metrum's
+87930) metta's
+87931) initialness's
+87932) initiallers + initialler's
+87933) inhomogeneously
+87934) Eurofanatics + Eurofanatic's
+87935) androgyne's
+87936) anecdotist's
+87937) anechoically
+87938) anecdotalist's
+87939) androsterones + androsterone's
+87940) androphilia's
+87941) andrologists + andrologist's + andrology's
+87942) androecium's + androecia's
+87943) androcracy's
+87944) androcentrism's
+87945) androcentrically
+87946) andradites + andradite's
+87947) andesites + andesite's
+87948) ancho's
+87949) anchoresses + anchoress's
+87950) ancillary's
+87951) Andalusian's
+87952) andante's
+87953) andantino's
+87954) anchorperson's + anchorpeople's
+87955) anchorets + anchoret's
+87956) anchoretical + anchoretically
+87957) biferrocenes + biferrocene's
+87958) Bildungsroman's + Bildungsromane + Bildungsromane's
+87959) binocular's
+87960) biochores
+87961) conjugants + conjugant's
+87962) conjunctivae's
+87963) conking + conk's
+87964) Constance's
+
+13-JUN-2023
+87965) omertà + omertàs + omertà's
+87966) cathedra + cathedras + cathedra's + cathedrae + cathedrae's
+
+16-JUN-2023
+87967) Gas + Ga's
+87968) gab's
+87969) gabble's
+87970) Gabby + Gabby's
+87971) gad's
+87972) gadolinites
+87973) gag's
+87974) gaggle's + gaggler + gagglers + gaggler's
+87975) gain's
+87976) galactical
+87977) galbanums
+87978) galipots
+87979) gallant's
+87980) gallivanter + gallivanters + gallivanter's
+87981) Gallo-Roman's
+87982) galvos
+87983) gamble's
+87984) gamboges
+87985) gamefowls
+87986) gamestress + gamestresses + gamestress's
+87987) gametangia + gametangia's + gametangium + gametangium's
+87988) gamifications + gamification's
+87989) gamings
+87990) ganglial
+87991) ganglings + gangling's + ganglingly
+87992) ganglions
+87993) gappyness + gappyness's
+87994) garble's
+87995) gargantuanly
+87996) gargantuanism + gargantuanism's
+87997) gargantuanness + gargantuanness's
+87998) garner's
+87999) garnish's
+88000) gassing
+88001) gasp's
+88002) gastricism + gastricism's
+88003) gastroenterites
+88004) gastroenterologically
+88005) gastrulas
+
+
+17-JUN-2023
+88006) obduct +s +ing +ed +ion +ions +ion's
+
+21-JUN-2023
+88007) gatekeeping's
+88008) Gaullisms
+88009) Gaussians
+88010) gauzily
+88011) gawkily
+88012) gaze's
+88013) gazumper + gazumpers + gazumper's
+88014) geek's
+88015) geekishness + geekishness's
+88016) geekily
+88017) gelidity + gelidity's
+88018) gematrias + gematriot + gematriot's
+88019) gemologically
+88020) gens + gen's
+88021) genderfuck's + genderfucky
+88022) geneses
+88023) genitively
+88024) Geneveses
+88025) geniculated + geniculately
+88026) genitalia's
+88027) genitivals + genitival's
+88028) genlock's
+88029) genocider + genociders + genocider's
+88030) genomicist + genomicists + genomicist's + genomics's
+88031) genotoxically
+88032) genotoxicity + genotoxicity's + genotoxicities
+88033) geobotanically
+88034) geodemographically + geodemographics's
+88035) geodetical + geodetics's
+88036) geodynamically
+88037) geoeconomics's
+88038) geofencing's
+88039) geolocates + geolocated + geolocating + geolocations + geolocation's
+88040) geolocational
+88041) geomagnetical
+88042) geomantically
+88043) geomaticist + geomaticists + geomaticist's
+88044) geomatics + geomatics's
+88045) geometrical + geometrically + geometrics's
+88046) geophilosophy + geophilosophy's
+88047) geophilosophical + geophilosophically
+88048) geospatially
+88049) geostrategically
+88050) geostrophically
+88051) nonlinearity + nonlinearity's
+88052) pyroxylins
+88053) repaint's
+88054) spica's + spicae + spicae's
+88055) sphygmograph's + sphygmographic
+88056) sphygmography + sphygmography's
+88057) sphygmomanometer's
+88058) streamline's
+88059) unfruitfulness's
+88060) ungainliness's
+88061) unfriendliness's + unfriendlinesses
+88062) surrogacy + surrogacies
+88063) tantalocene's
+88064) thoughtfulness's
+88065) reek's
+88066) retinoblastomas + retinoblastoma's + retinoblastomata + retinoblastomata's
+88067) breedings
+88068) bremsstrahlungs
+88069) mull's
+88070) Ophelian
+88071) opopanaxes
+88072) oracies
+88073) Oratories
+88074) rekindlers + rekindler's
+88075) rendu's
+88076) reorganizationists + reorganizationist's
+88077) repressionists
+88078) resourcelessness's
+88079) resoluteness's
+88080) respectfulnesses + respectfulness's
+88081) responsum's + responsa's
+88082) restfulness's
+88083) seaworthiness's
+88084) seclusionist's + seclusionistic
+88085) sederunt's
+88086) Termagant's
+
+25-JUN-2023
+88087) geotactically
+88088) geotag's
+88089) geotechnically
+88090) geotropically
+88091) germier + germiest
+88092) gerrymander's
+88093) gestative
+88094) get's
+88095) getter +s +ing +ed +'s
+88096) Ghazis + Ghazi's
+88097) ghoulishness + ghoulishness's
+88098) giardiases
+88099) gibber's
+88100) giblet + giblet's
+88101) gigantesquement
+88102) gigantical + giganticness + giganticness's
+88103) giggle's
+88104) gimble's
+88105) gingerade's
+88106) Gipuzkoans
+88107) gits
+88108) give's
+88109) glabellas
+88110) glads
+88111) gladioluses
+88112) gladsomely
+88113) glam's
+88114) abaci + abaci's
+88115) abacist + abacists + abacist's
+88116) aioli + aiolis + aioli's
+88117) alogical + alogically + alogicalness + alogicalness's
+88118) automat + automats + automat's
+88119) batboy + batboys + batboy's
+88120) boogaloo +'s +s +ing +ed
+88121) bulbil + bulbils +bulbil's
+88122) cavitate +s +ing +ed
+88123) coopt +s +ing +ed +ion + ions +ion's
+88124) curacao + curacaos + curacao's
+88125) cutout + cutouts + cutout's
+88126) debone +s +ing +ed
+88127) dillydally +s +ing +ed
+88128) evictee + evictees + evictee's
+88129) hellion + hellions + hellion's
+88130) innie + innies + innie's
+88131) loveably
+88132) mentee + mentees + mentee's + menteeship + menteeship's
+88133) miliaria + miliarias + miliaria's + miliarial
+88134) militaria + militaria's
+88135) natant + natantly
+88136) neolith + neoliths + neolith's
+88137) nonagonal
+88138) noncombatant + noncombatants + noncombatant's
+88139) ottoman + ottomans + ottoman's
+88140) outmode +s +ing +ed
+88141) pend +s +ing +ed +'s
+88142) tagalong + tagalongs + tagalong's
+88143) tallyman + tallyman's + tallymen + tallymen's
+88144) tinct
+88145) tollgate + tollgates + tollgate's
+88146) wad +s +ing +ed +'s
+88147) wain + wains + wain's
+88148) yurt + yurts + yurt's
+88149) vanillin + vanillins + vanillin's
+
+30-JUN-2023
+88150) Corrected "Khyber Pahktunkhwa" to "Khyber Pakhtunkhwa"
 =======
-British English Dictionary (Forked) 3.2.1
+British English Dictionary (Forked) 3.2.2
 by Marco A.G.Pinto
