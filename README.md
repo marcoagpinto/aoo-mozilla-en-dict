@@ -15,13 +15,13 @@ Modifying, updating and maintaining a dictionary is a hard task but an important
 
 The dictionaries here are the most recent versions available, and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
-I (Marco Pinto) am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net and https://sourceforge.net/projects/wordlist/files/Hunspell. Dwayne Bailey maintains the en_ZA: http://translate.org.za
+I (Marco Pinto) am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net. Dwayne Bailey no longer maintains the en_ZA and I have done a few fixes it it myself.
 
-I will try to release monthly updates. AOO admins may disable automatic updates when they are about to release a new version of AOO, so that when you install their package, you won't be prompted to update the dictionaries.
+I will release monthly updates. AOO admins may disable automatic updates when they are about to release a new version of AOO, so that when you install their package, you won't be prompted to update the dictionaries.
 
 Notice the <B>"en_GB_speller_for_Mozilla+AOO+LO_2013+.txt"</B> above, where I keep a changelog.
 
-I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI site: https://proofingtoolgui.org
+I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI (PTG) website: https://proofingtoolgui.org
 
 
 #### Each GitHub folder has:
@@ -45,4 +45,4 @@ If <B>NOT</B> found:
 
 #### Projects using GB/Proofing Tool GUI:
 
-If you know of any projects that use them, please let me know, and I will list them in the official PTG page.
+If you know of any projects that use them, please let me know, and I will list them on the official PTG page.
