@@ -15,7 +15,7 @@ Modifying, updating and maintaining a dictionary is a hard task but an important
 
 The dictionaries here are the most recent versions available, and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
-I (Marco Pinto) am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net. Dwayne Bailey no longer maintains the en_ZA and I have done a few fixes in it myself.
+I (Marco Pinto) am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net. Dwayne Bailey no longer maintains the en_ZA, and I have done a few fixes in it myself.
 
 I will release monthly updates. AOO admins may disable automatic updates when they are about to release a new version of AOO, so that when you install their package, you won't be prompted to update the dictionaries.
 
@@ -38,7 +38,7 @@ I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on
 
 #### Suggesting words:
 
-First check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there:
+First, check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there:
 * Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words.
   
 
