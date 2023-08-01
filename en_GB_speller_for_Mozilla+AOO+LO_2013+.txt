@@ -97322,6 +97322,243 @@ V3.2.2
 
 30-JUN-2023
 88150) Corrected "Khyber Pahktunkhwa" to "Khyber Pakhtunkhwa"
+
+
+V3.2.3
+
+3-JUL-2023
+88151) vape +s +ing +ed +'s
+88152) oik + oiks + oik's
+88153) trippy + trippier + trippiest
+
+6-JUL-2023
+88154) tarpit +s +ing +ed +'s
+
+8-JUL-2023
+88155) glance's
+88156) glandulars + glandular's
+88157) glarings + glaring's
+88158) glassworts
+88159) glassies + glassy's
+88160) glaucousness + glaucousness's
+88161) glaze's
+88162) glaziery + glaziery's
+88163) glide's
+88164) glimmer's
+88165) glioses
+88166) glissade's
+88167) glissandoes
+88168) glisten's
+88169) glister's
+88170) glitchless
+88171) glitter's
+88172) glitz's
+88173) glitziness + glitziness's
+88174) globalisations + globalisation's + globaliser + globaliser's + globalisers
+88175) globalizations + globalization's
+88176) globing
+88177) globoseness + globoseness's
+88178) globulars + globular's
+88179) globularness + globularness's
+88180) glomerularly
+88181) glossatory
+88182) glossolalic
+88183) glottalizations
+88184) glottides
+88185) glucosidically
+88186) glue-sniffer + glue-sniffers + glue-sniffer's
+88187) gluonics + gluonics's
+88188) gluttonousness + gluttonousness's
+88189) glycaemia's
+
+11-JUL-2023
+88190) TortoiseGit + TortoiseGit's
+
+13-JUL-2023
+88191) glycations + glycation's
+88192) glycerinates + glycerinating
+88193) glycogeneses
+88194) glycolyses
+88195) glycolytically
+88196) glycosidically
+88197) glyphically
+88198) glyptical
+88199) glyptics + glyptics's
+88200) gms + gm's
+88201) gmail's + gmails + gmailing + gmailed
+88202) Gmails + Gmailing + Gmailed
+88203) GMO's
+88204) gnocchis
+88205) gnomai + gnomai's + gnomae + gnomae's
+88206) gnomical
+88207) gnomishly + gnomishness + gnomishness's
+88208) gnosis's + gnoses
+88209) Gnosticisms
+88210) go-aheads + go-ahead's
+88211) go-betweens + go-between's
+88212) go-karts + go-kart's + go-karting + go-karting's
+88213) go-slows + go-slow's
+88214) goal-line's
+88215) goalmouths (and removed hyphen)
+88216) goaling
+88217) goalballs
+88218) goaltending's
+88219) goalward
+
+15-JUL-2023
+88220) God-manhood's
+88221) godawfully + godawfulness + godawfulness's
+88222) godforsakenly + godforsakenness + godforsakenness's
+88223) Godful
+88224) Godhead's
+88225) Godspeeds
+88226) gofferer + gofferers + gofferer's
+88227) goggle's
+88228) goings-on's
+88229) gold-plates + gold-plating
+88230) goldfishery + goldfishery's + goldfisheries
+88231) goldhammer + goldhammers + goldhammer's
+88232) Golgothas
+88233) Golubs
+88234) gonadally
+88235) gooeyness + gooeyness's
+88236) good-for-nothingness + good-for-nothingness's
+88237) good-humouredness + good-humouredness's
+88238) good-lookingness + good-lookingness's
+88239) good-naturedness + good-naturedness's
+88240) good-temperedness + good-temperedness's
+88241) good's
+88242) goodheartedly + goodheartedness + goodheartedness's
+88243) google's
+88244) ungoogleable
+88245) googols
+88246) goose-stepper + goose-steppers + goose-stepper's
+88247) gooses + goosing + goosed
+88248) GOPs
+88249) Gorings
+88250) gorings
+88251) gormlessly
+88252) Gothicness + Gothicness's
+88253) GOTOs + GOTOing + GOTOed + GOTO's
+88254) gourdy
+88255) gourdsful + gourdsful's
+88256) governmentalists
+88257) goyem + goyem's
+88258) GPs + GP's
+
+19-JUL-2023
+88259) GPRS's
+88260) GPS's
+88261) grâces
+88262) gradationally
+88263) graftings
+88264) grainings
+88265) Gram's
+88266) grammaticalisation's + grammaticalisations
+88267) grammaticalities
+88268) Grans + Gran's
+88269) grand's
+88270) grandmotherhood's
+88271) grangerisation + grangerisations + grangerisation's
+88272) grangeriser + grangerisers + grangeriser's + -ize
+88273) granulometrically
+88274) grapple's + grapplings
+88275) grasp's
+88276) graspingly + graspings + grasping's
+88277) gratings + gratingly + gratingness + gratingness's
+88278) graunch's
+88279) gravitropically
+88280) greatcoatless
+88281) greatheartedly + greatheartedness + greatheartedness's
+88282) greegrees
+
+25-JUL-2023
+88283) blueishness + blueishness's
+88284) greenbrier + greenbriers + greenbrier's
+88285) greenings
+88286) greenishly
+88287) greenlandits + greenlandit's + greenlandites + greenlandite's
+88288) Gregorians
+88289) gridding
+88290) gridlock's
+88291) griffs
+88292) grimes + griming + grimed
+88293) grinnings + grinning's
+88294) grippings + gripping's
+88295) grippingness + grippingness's
+88296) griskins
+88297) grissino + grissino's
+88298) grists
+88299) grizzle's + grizzler + grizzlers + grizzler's
+88300) grizzlings
+88301) grizzly's + grizzliness + grizzliness's
+88302) grogs + grogging + grogged
+88303) grope's
+88304) groschens
+88305) gross's
+88306) grotesque's
+88307) grouch's
+88308) groundbreakings + groundbreaking's + groundbreakingly
+88309) groundbursts + groundburst's
+88310) grumpily
+88311) Guenthers
+88312) guggle's
+88313) guildable
+88314) Guinans
+88315) Guinnesses
+88316) gushily
+88317) gussetless
+88318) gustily + gustiness + gustiness's
+88319) guttas + gutta's + guttae + guttae's
+88320) guttation + guttations + guttation's
+88321) Guyaneseness + Guyaneseness's
+88322) Guyots
+88323) gymnastics's
+88324) gynoecial
+88325) gyromagnetics + gyromagnetics's
+88326) gyropilots
+88327) gyruses
+88328) gyttjas
+
+29-JUL-2023
+88329) deserialise +s +ing +ed +ion +ions +ion's
+88330) vaccinationist + vaccinationists + vaccinationist's
+88331) vaginaed
+88332) vaginitises + vaginitides
+88333) vaginosis's + vaginoses
+88334) vaguish
+88335) valorisation's + valorisations + valorization's + valorizations
+88336) vanish's + vanisher + vanishers + vanisher's
+88337) vanquishable
+88338) vapidness + vapidness's
+88339) vaporousness + vaporousness's
+88340) varicosely + varicoseness + varicoseness's
+88341) variousness + variousness's + variousnesses
+88342) vascularisation's + vascularisations + vascularization's + vascularizations
+88343) vasculitises + vasculitis's
+88344) vasculums
+88345) vasty + vasts
+88346) VDs + VD's
+88347) velums
+88348) ventriloquy's
+88349) verbatimness + verbatimness's
+88350) verbification's + verbifications
+88351) verd-antique's
+88352) verdancy's
+88353) verdantness + verdantness's
+88354) verdureless
+88355) verdurously + verdurousness + verdurousness's
+88356) verges
+88357) veridically
+88358) vermicomposting's
+88359) verminously
+88360) vernacular's
+88361) vernacularisation + vernacularisations + vernacularisation's (+-ize)
+88362) vertiginously + vertiginousness + vertiginousness's
+88363) vertigos + vertigoes
+88364) vesiculation's + vesiculations
+88365) Vespers + Vesper's
+88366) vesture's + vestural + vesturer + vesturers + vesturer's
 =======
-British English Dictionary (Forked) 3.2.2
+British English Dictionary (Forked) 3.2.3
 by Marco A.G.Pinto
