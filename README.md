@@ -49,4 +49,6 @@ If you know of any projects that use them, please let me know, and I will list t
 #### NOTICE:
 <B>I have been publicly attacked regarding my dictionary, even in front of other developers. They only know how to criticise instead of suggesting words/fixes for the dictionary. There are millions of words, and I can't find them all by myself.
 
-This is a serious project, I have been paying out of my own pocket hundreds of EUR per year for web hosting, domains, premium account in Oxford Dictionaries, etc. so that people can enjoy quality work freely.</B>
+This is a serious project, I have been paying out of my own pocket hundreds of EUR per year for web hosting, domains, premium account in Oxford Dictionaries, etc. so that people can enjoy quality work freely.
+
+Open-source is almost all I have left in life.</B>
