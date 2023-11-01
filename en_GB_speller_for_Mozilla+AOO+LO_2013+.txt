@@ -297,7 +297,7 @@ V2.03
 221) subtotalling
 222) subtotalled
 223) derivational
-224) Bergstr m (Swedish name)
+224) Bergström (Swedish name)
 225) 104+105 (placed in individual words due to a bug in the .AFF)
 
 
@@ -321,7 +321,7 @@ V2.04
 236) webmaster (+plural)
 237) holler (+ ed)
 238) chemtrail (+plural)
-239) G nther (name)
+239) Günther (name)
 
 
 17-SEP-2013
@@ -420,7 +420,7 @@ V2.05
 310) ultramicroscopic
 311) enigmatical
 312) enharmonically (merged into enharmonic)
-313) Ren  (name)
+313) René (name)
 314) Kant's
 315) Kantian
 316) Kantianism
@@ -439,7 +439,7 @@ V2.05
 326) teleporting (added "ing" to "teleport")
 327) Dreamtime
 328) Patricia (name)
-329) Patr cia (name with accent in "i")
+329) Patrícia (name with accent in "i")
 330) videographics
 331) megastar (informal)
 332) songcraft
@@ -668,7 +668,7 @@ V2.06
 510) Belorussia
 511) Rwandese
 512) Mongols (plural)
-513) mongol (+plural - both in lower case - offensive - Down s syndrome)
+513) mongol (+plural - both in lower case - offensive - Down’s syndrome)
 
 
 30-OCT-2013
@@ -677,7 +677,7 @@ V2.06
 516) countermine (+ing)
 517) pepperminty
 518) duckwalk (+ed)
-519) F tima (name)
+519) Fátima (name)
 520) Fatima (name without accent)
 521) fatidic
 522) Nostradamus (name)
@@ -764,7 +764,7 @@ V2.07
 588) quickstepped (merged into quickstep)
 589) Solomonic (merged into Solomon)
 590) millenary (+plural)
-591) Flor al
+591) Floréal
 592) Amazonia
 593) timeout
 594) undelete (+ed +ing)
@@ -1051,7 +1051,7 @@ V2.08
 826) fricasseed (merged into fricassee)
 827) tsukemono (+plural)
 828) feijoada
-829) tourti re
+829) tourtière
 830) macaronies (fixed - plural)
 
 26-DEC-2013
@@ -1117,7 +1117,7 @@ V2.09
 883) behaviouralist
 884) tartare
 885) fishcake
-886) p t s (merged plural and removed the 's into the singular form)
+886) pâtés (merged plural and removed the 's into the singular form)
 887) dragonfish (+plural)
 888) stonefish (+plural)
 
@@ -1344,7 +1344,7 @@ V2.09
 
 19-JAN-2014
 1091) checklist (+plural)
-1092) cafeti re
+1092) cafetière
 1093) caffeinated
 1094) cuppa (+plural - Oxford: informal)
 1095) atriums (plural)
@@ -1674,7 +1674,7 @@ V2.10
 1383) oesophaguses (another plural of oesophagus)
 1384) signifieds
 1385) signifiers
-1386) signifi  (another term for signified)
+1386) signifié (another term for signified)
 1387) Harris (added 's)
 1388) signifiant
 1389) middleware
@@ -1699,7 +1699,7 @@ V2.10
 1406) couchette (+plural)
 1407) couchant
 1408) addorsed
-1409) coud 
+1409) coudé
 1410) testee (+plural)
 1411) fundus
 1412) fundi (plural of fundus)
@@ -1734,7 +1734,7 @@ V2.10
 1439) brassard (+plural)
 1440) brass-necked
 1441) glissandos (plural, there is also glissandi)
-1442) gliss  (+plural)
+1442) glissé (+plural)
 1443) glitterati (Oxford: informal)
 1444) Bollywood
 1445) bollworm (+plural)
@@ -1776,7 +1776,7 @@ V2.11
 1475) rundown
 1476) staithe (+plural)
 1477) double-ender
-1478) notes in gales
+1478) notes inégales
 1479) touchscreen (+plural)
 1480) touchpoint (+plural)
 1481) touchpad
@@ -1861,7 +1861,7 @@ V2.11
 1556) aeroelastic
 1557) under-read
 1558) speedo (+plural - Oxford: short informal for speedometer)
-1559) Speedos (Oxford: trademark Men s brief, tight swimming trunks)
+1559) Speedos (Oxford: trademark Men’s brief, tight swimming trunks)
 1560) speedballs (added plural)
 1561) punchball
 1562) Saughton (name)
@@ -1952,7 +1952,7 @@ V2.11
 1637) rpm
 1638) footgear
 1639) footle
-1640) facade (also fa ade)
+1640) facade (also façade)
 1641) footmark (added singular)
 1642) tobyman + tobymen
 1643) Witherington (name)
@@ -2189,7 +2189,7 @@ V2.12
 1850) mage (+plural)
 1851) divinatory
 1852) demonolatry
-1853) candombl 
+1853) candomblé
 1854) Umbanda
 1855) macumba
 1856) maculate (+ed +ion)
@@ -2357,7 +2357,7 @@ V2.12
 2007) adenoviral
 2008) corynebacterium
 2009) corynebacteria (plural of previous word)
-2010) coryph e (+plural)
+2010) coryphée (+plural)
 2011) ballboy (+plural)
 2012) dogshore (+plural)
 
@@ -2716,7 +2716,7 @@ V2.13
 30-MAY-2014
 2333) unmunch (+s +ed +ing)
 2334) focaccia
-2335) Mail nder (name)
+2335) Mailänder (name)
 2336) backwards-compatible
 2337) backward-compatible
 2338) bottom-dwelling
@@ -3030,7 +3030,7 @@ V2.14
 2620) decapod (+plural)
 
 25-JUN-2014
-2621) all e (+plural)
+2621) allée (+plural)
 2622) averment (+plural)
 2623) gratifier (merged into gratify)
 2624) assuagement (merged into assuage)
@@ -3212,7 +3212,7 @@ V2.15
 2787) Levinson (name)
 2788) Patton (name)
 2789) Naber (name)
-2790) Moore s (added the 's)
+2790) Moore’s (added the 's)
 2791) narrational
 2792) sidecar (+plural)
 2793) indiscrete
@@ -3552,7 +3552,7 @@ V2.15
 3110) nitrazepam
 3111) nitpicky (merged into nitpick)
 3112) nitid
-3113) Niter i (Oxford: industrial port on Brazil)
+3113) Niterói (Oxford: industrial port on Brazil)
 3114) Folkestone (fix: removed Folkstone)
 3115) barbican (+plural)
 3116) Ragusa (name)
@@ -4048,7 +4048,7 @@ V2.16
 3473) backwind (+plural)
 3474) forepart (+plural)
 3475) voluted (merged to volute)
-3476) volupt 
+3476) volupté
 3477) cristobalite
 
 11-AUG-2014
@@ -4081,7 +4081,7 @@ V2.16
 
 12-AUG-2014
 3504) Riefenstahl (+'s - name - Kevin Atkinson wordlist 50)
-3505) Ragnar k
+3505) Ragnarök
 3506) Prozac (+'s - Kevin Atkinson wordlist 50)
 3507) Karloff (+'s - name - Kevin Atkinson wordlist 50)
 3508) Kasparov's (added +'s - name - Kevin Atkinson wordlist 50)
@@ -4208,8 +4208,8 @@ V2.16
 3623) necrobiosis
 3624) necrobiotic
 3625) Gregorio (+'s - name - Kevin Atkinson wordlist 50)
-3626) Guant namo (+'s - added accent - name - Kevin Atkinson wordlist 50)
-3627) Hammarskj ld (+'s - added accent - name - Kevin Atkinson wordlist 50)
+3626) Guantánamo (+'s - added accent - name - Kevin Atkinson wordlist 50)
+3627) Hammarskjöld (+'s - added accent - name - Kevin Atkinson wordlist 50)
 3628) Hayworth (+'s - name - Kevin Atkinson wordlist 50)
 
 16-AUG-2014
@@ -4344,7 +4344,7 @@ V2.16
 3749) ovenproof
 3750) monkfish (+plural)
 3751) anglerfish (+plural)
-3752) Bokm l (language)
+3752) Bokmål (language)
 3753) mash-up
 
 22-AUG-2014
@@ -4593,7 +4593,7 @@ V2.17
 3979) Qing
 3980) Ch'ing (another way of previous word)
 3981) mafic
-3982) retir  (Ballet)
+3982) retiré (Ballet)
 3983) retiree (+plural)
 3984) retirer (+plural)
 3985) overtype (+ing)
@@ -4608,7 +4608,7 @@ V2.17
 3994) woylie (+plural)
 3995) aardwolf
 3996) aardwolves (plural of previous word)
-3997)  rhus (name of place - another word for Aarhus)
+3997) Århus (name of place - another word for Aarhus)
 3998) Barranquilla (name of place)
 3999) barramundi (+plural)
 4000) fireguards (added plural)
@@ -6101,7 +6101,7 @@ V2.19
 4492) lesbigay (+plural - Oxford: informal)
 4493) lesbo (+plural - Oxford: informal offensive)
 4494) Lesbos (Island in Greece)
-4495) Sprachgef hl
+4495) Sprachgefühl
 4496) eggcorn
 4497) advocaat
 4498) caipirinha (+plural)
@@ -6488,8 +6488,8 @@ V2.20
 4860) depravingly (Collins)
 4861) depravation (merged into deprave - Collins)
 4862) depreciatory
-4863) N meth (+'s - name)
-4864) L szl  (+'s - name)
+4863) Németh (+'s - name)
+4864) László (+'s - name)
 4865) cryptonymous
 4866) monorchid (+plural)
 4867) monorchidism
@@ -7667,12 +7667,12 @@ V2.21
 20-JAN-2015
 5285) zoophobia
 5286) bacteriophobia
-5287) cyberphobic's (added the  s)
+5287) cyberphobic's (added the ´s)
 5288) cyberphobes (added plural)
 5290) computerphobia (Collins)
 5291) realpolitik (fix: it was in upper case)
 5292) Talleyrand (+'s - name)
-5293) fuehrer (+plural +'s - another way for f hrer)
+5293) fuehrer (+plural +'s - another way for führer)
 5294) faunal
 5295) faunistic
 5296) fraternalism (+'s)
@@ -8487,7 +8487,7 @@ V2.23
 5154) sightlessness
 5155) Arkansans (added plural - Kevin Atkinson wordlist 60)
 5156) Axis (The Axis - alliance of Germany and Italy WWII - Kevin wordlist 60)
-5157) Bayam n (name of city - Kevin Atkinson wordlist 60)
+5157) Bayamón (name of city - Kevin Atkinson wordlist 60)
 5158) Camelots (added plural - Kevin Atkinson wordlist 60)
 5159) Carib (+plural)
 5160) Devonians (added plural)
@@ -8502,7 +8502,7 @@ V2.23
 5169) Chekhovian (Kevin Atkinson wordlist 60)
 5170) Comoran (Kevin Atkinson wordlist 60)
 5171) Darwinist (+plural - Kevin Atkinson wordlist 60)
-5172) Fr ulein (Kevin Atkinson wordlist 60)
+5172) Fräulein (Kevin Atkinson wordlist 60)
 5173) Galaxy (The Galaxy - uppercase - Kevin Atkinson wordlist 60)
 5174) Greenlandic (Kevin Atkinson wordlist 60)
 5175) gorgon's (added the 's)
@@ -8664,7 +8664,7 @@ V2.23
 5423) CGI
 5424) Ibsen's (added the 's - name)
 5425) Gerhart (+'s - name)
-5426) Cr billon (name - Wikipedia)
+5426) Crébillon (name - Wikipedia)
 5427) Henrik (+'s - name)
 5428) Flaubert (+'s - name)
 5429) flaunter
@@ -8716,7 +8716,7 @@ V2.23
 5473) blueliner
 5474) multisensory
 5475) Bayern (name)
-5476) Ha ek (+'s - name - Wikipedia)
+5476) Hašek (+'s - name - Wikipedia)
 5477) multiplet (+plural)
 5478) diborane
 5479) boride (+plural)
@@ -8830,7 +8830,7 @@ V2.23
 5581) Nicholls (+'s - name - Wikipedia)
 5582) Eindhoven (+'s - name)
 5583) Bluefields (+'s - name)
-5584) Bel m (+'s - name of city)
+5584) Belém (+'s - name of city)
 5585) belemnite (+plural)
 5586) Flandrian
 5587) auriferous
@@ -10407,7 +10407,7 @@ V2.27
 7063) Uriarte (+'s - name - Wikipedia)
 7064) Traynor (+'s - name - Wikipedia)
 7065) dreamwork
-7066) Hergenr ther (+'s - name - Wikipedia)
+7066) Hergenröther (+'s - name - Wikipedia)
 7067) Ralph (+'s - name - Wikipedia)
 7068) far-distant
 7069) far-ranging
@@ -10452,7 +10452,7 @@ V2.27
 7106) icefall (+plural)
 7107) Perry (+'s - name - Wikipedia)
 7108) snowshoers (added plural)
-7109) apr s-ski (+ing)
+7109) après-ski (+ing)
 7110) Zermatt (+'s - name - Wikipedia)
 7111) barrique (+plural)
 7112) cedary (Collins)
@@ -11222,7 +11222,7 @@ V2.29
 8830) diff (+s +ing +ed)
 8831) endian
 8832) idempotence
-8833) ?idempotency
+8833) ‎idempotency
 8834) metasyntactic (Wiktionary)
 8835) nullable
 8836) opcode (+plural)
@@ -11444,7 +11444,7 @@ V2.30
 9038) popsock (+plural)
 
 13-OCT-2015
-9039) Steckling s (added the 's - name)
+9039) Steckling’s (added the 's - name)
 9040) Clancarty (+'s - name - Wikipedia)
 9041) co-trimoxazole
 9042) doxycycline
@@ -12176,7 +12176,7 @@ V2.32
 9718) rebuffer (+s +ing +ed - Wiktionary)
 9719) upsample (+s +ing +ed - Wiktionary)
 9720) blockiness (Collins)
-9721) Netflix s (added the 's)
+9721) Netflix’s (added the 's)
 9722) downsample (+s +ing +ed - Wiktionary)
 
 16-DEC-2015
@@ -12414,7 +12414,7 @@ V2.32
 9946) lightsaber (+plural)
 9947) Coruscant (+'s - name - Wikipedia)
 9948) Palpatine (+'s - name - Wikipedia)
-9949) Padm  (+'s - name - Wikipedia)
+9949) Padmé (+'s - name - Wikipedia)
 9950) Colton (+'s - name - Wikipedia)
 9951) Chewbacca (+'s - name - Wikipedia)
 9952) Kamino (+'s - name - Wikipedia)
@@ -12889,7 +12889,7 @@ V2.33
 10407) myometrial
 10408) GeForce (name of graphic board)
 10409) synergize + synergise
-10410) pro-oxidant + pro xidant
+10410) pro-oxidant + proöxidant
 10411) wildcard (+plural - Wiktionary)
 10412) weaponise (+s +ing +ed -ISE)
 10413) weaponize (+s +ing +ed -IZE)
@@ -13526,7 +13526,7 @@ V2.33
 11017) autolaryngoscope
 11018) autolaryngoscopy
 11019) autolatry
-11020) comp red (merged into comp re)
+11020) compèred (merged into compère)
 11021) coned
 11022) congregational (lowercase)
 11023) conjuror (+plural)
@@ -13546,7 +13546,7 @@ V2.33
 25-JAN-2016
 11036) Hewan (+'s - name - Wikipedia)
 11037) Manificat (name - Wikipedia)
-11038) Andr  (+'s - name - Wikipedia)
+11038) André (+'s - name - Wikipedia)
 11039) Eurogroup
 11040) Corbyn (+'s - name - Wikipedia)
 11041) Spector (+'s - name - Wikipedia)
@@ -13563,7 +13563,7 @@ V2.33
 V2.34
 2-FEB-2016
 11050) Towler (+'s - name - Wikipedia)
-11051) Tk ? (name - Wikipedia)
+11051) Tkáč (name - Wikipedia)
 11052) Walgreens (+'s - name - Wikipedia)
 11053) drugster
 11054) drugless
@@ -14284,7 +14284,7 @@ V2.35
 11749) preimage (+plural)
 11750) SHA
 11751) biclique (+plural - Wiktionary)
-11752) Merkle-Damg rd (name - Wikipedia)
+11752) Merkle-Damgård (name - Wikipedia)
 11753) Unalaska (+'s - name - Wikipedia)
 11754) Bain (+'s - name - Wikipedia)
 11755) malvertising
@@ -14474,7 +14474,7 @@ V2.35
 11661) Belarusian (+plural)
 11662) Ruthenian (+plural)
 11663) Waray-Waray (Wiktionary)
-11664) Volap k
+11664) Volapük
 11665) Esperantist (+plural)
 11666) Piedmontese
 11667) Bezzi (name - Wikipedia)
@@ -14544,7 +14544,7 @@ V2.35
 11729) Millett (+'s - name - Wikipedia)
 
 16-MAR-2016
-11730) R gis (+'s - name - Wikipedia)
+11730) Régis (+'s - name - Wikipedia)
 11731) Delbru (+'s - name - Google)
 11732) Roczek (+'s - name - Google)
 11733) workfulness
@@ -14608,7 +14608,7 @@ V2.35
 11789) LinkedIn's (added the 's)
 11790) Zika (+'s - name - Wikipedia)
 11791) Zoltan (+'s - name - Wikipedia)
-11792) Zolt n (+'s - name - Wikipedia)
+11792) Zoltán (+'s - name - Wikipedia)
 11793) Sadovsky (+'s - name - Wikipedia)
 11794) Mantke (name - Wikipedia)
 11795) missee + missees + misseeing + missaw + misseen (Wiktionary)
@@ -14926,7 +14926,7 @@ V2.36
 12087) Condon (+'s - name - Wikipedia)
 12088) Eslick (+'s - name - Wikipedia)
 12089) Marchington (+'s - name - Wikipedia)
-12090) Gu lat (name - Google)
+12090) Guélat (name - Google)
 12091) Masayuki (+'s - name - Wikipedia)
 12092) Nakano (+'s - name - Wikipedia)
 12093) Kruno (name - Wikipedia)
@@ -15094,7 +15094,7 @@ V2.36
 12249) nitrofurantoin
 12250) cephalosporin (+plural)
 12251) preprogramme (+s +ing +ed)
-12252) preprogram ?(+s +ing +ed)
+12252) preprogram ‎(+s +ing +ed)
 12253) preprohormone
 12254) prohormone
 12255) proinsulin
@@ -15412,7 +15412,7 @@ V2.37
 12555) sonobuoy (+plural)
 12556) seahawk (+plural - Collins + Wiktionary)
 12557) Broome (+'s - name - Wikipedia)
-12558) Jovanovi? (+'s - name - Wikipedia)
+12558) Jovanović (+'s - name - Wikipedia)
 12559) seagrass (+plural)
 12560) brolly (+plural)
 12561) bromance
@@ -15428,7 +15428,7 @@ V2.37
 12571) Somoza (+'s - name - Wikipedia)
 
 6-MAY-2016
-12572) Ortol  (name - Wikipedia)
+12572) Ortolà (name - Wikipedia)
 12573) tremored + tremoring (merged into tremor)
 12574) neuromodulator (+plural)
 12575) Brash (+'s - name - Wikipedia)
@@ -15593,7 +15593,7 @@ V2.37
 12729) Dobson (+'s - name - Wikipedia)
 12730) melee (+plural)
 12731) Breanne (+'s - name - Wikipedia)
-12732) Pel  (+'s - name - Wikipedia)
+12732) Pelé (+'s - name - Wikipedia)
 12733) pappardelle
 12734) chorizo (+plural)
 12735) Lambarde (+'s - name - Wikipedia)
@@ -15638,7 +15638,7 @@ V2.37
 12772) GPGTools (Wikipedia)
 12773) NNTP (Wiktionary)
 12774) Gmane (+'s - Wikipedia)
-12775) H gelsch fer (name - Google)
+12775) Hügelschäfer (name - Google)
 12776) Klaus's (added the 's - name - Wikipedia)
 12777) Pittermann (name - Wikipedia)
 12778) Withalm (name - Wikipedia)
@@ -16162,7 +16162,7 @@ V2.38
 13280) dowitcher (+plural)
 13281) francolin (+plural)
 13282) phalarope (+plural)
-13283) jacana + ja ana (+plural of both)
+13283) jacana + jaçana (+plural of both)
 13284) yellowlegs
 13285) Fundy (+'s - name - Wikipedia)
 13286) yellowthroat (+plural)
@@ -16193,7 +16193,7 @@ V2.38
 13309) devisee (+plural)
 13310) devisor
 13311) uprise (+uprisen)
-13312) misprize ?(+s +ing +ed)
+13312) misprize ‎(+s +ing +ed)
 13313) misprizer
 13314) misproportion
 13315) scission (+plural)
@@ -16856,7 +16856,7 @@ V2.39
 13943) webhead (Collins)
 13944) frontend (+plural - Wiktionary)
 13945) HTTPd (hypertext transfer protocol daemon - Wiktionary)
-13946) jpeg ?(+plural - lowercase - Wiktionary)
+13946) jpeg ‎(+plural - lowercase - Wiktionary)
 13947) Bruant (+'s - name - Wikipedia)
 13948) backdoor (+s +ing +ed - Wiktionary)
 13949) verifiably
@@ -16898,8 +16898,8 @@ V2.39
 13983) speckless
 13984) high-tech + hi-tech
 13985) flyspeck (+s +ed)
-13986) dollarize ?(+s +ing +ed - Collins -IZE)
-13987) dollarise ?(+s +ing +ed - Collins -ISE)
+13986) dollarize ‎(+s +ing +ed - Collins -IZE)
+13987) dollarise ‎(+s +ing +ed - Collins -ISE)
 13988) flypapers (added plural)
 13989) bookwoman
 13990) Lilburne (+'s - name - Wikipedia)
@@ -16963,10 +16963,10 @@ V2.39
 14046) suprematism
 14047) suprematist (+plural)
 14048) randkluft
-14049) Pok mon (Wikipedia)
-14050) Pok  (Pok  Balls - Wikipedia)
-14051) Pok dex (Wikipedia)
-14052) Pok Stop (+plural - Wikipedia)
+14049) Pokémon (Wikipedia)
+14050) Poké (Poké Balls - Wikipedia)
+14051) Pokédex (Wikipedia)
+14052) PokéStop (+plural - Wikipedia)
 
 21-JUL-2016
 14053) filesize (+plural - Wiktionary)
@@ -17135,7 +17135,7 @@ V2.40
 14202) Rasmussen (+'s - name - Wikipedia)
 14203) Perren (+'s - name - Wikipedia)
 14204) Burrell (+'s - name - Wikipedia)
-14205) G bel (+'s - name - Wikipedia)
+14205) Göbel (+'s - name - Wikipedia)
 14206) Schinas (+'s - name - Wikipedia)
 14207) McCrea (+'s - name - Wikipedia)
 14208) Moira (+'s - name - Wikipedia)
@@ -17155,7 +17155,7 @@ V2.40
 14222) dehisce (+s +ing +ed)
 14223) dehiscence
 14224) dehiscent
-14225) tapetal ?(Wiktionary)
+14225) tapetal ‎(Wiktionary)
 14226) germinability
 14227) aril (+plural)
 14228) arillate
@@ -17165,14 +17165,14 @@ V2.40
 14232) cartoonish
 14233) lampooners (added plural)
 14234) lampoonist (+plural)
-14235) Canc n (+'s - name - Wikipedia)
+14235) Cancún (+'s - name - Wikipedia)
 14236) germinable (Collins)
 14237) germinator (Collins)
 14238) Satoshi (+'s - name - Wikipedia)
 14239) Tajiri (+'s - name - Wikipedia)
 14240) Sugimori (+'s - name - Wikipedia)
 14241) Pikachu (+'s - name - Wikipedia)
-14242) Pok mon's (added the 's)
+14242) Pokémon's (added the 's)
 14243) overworld
 14244) Wii (+plural)
 14245) Ketchum (+'s - name - Wikipedia)
@@ -17233,8 +17233,8 @@ V2.40
 14298) tamarisk (+plural)
 14299) acephaly
 14300) acepromazine
-14301) Pok maniac (+plural - Wiktionary)
-14302) Pok fan (+plural - Wiktionary)
+14301) Pokémaniac (+plural - Wiktionary)
+14302) Pokéfan (+plural - Wiktionary)
 
 11-AUG-2016
 14303) Pokemon's (added the 's)
@@ -17343,7 +17343,7 @@ V2.40
 14404) furacious
 14405) Hayles (+'s - name - Wikipedia)
 14406) velogenic
-14407) velout 
+14407) velouté
 14408) vela (plural of velum)
 14409) froghopper (+plural)
 14410) spittlebug (+plural)
@@ -17690,14 +17690,14 @@ V2.41
 
 7-SEP-2016
 14737) McGavin (+'s - name - Wikipedia)
-14738)  ron (+'s - name - Wikipedia)
+14738) Áron (+'s - name - Wikipedia)
 14739) Budea (+'s - name - Google)
-14740) Fr d ric (+'s - name - Wikipedia)
+14740) Frédéric (+'s - name - Wikipedia)
 14741) Laboureur (+'s - name - Google)
 14742) Fenton (+'s - name - Wikipedia)
 14743) Hyrum (+'s - name - Wikipedia)
 14744) Allee (+'s - name - Wikipedia)
-14745) J rg (+'s - name - Wikipedia)
+14745) Jörg (+'s - name - Wikipedia)
 14746) Knobloch (+'s - name - Wikipedia)
 14747) Rae (+'s - name - Wikipedia)
 14748) Battilana (+'s - name - Wikipedia)
@@ -18121,8 +18121,8 @@ V2.42
 15150) Mazza (+'s - name - Wikipedia)
 15151) neo-Catholic
 15152) neo-Catholicism
-15153)  liphas (+'s - name - Wikipedia)
-15154) L vi (+'s - name - Wikipedia)
+15153) Éliphas (+'s - name - Wikipedia)
+15154) Lévi (+'s - name - Wikipedia)
 15155) Papus (+'s - name - Wikipedia)
 15156) Chacornac (+'s - name - Wikipedia)
 15157) prosocial
@@ -18501,7 +18501,7 @@ V2.42
 15514) Gyves (+'s - name - Wikipedia + Google)
 15515) Angelika (+'s - name - Wikipedia)
 15516) Seppo (+'s - name - Wikipedia)
-15517) Pietil  (+'s - name - Wikipedia)
+15517) Pietilä (+'s - name - Wikipedia)
 15518) Ficicchia (+'s - name - Wikipedia)
 15519) Tomer (+'s - name - Wikipedia)
 15520) Czaczkes (+'s - name - Wikipedia + Google)
@@ -18598,10 +18598,10 @@ V2.42
 15609) immunofluorescence
 15610) immunofluorescent
 15611) immunoperoxidase
-15612) Jo o (+'s - name - Wikipedia)
+15612) João (+'s - name - Wikipedia)
 15613) Fernandes (+'s - name - Wikipedia)
 15614) Tiago (+'s - name - Wikipedia)
-15615) Cl udio (+'s - name - Wikipedia)
+15615) Cláudio (+'s - name - Wikipedia)
 
 
 V2.43
@@ -18709,7 +18709,7 @@ V2.43
 15714) goldcrest (+plural)
 15715) whacko (+plural)
 15716) Boileau (+'s - name - Wikipedia)
-15717) Mir  (+'s - name - Wikipedia)
+15717) Miró (+'s - name - Wikipedia)
 15718) Zhengzhou (+'s - name - Wikipedia)
 15719) Zhou (+'s - name - Wikipedia)
 15720) Xuzhou (+'s - name - Wikipedia)
@@ -19378,7 +19378,7 @@ V2.45
 16345) Gipuzkoan (Wikipedia)
 16346) Souletin (Wikipedia)
 16347) Francoist (+plural)
-16348)  lava (+'s - name - Wikipedia)
+16348) Álava (+'s - name - Wikipedia)
 16349) Vasconist (Wiktionary)
 16350) widdle (+s +ing +ed)
 16351) Hispania (+'s - name - Wikipedia)
@@ -19435,7 +19435,7 @@ V2.45
 16402) MacBain (+'s - name - Wikipedia)
 16403) wester (+s +ing +ed)
 16404) Wester (+'s - name - Wikipedia)
-16405) Besan on (+'s - name - Wikipedia)
+16405) Besançon (+'s - name - Wikipedia)
 16406) pinfold (+s +ing +ed)
 16407) darnel
 16408) fumitory
@@ -19480,7 +19480,7 @@ V2.45
 16443) maladminister (+s +ing +ed)
 16444) maladministrator
 16445) curcumin (Collins)
-16446) malaeration + mala ration
+16446) malaeration + malaëration
 16447) Malagasies (added plural)
 16448) Austronesian
 16449) Polynesian (+plural)
@@ -19764,7 +19764,7 @@ V2.45
 24-JAN-2017
 16716) gaplessly (Wiktionary)
 16717) Coalson (+'s - name - Wikipedia + Google)
-16718) techne + techn  + techn 
+16718) techne + technê + techné
 16719) Logitech (+'s - name - Wikipedia)
 16720) epistasis
 16721) epistatic
@@ -19961,7 +19961,7 @@ V2.46
 21-FEB-2017
 16899) rentier (+plural +'s)
 16900) Highbury (+'s - name - Wikipedia)
-16901) renti re
+16901) rentière
 16902) rentless
 16903) Hexham (+'s - name - Wikipedia)
 16904) rentering
@@ -20396,11 +20396,11 @@ V2.48
 17003) tesla (lowercase)
 17004) becquerel (+plural)
 17005) sievert (+plural)
-17006) Charles s (added +'s - name - Wikipedia)
+17006) Charles’s (added +'s - name - Wikipedia)
 17007) eponymic (Collins)
 17008) Angelman (+'s - name - Wikipedia)
 17009) Borna (+'s - name - Wikipedia)
-17010) Leclanch  (+'s - name - Wikipedia)
+17010) Leclanché (+'s - name - Wikipedia)
 17011) Caro (+'s - name - Wikipedia)
 17012) Bartholin (+'s - name - Wikipedia)
 17013) Wernicke (+'s - name - Wikipedia)
@@ -20410,9 +20410,9 @@ V2.48
 9-APR-2017
 17016) Steinmeier (+'s - name - Wikipedia)
 17017) Merkel (+'s - name - Wikipedia)
-17018) Schr der (+'s - name - Wikipedia)
+17018) Schröder (+'s - name - Wikipedia)
 17019) Abkhazia (+'s - name - Wikipedia)
-17020) Ant nio (+'s - name - Wikipedia)
+17020) António (+'s - name - Wikipedia)
 17021) Guterres (+'s - name - Wikipedia)
 17022) Fabius (+'s - name - Wikipedia)
 17023) Tsipras (+'s - name - Wikipedia)
@@ -20643,7 +20643,7 @@ V2.49
 17228) isogeotherm
 17229) isogeothermal
 17230) isogloss (+plural)
-17231) Pad  (name - Wikipedia)
+17231) Padé (name - Wikipedia)
 17232) adjoint (+plural)
 17233) adjournal
 17234) justiciary (+plural)
@@ -21137,7 +21137,7 @@ V2.50
 17692) Inglewood (+'s - name - Wikipedia)
 17693) Halen (+'s - name - Wikipedia)
 17694) Edney (+'s - name - Wikipedia)
-17695) Caball  (+'s - name - Wikipedia)
+17695) Caballé (+'s - name - Wikipedia)
 17696) Kensal (name - Wikipedia)
 17697) Leppard (+'s - name - Wikipedia)
 17698) Luciano (+'s - name - Wikipedia)
@@ -21464,8 +21464,8 @@ V2.51
 18001) non-using
 18002) mitzvah
 18003) mitzvoth (plural of previous word)
-18004) Moli re (+'s - name - Wikipedia)
-18005) Moli resque
+18004) Molière (+'s - name - Wikipedia)
+18005) Molièresque
 
 23-JUL-2017
 18006) muchly
@@ -21562,7 +21562,7 @@ V2.52
 8-AUG-2017
 18092) pitot
 18093) copita (+plural)
-18094) Poincar  (+'s)
+18094) Poincaré (+'s)
 18095) Perelman (+'s - name - Wikipedia)
 18096) poimenic
 18097) poilu (+plural)
@@ -21626,7 +21626,7 @@ V2.52
 18151) weigher
 18152) Schengen (+'s - name - Wikipedia)
 18153) scintillator (+plural)
-18154) cin ma-v rit 
+18154) cinéma-vérité
 18155) cinemagoer (+plural)
 18156) cinemagoing
 18157) cinematically
@@ -22022,7 +22022,7 @@ V2.53
 21-SEP-2017
 18523) Leuven (+'s - name - Wikipedia)
 18524) Luigi (+'s - name - Wikipedia)
-18525) J rgen (+'s - name - Wikipedia + Google)
+18525) Jürgen (+'s - name - Wikipedia + Google)
 18526) Berlinguer (+'s - name - Wikipedia)
 18527) ultrasensitive (Collins)
 18528) heliopause
@@ -22183,7 +22183,7 @@ V2.54
 18672) Nanking (+'s - name - Wikipedia)
 18673) Jiangsu (+'s - name - Wikipedia)
 18674) Taiyuan (+'s - name - Wikipedia)
-18675) Taiz 
+18675) Taizé
 18676) Shanxi (+'s - name - Wikipedia)
 18677) Wapnick (+'s - name - Wikipedia)
 18678) Renard (+'s - name - Wikipedia)
@@ -22477,7 +22477,7 @@ V2.54
 18954) oarage
 18955) oarer
 18956) oarfish (+plural)
-18957) l ndler
+18957) ländler
 18958) endergonic
 18959) exergonic
 18960) exercycle
@@ -22759,7 +22759,7 @@ V2.55
 19223) FOSDEM (name - Wikipedia)
 19224) Mathies (+'s - name - Wikipedia)
 19225) Theriault (+'s - name - Wikipedia)
-19226) Th riault (+'s - name - Wikipedia)
+19226) Thériault (+'s - name - Wikipedia)
 19227) Maglione (+'s - name - Wikipedia)
 19228) Jagielski (+'s - name - Wikipedia)
 19229) Fritzsche (+'s - name - Wikipedia)
@@ -22776,7 +22776,7 @@ V2.55
 19240) Thurgood (+'s - name - Wikipedia)
 19241) Overholt (+'s - name - Wikipedia)
 19242) Palomares (+'s - name - Wikipedia)
-19243) Mart nez (+'s - name - Wikipedia)
+19243) Martí­nez (+'s - name - Wikipedia)
 19244) Nika (+'s - name - Wikipedia)
 19245) Layzell (+'s - name - Wikipedia)
 19246) threadsafe (Wiktionary)
@@ -23019,7 +23019,7 @@ V2.55
 19469) Barrow's (added +'s - name - Wikipedia)
 19470) Basotho's (added +'s - name - Wikipedia)
 19471) Bastogne's (added +'s - name - Wikipedia)
-19472) Bayam n's (added +'s - name - Wikipedia)
+19472) Bayamón's (added +'s - name - Wikipedia)
 19473) Bayer's (added +'s - name - Wikipedia)
 19474) Beatles's (added +'s - name - Wikipedia)
 19475) Beauchamps's (added +'s - name - Wikipedia)
@@ -23079,7 +23079,7 @@ V2.55
 19527) Betsy's (added +'s - name - Wikipedia)
 19528) Bessemer's (added +'s - name - Wikipedia)
 19529) Bernaville's (added +'s - name - Wikipedia)
-19530) Bergstr m's (added +'s - name - Wikipedia)
+19530) Bergström's (added +'s - name - Wikipedia)
 
 21-NOV-2017
 19531) Cahokia's (added +'s - name - Wikipedia)
@@ -23334,7 +23334,7 @@ V2.55
 19780) problematize (+s +ing +ed +ion -IZE)
 19781) problematise (+s +ing +ed +ion -ISE)
 19782) problematicalness
-19783) problematique + probl matique
+19783) problematique + problématique
 19784) problemage
 
 22-NOV-2017
@@ -23368,7 +23368,7 @@ V2.55
 19812) Cyril's (added +'s - name - Wikipedia)
 19813) Cyrillic's (added +'s - name - Wikipedia)
 19814) Cyrus's (added +'s - name - Wikipedia)
-19815) C te's (added +'s - name - Wikipedia)
+19815) Côte's (added +'s - name - Wikipedia)
 19816) Daborn's (added +'s - name - Wikipedia)
 19817) Dachau's (added +'s - name - Wikipedia)
 19818) Dacron's (added +'s - name - Wikipedia)
@@ -23384,7 +23384,7 @@ V2.55
 19828) Daly's (added +'s - name - Wikipedia)
 19829) Damien's (added +'s - name - Wikipedia)
 19830) Damocles's (added +'s - name - Wikipedia)
-19831) Dana 's (added +'s - name - Wikipedia)
+19831) Danaë's (added +'s - name - Wikipedia)
 19832) Danbury's (added +'s - name - Wikipedia)
 19833) Danielson's (added +'s - name - Wikipedia)
 19834) Danville's (added +'s - name - Wikipedia)
@@ -23534,7 +23534,7 @@ V2.55
 19976) Dy's (added +'s - name - Wikipedia)
 19977) Dyfed's (added +'s - name - Wikipedia)
 19978) Dyfed-Powys's (added +'s - name - Wikipedia)
-19979) D sseldorf's (added +'s - name - Wikipedia)
+19979) Düsseldorf's (added +'s - name - Wikipedia)
 19980) Ealham's (added +'s - name - Wikipedia)
 19981) Ealing's (added +'s - name - Wikipedia)
 19982) Earlybird's (added +'s - name - Wikipedia)
@@ -23630,7 +23630,7 @@ V2.55
 20072) Erin's (added +'s - name - Wikipedia)
 20073) Ernest's (added +'s - name - Wikipedia)
 20074) Ernestine's (added +'s - name - Wikipedia)
-20075) Bj rn (+'s - name - Wikipedia)
+20075) Björn (+'s - name - Wikipedia)
 20076) Jacke (+'s - name - Wikipedia)
 20077) Titze (+'s - name - Wikipedia)
 
@@ -23748,7 +23748,7 @@ V2.55
 20188) Flodden's (added +'s - name - Wikipedia)
 20189) Florentine's (added +'s - name - Wikipedia)
 20190) Flores's (added +'s - name - Wikipedia)
-20191) Flor al's (added +'s - name - Wikipedia)
+20191) Floréal's (added +'s - name - Wikipedia)
 20192) Flynn's (added +'s - name - Wikipedia)
 20193) Fokker's (added +'s - name - Wikipedia)
 20194) Folsom's (added +'s - name - Wikipedia)
@@ -23776,7 +23776,7 @@ V2.55
 20214) Frankfort's (added +'s - name - Wikipedia)
 20215) Frankie's (added +'s - name - Wikipedia)
 20216) Franz's (added +'s - name - Wikipedia)
-20217) Fran ois's (added +'s - name - Wikipedia)
+20217) François's (added +'s - name - Wikipedia)
 20218) Frau's (added +'s - name - Wikipedia)
 20219) Frazer's (added +'s - name - Wikipedia)
 20220) Frazier's (added +'s - name - Wikipedia)
@@ -23800,7 +23800,7 @@ V2.55
 20238) Frito's (added +'s - name - Wikipedia)
 20239) Fritz's (added +'s - name - Wikipedia)
 20240) Frobisher's (added +'s - name - Wikipedia)
-20241) Fr ulein's (added +'s - name - Wikipedia)
+20241) Fräulein's (added +'s - name - Wikipedia)
 20242) Fuchs's (added +'s - name - Wikipedia)
 20243) Fuji's (added +'s - name - Wikipedia)
 20244) Fukuoka's (added +'s - name - Wikipedia)
@@ -23808,7 +23808,7 @@ V2.55
 20246) Fulani's (added +'s - name - Wikipedia)
 20247) Fulford's (added +'s - name - Wikipedia)
 20248) Fullerton's (added +'s - name - Wikipedia)
-20249) F tima's (added +'s - name - Wikipedia)
+20249) Fátima's (added +'s - name - Wikipedia)
 20250) G7's (added +'s - name - Wikipedia)
 20251) G8's (added +'s - name - Wikipedia)
 20252) Gabarone's (added +'s - name - Wikipedia)
@@ -23840,7 +23840,7 @@ V2.55
 20278) Bercow (+'s - name - Wikipedia)
 20279) Cymru (+'s - name - Wikipedia)
 20280) Sinn (+'s - name - Wikipedia)
-20281) F in (+'s - name - Wikipedia)
+20281) Féin (+'s - name - Wikipedia)
 20282) abstentionist
 20283) Dunwich (+'s - name - Wikipedia)
 20284) priors (added plural)
@@ -23896,7 +23896,7 @@ V2.55
 20332) Getty's (added +'s - name - Wikipedia)
 20333) Gettysburg's (added +'s - name - Wikipedia)
 20334) Geurts's (added +'s - name - Wikipedia)
-20335) Gew rztraminer's (added +'s - name - Wikipedia)
+20335) Gewürztraminer's (added +'s - name - Wikipedia)
 20336) Ghaznavid's (added +'s - name - Wikipedia)
 20337) Ghent's (added +'s - name - Wikipedia)
 20338) Gibbs's (added +'s - name - Wikipedia)
@@ -23999,7 +23999,7 @@ V2.55
 20435) Grude's (added +'s - name - Wikipedia)
 20436) Grumman's (added +'s - name - Wikipedia)
 20437) Grundy's (added +'s - name - Wikipedia)
-20438) Gruy re's (added +'s - name - Wikipedia)
+20438) Gruyère's (added +'s - name - Wikipedia)
 20439) Guadalajara's (added +'s - name - Wikipedia)
 20440) Guadalcanal's (added +'s - name - Wikipedia)
 20441) Guadalupe's (added +'s - name - Wikipedia)
@@ -24024,12 +24024,12 @@ V2.55
 20460) Gutenberg's (added +'s - name - Wikipedia)
 20461) Guthrie's (added +'s - name - Wikipedia)
 20462) Gutierrez's (added +'s - name - Wikipedia)
-20463) Gu lat's (added +'s - name - Wikipedia)
+20463) Guélat's (added +'s - name - Wikipedia)
 20464) Gwangju's (added +'s - name - Wikipedia)
 20465) Gwen's (added +'s - name - Wikipedia)
 20466) Gwynedd's (added +'s - name - Wikipedia)
 20467) Gwyneth's (added +'s - name - Wikipedia)
-20468) G nther's (added +'s - name - Wikipedia)
+20468) Günther's (added +'s - name - Wikipedia)
 
 V2.56
 1-DEC-2017
@@ -24283,7 +24283,7 @@ V2.56
 20714) Hyman's (added +'s - name - Wikipedia)
 20715) Hyperion's (added +'s - name - Wikipedia)
 20716) Hywel's (added +'s - name - Wikipedia)
-20717) H gelsch fer's (added +'s - name - Wikipedia)
+20717) Hügelschäfer's (added +'s - name - Wikipedia)
 20718) Iban's (added +'s - name - Wikipedia)
 20719) Ibiza's (added +'s - name - Wikipedia)
 20720) Ibrahim's (added +'s - name - Wikipedia)
@@ -24794,7 +24794,7 @@ V2.56
 21217) Mahavidyalaya's (added +'s - name - Wikipedia)
 21218) Mahayana's (added +'s - name - Wikipedia)
 21219) Maier's (added +'s - name - Wikipedia)
-21220) Mail nder's (added +'s - name - Wikipedia)
+21220) Mailänder's (added +'s - name - Wikipedia)
 21221) Maine's (added +'s - name - Wikipedia)
 21222) Malamud's (added +'s - name - Wikipedia)
 21223) Malaprop's (added +'s - name - Wikipedia)
@@ -24947,7 +24947,7 @@ V2.56
 21370) Mercator's (added +'s - name - Wikipedia)
 21371) Mercedes's (added +'s - name - Wikipedia)
 21372) Mercier's (added +'s - name - Wikipedia)
-21373) Merkle-Damg rd's (added +'s - name - Wikipedia)
+21373) Merkle-Damgård's (added +'s - name - Wikipedia)
 21374) Merle's (added +'s - name - Wikipedia)
 21375) Merrick's (added +'s - name - Wikipedia)
 21376) Merrill's (added +'s - name - Wikipedia)
@@ -25096,7 +25096,7 @@ V2.56
 21519) Mylar's (added +'s - name - Wikipedia)
 21520) MySpell's (added +'s - name - Wikipedia)
 21521) Mysticeti's (added +'s - name - Wikipedia)
-21522) M bius's (added +'s - name - Wikipedia)
+21522) Möbius's (added +'s - name - Wikipedia)
 21523) NAT (Wiktionary: network address translation)
 21524) NTLM (Wiktionary: NT LAN Manager)
 
@@ -25131,9 +25131,9 @@ V2.56
 21552) neuroplasticity
 21553) neuroplasm (+ic)
 21554) noetic
-21555) noetical + no tical
+21555) noetical + noëtical
 21556) personifiable
-21557) personeity + person ity
+21557) personeity + personëity
 21558) personed
 21559) personative
 21560) petitionable
@@ -25166,7 +25166,7 @@ V2.56
 21587) NickServ's (added +'s - name - Wikipedia)
 21588) Nihang's (added +'s - name - Wikipedia)
 21589) Nils's (added +'s - name - Wikipedia)
-21590) Niter i's (added +'s - name - Wikipedia)
+21590) Niterói's (added +'s - name - Wikipedia)
 21591) Niuo's (added +'s - name - Wikipedia)
 21592) Nizari's (added +'s - name - Wikipedia)
 21593) Noble's (added +'s - name - Wikipedia)
@@ -25180,7 +25180,7 @@ V2.56
 21601) Nostradamus's (added +'s - name - Wikipedia)
 21602) Notre's (added +'s - name - Wikipedia)
 21603) Notting's (added +'s - name - Wikipedia)
-21604) Noun a's (added +'s - name - Wikipedia)
+21604) Nounéa's (added +'s - name - Wikipedia)
 21605) Nova's (added +'s - name - Wikipedia)
 21606) Novocain's (added +'s - name - Wikipedia)
 21607) Nuku'alofa's (added +'s - name - Wikipedia)
@@ -25219,7 +25219,7 @@ V2.56
 21638) Oric's (added +'s - name - Wikipedia)
 21639) Orleans's (added +'s - name - Wikipedia)
 21640) Orpington's (added +'s - name - Wikipedia)
-21641) Ortol 's (added +'s - name - Wikipedia)
+21641) Ortolà's (added +'s - name - Wikipedia)
 21642) Osbert's (added +'s - name - Wikipedia)
 21643) Ossetia's (added +'s - name - Wikipedia)
 21644) Osteichthyes's (added +'s - name - Wikipedia)
@@ -25234,7 +25234,7 @@ V2.56
 21653) Paarl's (added +'s - name - Wikipedia)
 21654) Pacific's (added +'s - name - Wikipedia)
 21655) Padstow's (added +'s - name - Wikipedia)
-21656) Pad 's (added +'s - name - Wikipedia)
+21656) Padé's (added +'s - name - Wikipedia)
 21657) Pahaji's (added +'s - name - Wikipedia)
 21658) Paki's (added +'s - name - Wikipedia)
 21659) Pancras's (added +'s - name - Wikipedia)
@@ -25244,7 +25244,7 @@ V2.56
 21663) Patel's (added +'s - name - Wikipedia)
 21664) Patna's (added +'s - name - Wikipedia)
 21665) Patrice's (added +'s - name - Wikipedia)
-21666) Patr cia's (added +'s - name - Wikipedia)
+21666) Patrícia's (added +'s - name - Wikipedia)
 21667) Patton's (added +'s - name - Wikipedia)
 21668) Pawnee's (added +'s - name - Wikipedia)
 21669) Paxil's (added +'s - name - Wikipedia)
@@ -25297,7 +25297,7 @@ V2.56
 21716) Pleiades's (added +'s - name - Wikipedia)
 21717) Pleistocene's (added +'s - name - Wikipedia)
 21718) Plohman's (added +'s - name - Wikipedia)
-21719) Pok 's (added +'s - name - Wikipedia)
+21719) Poké's (added +'s - name - Wikipedia)
 21720) Polaroid's (added +'s - name - Wikipedia)
 21721) Pollyanna's (added +'s - name - Wikipedia)
 21722) Polokwane's (added +'s - name - Wikipedia)
@@ -25315,7 +25315,7 @@ V2.56
 21734) Prometheus's (added +'s - name - Wikipedia)
 21735) Proteus's (added +'s - name - Wikipedia)
 21736) Protista's (added +'s - name - Wikipedia)
-21737) Proven al's (added +'s - name - Wikipedia)
+21737) Provençal's (added +'s - name - Wikipedia)
 21738) Prussia's (added +'s - name - Wikipedia)
 21739) Pspell's (added +'s - name - Wikipedia)
 21740) Pu's (added +'s - name - Wikipedia)
@@ -25410,7 +25410,7 @@ V2.56
 21825) RAAF's (added +'s - name - Wikipedia)
 21826) Raes's (added +'s - name - Wikipedia)
 21827) RAF's (added +'s - name - Wikipedia)
-21828) Ragnar k's (added +'s - name - Wikipedia)
+21828) Ragnarök's (added +'s - name - Wikipedia)
 21829) Ragusa's (added +'s - name - Wikipedia)
 21830) Raikkonen's (added +'s - name - Wikipedia)
 21831) Raipur's (added +'s - name - Wikipedia)
@@ -25428,7 +25428,7 @@ V2.56
 21843) Rees's (added +'s - name - Wikipedia)
 21844) Reigate's (added +'s - name - Wikipedia)
 21845) Renaissance's (added +'s - name - Wikipedia)
-21846) Ren 's (added +'s - name - Wikipedia)
+21846) René's (added +'s - name - Wikipedia)
 21847) Reuters's (added +'s - name - Wikipedia)
 21848) Revenna's (added +'s - name - Wikipedia)
 21849) Reyes's (added +'s - name - Wikipedia)
@@ -25476,7 +25476,7 @@ V2.56
 21889) Berk's (added +'s - name - Wikipedia)
 21890) Betelgeuse's (added +'s - name - Wikipedia)
 21891) Bezzi's (added +'s - name - Wikipedia)
-21892) Bokm l's (added +'s - name - Wikipedia)
+21892) Bokmål's (added +'s - name - Wikipedia)
 21893) Bordeaux's (added +'s - name - Wikipedia)
 21894) Borsalino's (added +'s - name - Wikipedia)
 21895) Bulawayo'sc's (added +'s - name - Wikipedia)
@@ -25555,7 +25555,7 @@ V2.56
 21968) Southwark's (added +'s - name - Wikipedia)
 21969) Spackle's (added +'s - name - Wikipedia)
 21970) Sperrin's (added +'s - name - Wikipedia)
-21971) Sprachgef hl's (added +'s - name - Wikipedia)
+21971) Sprachgefühl's (added +'s - name - Wikipedia)
 21972) Spyckerelle's (added +'s - name - Wikipedia)
 21973) SQL's (added +'s - name - Wikipedia)
 21974) Sri's (added +'s - name - Wikipedia)
@@ -25598,10 +25598,10 @@ V2.56
 22011) Swiss's (added +'s - name - Wikipedia)
 22012) Sylvan's (added +'s - name - Wikipedia)
 22013) Szandor's (added +'s - name - Wikipedia)
-22014) S o's (added +'s - name - Wikipedia)
+22014) São's (added +'s - name - Wikipedia)
 22015) Ta's (added +'s - name - Wikipedia)
 22016) Taiping's (added +'s - name - Wikipedia)
-22017) Taiz 's (added +'s - name - Wikipedia)
+22017) Taizé's (added +'s - name - Wikipedia)
 22018) Tally's (added +'s - name - Wikipedia)
 22019) Tampere's (added +'s - name - Wikipedia)
 22020) Tamworth's (added +'s - name - Wikipedia)
@@ -25643,7 +25643,7 @@ V2.56
 22056) Tippex's (added +'s - name - Wikipedia)
 22057) Tipton's (added +'s - name - Wikipedia)
 22058) Tirane's (added +'s - name - Wikipedia)
-22059) Tk ?'s (added +'s - name - Wikipedia)
+22059) Tkáč's (added +'s - name - Wikipedia)
 22060) Tomas's (added +'s - name - Wikipedia)
 22061) Tonbridge's (added +'s - name - Wikipedia)
 22062) Torbay's (added +'s - name - Wikipedia)
@@ -25719,7 +25719,7 @@ V2.56
 22130) Voetsek's (added +'s - name - Wikipedia)
 22131) Voetstoots's (added +'s - name - Wikipedia)
 22132) Vogts's (added +'s - name - Wikipedia)
-22133) Volap k's (added +'s - name - Wikipedia)
+22133) Volapük's (added +'s - name - Wikipedia)
 22134) Volker's (added +'s - name - Wikipedia)
 22135) Volkeri's (added +'s - name - Wikipedia)
 22136) Votyak's (added +'s - name - Wikipedia)
@@ -25797,7 +25797,7 @@ V2.56
 22208) Grus (+'s - name - Wikipedia)
 22209) Delphinus (+'s - name - Wikipedia)
 22210) Capricornus (+'s - name - Wikipedia)
-22211) Bo tes (+'s - name - Wikipedia)
+22211) Boötes (+'s - name - Wikipedia)
 22212) Vulpecula (+'s - name - Wikipedia)
 22213) Lepus (+'s - name - Wikipedia)
 22214) Puppis (+'s - name - Wikipedia)
@@ -26012,7 +26012,7 @@ V2.56
 22422) Columba's (added +'s - name - Wikipedia)
 22423) Columbae's (added +'s - name - Wikipedia)
 22424) Covenanter's (added +'s - name - Wikipedia)
-22425) Cr billon's (added +'s - name - Wikipedia)
+22425) Crébillon's (added +'s - name - Wikipedia)
 22426) Cyclops's (added +'s - name - Wikipedia)
 22427) crossbencher (+plural - Wiktionary)
 22428) Factortame (+'s - name - Wikipedia)
@@ -26162,7 +26162,7 @@ V2.56
 22568) H.265's (added +'s - name - Wikipedia)
 22569) unicameralism (Collins)
 22570) unicameralist (Collins)
-22571) cameralism
+22571) cameralism
 22572) cameralist
 22573) cameralistic (+s)
 22574) camerapeople
@@ -26183,7 +26183,7 @@ V2.56
 22589) Wefaq (+'s - name - Wikipedia)
 22590) Oireachtas
 22591) Seanad (+'s - name - Wikipedia)
-22592)  ireann (+'s - name - Wikipedia)
+22592) Éireann (+'s - name - Wikipedia)
 22593) Rigsdagen (+'s - name - Wikipedia)
 22594) Mawhinney (+'s - name - Wikipedia)
 22595) Widdecombe (+'s - name - Wikipedia)
@@ -26410,7 +26410,7 @@ V2.56
 22810) Winchelsea (+'s - name - Wikipedia)
 22811) Livesey (+'s - name - Wikipedia)
 22812) Llanrhidian (+'s - name - Wikipedia)
-22813) Chi?in?u (+'s - name - Wikipedia)
+22813) Chișinău (+'s - name - Wikipedia)
 
 23-DEC-2017
 22814) Cymmrodorion (+'s - name - Wikipedia)
@@ -26515,9 +26515,9 @@ V2.56
 22911) Heracles (+'s - name - Wikipedia)
 22912) nomen (+plural)
 22913) praenomen
-22914)  lvaro (+'s - name - Wikipedia)
-22915) Rodr guez (+'s - name - Wikipedia)
-22916)  lvarez (+'s - name - Wikipedia)
+22914) Álvaro (+'s - name - Wikipedia)
+22915) Rodríguez (+'s - name - Wikipedia)
+22916) Álvarez (+'s - name - Wikipedia)
 22917) Cottle (+'s - name - Wikipedia)
 22918) matronymic + metronymic (+plural of both)
 22919) Beaton (+'s - name - Wikipedia)
@@ -26534,7 +26534,7 @@ V2.56
 22930) Gutman (+'s - name - Wikipedia)
 22931) Zapatero (+'s - name - Wikipedia)
 22932) Telmo (+'s - name - Wikipedia)
-22933) G mez (+'s - name - Wikipedia)
+22933) Gómez (+'s - name - Wikipedia)
 22934) Javier (+'s - name - Wikipedia)
 22935) Aoyama (+'s - name - Wikipedia)
 22936) Gakuin (+'s - name - Wikipedia)
@@ -26546,7 +26546,7 @@ V2.56
 22940) Bolte (+'s - name - Wikipedia)
 22941) Rechtien (+'s - name - Wikipedia)
 22942) Glazunov (+'s - name - Wikipedia)
-22943) Caol n (+'s - name - Wikipedia)
+22943) Caolán (+'s - name - Wikipedia)
 22944) McNamara (+'s - name - Wikipedia)
 22945) Bergmann (+'s - name - Wikipedia)
 22946) Ivo (+'s - name - Wikipedia)
@@ -26571,17 +26571,17 @@ V2.56
 22965) Thiebaud (+'s - name - Wikipedia)
 22966) Arnhold (+'s - name - Wikipedia)
 22967) Lohmann (+'s - name - Wikipedia)
-22968) Andr s (+'s - name - Wikipedia)
-22969) Tim r (+'s - name - Wikipedia)
-22970) Mat   (+'s - name - Wikipedia)
+22968) András (+'s - name - Wikipedia)
+22969) Timár (+'s - name - Wikipedia)
+22970) Matúš (+'s - name - Wikipedia)
 22971) Kukan (+'s - name - Wikipedia)
-22972) Toma  (+'s - name - Wikipedia)
+22972) Tomaž (+'s - name - Wikipedia)
 22973) Takeshi (+'s - name - Wikipedia)
 22974) Fridrich (+'s - name - Wikipedia)
-22975)  trba (+'s - name - Wikipedia)
+22975) Štrba (+'s - name - Wikipedia)
 22976) Armin (+'s - name - Wikipedia)
-22977) Lubo  (+'s - name - Wikipedia)
-22978) Lu? k (+'s - name - Wikipedia)
+22977) Luboš (+'s - name - Wikipedia)
+22978) Luňák (+'s - name - Wikipedia)
 
 V2.57
 2-JAN-2018
@@ -26644,7 +26644,7 @@ V2.57
 23033) mine's (added +'s)
 23034) mineable + minable
 23035) demine (+s +ing +ed +er +ers)
-23036) Beyonc  (+'s - name - Wikipedia)
+23036) Beyoncé (+'s - name - Wikipedia)
 23037) demi-sec
 23038) moelleux
 23039) doux
@@ -26759,15 +26759,15 @@ V2.57
 23145) Elie (+'s - name - Wikipedia)
 23146) Mamane (+'s - name - Wikipedia)
 23147) Petr (+'s - name - Wikipedia)
-23148) Ml dek (+'s - name - Wikipedia)
+23148) Mládek (+'s - name - Wikipedia)
 23149) Kai (+'s - name - Wikipedia)
 23150) Ahrens (+'s - name - Wikipedia)
-23151) Tam s (+'s - name - Wikipedia)
+23151) Tamás (+'s - name - Wikipedia)
 23152) Brinkmann (+'s - name - Wikipedia)
-23153) C dric (+'s - name - Wikipedia)
+23153) Cédric (+'s - name - Wikipedia)
 23154) Malte (+'s - name - Wikipedia)
 23155) Timmermann (+'s - name - Wikipedia)
-23156) D rr (+'s - name - Wikipedia)
+23156) Dürr (+'s - name - Wikipedia)
 23157) Gallwey (+'s - name - Wikipedia)
 23158) Voytenko (+'s - name - Wikipedia)
 23159) Lingner (+'s - name - Wikipedia)
@@ -26786,7 +26786,7 @@ V2.57
 23170) Bregas (+'s - name - Wikipedia)
 23171) Katarina (+'s - name - Wikipedia)
 23172) Engelhard (+'s - name - Wikipedia)
-23173) Zden?k (+'s - name - Wikipedia)
+23173) Zdeněk (+'s - name - Wikipedia)
 23174) Timofeev (+'s - name - Wikipedia)
 23175) Szymon (+'s - name - Wikipedia)
 23176) Wittmann (+'s - name - Wikipedia)
@@ -26804,7 +26804,7 @@ V2.57
 23188) Subramanian (+'s - name - Wikipedia)
 23189) Iversen (+'s - name - Wikipedia)
 23190) Luth (+'s - name - Wikipedia)
-23191) L th (+'s - name - Wikipedia)
+23191) Lüth (+'s - name - Wikipedia)
 23192) Pranav (+'s - name - Wikipedia)
 23193) Arnaud (+'s - name - Wikipedia)
 23194) Versini (+'s - name - Wikipedia)
@@ -26845,7 +26845,7 @@ V2.57
 23227) Abreu (+'s - name - Wikipedia)
 23228) Schierl (+'s - name - Wikipedia)
 23229) Trevisan (+'s - name - Wikipedia)
-23230) Tr visan (+'s - name - Wikipedia)
+23230) Trévisan (+'s - name - Wikipedia)
 23231) Poletto (+'s - name - Wikipedia)
 23232) Swales (+'s - name - Wikipedia)
 23233) Leal (+'s - name - Wikipedia)
@@ -26960,7 +26960,7 @@ V2.57
 23340) Rizza (+'s - name - Wikipedia)
 23341) honorifically
 23342) Drezner (+'s - name - Wikipedia)
-23343) Mu oz (+'s - name - Wikipedia)
+23343) Muñoz (+'s - name - Wikipedia)
 23344) periphrastically
 23345) suppletion
 23346) suppletive
@@ -27011,7 +27011,7 @@ V2.57
 23389) duskily
 23390) Duse (+'s - name - Wikipedia)
 23391) Eleonora (+'s - name - Wikipedia)
-23392) Durr s (+'s - name - Wikipedia)
+23392) Durrës (+'s - name - Wikipedia)
 23393) Durrell (+'s - name - Wikipedia)
 23394) Durocher (+'s - name - Wikipedia)
 23395) sensei's (added +'s - Wikipedia)
@@ -27314,7 +27314,7 @@ V2.57
 23680) Alberts (+'s - name - Wikipedia)
 23681) Pawelec (+'s - name - Wikipedia)
 23682) Sikora (+'s - name - Wikipedia)
-23683) Magalh es (+'s - name - Wikipedia)
+23683) Magalhães (+'s - name - Wikipedia)
 23684) Anisimov (+'s - name - Wikipedia)
 23685) Schottenfeld (+'s - name - Wikipedia)
 23686) Fraumeni (+'s - name - Wikipedia)
@@ -27482,7 +27482,7 @@ V2.58
 23843) Hermus (+'s - name - Wikipedia)
 23844) Boffetta (+'s - name - Wikipedia)
 23845) Dubey (+'s - name - Wikipedia)
-23846) Sch tze (+'s - name - Wikipedia)
+23846) Schütze (+'s - name - Wikipedia)
 23847) Romaguera (+'s - name - Wikipedia)
 23848) Rohrmann (+'s - name - Wikipedia)
 23849) Clapp (+'s - name - Wikipedia)
@@ -27639,7 +27639,7 @@ V2.58
 23992) lentigo
 23993) lentigines (plural of previous word)
 23994) leopard-skin
-23995) L otard (+'s - name - Wikipedia)
+23995) Léotard (+'s - name - Wikipedia)
 23996) Mitova (+'s - name - Wikipedia)
 23997) Neisser (+'s - name - Wikipedia)
 23998) leprosity
@@ -27687,7 +27687,7 @@ V2.58
 24038) Papaioannou (+'s - name - Wikipedia)
 24039) Hoorn (+'s - name - Wikipedia)
 24040) Wicki (+'s - name - Wikipedia)
-24041) Dub  (+'s - name - Wikipedia)
+24041) Dubé (+'s - name - Wikipedia)
 24042) Moher (+'s - name - Wikipedia)
 24043) Barrowman (+'s - name - Wikipedia)
 24044) Manowar (+'s - name - Wikipedia)
@@ -27827,7 +27827,7 @@ V2.58
 24173) Nebreda (+'s - name - Wikipedia)
 24174) Rosell (+'s - name - Wikipedia)
 24175) Reicke (+'s - name - Wikipedia)
-24176) M ller (+'s - name - Wikipedia)
+24176) Müller (+'s - name - Wikipedia)
 24177) Llewelyn (+'s - name - Wikipedia)
 24178) Jacobus (+'s - name - Wikipedia)
 24179) Caesarea (+'s - name - Wikipedia)
@@ -27847,7 +27847,7 @@ V2.58
 24193) Demas (+'s - name - Wikipedia)
 24194) Barnabus (+'s - name - Wikipedia)
 24195) Tychicus (+'s - name - Wikipedia)
-24196) K mmel (+'s - name - Wikipedia)
+24196) Kümmel (+'s - name - Wikipedia)
 24197) Koester (+'s - name - Wikipedia)
 24198) Schweizer (+'s - name - Wikipedia)
 24199) Gruyter (+'s - name - Wikipedia)
@@ -27915,7 +27915,7 @@ V2.58
 24261) Craddock (+'s - name - Wikipedia)
 24262) Colossian (added singular)
 24263) Colosse (+'s - name - Wikipedia)
-24264) T bingen (+'s - name - Wikipedia)
+24264) Tübingen (+'s - name - Wikipedia)
 24265) Ambrosiaster (+'s - name - Wikipedia)
 24266) Apphia (+'s - name - Wikipedia)
 24267) Lightfoot (+'s - name - Wikipedia)
@@ -28291,12 +28291,12 @@ V2.59
 23621) Berl (+'s - name - Wikipedia)
 23622) Edelman (+'s - name - Wikipedia)
 23623) Boronia (+'s - name - Wikipedia)
-23624) W lfling (+'s - name - Wikipedia)
+23624) Wölfling (+'s - name - Wikipedia)
 23625) Gallinat (+'s - name - Wikipedia)
-23626) K hn (+'s - name - Wikipedia)
+23626) Kühn (+'s - name - Wikipedia)
 23627) Bhasin (+'s - name - Wikipedia)
 23628) Masnick (+'s - name - Wikipedia)
-23629) Gouss  (+'s - name - Wikipedia)
+23629) Goussé (+'s - name - Wikipedia)
 23630) Puneet (+'s - name - Wikipedia)
 23631) Shrage (+'s - name - Wikipedia)
 23632) MacKinnon (+'s - name - Wikipedia)
@@ -28447,11 +28447,11 @@ V2.59
 23773) Lianne (+'s - name - Wikipedia)
 23774) Bastin (+'s - name - Wikipedia)
 23775) Schuler (+'s - name - Wikipedia)
-23776) M ller (+'s - name - Wikipedia)
+23776) Møller (+'s - name - Wikipedia)
 23777) Petra (+'s - name - Wikipedia)
 23778) Pape (+'s - name - Wikipedia)
 23779) Kerth (+'s - name - Wikipedia)
-23780) K nig (+'s - name - Wikipedia)
+23780) König (+'s - name - Wikipedia)
 23781) Tullberg (+'s - name - Wikipedia)
 23782) Phillip (+'s - name - Wikipedia)
 23783) Kamran (+'s - name - Wikipedia)
@@ -28532,7 +28532,7 @@ V2.59
 23854) sealable
 23855) thermos (+plural)
 23856) Redonda (+'s - name - Wikipedia)
-23857) Ra l (+'s - name - Wikipedia)
+23857) Raël (+'s - name - Wikipedia)
 23858) Amgen (+'s - name - Wikipedia)
 23859) Priceline (+'s - name - Wikipedia)
 23860) Celgene (+'s - name - Wikipedia)
@@ -28551,7 +28551,7 @@ V2.59
 23871) microgeographic
 23872) microgeographical
 23873) microglossary
-23874) ?g
+23874) μg
 23875) microgranitoid
 23876) tubulin
 23877) rouleau (+plural)
@@ -28575,7 +28575,7 @@ V2.59
 23895) Matsui (+'s - name - Wikipedia)
 23896) Yan (+'s - name - Wikipedia)
 23897) Helmuth (+'s - name - Wikipedia)
-23898) L ders (+'s - name - Wikipedia)
+23898) Lüders (+'s - name - Wikipedia)
 23899) Pollitzer (+'s - name - Wikipedia)
 23900) Gershoni (+'s - name - Wikipedia)
 23901) Lockshin (+'s - name - Wikipedia)
@@ -28606,9 +28606,9 @@ V2.59
 23924) Estevez (+'s - name - Wikipedia)
 23925) Meitinger (+'s - name - Wikipedia)
 23926) Sikorska (+'s - name - Wikipedia)
-23927) G ran (+'s - name - Wikipedia)
+23927) Göran (+'s - name - Wikipedia)
 23928) Goffinet (+'s - name - Wikipedia)
-23929) Fabi n (+'s - name - Wikipedia)
+23929) Fabián (+'s - name - Wikipedia)
 23930) Deasy (+'s - name - Wikipedia)
 23931) pudendal
 23932) pudic
@@ -28617,7 +28617,7 @@ V2.59
 23935) Skene (+'s - name - Wikipedia)
 23936) perinea (plural of perineum)
 23937) perineal
-23938) Gr fenberg (+'s - name - Wikipedia)
+23938) Gräfenberg (+'s - name - Wikipedia)
 23939) Herbenick (+'s - name - Wikipedia)
 23940) Seidman (+'s - name - Wikipedia)
 23941) Antinous (+'s - name - Wikipedia)
@@ -28984,7 +28984,7 @@ The user az0 suggested a list of 328 names of famous people on Kevin's GitHub: "
 24282) Pinkett (+'s - name - Wikipedia)
 24283) Poehler (+'s - name - Wikipedia)
 24284) Pont (+'s - name - Wikipedia)
-24285) Porzi??is (+'s - name - Wikipedia)
+24285) Porziņģis (+'s - name - Wikipedia)
 24286) Priyanka (+'s - name - Wikipedia)
 24287) Raisman (+'s - name - Wikipedia)
 24288) Rajon (+'s - name - Wikipedia)
@@ -29051,7 +29051,7 @@ The user az0 suggested a list of 328 names of famous people on Kevin's GitHub: "
 24347) nulliparae (plural of previous word)
 24348) nulliparous
 24349) rugae (Collins)
-24350) M llerian
+24350) Müllerian
 24351) majora
 24352) propria
 24353) keratinize (+s +ing +ed +ion -IZE)
@@ -29232,7 +29232,7 @@ V2.61
 24518) junto (+plural)
 24519) Bonaventura (+'s - name - Wikipedia)
 24520) Angostura (+'s - name - Wikipedia)
-24521) D rer (+'s - name - Wikipedia)
+24521) Dürer (+'s - name - Wikipedia)
 24522) Madura (+'s - name - Wikipedia)
 24523) durra
 24524) Prospero (+'s - name - Wikipedia)
@@ -29280,7 +29280,7 @@ V2.61
 24564) oxidise (+s +ing +ed -ISE)
 24565) oenological
 24566) oenologist (+plural)
-24567) n gociant
+24567) négociant
 
 7-MAY-2018
 24568) baccy (+'s)
@@ -29341,7 +29341,7 @@ V2.61
 24623) phycological
 24624) phycologist (+plural)
 24625) protozoologist
-24626) protozoology + protozo logy
+24626) protozoology + protozoölogy
 24627) protozoologically
 24628) protozoological
 
@@ -29426,7 +29426,7 @@ V2.61
 24704) Salah (+'s - name - Wikipedia)
 24705) Jiang (+'s - name - Wikipedia)
 24706) Dilek (+'s - name - Wikipedia)
-24707) M lissa (+'s - name - Wikipedia)
+24707) Mélissa (+'s - name - Wikipedia)
 24708) Didem (+'s - name - Wikipedia)
 24709) Aydin (+'s - name - Wikipedia)
 24710) Ersoy (+'s - name - Wikipedia)
@@ -29445,7 +29445,7 @@ V2.61
 24723) pharmacognosist (+plural)
 24724) prodrug (+plural)
 24725) Tupper (+'s - name - Wikipedia)
-24726) Vald s (+'s - name - Wikipedia)
+24726) Valdés (+'s - name - Wikipedia)
 24727) Govind (+'s - name - Wikipedia)
 24728) Lindahl (+'s - name - Wikipedia)
 24729) Ragnarsson (+'s - name - Wikipedia)
@@ -29720,7 +29720,7 @@ V2.61
 24992) Alun (+'s - name - Wikipedia)
 24993) Snowdon (+'s - name - Wikipedia)
 24994) Owain (+'s - name - Wikipedia)
-24995) Glynd?r (+'s - name - Wikipedia)
+24995) Glyndŵr (+'s - name - Wikipedia)
 24996) Llywelyn (+'s - name - Wikipedia)
 24997) ap
 24998) Gruffudd (+'s - name - Wikipedia)
@@ -30574,7 +30574,7 @@ V2.61
 25638) Hanmer (+'s - name - Wikipedia)
 25639) Haumoana (+'s - name - Wikipedia)
 25640) Haupiri (+'s - name - Wikipedia)
-25641) H?wea (+'s - name - Wikipedia)
+25641) Hāwea (+'s - name - Wikipedia)
 25642) Helensville (+'s - name - Wikipedia)
 25643) Herekino (+'s - name - Wikipedia)
 25644) Hikuai (+'s - name - Wikipedia)
@@ -30695,7 +30695,7 @@ V2.61
 25759) Ohakune (+'s - name - Wikipedia)
 25760) Ohangai (+'s - name - Wikipedia)
 25761) Ohoka (+'s - name - Wikipedia)
-25762) ?hope (+'s - name - Wikipedia)
+25762) Ōhope (+'s - name - Wikipedia)
 25763) Ohura (+'s - name - Wikipedia)
 25764) Okaihau (+'s - name - Wikipedia)
 25765) Okato (+'s - name - Wikipedia)
@@ -30882,10 +30882,10 @@ V2.61
 25946) Woodend (+'s - name - Wikipedia)
 25947) Woodhill (+'s - name - Wikipedia)
 25948) Woodville (+'s - name - Wikipedia)
-25949) Waih? (+'s - name - Wikipedia)
+25949) Waihī (+'s - name - Wikipedia)
 25950) Hawkes (+'s - name - Wikipedia)
 25951) Rogernomics
-25952) M?ori (+'s - name - Wikipedia)
+25952) Māori (+'s - name - Wikipedia)
 25953) Patsy (+'s - name - Wikipedia)
 25954) viceroyalty (+plural)
 25955) cognisable (-ISE)
@@ -31096,7 +31096,7 @@ V2.61
 25156) microkernel (+plural +'s)
 25157) Haynie (+'s - name - Wikipedia)
 25158) Kittel (+'s - name - Wikipedia)
-25159) Sch nfeld (+'s - name - Wikipedia)
+25159) Schönfeld (+'s - name - Wikipedia)
 25160) Hirasawa (+'s - name - Wikipedia)
 25161) Susumu (+'s - name - Wikipedia)
 25162) Casale (+'s - name - Wikipedia)
@@ -31178,7 +31178,7 @@ V2.62
 25234) Laingholm (+'s - name - Wikipedia)
 25235) Lynfield (+'s - name - Wikipedia)
 25236) Mairangi (+'s - name - Wikipedia)
-25237) M?ngere (+'s - name - Wikipedia)
+25237) Māngere (+'s - name - Wikipedia)
 25238) Mangere (+'s - name - Wikipedia)
 25239) Meadowbank (+'s - name - Wikipedia)
 25240) Mellons (+'s - name - Wikipedia)
@@ -31191,7 +31191,7 @@ V2.62
 25247) Orakei (+'s - name - Wikipedia)
 25248) Oranga (+'s - name - Wikipedia)
 25249) Orere (+'s - name - Wikipedia)
-25250) ?tara (+'s - name - Wikipedia)
+25250) Ōtara (+'s - name - Wikipedia)
 25251) Owairaka (+'s - name - Wikipedia)
 25252) Pahurehure (+'s - name - Wikipedia)
 25253) Pakuranga (+'s - name - Wikipedia)
@@ -31214,7 +31214,7 @@ V2.62
 25270) Sunnyhills (+'s - name - Wikipedia)
 25271) Sunnynook (+'s - name - Wikipedia)
 25272) Takanini (+'s - name - Wikipedia)
-25273) Atat? (+'s - name - Wikipedia)
+25273) Atatū (+'s - name - Wikipedia)
 25274) Papapa (+'s - name - Wikipedia)
 25275) Titirangi (+'s - name - Wikipedia)
 25276) Totara (+'s - name - Wikipedia)
@@ -31438,9 +31438,9 @@ V2.62
 25492) Normandale (+'s - name - Wikipedia)
 25493) Pomare (+'s - name - Wikipedia)
 25494) Seaview (+'s - name - Wikipedia)
-25495) Tait? (+'s - name - Wikipedia)
+25495) Taitā (+'s - name - Wikipedia)
 25496) Tirohanga (+'s - name - Wikipedia)
-25497) Waiwhet? (+'s - name - Wikipedia)
+25497) Waiwhetū (+'s - name - Wikipedia)
 25498) Wingate (+'s - name - Wikipedia)
 25499) Aotea (+'s - name - Wikipedia)
 25500) Hongoeka (+'s - name - Wikipedia)
@@ -31586,7 +31586,7 @@ V2.62
 25638) Whiteholme (+'s - name - Wikipedia)
 25639) Charlene (+'s - name - Wikipedia)
 25640) Hylda (+'s - name - Wikipedia)
-25641) Zo  (+'s - name - Wikipedia)
+25641) Zoë (+'s - name - Wikipedia)
 25642) Lennie (+'s - name - Wikipedia)
 25643) Cairoli (+'s - name - Wikipedia)
 25644) Carman (+'s - name - Wikipedia)
@@ -31894,7 +31894,7 @@ V2.62
 25942) Efenechtyd (+'s - name - Wikipedia)
 25943) Gwyddelwern (+'s - name - Wikipedia)
 25944) Henllan (+'s - name - Wikipedia)
-25945) Llanarmon-yn-I l (+'s - name - Wikipedia)
+25945) Llanarmon-yn-Iâl (+'s - name - Wikipedia)
 25946) Llanbedr (+'s - name - Wikipedia)
 25947) Llandegla (+'s - name - Wikipedia)
 25948) Llandrillo (+'s - name - Wikipedia)
@@ -32281,7 +32281,7 @@ V2.62
 26323) Llantwit (+'s - name - Wikipedia)
 26324) Fardre (+'s - name - Wikipedia)
 26325) Llwydcoed (+'s - name - Wikipedia)
-26326) Llwynyp a (+'s - name - Wikipedia)
+26326) Llwynypïa (+'s - name - Wikipedia)
 26327) Maerdy (+'s - name - Wikipedia)
 26328) Pen-y-graig (+'s - name - Wikipedia)
 26329) Penrhiwceiber (+'s - name - Wikipedia)
@@ -32299,7 +32299,7 @@ V2.62
 26341) Ynyshir (+'s - name - Wikipedia)
 26342) Ynysybwl (+'s - name - Wikipedia)
 26343) Birchgrove (+'s - name - Wikipedia)
-26344) B n-y-maen (+'s - name - Wikipedia)
+26344) Bôn-y-maen (+'s - name - Wikipedia)
 26345) Cwmbwrla (+'s - name - Wikipedia)
 26346) Dunvant (+'s - name - Wikipedia)
 26347) Gorseinon (+'s - name - Wikipedia)
@@ -32888,7 +32888,7 @@ V2.62
 26924) Sedgley (+'s - name - Wikipedia)
 26925) Bury (+'s - name - Wikipedia)
 26926) Bibby (+'s - name - Wikipedia)
-26927) Li ge (+'s - name - Wikipedia)
+26927) Liège (+'s - name - Wikipedia)
 26928) Ruckriem (+'s - name - Wikipedia)
 26929) Outwood (+'s - name - Wikipedia)
 26930) Allington (+'s - name - Wikipedia)
@@ -33245,7 +33245,7 @@ V2.62
 27277) Izzard (+'s - name - Wikipedia)
 27278) Behar (+'s - name - Wikipedia)
 27279) Ravilious (+'s - name - Wikipedia)
-27280) Alm sy (+'s - name - Wikipedia)
+27280) Almásy (+'s - name - Wikipedia)
 27281) Dulce (+'s - name - Wikipedia)
 27282) Dias (+'s - name - Wikipedia)
 27283) Fonseca (+'s - name - Wikipedia)
@@ -33258,7 +33258,7 @@ V2.62
 27290) Almeida (+'s - name - Wikipedia)
 27291) Rytky (+'s - name - Wikipedia)
 27292) Couto (+'s - name - Wikipedia)
-27293) Lu s (+'s - name - Wikipedia)
+27293) Luís (+'s - name - Wikipedia)
 27294) Antunes (+'s - name - Wikipedia)
 27295) Faria (+'s - name - Wikipedia)
 27296) Tavares (+'s - name - Wikipedia)
@@ -35711,7 +35711,7 @@ V2.63
 29701) Hendrik (+'s - name - Wikipedia)
 29702) Wiener (+'s - name - Wikipedia)
 29703) Barzman (+'s - name - Wikipedia)
-29704) Verd  (+'s - name - Wikipedia)
+29704) Verdú (+'s - name - Wikipedia)
 29705) Hopwood (+'s - name - Wikipedia)
 29706) Inverforth (+'s - name - Wikipedia)
 29707) Streatham (+'s - name - Wikipedia)
@@ -37469,15 +37469,15 @@ V2.64
 31433) Souldern (+'s - name - Wikipedia)
 31434) Adamstown (+'s - name - Wikipedia)
 31435) Vella (+'s - name - Wikipedia)
-31436) Bras lia (+'s - name - Wikipedia)
+31436) Brasília (+'s - name - Wikipedia)
 31437) Gustavia (+'s - name - Wikipedia)
 31438) Juba (+'s - name - Wikipedia)
 31439) Putrajaya (+'s - name - Wikipedia)
-31440) Mal  (+'s - name - Wikipedia)
+31440) Malé (+'s - name - Wikipedia)
 31441) Lobamba (+'s - name - Wikipedia)
 31442) Pago (+'s - name - Wikipedia)
 31443) Pristina (+'s - name - Wikipedia)
-31444) Reykjav k (+'s - name - Wikipedia)
+31444) Reykjavík (+'s - name - Wikipedia)
 31445) Saipan (+'s - name - Wikipedia)
 31446) Jayawardenepura (+'s - name - Wikipedia)
 31447) Kotte (+'s - name - Wikipedia)
@@ -42510,7 +42510,7 @@ V2.64
 36466) Shadakshari (+'s - name - Wikipedia)
 36467) MacNeil (+'s - name - Wikipedia)
 36468) Heenan (+'s - name - Wikipedia)
-36469) C rlabhagh (+'s - name - Wikipedia)
+36469) Càrlabhagh (+'s - name - Wikipedia)
 36470) Carloway (+'s - name - Wikipedia)
 36471) Callanish (+'s - name - Wikipedia)
 36472) Lochs-In-Bernera (+'s - name - Wikipedia)
@@ -45039,7 +45039,7 @@ V2.65
 38342) Bathurst (+'s - name - Wikipedia)
 38343) Warrnambool (+'s - name - Wikipedia)
 38344) Kalgoorlie-Boulder (+'s - name - Wikipedia)
-38345) ? (+'s - name - Wikipedia) <- removed
+38345) − (+'s - name - Wikipedia) <- removed
 38346) Gambier (+'s - name - Wikipedia)
 38347) Maryborough (+'s - name - Wikipedia)
 38348) Burnie-Wynyard (+'s - name - Wikipedia)
@@ -45218,7 +45218,7 @@ V2.65
 38519) Cherokee (+'s - name - Wikipedia) <- removed
 38520) Fremont (+'s - name - Wikipedia)
 38521) Yavapai (+'s - name - Wikipedia)
-38522) Do a (+'s - name - Wikipedia)
+38522) Doña (+'s - name - Wikipedia)
 38523) Des (+'s - name - Wikipedia)
 38524) Whatcom (+'s - name - Wikipedia)
 38525) Champaign (+'s - name - Wikipedia)
@@ -46349,7 +46349,7 @@ V2.65
 39650) Lomita (+'s - name - Wikipedia)
 39651) Mukilteo (+'s - name - Wikipedia)
 39652) Pleasantville (+'s - name - Wikipedia)
-39653) Ca ada (+'s - name - Wikipedia)
+39653) Cañada (+'s - name - Wikipedia)
 39654) Flintridge (+'s - name - Wikipedia)
 39655) Pennsboro (+'s - name - Wikipedia)
 39656) Lino (+'s - name - Wikipedia)
@@ -46569,7 +46569,7 @@ V2.65
 39870) Phoenixville (+'s - name - Wikipedia)
 39871) Gogebic (+'s - name - Wikipedia)
 39872) Hazel (+'s - name - Wikipedia)
-39873) Ca on (+'s - name - Wikipedia)
+39873) Cañon (+'s - name - Wikipedia)
 39874) Michael (+'s - name - Wikipedia)
 39875) Hibbing (+'s - name - Wikipedia)
 39876) Tifton (+'s - name - Wikipedia)
@@ -47096,7 +47096,7 @@ V2.65
 40397) Saybrook (+'s - name - Wikipedia)
 40398) Morro (+'s - name - Wikipedia)
 40399) Summerfield (+'s - name - Wikipedia)
-40400) Espa ola (+'s - name - Wikipedia)
+40400) Española (+'s - name - Wikipedia)
 40401) Lone (+'s - name - Wikipedia)
 40402) Tree (+'s - name - Wikipedia)
 40403) Atmore (+'s - name - Wikipedia)
@@ -47151,7 +47151,7 @@ V2.65
 40450) moussaka + mousaka
 40451) mousquetaire (+plural)
 40452) mouseweb
-40453) mousm 
+40453) mousmé
 40454) mudflow (+plural)
 40455) mudfish (+plural)
 40456) muddyish
@@ -47310,7 +47310,7 @@ V2.65
 40601) optimistical
 40602) optimific
 40603) optimate (+plural)
-40604) optime + optim  (+plural of both)
+40604) optime + optimé (+plural of both)
 40605) ineluctability
 40606) dispeller
 40607) disowner (+plural)
@@ -47724,9 +47724,9 @@ V2.65
 41001) teraflop's (added 's)
 41002) yottabyte's (added 's)
 41003) zettabyte's (added 's)
-41004) Be rnaraigh (+'s - name - Wikipedia)
+41004) Beàrnaraigh (+'s - name - Wikipedia)
 41005) Beag (+'s - name - Wikipedia)
-41006) M r (+'s - name - Wikipedia)
+41006) Mòr (+'s - name - Wikipedia)
 41007) Craigentinny (+'s - name - Wikipedia)
 41008) Glims (+'s - name - Wikipedia)
 41009) Chesser (+'s - name - Wikipedia)
@@ -47890,8 +47890,8 @@ V2.65
 
 V2.66
 1-OCT-2018
-41162)  rhus's (added 's)
-41163)  gar's (added 's)
+41162) Århus's (added 's)
+41163) Ågar's (added 's)
 41164) 3DES's (added 's)
 41165) abandonware's (added 's)
 41166) Aberdyfi's (added 's)
@@ -48304,7 +48304,7 @@ V2.66
 41481) corrie's (added 's)
 41482) corrupters (added plural)
 41483) corymb's (added 's)
-41484) coryph e's (added 's)
+41484) coryphée's (added 's)
 41485) cosecant's (added 's)
 41486) cosmographer's (added 's)
 41487) encyclopedists (added plural +'s)
@@ -48315,7 +48315,7 @@ V2.66
 41492) endotoxin's (added 's)
 41493) enjoinders (added plural +'s)
 41494) enjoyer's (added 's)
-41495) entr e's (added 's)
+41495) entrée's (added 's)
 41496) outdoorsman
 41497) outdoorsmen (plural of previous word)
 
@@ -48461,7 +48461,7 @@ V2.66
 41632) zoophilic
 41633) zoophilist (+'s)
 41634) zoophilism
-41635) zoophagy + zo phagy
+41635) zoophagy + zoöphagy
 41636) cloacal
 41637) lordosis
 41638) lordotic
@@ -48784,7 +48784,7 @@ V2.66
 41947) forepeak's (added 's)
 41948) aardwolf's (added 's)
 41949) aardwolves's (added 's)
-41950) abb 's (added 's)
+41950) abbé's (added 's)
 41951) abdominiser's (added 's)
 41952) abdominizer's (added 's)
 41953) aberdevine's (added 's)
@@ -48839,7 +48839,7 @@ V2.67
 41998) Kullback (+'s - name - Wikipedia)
 41999) Leibler (+'s - name - Wikipedia)
 42000) pointwork (+'s)
-42001) R nyi (+'s - name - Wikipedia)
+42001) Rényi (+'s - name - Wikipedia)
 42002) stationarity (+'s)
 42003) stationarily
 42004) decipherability (Collins)
@@ -48850,7 +48850,7 @@ V2.67
 42009) Wilks (+'s - name - Wikipedia)
 42010) Schervish (+'s - name - Wikipedia)
 42011) Ramalho (+'s - name - Wikipedia)
-42012) C sar (+'s - name - Wikipedia)
+42012) César (+'s - name - Wikipedia)
 42013) Canelhas (+'s - name - Wikipedia)
 42014) Levor (+'s - name - Wikipedia)
 42015) Soni (+'s - name - Wikipedia)
@@ -49006,13 +49006,13 @@ V2.67
 41161) Schiff (+'s - name - Wikipedia)
 41162) Leete (+'s - name - Wikipedia)
 41163) Mannich (+'s - name - Wikipedia)
-41164) Willst tter (+'s - name - Wikipedia)
-41165) W hler (+'s - name - Wikipedia)
+41164) Willstätter (+'s - name - Wikipedia)
+41165) Wöhler (+'s - name - Wikipedia)
 41166) ophthalmological (Collins)
 41167) peridural
 41168) Quincke (+'s - name - Wikipedia)
 41169) Jellinek (+'s - name - Wikipedia)
-41170) W rzburg (+'s - name - Wikipedia)
+41170) Würzburg (+'s - name - Wikipedia)
 41171) harvestable
 41172) markups (added plural +'s)
 41173) modafinil (Collins)
@@ -49159,7 +49159,7 @@ V2.67
 41306) pseudostratified
 41307) involuted
 41308) cornification (Collins)
-41309) ?m
+41309) μm
 41310) stainable
 41311) stainers (added plural)
 41312) desmosome (+plural +'s)
@@ -49217,7 +49217,7 @@ V2.67
 41360) Akaike (+'s - name - Wikipedia)
 41361) Arbuthnot (+'s - name - Wikipedia)
 41362) Poisson (+'s - name - Wikipedia)
-41363) Sim on (+'s - name - Wikipedia)
+41363) Siméon (+'s - name - Wikipedia)
 41364) Ugarte (+'s - name - Wikipedia)
 41365) Moivre (+'s - name - Wikipedia)
 41366) Chernoff (+'s - name - Wikipedia)
@@ -49358,49 +49358,49 @@ V2.67
 41499) Types (+'s - name - Wikipedia) <- removed
 41500) English (+'s - name - Wikipedia) <- removed
 41501) Villes (+'s - name - Wikipedia) <- removed
-41502) Mont r gie (+'s - name - Wikipedia)
+41502) Montérégie (+'s - name - Wikipedia)
 41503) Lac-Saint-Jean-Est (+'s - name - Wikipedia)
 41504) Saguenay-Lac-Saint-Jean (+'s - name - Wikipedia)
 41505) Abitibi (+'s - name - Wikipedia)
-41506) Abitibi-T miscamingue (+'s - name - Wikipedia)
+41506) Abitibi-Témiscamingue (+'s - name - Wikipedia)
 41507) Amqui (+'s - name - Wikipedia)
-41508) Matap dia (+'s - name - Wikipedia)
+41508) Matapédia (+'s - name - Wikipedia)
 41509) Bas-Saint-Laurent (+'s - name - Wikipedia)
 41510) Asbestos (+'s - name - Wikipedia)
 41511) Sources (+'s - name - Wikipedia) <- removed
 41512) Estrie (+'s - name - Wikipedia)
 41513) Baie-Comeau (+'s - name - Wikipedia)
 41514) Manicouagan (+'s - name - Wikipedia)
-41515) C te-Nord (+'s - name - Wikipedia)
-41516) Baie-D'Urf  (+'s - name - Wikipedia)
-41517) Montr al (+'s - name - Wikipedia)
+41515) Côte-Nord (+'s - name - Wikipedia)
+41516) Baie-D'Urfé (+'s - name - Wikipedia)
+41517) Montréal (+'s - name - Wikipedia)
 41518) Baie-Saint-Paul (+'s - name - Wikipedia)
 41519) Capitale-Nationale (+'s - name - Wikipedia)
 41520) Barkmere (+'s - name - Wikipedia)
 41521) Laurentides (+'s - name - Wikipedia)
 41522) Beauceville (+'s - name - Wikipedia)
 41523) Robert-Cliche (+'s - name - Wikipedia)
-41524) Chaudi re-Appalaches (+'s - name - Wikipedia)
+41524) Chaudière-Appalaches (+'s - name - Wikipedia)
 41525) Beauharnois (+'s - name - Wikipedia)
 41526) Beauharnois-Salaberry (+'s - name - Wikipedia)
-41527) Beaupr  (+'s - name - Wikipedia)
-41528) C te-de-Beaupr  (+'s - name - Wikipedia)
-41529) B cancour (+'s - name - Wikipedia)
-41530) Centre-du-Qu bec (+'s - name - Wikipedia)
-41531) Trois-Rivi res (+'s - name - Wikipedia)
+41527) Beaupré (+'s - name - Wikipedia)
+41528) Côte-de-Beaupré (+'s - name - Wikipedia)
+41529) Bécancour (+'s - name - Wikipedia)
+41530) Centre-du-Québec (+'s - name - Wikipedia)
+41531) Trois-Rivières (+'s - name - Wikipedia)
 41532) Brome-Missisquoi (+'s - name - Wikipedia)
 41533) Belleterre (+'s - name - Wikipedia)
 41534) Beloeil (+'s - name - Wikipedia)
-41535) Vall e-du-Richelieu (+'s - name - Wikipedia)
+41535) Vallée-du-Richelieu (+'s - name - Wikipedia)
 41536) Berthierville (+'s - name - Wikipedia)
 41537) D'Autray (+'s - name - Wikipedia)
-41538) Lanaudi re (+'s - name - Wikipedia)
+41538) Lanaudière (+'s - name - Wikipedia)
 41539) Blainville (+'s - name - Wikipedia)
-41540) Th r se-De (+'s - name - Wikipedia)
+41540) Thérèse-De (+'s - name - Wikipedia)
 41541) Boisbriand (+'s - name - Wikipedia)
 41542) Bois-des-Filion (+'s - name - Wikipedia)
 41543) Bonaventure (+'s - name - Wikipedia)
-41544) Gasp sie- les-de-la-Madeleine (+'s - name - Wikipedia)
+41544) Gaspésie-Îles-de-la-Madeleine (+'s - name - Wikipedia)
 41545) Boucherville (+'s - name - Wikipedia)
 41546) Bromont (+'s - name - Wikipedia)
 41547) Brossard (+'s - name - Wikipedia)
@@ -49409,20 +49409,20 @@ V2.67
 41550) Candiac (+'s - name - Wikipedia)
 41551) Roussillon (+'s - name - Wikipedia)
 41552) Cap-Chat (+'s - name - Wikipedia)
-41553) Haute-Gasp sie (+'s - name - Wikipedia)
-41554) Cap-Sant  (+'s - name - Wikipedia)
+41553) Haute-Gaspésie (+'s - name - Wikipedia)
+41554) Cap-Santé (+'s - name - Wikipedia)
 41555) Portneuf (+'s - name - Wikipedia)
 41556) Carignan (+'s - name - Wikipedia)
 41557) Carleton-sur-Mer (+'s - name - Wikipedia)
 41558) Avignon (+'s - name - Wikipedia)
 41559) Causapscal (+'s - name - Wikipedia)
 41560) Chambly (+'s - name - Wikipedia)
-41561) Rocher-Perc  (+'s - name - Wikipedia)
+41561) Rocher-Percé (+'s - name - Wikipedia)
 41562) Chapais (+'s - name - Wikipedia)
-41563) Nord-du-Qu bec (+'s - name - Wikipedia)
+41563) Nord-du-Québec (+'s - name - Wikipedia)
 41564) L'Assomption (+'s - name - Wikipedia)
-41565) Ch teauguay (+'s - name - Wikipedia)
-41566) Ch teau-Richer (+'s - name - Wikipedia)
+41565) Châteauguay (+'s - name - Wikipedia)
+41566) Château-Richer (+'s - name - Wikipedia)
 41567) Chibougamau (+'s - name - Wikipedia)
 41568) Charlevoix-Est (+'s - name - Wikipedia)
 41569) Coaticook (+'s - name - Wikipedia)
@@ -49430,15 +49430,15 @@ V2.67
 41571) Marguerite-D'Youville (+'s - name - Wikipedia)
 41572) Sorel-Tracy (+'s - name - Wikipedia)
 41573) Cookshire-Eaton (+'s - name - Wikipedia)
-41574) Haut-Saint-Fran ois (+'s - name - Wikipedia)
+41574) Haut-Saint-François (+'s - name - Wikipedia)
 41575) Saint-Luc (+'s - name - Wikipedia)
 41576) Coteau-du-Lac (+'s - name - Wikipedia)
 41577) Vaudreuil-Soulanges (+'s - name - Wikipedia)
 41578) Cowansville (+'s - name - Wikipedia)
 41579) Daveluyville (+'s - name - Wikipedia)
 41580) Arthabaska (+'s - name - Wikipedia)
-41581) D gelis (+'s - name - Wikipedia)
-41582) T miscouata (+'s - name - Wikipedia)
+41581) Dégelis (+'s - name - Wikipedia)
+41582) Témiscouata (+'s - name - Wikipedia)
 41583) Delson (+'s - name - Wikipedia)
 41584) Desbiens (+'s - name - Wikipedia)
 41585) Deux-Montagnes (+'s - name - Wikipedia)
@@ -49450,49 +49450,49 @@ V2.67
 41591) Drummondville (+'s - name - Wikipedia)
 41592) Duparquet (+'s - name - Wikipedia)
 41593) Abitibi-Ouest (+'s - name - Wikipedia)
-41594) Est rel (+'s - name - Wikipedia)
+41594) Estérel (+'s - name - Wikipedia)
 41595) Pays-d'en-Haut (+'s - name - Wikipedia)
 41596) Fermont (+'s - name - Wikipedia)
 41597) Caniapiscau (+'s - name - Wikipedia)
 41598) Forestville (+'s - name - Wikipedia)
-41599) Haute-C te-Nord (+'s - name - Wikipedia)
+41599) Haute-Côte-Nord (+'s - name - Wikipedia)
 41600) Fossambault-sur-le-Lac (+'s - name - Wikipedia)
 41601) Jacques-Cartier (+'s - name - Wikipedia)
-41602) Gasp  (+'s - name - Wikipedia)
-41603) C te-de-Gasp  (+'s - name - Wikipedia)
+41602) Gaspé (+'s - name - Wikipedia)
+41603) Côte-de-Gaspé (+'s - name - Wikipedia)
 41604) Outaouais (+'s - name - Wikipedia)
-41605) Vall e-de-la-Gatineau (+'s - name - Wikipedia)
+41605) Vallée-de-la-Gatineau (+'s - name - Wikipedia)
 41606) Haute-Yamaska (+'s - name - Wikipedia)
-41607) Grande-Rivi re (+'s - name - Wikipedia)
+41607) Grande-Rivière (+'s - name - Wikipedia)
 41608) Haut-Saint-Laurent (+'s - name - Wikipedia)
 41609) Joliette (+'s - name - Wikipedia)
 41610) Malbaie (+'s - name - Wikipedia)
-41611) Pocati re (+'s - name - Wikipedia)
+41611) Pocatière (+'s - name - Wikipedia)
 41612) Kamouraska (+'s - name - Wikipedia)
 41613) Tuque (+'s - name - Wikipedia)
 41614) Mauricie (+'s - name - Wikipedia)
 41615) Lac-Delage (+'s - name - Wikipedia)
 41616) Lachute (+'s - name - Wikipedia)
-41617) Lac-M gantic (+'s - name - Wikipedia)
+41617) Lac-Mégantic (+'s - name - Wikipedia)
 41618) Granit (+'s - name - Wikipedia)
 41619) Lac-Saint-Joseph (+'s - name - Wikipedia)
 41620) Lac-Sergent (+'s - name - Wikipedia)
 41621) L'Ancienne-Lorette (+'s - name - Wikipedia)
 41622) Lavaltrie (+'s - name - Wikipedia)
-41623) Lebel-sur-Qu villon (+'s - name - Wikipedia)
-41624) L' piphanie (+'s - name - Wikipedia)
-41625) L ry (+'s - name - Wikipedia)
-41626) L vis (+'s - name - Wikipedia)
-41627) L' le-Cadieux (+'s - name - Wikipedia)
-41628) L' le-Dorval (+'s - name - Wikipedia)
-41629) L' le-Perrot (+'s - name - Wikipedia)
+41623) Lebel-sur-Quévillon (+'s - name - Wikipedia)
+41624) L'Épiphanie (+'s - name - Wikipedia)
+41625) Léry (+'s - name - Wikipedia)
+41626) Lévis (+'s - name - Wikipedia)
+41627) L'Île-Cadieux (+'s - name - Wikipedia)
+41628) L'Île-Dorval (+'s - name - Wikipedia)
+41629) L'Île-Perrot (+'s - name - Wikipedia)
 41630) Longueuil (+'s - name - Wikipedia)
 41631) Louiseville (+'s - name - Wikipedia)
-41632) Maskinong  (+'s - name - Wikipedia)
+41632) Maskinongé (+'s - name - Wikipedia)
 41633) Macamic (+'s - name - Wikipedia)
-41634) Memphr magog (+'s - name - Wikipedia)
+41634) Memphrémagog (+'s - name - Wikipedia)
 41635) Malartic (+'s - name - Wikipedia)
-41636) Vall e-de-l'Or (+'s - name - Wikipedia)
+41636) Vallée-de-l'Or (+'s - name - Wikipedia)
 41637) Maniwaki (+'s - name - Wikipedia)
 41638) Marieville (+'s - name - Wikipedia)
 41639) Rouville (+'s - name - Wikipedia)
@@ -49501,15 +49501,15 @@ V2.67
 41642) Matagami (+'s - name - Wikipedia)
 41643) Matane (+'s - name - Wikipedia)
 41644) Matanie (+'s - name - Wikipedia)
-41645) M tabetchouan-Lac- -la-Croix (+'s - name - Wikipedia)
-41646) M tis-sur-Mer (+'s - name - Wikipedia)
+41645) Métabetchouan-Lac-à-la-Croix (+'s - name - Wikipedia)
+41646) Métis-sur-Mer (+'s - name - Wikipedia)
 41647) Mitis (+'s - name - Wikipedia)
 41648) Mirabel (+'s - name - Wikipedia)
 41649) Mont-Joli (+'s - name - Wikipedia)
 41650) Mont-Laurier (+'s - name - Wikipedia)
 41651) Antoine-Labelle (+'s - name - Wikipedia)
 41652) Montmagny (+'s - name - Wikipedia)
-41653) Montr al-Est (+'s - name - Wikipedia)
+41653) Montréal-Est (+'s - name - Wikipedia)
 41654) Mont-Saint-Hilaire (+'s - name - Wikipedia)
 41655) Mont-Tremblant (+'s - name - Wikipedia)
 41656) Murdochville (+'s - name - Wikipedia)
@@ -49517,41 +49517,41 @@ V2.67
 41658) Nicolet (+'s - name - Wikipedia)
 41659) Nicolet-Yamaska (+'s - name - Wikipedia)
 41660) Normandin (+'s - name - Wikipedia)
-41661) Notre-Dame-de-l' le-Perrot (+'s - name - Wikipedia)
+41661) Notre-Dame-de-l'Île-Perrot (+'s - name - Wikipedia)
 41662) Notre-Dame-des-Prairies (+'s - name - Wikipedia)
-41663) Pasp biac (+'s - name - Wikipedia)
+41663) Paspébiac (+'s - name - Wikipedia)
 41664) Pincourt (+'s - name - Wikipedia)
 41665) Plessisville (+'s - name - Wikipedia)
-41666) L' rable (+'s - name - Wikipedia)
-41667) Poh n gamook (+'s - name - Wikipedia)
+41666) L'Érable (+'s - name - Wikipedia)
+41667) Pohénégamook (+'s - name - Wikipedia)
 41668) Pointe-Claire (+'s - name - Wikipedia)
 41669) Pont-Rouge (+'s - name - Wikipedia)
 41670) Port-Cartier (+'s - name - Wikipedia)
-41671) Sept-Rivi res (+'s - name - Wikipedia)
-41672) Pr vost (+'s - name - Wikipedia)
-41673) Rivi re-du-Nord (+'s - name - Wikipedia)
+41671) Sept-Rivières (+'s - name - Wikipedia)
+41672) Prévost (+'s - name - Wikipedia)
+41673) Rivière-du-Nord (+'s - name - Wikipedia)
 41674) Princeville (+'s - name - Wikipedia)
 41675) Repentigny (+'s - name - Wikipedia)
-41676) Val-Saint-Fran ois (+'s - name - Wikipedia)
+41676) Val-Saint-François (+'s - name - Wikipedia)
 41677) Rimouski (+'s - name - Wikipedia)
 41678) Rimouski-Neigette (+'s - name - Wikipedia)
-41679) Rivi re-du-Loup (+'s - name - Wikipedia)
-41680) Rivi re-Rouge (+'s - name - Wikipedia)
+41679) Rivière-du-Loup (+'s - name - Wikipedia)
+41680) Rivière-Rouge (+'s - name - Wikipedia)
 41681) Roberval (+'s - name - Wikipedia)
 41682) Domaine-du-Roy (+'s - name - Wikipedia)
-41683) Rosem re (+'s - name - Wikipedia)
+41683) Rosemère (+'s - name - Wikipedia)
 41684) Rouyn-Noranda (+'s - name - Wikipedia)
 41685) Saguenay (+'s - name - Wikipedia)
 41686) Saint-Augustin-de-Desmaures (+'s - name - Wikipedia)
 41687) Saint-Basile (+'s - name - Wikipedia)
 41688) Saint-Basile-le-Grand (+'s - name - Wikipedia)
 41689) Saint-Bruno-de-Montarville (+'s - name - Wikipedia)
-41690) Saint-C saire (+'s - name - Wikipedia)
+41690) Saint-Césaire (+'s - name - Wikipedia)
 41691) Saint-Colomban (+'s - name - Wikipedia)
 41692) Saint-Constant (+'s - name - Wikipedia)
-41693) Sainte-Ad le (+'s - name - Wikipedia)
+41693) Sainte-Adèle (+'s - name - Wikipedia)
 41694) Sainte-Agathe-des-Monts (+'s - name - Wikipedia)
-41695) Sainte-Anne-de-Beaupr  (+'s - name - Wikipedia)
+41695) Sainte-Anne-de-Beaupré (+'s - name - Wikipedia)
 41696) Sainte-Anne-de-Bellevue (+'s - name - Wikipedia)
 41697) Sainte-Anne-des-Monts (+'s - name - Wikipedia)
 41698) Sainte-Anne-des-Plaines (+'s - name - Wikipedia)
@@ -49562,9 +49562,9 @@ V2.67
 41703) Sainte-Marie (+'s - name - Wikipedia)
 41704) Nouvelle-Beauce (+'s - name - Wikipedia)
 41705) Sainte-Marthe-sur-le-Lac (+'s - name - Wikipedia)
-41706) Sainte-Th r se (+'s - name - Wikipedia)
+41706) Sainte-Thérèse (+'s - name - Wikipedia)
 41707) Saint-Eustache (+'s - name - Wikipedia)
-41708) Saint-F licien (+'s - name - Wikipedia)
+41708) Saint-Félicien (+'s - name - Wikipedia)
 41709) Saint-Gabriel (+'s - name - Wikipedia)
 41710) Saint-Georges (+'s - name - Wikipedia)
 41711) Beauce-Sartigan (+'s - name - Wikipedia)
@@ -49572,7 +49572,7 @@ V2.67
 41713) Maskoutains (+'s - name - Wikipedia)
 41714) Saint-Jean-sur-Richelieu (+'s - name - Wikipedia)
 41715) Haut-Richelieu (+'s - name - Wikipedia)
-41716) Saint-J r me (+'s - name - Wikipedia)
+41716) Saint-Jérôme (+'s - name - Wikipedia)
 41717) Saint-Joseph-de-Beauce (+'s - name - Wikipedia)
 41718) Saint-Joseph-de-Sorel (+'s - name - Wikipedia)
 41719) Pierre-De (+'s - name - Wikipedia)
@@ -49580,26 +49580,26 @@ V2.67
 41721) Saint-Lambert (+'s - name - Wikipedia)
 41722) Saint-Lazare (+'s - name - Wikipedia)
 41723) Saint-Lin-Laurentides (+'s - name - Wikipedia)
-41724) Saint-Marc-des-Carri res (+'s - name - Wikipedia)
+41724) Saint-Marc-des-Carrières (+'s - name - Wikipedia)
 41725) Saint-Ours (+'s - name - Wikipedia)
 41726) Saint-Pamphile (+'s - name - Wikipedia)
 41727) L'Islet (+'s - name - Wikipedia)
 41728) Saint-Pascal (+'s - name - Wikipedia)
 41729) Saint-Pie (+'s - name - Wikipedia)
 41730) Saint-Raymond (+'s - name - Wikipedia)
-41731) Saint-R mi (+'s - name - Wikipedia)
+41731) Saint-Rémi (+'s - name - Wikipedia)
 41732) Jardins-de-Napierville (+'s - name - Wikipedia)
 41733) Saint-Sauveur (+'s - name - Wikipedia)
 41734) Saint-Tite (+'s - name - Wikipedia)
-41735) M kinac (+'s - name - Wikipedia)
+41735) Mékinac (+'s - name - Wikipedia)
 41736) Salaberry-de-Valleyfield (+'s - name - Wikipedia)
 41737) Schefferville (+'s - name - Wikipedia)
 41738) Scotstown (+'s - name - Wikipedia)
 41739) Senneterre (+'s - name - Wikipedia)
-41740) Sept- les (+'s - name - Wikipedia)
+41740) Sept-Îles (+'s - name - Wikipedia)
 41741) Shawinigan (+'s - name - Wikipedia)
-41742) T miscaming (+'s - name - Wikipedia)
-41743) T miscouata-sur-le-Lac (+'s - name - Wikipedia)
+41742) Témiscaming (+'s - name - Wikipedia)
+41743) Témiscouata-sur-le-Lac (+'s - name - Wikipedia)
 41744) Mines (+'s - name - Wikipedia)
 41745) Papineau (+'s - name - Wikipedia)
 41746) Trois-Pistoles (+'s - name - Wikipedia)
@@ -49663,7 +49663,7 @@ V2.67
 41802) diaphoresis
 41803) lachrymation + lacrimation + lacrymation
 41804) salvos (added plural)
-41805) saut d
+41805) sautéd
 41806) scarfs + scarfing (merged into scarf)
 41807) schismatics (added plural +'s)
 41808) schismatically
@@ -49675,7 +49675,7 @@ V2.67
 41812) parliamentariness
 41813) parliamentarization (-IZE)
 41814) parliamentarisation (-ISE)
-41815) Gon alves (+'s - name - Wikipedia)
+41815) Gonçalves (+'s - name - Wikipedia)
 41816) Gomes (+'s - name - Wikipedia)
 41817) Coimbra (+'s - name - Wikipedia)
 41818) Carmona (+'s - name - Wikipedia)
@@ -49751,7 +49751,7 @@ V2.68
 41982) Grothendieck (+'s - name - Wikipedia)
 41983) sub-base (+'s)
 41984) holomorphic (Collins)
-41985) Fr chet (+'s - name - Wikipedia)
+41985) Fréchet (+'s - name - Wikipedia)
 41986) metrizable (-IZE)
 41987) metrisable (-ISE)
 41988) Fredholm (+'s - name - Wikipedia)
@@ -49766,7 +49766,7 @@ V2.68
 41997) gasketed
 41998) frequentist (+plural +'s - Wiktionary)
 41999) Bandyopadhyay (+'s - name - Wikipedia)
-42000) J rgen (+'s - name - Wikipedia)
+42000) Jörgen (+'s - name - Wikipedia)
 42001) Casella (+'s - name - Wikipedia)
 42002) Bonello (+'s - name - Wikipedia)
 42003) decompressor (+'s)
@@ -49956,7 +49956,7 @@ V2.68
 42177) Gratian (+'s - name - Wikipedia)
 42178) Valentinian (+'s - name - Wikipedia)
 42179) Verden (+'s - name - Wikipedia)
-42180) R egg (+'s - name - Wikipedia)
+42180) Rüegg (+'s - name - Wikipedia)
 42181) Alexios (+'s - name - Wikipedia)
 42182) Cathar (+plural +'s)
 42183) Catharism
@@ -49966,7 +49966,7 @@ V2.68
 42187) Zwingli (+'s - name - Wikipedia)
 42188) Oecolampadius (+'s - name - Wikipedia)
 42189) Arminius (+'s - name - Wikipedia)
-42190) M ntzer (+'s - name - Wikipedia)
+42190) Müntzer (+'s - name - Wikipedia)
 42191) Karlstadt (+'s - name - Wikipedia)
 42192) Frisia (+'s - name - Wikipedia)
 42193) de-Christianize (+s +ing +ed +ion -IZE)
@@ -50120,15 +50120,15 @@ V2.68
 42335) Henriques (+'s - name - Wikipedia)
 42336) Estoril (+'s - name - Wikipedia)
 42337) Soares (+'s - name - Wikipedia)
-42338) M rio (+'s - name - Wikipedia)
-42339) Am rico (+'s - name - Wikipedia)
+42338) Mário (+'s - name - Wikipedia)
+42339) Américo (+'s - name - Wikipedia)
 42340) Moreira (+'s - name - Wikipedia)
-42341) Galv o (+'s - name - Wikipedia)
+42341) Galvão (+'s - name - Wikipedia)
 42342) Moniz (+'s - name - Wikipedia)
 42343) Aveiro (+'s - name - Wikipedia)
-42344)  vora (+'s - name - Wikipedia)
+42344) Évora (+'s - name - Wikipedia)
 42345) Almada (+'s - name - Wikipedia)
-42346) Jer nimos (+'s - name - Wikipedia)
+42346) Jerónimos (+'s - name - Wikipedia)
 42347) Cardoso (+'s - name - Wikipedia)
 
 25-DEC-2018
@@ -50303,7 +50303,7 @@ V2.68
 42510) vril (Collins)
 42511) Tenerife (+'s - name - Wikipedia)
 42512) Hynek (+'s - name - Wikipedia)
-42513) Vall e (+'s - name - Wikipedia)
+42513) Vallée (+'s - name - Wikipedia)
 42514) Sturrock (+'s - name - Wikipedia)
 42515) Denzler (+'s - name - Wikipedia)
 42516) Sheaffer (+'s - name - Wikipedia)
@@ -50522,14 +50522,14 @@ Suggested on GitHub by Ding-adong:
 42716) lagger
 42717) laggy (+ier +iest - Wiktionary)
 42718) televisor (+plural +'s)
-42719) Path  (+'s - name - Wikipedia)
+42719) Pathé (+'s - name - Wikipedia)
 42720) Kenjiro (+'s - name - Wikipedia)
 42721) Takayanagi (+'s - name - Wikipedia)
 42722) Hamamatsu (+'s - name - Wikipedia)
 42723) Shizuoka (+'s - name - Wikipedia)
 42724) Weinhart (+'s - name - Wikipedia)
 42725) Tihanyi (+'s - name - Wikipedia)
-42726) K lm n (+'s - name - Wikipedia)
+42726) Kálmán (+'s - name - Wikipedia)
 42727) iconoscope (image iconoscope)
 42728) multipactor (+plural +'s - Wiktionary)
 42729) orthicon
@@ -50665,7 +50665,7 @@ Suggested on GitHub by Ding-adong:
 42861) Cupillari (+'s - name - Wikipedia)
 42862) Gossett (+'s - name - Wikipedia)
 42863) Kneale (+'s - name - Wikipedia)
-42864) ? (Pi)
+42864) π (Pi)
 42865) Wayback (+'s - name - Wikipedia)
 42866) Herbst (+'s - name - Wikipedia)
 42867) Gordon (+'s - name - Wikipedia)
@@ -50677,7 +50677,7 @@ Suggested on GitHub by Ding-adong:
 42871) Darboux (+'s - name - Wikipedia)
 42872) Hannay (+'s - name - Wikipedia)
 42873) submanifold (+plural +'s - Wiktionary)
-42874) Carath odory (+'s - name - Wikipedia)
+42874) Carathéodory (+'s - name - Wikipedia)
 42875) Villars (+'s - name - Wikipedia)
 42876) Crighton (+'s - name - Wikipedia)
 42877) Buneman (+'s - name - Wikipedia)
@@ -50769,10 +50769,10 @@ Suggested on GitHub by Ding-adong:
 42959) Zilliox (+'s - name - Wikipedia)
 42960) Rosenfeld (+'s - name - Wikipedia)
 42961) Steinfeld (+'s - name - Wikipedia)
-42962) J nsson (+'s - name - Wikipedia)
+42962) Jönsson (+'s - name - Wikipedia)
 42963) Lomax (+'s - name - Wikipedia)
-42964) H kan (+'s - name - Wikipedia)
-42965) H glund (+'s - name - Wikipedia)
+42964) Håkan (+'s - name - Wikipedia)
+42965) Höglund (+'s - name - Wikipedia)
 42966) Carrell (+'s - name - Wikipedia)
 
 
@@ -51534,8 +51534,8 @@ by Ding-adong which added the plural -nesses.
 43674) Pasolini (+'s - name - Wikipedia)
 43675) Gilberto (+'s - name - Wikipedia)
 43676) MotoGP (+'s - name - Wikipedia)
-43677) M rquez (+'s - name - Wikipedia)
-43678) Mart n (+'s - name - Wikipedia)
+43677) Márquez (+'s - name - Wikipedia)
+43678) Martín (+'s - name - Wikipedia)
 43679) Giacomo (+'s - name - Wikipedia)
 43680) Sheene (+'s - name - Wikipedia)
 43681) Renzo (+'s - name - Wikipedia)
@@ -51821,7 +51821,7 @@ Suggestions by "Cyberknight", very hard to find, mostly found on Wiktionary.
 43938) pionium (+plural - Wiktionary)
 43939) mesonic (+s - Wiktionary)
 43940) mesonium (+plural - Wiktionary)
-43941) mu-mesic + mumesic + ?-mesic
+43941) mu-mesic + mumesic + μ-mesic
 43942) baryonium (+plural - Wiktionary)
 43943) baryonia (another plural of previous word - Wiktionary)
 43944) dibaryon (+plural - Wiktionary)
@@ -51916,7 +51916,7 @@ V2.73
 44027) metafiction (+al)
 44028) metafictionist (+plural +'s)
 44029) metafictive
-44030) metadyne + m tadyne
+44030) metadyne + métadyne
 44031) metadiscourse
 44032) metacyclic
 44033) metaculture
@@ -52029,7 +52029,7 @@ V2.73
 44131) instrumentary
 44132) instrumentalness
 44133) instrumentarium
-44134) Aur lio (+'s - name - Wikipedia)
+44134) Aurélio (+'s - name - Wikipedia)
 
 21-MAY-2019
 44135) interchain
@@ -52870,7 +52870,7 @@ V2.75
 44933) forayers (added plural)
 44934) foreperson's (added +'s)
 44935) forestland's (added +'s)
-44936)  migr 's (added +'s)
+44936) émigré's (added +'s)
 44937) zucchetto's (added +'s)
 44938) Zoroastrian's (added +'s)
 44939) zoosporic
@@ -53068,7 +53068,7 @@ V2.75
 45125) hacklers (added plural)
 
 6-JUL-2019
-45126) Ni pce (+'s - name - Wikipedia)
+45126) Niépce (+'s - name - Wikipedia)
 45127) braveheart (+plural +'s - Wiktionary)
 45128) snoozer's (added +'s)
 45129) snowberry's (added +'s)
@@ -53399,7 +53399,7 @@ V2.75
 45444) Socratically
 45445) soffit's (added +'s)
 45446) softshell's (added +'s)
-45447) soign e
+45447) soignée
 45448) solanum's (added +'s)
 45449) solderer's (added +'s)
 45450) somalia (It is a country: Somalia, no only lowercase)
@@ -53655,7 +53655,7 @@ V2.75
 45696) Liang (+'s - name - Wikipedia)
 45697) Yamashita (+'s - name - Wikipedia)
 45698) Yoshimi (+'s - name - Wikipedia)
-45699) Sch ller (+'s - name - Wikipedia)
+45699) Schüller (+'s - name - Wikipedia)
 45700) Catley (+'s - name - Wikipedia)
 45701) Batista (+'s - name - Wikipedia)
 45702) Lucila (+'s - name - Wikipedia)
@@ -53973,7 +53973,7 @@ V2.75
 46010) microdensitometer (added plural +'s)
 46011) microenterprises (added plural)
 46012) microfarad (added plural +'s)
-46013) ?F (symbol from previous word)
+46013) μF (symbol from previous word)
 46014) microfaunal
 46015) microfilmers (added plural)
 46016) microfinances (added plural)
@@ -53982,7 +53982,7 @@ V2.75
 46019) microform's (added +'s)
 46020) microformat's (added +'s)
 46021) microjoule (added plural +'s)
-46022)  J  (symbol from previous word)
+46022) µJ  (symbol from previous word)
 46023) micromodel (added plural +'s)
 46024) micromodules (added plural)
 46025) micromotors (added plural)
@@ -54012,7 +54012,7 @@ V2.75
 46047) Waldegrave (+'s - name - Wikipedia)
 46048) Zeuthen (+'s - name - Wikipedia)
 46049) Borel (+'s - name - Wikipedia)
-46050)  mile (+'s - name - Wikipedia)
+46050) Émile (+'s - name - Wikipedia)
 46051) Cournot (+'s - name - Wikipedia)
 46052) Augustin (+'s - name - Wikipedia)
 46053) Dresher (+'s - name - Wikipedia)
@@ -54138,7 +54138,7 @@ V2.75
 46171) Spitzenkandidat (Wiktionary)
 46172) Spitzenkandidaten (Wiktionary)
 46173) Viktor (+'s - name - Wikipedia)
-46174) Orb n (+'s - name - Wikipedia)
+46174) Orbán (+'s - name - Wikipedia)
 46175) Andriy (+'s - name - Wikipedia)
 46176) Veselovsky (+'s - name - Wikipedia)
 46177) Rompuy (+'s - name - Wikipedia)
@@ -54146,14 +54146,14 @@ V2.75
 46179) Finet (+'s - name - Wikipedia)
 46180) Piero (+'s - name - Wikipedia)
 46181) Malvestiti (+'s - name - Wikipedia)
-46182) Copp  (+'s - name - Wikipedia)
+46182) Coppé (+'s - name - Wikipedia)
 46183) Armand (+'s - name - Wikipedia)
-46184)  tienne (+'s - name - Wikipedia)
+46184) Étienne (+'s - name - Wikipedia)
 46185) Chatenet (+'s - name - Wikipedia)
 46186) Malfatti (+'s - name - Wikipedia)
 46187) Sicco (+'s - name - Wikipedia)
 46188) Ortoli (+'s - name - Wikipedia)
-46189) Mar n (+'s - name - Wikipedia)
+46189) Marín (+'s - name - Wikipedia)
 46190) sugarbird's (added +'s)
 46191) sugar-pea (removed since dictionaries don't use hyphen)
 46192) sulfate's (added +'s)
@@ -54213,7 +54213,7 @@ V2.75
 46244) Lycian's (added +'s)
 46245) lycophyte's (added +'s)
 46246) lycopod's (added +'s)
-46247) lyc e (added plural +'s)
+46247) lycée (added plural +'s)
 46248) Lydian's (added +'s)
 46249) lymphokine's (added +'s)
 46250) lynchpin's (added +'s)
@@ -54274,21 +54274,21 @@ V2.75
 46300) Guayama (+'s - name - Wikipedia)
 46301) Hightstown (+'s - name - Wikipedia)
 46302) Homosassa (+'s - name - Wikipedia)
-46303) Imb ry (+'s - name - Wikipedia)
+46303) Imbéry (+'s - name - Wikipedia)
 46304) Isabela (+'s - name - Wikipedia)
 46305) Juana (+'s - name - Wikipedia)
-46306) D az (+'s - name - Wikipedia)
+46306) Díaz (+'s - name - Wikipedia)
 46307) Kahului (+'s - name - Wikipedia)
 46308) Kailua (+'s - name - Wikipedia)
 46309) Kaneohe (+'s - name - Wikipedia)
 46310) Rudland (+'s - name - Wikipedia)
-46311) Mayag ez (+'s - name - Wikipedia)
+46311) Mayagüez (+'s - name - Wikipedia)
 46312) Monessen (+'s - name - Wikipedia)
 46313) Nyasaland (+'s - name - Wikipedia)
 46314) Ponce (+'s - name - Wikipedia)
 46315) Sabana (+'s - name - Wikipedia)
-46316) Germ n (+'s - name - Wikipedia)
-46317) Sebasti n (+'s - name - Wikipedia)
+46316) Germán (+'s - name - Wikipedia)
+46317) Sebastián (+'s - name - Wikipedia)
 46318) Socastee (+'s - name - Wikipedia)
 46319) Villages (+'s - name - Wikipedia)
 46320) Villas (+'s - name - Wikipedia)
@@ -54714,8 +54714,8 @@ V2.75
 46732) Nyanja's (added +'s)
 46733) nympha's (added +'s)
 46734) nymphalid's (added +'s)
-46735) n glig  (added plural +'s)
-46736) n gociant (added plural +'s)
+46735) négligé (added plural +'s)
+46736) négociant (added plural +'s)
 46737) oakwood (added plural +'s)
 46738) obduracy's (added +'s)
 46739) obelion (added plural +'s)
@@ -55161,7 +55161,7 @@ V2.76
 47065) money-changer's (added +'s)
 47066) moneyer (added singular + plural)
 47067) moneychanger (+plural +'s - Collins)
-47068) Mon gasque (+plural +'s)
+47068) Monégasque (+plural +'s)
 47069) Monegasque (added plural +'s)
 47070) monamine's (added +'s)
 47071) mommy (removed: it is US. GB is "mummy")
@@ -55430,7 +55430,7 @@ V2.76
 47328) cultic
 47329) Geertz (+'s - name - Wikipedia)
 47330) Vergote (+'s - name - Wikipedia)
-47331) Ferr  (+'s - name - Wikipedia)
+47331) Ferré (+'s - name - Wikipedia)
 47332) Midrash (+'s - name - Wikipedia)
 47333) Haredi
 47334) Maronite
@@ -55444,11 +55444,11 @@ V2.76
 47342) Sthulibhadra
 47343) panentheism
 47344) panentheistic
-47345) Santeria + Santer a
-47346) candombl 
+47345) Santeria + Santería
+47346) candomblé
 47347) vodun
 47348) Mandaeism
-47349) Ra lism (Wiktionary)
+47349) Raëlism (Wiktionary)
 47350) heathenry (+plural +'s - Wiktionary)
 47351) Jediism (Wiktionary)
 47352) Pastafarianism (Wiktionary)
@@ -55565,11 +55565,11 @@ V2.76
 47459) Domenico (+'s - name - Wikipedia)
 47460) Ghirlandaio (+'s - name - Wikipedia)
 47461) Maderno (+'s - name - Wikipedia)
-47462) piet  (+plural +'s)
+47462) pietà (+plural +'s)
 47463) Ottaviano (+'s - name - Wikipedia)
 47464) Ciampino (+'s - name - Wikipedia)
 47465) Guglielmo (+'s - name - Wikipedia)
-47466) Vigan  (+'s - name - Wikipedia)
+47466) Viganò (+'s - name - Wikipedia)
 47468) Vatileaks (+'s - Wiktionary)
 47469) Nuzzi (+'s - name - Wikipedia)
 47470) Gianluigi (+'s - name - Wikipedia)
@@ -55589,7 +55589,7 @@ V2.76
 47484) McCarrick (+'s - name - Wikipedia)
 47485) Wuerl (+'s - name - Wikipedia)
 47486) Ovejero (+'s - name - Wikipedia)
-47487) Garc a (+'s - name - Wikipedia)
+47487) García (+'s - name - Wikipedia)
 47488) Paloma (+'s - name - Wikipedia)
 47489) Cupich (+'s - name - Wikipedia)
 47490) Blase (+'s - name - Wikipedia)
@@ -55640,7 +55640,7 @@ V2.76
 47535) mousepad's (added +'s)
 47536) mouseover's (added +'s)
 47537) mousemat (+plural +'s - Collins)
-47538) mousm  (added plural +'s)
+47538) mousmé (added plural +'s)
 47539) mouchette (added plural +'s)
 47540) mouchard (added plural +'s)
 47541) moujik (added plural +'s)
@@ -55825,7 +55825,7 @@ V2.76
 47723) Jackman (+'s - name - Wikipedia)
 47725) Iowan (+plural +'s)
 47726) congregant (+plural +'s)
-47727) doppelg nger (added plural +'s)
+47727) doppelgänger (added plural +'s)
 47728) dopily
 47729) dopiaza
 47730) korma
@@ -55989,7 +55989,7 @@ V2.76
 47882) Bolsonaro (+'s - name - Wikipedia)
 47883) Jair (+'s - name - Wikipedia)
 47884) DiCaprio (+'s - name - Wikipedia)
-47885) Ara jo (+'s - name - Wikipedia)
+47885) Araújo (+'s - name - Wikipedia)
 47886) WhatsApp (+'s - name - Wikipedia)
 47887) Symbian (+'s - name - Wikipedia)
 47888) gibbsite (added plural +'s)
@@ -56298,7 +56298,7 @@ V2.77
 48179) viewport's (added +'s)
 48180) videoconference (verb, added +ed, noun, added +'s)
 48181) videocast (verb, added +ing, noun, added +'s)
-48182) vicu a's (added +'s)
+48182) vicuña's (added +'s)
 48183) victimology's (added +'s)
 48184) viceroyalty's (added +'s)
 48185) viceregally
@@ -56318,7 +56318,7 @@ V2.77
 48197) Morehead (+'s - name - Wikipedia)
 48198) Reverdy (+'s - name - Wikipedia)
 48199) Gilpin (+'s - name - Wikipedia)
-48200) Legar  (+'s - name - Wikipedia)
+48200) Legaré (+'s - name - Wikipedia)
 48201) Owsley (+'s - name - Wikipedia)
 48202) Pickett (+'s - name - Wikipedia)
 48203) Leonidas (+'s - name - Wikipedia)
@@ -56369,7 +56369,7 @@ V2.77
 48249) landscapist's (added +'s)
 48250) landslip's (added +'s)
 48251) entryphone's (added +'s)
-48252) entrep t's (added +'s)
+48252) entrepôt's (added +'s)
 48253) entremets's (added +'s)
 48254) entrechat's (added +'s)
 48255) enthymeme's (added +'s)
@@ -56442,7 +56442,7 @@ V2.77
 48318) firebreak's (added +'s)
 48319) fire-walker's (added +'s)
 48320) fire-lighter (removed hyphen + added 's)
-48321) consomm 's (added +'s)
+48321) consommé's (added +'s)
 48322) deliverable's (added +'s)
 48323) bananaquit's (added +'s)
 48324) bandagers (added plural)
@@ -56469,26 +56469,26 @@ V2.77
 48345) angioplasty's (added +'s)
 48346) angiographer's (added +'s)
 48347) angiogram's (added +'s)
-48348) Am lia (+'s - name - Wikipedia)
+48348) Amélia (+'s - name - Wikipedia)
 48349) Catarina (+'s - name - Wikipedia)
 48350) Pinho (+'s - name - Wikipedia)
 48351) Anabela (+'s - name - Wikipedia)
-48352) Sim es (+'s - name - Wikipedia)
+48352) Simões (+'s - name - Wikipedia)
 48353) Abrantes (+'s - name - Wikipedia)
-48354)  ngela (+'s - name - Wikipedia)
-48355) M nica (+'s - name - Wikipedia)
+48354) Ângela (+'s - name - Wikipedia)
+48355) Mónica (+'s - name - Wikipedia)
 48356) Andrade (+'s - name - Wikipedia)
 48357) Casimiro (+'s - name - Wikipedia)
-48358) Rog rio (+'s - name - Wikipedia)
-48359) S rgio (+'s - name - Wikipedia)
-48360) S nia (+'s - name - Wikipedia)
-48361) Leit o (+'s - name - Wikipedia)
-48362) In s (+'s - name - Wikipedia)
+48358) Rogério (+'s - name - Wikipedia)
+48359) Sérgio (+'s - name - Wikipedia)
+48360) Sónia (+'s - name - Wikipedia)
+48361) Leitão (+'s - name - Wikipedia)
+48362) Inês (+'s - name - Wikipedia)
 48363) Peixoto (+'s - name - Wikipedia)
 48364) Vasconcelos (+'s - name - Wikipedia)
-48365) Rom o (+'s - name - Wikipedia)
-48366) Proen a (+'s - name - Wikipedia)
-48367) Le o (+'s - name - Wikipedia)
+48365) Romão (+'s - name - Wikipedia)
+48366) Proença (+'s - name - Wikipedia)
+48367) Leão (+'s - name - Wikipedia)
 
 15-SEP-2019
 48368) dipositronium's (added +'s)
@@ -56618,7 +56618,7 @@ V2.77
 48490) margay's (added +'s)
 48491) Mariologist's (added +'s)
 48492) matinee's (added +'s)
-48493) matin e's (added +'s)
+48493) matinée's (added +'s)
 48494) measurers (added plural)
 48495) mecha's (added +'s)
 48496) mediatrice (added plural +'s)
@@ -56657,11 +56657,11 @@ V2.77
 48527) Argand (+'s - name - Wikipedia)
 48528) coordinatize (+s +ing +ed - Wiktionary)
 48529) arctan (+plural +'s)
-48530) ?
+48530) φ
 48531) ornated
 48532) Bombelli (+'s - name - Wikipedia)
 48533) Tartaglia (+'s - name - Wikipedia)
-48534) Niccol  (+'s - name - Wikipedia)
+48534) Niccolò (+'s - name - Wikipedia)
 48535) Wessel (+'s - name - Wikipedia)
 48536) inversive
 48537) signum (+plural +'s)
@@ -56672,7 +56672,7 @@ V2.77
 48542) coset (+plural +'s)
 48543) sinh
 48542) cosh
-48543) ?
+48543) ω
 48544) nonconstant (Collins)
 48545) rational (added plural +'s - Maths)
 48546) nonminimum (Wiktionary)
@@ -56692,7 +56692,7 @@ V2.77
 48558) Joestar (+'s - name - Wikipedia)
 48559) ectomycorrhizal
 48560) Roussel (+'s - name - Wikipedia)
-48561) Qu let (+'s - name - Wikipedia)
+48561) Quélet (+'s - name - Wikipedia)
 48562) Kretzer (+'s - name - Wikipedia)
 48563) Lamarck (+'s - name - Wikipedia)
 48564) Baptiste (+'s - name - Wikipedia)
@@ -56721,7 +56721,7 @@ V2.77
 48587) mercantilist's (added +'s)
 48588) meperidine (added plural +'s)
 48589) meningioma's (added +'s)
-48590) ing nue's (added +'s)
+48590) ingénue's (added +'s)
 48591) inguinally
 48592) ingressive's (added +'s)
 48593) ingressions (added plural)
@@ -56796,7 +56796,7 @@ V2.77
 48662) ascensional
 48663) assisters (added plural)
 48664) astroviruses (added plural)
-48665) attach 's (added +'s)
+48665) attaché's (added +'s)
 48666) augmentatively
 48667) authoritarian's (added +'s)
 48668) autoland's (added +'s)
@@ -57079,7 +57079,7 @@ V2.77
 48943) remitter's (added +'s)
 48944) renouncers (added plural)
 48945) retiree's (added +'s)
-48946) retir 's (added +'s)
+48946) retiré's (added +'s)
 48947) instructorship (+plural +'s)
 48948) retroelement's (added +'s)
 48949) rhodophyte's (added +'s)
@@ -57394,7 +57394,7 @@ V2.78
 49248) rustproof (verb, added: +s)
 49249) Ruthenian's (added +'s)
 49250) Rwandan's (added +'s)
-49251) r sum 's (added +'s)
+49251) résumé's (added +'s)
 49252) sabbatarian's (added +'s)
 49253) sabbatical's (added +'s)
 49254) sabermetricians (added plural)
@@ -57475,7 +57475,7 @@ V2.78
 49329) tandoor (+plural +'s)
 49330) sourdough (+plural +'s)
 49331) Upanishadic (Collins)
-49332)  clats (added plural)
+49332) éclats (added plural)
 
 4-OCT-2019
 49333) Eyck (+'s - name - Wikipedia)
@@ -57496,7 +57496,7 @@ V2.78
 49348) marbleised (-ise)
 49349) illuminator (+plural +'s)
 49350) resinate (+s +ing +ed +'s)
-49351) Friedl nder (+'s - name - Wikipedia)
+49351) Friedländer (+'s - name - Wikipedia)
 49352) resiner (+plural +'s)
 49353) resinic
 49354) resiniferous
@@ -57736,7 +57736,7 @@ V2.78
 49582) IoE (Internet of Everything)
 49583) IoTization (Wiktionary)
 49584) macrocycle (added plural +'s)
-49585) macram 's (added +'s)
+49585) macramé's (added +'s)
 49586) macks (added plural)
 49587) Luxembourgian (added plural +'s)
 49588) lumpsucker's (added +'s)
@@ -57781,7 +57781,7 @@ V2.78
 49627) Jeffersonians (added plural)
 49628) jeep's (added +'s)
 49629) jeerers (added plural)
-49630) ja ana's (added +'s)
+49630) jaçana's (added +'s)
 49631) jawline (added plural +'s)
 49632) jarful's (added +'s)
 49633) jammer's (added +'s)
@@ -57929,7 +57929,7 @@ V2.78
 49774) depurator's (added +'s)
 49775) derelict's (added +'s)
 49776) dermatome's (added +'s)
-49777) derri re's (added +'s)
+49777) derrière's (added +'s)
 49778) deselection's (added +'s)
 49779) desensitizer's (added +'s)
 49780) desensitiser's (added +'s)
@@ -58000,8 +58000,8 @@ V2.78
 49845) pikemen's (added +'s)
 49846) pisciculturists (added plural)
 49847) pisser (added plural +'s)
-49848) pi ata's (added +'s)
-49849) pi on's (added +'s)
+49848) piñata's (added +'s)
+49849) piñon's (added +'s)
 49850) placeman's (added +'s)
 49851) placemen's (added +'s)
 49852) placental's (added +'s)
@@ -58073,13 +58073,13 @@ V2.78
 49916) undercoat (verb, added +ed, noun, added +'s)
 49917) undercount (verb, added +ing +ed, noun, added +'s)
 49918) counter-offer's (added +'s)
-49919) canap 's (added +'s)
+49919) canapé's (added +'s)
 49920) cancelbot's (added +'s)
 49921) Cancerian's (added +'s)
 49922) cancerologist (added plural +'s)
 49923) candela's (added +'s)
 49924) candelabra's (added +'s)
-49925) candombl  (added plural +'s)
+49925) candomblé (added plural +'s)
 49926) cavewoman's (added +'s)
 49927) cavewomen's (added +'s)
 49928) centrifugations (added plural)
@@ -58160,7 +58160,7 @@ V2.78
 50001) prototherian's (added +'s)
 50002) protuberance's (added +'s)
 50003) protuberanceless
-50004) prot g e's (added +'s)
+50004) protégée's (added +'s)
 50005) proustite (added plural +'s)
 50006) provincial's (added +'s)
 50007) provisional's (added +'s)
@@ -58221,7 +58221,7 @@ V2.78
 50060) Lavery (+'s - name - Wikipedia)
 
 24-OCT-2019
-50061) ?
+50061) ⅇ
 50062) hyperbaton's (added +'s)
 50063) hyperborean (added plural +'s)
 50064) hyperdiploidy
@@ -58343,7 +58343,7 @@ V2.78
 50179) freeboard's (added +'s)
 50180) fraudulence's (added +'s)
 50181) fraudster's (added +'s)
-50182) frapp  (added plural +'s)
+50182) frappé (added plural +'s)
 50183) Francoist's (added +'s)
 50184) FOSSer's (added +'s)
 50185) earthman (+'s)
@@ -58357,9 +58357,9 @@ V2.78
 50193) earpiece's (added +'s)
 50194) earlock (added plural +'s)
 50195) earbud's (added +'s)
-50196) d tente's (added +'s)
-50197) d colletage's (added +'s)
-50198) d but's (added +'s)
+50196) détente's (added +'s)
+50197) décolletage's (added +'s)
+50198) début's (added +'s)
 50199) dystopian's (added +'s)
 50200) dyspeptic's (added +'s)
 50201) dyslectic's (added +'s)
@@ -58388,7 +58388,7 @@ V2.79
 50220) recusants (added plural)
 50221) Netherdale (+'s - name - Wikipedia)
 50222) Rookwood (+'s - name - Wikipedia)
-50223) alferez + alferes + alf rez (+plural +'s - Oxford + Wiktionary)
+50223) alferez + alferes + alférez (+plural +'s - Oxford + Wiktionary)
 50224) shoebill's (added +'s)
 50225) shisha's (added +'s)
 50226) shirtlifter (added plural +'s)
@@ -58437,7 +58437,7 @@ V2.79
 50269) glovebox's (added +'s)
 50270) globefish's (added +'s)
 50271) gloaters (added plural)
-50272) gliss 's (added +'s)
+50272) glissé's (added +'s)
 50273) glioma's (added +'s)
 50274) glioblastoma's (added +'s)
 50275) Glaswegian's (added +'s)
@@ -58504,7 +58504,7 @@ V2.79
 50336) cyberbank (+plural +'s +ing - Wiktionary)
 50337) cyberbattle (+plural +'s - Wiktionary)
 50338) cyberbusiness (+plural +'s - Wiktionary)
-50339) cybercaf  (+plural +'s - Wiktionary)
+50339) cybercafé (+plural +'s - Wiktionary)
 50340) cybercurrency (+plural +'s - Wiktionary)
 50341) cyberhacker (+plural +'s - Wiktionary)
 50342) cyberidentity (+plural +'s - Wiktionary)
@@ -58704,7 +58704,7 @@ V2.79
 50622) low-down's (added +'s)
 50623) lymphatic's (added +'s)
 50624) lymphoblast's (added +'s)
-50625) l ndler (added plural +'s)
+50625) ländler (added plural +'s)
 50626) Maastrichtian (added plural +'s)
 50627) macho's (added +'s)
 50628) macrogamete (added plural +'s)
@@ -58800,8 +58800,8 @@ V2.79
 50716) pointsman's (added +'s)
 50717) pointsmen's (added +'s)
 50718) pokeberry (added plural +'s)
-50719) Pok fan's (added +'s)
-50720) Pok maniac's (added +'s)
+50719) Pokéfan's (added +'s)
+50720) Pokémaniac's (added +'s)
 50721) polariscopes (added plural)
 50722) polariscopic
 50723) polariton's (added +'s)
@@ -58898,7 +58898,7 @@ V2.79
 50812) privatist
 50813) privatism's (added +'s)
 50814) problematique (added plural +'s)
-50815) probl matique (added plural +'s)
+50815) problématique (added plural +'s)
 50816) prolactinoma (added plural +'s)
 50817) proofer (added plural +'s)
 50818) psilomelane (added plural +'s)
@@ -58922,14 +58922,14 @@ V2.79
 50836) putsch's (added +'s)
 50837) putschist (+plural +'s)
 50838) pyroxenoid (added plural +'s)
-50839) p t 's (added +'s)
+50839) pâté's (added +'s)
 50840) rangeland's (added +'s)
 50841) rebreather's (added +'s)
 50842) reckonmaster (added plural +'s)
 50843) recovery's (added +'s)
 
 13-NOV-2019
-50844) ?
+50844) Ω
 50845) forejudge (verb, added +s +ing +ed)
 50846) foramen's (added +'s)
 50847) folate (added plural +'s)
@@ -59086,7 +59086,7 @@ V2.79
 15-NOV-2019
 50997) buckthorn (added plural +'s)
 50998) buddleia (added plural +'s)
-50999) cafeti re (added plural +'s)
+50999) cafetière (added plural +'s)
 51000) calcarenite's (added +'s)
 51001) counteragent's (added +'s)
 51002) countercharge's (added +'s)
@@ -59131,7 +59131,7 @@ V2.79
 
 18-NOV-2019
 51041) Valente (+'s - name - Wikipedia)
-51042) Ces rio (+'s - name - Wikipedia)
+51042) Cesário (+'s - name - Wikipedia)
 51043) ppsx
 51044) croon's (added +'s)
 51045) croquembouche (added plural +'s)
@@ -59297,7 +59297,7 @@ V2.79
 51203) divertimenti (another plural of divertimento)
 51204) divertissement's (added +'s)
 51205) divisionist's (added +'s)
-51206) divorc  (added plural +'s)
+51206) divorcé (added plural +'s)
 51207) djellaba's (added +'s)
 51208) djellabah (added singular + plural)
 51209) jellaba (added plural +'s)
@@ -59407,9 +59407,9 @@ V2.79
 51309) dwellings (added plural)
 51310) dynamometers (added plural)
 51311) dynorphin (added plural +'s)
-51312) d collet  (added plural +'s)
-51313) d collet e (added plural +'s)
-51314) d shabill  (added singular +'s)
+51312) décolleté (added plural +'s)
+51313) décolletée (added plural +'s)
+51314) déshabillé (added singular +'s)
 51315) earbash (verb, added +s +ed)
 
 25-NOV-2019
@@ -59682,7 +59682,7 @@ V2.80
 51576) Azazel (+'s - name - Wikipedia)
 51577) Grigori (+'s - name - Wikipedia)
 51578) Uriel (+'s - name - Wikipedia)
-51579) St kl (+'s - name - Wikipedia)
+51579) Stökl (+'s - name - Wikipedia)
 51580) Metatron (+'s - name - Wikipedia)
 51581) Nahmanides (+'s - name - Wikipedia)
 51582) Alexandrian (added plural +'s)
@@ -59922,7 +59922,7 @@ V2.80
 51808) metadata's (added +'s)
 51809) metadiscourse (added plural +'s)
 51810) metadyne (added plural +'s)
-51811) m tadyne (added plural +'s)
+51811) métadyne (added plural +'s)
 51812) metalaxyl's (added +'s)
 51813) metalevel (added plural +'s)
 51814) metallographers (added plural)
@@ -59943,7 +59943,7 @@ V2.80
 51829) methamphetamine (added plural +'s)
 51830) Hells ("Hells Angels")
 51831) metier (added plural +'s)
-51832) m tier's (added +'s)
+51832) métier's (added +'s)
 51833) micelle's (added +'s)
 51834) micro's (added +'s)
 51835) microanalyses's (added +'s)
@@ -60256,7 +60256,7 @@ Today's words were suggested by Cyberknight.
 51133) Vorilhon (+'s - name - Wikipedia)
 51134) Rael (+'s - name - Wiktionary)
 51135) Raelism
-51136) Ra lian (+plural +'s - Wiktionary)
+51136) Raëlian (+plural +'s - Wiktionary)
 51137) geniocracy (+'s - Wiktionary)
 51138) racecar (+plural +'s - Wiktionary)
 51139) Ambert (+'s - name - Wiktionary)
@@ -60269,7 +60269,7 @@ Today's words were suggested by Cyberknight.
 51146) Celler (+'s - name - Wiktionary)
 51147) Assan (+'s - name - Wiktionary)
 51148) Chol (+'s - name - Wiktionary)
-51149) G rard (+'s - name - Wiktionary)
+51149) Gérard (+'s - name - Wiktionary)
 51150) Segall (+'s - name - Wiktionary)
 51151) jellyroll (removed, it is the US word for: swiss roll - Collins)
 51152) jellybean (added singular + plural)
@@ -61229,7 +61229,7 @@ Words suggested by Peter C:
 53180) LiF (Lithium-Fluoride)
 53181) limewater (+plural +'s - Wiktionary)
 53182) Linnean (+plural +'s)
-53183) N rnberg (+'s - name - Wikipedia)
+53183) Nürnberg (+'s - name - Wikipedia)
 53184) Redi (+'s - name - Wikipedia)
 53185) unmineable
 53186) Zener (+'s - name - Wikipedia)
@@ -61314,7 +61314,7 @@ Words suggested by Peter C:
 53263) opisthosomata (+'s - plural of previous word - Merriam + Wiktionary)
 53264) opisthotic (added plural +'s)
 53265) opt-out's (added +'s)
-53266) optim 's (added +'s)
+53266) optimé's (added +'s)
 53267) optional's (added +'s)
 53268) optionalities (added plural)
 53269) orality (added plural +'s)
@@ -61960,7 +61960,7 @@ V2.82
 53887) spongocoel (added plural +'s)
 53888) swamphen's (added +'s)
 53889) swathe's (added +'s)
-53890)  
+53890) ©
 53891) Pintos (+'s - name - Wikipedia)
 53892) Moonspell (+'s - name - Wikipedia)
 53893) Paulino (+'s - name - Wikipedia)
@@ -61974,7 +61974,7 @@ V2.82
 53901) Naha (+'s - name - Wikipedia)
 53902) SVCD (Wikipedia)
 53903) Acheron (+'s - name - Wikipedia)
-53904) Varia  es (+'s - name - Wikipedia)
+53904) Variações (+'s - name - Wikipedia)
 53905) Martinho (+'s - name - Wikipedia)
 53906) Amorphis (+'s - name - Wikipedia)
 53907) infall (noun, added +s +'s, verb, added +ing +infell +infallen - Wiktionary)
@@ -63504,7 +63504,7 @@ V2.83
 55378) decocture (added plural +'s)
 55379) decongestion (added plural +'s)
 55380) deconstructionism (added plural +'s)
-55381) d coupage (added plural +'s)
+55381) découpage (added plural +'s)
 55382) decrescendo (added plural +'s)
 55383) deductivism's (added +'s)
 55384) DEFCON's (added +'s)
@@ -63841,10 +63841,10 @@ V2.83
 16-MAR-2020
 55706) nowise
 55707) Maia (+'s - name - Wikipedia)
-55708) N lson (+'s - name - Wikipedia)
+55708) Nélson (+'s - name - Wikipedia)
 55709) Matos (+'s - name - Wikipedia)
 55710) Silveira (+'s - name - Wikipedia)
-55711)  bidos (+'s - name - Wikipedia)
+55711) Óbidos (+'s - name - Wikipedia)
 55712) Antero (+'s - name - Wikipedia)
 55713) Brito (+'s - name - Wikipedia)
 55714) de
@@ -63855,7 +63855,7 @@ V2.83
 55719) ICQ (noun/proper name, added +s +'s, verb, added +ing +ed - Wiktionary)
 55720) Areeiro (+'s - name - Wikipedia)
 55721) Abrunhosa (+'s - name - Wikipedia)
-55722) F bio (+'s - name - Wikipedia)
+55722) Fábio (+'s - name - Wikipedia)
 55723) Matrox (+'s - name - Wikipedia)
 55724) Belkin (+'s - name - Wikipedia)
 55725) Mosteiro (+'s - name - Wikipedia)
@@ -64201,7 +64201,7 @@ V2.83
 56058) Northeast
 56059) Gauden (+'s - name - Wikipedia)
 56060) Borrelli (+'s - name - Wikipedia)
-56061) Barth lemy (+'s - name - Wikipedia)
+56061) Barthélemy (+'s - name - Wikipedia)
 56062) Eswatini (+'s - name - Wikipedia)
 56063) Zhongnan (+'s - name - Wikipedia)
 56064) Tongji (+'s - name - Wikipedia)
@@ -64239,7 +64239,7 @@ V2.83
 56094) Zhengli (+'s - name - Wikipedia)
 56095) Falwell (+'s - name - Wikipedia)
 56096) Zhirinovsky (+'s - name - Wikipedia)
-56097) M ndez (+'s - name - Wikipedia)
+56097) Méndez (+'s - name - Wikipedia)
 56098) Sather (+'s - name - Wikipedia)
 56099) anti-vax (+er +ers +er's)
 56100) anti-vaxxer (+plural +'s - another way of anti-vaxer)
@@ -64385,7 +64385,7 @@ V2.83
 56238) interwiki (noun, +s +'s, verb, +ing +ed - Wiktionary)
 56239) brent
 56240) norovirus (+plural +'s)
-56241) Fern ndez (+'s - name - Wikipedia)
+56241) Fernández (+'s - name - Wikipedia)
 56242) incertae (Wiktionary)
 56243) sedis (Wiktionary)
 56244) SARSr-CoV (+'s - Wikipedia)
@@ -64415,7 +64415,7 @@ V2.83
 56268) Callison (+'s - name - Wikipedia)
 56269) Niemeyer (+'s - name - Wikipedia)
 56270) Drosten (+'s - name - Wikipedia)
-56271) S bastien (+'s - name - Wikipedia)
+56271) Sébastien (+'s - name - Wikipedia)
 56272) Streicker (+'s - name - Wikipedia)
 56273) squireship (added plural +'s)
 56274) squireen (added plural +'s)
@@ -64660,7 +64660,7 @@ V2.83
 56511) Messonnier (+'s - name - Wikipedia)
 56512) Evers (+'s - name - Wikipedia)
 56513) alt-weekly (+plural +'s - Wiktionary)
-56514) Bra?ov (+'s - name - Wikipedia)
+56514) Brașov (+'s - name - Wikipedia)
 56515) corrigenda's (added +'s)
 56516) corporatisms (added plural)
 56517) corporate's (added +'s)
@@ -64697,7 +64697,7 @@ V2.83
 56548) renunciant (added plural +'s)
 56549) reoccurrence's (added +'s)
 56550) reovirus (added plural +'s)
-56551) rep chage (added plural +'s)
+56551) repêchage (added plural +'s)
 56552) reperformance (added plural +'s)
 56553) reperfusion (added plural +'s)
 56554) reportage (added plural +'s)
@@ -64868,7 +64868,7 @@ V2.84
 56714) zoophilism's (added +'s)
 56715) zoophilia (added plural +'s)
 56716) zoophagy's (added +'s)
-56717) zo phagy's (added +'s)
+56717) zoöphagy's (added +'s)
 56718) zoonosis's (added +'s)
 56719) zoonoses's (added +'s)
 56720) zoomorphism (added plural +'s)
@@ -65364,32 +65364,32 @@ V2.84
 9-APR-2020
 57199) Lauro (+'s - name - Wikipedia)
 57200) Piedade (+'s - name - Wikipedia)
-57201) Louren o (+'s - name - Wikipedia)
-57202) Desid rio (+'s - name - Wikipedia)
+57201) Lourenço (+'s - name - Wikipedia)
+57202) Desidério (+'s - name - Wikipedia)
 57203) Gertrudes (+'s - name - Wikipedia)
 57204) Pires (+'s - name - Wikipedia)
 57205) Augusto (+'s - name - Wikipedia)
 57206) Diamantino (+'s - name - Wikipedia)
 57207) Baptista (+'s - name - Wikipedia)
 57208) Armanda (+'s - name - Wikipedia)
-57209) Concei  o (+'s - name - Wikipedia)
+57209) Conceição (+'s - name - Wikipedia)
 57210) Amaro (+'s - name - Wikipedia)
-57211) Cl udia (+'s - name - Wikipedia)
+57211) Cláudia (+'s - name - Wikipedia)
 57212) Derrel (+'s - name - Wikipedia)
-57213) Guimar es (+'s - name - Wikipedia)
-57214) Gon alo (+'s - name - Wikipedia)
+57213) Guimarães (+'s - name - Wikipedia)
+57214) Gonçalo (+'s - name - Wikipedia)
 57215) Pompeia (+'s - name - Wikipedia)
-57216) Brand o (+'s - name - Wikipedia)
+57216) Brandão (+'s - name - Wikipedia)
 57217) Godinho (+'s - name - Wikipedia)
 57218) Liliana (+'s - name - Wikipedia)
 57219) Lourencinho (+'s - name - Wikipedia)
 57220) Furtado (+'s - name - Wikipedia)
 57221) Falagueira (+'s - name - Wikipedia)
-57222) Pav o (+'s - name - Wikipedia)
+57222) Pavão (+'s - name - Wikipedia)
 57223) Gerardo (+'s - name - Wikipedia)
 57224) Chasqueira (+'s - name - Wikipedia)
-57225) Ros rio (+'s - name - Wikipedia)
-57226) Sebasti o (+'s - name - Wikipedia)
+57225) Rosário (+'s - name - Wikipedia)
+57226) Sebastião (+'s - name - Wikipedia)
 57227) Rute (+'s - name - Wikipedia)
 57228) Vanda (+'s - name - Wikipedia)
 57229) Esteves (+'s - name - Wikipedia)
@@ -65405,7 +65405,7 @@ V2.84
 57239) remdesivir (+'s - Wiktionary)
 57240) Feinstein (+plural +'s - Wiktionary)
 57241) Northwell (+'s - name - Wikipedia)
-57242) ?
+57242) β
 57243) cepharanthine (+'s - Wiktionary)
 57244) mefloquine (+'s - Wiktionary)
 57245) penciclovir (+'s - Wiktionary)
@@ -65690,12 +65690,12 @@ V2.84
 57516) Wigle (+'s - name - Wikipedia)
 57517) Vokes (+'s - name - Wikipedia)
 57518) Zuehlke (+'s - name - Wikipedia)
-57519) S gel (+'s - name - Wikipedia)
+57519) Sögel (+'s - name - Wikipedia)
 57520) Moncel (+'s - name - Wikipedia)
 57521) apocalypticism (+'s - Wiktionary)
 57522) Mesoamerican (+plural +'s - Collins)
 57523) timewave (+plural +'s - Wiktionary)
-57524) F rstemann (+'s - name - Wikipedia)
+57524) Förstemann (+'s - name - Wikipedia)
 57525) Wyllys (+'s - name - Wikipedia)
 57526) Milbrath (+'s - name - Wikipedia)
 57527) Schele (+'s - name - Wikipedia)
@@ -65820,7 +65820,7 @@ V2.84
 57642) Mackensie (+'s - name - Wikipedia)
 57643) Horologium (+'s - name - Wikipedia)
 57644) Horologii
-57645) ?
+57645) α
 57646) Hydrus (+'s - name - Wikipedia)
 57647) Caelum (+'s - name - Wikipedia)
 57648) Lacaille (+'s - name - Wikipedia)
@@ -65832,7 +65832,7 @@ V2.84
 57654) Microscopium (+'s - name - Wikipedia)
 57655) Pictor (+'s - name - Wikipedia)
 57656) Telescopium (+'s - name - Wikipedia)
-57657) ?
+57657) δ
 57658) argyll (+plural +'s - Collins)
 57659) Holborne (+'s - name - Wikipedia)
 57660) unperfect
@@ -65845,7 +65845,7 @@ V2.84
 57667) Kendhoo (+'s - name - Wikipedia)
 57668) ethnomedicine (+plural +'s)
 57669) Daughtry (+'s - name - Wikipedia)
-57670) B zout (+'s - name - Wikipedia)
+57670) Bézout (+'s - name - Wikipedia)
 57671) Brocot (+'s - name - Wikipedia)
 57672) coprime
 57673) gcd (+plural +'s)
@@ -65942,30 +65942,30 @@ V2.84
 57764) Shor (+'s - name - Wikipedia)
 57765) Reynaud (+'s - name - Wikipedia)
 57766) Finck (+'s - name - Wikipedia)
-57767) L ger (+'s - name - Wikipedia)
-57768) Lam  (+'s - name - Wikipedia)
-57769) Sch nhage (+'s - name - Wikipedia)
+57767) Léger (+'s - name - Wikipedia)
+57768) Lamé (+'s - name - Wikipedia)
+57769) Schönhage (+'s - name - Wikipedia)
 57770) Strassen (+'s - name - Wikipedia)
 57771) totient (+plural +'s - Wiktionary)
 57772) Mascheroni (+'s - name - Wikipedia)
 57773) Mangoldt (+'s - name - Wikipedia)
-57774) ?
+57774) ℓ
 57775) Lehmer (+'s - name - Wikipedia)
-57776) Stehl  (+'s - name - Wikipedia)
+57776) Stehlé (+'s - name - Wikipedia)
 57777) convergent (added plural +'s)
 57778) PID (+plural +'s - Wiktionary)
 57779) Kummer (+'s - name - Wikipedia)
 57780) cyclotomic (Collins)
 57781) Weinberger (+'s - name - Wikipedia)
-57782) ?
-57783) ?
+57782) σ
+57783) τ
 57784) Herstein (+'s - name - Wikipedia)
-57785) ?
-57786) ?
+57785) Λ
+57786) ζ
 57787) ln
 57788) u
-57789) ?
-57790) ?
+57789) ξ
+57790) η
 57791) spacefarer's (added +'s)
 57792) spaceplane's (added +'s)
 57793) spaceport's (added +'s)
@@ -66486,7 +66486,7 @@ V2.84
 58295) Venona (Venona project)
 58296) Winfried (+'s - name - Wikipedia)
 58297) semiotician (+plural +'s)
-58298) ?
+58298) θ
 58299) semidefinite (Wiktionary)
 58300) reparametrization (+plural +'s - Wiktionary -IZE)
 58301) reparametrisation (+plural +'s - Wiktionary -ISE)
@@ -66495,7 +66495,7 @@ V2.84
 58304) Loewner (+'s - name - Wikipedia)
 58305) Pukelsheim (+'s - name - Wikipedia)
 58306) Filon (+'s - name - Wikipedia)
-58307) Cram r (+'s - name - Wikipedia)
+58307) Cramér (+'s - name - Wikipedia)
 58308) losslessly (Wiktionary)
 58309) Lempel (+'s - name - Wikipedia)
 58310) Ziv (+'s - name - Wikipedia)
@@ -66790,7 +66790,7 @@ V2.85
 58599) Kuk-ryol (+'s - name - Wikipedia)
 58600) presidium (+plural +'s)
 58601) presidia (+'s - another plural of previous word)
-58602) ?
+58602) μ
 58603) Il-sung (+'s - name - Wikipedia)
 58604) Yong-hui (+'s - name - Wikipedia)
 58605) Fujimoto (+'s - name - Wikipedia)
@@ -66901,40 +66901,40 @@ V2.85
 
 4-MAY-2020
 GREEK LETTERS *START*
-58708) ?
-58709) ?
-58710) ?
-58711) ?
-58712) ?
-58713) ?
-58714) ?
-58715) ?
-58716) ?
-58717) ?
-58718) ?
-58719) ?
-58720) ?
-58721) ?
-58722) ?
-58723) ?
-58724) ?
-58725) ?
-58726) ?
-58727) ?
-58728) ?
-58729) ?
-58730) ?
-58731) ?
-58732) ?
-58733) ?
-58734) ?
-58735) ?
-58736) ?
-58737) ?
-58738) ?
-58739) ?
-58740) ?
-58741) ?
+58708) Γ
+58709) Δ
+58710) Θ
+58711) Λ
+58712) Ξ
+58713) Π
+58714) Σ
+58715) Φ
+58716) Ψ
+58717) Ω
+58718) α
+58719) β
+58720) γ
+58721) δ
+58722) ε
+58723) ζ
+58724) η
+58725) θ
+58726) ι
+58727) κ
+58728) λ
+58729) μ
+58730) ν
+58731) ξ
+58732) ο
+58733) π
+58734) ρ
+58735) σ
+58736) τ
+58737) υ
+58738) φ
+58739) χ
+58740) ψ
+58741) ω
 GREEK LETTERS *END*
 58742) tarantass (added plural +'s)
 58743) tarantism's (added +'s)
@@ -66957,8 +66957,8 @@ GREEK LETTERS *END*
 58758) Taureans (added plural)
 58759) taverna's (added +'s)
 58760) tech's (added +'s)
-58761) techn 's (added +'s)
-58762) techn 's (added +'s)
+58761) technê's (added +'s)
+58762) techné's (added +'s)
 58763) technologism's (added +'s)
 58764) technomania's (added +'s)
 58765) technophobia (added plural +'s)
@@ -67275,7 +67275,7 @@ GREEK LETTERS *END*
 59066) touchscreen's (added +'s)
 59067) touchwood's (added +'s)
 59068) tough's (added +'s)
-59069) tourti re's (added +'s)
+59069) tourtière's (added +'s)
 59070) tow's (added +'s)
 59071) townee (added plural +'s)
 59072) townland's (added +'s)
@@ -67420,18 +67420,18 @@ GREEK LETTERS *END*
 59207) protostellar
 59208) photospheric
 59209) supergranulation (+plural +'s)
-59210) B nard (+'s - name - Wikipedia)
+59210) Bénard (+'s - name - Wikipedia)
 59211) emissive
 59212) Inouye (+'s - name - Wikipedia)
 59213) Lockyer (+'s - name - Wikipedia)
-59214) Alfv n (+'s - name - Wikipedia)
+59214) Alfvén (+'s - name - Wikipedia)
 59215) Hinode (+'s - name - Wikipedia)
-59216) Sp rer (+'s - name - Wikipedia)
+59216) Spörer (+'s - name - Wikipedia)
 59217) poloidal
 59218) dipolar
 59219) quadrupolar
 59220) Archimedean
-59221) ?T (Wiktionary)
+59221) μT (Wiktionary)
 59222) Milankovitch (Wikipedia)
 59223) nucleocosmochronology (+'s)
 59224) Ribas (+'s - name - Wikipedia)
@@ -67488,14 +67488,14 @@ GREEK LETTERS *END*
 59273) metasedimentary (+plural +'s - Wiktionary)
 59274) Chimborazo (+'s - name - Wikipedia)
 59275) pentoxide (+plural +'s)
-59276) Mohorovi?i? (+'s - name - Wikipedia)
+59276) Mohorovičić (+'s - name - Wikipedia)
 59277) komatiite (+plural +'s +ic)
 59278) pedosphere (+plural +'s)
 59279) spectroradiometer (+plural +'s - Wiktionary)
 59280) oxygenic
 59281) thermohaline (+plural +'s - Wiktionary)
-59282) K ppen (+'s - name - Wikipedia)
-59283) K rm n (+'s - name - Wikipedia)
+59282) Köppen (+'s - name - Wikipedia)
+59283) Kármán (+'s - name - Wikipedia)
 59284) plasmasphere (+plural +'s)
 59285) substorm (+plural +'s)
 59286) quasiperiodic
@@ -67654,7 +67654,7 @@ GREEK LETTERS *END*
 59436) retroreflect (+s +ing +ed - Wiktionary)
 59437) saros
 59438) occultation (added plural +'s)
-59439) M dler (+'s - name - Wikipedia)
+59439) Mädler (+'s - name - Wikipedia)
 59440) trigonometrically (Wiktionary)
 59441) astrogeology (+'s)
 59442) retroreflector (+plural +'s)
@@ -67733,7 +67733,7 @@ GREEK LETTERS *END*
 59513) Piazzi (+'s - name - Wikipedia)
 59514) Olbers (+'s - name - Wikipedia)
 59515) Pallas (+'s - name - Wikipedia)
-59516) Ott  (+'s - name - Wikipedia)
+59516) Otté (+'s - name - Wikipedia)
 59517) Savchenko (+'s - name - Wikipedia)
 59518) Gaspra (+'s - name - Wikipedia)
 59519) Allende (+'s - name - Wikipedia)
@@ -67741,7 +67741,7 @@ GREEK LETTERS *END*
 59521) Magnya (+'s - name - Wikipedia)
 59521) Kumakiri (+'s - name - Wikipedia)
 59522) Poynting (+'s - name - Wikipedia)
-59523) Nesvorn  (+'s - name - Wikipedia)
+59523) Nesvorný (+'s - name - Wikipedia)
 59524) Kiyotsugu (+'s - name - Wikipedia)
 59525) Hirayama (+'s - name - Wikipedia)
 59526) Phocaea (+'s - name - Wikipedia)
@@ -67749,7 +67749,7 @@ GREEK LETTERS *END*
 59528) Annefrank (+'s - name - Wikipedia)
 59529) Masursky (+'s - name - Wikipedia)
 59530) Lutetia (+'s - name - Wikipedia)
-59531)  teins (+'s - name - Wikipedia)
+59531) Šteins (+'s - name - Wikipedia)
 59532) Hayabusa (+'s - name - Wikipedia)
 59533) magnetodisk (+plural +'s - Wiktionary)
 59534) magnetosheath (+plural +'s)
@@ -67760,7 +67760,7 @@ GREEK LETTERS *END*
 59539) deferent (+plural +'s)
 59540) Borelli (+'s - name - Wikipedia)
 59541) Schwabe (+'s - name - Wikipedia)
-59542) R mer (+'s - name - Wikipedia)
+59542) Rømer (+'s - name - Wikipedia)
 59543) Amalthea (+'s - name - Wikipedia)
 59544) Wildt (+'s - name - Wikipedia)
 59545) Hein (+'s - name - Wikipedia)
@@ -67791,7 +67791,7 @@ GREEK LETTERS *END*
 59570) fogeydom's (added +'s)
 59571) fogeyism (added plural +'s)
 59572) fogydom's (added +'s)
-59573) f hn (added plural +'s)
+59573) föhn (added plural +'s)
 59574) foie's (added +'s)
 59575) folliculitis's (added +'s)
 59576) blueshift (added plural +'s)
@@ -67959,7 +67959,7 @@ Words suggested by Cyberknight *END*
 59734) hydrosulphide (+'s - Wiktionary)
 59735) telescopy (+plural +'s)
 59736) eyewall (+plural +'s - Collins)
-59737)  T (Wiktionary)
+59737) µT (Wiktionary)
 59738) Mimas (+'s - name - Wikipedia)
 59739) Iapetus (+'s - name - Wikipedia)
 59740) tholin (+plural +'s - Wiktionary)
@@ -68022,7 +68022,7 @@ Words suggested by Cyberknight *END*
 59795) Monnier (+'s - name - Wikipedia)
 59796) Lexell (+'s - name - Wikipedia)
 59797) Maskelyne (+'s - name - Wikipedia)
-59798) J r me (+'s - name - Wikipedia)
+59798) Jérôme (+'s - name - Wikipedia)
 59799) Bode (+'s - name - Wikipedia)
 59800) Lalande (+'s - name - Wikipedia)
 59801) Klaproth (+'s - name - Wikipedia)
@@ -68030,7 +68030,7 @@ Words suggested by Cyberknight *END*
 59803) Verrier (+'s - name - Wikipedia)
 59804) Tauri (Zeta Tauri)
 59805) Kegerreis (+'s - name - Wikipedia)
-59806)  Pa
+59806) µPa
 59807) protosolar
 59808) megaelectronvolt (+plural +'s - Wiktionary)
 59809) kiloelectronvolt (+plural +'s - Wiktionary)
@@ -68148,7 +68148,7 @@ Words suggested by Cyberknight *END*
 59921) Tisserand (+'s - name - Wikipedia)
 59922) Laerhoven (+'s - name - Wikipedia)
 59923) Gladman (+'s - name - Wikipedia)
-59924)  pik (+'s - name - Wikipedia)
+59924) Öpik (+'s - name - Wikipedia)
 59925) Tempel (+'s - name - Wikipedia)
 59926) Levison (+'s - name - Wikipedia)
 59927) Scholz (+'s - name - Wikipedia)
@@ -68162,7 +68162,7 @@ Words suggested by Cyberknight *END*
 59935) JPL (+'s - name - Wikipedia)
 59936) subplanetary (Wiktionary)
 59937) plutoid (+plural +'s - Wiktionary)
-59938)  
+59938) µ
 59939) Soter (+'s - name - Wikipedia)
 59940) Orcus (+'s - name - Wikipedia)
 59941) Salacia (+'s - name - Wikipedia)
@@ -68246,14 +68246,14 @@ Words suggested by Cyberknight *END*
 60017) Ioke (+'s - name - Wikipedia)
 60018) Gilma (+'s - name - Wikipedia)
 60019) Elida (+'s - name - Wikipedia)
-60020) Hern n (+'s - name - Wikipedia)
+60020) Hernán (+'s - name - Wikipedia)
 60021) Kenna (+'s - name - Wikipedia)
 60022) Guillermo (+'s - name - Wikipedia)
 60023) Walaka (+'s - name - Wikipedia)
 60024) Armero (+'s - name - Wikipedia)
 60025) Nevado (+'s - name - Wikipedia)
 60026) Omayra (+'s - name - Wikipedia)
-60027) S nchez (+'s - name - Wikipedia)
+60027) Sánchez (+'s - name - Wikipedia)
 60028) Jereboam (+'s - name - Wikipedia)
 60029) semiprozine (+plural +'s - Wiktionary)
 60030) fancast (+plural +'s - Wiktionary)
@@ -68297,7 +68297,7 @@ Words suggested by Cyberknight *END*
 60068) paterae (+'s - Wiktionary)
 60069) Amirani (+'s - name - Wikipedia)
 60070) patera (+'s - Wiktionary)
-60071) ?Pa (Wiktionary)
+60071) μPa (Wiktionary)
 60072) desorb (+s +ing +ed)
 60073) cryobot (+plural +'s - Wiktionary)
 60074) hydrobot (+plural +'s - Wiktionary)
@@ -68307,7 +68307,7 @@ Words suggested by Cyberknight *END*
 60078) horst (+plural +'s)
 60079) magnetoconvection (+'s - Wiktionary)
 60080) accretional
-60081)  m (Wiktionary)
+60081) µm (Wiktionary)
 60082) embay (+s +ing +ed)
 60083) intercrater (Wiktionary)
 60084) photoionization (+plural +s -IZE)
@@ -68321,7 +68321,7 @@ Words suggested by Cyberknight *END*
 60092) Patroclus (+'s - name - Wikipedia)
 60093) Palisa (+'s - name - Wikipedia)
 60094) Diomedes (+'s - name - Wikipedia)
-60095)  neas (+'s - name - Wikipedia)
+60095) Äneas (+'s - name - Wikipedia)
 60096) Deiphobus (+'s - name - Wikipedia)
 60097) Eurybates (+'s - name - Wikipedia)
 60098) Polymele (+'s - name - Wikipedia)
@@ -68545,7 +68545,7 @@ Words suggested by Cyberknight *END*
 60314) nanobacterium's (added +'s)
 60315) nanobacteria's (added +'s)
 60316) NaN (added plural +'s)
-60317) na veties (removed plural, it is uncountable, added +'s)
+60317) naïveties (removed plural, it is uncountable, added +'s)
 60318) naivete's (added +'s)
 60319) naif (added singular +'s)
 60320) nailery (added plural +'s)
@@ -68885,7 +68885,7 @@ V2.86
 60741) irrotational
 60742) isochoric (Wiktionary)
 60743) calorically
-60744) Coand? (+'s - name - Wikipedia)
+60744) Coandă (+'s - name - Wikipedia)
 60745) permadeath (added plural +'s)
 60746) permalloys (added plural)
 60747) permethrin (added plural +'s)
@@ -69296,7 +69296,7 @@ V2.86
 61138) datasphere's (added +'s)
 61139) dayanim's (added +'s)
 61140) dealmaking's (added +'s)
-61141) d nouement (added plural +'s)
+61141) dénouement (added plural +'s)
 61142) dentines (added plural)
 61143) depaint (verb, added +s +ing +ed)
 61144) desiderata's (added +'s)
@@ -69307,7 +69307,7 @@ V2.86
 61149) diakineses's (added +'s)
 61150) diakinesis's (added +'s)
 61151) diam (added plural +'s)
-61152) diamant  (added plural +'s)
+61152) diamanté (added plural +'s)
 61153) diapedesis's (added +'s)
 61154) diaphoresis's (added +'s)
 61155) diatomic (added plural +'s)
@@ -69418,7 +69418,7 @@ V2.86
 61256) particularism (added plural +'s)
 61257) partizan (added singular + plural)
 61258) parturifacient (added plural +'s)
-61259) pass s (added plural)
+61259) passés (added plural)
 61260) Pastafarianism's (added +'s)
 61261) passionaries (added plural)
 61262) pastegrain's (added +'s)
@@ -69537,7 +69537,7 @@ V2.86
 61374) perpendicular's (added +'s)
 61375) perphenazine's (added +'s)
 61376) personeity (added plural +'s)
-61377) person ity (added plural +'s)
+61377) personëity (added plural +'s)
 61378) pethidines (added plural)
 61379) phagocytose (verb, added +s +ing)
 61380) phagocytosis's (added +'s)
@@ -69576,7 +69576,7 @@ V2.87
 61410) misregulation (+plural +'s - Wiktionary)
 61411) Bartholomay (+'s - name - Wikipedia)
 61412) Csikasz (+'s - name - Wikipedia)
-61413) Csik sz (+'s - name - Wikipedia)
+61413) Csikász (+'s - name - Wikipedia)
 61414) Michaelis (+'s - name - Wikipedia)
 61415) Menten (+'s - name - Wikipedia)
 61416) Hopf (+'s - name - Wikipedia)
@@ -69652,7 +69652,7 @@ V2.87
 61482) Schullian (+'s - name - Wikipedia)
 61483) Adkinson (+'s - name - Wikipedia)
 61484) Rayward (+'s - name - Wikipedia)
-61485) J ran (+'s - name - Wikipedia)
+61485) Jöran (+'s - name - Wikipedia)
 61486) Hemminger (+'s - name - Wikipedia)
 61487) Kuhlthau (+'s - name - Wikipedia)
 61488) Semenov (+'s - name - Wikipedia)
@@ -69773,7 +69773,7 @@ V2.87
 61599) prague's (word removed, not in dictionaries)
 61600) prakriti (added plural +'s)
 61601) precentory's (added +'s)
-61602)  
+61602) §
 
 14-JUL-2020
 61603) desiderate (+s +ing +ed +ion +ions)
@@ -70198,7 +70198,7 @@ V2.88
 61982) radiosensitivity (added plural +'s)
 61983) radiosity (added plural +'s)
 61984) Raelism's (added +'s)
-61985) Ra lism's (added +'s)
+61985) Raëlism's (added +'s)
 61986) raison (added plural +'s)
 61987) ransack's (added +'s)
 61988) ravinement (added plural +'s)
@@ -70386,7 +70386,7 @@ V2.88
 ***Words by Professor Philip Taylor and Dominic Wujastyk END***
 
 20-AUG-2020
-63161) ros  (added plural +'s)
+63161) rosé (added plural +'s)
 63162) roseately (Wiktionary)
 63163) Rosicrucianism's (added +'s)
 63164) rottenstone (added plural +'s)
@@ -70416,7 +70416,7 @@ V2.88
 61388) sanguinary (added plural +'s)
 61389) sanitation (added plural +'s)
 61390) Santeria's (added +'s)
-61391) Santer a's (added +'s)
+61391) Santería's (added +'s)
 61392) sapphic's (added +'s)
 61393) sapphism's (added +'s)
 61394) sargassum (added plural +'s)
@@ -71677,7 +71677,7 @@ State and union territory capitals in India *END*
 62576) craton's (added +'s)
 62577) crawl's (added +'s)
 62578) crawlboard's (added +'s)
-62579) cr me (added plural +'s)
+62579) crème (added plural +'s)
 62580) crimp's (added +'s)
 62581) crimpage's (added +'s)
 62582) criticality (added plural +'s)
@@ -73481,7 +73481,7 @@ V2.92
 64290) lithotripter's (added +'s)
 64291) lithotriptic (added plural +'s)
 64292) lithotriptor's (added +'s)
-64293) litt rateur's (added +'s)
+64293) littérateur's (added +'s)
 64294) litterer's (added +'s)
 64295) littoral's (added +'s)
 64296) liturgiology's (added +'s)
@@ -73625,7 +73625,7 @@ V2.92
 64430) mandorla's (added +'s)
 64431) mandragora (added plural +'s)
 64432) Mandrax's (added +'s)
-64433) man ge's (added +'s)
+64433) manège's (added +'s)
 64434) manga's (added +'s)
 64435) mangalsutra (added plural +'s)
 64436) manganeses (added plural)
@@ -73791,7 +73791,7 @@ V2.92
 64590) megapolis's (added +'s)
 64591) megasea's (added +'s)
 64592) megastardom's (added +'s)
-64593) m lange (added plural +'s)
+64593) mélange (added plural +'s)
 64594) melange (added plural +'s)
 64595) melanisation (added plural +'s)
 64596) melanisation (added plural +'s)
@@ -73805,7 +73805,7 @@ V2.92
 64602) memorabilia's (added +'s)
 64603) memoranda's (added +'s)
 64604) memorizations (added plural)
-64605) m nage (added plural +'s)
+64605) ménage (added plural +'s)
 64606) Mendelism's (added +'s)
 64607) menial's (added +'s)
 64608) meninges's (added +'s)
@@ -81032,8 +81032,8 @@ V2.98
 72431) Malaga
 72432) Malaga's
 72433) Maldive
-72434) Malm 
-72435) Malm 's
+72434) Malmö
+72435) Malmö's
 72436) Malva
 72437) Malvaceae
 72438) Manutius
@@ -81059,12 +81059,12 @@ V2.98
 72458) Mayflower's
 72459) Mechlin
 72460) Mechlin's
-72461) Medell n
-72462) Medell n's
+72461) Medellín
+72462) Medellín's
 72463) Median
-72464) M doc
-72465) M docs
-72466) M doc's
+72464) Médoc
+72465) Médocs
+72466) Médoc's
 ***Words by Professor Philip Taylor and Dominic Wujastyk END***
 72467) SuperFin
 
@@ -81083,8 +81083,8 @@ V2.98
 72478) Viola
 72479) Vitoria
 72480) Vitoria's
-72481) Vit ria
-72482) Vit ria's
+72481) Vitória
+72482) Vitória's
 72483) Weill
 72484) Weill's
 72485) Weismann
@@ -81110,7 +81110,7 @@ V2.98
 72505) Zealot
 72506) Zealot's
 72507) Zealots
-72508) Z llner
+72508) Zöllner
 72509) Xiaoping
 72510) Xiaoping's
 72511) Wend
@@ -81225,8 +81225,8 @@ V2.98
 72620) Samnite's
 72621) Samoyedic
 72622) Samoyedic's
-72623) Sa ne
-72624) Sa ne's
+72623) Saône
+72624) Saône's
 72625) Sanicula
 72626) Samos
 72627) Samos's
@@ -81342,7 +81342,7 @@ V2.98
 72733) Gaelic's
 72734) Galla
 72735) Galla's
-72736) Gasp 
+72736) Gaspé
 72737) Gd
 72738) Gazette
 72739) Gazette's
@@ -81388,8 +81388,8 @@ V2.98
 72779) Ironsides
 72780) Italic
 72781) Italic's
-72782) Itz 
-72783) Itz 's
+72782) Itzá
+72783) Itzá's
 72784) Izmir
 72785) Izmir's
 72786) Jah
@@ -81444,7 +81444,7 @@ V2.98
 72831) Mongoloid
 72832) Mongoloids
 72833) Mongoloid's
-72834) M ssbauer
+72834) Mössbauer
 72835) Mousterian
 72836) Mozarabic
 72837) Mozarab
@@ -81543,9 +81543,9 @@ V2.98
 72930) Neronian
 72931) Nestorius
 72932) Nestorius's
-72933) Neuch tel
-72934) Neufch tel
-72935) Neufch tel's
+72933) Neuchâtel
+72934) Neufchâtel
+72935) Neufchâtel's
 72936) Neuroptera
 72937) Newfoundland
 72938) Newfoundland's
@@ -81619,8 +81619,8 @@ V2.98
 73002) Lettic
 73003) Lettic's
 73004) Lettish
-73005) Li ge
-73006) Li ge's
+73005) Liège
+73006) Liège's
 73007) Liliaceae
 73008) Lille
 73009) Lille's
@@ -81722,8 +81722,8 @@ V2.98
 73101) Prakrit's
 73102) Prabang
 73103) Prabang's
-73104) Pozna?
-73105) Pozna?'s
+73104) Poznań
+73105) Poznań's
 73106) Pouilly
 73107) Pouilly's
 73108) Porte
@@ -81782,8 +81782,8 @@ V2.98
 73161) Pecksniff's
 73162) Peerage
 73163) Pegasean
-73164) Pel e
-73165) Pel e's
+73164) Pelée
+73165) Pelée's
 73166) Paymaster
 73167) Passiontide
 73168) Passiontides
@@ -81883,8 +81883,8 @@ V2.98
 73258) Dorkings
 73259) Eve
 73260) Eve's
-73261) Gala?i
-73262) Gala?i's
+73261) Galaţi
+73262) Galaţi's
 73263) Gobelin
 73264) Gobelin's
 73265) Gobelins
@@ -81914,8 +81914,8 @@ V2.98
 73289) Leonine
 73290) Leonines
 73291) Leonine's
-73292) Leo 
-73293) Leo 's
+73292) Leoš
+73293) Leoš's
 73294) Lesbian
 73295) Lethean
 73296) Lett
@@ -81926,7 +81926,7 @@ V2.98
 73301) Linotype's
 73302) Linotypes
 73303) Lizzies
-73304) Louren o
+73304) Lourenço
 73305) Machmeter
 73306) Machmeter's
 73307) Machmeters
@@ -81946,7 +81946,7 @@ V2.98
 73321) Messiah's
 73322) Metropolitan
 73323) Minh
-73324) M bius
+73324) Möbius
 73325) Monotype
 73326) Monotypes
 73327) Monotype's
@@ -81974,18 +81974,18 @@ V2.98
 
 27-JUN-2021
 73348) Edmundo (+'s - name - Wikipedia)
-73349) Fl vio (+'s - name - Wikipedia)
-73350) Gra a (+'s - name - Wikipedia)
-73351) Il dio (+'s - name - Wikipedia)
+73349) Flávio (+'s - name - Wikipedia)
+73350) Graça (+'s - name - Wikipedia)
+73351) Ilídio (+'s - name - Wikipedia)
 73352) Serralheiro (+'s - name - Wikipedia)
 73353) Baltazar (+'s - name - Wikipedia)
 73354) Moita (+'s - name - Wikipedia)
 73355) Prata (+'s - name - Wikipedia)
 73356) Nascimento (+'s - name - Wikipedia)
 73357) Coelhas (+'s - name - Wikipedia)
-73358) Esperan a (+'s - name - Wikipedia)
+73358) Esperança (+'s - name - Wikipedia)
 73359) Poupinha (+'s - name - Wikipedia)
-73360) Casc o (+'s - name - Wikipedia)
+73360) Cascão (+'s - name - Wikipedia)
 73361) Castanheira (+'s - name - Wikipedia)
 73362) Isaltina (+'s - name - Wikipedia)
 73363) Janete (+'s - name - Wikipedia)
@@ -81995,13 +81995,13 @@ V2.98
 73367) Dourado (+'s - name - Wikipedia)
 73368) Montez (+'s - name - Wikipedia)
 73369) Guerreiro (+'s - name - Wikipedia)
-73370)  scar (+'s - name - Wikipedia)
+73370) Óscar (+'s - name - Wikipedia)
 73371) Firmo (+'s - name - Wikipedia)
 73372) Salvadinha (+'s - name - Wikipedia)
 73373) Queijas (+'s - name - Wikipedia)
 73374) Prazeres (+'s - name - Wikipedia)
 73375) Trajano (+'s - name - Wikipedia)
-73376) N brega (+'s - name - Wikipedia)
+73376) Nóbrega (+'s - name - Wikipedia)
 73377) Mota (+'s - name - Wikipedia)
 73378) Lisboa (+'s - name - Wikipedia)
 73379) Filipa (+'s - name - Wikipedia)
@@ -82139,8 +82139,8 @@ V2.99
 73500) Superman's
 73501) Supermen
 73502) Supermen's
-73503) T ne
-73504) T ne's
+73503) Tène
+73504) Tène's
 73505) Theocracy
 73506) Theocracy's
 73507) Titianesque
@@ -82184,8 +82184,8 @@ V2.99
 73545) Abernethy's
 73546) Abominable
 73547) Alcoholics
-73548) Asunci n
-73549) Asunci n's
+73548) Asunción
+73549) Asunción's
 73550) Atonement
 73551) Atonement's
 73552) Avestic
@@ -82217,8 +82217,8 @@ V2.99
 73578) Consul's
 73579) Crome
 73580) Crome's
-73581) D il
-73582) D il's
+73581) Dáil
+73582) Dáil's
 73583) Dyck
 73584) Dyck's
 73585) Erinyes
@@ -82427,7 +82427,7 @@ V2.99
 73784) Septuagesima
 73785) Septuagesima's
 73786) Serbonian
-73787) S vres
+73787) Sèvres
 73788) Strine
 73789) Strine's
 73790) Tartuffe
@@ -83684,8 +83684,8 @@ V3.0.0
 74999) laminose
 75000) lancewood
 75001) lancewood's
-75002) l ndler
-75003) l ndler's
+75002) ländler
+75003) ländler's
 75004) languishment
 75005) languishment's
 75006) lapelled
@@ -83758,9 +83758,9 @@ V3.0.0
 75073) litreage
 75074) litreages
 75075) litreage's
-75076) litt rateur
-75077) litt rateur's
-75078) litt rateurs
+75076) littérateur
+75077) littérateur's
+75078) littérateurs
 75079) lithotrity
 75080) lithotrity's
 75081) lividity
@@ -83869,8 +83869,8 @@ V3.0.0
 75180) patrialities
 75181) patriality
 75182) patriality's
-75183) patt e
-75184) pat e
+75183) pattée
+75184) patée
 75185) paua
 75186) pauas
 75187) paua's
@@ -84267,7 +84267,7 @@ V3.0.0
 75566) soddening
 75567) soddens
 75568) softish
-75569) soign 
+75569) soigné
 75570) solatium
 75571) solatium's
 75572) solatia
@@ -84320,9 +84320,9 @@ V3.0.0
 75619) souter
 75620) souters
 75621) souter's
-75622) soup on
-75623) soup on's
-75624) soup ons
+75622) soupçon
+75623) soupçon's
+75624) soupçons
 75625) soundlessness
 75626) soundlessness's
 75627) sozzled
@@ -84539,9 +84539,9 @@ V3.0.0
 75830) toquilla
 75831) toquillas
 75832) toquilla's
-75833) torch re
-75834) torch re's
-75835) torch res
+75833) torchère
+75834) torchère's
+75835) torchères
 75836) torchon
 75837) torchon's
 75838) tontine
@@ -91466,7 +91466,7 @@ V3.0.6
 82524) oolite's
 82525) oolites
 82526) oogenetic
-82527) o genetic
+82527) oögenetic
 82528) oolong
 82529) oolong's
 82530) oompahing
@@ -93206,7 +93206,7 @@ V3.0.9
 84197) betaines + betaine's
 84198) betamethasone's
 84199) bethels
-84200) b tises + b tise's
+84200) bêtises + bêtise's
 84201) bettong's
 84202) BeV's
 84203) bevatron's
@@ -93464,7 +93464,7 @@ V3.1.0
 
 26-JUN-2022
 84445) bribe's
-84446) bric-a-brac's + bric- -brac's
+84446) bric-a-brac's + bric-à-brac's
 84447) brick's
 84448) bride-to-be's + brides-to-be's
 84449) brief's
@@ -93696,7 +93696,7 @@ V3.1.1
 84665) casual's
 84666) cat-bears + cat-bear's
 84667) cat-sits + cat-sat
-84668) Lu s + Lu s's
+84668) Luís + Luís's
 84669) Grilo + Grilo's
 
 15-JUL-2022
@@ -93836,7 +93836,7 @@ V3.1.1
 29-JUL-2022
 84796) daren't
 84797) cicatrizations + cicatrization's + the same for -ise
-84798) cin ma-v rit 's
+84798) cinéma-vérité's
 84799) cinemagoing's
 84800) circularizations + circularization's
 84801) circumspheres + circumsphere's
@@ -93925,9 +93925,9 @@ V3.1.1
 
 V3.1.2
 11-AUG-2022
-84884) cliching + cliche's + clich ing + clich ed
+84884) cliching + cliche's + clichéing + clichéed
 84885) clickjacking's
-84886) clientele's + clienteles + client les
+84886) clientele's + clienteles + clientèles
 84887) clientships + clientship's
 84888) cliffhang + cliffhangs + cliffhung
 84889) clifftop's
@@ -93948,7 +93948,7 @@ V3.1.2
 84904) clobber's
 84905) clock-watches + clock-watched
 84906) clockwisely
-84907) cloisonn s + cloisonn 's
+84907) cloisonnés + cloisonné's
 84908) cloisonne + cloisonne's
 84909) clonk's
 84910) clop's
@@ -94120,7 +94120,7 @@ V3.1.2
 85064) zestfulness's
 85065) zipx's
 85066) zirconocenes + zirconocene's
-85067) Z llner's
+85067) Zöllner's
 85068) zoogeography's
 85069) zoonotics + zoonotic's + zoonotically
 85070) zoosemiotics's
@@ -94961,7 +94961,7 @@ V3.1.4
 85883) melodramatist's
 85884) melodramatical + melodramatically
 85885) meltons
-85886) m moires + m moire's
+85886) mémoires + mémoire's
 85887) memoria's
 85888) mender's
 85889) mendery + mendery's + menderies
@@ -95081,7 +95081,7 @@ V3.1.4
 85999) layerings
 86000) leathercloths
 86001) leaved (removed, the past is "left") + leave's
-86001) lebensraum's + lebensr ume + lebensr ume's
+86001) lebensraum's + lebensräume + lebensräume's
 86002) lebensspur's
 86003) lederhosen's
 86004) leecher + leechers + leecher's
@@ -95192,7 +95192,7 @@ V3.1.5
 86096) northmen (removed: it starts uppercase)
 86097) manganocenes + manganocene's
 86098) mannerliness's
-86099) manqu 's (removed, it is an adjective)
+86099) manqué's (removed, it is an adjective)
 86100) manspreading's
 86101) mansuetudes
 86102) manzanillas
@@ -95271,7 +95271,7 @@ V3.1.5
 86171) protosulfate's
 86172) protosyntax's
 86173) protothemes + prototheme's
-86174) protozo logy's + protozoology's
+86174) protozoölogy's + protozoology's
 86175) pruderies
 86176) prunetin's
 86177) prunitrin's
@@ -95405,7 +95405,7 @@ V3.1.5
 86299) veer's
 86300) vegetativeness's
 86301) velar's
-86302) velout s + velout 's
+86302) veloutés + velouté's
 86303) Venera's
 86304) venographies + venography's
 86305) ventiduct's
@@ -95428,7 +95428,7 @@ V3.1.6
 86317) voyeuristically
 86318) Vostok's
 86319) vorticosely
-86320) volupt 's
+86320) volupté's
 86321) vol + vol's
 86322) vocable's
 86323) vlei + vleis + vlei's
@@ -95612,7 +95612,7 @@ V3.1.6
 86591) WMAs + WMA's
 86592) WOs + WO's
 86593) naffest
-86594) na vet 's
+86594) naïveté's
 86595) Hermaphroditus's
 86596) geochemist's
 86597) geodetically
@@ -95685,7 +95685,7 @@ V3.1.7
 86649) Pittaway/M
 86650) Plumptre/M
 86651) Riddell/M
-86652) Rond n/M
+86652) Rondón/M
 86653) Shanti/M
 86654) Udalovas/M
 86655) Weerden/M
@@ -97125,7 +97125,7 @@ V3.2.2
 87964) Constance's
 
 13-JUN-2023
-87965) omert  + omert s + omert 's
+87965) omertà + omertàs + omertà's
 87966) cathedra + cathedras + cathedra's + cathedrae + cathedrae's
 
 16-JUN-2023
@@ -97449,7 +97449,7 @@ V3.2.3
 19-JUL-2023
 88259) GPRS's
 88260) GPS's
-88261) gr ces
+88261) grâces
 88262) gradationally
 88263) graftings
 88264) grainings
@@ -97654,7 +97654,7 @@ V3.2.4
 88449) volcanogenically
 88450) volcanologically
 88451) volumetrics + volumetrics's
-88452) volupt s
+88452) voluptés
 88453) vomeronasally
 88454) vomita + vomita's
 88455) vorticism + vorticisms + vorticism's
@@ -97756,7 +97756,7 @@ V3.2.4
 88537) ejectments
 88538) eke's
 88539) EKG's
-88540)  lans
+88540) élans
 88541) elapidic
 88542) elastical
 88543) elasticate +s +ing +ed +ion +ions +ion's
@@ -97770,7 +97770,7 @@ V3.2.4
 
 V3.2.5
 3-SEP-2023
-  Improved flag "N", increasing the wordlist in 596 valid words.
+— Improved flag "N", increasing the wordlist in 596 valid words.
 
 88548) dormice's
 88549) dorp's
@@ -97866,6 +97866,105 @@ V3.2.5
 88623) electrothermally
 88624) electrotypic + electrotypy + electrotypy's
 88625) Intoxilyser + Intoxilysers + Intoxilyser's
+
+V3.2.6
+2-OCT-2023
+88626) ejectable + ejectables + ejectable's
+88627) giblet
+88628) ungiving
+88629) electrotechnological
+
+3-OCT-2023
+— Improved flag "q", increasing the wordlist in 126 valid words.
+
+7-OCT-2023
+— Improved flag "-", increasing the wordlist in 128 valid words.
+
+8-OCT-2023
+88630) elegiacally
+88631) ellipsoidally
+88632) elongately
+88633) elongatedness + elongatedness's
+88634) elongatedly
+88635) elutriations
+88636) Elvish + Elvish's
+88637) embalmment + embalmments + embalmment's
+88638) embanker + embankers + embanker's
+88639) embargoist + embargoists + embargoist's
+88640) embed's
+88641) embeddings
+88642) embellishingly
+88643) embellishings + embellishing's
+88644) embolizations
+88645) embossment + embossments + embossment's
+88646) embrace's
+88647) embryogenically
+88648) embryonically
+88649) emergently + emergentism + emergentisms + emergentism's
+88650) emergentness + emergentness's
+88651) emerituses (rare form)
+88652) emeses
+88653) emf's
+88654) EMIs
+88655) emotionalisation +s +'s +IZE for it
+88656) empanel + empanels
+88657) empaths + empath's
+88658) emplaces + emplacing
+88659) employ's
+
+11-OCT-2023
+88660) disingenuousness + disingenuousness's
+88661) spokesmanly
+              + spokeswomanship + spokeswomanships + spokeswomanship's
+              + spokesmanship + spokesmanships + spokesmanship's
+
+16-OCT-2023
+88662) artifact + artifacts + artifact's (Peter)
+
+19-OCT-2023
+88663) empoisoner + empoisoners + empoisoner's
+88664) empty-handedly + empty-handedness + empty-handedness's
+88665) empty-headedness + empty-headedness's
+88666) empty's
+88667) ens
+88668) enablements + enablement's
+88669) enaction's
+88670) enactively
+88671) enamouredness's
+88672) enantiomerical + enantiomericity + enantiomericity's
+88673) enantiomorphically
+88674) enantiomorphously
+88675) encs + enc's
+88676) encaustics + encaustic's + encaustically
+88677) encephalograph's + encephalographies + encephalography's
+88678) encephalopathic + encephalopathical
+88679) enchantings + enchanting's + enchantingness + enchantingness's
+88680) encircler + encirclers + encircler's
+88681) enclaspment + enclaspment's
+88682) encloser + enclosers + encloser's
+
+24-OCT-2023
+88683) encodement + encodements + encodement's
+88684) encore's
+88685) encounter's
+88686) encroachingly
+88687) encruster + encrusters + encruster's + encrustment +s +'s
+88688) encrypter + encrypters + encrypter's + encryptable
+88689) encystation + encystation's + encystations
+88690) Ends
+88691) endangerer + endangerer's + endangerers + endangerable
+88692) endangeredness + endangeredness's
+88693) endearer + endearers + endearer's
+88694) endearingness + endearingness's
+88695) endearedness + endearedness's
+88696) endergonicity + endergonicities + endergonicity's
+88697) endianness + endianness's + endiannesses
+88698) endocardiac + endocardially
+88699) endocardiums
+88700) endocarpal
+
+26-OCT-2023
+— Improved flag "J", increasing the wordlist in 70 valid words.
 =======
-British English Dictionary (Forked) 3.2.5
+British English Dictionary (Forked) 3.2.6
 by Marco A.G.Pinto
