@@ -97965,6 +97965,156 @@ V3.2.6
 
 26-OCT-2023
 — Improved flag "J", increasing the wordlist in 70 valid words.
+
+
+V3.2.7
+5-NOV-2023
+88701) wharfage + wharfages + wharfage's
+88702) wharfman + wharfman's + wharfmen + wharfmen's
+88703) wharfing + wharfings + wharfing's + wharfinger + ers + er's
+88704) wharfmaster + wharfmasters + wharfmaster's
+88705) glom +s +ing +ed
+88706) avengement + avengements + avengement's
+88707) hornswoggle +s +ing +ed
+88708) bureaucratese + bureaucratese's (Noun: uncountable)
+88709) ostensive + ostensively
+88710) isochron + isochrons + isochron's
+88711) isochrone + isochrones + isochrone's + isochronic
+88712) codicology + codicology's + codicological
+88713) coronium + coronium's (Noun: uncountable)
+88714) wharfager + wharfagers + wharfager's
+
+11-NOV-2023
+88715) endocentrically
+88716) endocranially
+88717) endocrinologic + endocrinological + endocrinologically
+88718) endocytoses
+88719) endogamously
+88720) endogenicity + endogenicity's
+88721) endolithically
+88722) endometrially
+88723) endoplasms
+88724) endoskeletally
+88725) endoskeleta + endoskeleta's
+88726) endospermic
+88727) endosporous
+88728) endosymbiontic
+88729) endosymbioses
+88730) endothelially
+88731) endower + endowers + endower's
+88732) endozoochorial
+88733) endplay's
+88734) endurability + endurability's
+88735) endurableness + endurableness's
+88736) enematic
+88737) enemata + enemata's
+88738) enemyship + enemyship's
+88739) energetical
+
+14-NOV-2023
+88740) enfants
+88741) enfeebler + enfeeblers + enfeebler's
+88742) enfoldment + enfoldments + enfoldment's
+88743) engagingness + engagingness's
+88744) engineeringly
+88745) engraftment + engraftments + engraftment's
+88746) enharmonical
+88747) enharmonicism + enharmonicism's
+88748) enjambements
+88749) enjoiner + enjoiners + enjoiner's
+88750) enkindler + enkindlers + enkindler's
+88751) enlightener + enlighteners + enlightener's
+88752) ensconcement + ensconcements + ensconcement's
+88753) enshroudment + enshroudments + enshroudment's
+88754) enswathement + enswathements + enswathement's
+88755) enterically
+88756) enterobacterial
+88757) Cominform + Cominform's + Cominformist + Cominformists + Cominformist's
+88758) Rousseauistic
+88759) assumpsit + assumpsits + assumpsit's
+88760) breathwork + breathwork's (Noun: uncountable)
+88761) commonwealthman + commonwealthman's
+88762) commonwealthmen + commonwealthmen's
+88763) compend + compends + compend's
+88764) complexus + complexus's
+88765) micromobility + micromobility's (Noun: uncountable)
+88766) panidiomorphic
+88767) parasocial + parasocially
+88768) rotely
+88769) stockgrower + stockgrowers + stockgrower's
+88770) stockrider + stockriders + stockrider's
+88771) stockriding + stockriding's
+88772) switcheroo + switcheroos + switcheroo's
+88773) takedown + takedowns + takedown's
+88774) vitaceous
+88775) vitagraph
+88776) vitascope + vitascopes + vitascope's + vitascopic
+88777) vitexin + vitexin's (Noun: uncountable)
+88778) viticetum + viticetum's
+88779) vitiliginous
+88780) vitrite + vitrites + vitrite's
+88781) vocabularian + vocabularians + vocabularian's
+88782) vocabulist + vocabulists + vocabulist's
+88783) vocabulation + vocabulation's (Noun: usually uncountable)
+88784) vocalion + vocalions + vocalion's
+88785) voetganger + voetgangers + voetganger's
+88786) vogesite + vogesite's (Noun: uncountable)
+88787) voiture + voitures + voiture's
+88788) voiturette + voiturettes + voiturette's
+88789) voiturier + voituriers + voiturier's
+88790) voiturin + voiturins + voiturin's
+88791) volador + voladors + volador's
+88792) voladora + voladoras + voladora's
+88793) volante + volantes + volante's
+88794) volatic
+
+16-NOV-2023
+88795) bloviate +s +ing +ed
+
+23-NOV-2023
+88796) demoness's + demonesses
+88797) parentheticals
+88798) epistemics
+88799) Galician + Galicians + Galician's
+88800) Nantucketer + Nantucketers + Nantucketer's
+88801) demonkind + demonkind's (Noun: uncountable)
+88802) demonifuge + demonifuges + demonifuge's + demonifugic
+88803) demonist + demonists + demonist's + demonistic
+88804) monocarp + monocarps + monocarp's + monocarpic
+88805) monocarpellary
+88806) polycarpellary
+88807) monocarpous
+88808) monocarpy + monocarpy's (Noun: uncountable)
+88809) trepanger + trepangers + trepanger's
+88810) trepanner + trepanners + trepanner's
+88811) slanguage + slanguages + slanguage's
+88812) cryptolect + cryptolects + cryptolect's + cryptolectal
+88813) rakehell + rakehells + rakehell's + rakehelly
+88814) nappier + nappiest
+88815) venery + venery's (Noun: usually uncountable)
+88816) capturable + uncapturable
+88817) mistitle +s +ing +ed
+88818) mistless
+
+25-NOV-2023
+88819) squidge +s +ing +ed
+88820) enterprised
+88821) enthraller + enthrallers + enthraller's
+88822) enthroner + enthroners + enthroner's
+88823) entireness + entireness's
+88824) entomber + entombers + entomber's
+88825) entomofaunal
+88826) entoparasite's
+88827) entrailed
+88828) entrancer + entrancers + entrancer's
+88829) entranceways
+88830) entreatment + entreatments + entreatment's
+88831) entrencher + entrenchers + entrencher's
+88832) entropia + entropia's
+88833) entropyless
+88834) entrustee + entrustees + entrustee's
+88835) entwinement + entwinements + entwinement's
+88836) tenebrists + tenebrist's + tenebristic
 =======
-British English Dictionary (Forked) 3.2.6
+British English Dictionary (Forked) 3.2.7
 by Marco A.G.Pinto
