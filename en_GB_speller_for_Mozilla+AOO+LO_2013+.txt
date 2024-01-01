@@ -98115,6 +98115,300 @@ V3.2.7
 88834) entrustee + entrustees + entrustee's
 88835) entwinement + entwinements + entwinement's
 88836) tenebrists + tenebrist's + tenebristic
+
+
+V3.2.8
+8-DEC-2023
+88837) enunciatively
+88838) enuring
+88839) environal
+88840) environments + environment's
+88841) envisagement + envisagements + envisagement's
+             + envisager + envisagers + envisager's
+88842) envisionment + envisionments + envisionment's
+             + envisioner + envisioners + envisioner's
+88843) enwrapment + enwrapments + enwrapment's
+88844) enzymatical
+88845) enzymically
+88846) eohippuses + eohippi + eohippi's
+88847) epeirogenically
+88848) epenthetical + epenthetically
+88849) epexegetically
+88850) ephemeralities
+88851) ephemerises
+88852) ephemerist + ephemerists + ephemerist's
+88853) epibenthically
+88854) epiblastic
+
+11-DEC-2023
+88855) epicedial
+88856) epicedians + epicedian's
+88857) epideictical + epideictically
+88858) epidermally
+88859) epidermical + epidermically
+88860) epigastrial
+88861) epigeneticist + epigeneticists + epigeneticist's
+88862) epiglottals + epiglottal's
+88863) epigonic
+88864) epigonism + epigonism's
+88865) epigrammatical
+88866) epilations
+88867) epileptical + epileptically
+88868) epilithically
+88869) epimerization + epimerizations + epimerization's
+88870) epimorphicity + epimorphicity's
+88871) epiphenomenally
+88872) epiphytics + epiphytic's + epiphytical + epiphytically
+88873) episcopalianism's
+88874) episcope's
+
+13-DEC-2023
+88875) Temurin + Temurin's
+88876) Adoptium + Adoptium's
+88877) OpenJDK + OpenJDK's
+
+16-DEC-2023
+88878) epistases
+88879) epistatai + epistatai's
+88880) epistaxes
+88881) epistemes + episteme's + epistemai + epistemai's
+88882) epistemicist + epistemicists + epistemicist's
+88883) epistemicism + epistemicism's
+88884) epistemologies
+88885) epitapher + ers + er's + epitaphist + ist's + ists + epitaphy
+88886) epitaxies
+88887) epithelially
+88888) epitomical + epitomically
+
+18-DEC-2023
+88889) planometry + planometry's
+88890) planometric + planometrics + planometrically
+88891) Wittgensteinian + Wittgensteinians + Wittgensteinian's
+              + Wittgensteinianism + Wittgensteinianism's
+88892) dunum + dunum's + dunums
+88893) Angeleno + Angelenos + Angeleno's
+88894) Angelino + Angelinos + Angelino's
+88895) bioacoustic
+88896) Bithynia + Bithynia's + Bithynian + Bithynians + Bithynian's
+88897) liquamen + liquamen's
+88898) undecillion + undecillions + undecillion's
+88899) undecillionth + undecillionths + undecillionth's
+88900) crosshair + crosshairs + crosshair's
+88901) spork + sporks + spork's
+88902) pogromist + pogromists + pogromist's
+88903) methacrylate + methacrylates + methacrylate's
+88904) methacrylic
+88905) methanation + methanations + methanation's
+88906) snollygoster + snollygosters + snollygoster's
+88907) germanous
+88908) gigantoblast + gigantoblasts + gigantoblast's
+88909) gigantocyte + gigantocytes + gigantocyte's
+88910) gigantean
+88911) gigantology + gigantology's + gigantologies
+88912) gigantomachy + gigantomachy's + gigantomachies
+88913) gigantomachia + gigantomachia's
+88914) Gigantostraca
+88915) gingerness + gingerness's
+88916) gingerous
+88917) glossalgia + glossalgias + glossalgia's
+88918) abattis
+88919) jansky + janskies + jansky's + janskys
+88920) millijansky + millijansky's + millijanskies + millijanskys
+88921) lymphopenia + lymphopenias + lymphopenia's + lymphopenic
+88922) lymphogenesis
+88923) lymphogenous + lymphogenously
+88924) lymphography + lymphography's + lymphographies
+88925) lymphogram + lymphograms + lymphogram's
+88926) lymphographic + lymphographical + lymphographically
+88927) lymphomatous
+88928) lymphoidal
+88929) lymphosarcoma +s +'s + lymphosarcomata +'s
+88930) lymphogranuloma +s +'s + lymphogranulomata + 's
+88931) lymphopoiesis + lymphopoieses
+88932) lymphopoietic
+88933) hemidome + hemidomes + hemidome's
+88934) Hemiptera
+88935) hemipteran + hemipteran's + hemipterans
+88936) hemipterous
+88937) hemimorphic
+88938) hemimorphism + hemimorphisms + hemimorphism's
+88939) hemitrope + hemitropes + hemitrope's + hemitropic
+88940) hemitropous
+88941) hemitropy + hemitropy's
+88942) hempweed + hempweeds +hempweed's
+88943) henchwoman + henchwoman's + henchwomen + henchwomen's
+88944) heptarchy + heptarchy's + heptarchies
+88945) heptastich + heptastichs + heptastich's
+88946) heptasyllable + heptasyllables + heptasyllable's
+88947) heptasyllabic
+88948) heptatomic
+88949) heptatonic
+88950) heptadecane + heptadecanes + heptadecane's
+88951) heptahydrate + heptahydrates + heptahydrate's
+88952) heptahydrated
+88953) heptanone + heptanones + heptanone's
+88954) undecane + undecanes + undecane's
+88955) chloramine + chloramines + chloramine's
+88956) chlorapatite + chlorapatites + chlorapatite's
+88957) chorology + chorology's + chorologies
+88958) chorten + chortens + chorten's
+88959) dacryocystotomy + dacryocystotomy's + dacryocystotomies
+88960) dacryostenosis
+88961) dactinomycin + dactinomycin's
+88962) daimonion + daimonion's
+88963) prototonic
+88964) protoveratrine + protoveratrines + protoveratrine's
+88965) pyocyanic
+88966) pyogenic
+88967) pyocolpos
+88968) pyocystis
+88969) pyocyaneus
+88970) pyocyaneous
+88971) sporocyst + sporocysts + sporocyst's + sporocystic
+88972) acrocyst + acrocysts + acrocyst's
+88973) precyst + precysts + precyst's + precystic
+88974) pyramidical + pyramidically
+88975) pyramidale + pyramidales + pyramidalis
+88976) pyramidate + pyramidated
+88977) pyrenocarp + pyrenocarp's
+88978) pyrenocarpous
+88979) pyrenoid + pyrenoids + pyrenoid's
+88980) pyrazole + pyrazoles + pyrazole's
+88981) pyrazoline + pyrazolines + pyrazoline's
+88982) pyrazolone + pyrazolones + pyrazolone's
+88983) piroplasm + piroplasms + piroplasm's + piroplasmic
+88984) piscatorially
+88985) burry + burrier + burriest
+88986) bursal
+88987) bursarship + bursarships + bursarship's
+88988) burse + burses + burse's
+88989) burseraceous
+88990) burweed + burweeds + burweed's
+88991) bushelage + bushelage's
+88992) busheler + bushelers + busheler's
+88993) bushelman + 's + bushelmen + bushelmen's
+88994) buteonine + buteonines + buteonine's
+88995) butlerage + butlerages + butlerage's
+88996) buttony + buttony's
+88997) butyrometer + butyrometers + butyrometer's
+88998) butyrometric
+88999) bysmalith + bysmaliths + bysmalith's
+89000) byssinosis
+89001) Byzantinesque
+89002) calcirudite + calcirudites + calcirudite's
+89003) camphene + camphenes + camphene's
+89004) camphorate + camphorated
+89005) camphorous
+89006) camphory
+89007) campimeter + campimeters + campimeter's
+89008) campimetry + campimetry's + campimetric + campimetrical
+89009) camptonite + camptonites + camptonite's
+89010) canthotomy + canthotomy's + canthotomies
+89011) capilliculture + capilliculture's
+89012) canthoplasty + canthoplasty's + canthoplasties
+89013) canthus + canthuses + canthi + canthi's
+89014) canticum + canticum's + cantica + cantica's
+89015) chasmophyte + chasmophytes + chasmophyte's + chasmophytic
+89016) retromolar
+89017) melanocortin + melanocortins + melanocortin's
+89018) racloir + racloirs + racloir's
+89019) magnetostratigraphy + magnetostratigraphy's
+89020) lithostratigraphy + lithostratigraphy's
+89021) biostratigraphy + biostratigraphy's
+89022) chronostratigraphy + chronostratigraphy's
+89023) thermoremanent
+89024) thermoremanence + thermoremanences + thermoremanence's
+89025) paleomagnetism + paleomagnetism's
+89026) paleomagnetist + paleomagnetists + paleomagnetist's
+89027) tiltmeter + tiltmeters + tiltmeter's
+89028) geomechanics
+89029) periaqueductal + periaqueductally
+89030) retroinsular
+89031) retromammary
+89032) retropharyngeal + retropharyngeally
+89033) retroposition +s +'s + retropositional + retropositionally
+89034) retropulsive
+89035) retropulsion + retropulsions + retropulsion's
+89036) pretrochal
+89037) retrorectal
+89038) revelative
+89039) revelator + revelators + revelator's
+89040) rhabdosome + rhabdosomes + rhabdosome's
+89041) rhamnose + rhamnoses + rhamnose's
+89042) rhamnoside + rhamnosides + rhamnoside's
+89043) rheograph + rheographs + rheograph's
+89044) rheometer + rheometers + rheometer's
+89045) rheoscope + rheoscopes + rheoscope's
+89046) rheostatic + rheostatically
+89047) rheotaxis
+89048) rhinacanthin + rhinacanthins + rhinacanthin's
+89049) rhinolith + rhinoliths + rhinolith's
+89050) rhinolithiasis
+89051) rhinology + rhinology's
+89052) rhinologic + rhinological
+89053) rhinologist + rhinologists + rhinologist's
+89054) rhizobia + rhizobia's + rhizobial + rhizobially
+89055) rhizomatic + rhizomatically
+89056) rhizomic
+89057) rhodanide + rhodanides + rhodanide's
+89058) rhodate + rhodates + rhodate's
+89059) rhodinol + rhodinol's
+89060) rhodite + rhodites + rhodite's
+89061) rhopalium + rhopalium's + rhopalia + rhopalia's
+89062) rhopography + rhopography's
+89063) rhythmicity + rhythmicity's
+89064) rhythmization + rhythmizations + rhythmization's
+89065) ruthenate + ruthenates + ruthenate's
+89066) sedentation
+89067) shonkinite + shonkinites + shonkinite's
+89068) shoshonite + shoshonites + shoshonite's
+89069) shovelnose + shovelnoses + shovelnose's
+89070) sneezeweed + sneezeweeds + sneezeweed's
+89071) sociogenetic + sociogenetically
+89072) sociogenesis + sociogeneses
+89073) sodamide + sodamide's
+89074) staminode + staminodes + staminode's
+89075) staminodium + staminodium's + staminodia + staminodia's
+89076) staminody + staminody's + staminodies
+89077) stamnos + stamnoi + stamnoi's
+89078) starcher + starchers + starcher's
+89079) stereophotograph +s +'s + stereophotographer + ers + er's
+89080) stereophotographic
+89081) stereophotography + stereophotography's
+89082) phantasmogenesis
+89083) phantasmogenetic
+89084) phantasmology + phantasmology's + phantasmological
+89085) phantomatic
+89086) phaneromania + phaneromanias + phaneromania's
+89087) pharmacodynamically
+89088) phenakistoscope + phenakistoscopes + phenakistoscope's
+89089) phenylamine + phenylamines + phenylamine's
+89090) philologue + philologues + philologue's
+89091) philomath + philomaths + philomath's
+89092) philoprogenitiveness + philoprogenitiveness's
+89093) paleotechnic
+89094) neotechnic + neotechnics
+89095) pantophobia + pantophobia's
+89096) pantophobic
+89097) pantopragmatic
+89098) pangram + pangrams + pangram's + pangrammatic
+89099) paragram + paragrams + paragram's
+89100) paragrammatic + paragrammatical + paragrammatically
+89101) panharmonic
+89102) panharmonicon + panharmonicons + panharmonicon's
+89103) harmonicon + harmonicons + harmonicon's
+89104) panification + panifications + panification's
+89105) panplain + panplane
+89106) panpneumatism
+89107) panlogism + panlogism's
+89108) panocha + panochas + panocha's
+89109) pansporoblast + pansporoblasts + pansporoblast's
+89110) sporoblast + sporoblasts + sporoblast's
+89111) sporogenic
+89112) sporogenous
+89113) sporozoite + sporozoites + sporozoite's
+89114) pathometry + pathometry's
+89115) pathophobia + pathophobias + pathophobia's
 =======
-British English Dictionary (Forked) 3.2.7
+British English Dictionary (Forked) 3.2.8
 by Marco A.G.Pinto
