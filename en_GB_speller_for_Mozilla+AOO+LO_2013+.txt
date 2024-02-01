@@ -98409,6 +98409,137 @@ V3.2.8
 89113) sporozoite + sporozoites + sporozoite's
 89114) pathometry + pathometry's
 89115) pathophobia + pathophobias + pathophobia's
+
+
+V3.2.9
+13-JAN-2024
+89116) dissolvable + dissolvables + dissolvable's
+             + dissolvableness + dissolvableness's
+89117) epizoically
+89118) epizoons
+89119) epoxy's
+89120) epyllions
+89121) equanimously
+89122) equate's
+89123) equationally
+89124) equiangularly
+89125) equilaterally
+89126) equilibrator + equilibrators + equilibrator's
+89127) equilibrial
+89128) equilibrist's
+89129) equilibristic + equilibristics
+89130) equinoctially
+89131) equipartitional
+89132) equipollence's
+89133) equipollents + equipollent's + equipollently
+89134) equipotently
+89135) equipotentially
+89136) equispace + equispaces + equispacing
+89137) equivocatory
+89138) equivoke's
+89139) equivoque's
+89140) erathems + erathem's
+89141) eremuruses
+89142) erethisms + erethismic
+89143) ergodically
+89144) ergonomical
+89145) ergospheric + ergospherical
+89146) ergotisms
+89147) eristical + eristically
+89148) erogenousness + erogenousness's
+89149) erosively
+89150) eroticisations + eroticizations
+89151) erotisms
+
+18-JAN-2024
+89152) eruditeness + eruditeness's
+89153) eryngo's + eryngoes
+89154) erythematously
+89155) erythrismal
+89156) erythroblast's
+89157) escalloped + escalloping
+89158) escapological
+89159) eschatologies
+89160) escheat's + escheatment + escheatments + escheatment's
+89161) esoterical
+89162) espousement + espousements + espousement's
+89163) essayistical + essayistically
+89164) esse's + esses
+89165) estuarially
+89166) etch's
+89167) ethnoarchaeologically
+89168) ethnobotanically
+89169) ethnocentrically
+89170) ethnoecologist + ethnoecologists + ethnoecologist's
+89171) ethnogeneses
+89172) ethnographically
+89173) ethnomethodologically
+89174) ethnomusicologically
+89175) ethnopharmacologically
+89176) ethnopsychologist + ethnopsychologists + ethnopsychologist's
+
+23-JAN-2024
+89177) ethnosemantically
+89178) ethologically
+89179) ethe + ethe's + ethea + ethea's
+89180) ethoxylation + ethoxylations + ethoxylation's
+89181) ethylic
+89182) ethylbenzenehydroperoxide + ethylbenzenehydroperoxide's
+89183) Etruscological
+89184) etymonically
+89185) eucalyptic
+89186) eucatastrophic + eucatastrophically
+89187) Eucharistically
+89188) euchologia + euchologia's
+89189) 
+
+24-JAN-2024
+89190) euchological
+89191) euchromatically
+89192) euchromatinic
+89193) Euclideanness + Euclideanness's
+89194) eugenical
+89195) eugeosynclinal
+89196) euhedrally
+89197) euhedralism + euhedralism's
+89198) eukaryotically
+89199) eulogiae + eulogiae's
+89200) eulogistical + eulogistically
+89201) eunuchism + eunuchism's
+89202) eunuchoidal
+89203) eunuchoidism + eunuchoidisms + eunuchoidism's
+89204) eupepticism + eupepticism's
+89205) euphemistical
+89206) euphoniousness + euphoniousness's
+89207) euphonically
+89208) euphuistically
+89209) Euramerican
+89210) eurhythmical
+89211) Eurocentrically
+89212) Euroclear's
+89213) Euroconvertible's
+89214) Euroequity's
+89215) Euromart's
+89216) Euronet's
+89217) Euronote's
+89218) Europarliamentarian's
+89219) Europoort's
+89220) euroterminal's
+89221) eusocially
+89222) eustatically
+89223) eutopians + eutopian's
+89224) eutrophications
+89225) eutrophically
+89226) evangelisations + evangelizations
+89227) evanishment + evanishments + evanishment's
+89228) evictable
+89229) evitability + evitability's
+89230) evincement + evincements + evincement's
+89231) evolutionistically
+89232) evolutively + evolutiveness + evolutiveness's
+89233) evolvability + evolvability's + evolvabilities
+89234) ex-convict + ex-convicts + ex-convict's
+89235) ex-student + ex-student's
 =======
-British English Dictionary (Forked) 3.2.8
+British English Dictionary (Forked) 3.2.9
 by Marco A.G.Pinto
