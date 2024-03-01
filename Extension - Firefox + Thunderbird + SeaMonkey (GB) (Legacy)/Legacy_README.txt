@@ -8,3 +8,8 @@ dictionary isn't automatically updated to the WebExtension
 version on Mozilla's site.
 
 You will have to manually update the dictionary every month.
+
+=====
+
+Installing GB speller legacy on Waterfox 2019.10 – 2019.11.20:
+https://youtu.be/834mj6cDxnk
