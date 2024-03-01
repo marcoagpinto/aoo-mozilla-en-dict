@@ -98540,6 +98540,138 @@ V3.2.9
 89233) evolvability + evolvability's + evolvabilities
 89234) ex-convict + ex-convicts + ex-convict's
 89235) ex-student + ex-student's
+
+
+V3.3.0
+7-FEB-2024
+89236) exactress + exactresses + exactress's
+89237) exaggeratory
+89238) examinationless
+89239) exanimation + exanimation's
+89240) exanthemas
+89241) exaptational
+89242) exarchal
+89243) exarchy + exarchy's + exarchies
+89244) exasperater + exasperater's + exasperaters
+89245) excavatory + excavatorial
+89246) excentrical + excentrically
+89247) exceptionalist + exceptionalists + exceptionalist's
+89248) exchange's
+89249) exchequership + exchequership's
+89250) excitably
+89251) excitonic + excitonically + excitonics
+89252) excogitations
+89253) excretable
+89254) executrixes
+89255) exemplaries + exemplary's
+89256) exercise's
+89257) exergonically
+89258) exfiltrations
+89259) exfoliations
+89260) exfoliatory
+89261) exhaust's
+89262) exhibitionistically
+
+11-FEB-2024
+89263) exhibitorship + exhibitorship's + exhibitorships
+89264) exhortatively
+89265) exiguously
+89266) exiler + exilers + exiler's + exilement + exilements + exilement's
+89267) eximiously
+89268) exineless
+89269) existentialistically
+89270) exobiologically
+89271) exodi + exodi's
+89272) exogamously
+89273) exogamic
+89274) exogenically
+89275) exogenousity + exogenousity's
+89276) exonically
+89277) exophorically
+89278) exopodal
+89279) exopoditic
+89280) exorciser + exorcisers + exorciser's + -ize forms
+89281) exoskeletally
+89282) exosporial
+89283) exotical
+89284) exotical + exotically + exoticalness + exoticalness's
+89285) expatriate's
+89286) expediential + expedientially
+89287) expeditionary (changed to lowercase)
+89288) expendable's
+89289) experientialist + experientialists + experientialist's
+89290) experientiality + experientiality's
+89291) experimentally
+89292) expertise's
+89293) explanting + explant's + explantations
+
+24-FEB-2024
+89294) expletively + expletiveness + expletiveness's
+89295) explicately
+89296) exploitatively + exploitativeness + exploitativeness's
+89297) explorables + explorable's
+89298) exploratively + explorativeness + explorativeness's
+89299) express's
+89300) expressionist + expressionists + expressionist's + expressionally
+89301) expulsionist + expulsionists + expulsionist's
+89302) exsanguinations
+89303) exsanguined + exsanguineous
+89304) extracorporeally + extracorporeality + extracorporeality's
+89305) extracurricular's
+89306) extradoses
+89307) extragalactically
+89308) extralinguistically
+89309) extramaritally
+89310) extrametrically + extrametricality + extrametricality's
+89311) extramurally
+89312) extranuclearly
+89313) extraocularly
+89314) extraordinary's
+89315) extrapyramidally + extrapyramidalism + extrapyramidalism's
+89316) extraterrestrially + extraterrestriality + extraterrestriality's
+89317) extraterrestrialness + extraterrestrialness's
+89318) extraterritorially
+89319) extravagantness + extravagantness's
+89320) extravascularly
+89321) extremally
+89322) extremum's
+89323) scrutator's
+89324) pestiferously + pestiferousness + pestiferousness's
+89325) incorporeality's
+89326) lipophilicity + lipophilicity's + lipophilicities
+89327) liposomally
+89328) spadeworker + spadeworkers + spadeworker's
+89329) spakely
+89330) gyromagnetically
+89331) alnicos + alnico's
+89332) alpargata's
+89333) alpenhorn's
+89334) alpenstock's + alpenstocker + alpenstockers + alpenstocker's
+89335) alphamerical + alphamerically
+89336) alphabetarian's
+89337) conformability's + conformabilities
+89338) conformity's
+89339) confrere's
+89340) conflux's
+89341) ruche's
+89342) smooth-talks + ing +ed +er +ers +er's
+89343) uranoscopy's
+89344) uranyls + uranyl's + uranylic
+89345) saintdoms
+89346) shereef's
+89347) sheriffdom's
+89348) shikari's
+89349) shipmaster's
+89350) shippon's
+89351) shiralee's
+89352) shipshapely
+89353) shippen's
+89354) tonicities
+89355) psychophonetically
+89356) interlinkages + interlinkage's
+89357) internonces + internonce's
+89358) quadrantic
+89359) quadrantanopia
 =======
-British English Dictionary (Forked) 3.2.9
+British English Dictionary (Forked) 3.3.0
 by Marco A.G.Pinto
