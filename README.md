@@ -19,6 +19,8 @@ I <B>(Marco Pinto)</B> am only improving the en_GB. Kevin Atkinson maintains the
 
 I will release monthly updates. AOO admins may disable automatic updates when they are about to release a new version of AOO, so that when you install their package, you won't be prompted to update the dictionaries.
 
+Both extensions for AOO and LO are identical, basically the only differences is the wording of <B>“for OpenOffice 4.0+”</B>/<B>“for LibreOffice 4.0+”</B> and the extension sites URLs.
+
 Notice the <B>“en_GB_speller_for_Mozilla+AOO+LO_2013+.txt”</B> above, where I keep a changelog.
 
 I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website: https://proofingtoolgui.org
