@@ -98672,6 +98672,147 @@ V3.3.0
 89357) internonces + internonce's
 89358) quadrantic
 89359) quadrantanopia
+
+
+V3.3.1
+17-MAR-2024
+89360) isolationists + isolationist's + isolationistically
+89361) isoechoicity + isoechoicity's
+89362) isoseismals + isoseismal's
+89363) Ithacans + Ithacan's
+89364) itinerancy's
+89365) itinerating
+89366) IUD's
+89367) myxoedemas + myxoedema's
+89368) mythomanias
+89369) mythomaniac + mythomaniacs + mythomaniac's + mythomaniacal
+89370) mythoi's
+89371) patrolettes + patrolette's
+89372) pawkinesses
+89373) Pavlovianly
+89374) pawnbrokerages + pawnbrokerage's
+89375) pawnbrokeress's + pawnbrokeresses
+89376) tabetics + tabetic's
+89377) table-tops + table-top's
+89378) tankages + tankage's
+89379) tauonium's + tauonia's
+89380) taus
+89381) tonsorially
+89382) torchons
+89383) toppler + topplers + toppler's
+89384) toshes
+89385) torturously
+89386) traditionary's + traditionaries
+89387) subcaudals + subcaudally
+89388) subconjunctivally
+89389) subclinically
+89390) subcortically
+89391) subcritically
+89392) Ugrians + Ugrian's
+89393) macrobiotically
+89394) maeandrines
+89395) magistrateships + magistrateship's
+
+19-MAR-2024
+89396) exclusory
+89397) excludable + excludables + excludable's
+89398) excludible
+89399) excludee + excludees + excludee's
+89400) exclusionism + exclusionisms + exclusionism's
+89401) exclusionist + exclusionists + exclusionist's
+89402) exclusionistic
+
+23-MAR-2024
+89403) colloquia's + colloquially
+89404) blat + blat's + blats + blatted
+89405) playlist's
+89406) playslips + playslip's
+89407) sexualist's + sexualistic
+89408) agnail's
+89409) airdrop's
+89410) airburst's
+89411) airmanship's
+89412) ajutage's
+89413) akee's
+89414) akathisias + akathisia's
+89415) akinesias + akinesia's
+89416) akvavits
+89417) Alaskan's
+89418) alb's
+89419) alasses
+89420) alarmism's
+89421) albas
+89422) albuminoidal + albuminoid's
+89423) albuminousness + albuminousness's
+89424) albuminurias + albuminuria's
+89425) alcahest's
+89426) alcalde's
+89427) algology's + algologically
+89428) algae's
+89429) algaecides + algaecide's
+89430) betwixtness + betwixtness's
+89431) biculturals + bicultural's
+89432) biculturality + biculturality's
+89433) bioacoustical + bioacoustically
+89434) bioactives + bioactive's + bioactively
+
+25-MAR-2024
+89435) barratrously
+89436) erratical + erratically + erraticalness + erraticalness's
+89437) Eurozone + Eurozone's (added uppercase)
+89438) eyestalks + eyestalk's + eyestalkless
+89439) facie's
+89440) faïence's
+89441) falciformity + falciformity's
+89442) Fanny's
+89443) fartleks
+89444) felafels
+89445) fellage's
+89446) felty's + felties
+89447) feverously
+89448) filagrees + filagreeing
+89449) filamentously
+89450) figuring's
+89451) friendlihood's
+89452) frier + friers
+89453) frippets
+89454) fringier + fringiest
+89455) froid's
+89456) fugaciously + fugaciousness + fugaciousness's
+89457) inauspiciousness's
+89458) incautiousness's
+89459) incendiarisms
+89460) inhabitances + inhabitance's
+89461) nectareously
+89462) neptunocenes + neptunocene's
+89463) nerkas + nerka's
+89464) undershrub's
+
+26-MAR-2024
+89465) psychologic
+89466) continuingly
+
+28-MAR-2024
+89467) holeyness + holeyness's
+89468) holozoically
+89469) hosps + hosp's
+89470) humorally
+89471) ice-skates + ice-skated + ice-skate's
+89472) ideationally
+89473) ideographical + ideographically
+89474) idolatress's
+89475) igneously + igneousness + igneousness's
+89476) illuminisms + illuminism's
+89477) illusionisms
+89478) imaginableness's
+89479) misdirector's
+89480) mishaps
+89481) miserabilism's
+89482) modulo's
+89483) molluscoids + molluscoid's + molluscoidal
+
+30-MAR-2024
+89484) seculars
 =======
-British English Dictionary (Forked) 3.3.0
+British English Dictionary (Forked) 3.3.1
 by Marco A.G.Pinto
