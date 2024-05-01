@@ -114,6 +114,7 @@ abbreviated
 abbreviates
 abbreviating
 abbreviation
+abbreviation's
 abbreviated
 unabbreviated
 abbreviation
@@ -125,6 +126,7 @@ abdicates
 abdication
 abdications
 abdication
+abdication's
 abdication
 abdication's
 abdomen
@@ -238,6 +240,7 @@ abjurations
 abjuratory
 abjuring
 abjuration
+abjuration's
 Abkhazian
 ablate
 ablated
@@ -252,6 +255,7 @@ abler
 ablest
 ablatively
 ablation
+ablation's
 ablation
 ablations
 ablative
@@ -269,6 +273,7 @@ abnegation
 abnegations
 abnegates
 abnegation
+abnegation's
 abnegation
 abnegation's
 abnormal
@@ -306,6 +311,7 @@ abominate
 abominates
 abominating
 abomination
+abomination's
 abominated
 abomination
 abominations
@@ -353,6 +359,7 @@ abrasive
 abraded
 abrades
 abrasion
+abrasion's
 abrasively
 abrader
 abrader's
@@ -389,6 +396,7 @@ abrogating
 abrogation
 abrogations
 abrogation
+abrogation's
 abrogated
 abrogation
 abrogation's
@@ -488,6 +496,7 @@ absorptions
 absorptive
 absorbing
 absorption
+absorption's
 absorbed
 unabsorbed
 reabsorbed
@@ -662,6 +671,7 @@ acceding
 accelerate
 accelerated
 acceleration
+acceleration's
 accelerating
 accelerative
 acceleratingly
@@ -692,6 +702,7 @@ accentuation
 accentuations
 accentuates
 accentuation
+accentuation's
 accentuation
 accentuation's
 accept
@@ -735,6 +746,7 @@ accessory
 accessions
 accessing
 accession
+accession's
 accessed
 accessible
 accessibility
@@ -780,6 +792,7 @@ acclamations
 acclimate
 acclimating
 acclimation
+acclimation's
 acclimatizer
 acclimatizer's
 acclimatizers
@@ -832,6 +845,7 @@ accommodatingly
 accommodative
 accommodating
 accommodation
+accommodation's
 accommodativeness
 accommodates
 accommodation
@@ -958,6 +972,7 @@ accruing
 acct
 acculturate
 acculturation
+acculturation's
 acculturative
 acculturation
 acculturations
@@ -970,6 +985,7 @@ accumulate
 accumulates
 accumulating
 accumulation
+accumulation's
 accumulative
 accumulatively
 accumulated
@@ -1038,6 +1054,7 @@ action
 actions
 active
 action
+action's
 actively
 activeness
 acer
@@ -1140,6 +1157,7 @@ acidifies
 acidifying
 acidified
 acidification
+acidification's
 acidity
 acidity's
 acidities
@@ -1347,24 +1365,28 @@ activations
 activated
 activating
 activation
+activation's
 deactivate
 deactivation
 deactivations
 deactivated
 deactivating
 deactivation
+deactivation's
 inactivate
 inactivation
 inactivations
 inactivated
 inactivating
 inactivation
+inactivation's
 reactivate
 reactivation
 reactivations
 reactivated
 reactivating
 reactivation
+reactivation's
 activates
 deactivates
 inactivates
@@ -1383,6 +1405,7 @@ active
 activation
 activations
 activation
+activation's
 activist
 activist's
 activists
@@ -1444,6 +1467,7 @@ actuarially
 actuaries
 actuate
 actuation
+actuation's
 actuating
 actuated
 actuates
@@ -1507,6 +1531,7 @@ adaptedness
 adaptability
 adaptable
 adaptation
+adaptation's
 adapter
 adapter's
 adapters
@@ -1601,6 +1626,7 @@ adduce
 adduces
 adduced
 adduction
+adduction's
 adductive
 adducible
 adducing
@@ -1685,6 +1711,7 @@ adiabatically
 adieu
 adieus
 adieux
+adieux's
 adiós
 adipose
 adiposes
@@ -1724,6 +1751,7 @@ adjudicating
 adjudication
 adjudications
 adjudication
+adjudication's
 adjudication
 adjudication's
 adjudicator
@@ -1743,6 +1771,7 @@ adjured
 adjuration
 adjurations
 adjuration
+adjuration's
 adjust
 adjustive
 adjustment
@@ -1779,6 +1808,7 @@ administered
 administering
 administers
 administration
+administration's
 administrable
 administrate
 administrated
@@ -1806,6 +1836,7 @@ admiration
 admiration's
 admire
 admiration
+admiration's
 admired
 admirably
 admiration
@@ -1830,12 +1861,14 @@ readmission
 readmission's
 admit
 admission
+admission's
 admissions
 admitted
 admitting
 admits
 readmit
 readmission
+readmission's
 readmissions
 readmitted
 readmitting
@@ -1870,6 +1903,7 @@ adoptive
 adoptively
 adobes
 adoption
+adoption's
 adoptions
 adolescence
 adolescence's
@@ -1913,6 +1947,7 @@ adored
 adoringly
 adores
 adoration
+adoration's
 adorer
 adorer's
 adorers
@@ -1960,6 +1995,7 @@ adsorptively
 adsorbed
 adsorbing
 adsorption
+adsorption's
 adsorbate
 adsorbate's
 adsorbent
@@ -1968,6 +2004,7 @@ adsorption's
 ADte
 adulate
 adulation
+adulation's
 adulatory
 adulated
 adulating
@@ -1990,6 +2027,7 @@ adulterant's
 adulterants
 adulterate
 adulteration
+adulteration's
 adulterates
 adulterating
 adulteration
@@ -2015,6 +2053,7 @@ adulthood's
 adulthoods
 adumbrate
 adumbration
+adumbration's
 adumbrative
 adumbratively
 adumbrates
@@ -2194,6 +2233,7 @@ aerate
 aerates
 aerated
 aeration
+aeration's
 aeration
 aerations
 aerating
@@ -2268,6 +2308,7 @@ aestheticisms
 aestival
 aestivate
 aestivation
+aestivation's
 aether
 aether's
 aetiology
@@ -2297,6 +2338,7 @@ affecting
 affectively
 affectedly
 affectation
+affectation's
 affectedness
 affects
 affectingly
@@ -2344,6 +2386,7 @@ affiliating
 affiliation
 affiliations
 affiliation
+affiliation's
 affiliates
 disaffiliate
 disaffiliated
@@ -2351,6 +2394,7 @@ disaffiliating
 disaffiliation
 disaffiliations
 disaffiliation
+disaffiliation's
 disaffiliates
 affiliated
 unaffiliated
@@ -2366,6 +2410,7 @@ affirm
 affirmation
 affirmations
 affirmation
+affirmation's
 affirming
 affirmed
 affirms
@@ -2373,6 +2418,7 @@ reaffirm
 reaffirmation
 reaffirmations
 reaffirmation
+reaffirmation's
 reaffirming
 reaffirmed
 reaffirms
@@ -2414,6 +2460,7 @@ unaffordable
 afforest
 afforested
 afforestation
+afforestation's
 afforesting
 afforests
 afforestation
@@ -2430,6 +2477,7 @@ affricative
 affricate's
 affricates
 affrication
+affrication's
 affrication
 affrication's
 affricative
@@ -2613,6 +2661,7 @@ Aggie's
 agglomerate
 agglomerated
 agglomeration
+agglomeration's
 agglomerates
 agglomeration
 agglomerations
@@ -2624,6 +2673,7 @@ agglutinate
 agglutinative
 agglutinating
 agglutination
+agglutination's
 agglutinated
 agglutinates
 agglutination
@@ -2653,6 +2703,7 @@ aggravation
 aggravations
 aggravatingly
 aggravation
+aggravation's
 aggravated
 aggravates
 aggravation
@@ -2662,11 +2713,13 @@ aggregated
 aggregating
 aggregates
 aggregation
+aggregation's
 disaggregate
 disaggregated
 disaggregating
 disaggregates
 disaggregation
+disaggregation's
 aggregately
 aggregation
 aggregations
@@ -2705,6 +2758,7 @@ agitates
 agitative
 agitating
 agitation
+agitation's
 agitation
 agitations
 agitated
@@ -3337,6 +3391,7 @@ alien
 alien's
 aliening
 alienation
+alienation's
 alienation
 alienations
 aliens
@@ -3467,6 +3522,7 @@ allegation
 allegations
 alleged
 allegation
+allegation's
 alleges
 allegedly
 alleging
@@ -3521,6 +3577,7 @@ allergically
 allergy's
 alleviate
 alleviation
+alleviation's
 alleviation
 alleviations
 alleviated
@@ -3557,6 +3614,7 @@ Allison's
 alliterate
 alliterated
 alliteration
+alliteration's
 alliterating
 alliteration
 alliterations
@@ -3574,6 +3632,7 @@ allocating
 allocation
 allocations
 allocation
+allocation's
 allocated
 deallocate
 deallocates
@@ -3581,6 +3640,7 @@ deallocating
 deallocation
 deallocations
 deallocation
+deallocation's
 deallocated
 reallocate
 reallocates
@@ -3588,6 +3648,7 @@ reallocating
 reallocation
 reallocations
 reallocation
+reallocation's
 reallocated
 preallocate
 preallocates
@@ -3595,6 +3656,7 @@ preallocating
 preallocation
 preallocations
 preallocation
+preallocation's
 preallocated
 allocated
 unallocated
@@ -3666,6 +3728,7 @@ allspice's
 Allstate
 allude
 allusion
+allusion's
 allusiveness
 alluded
 allusions
@@ -3829,6 +3892,7 @@ alteration's
 alterations
 altercate
 altercation
+altercation's
 altercation
 altercations
 altercation
@@ -3842,6 +3906,7 @@ alternately
 alternates
 alternating
 alternation
+alternation's
 alternative
 alternativeness
 alternation
@@ -4038,6 +4103,7 @@ unambiguously
 ambit
 ambit's
 ambition
+ambition's
 ambitions
 ambition
 ambition's
@@ -4077,6 +4143,7 @@ ambulants
 ambulate
 ambulating
 ambulation
+ambulation's
 ambulation
 ambulations
 ambulates
@@ -4114,6 +4181,7 @@ ameliorations
 ameliorated
 ameliorates
 amelioration
+amelioration's
 amelioration
 amelioration's
 amen
@@ -4310,6 +4378,7 @@ amortized
 amortizing
 amortizes
 amortization
+amortization's
 Amos
 amount
 amounted
@@ -4367,6 +4436,7 @@ amplifiers
 amplification
 amplifications
 amplification
+amplification's
 amplified
 amplifies
 amplifying
@@ -4383,6 +4453,7 @@ amputating
 amputated
 amputates
 amputation
+amputation's
 amputation
 amputation's
 amputee
@@ -4485,6 +4556,7 @@ anaesthetizer
 anaesthetizer's
 anaesthetizers
 anaesthetization
+anaesthetization's
 anaesthetized
 anaesthetizes
 anaesthetizing
@@ -4817,6 +4889,7 @@ Anglicization
 Anglicizations
 Anglicized
 Anglicization
+Anglicization's
 angling
 angling's
 Anglo
@@ -4910,6 +4983,7 @@ animated
 animates
 animating
 animation
+animation's
 animation
 animations
 reanimate
@@ -4917,6 +4991,7 @@ reanimated
 reanimates
 reanimating
 reanimation
+reanimation's
 reanimation
 reanimations
 animated
@@ -5028,6 +5103,7 @@ Annieville
 annihilate
 annihilating
 annihilation
+annihilation's
 annihilated
 annihilates
 annihilation
@@ -5046,6 +5122,7 @@ annotate
 annotating
 annotated
 annotation
+annotation's
 annotative
 annotates
 annotation
@@ -5112,6 +5189,7 @@ annunciate
 annunciated
 annunciating
 annunciation
+annunciation's
 annunciation
 annunciations
 annunciates
@@ -5372,6 +5450,7 @@ anticipating
 anticipatively
 anticipatory
 anticipation
+anticipation's
 anticipated
 anticipated
 unanticipated
@@ -5514,6 +5593,7 @@ antique
 antiquing
 antiqued
 antiquation
+antiquation's
 antique's
 antiques
 antiquity
@@ -5898,6 +5978,7 @@ appellate
 appellative
 appellatively
 appellation
+appellation's
 appellation
 appellations
 appellation
@@ -6006,6 +6087,7 @@ appliqués
 appliquéd
 apply
 application
+application's
 application
 applications
 applier
@@ -6099,6 +6181,7 @@ appreciation
 appreciations
 appreciative
 appreciation
+appreciation's
 appreciatory
 appreciated
 unappreciated
@@ -6117,12 +6200,14 @@ appreciator's
 appreciators
 apprehend
 apprehension
+apprehension's
 apprehended
 apprehending
 apprehensions
 apprehends
 misapprehend
 misapprehension
+misapprehension's
 misapprehended
 misapprehending
 misapprehensions
@@ -6170,6 +6255,7 @@ approbate
 approbation
 approbations
 approbation
+approbation's
 approbation
 approbation's
 approbations
@@ -6185,6 +6271,7 @@ appropriateness's
 appropriates
 appropriative
 appropriation
+appropriation's
 appropriating
 appropriation
 appropriations
@@ -6239,6 +6326,7 @@ approximates
 approximation
 approximations
 approximation
+approximation's
 approximative
 approximating
 approximatively
@@ -6369,6 +6457,7 @@ Arbex
 arbiter
 arbiters
 arbitration
+arbitration's
 arbiter's
 arbitration
 arbitrations
@@ -6654,6 +6743,7 @@ outarguing
 argument
 argument's
 argumentation
+argumentation's
 argumentation
 argumentations
 arguments
@@ -6986,6 +7076,7 @@ arrogate
 arrogating
 arrogates
 arrogation
+arrogation's
 arrogated
 arrogation
 arrogations
@@ -7095,6 +7186,7 @@ articulate
 articulation
 articulations
 articulation
+articulation's
 articulatory
 articulated
 articulately
@@ -7200,6 +7292,7 @@ ascender
 ascender's
 ascenders
 ascension
+ascension's
 ascends
 ascensions
 ascended
@@ -7244,6 +7337,7 @@ ascribes
 ascriptions
 ascribing
 ascription
+ascription's
 ascriptive
 ascribed
 ascription
@@ -7408,6 +7502,7 @@ aspiration
 aspirations
 aspired
 aspiration
+aspiration's
 aspires
 aspiring
 aspirer
@@ -7447,6 +7542,7 @@ assassination
 assassinations
 assassins
 assassination
+assassination's
 assassinate
 assassinated
 assassinates
@@ -7574,6 +7670,7 @@ asseveration
 asseverations
 asseverates
 asseveration
+asseveration's
 asseverating
 asseverated
 asseveration
@@ -7593,6 +7690,7 @@ assigner
 assigner's
 assigners
 assignation
+assignation's
 assigning
 assigns
 assignable
@@ -7627,6 +7725,7 @@ assimilates
 assimilation
 assimilations
 assimilation
+assimilation's
 assimilated
 assimilative
 assimilation
@@ -7665,6 +7764,7 @@ associating
 associated
 associates
 association
+association's
 disassociate
 disassociation
 disassociations
@@ -7672,6 +7772,7 @@ disassociating
 disassociated
 disassociates
 disassociation
+disassociation's
 associateship
 association
 association's
@@ -7715,6 +7816,7 @@ assumptive
 assuming
 assumed
 assumption
+assumption's
 assumes
 assumer
 assumer's
@@ -8171,6 +8273,7 @@ attenuations
 attenuated
 attenuates
 attenuation
+attenuation's
 attenuated
 unattenuated
 attenuation
@@ -8181,6 +8284,7 @@ attenuators
 Atteridgeville
 attest
 attestation
+attestation's
 attests
 attested
 attesting
@@ -8348,6 +8452,7 @@ audits
 audited
 auditing
 audition
+audition's
 auditory
 audited
 unaudited
@@ -8381,6 +8486,7 @@ augmentations
 augmenting
 augmented
 augmentation
+augmentation's
 augmentation
 augmentation's
 augmentative
@@ -8454,6 +8560,7 @@ auscultates
 auscultated
 auscultating
 auscultation
+auscultation's
 auscultation
 auscultation's
 auspice
@@ -8508,6 +8615,7 @@ Austronesian
 auteur
 authentic
 authentication
+authentication's
 authentication
 authentications
 authentically
@@ -8587,6 +8695,7 @@ authorized
 authorizes
 authorizing
 authorization
+authorization's
 authorization
 authorizations
 reauthorize
@@ -8594,6 +8703,7 @@ reauthorized
 reauthorizes
 reauthorizing
 reauthorization
+reauthorization's
 reauthorization
 reauthorizations
 authorized
@@ -8631,6 +8741,7 @@ autocollimator
 autocollimator's
 autocorrelate
 autocorrelation
+autocorrelation's
 autocorrelation
 autocorrelations
 autocorrelated
@@ -8685,6 +8796,7 @@ automatising
 automated
 automates
 automation
+automation's
 automation
 automations
 automatize
@@ -8819,6 +8931,7 @@ aversely
 averseness
 averseness's
 aversion
+aversion's
 aversive
 aversion
 aversion's
@@ -8839,6 +8952,7 @@ aviary's
 Aviaryhill
 aviate
 aviation
+aviation's
 aviation
 aviations
 aviation
@@ -9750,6 +9864,7 @@ balkanization
 balkanizations
 balkanizes
 balkanization
+balkanization's
 balkanized
 ball-bearing
 ball-bearings
@@ -10719,6 +10834,7 @@ bastardy
 bastardy's
 baste
 bastion
+bastion's
 bastes
 bastion
 bastions
@@ -11158,6 +11274,7 @@ beatification's
 beatify
 beatific
 beatification
+beatification's
 beatified
 beatifying
 beatification
@@ -11179,6 +11296,7 @@ beau
 beau's
 beaus
 beaux
+beaux's
 Beauchamps
 Beaufort
 Beaufort's
@@ -11208,6 +11326,7 @@ beautifies
 beautified
 beautific
 beautification
+beautification's
 beautifying
 beauty
 beautiful
@@ -12614,6 +12733,7 @@ bifurcations
 bifurcating
 bifurcates
 bifurcation
+bifurcation's
 bifurcated
 bifurcation
 bifurcation's
@@ -15367,6 +15487,7 @@ bowdlerises
 bowdlerising
 bowdlerize
 bowdlerization
+bowdlerization's
 bowdlerization
 bowdlerizations
 bowdlerizes
@@ -17531,6 +17652,7 @@ burdocks
 bureau
 bureaus
 bureaux
+bureaux's
 bureau's
 bureaucracy
 bureaucracy's
@@ -18103,6 +18225,7 @@ c.elegans
 C.Lit.
 c
 cation
+cation's
 cation
 cations
 Ca
@@ -18113,6 +18236,7 @@ cabbing
 cab's
 captions
 caption
+caption's
 cabbed
 cabs
 captive
@@ -18421,6 +18545,7 @@ calcification's
 calcify
 calcifying
 calcification
+calcification's
 calcifies
 calcification
 calcifications
@@ -18456,6 +18581,7 @@ calculatedness
 calculatingly
 calculating
 calculation
+calculation's
 calculative
 calculates
 calculation
@@ -18523,11 +18649,13 @@ calibrate
 calibrates
 calibrated
 calibration
+calibration's
 calibrating
 recalibrate
 recalibrates
 recalibrated
 recalibration
+recalibration's
 recalibrating
 calibrater's
 calibration
@@ -18538,6 +18666,7 @@ calibrator's
 calibre
 calibres
 calibration
+calibration's
 calibration
 calibrations
 calibre's
@@ -18673,6 +18802,7 @@ calumniated
 calumniates
 calumniating
 calumniation
+calumniation's
 calumniation
 calumniation's
 calumniator
@@ -18924,6 +19054,7 @@ cancels
 Cancele
 cancellate
 cancellation
+cancellation's
 cancellation
 cancellations
 cancellated
@@ -19332,6 +19463,7 @@ capitalistic
 capitalistically
 capitalize
 capitalization
+capitalization's
 capitalized
 capitalization
 capitalizations
@@ -19339,6 +19471,7 @@ capitalizes
 capitalizing
 recapitalize
 recapitalization
+recapitalization's
 recapitalized
 recapitalization
 recapitalizations
@@ -19361,6 +19494,7 @@ capitulation
 capitulations
 capitulates
 capitulation
+capitulation's
 recapitulate
 recapitulating
 recapitulated
@@ -19368,6 +19502,7 @@ recapitulation
 recapitulations
 recapitulates
 recapitulation
+recapitulation's
 capitulation
 capitulation's
 recapitulation
@@ -19457,6 +19592,7 @@ captivators
 captivator's
 captive
 captivation
+captivation's
 captivation
 captivations
 captive's
@@ -19575,6 +19711,7 @@ carbonized
 carbonizes
 carbonizing
 carbonation
+carbonation's
 carbonisation
 carbonisations
 carbon's
@@ -20253,6 +20390,7 @@ caster
 castration
 castrations
 castration
+castration's
 casteth
 castigate
 castigated
@@ -20260,6 +20398,7 @@ castigation
 castigations
 castigating
 castigation
+castigation's
 castigates
 castigation
 castigation's
@@ -20487,8 +20626,10 @@ categorical
 categorically
 catenate
 catenation
+catenation's
 concatenate
 concatenation
+concatenation's
 catenation
 catenation's
 concatenation
@@ -20663,6 +20804,7 @@ cauterize
 cauterizes
 cauterizing
 cauterization
+cauterization's
 cauterization
 cauterizations
 cauterized
@@ -20874,6 +21016,7 @@ celebrating
 celebration
 celebrations
 celebration
+celebration's
 celebrated
 celebratedness
 celebratedness's
@@ -21091,6 +21234,7 @@ centralizes
 centralization
 centralizations
 centralization
+centralization's
 decentralize
 decentralized
 decentralizing
@@ -21098,6 +21242,7 @@ decentralizes
 decentralization
 decentralizations
 decentralization
+decentralization's
 recentralize
 recentralized
 recentralizing
@@ -21105,6 +21250,7 @@ recentralizes
 recentralization
 recentralizations
 recentralization
+recentralization's
 centre
 centrer
 centrer's
@@ -21143,6 +21289,7 @@ centrifugation
 centrifugation's
 centrifuge
 centrifugation
+centrifugation's
 centrifuging
 centrifuge's
 centrifuged
@@ -21270,6 +21417,7 @@ certify
 certified
 certifying
 certification
+certification's
 certifies
 certification
 certifications
@@ -21277,6 +21425,7 @@ decertify
 decertified
 decertifying
 decertification
+decertification's
 decertifies
 decertification
 decertifications
@@ -21667,6 +21816,7 @@ chapbook's
 chapeau
 chapeaus
 chapeaux
+chapeaux's
 chapeau's
 chapel
 chapels
@@ -21955,6 +22105,7 @@ chatting
 château
 châteaus
 châteaux
+châteaux's
 château's
 chateaubriand
 châtelaine
@@ -22162,6 +22313,7 @@ Chekhov
 chelate
 chelate's
 chelation
+chelation's
 chelation
 chelations
 chelating
@@ -22696,15 +22848,18 @@ chlorinated
 chlorinates
 chlorinating
 chlorination
+chlorination's
 dechlorinate
 dechlorinated
 dechlorinates
 dechlorinating
 dechlorination
+dechlorination's
 chlorination
 chlorination's
 chlorine
 chlorination
+chlorination's
 chlorination
 chlorinations
 chlorine's
@@ -23334,6 +23489,7 @@ circulations
 circulated
 circulating
 circulation
+circulation's
 circulative
 circulated
 recirculated
@@ -23349,6 +23505,7 @@ circulator
 circumcise
 circumcising
 circumcision
+circumcision's
 circumcisions
 circumcises
 circumcised
@@ -23380,6 +23537,7 @@ circumnavigation
 circumnavigations
 circumnavigated
 circumnavigation
+circumnavigation's
 circumnavigating
 circumnavigation
 circumnavigation's
@@ -23389,6 +23547,7 @@ circumscribed
 circumscribing
 circumscribes
 circumscription
+circumscription's
 circumscriptions
 circumscription
 circumscription's
@@ -23443,6 +23602,7 @@ recitation
 recitation's
 cite
 citation
+citation's
 cites
 citing
 city
@@ -23732,6 +23892,7 @@ clarify
 clarification
 clarifications
 clarification
+clarification's
 clarified
 clarifies
 clarifying
@@ -23838,6 +23999,7 @@ classifiers
 classifies
 classifying
 classification
+classification's
 classification
 classifications
 classified
@@ -24635,6 +24797,7 @@ co-operate
 co-operating
 co-operates
 co-operation
+co-operation's
 co-operative
 co-operatively
 co-operated
@@ -24652,11 +24815,13 @@ co-opt
 co-opted
 co-optive
 co-optation
+co-optation's
 co-opting
 co-option
 co-ordinate
 co-ordinated
 co-ordination
+co-ordination's
 co-ordinates
 co-ordinating
 co-ordinative
@@ -24713,6 +24878,7 @@ coagulations
 coagulated
 coagulates
 coagulation
+coagulation's
 coagulating
 coagulation
 coagulation's
@@ -25064,6 +25230,7 @@ codifier
 codifier's
 codifiers
 codification
+codification's
 codified
 codification
 codifications
@@ -25169,6 +25336,7 @@ cogitation
 cogitations
 cogitates
 cogitation
+cogitation's
 cogitated
 cogitating
 cogitative
@@ -25186,6 +25354,7 @@ cognates
 cognation
 cognations
 cognation
+cognation's
 cognation
 cognation's
 cognisance
@@ -25312,6 +25481,7 @@ coking
 Cokonyane
 col
 collation
+collation's
 collation
 collations
 collative
@@ -25390,6 +25560,7 @@ collaborations
 collaboratively
 collaborated
 collaboration
+collaboration's
 collaborative
 collaboration
 collaborationist
@@ -25509,6 +25680,7 @@ collide
 colliding
 collides
 collision
+collision's
 collisional
 collisionally
 collisions
@@ -25528,11 +25700,13 @@ collimate
 collimates
 collimated
 collimation
+collimation's
 collimating
 decollimate
 decollimates
 decollimated
 decollimation
+decollimation's
 decollimating
 collimated
 uncollimated
@@ -25571,6 +25745,7 @@ collude
 colluding
 colludes
 collusion
+collusion's
 collusive
 collusions
 colluded
@@ -25649,6 +25824,7 @@ colonised
 uncolonised
 colonize
 colonization
+colonization's
 colonization
 colonizations
 colonized
@@ -25656,6 +25832,7 @@ colonizes
 colonizing
 decolonize
 decolonization
+decolonization's
 decolonization
 decolonizations
 decolonized
@@ -25663,6 +25840,7 @@ decolonizes
 decolonizing
 recolonize
 recolonization
+recolonization's
 recolonization
 recolonizations
 recolonized
@@ -25719,6 +25897,7 @@ colour-fastnesses
 colour-sergeant
 colour
 colouration
+colouration's
 colourer
 colourer's
 colourers
@@ -25881,6 +26060,7 @@ combiners
 combining
 combines
 combination
+combination's
 combined
 recombined
 combines
@@ -26035,6 +26215,7 @@ commandos
 commemorate
 commemorates
 commemoration
+commemoration's
 commemorative
 commemorating
 commemorated
@@ -26146,6 +26327,7 @@ commiserate
 commiserated
 commiserates
 commiseration
+commiseration's
 commiseration
 commiserations
 commiserating
@@ -26182,6 +26364,7 @@ commissioned
 recommissioned
 commit
 commission
+commission's
 commitment
 commitment's
 commitments
@@ -26302,6 +26485,7 @@ communicability
 communicable
 communicated
 communication
+communication's
 communicational
 communicationally
 communicativeness
@@ -26451,6 +26635,7 @@ compartmentalization
 compartmentalizations
 compass
 compassion
+compassion's
 compass's
 compassionate
 compassionateness
@@ -26475,6 +26660,7 @@ compelling
 compellingly
 compels
 compulsion
+compulsion's
 compelled
 compulsion
 compulsions
@@ -26491,6 +26677,7 @@ compensate
 compensated
 compensating
 compensation
+compensation's
 compensation
 compensations
 compensates
@@ -26498,6 +26685,7 @@ overcompensate
 overcompensated
 overcompensating
 overcompensation
+overcompensation's
 overcompensation
 overcompensations
 overcompensates
@@ -26552,6 +26740,7 @@ recompilation
 recompilation's
 compile
 compilation
+compilation's
 compilation
 compilations
 compiled
@@ -26559,6 +26748,7 @@ compiling
 compiles
 recompile
 recompilation
+recompilation's
 recompilation
 recompilations
 recompiled
@@ -26602,6 +26792,7 @@ complaisant
 complaisantly
 complement
 complementation
+complementation's
 complementer
 complementer's
 complementers
@@ -26628,6 +26819,7 @@ completed
 completeness
 completeness's
 completion
+completion's
 completing
 completely
 completed
@@ -26653,6 +26845,7 @@ complexness
 complexness's
 complexes
 complexion
+complexion's
 complexional
 complexionally
 complexed
@@ -26725,6 +26918,7 @@ composes
 composing
 composed
 composition
+composition's
 compositions
 decompose
 decomposer
@@ -26734,6 +26928,7 @@ decomposes
 decomposing
 decomposed
 decomposition
+decomposition's
 decompositions
 composed
 composedness
@@ -26770,6 +26965,7 @@ compoundable
 compounder
 comprehend
 comprehension
+comprehension's
 comprehends
 comprehensions
 comprehensively
@@ -26811,6 +27007,7 @@ comprehensiveness
 comprehensivenesses
 compress
 compression
+compression's
 compressive
 compressible
 compressional
@@ -26883,6 +27080,7 @@ computability
 computable
 computably
 computation
+computation's
 computing
 computed
 computed
@@ -26998,6 +27196,7 @@ concentrations
 concentrated
 concentrating
 concentration
+concentration's
 concentrative
 concentration
 concentration's
@@ -27094,6 +27293,7 @@ conciliar
 conciliate
 conciliatory
 conciliation
+conciliation's
 conciliative
 conciliating
 conciliation
@@ -27111,6 +27311,7 @@ concise
 conciseness
 conciseness's
 concision
+concision's
 concisions
 concisely
 conciser
@@ -27133,6 +27334,7 @@ conclusions
 conclusive
 conclusiveness
 conclusion
+conclusion's
 conclusion
 conclusion's
 conclusive
@@ -27182,6 +27384,7 @@ concretion
 concretions
 concrete's
 concretion
+concretion's
 concreteness
 concretenesses
 concreter
@@ -27209,6 +27412,7 @@ concuss
 concussions
 concussive
 concussion
+concussion's
 concussion
 concussion's
 condemn
@@ -27219,6 +27423,7 @@ condemner
 condemner's
 condemners
 condemnation
+condemnation's
 condemns
 condemnable
 condemning
@@ -27243,6 +27448,7 @@ condensing
 condenseness
 condescend
 condescension
+condescension's
 condescensions
 condescendingly
 condescension
@@ -27311,6 +27517,7 @@ conductions
 conductively
 conducing
 conduction
+conduction's
 conducive
 conduciveness
 conduciveness's
@@ -27364,6 +27571,7 @@ confable
 confabulate
 confabulates
 confabulation
+confabulation's
 confabulation
 confabulations
 confabulating
@@ -27419,6 +27627,7 @@ confessing
 confessional
 confessionally
 confession
+confession's
 confessed
 confessions
 confessedly
@@ -27491,6 +27700,7 @@ confiner's
 confirm
 confirmedness
 confirmation
+confirmation's
 confirmatory
 confirmedly
 confirmation
@@ -27509,6 +27719,7 @@ reconfirms
 confiscate
 confiscating
 confiscation
+confiscation's
 confiscation
 confiscations
 confiscatory
@@ -27527,6 +27738,7 @@ conflated
 conflating
 conflates
 conflation
+conflation's
 conflation
 conflations
 conflation
@@ -27584,6 +27796,7 @@ confrontationally
 confrontation
 confrontations
 confrontation
+confrontation's
 confrontation
 confrontation's
 Confucian
@@ -27604,6 +27817,7 @@ confutation
 confutation's
 confute
 confutation
+confutation's
 confuted
 confutes
 confutation
@@ -27649,6 +27863,7 @@ Congleton
 conglomerate
 conglomerate's
 conglomeration
+conglomeration's
 conglomerating
 conglomeration
 conglomerations
@@ -27666,6 +27881,7 @@ congratulated
 congratulatory
 congratulating
 congratulation
+congratulation's
 congratulates
 congratulation
 congratulations
@@ -27674,6 +27890,7 @@ congratulation's
 congregate
 congregates
 congregation
+congregation's
 congregating
 congregated
 congregation
@@ -27760,6 +27977,7 @@ conjugally
 conjugate
 conjugated
 conjugation
+conjugation's
 conjugating
 conjugately
 conjugative
@@ -27791,6 +28009,7 @@ conjurer's
 conjurers
 conjuring
 conjuration
+conjuration's
 conjuration
 conjurations
 conjures
@@ -27932,6 +28151,7 @@ conscriptions
 conscription's
 consecrate
 consecration
+consecration's
 consecration
 consecrations
 consecrative
@@ -28006,6 +28226,7 @@ conservatory's
 conserve
 conservativeness
 conservation
+conservation's
 conservation
 conservations
 conservative
@@ -28026,9 +28247,11 @@ considerably
 inconsiderably
 considerate
 consideration
+consideration's
 considerately
 inconsiderate
 inconsideration
+inconsideration's
 inconsiderately
 considerateness
 inconsiderateness
@@ -28090,6 +28313,7 @@ disconsolation's
 consolatory
 console
 consolation
+consolation's
 consolingly
 consoler
 consoler's
@@ -28101,6 +28325,7 @@ consolidate
 consolidated
 consolidates
 consolidation
+consolidation's
 consolidation
 consolidations
 consolidating
@@ -28187,6 +28412,7 @@ consternating
 consternation
 consternations
 consternation
+consternation's
 consternation
 consternation's
 constipate
@@ -28194,6 +28420,7 @@ constipates
 constipated
 constipating
 constipation
+constipation's
 constipation
 constipations
 constipation
@@ -28320,6 +28547,7 @@ consulship's
 consulships
 consult
 consultation
+consultation's
 consulting
 consulted
 consultation
@@ -28354,6 +28582,7 @@ consumptions
 consumptively
 consumingly
 consumption
+consumption's
 consumed
 consumptive
 consumed
@@ -28427,6 +28656,7 @@ contaminate
 contaminates
 contaminating
 contamination
+contamination's
 contaminated
 contamination
 contaminations
@@ -28434,6 +28664,7 @@ decontaminate
 decontaminates
 decontaminating
 decontamination
+decontamination's
 decontaminated
 decontamination
 decontaminations
@@ -28454,6 +28685,7 @@ contemns
 contemning
 contemplate
 contemplation
+contemplation's
 contemplativeness
 contemplated
 contemplation
@@ -28594,6 +28826,7 @@ discontinuation's
 continue
 continues
 continuation
+continuation's
 continued
 continuing
 continuation
@@ -28601,6 +28834,7 @@ continuations
 discontinue
 discontinues
 discontinuation
+discontinuation's
 discontinued
 discontinuing
 discontinuation
@@ -28679,6 +28913,7 @@ contraindicating
 contraindication
 contraindications
 contraindication
+contraindication's
 contraindicated
 contraindicative
 contraindication
@@ -28806,6 +29041,7 @@ contused
 contusions
 contuses
 contusion
+contusion's
 contusing
 contusion
 contusion's
@@ -28992,6 +29228,7 @@ convivialities
 conviviality's
 convoke
 convocation
+convocation's
 convokes
 convoking
 convocation
@@ -29022,6 +29259,7 @@ convulsing
 convulsiveness
 convulses
 convulsion
+convulsion's
 convulsions
 convulsive
 convulsively
@@ -29620,11 +29858,13 @@ correlating
 correlated
 correlates
 correlation
+correlation's
 decorrelate
 decorrelating
 decorrelated
 decorrelates
 decorrelation
+decorrelation's
 correlated
 uncorrelated
 correlator
@@ -29654,6 +29894,7 @@ corroborates
 corroborated
 corroborative
 corroboration
+corroboration's
 corroboratively
 corroborated
 uncorroborated
@@ -29669,6 +29910,7 @@ corrodible
 corroding
 corrosions
 corrosion
+corrosion's
 corrosive
 corrosiveness
 corrosively
@@ -29685,6 +29927,7 @@ corrugates
 corrugation
 corrugations
 corrugation
+corrugation's
 corrugation
 corrugation's
 corrupt
@@ -29756,6 +29999,7 @@ corundum's
 coruscate
 coruscating
 coruscation
+coruscation's
 coruscates
 coruscated
 coruscation
@@ -30354,6 +30598,7 @@ covariant
 covariants
 covariate
 covariation
+covariation's
 covariates
 covary
 cove
@@ -30922,6 +31167,7 @@ creatable
 create
 created
 creation
+creation's
 creation
 creations
 creates
@@ -30929,6 +31175,7 @@ creating
 recreate
 recreated
 recreation
+recreation's
 recreation
 recreations
 recreates
@@ -31066,6 +31313,7 @@ creepiness's
 Creighton
 cremate
 cremation
+cremation's
 cremating
 cremates
 cremated
@@ -31086,6 +31334,7 @@ crenelation
 crenelations
 crenelated
 crenelation
+crenelation's
 crenelation
 crenelation's
 crenellated
@@ -31252,6 +31501,7 @@ criminalize
 criminalizes
 criminalized
 criminalization
+criminalization's
 criminalization
 criminalizations
 criminalizing
@@ -31259,6 +31509,7 @@ decriminalize
 decriminalizes
 decriminalized
 decriminalization
+decriminalization's
 decriminalization
 decriminalizations
 decriminalizing
@@ -31511,6 +31762,7 @@ cross-cuts
 cross-dressing
 cross-examine
 cross-examination
+cross-examination's
 cross-examined
 cross-examines
 cross-examining
@@ -31699,6 +31951,7 @@ crucifix
 crucifix's
 crucifixes
 crucifixion
+crucifixion's
 crucifixions
 crucifixion
 crucifixion's
@@ -31955,6 +32208,7 @@ crystallizations
 crystallized
 crystallizing
 crystallization
+crystallization's
 recrystallize
 recrystallizes
 recrystallization
@@ -31962,6 +32216,7 @@ recrystallizations
 recrystallized
 recrystallizing
 recrystallization
+recrystallization's
 crystallizer
 crystallizer's
 crystallizers
@@ -32105,6 +32360,7 @@ culmination
 culminations
 culminating
 culmination
+culmination's
 culmination
 culmination's
 culotte
@@ -32139,6 +32395,7 @@ cultivates
 cultivated
 cultivating
 cultivation
+cultivation's
 cultivation
 cultivations
 cultivated
@@ -32197,6 +32454,7 @@ cumulate
 cumulating
 cumulates
 cumulation
+cumulation's
 cumulated
 cumulation
 cumulations
@@ -32709,6 +32967,7 @@ Cybele
 Cybele's
 cybernate
 cybernation
+cybernation's
 cybernetic
 cybernetics
 cybernetician
@@ -33108,6 +33367,7 @@ damns
 damnable
 damnably
 damnation
+damnation's
 damning
 damningly
 damnation
@@ -33746,6 +34006,7 @@ debarkation
 debarkations
 debarking
 debarkation
+debarkation's
 debarkation
 debarkation's
 debase
@@ -33790,6 +34051,7 @@ Debian's
 debilitate
 debilitated
 debilitation
+debilitation's
 debilitating
 debilitates
 debilitation
@@ -33924,6 +34186,7 @@ decelerating
 deceleration
 decelerations
 deceleration
+deceleration's
 decelerates
 decelerated
 deceleration
@@ -33970,6 +34233,7 @@ decidability
 decidable
 decidedly
 decision
+decision's
 decidedness
 decisively
 decisiveness
@@ -34009,6 +34273,7 @@ decimated
 decimating
 decimates
 decimation
+decimation's
 decimation
 decimations
 decimation
@@ -34084,11 +34349,13 @@ declarators
 declaratory
 declare
 declaration
+declaration's
 declared
 declares
 declaring
 redeclare
 redeclaration
+redeclaration's
 redeclared
 redeclares
 redeclaring
@@ -34102,6 +34369,7 @@ déclassé
 déclassée
 declassify
 declassification
+declassification's
 declassification
 declassifications
 declassifying
@@ -34116,6 +34384,7 @@ decliner
 decliner's
 decliners
 declination
+declination's
 declination
 declinations
 declines
@@ -34137,6 +34406,7 @@ decolletes
 decompile
 decompilable
 decompilation
+decompilation's
 decomposability
 decomposability's
 decomposable
@@ -34148,6 +34418,7 @@ decompress
 decompressions
 decompressing
 decompression
+decompression's
 decompresser
 decongestant
 decongestants
@@ -34203,6 +34474,7 @@ decorousnesses
 decorticate
 decorticates
 decortication
+decortication's
 decorticating
 decorticated
 decortication
@@ -34250,6 +34522,7 @@ dedication
 dedications
 dedicates
 dedication
+dedication's
 dedicated
 dedicating
 rededicate
@@ -34257,6 +34530,7 @@ rededication
 rededications
 rededicates
 rededication
+rededication's
 rededicated
 rededicating
 dedicated
@@ -34276,6 +34550,7 @@ deductions
 deduces
 deducing
 deduction
+deduction's
 deduced
 deductive
 deductively
@@ -34367,6 +34642,7 @@ defalcation
 defalcations
 defalcating
 defalcation
+defalcation's
 defalcation
 defalcation's
 defamation
@@ -34405,6 +34681,7 @@ defecating
 defecation
 defecations
 defecation
+defecation's
 defecated
 defecation
 defecation's
@@ -34541,6 +34818,7 @@ deflatable
 deflate
 deflates
 deflation
+deflation's
 deflating
 deflation
 deflations
@@ -34652,6 +34930,7 @@ deification
 deification's
 deify
 deification
+deification's
 deifying
 deification
 deifications
@@ -34716,6 +34995,7 @@ deletes
 deleted
 deleting
 deletion
+deletion's
 deleter
 deleterious
 deleteriously
@@ -34793,6 +35073,7 @@ delineates
 delineated
 delineating
 delineation
+delineation's
 delineation
 delineations
 delineative
@@ -34876,6 +35157,7 @@ deludingly
 delusive
 deluded
 delusion
+delusion's
 delusions
 deluder
 deluder's
@@ -34925,6 +35207,7 @@ demarcation
 demarcations
 demarcated
 demarcation
+demarcation's
 demarcation
 demarcation's
 Demat
@@ -34963,6 +35246,7 @@ demilitarisation
 demilitarisations
 demilitarize
 demilitarization
+demilitarization's
 demilitarization
 demilitarizations
 demilitarizes
@@ -34977,6 +35261,7 @@ demisemiquavers
 demit
 demits
 demission
+demission's
 demitting
 demitted
 demitasse
@@ -35054,6 +35339,7 @@ demonstrated
 demonstrates
 demonstrating
 demonstration
+demonstration's
 demonstrative
 demonstration
 demonstrations
@@ -35114,6 +35400,7 @@ demythologizations
 demythologized
 demythologizing
 demythologization
+demythologization's
 demythologizes
 den
 den's
@@ -35147,6 +35434,7 @@ denigrates
 denigrated
 denigrating
 denigration
+denigration's
 denigration
 denigrations
 denigration
@@ -35269,6 +35557,7 @@ denuded
 denuding
 denunciate
 denunciation
+denunciation's
 denunciates
 denunciating
 denunciation
@@ -35308,6 +35597,7 @@ deodorization
 deodorizations
 deodorizing
 deodorization
+deodorization's
 deodorized
 deoxyribonucleic
 depart
@@ -35376,6 +35666,7 @@ depilatory
 depilatories
 deplete
 depletion
+depletion's
 depleting
 depletion
 depletions
@@ -35423,6 +35714,7 @@ deportments
 deportation
 deportations
 deportation
+deportation's
 deportation
 deportation's
 deportee
@@ -35462,6 +35754,7 @@ deprecate
 deprecated
 deprecates
 deprecation
+deprecation's
 deprecation
 deprecations
 deprecating
@@ -35478,6 +35771,7 @@ depreciation
 depreciations
 depreciating
 depreciation
+depreciation's
 depreciated
 depreciative
 depreciation
@@ -35487,6 +35781,7 @@ depressingly
 depressible
 depressions
 depression
+depression's
 depressive
 depressively
 depressant
@@ -35503,6 +35798,7 @@ depriving
 deprivation
 deprivations
 deprivation
+deprivation's
 deprived
 deprives
 Dept.
@@ -35517,6 +35813,7 @@ deputized
 deputizes
 deputizing
 deputation
+deputation's
 deputise
 deputised
 deputises
@@ -35569,6 +35866,7 @@ derisions
 derisively
 deridingly
 derision
+derision's
 derisiveness
 derision
 derision's
@@ -35588,6 +35886,7 @@ derivativeness's
 derivatives
 derive
 derivation
+derivation's
 derivatively
 derivation
 derivations
@@ -35611,6 +35910,7 @@ dermis's
 derogate
 derogated
 derogation
+derogation's
 derogation
 derogations
 derogative
@@ -35645,6 +35945,7 @@ desalinates
 desalinating
 desalinated
 desalination
+desalination's
 desalination
 desalinations
 descant
@@ -35677,6 +35978,7 @@ describers
 descriptive
 descriptiveness
 description
+description's
 descriptions
 descriptively
 description
@@ -35702,6 +36004,7 @@ desecrated
 desecrating
 desecrates
 desecration
+desecration's
 desecrater
 desecrater's
 desecration
@@ -35741,6 +36044,7 @@ desiccations
 desiccates
 desiccated
 desiccation
+desiccation's
 desiccation
 desiccation's
 desiccator
@@ -35756,6 +36060,7 @@ designing's
 designings
 designable
 designation
+designation's
 designedly
 designational
 designationally
@@ -35825,6 +36130,7 @@ desolateness's
 desolating
 desolates
 desolation
+desolation's
 desolated
 desolately
 desolation
@@ -35856,6 +36162,7 @@ desperate
 desperateness
 desperateness's
 desperation
+desperation's
 desperately
 desperation
 desperations
@@ -35899,6 +36206,7 @@ desserts
 dessert's
 dessicate
 dessication
+dessication's
 dessicated
 destigmatization
 destigmatization's
@@ -35910,11 +36218,13 @@ destine
 destination
 destinations
 destination
+destination's
 destined
 predestine
 predestination
 predestinations
 predestination
+predestination's
 predestined
 destiny
 destinies
@@ -36037,6 +36347,7 @@ deteriorated
 deteriorating
 deteriorative
 deterioration
+deterioration's
 deterioration
 deteriorations
 deteriorates
@@ -36059,11 +36370,13 @@ determinate
 determinateness
 determinateness's
 determination
+determination's
 determinately
 indeterminate
 indeterminateness
 indeterminateness's
 indetermination
+indetermination's
 indeterminately
 determination
 determination's
@@ -36085,6 +36398,7 @@ determining
 determined
 determines
 determination
+determination's
 predetermine
 predeterminer
 predeterminer's
@@ -36095,6 +36409,7 @@ predetermining
 predetermined
 predetermines
 predetermination
+predetermination's
 determined
 overdetermined
 redetermined
@@ -36125,6 +36440,7 @@ deterrent's
 detest
 detestably
 detestation
+detestation's
 detestation
 detestations
 detestable
@@ -36144,6 +36460,7 @@ detonation
 detonations
 detonative
 detonation
+detonation's
 detonated
 detonates
 detonated
@@ -36162,6 +36479,7 @@ detoxification's
 detoxify
 detoxified
 detoxification
+detoxification's
 detoxification
 detoxifications
 detoxifies
@@ -36207,6 +36525,7 @@ devalue
 devaluation
 devaluations
 devaluation
+devaluation's
 devastate
 devastating
 devastation
@@ -36214,6 +36533,7 @@ devastations
 devastated
 devastative
 devastation
+devastation's
 devastatingly
 devastates
 devastation
@@ -36273,6 +36593,7 @@ deviation
 deviations
 deviating
 deviation
+deviation's
 deviating
 undeviating
 deviation
@@ -36605,6 +36926,7 @@ dibs
 dice
 diced
 diction
+diction's
 diction
 dictions
 dices
@@ -36791,6 +37113,7 @@ differentiability
 differentiable
 differentiated
 differentiation
+differentiation's
 differentiates
 differentiating
 differentiation
@@ -36844,6 +37167,7 @@ diffusively
 diffusiveness
 diffused
 diffusion
+diffusion's
 diffuseness
 diffusenesses
 diffusion
@@ -36958,6 +37282,7 @@ digraphs
 digress
 digressively
 digression
+digression's
 digresses
 digressing
 digressions
@@ -36997,6 +37322,7 @@ dilapidate
 dilapidated
 dilapidates
 dilapidation
+dilapidation's
 dilapidation
 dilapidations
 dilapidating
@@ -37014,6 +37340,7 @@ dilations
 dilative
 dilating
 dilation
+dilation's
 dilated
 dilatory
 dilates
@@ -37440,6 +37767,7 @@ disambiguations
 disambiguated
 disambiguates
 disambiguation
+disambiguation's
 Disaneng
 disant
 disappoint
@@ -37536,6 +37864,7 @@ discography's
 discographies
 discolour
 discolouration
+discolouration's
 discolouredness
 discolouration
 discolourations
@@ -37631,6 +37960,7 @@ discretely
 discreteness
 discreteness's
 discretion
+discretion's
 discretion
 discretions
 discreteness
@@ -37648,6 +37978,7 @@ discriminants
 discriminant's
 discriminate
 discrimination
+discrimination's
 discriminatory
 discriminated
 discrimination
@@ -37676,6 +38007,7 @@ discuss
 discussable
 discussions
 discussion
+discussion's
 discussant
 discussants
 discussant's
@@ -37697,6 +38029,7 @@ disease
 diseasing
 disembark
 disembarkation
+disembarkation's
 disembarkation
 disembarkations
 disembowel
@@ -37902,6 +38235,7 @@ dispersers
 dispersible
 disperses
 dispersion
+dispersion's
 dispersions
 dispersive
 dispersed
@@ -37945,18 +38279,21 @@ disposing
 disposed
 dispositions
 disposition
+disposition's
 indispose
 indisposes
 indisposing
 indisposed
 indispositions
 indisposition
+indisposition's
 predispose
 predisposes
 predisposing
 predisposed
 predispositions
 predisposition
+predisposition's
 disposition
 disposition's
 indisposition
@@ -37965,6 +38302,7 @@ predisposition
 predisposition's
 disproportion
 disproportionation
+disproportionation's
 disproportionate
 disproportionating
 disproportionated
@@ -37985,6 +38323,7 @@ disputatiously
 dispute
 disputably
 disputation
+disputation's
 disputation
 disputations
 disputed
@@ -38047,6 +38386,7 @@ disseminated
 disseminates
 disseminating
 dissemination
+dissemination's
 dissemination
 disseminations
 dissemination
@@ -38085,6 +38425,7 @@ dissipated
 dissipatedly
 dissipates
 dissipation
+dissipation's
 dissipative
 dissipation
 dissipations
@@ -38104,6 +38445,7 @@ dissociated
 dissociates
 dissociating
 dissociation
+dissociation's
 dissociation
 dissociation's
 dissoluble
@@ -38159,10 +38501,12 @@ distastefulness
 distastefulnesses
 distend
 distension
+distension's
 distensions
 distil
 distillable
 distillation
+distillation's
 distillative
 distillation
 distillations
@@ -38370,6 +38714,7 @@ divergent
 divergently
 divers
 diversion
+diversion's
 diversions
 diverse
 diverseness
@@ -38383,6 +38728,7 @@ diversifier
 diversifier's
 diversify
 diversification
+diversification's
 diversification
 diversifications
 diversifying
@@ -38424,6 +38770,7 @@ divisive
 divided
 divides
 division
+division's
 divisively
 divided
 redivided
@@ -38447,6 +38794,7 @@ diviner
 divinest
 divining
 divination
+divination's
 divinely
 divined
 divines
@@ -38617,6 +38965,7 @@ documenting
 documentation
 documentations
 documentation
+documentation's
 documents
 documentary
 documentaries
@@ -38862,6 +39211,7 @@ domestic
 Domesday
 domestic
 domestication
+domestication's
 domestically
 domestication
 domestications
@@ -38898,11 +39248,13 @@ predominantly
 dominate
 dominates
 domination
+domination's
 dominated
 dominating
 predominate
 predominates
 predomination
+predomination's
 predominated
 predominating
 domination's
@@ -38947,6 +39299,7 @@ dominoes
 don't
 don
 donation
+donation's
 donative
 donned
 donning
@@ -40566,6 +40919,7 @@ duplicability
 duplicable
 duplicating
 duplication
+duplication's
 duplication
 duplications
 duplicated
@@ -41393,6 +41747,7 @@ edify
 edified
 edifying
 edification
+edification's
 edifier
 edifier's
 edifiers
@@ -41410,6 +41765,7 @@ edits
 edited
 editing
 edition
+edition's
 editable
 editable
 uneditable
@@ -41476,6 +41832,7 @@ Eduardo
 Eduardo's
 educ
 education
+education's
 educative
 educational
 educationally
@@ -41525,6 +41882,7 @@ educable
 educes
 educed
 eduction
+eduction's
 eduction
 eduction's
 edutainment
@@ -41610,6 +41968,7 @@ effectuate
 effectuated
 effectuates
 effectuation
+effectuation's
 effectuating
 effectuation
 effectuation's
@@ -41685,6 +42044,7 @@ effluvium
 effluvium's
 efflux
 effluxion
+effluxion's
 efflux's
 effort
 effortless
@@ -41705,6 +42065,7 @@ effulgence's
 effulgent
 effuse
 effusion
+effusion's
 effusive
 effused
 effusing
@@ -41935,6 +42296,7 @@ ejaculations
 ejaculated
 ejaculating
 ejaculation
+ejaculation's
 ejaculatory
 ejaculates
 ejaculation
@@ -41981,6 +42343,7 @@ elaboration
 elaborations
 elaborates
 elaboration
+elaboration's
 elaborately
 elaborating
 elaborateness
@@ -42044,6 +42407,7 @@ elates
 elated
 elatedly
 elation
+elation's
 elation
 elations
 elatedness
@@ -42145,6 +42509,7 @@ electrification's
 electrify
 electrified
 electrification
+electrification's
 electrifier
 electrifier's
 electrifiers
@@ -42304,6 +42669,7 @@ elephantine
 elevate
 elevates
 elevation
+elevation's
 elevation
 elevations
 elevated
@@ -42345,6 +42711,7 @@ elide
 elided
 eliding
 elision
+elision's
 elides
 elisions
 eligibility
@@ -42366,6 +42733,7 @@ Eliliba
 Elim
 eliminate
 elimination
+elimination's
 eliminated
 eliminative
 eliminates
@@ -42479,6 +42847,7 @@ elongations
 elongates
 elongating
 elongation
+elongation's
 elongation
 elongation's
 Elonwabeni
@@ -42516,6 +42885,7 @@ eluates
 eluate's
 elucidate
 elucidation
+elucidation's
 elucidative
 elucidates
 elucidation
@@ -42569,6 +42939,7 @@ Emabondvweni
 Emachobeni
 emaciate
 emaciation
+emaciation's
 emaciation
 emaciations
 emaciated
@@ -42596,6 +42967,7 @@ emanative
 emanates
 emanating
 emanation
+emanation's
 emanation
 emanation's
 emancipate
@@ -42606,6 +42978,7 @@ emancipations
 emancipatory
 emancipating
 emancipation
+emancipation's
 emancipation
 emancipation's
 emancipator
@@ -42621,6 +42994,7 @@ emasculation
 emasculations
 emasculated
 emasculation
+emasculation's
 emasculating
 emasculation
 emasculation's
@@ -42887,6 +43261,7 @@ emigrates
 emigrated
 emigrating
 emigration
+emigration's
 emigration
 emigrations
 emigration
@@ -42927,6 +43302,7 @@ emitter's
 emitters
 emitting
 emission
+emission's
 emitted
 emissions
 emits
@@ -43188,6 +43564,7 @@ emus
 emulate
 emulatively
 emulation
+emulation's
 emulation
 emulations
 emulative
@@ -43206,6 +43583,7 @@ emulsifier
 emulsifier's
 emulsifiers
 emulsification
+emulsification's
 emulsifying
 emulsified
 emulsification
@@ -43271,6 +43649,7 @@ encapsulate
 encapsulated
 encapsulates
 encapsulation
+encapsulation's
 encapsulation
 encapsulations
 encapsulating
@@ -43394,6 +43773,7 @@ encrust
 encrusting
 encrusts
 encrustation
+encrustation's
 encrustation
 encrustations
 encrusted
@@ -43606,6 +43986,7 @@ energizers
 energies
 enervate
 enervation
+enervation's
 enervation
 enervations
 enervating
@@ -44269,11 +44650,13 @@ enumerate
 enumerates
 enumerating
 enumeration
+enumeration's
 enumerated
 re-enumerate
 re-enumerates
 re-enumerating
 re-enumeration
+re-enumeration's
 re-enumerated
 enumeration
 enumerations
@@ -44288,6 +44671,7 @@ enunciated
 enunciates
 enunciating
 enunciation
+enunciation's
 enunciation
 enunciations
 enunciation
@@ -44615,6 +44999,7 @@ equated
 equating
 equates
 equation
+equation's
 equation
 equation's
 equator
@@ -44641,6 +45026,7 @@ equilateral
 equilaterals
 equilibrate
 equilibration
+equilibration's
 equilibrated
 equilibrates
 equilibrating
@@ -44727,6 +45113,7 @@ equivocates
 equivocation
 equivocations
 equivocation
+equivocation's
 equivocating
 equivocation
 equivocation's
@@ -44751,6 +45138,7 @@ eradication
 eradications
 eradicating
 eradication
+eradication's
 eradicated
 eradication
 eradication's
@@ -44859,6 +45247,7 @@ Ernie
 Ernst
 erode
 erosion
+erosion's
 erosive
 erodes
 erosional
@@ -44961,6 +45350,7 @@ escadrille
 escadrille's
 escalate
 escalation
+escalation's
 escalates
 escalating
 escalation
@@ -44968,6 +45358,7 @@ escalations
 escalated
 de-escalate
 de-escalation
+de-escalation's
 de-escalates
 de-escalating
 de-escalation
@@ -45203,6 +45594,7 @@ estimableness
 inestimableness
 estimate
 estimation
+estimation's
 estimated
 estimation
 estimations
@@ -45210,6 +45602,7 @@ estimating
 estimates
 overestimate
 overestimation
+overestimation's
 overestimated
 overestimation
 overestimations
@@ -45217,6 +45610,7 @@ overestimating
 overestimates
 underestimate
 underestimation
+underestimation's
 underestimated
 underestimation
 underestimations
@@ -45518,6 +45912,7 @@ evacuate
 evacuation
 evacuations
 evacuation
+evacuation's
 evacuative
 evacuated
 evacuating
@@ -45540,16 +45935,19 @@ evaded
 evasive
 evasively
 evasion
+evasion's
 evaluable
 evaluate
 evaluating
 evaluated
 evaluation
+evaluation's
 evaluates
 re-evaluate
 re-evaluating
 re-evaluated
 re-evaluation
+re-evaluation's
 re-evaluates
 evaluated
 unevaluated
@@ -45596,6 +45994,7 @@ Evanston
 Evansville
 evaporate
 evaporation
+evaporation's
 evaporating
 evaporation
 evaporations
@@ -45745,6 +46144,7 @@ evisceration
 eviscerations
 eviscerated
 evisceration
+evisceration's
 evisceration
 evisceration's
 evocable
@@ -45756,6 +46156,7 @@ evocativeness's
 evoke
 evocative
 evocation
+evocation's
 evocativeness
 evocatively
 evokes
@@ -45801,6 +46202,7 @@ ex-wife
 ex-wives
 exacerbate
 exacerbation
+exacerbation's
 exacerbated
 exacerbating
 exacerbates
@@ -45847,6 +46249,7 @@ exaggeratedness
 exaggerates
 exaggerating
 exaggeration
+exaggeration's
 exaggeration
 exaggerations
 exaggeration
@@ -45862,6 +46265,7 @@ exalter
 exalter's
 exalters
 exaltation
+exaltation's
 exaltation
 exaltations
 exalting
@@ -45883,6 +46287,7 @@ examiners
 examines
 examined
 examination
+examination's
 examining
 examined
 re-examined
@@ -45906,6 +46311,7 @@ exasperating
 exasperatingly
 exasperated
 exasperation
+exasperation's
 exasperation
 exasperations
 exasperation
@@ -45917,6 +46323,7 @@ excavated
 excavation
 excavations
 excavation
+excavation's
 excavating
 excavation
 excavation's
@@ -46001,6 +46408,7 @@ excised
 excises
 excising
 excision
+excision's
 excision
 excision's
 excitability
@@ -46020,6 +46428,7 @@ exciter's
 exciters
 exciting
 excitation
+excitation's
 excitation
 excitations
 excitement
@@ -46060,6 +46469,7 @@ exclusive
 excluding
 excludes
 exclusion
+exclusion's
 excluder
 excluder's
 exclusion
@@ -46081,6 +46491,7 @@ excommunicated
 excommunicative
 excommunicating
 excommunication
+excommunication's
 excommunication
 excommunications
 excommunication
@@ -46092,6 +46503,7 @@ excoriations
 excoriates
 excoriating
 excoriation
+excoriation's
 excoriation
 excoriation's
 excrement
@@ -46109,6 +46521,7 @@ excretion
 excretions
 excreting
 excretion
+excretion's
 excretory
 excretes
 excreter
@@ -46123,12 +46536,14 @@ excruciating
 excruciated
 excruciatingly
 excruciation
+excruciation's
 excruciation
 excruciation's
 exculpate
 exculpates
 exculpated
 exculpation
+exculpation's
 exculpating
 exculpation
 exculpations
@@ -46181,6 +46596,7 @@ execrations
 execrated
 execrates
 execration
+execration's
 execrating
 execration
 execration's
@@ -46239,6 +46655,7 @@ exemplified
 exemplifies
 exemplifying
 exemplification
+exemplification's
 exempt
 exempted
 exempting
@@ -46282,6 +46699,7 @@ exhalation
 exhalation's
 exhale
 exhalation
+exhalation's
 exhaling
 exhalation
 exhalations
@@ -46314,6 +46732,7 @@ exhibited
 exhibiting
 exhibits
 exhibition
+exhibition's
 exhibitive
 exhibitions
 exhibition
@@ -46337,6 +46756,7 @@ exhilarating
 exhilarative
 exhilaratingly
 exhilaration
+exhilaration's
 exhilarated
 exhilaration
 exhilarations
@@ -46344,6 +46764,7 @@ exhilaration
 exhilaration's
 exhort
 exhortation
+exhortation's
 exhortation
 exhortations
 exhorted
@@ -46434,6 +46855,7 @@ exonerations
 exonerates
 exonerative
 exoneration
+exoneration's
 exoneration
 exoneration's
 exorbitance
@@ -46482,6 +46904,7 @@ expandability
 expandable
 expanding
 expansion
+expansion's
 expansive
 expansiveness
 expands
@@ -46513,6 +46936,7 @@ expatiate
 expatiates
 expatiating
 expatiation
+expatiation's
 expatiation
 expatiations
 expatiated
@@ -46524,6 +46948,7 @@ expatriation
 expatriations
 expatriating
 expatriation
+expatriation's
 expatriated
 expatriation
 expatriation's
@@ -46534,6 +46959,7 @@ expectations
 expects
 expectable
 expectation
+expectation's
 expectedness
 expecting
 expected
@@ -46563,6 +46989,7 @@ expectoration
 expectorations
 expectorating
 expectoration
+expectoration's
 expectoration
 expectoration's
 expedience
@@ -46608,6 +47035,7 @@ expels
 expelled
 expellable
 expulsion
+expulsion's
 expend
 expended
 expending
@@ -46661,6 +47089,7 @@ experiments
 experimenting
 experimentally
 experimentation
+experimentation's
 experimented
 experimentation
 experimentations
@@ -46696,6 +47125,7 @@ expiation
 expiations
 expiatory
 expiation
+expiation's
 expiating
 expiated
 expiation
@@ -46705,6 +47135,7 @@ expiration's
 expire
 expired
 expiration
+expiration's
 expiratory
 expires
 expiry
@@ -46744,6 +47175,7 @@ explicate
 explicated
 explicating
 explication
+explication's
 explicatively
 explicates
 explication
@@ -46765,6 +47197,7 @@ exploded
 explosiveness
 exploding
 explosion
+explosion's
 explosive
 exploder
 exploder's
@@ -46804,6 +47237,7 @@ explorer's
 explorers
 explores
 exploration
+exploration's
 exploratory
 explored
 unexplored
@@ -46829,6 +47263,7 @@ exponentiates
 exponentiation
 exponentiations
 exponentiation
+exponentiation's
 exponentiating
 exponentiated
 exponentiation
@@ -46842,6 +47277,7 @@ export's
 exported
 exporting
 exportation
+exportation's
 exporter
 exporter's
 exporters
@@ -46880,6 +47316,7 @@ exposed
 unexposed
 exposit
 exposition
+exposition's
 expositions
 expository
 exposited
@@ -46895,6 +47332,7 @@ expostulation
 expostulations
 expostulating
 expostulation
+expostulation's
 expostulation
 expostulation's
 exposure
@@ -46923,6 +47361,7 @@ expressible
 expressions
 expressiveness
 expression
+expression's
 expressive
 expressed
 unexpressed
@@ -46967,6 +47406,7 @@ expropriation
 expropriations
 expropriates
 expropriation
+expropriation's
 expropriation
 expropriation's
 expropriator
@@ -46984,6 +47424,7 @@ expurgate
 expurgated
 expurgating
 expurgation
+expurgation's
 expurgation
 expurgations
 expurgates
@@ -47029,6 +47470,7 @@ extemporisations
 extend
 extendedness
 extension
+extension's
 extensional
 extensionally
 extending
@@ -47079,6 +47521,7 @@ extents
 extenuate
 extenuated
 extenuation
+extenuation's
 extenuates
 extenuating
 extenuation
@@ -47091,6 +47534,7 @@ exteriors
 exterior's
 exterminate
 extermination
+extermination's
 exterminates
 exterminated
 exterminating
@@ -47146,6 +47590,7 @@ extirpating
 extirpated
 extirpative
 extirpation
+extirpation's
 extirpation
 extirpation's
 extol
@@ -47219,6 +47664,7 @@ extraordinarily
 extrapolate
 extrapolated
 extrapolation
+extrapolation's
 extrapolation
 extrapolations
 extrapolates
@@ -47273,6 +47719,7 @@ extrication
 extrications
 extricating
 extrication
+extrication's
 extricated
 extrication
 extrication's
@@ -47290,6 +47737,7 @@ extrude
 extruded
 extrudes
 extrusion
+extrusion's
 extrusions
 extruding
 extrusive
@@ -47314,6 +47762,7 @@ exuded
 exuding
 exult
 exultation
+exultation's
 exultingly
 exults
 exulted
@@ -47446,11 +47895,13 @@ fabler's
 fabric
 fabric's
 fabrication
+fabrication's
 fabrication
 fabrications
 fabrics
 fabricate
 fabrication
+fabrication's
 fabricating
 fabrication
 fabrications
@@ -47458,6 +47909,7 @@ fabricated
 fabricates
 prefabricate
 prefabrication
+prefabrication's
 prefabricating
 prefabrication
 prefabrications
@@ -47491,6 +47943,7 @@ facially
 facing's
 facings
 faction
+faction's
 faction
 factions
 face's
@@ -47539,6 +47992,7 @@ facilely
 facilitate
 facilitated
 facilitation
+facilitation's
 facilitating
 facilitation
 facilitations
@@ -47890,6 +48344,7 @@ falsification
 falsification's
 falsify
 falsification
+falsification's
 falsifies
 falsifier
 falsifier's
@@ -48193,12 +48648,14 @@ fasciculated
 fasciculation
 fasciculations
 fasciculation
+fasciculation's
 fasciculation
 fasciculation's
 fascinate
 fascinating
 fascinates
 fascination
+fascination's
 fascinatingly
 fascination
 fascinations
@@ -48652,6 +49109,7 @@ federate
 federated
 federating
 federation
+federation's
 federation
 federations
 federates
@@ -48659,6 +49117,7 @@ confederate
 confederated
 confederating
 confederation
+confederation's
 confederation
 confederations
 confederates
@@ -48752,6 +49211,7 @@ felicitation
 felicitations
 felicitated
 felicitation
+felicitation's
 felicitating
 felicitation
 felicitation's
@@ -48850,6 +49310,7 @@ feminized
 feminization
 feminizations
 feminization
+feminization's
 feminizing
 feminizes
 femme
@@ -48935,6 +49396,7 @@ fermenting
 fermentation
 fermentations
 fermentation
+fermentation's
 fermented
 fermentation
 fermentation's
@@ -49211,6 +49673,7 @@ fibrillation
 fibrillations
 fibril's
 fibrillation
+fibrillation's
 fibrils
 fibrillate
 fibrillates
@@ -49496,6 +49959,7 @@ figurer's
 figurers
 figuring
 figuration
+figuration's
 figured
 figuration
 figurations
@@ -49506,6 +49970,7 @@ configurer's
 configurers
 configuring
 configuration
+configuration's
 configured
 configuration
 configurations
@@ -49655,6 +50120,7 @@ filterer
 filterer's
 filterers
 filtration
+filtration's
 filterable
 filtered
 unfiltered
@@ -49681,6 +50147,7 @@ filtrates
 filtration
 filtrations
 filtration
+filtration's
 infiltrate
 infiltrated
 infiltrating
@@ -49688,6 +50155,7 @@ infiltrates
 infiltration
 infiltrations
 infiltration
+infiltration's
 filtration
 filtration's
 infiltration
@@ -50896,6 +51364,7 @@ flirting
 flirts
 flirty
 flirtation
+flirtation's
 flirted
 flirtation
 flirtations
@@ -50920,6 +51389,7 @@ floaters
 floats
 floaty
 floatation
+floatation's
 floating
 floating-point
 flocculate
@@ -50927,6 +51397,7 @@ flocculates
 flocculated
 flocculating
 flocculation
+flocculation's
 flocculation
 flocculation's
 flock
@@ -51153,6 +51624,7 @@ fluctuate
 fluctuates
 fluctuating
 fluctuation
+fluctuation's
 fluctuated
 fluctuation
 fluctuations
@@ -51523,6 +51995,7 @@ foliating
 foliation
 foliations
 foliation
+foliation's
 foliates
 defoliate
 defoliated
@@ -51530,6 +52003,7 @@ defoliating
 defoliation
 defoliations
 defoliation
+defoliation's
 defoliates
 foliation
 foliation's
@@ -51607,6 +52081,7 @@ foment
 fomented
 fomenting
 fomentation
+fomentation's
 fomenter
 fomenter's
 fomenters
@@ -52065,6 +52540,7 @@ foresters
 forestation
 forestations
 forestation
+forestation's
 deforest
 deforesting
 deforested
@@ -52075,6 +52551,7 @@ deforesters
 deforestation
 deforestations
 deforestation
+deforestation's
 forestall
 forestalled
 forestalls
@@ -52240,6 +52717,7 @@ forlornness's
 form's
 form
 formation
+formation's
 formation
 formations
 formed
@@ -52247,6 +52725,7 @@ forming
 forms
 conform
 conformation
+conformation's
 conformation
 conformations
 conformed
@@ -52254,6 +52733,7 @@ conforming
 conforms
 deform
 deformation
+deformation's
 deformation
 deformations
 deformed
@@ -52261,6 +52741,7 @@ deforming
 deforms
 inform
 information
+information's
 information
 informations
 informed
@@ -52268,6 +52749,7 @@ informing
 informs
 reform
 reformation
+reformation's
 reformation
 reformations
 reformed
@@ -52275,6 +52757,7 @@ reforming
 reforms
 transform
 transformation
+transformation's
 transformation
 transformations
 transformed
@@ -52412,6 +52895,7 @@ formulate
 formulated
 formulating
 formulation
+formulation's
 formulates
 formulation
 formulations
@@ -52419,6 +52903,7 @@ reformulate
 reformulated
 reformulating
 reformulation
+reformulation's
 reformulates
 reformulation
 reformulations
@@ -52438,6 +52923,7 @@ fornications
 fornicated
 fornicating
 fornication
+fornication's
 fornication
 fornication's
 fornicator
@@ -52492,6 +52978,7 @@ fortifier's
 fortifiers
 fortifies
 fortification
+fortification's
 fortification
 fortifications
 fortified
@@ -52812,6 +53299,7 @@ fractionate
 fractionated
 fractionating
 fractionation
+fractionation's
 fractionation
 fractionation's
 fractioned
@@ -52836,6 +53324,7 @@ fragment
 fragment's
 fragmenting
 fragmentation
+fragmentation's
 fragmentation
 fragmentations
 fragmented
@@ -53001,6 +53490,7 @@ confraternities
 confraternity's
 fraternize
 fraternization
+fraternization's
 fraternizes
 fraternization
 fraternizations
@@ -53671,6 +54161,7 @@ fruiting
 fruitions
 fruitless
 fruition
+fruition's
 fruitful
 fruitfully
 fruitcake
@@ -53715,6 +54206,7 @@ frustratedly
 frustrates
 frustrating
 frustration
+frustration's
 frustration
 frustrations
 frustrater
@@ -53729,6 +54221,7 @@ friable
 fricative
 fries
 frication
+frication's
 fried
 frying
 Frye
@@ -53868,6 +54361,7 @@ fulminations
 fulminated
 fulminating
 fulmination
+fulmination's
 fulminates
 fulmination
 fulmination's
@@ -53909,6 +54403,7 @@ fumigated
 fumigation
 fumigations
 fumigation
+fumigation's
 fumigation
 fumigation's
 fumigator
@@ -54152,24 +54647,28 @@ fusions
 fused
 fusing
 fusion
+fusion's
 fuses
 confuse
 confusions
 confused
 confusing
 confusion
+confusion's
 confuses
 infuse
 infusions
 infused
 infusing
 infusion
+infusion's
 infuses
 transfuse
 transfusions
 transfused
 transfusing
 transfusion
+transfusion's
 transfuses
 fusebox
 fuseboxes
@@ -54590,6 +55089,7 @@ galvanizes
 galvanized
 galvanizing
 galvanization
+galvanization's
 galvanization
 galvanizations
 galvanometer
@@ -54977,6 +55477,7 @@ gasifier
 gasifier's
 gasifiers
 gasification
+gasification's
 gasification
 gasifications
 gasified
@@ -55055,6 +55556,7 @@ gateau
 gateau's
 gateaus
 gateaux
+gateaux's
 gatecrash
 gatecrasher
 gatecrasher's
@@ -55451,6 +55953,7 @@ generating
 generative
 generates
 generation
+generation's
 generation
 generations
 degenerate
@@ -55459,6 +55962,7 @@ degenerating
 degenerative
 degenerates
 degeneration
+degeneration's
 degeneration
 degenerations
 regenerate
@@ -55467,6 +55971,7 @@ regenerating
 regenerative
 regenerates
 regeneration
+regeneration's
 regeneration
 regenerations
 generation
@@ -55618,6 +56123,7 @@ gentrifies
 gentrified
 gentrifying
 gentrification
+gentrification's
 gentrification
 gentrifications
 gentry
@@ -55777,6 +56283,7 @@ germinate
 germinates
 germinating
 germination
+germination's
 germination
 germinations
 germinative
@@ -55817,6 +56324,7 @@ gestationally
 gestation
 gestations
 gestation
+gestation's
 gestated
 gestates
 gestating
@@ -55825,6 +56333,7 @@ gestation's
 gesticulate
 gesticulating
 gesticulation
+gesticulation's
 gesticulation
 gesticulations
 gesticulative
@@ -56233,6 +56742,7 @@ glacial
 glacially
 glaciate
 glaciation
+glaciation's
 glaciating
 glaciated
 glaciates
@@ -56300,6 +56810,7 @@ glamorizer's
 glamorizers
 glamorizing
 glamorization
+glamorization's
 glamorized
 glamorization
 glamorizations
@@ -56609,6 +57120,7 @@ glorifiers
 glorifying
 glorified
 glorification
+glorification's
 glorification
 glorifications
 glorifies
@@ -57519,6 +58031,7 @@ graduated
 graduates
 graduating
 graduation
+graduation's
 graduate's
 graduation
 graduations
@@ -57737,6 +58250,7 @@ granulations
 granulative
 granules
 granulation
+granulation's
 granule's
 granulocytic
 Granville
@@ -57850,6 +58364,7 @@ gratified
 ungratified
 gratify
 gratification
+gratification's
 gratified
 gratifying
 gratifyingly
@@ -57930,6 +58445,7 @@ gravitas
 gravitate
 gravitating
 gravitation
+gravitation's
 gravitational
 gravitationally
 gravitates
@@ -59313,6 +59829,7 @@ gypsy's
 gyrate
 gyrates
 gyration
+gyration's
 gyration
 gyrations
 gyrated
@@ -59412,6 +59929,7 @@ habituates
 habituated
 habituating
 habituation
+habituation's
 habituation
 habituations
 habituation
@@ -59830,6 +60348,7 @@ Halloween
 hallucinate
 hallucinates
 hallucination
+hallucination's
 hallucinating
 hallucination
 hallucinations
@@ -62008,6 +62527,7 @@ hesitant
 hesitantly
 hesitate
 hesitation
+hesitation's
 hesitating
 hesitates
 hesitated
@@ -62139,6 +62659,7 @@ hibernated
 hibernating
 hibernates
 hibernation
+hibernation's
 hibernation
 hibernation's
 hibernator
@@ -63122,6 +63643,7 @@ homogenizes
 homogenization
 homogenizations
 homogenization
+homogenization's
 homogenized
 homogenizing
 homograph
@@ -64187,6 +64709,7 @@ inhumanities
 inhumanity's
 humanize
 humanization
+humanization's
 humanizes
 humanizing
 humanized
@@ -64197,6 +64720,7 @@ humanizer's
 humanizers
 dehumanize
 dehumanization
+dehumanization's
 dehumanizes
 dehumanizing
 dehumanized
@@ -64261,6 +64785,7 @@ humidifies
 humidifying
 humidified
 humidification
+humidification's
 dehumidify
 dehumidifier
 dehumidifier's
@@ -64271,6 +64796,7 @@ dehumidifies
 dehumidifying
 dehumidified
 dehumidification
+dehumidification's
 humidistat
 humidistat's
 humidity
@@ -64283,6 +64809,7 @@ humiliate
 humiliates
 humiliating
 humiliation
+humiliation's
 humiliated
 humiliation
 humiliations
@@ -64614,16 +65141,19 @@ hydrates
 hydrated
 hydrating
 hydration
+hydration's
 rehydrate
 rehydrates
 rehydrated
 rehydrating
 rehydration
+rehydration's
 dehydrate
 dehydrates
 dehydrated
 dehydrating
 dehydration
+dehydration's
 hydration
 hydration's
 hydrations
@@ -64671,17 +65201,20 @@ hydrogen's
 hydrogenation
 hydrogenations
 hydrogenation
+hydrogenation's
 hydrogenate's
 hydrogenate
 hydrogenating
 hydrogenated
 hydrogenates
 hydrogenation
+hydrogenation's
 dehydrogenate
 dehydrogenating
 dehydrogenated
 dehydrogenates
 dehydrogenation
+dehydrogenation's
 hydrogenation
 hydrogenation's
 dehydrogenation
@@ -64748,6 +65281,7 @@ hydroxyl
 hydroxyl's
 hydroxyls
 hydroxylation
+hydroxylation's
 hydroxylate
 hydroxyzine
 hydroxyzine's
@@ -64887,12 +65421,14 @@ hyperventilations
 hyperventilates
 hyperventilated
 hyperventilation
+hyperventilation's
 hyperventilation
 hyperventilation's
 hyphen
 hyphen's
 hyphens
 hyphenation
+hyphenation's
 hyphened
 hyphening
 hyphenation
@@ -65208,6 +65744,7 @@ idealization's
 idealogical
 ideate
 ideation
+ideation's
 ideates
 ideation
 ideation's
@@ -65241,6 +65778,7 @@ identifiers
 identifiability
 identifiable
 identification
+identification's
 identified
 identifying
 misidentifying
@@ -65503,6 +66041,7 @@ illumination
 illumination's
 illumine
 illumination
+illumination's
 illumines
 illumination
 illuminations
@@ -65534,6 +66073,7 @@ illustrative
 illustrated
 illustrates
 illustration
+illustration's
 illustrated
 unillustrated
 illustration
@@ -65582,6 +66122,7 @@ imagine
 imagining's
 imaginings
 imagination
+imagination's
 imagination
 imaginations
 imaginativeness
@@ -65645,6 +66186,7 @@ imitative
 imitates
 imitating
 imitation
+imitation's
 imitatively
 imitativeness
 imitation
@@ -65698,6 +66240,7 @@ immensity's
 immerse
 immerses
 immersion
+immersion's
 immersing
 immersions
 immersed
@@ -65718,6 +66261,7 @@ immoderateness's
 immolate
 immolates
 immolation
+immolation's
 immolated
 immolation
 immolations
@@ -65808,6 +66352,7 @@ impaler's
 impart
 imparting
 impartation
+impartation's
 impartation
 impartation's
 impassable
@@ -65881,6 +66426,7 @@ impeller's
 impellers
 impels
 impulsion
+impulsion's
 impulsion
 impulsions
 impelling
@@ -65944,6 +66490,7 @@ impersonation
 impersonations
 impersonates
 impersonation
+impersonation's
 impersonation
 impersonation's
 impersonator
@@ -66006,6 +66553,7 @@ implement
 implementability
 implementable
 implementation
+implementation's
 implementer
 implementer's
 implementers
@@ -66041,6 +66589,7 @@ implode
 imploding
 implosions
 implosion
+implosion's
 imploded
 implodes
 implore
@@ -66068,6 +66617,7 @@ import
 importation
 importations
 importation
+importation's
 importable
 importance
 importances
@@ -66106,6 +66656,7 @@ impose
 impositions
 imposingly
 imposition
+imposition's
 imposed
 reimposed
 imposes
@@ -66147,6 +66698,7 @@ imprecation
 imprecations
 imprecated
 imprecation
+imprecation's
 imprecation
 imprecation's
 impregnability
@@ -66160,6 +66712,7 @@ impregnate
 impregnability
 impregnable
 impregnation
+impregnation's
 impregnated
 impregnating
 impregnation
@@ -66173,6 +66726,7 @@ impresario's
 impress
 impressible
 impression
+impression's
 impressions
 impressive
 impressment
@@ -66297,6 +66851,7 @@ imputation
 imputations
 imputed
 imputation
+imputation's
 imputes
 imputing
 Imspringer
@@ -66366,6 +66921,7 @@ inaugural
 inaugurals
 inaugurate
 inauguration
+inauguration's
 inaugurating
 inauguration
 inaugurations
@@ -66405,6 +66961,7 @@ incantation
 incantations
 incanting
 incantation
+incantation's
 incantation
 incantation's
 incantatory
@@ -66413,12 +66970,14 @@ incapacitates
 incapacitated
 incapacitating
 incapacitation
+incapacitation's
 incapacitation
 incapacitation's
 incarcerate
 incarceration
 incarcerations
 incarceration
+incarceration's
 incarcerates
 incarcerating
 incarcerated
@@ -66435,6 +66994,7 @@ incarnates
 incarnation
 incarnations
 incarnation
+incarnation's
 reincarnate
 reincarnating
 reincarnated
@@ -66442,6 +67002,7 @@ reincarnates
 reincarnation
 reincarnations
 reincarnation
+reincarnation's
 incarnation
 incarnation's
 reincarnation
@@ -66517,6 +67078,7 @@ incinerations
 incinerates
 incinerating
 incineration
+incineration's
 incineration
 incineration's
 incinerator
@@ -66537,6 +67099,7 @@ incisively
 incised
 incises
 incision
+incision's
 incisive
 incisiveness
 incision
@@ -66565,6 +67128,7 @@ disinclination's
 incline
 inclines
 inclination
+inclination's
 inclining
 inclined
 inclination
@@ -66572,6 +67136,7 @@ inclinations
 disincline
 disinclines
 disinclination
+disinclination's
 disinclining
 disinclined
 disinclination
@@ -66589,6 +67154,7 @@ inclusive
 inclusiveness
 includes
 inclusion
+inclusion's
 inclusion
 inclusion's
 inclusive
@@ -66652,11 +67218,13 @@ incorporated
 incorporates
 incorporating
 incorporation
+incorporation's
 reincorporate
 reincorporated
 reincorporates
 reincorporating
 reincorporation
+reincorporation's
 incorporated
 disincorporated
 unincorporated
@@ -66686,6 +67254,7 @@ overincredulous
 increment
 increments
 incrementation
+incrementation's
 incrementing
 increment's
 incremented
@@ -66698,6 +67267,7 @@ incriminates
 incriminated
 incriminating
 incrimination
+incrimination's
 incriminatory
 incrimination
 incrimination's
@@ -66707,6 +67277,7 @@ incrustations
 incubate
 incubating
 incubation
+incubation's
 incubates
 incubation
 incubations
@@ -66721,6 +67292,7 @@ incubus
 incubus's
 inculcate
 inculcation
+inculcation's
 inculcating
 inculcation
 inculcations
@@ -66751,6 +67323,7 @@ incurious
 incurs
 incursions
 incursion
+incursion's
 incursion
 incursion's
 Ind.
@@ -66788,6 +67361,7 @@ indemnifications
 indemnifying
 indemnifies
 indemnification
+indemnification's
 indemnified
 indemnity
 indemnity's
@@ -66795,6 +67369,7 @@ indemnities
 indemonstrable
 indent
 indentation
+indentation's
 indenting
 indentation
 indentations
@@ -66855,6 +67430,7 @@ indicatively
 indicated
 indicates
 indication
+indication's
 indicating
 indication
 indications
@@ -66982,6 +67558,7 @@ individuated
 individuation
 individuations
 individuation
+individuation's
 individuation
 individuation's
 indivisible
@@ -66998,6 +67575,7 @@ indoctrinating
 indoctrination
 indoctrinations
 indoctrination
+indoctrination's
 indoctrinated
 indoctrination
 indoctrination's
@@ -67031,6 +67609,7 @@ inducer's
 inducers
 inducing
 induction
+induction's
 inductive
 inductiveness
 induced
@@ -67119,6 +67698,7 @@ inebriate
 inebriating
 inebriated
 inebriation
+inebriation's
 inebriation
 inebriations
 inebriates
@@ -67234,6 +67814,7 @@ infatuations
 infatuates
 infatuating
 infatuation
+infatuation's
 infatuation
 infatuation's
 infeasibility
@@ -67304,6 +67885,7 @@ infester's
 infesters
 infests
 infestation
+infestation's
 infested
 infestation
 infestation's
@@ -67349,6 +67931,7 @@ infix
 infix's
 inflame
 inflammation
+inflammation's
 inflammations
 inflammation
 inflammation's
@@ -67362,6 +67945,7 @@ inflated
 inflation
 inflations
 inflation
+inflation's
 inflating
 inflated
 overinflated
@@ -67472,6 +68056,7 @@ infuriatingly
 infuriated
 infuriating
 infuriation
+infuriation's
 infuriation
 infuriation's
 infuse
@@ -67534,6 +68119,7 @@ ingrate
 ingrate's
 ingratiate
 ingratiation
+ingratiation's
 ingratiating
 ingratiates
 ingratiated
@@ -67548,6 +68134,7 @@ ingredient's
 ingress
 ingresses
 ingression
+ingression's
 ingress's
 ingression
 ingression's
@@ -67569,6 +68156,7 @@ inhalation's
 inhalator's
 inhale
 inhalation
+inhalation's
 inhalation
 inhalations
 inhaler
@@ -67613,6 +68201,7 @@ inhibited
 inhibiting
 inhibits
 inhibition
+inhibition's
 inhibitive
 inhibitions
 inhibitory
@@ -67689,6 +68278,7 @@ uninitialised
 initialize
 initializing
 initialization
+initialization's
 initialization
 initializations
 initialized
@@ -67696,6 +68286,7 @@ initializes
 reinitialize
 reinitializing
 reinitialization
+reinitialization's
 reinitialization
 reinitializations
 reinitialized
@@ -67711,6 +68302,7 @@ initiated
 initiating
 initiative
 initiation
+initiation's
 initiation
 initiations
 initiated
@@ -67822,6 +68414,7 @@ innervated
 innervates
 innervating
 innervation
+innervation's
 innervation
 innervations
 innervation
@@ -67852,6 +68445,7 @@ innovation
 innovations
 innovating
 innovation
+innovation's
 innovative
 innovativeness
 innovation
@@ -67878,11 +68472,13 @@ innumerable
 inoculate
 inoculates
 inoculation
+inoculation's
 inoculating
 inoculated
 reinoculate
 reinoculates
 reinoculation
+reinoculation's
 reinoculating
 reinoculated
 inoculation
@@ -67952,6 +68548,7 @@ insatiableness's
 insatiably
 inscribe
 inscription
+inscription's
 inscriptions
 inscriber
 inscriber's
@@ -67981,6 +68578,7 @@ inseminating
 insemination
 inseminations
 insemination
+insemination's
 inseminates
 insemination
 insemination's
@@ -68044,6 +68642,7 @@ insinuates
 insinuating
 insinuatingly
 insinuation
+insinuation's
 insinuation
 insinuation's
 insinuator
@@ -68116,6 +68715,7 @@ inspirational
 inspirationally
 inspiringly
 inspiration
+inspiration's
 inspiration
 inspirations
 inspiring
@@ -68134,6 +68734,7 @@ install
 installation
 installations
 installation
+installation's
 installer
 installer's
 installers
@@ -68171,6 +68772,7 @@ instanter
 instantiate
 instantiating
 instantiation
+instantiation's
 instantiates
 instantiated
 instantiation
@@ -68203,6 +68805,7 @@ instigations
 instigated
 instigating
 instigation
+instigation's
 instigation
 instigation's
 instigator
@@ -68215,6 +68818,7 @@ instiller's
 instillers
 instilling
 instillation
+instillation's
 instillation
 instillations
 instils
@@ -68288,6 +68892,7 @@ instructors
 instructor's
 instrument
 instrumentation
+instrumentation's
 instrumenting
 instrument's
 instrumentation
@@ -68322,6 +68927,7 @@ insulations
 insulated
 insulating
 insulation
+insulation's
 insulated
 uninsulated
 insulation
@@ -68403,6 +69009,7 @@ integrations
 integer's
 integers
 integration
+integration's
 integrability
 integrability's
 integral
@@ -68522,6 +69129,7 @@ intensifier
 intensifier's
 intensifiers
 intensification
+intensification's
 intensifies
 intensifying
 intensified
@@ -68591,6 +69199,7 @@ intercalated
 intercalative
 intercalating
 intercalation
+intercalation's
 intercalation
 intercalation's
 intercase
@@ -68644,6 +69253,7 @@ intercommunicate
 intercommunicates
 intercommunicating
 intercommunication
+intercommunication's
 intercommunication
 intercommunications
 intercommunicated
@@ -68850,6 +69460,7 @@ intermediate
 intermediateness
 intermediateness's
 intermediation
+intermediation's
 intermediately
 intermediating
 intermediated
@@ -68890,6 +69501,7 @@ intermodule
 intermodulation
 intermodulations
 intermodulation
+intermodulation's
 intermolecular
 intermolecularly
 intern
@@ -68961,6 +69573,7 @@ interocular
 interoffice
 interoperate
 interoperation
+interoperation's
 interoperability
 interoperable
 interoperates
@@ -68982,6 +69595,7 @@ interpolatable
 interpolate
 interpolative
 interpolation
+interpolation's
 interpolating
 interpolation
 interpolations
@@ -68995,6 +69609,7 @@ interposes
 interpositions
 interposing
 interposition
+interposition's
 interposer
 interposer's
 interposition
@@ -69008,6 +69623,7 @@ interpretations
 interpreted
 interpreting
 interpretation
+interpretation's
 interprets
 misinterpret
 misinterpreter
@@ -69018,6 +69634,7 @@ misinterpretations
 misinterpreted
 misinterpreting
 misinterpretation
+misinterpretation's
 misinterprets
 interpretable
 interpretation
@@ -69053,6 +69670,7 @@ interrelation
 interrelations
 interrelates
 interrelation
+interrelation's
 interrelating
 interrelatedly
 interrelated
@@ -69073,6 +69691,7 @@ interrogatory
 interrogative
 interrogatively
 interrogation
+interrogation's
 interrogation
 interrogation's
 interrogative
@@ -69112,6 +69731,7 @@ interspecies
 intersperse
 interspersing
 interspersion
+interspersion's
 interspersed
 intersperses
 interspersions
@@ -69201,6 +69821,7 @@ intimate
 intimateness
 intimateness's
 intimation
+intimation's
 intimated
 intimately
 intimates
@@ -69216,6 +69837,7 @@ intimidated
 intimidating
 intimidatingly
 intimidation
+intimidation's
 intimidation
 intimidations
 intimidatory
@@ -69235,6 +69857,7 @@ intonations
 intonational
 intonationally
 intonation
+intonation's
 intoxicant
 intoxicants
 intoxicant's
@@ -69246,6 +69869,7 @@ intoxicated
 intoxicating
 intoxicates
 intoxication
+intoxication's
 intoxication
 intoxication's
 intra
@@ -69323,6 +69947,7 @@ introducing
 introduction
 introductions
 introduction
+introduction's
 introduced
 introduces
 reintroduce
@@ -69330,6 +69955,7 @@ reintroducing
 reintroduction
 reintroductions
 reintroduction
+reintroduction's
 reintroduced
 reintroduces
 introducer
@@ -69365,6 +69991,7 @@ intruders
 intrudes
 intruding
 intrusion
+intrusion's
 intrusions
 intrusive
 intrusiveness
@@ -69381,6 +70008,7 @@ intubated
 intubates
 intubating
 intubation
+intubation's
 intubation
 intubation's
 intuit
@@ -69389,6 +70017,7 @@ intuits
 intuitively
 intuitable
 intuition
+intuition's
 intuitions
 intuitive
 intuited
@@ -69406,6 +70035,7 @@ inundate
 inundates
 inundating
 inundation
+inundation's
 inundation
 inundations
 inundation
@@ -69421,6 +70051,7 @@ invader's
 invaders
 invasions
 invasion
+invasion's
 invaded
 invades
 invading
@@ -69530,11 +70161,13 @@ investigated
 investigates
 investigating
 investigation
+investigation's
 reinvestigate
 reinvestigated
 reinvestigates
 reinvestigating
 reinvestigation
+reinvestigation's
 investigation
 investigation's
 reinvestigation
@@ -69577,6 +70210,7 @@ invigoration
 invigorations
 invigorates
 invigoration
+invigoration's
 invigorating
 reinvigorate
 reinvigorated
@@ -69584,6 +70218,7 @@ reinvigoration
 reinvigorations
 reinvigorates
 reinvigoration
+reinvigoration's
 reinvigorating
 invigorating
 invigoratingly
@@ -69621,6 +70256,7 @@ invite
 invited
 invites
 invitation
+invitation's
 invitation
 invitations
 invitingly
@@ -69636,6 +70272,7 @@ uninviting
 invokable
 invoke
 invocation
+invocation's
 invocation
 invocations
 invoker
@@ -69964,6 +70601,7 @@ irrigable
 irrigate
 irrigated
 irrigation
+irrigation's
 irrigation
 irrigations
 irrigating
@@ -69981,6 +70619,7 @@ irritant
 irritants
 irritate
 irritation
+irritation's
 irritates
 irritating
 irritatingly
@@ -70085,6 +70724,7 @@ isodine
 isolate
 isolates
 isolation
+isolation's
 isolating
 isolation
 isolations
@@ -70262,6 +70902,7 @@ iterations
 iteratively
 iterative
 iteration
+iteration's
 iterating
 iterates
 iterated
@@ -71395,6 +72036,7 @@ jubilant
 jubilantly
 jubilate
 jubilation
+jubilation's
 jubilates
 jubilating
 jubilation
@@ -71720,6 +72362,7 @@ justifier's
 justifiers
 justifies
 justification
+justification's
 justified
 justifiably
 justification
@@ -71746,6 +72389,7 @@ juvenile's
 juveniles
 juxtapose
 juxtaposition
+juxtaposition's
 juxtapositions
 juxtaposes
 juxtaposed
@@ -73595,6 +74239,7 @@ lacer's
 lacerative
 lacerate
 laceration
+laceration's
 laceration
 lacerations
 lacerates
@@ -73647,6 +74292,7 @@ lactation
 lactations
 lactating
 lactation
+lactation's
 lactated
 lactation
 lactation's
@@ -73869,6 +74515,7 @@ lamenting
 lamentably
 laments
 lamentation
+lamentation's
 lamentable
 lamentableness
 lamentableness's
@@ -75060,6 +75707,7 @@ LED's
 led
 lesions
 lesion
+lesion's
 Leda
 ledge
 ledges
@@ -75160,6 +75808,7 @@ leg-spinner's
 leg-spinners
 leg
 legation
+legation's
 legation
 legations
 legible
@@ -75207,6 +75856,7 @@ illegalities
 illegality's
 legalize
 legalization
+legalization's
 legalization
 legalizations
 legalizes
@@ -75220,6 +75870,7 @@ legation
 legations
 legating
 legation
+legation's
 legated
 delegate
 delegates
@@ -75227,6 +75878,7 @@ delegation
 delegations
 delegating
 delegation
+delegation's
 delegated
 relegate
 relegates
@@ -75234,6 +75886,7 @@ relegation
 relegations
 relegating
 relegation
+relegation's
 relegated
 legatee
 legatees
@@ -75296,6 +75949,7 @@ legislation
 legislations
 legislative
 legislation
+legislation's
 legislates
 legislated
 legislatively
@@ -75340,6 +75994,7 @@ legitimization
 legitimization's
 legitimize
 legitimization
+legitimization's
 legitimized
 legitimization
 legitimizations
@@ -75725,6 +76380,7 @@ levitation
 levitations
 levitates
 levitation
+levitation's
 levitation
 levitation's
 Leviticus
@@ -75858,6 +76514,7 @@ liberalizer's
 liberalizers
 liberalizing
 liberalization
+liberalization's
 liberalization
 liberalizations
 liberalized
@@ -75872,12 +76529,14 @@ liberations
 liberated
 liberating
 liberation
+liberation's
 deliberate
 deliberation
 deliberations
 deliberated
 deliberating
 deliberation
+deliberation's
 liberates
 liberation
 liberation's
@@ -76135,6 +76794,7 @@ ligands
 ligate
 ligating
 ligation
+ligation's
 ligated
 ligates
 ligation
@@ -76821,6 +77481,7 @@ literate
 literately
 literates
 literation
+literation's
 literately
 illiterately
 literateness
@@ -76875,6 +77536,7 @@ litigant's
 litigants
 litigate
 litigation
+litigation's
 litigating
 litigated
 litigates
@@ -77211,6 +77873,7 @@ relocatable
 locate
 locates
 location
+location's
 locating
 location
 locations
@@ -77218,6 +77881,7 @@ located
 dislocate
 dislocates
 dislocation
+dislocation's
 dislocating
 dislocation
 dislocations
@@ -77225,6 +77889,7 @@ dislocated
 relocate
 relocates
 relocation
+relocation's
 relocating
 relocation
 relocations
@@ -77232,6 +77897,7 @@ relocated
 collocate
 collocates
 collocation
+collocation's
 collocating
 collocation
 collocations
@@ -78107,6 +78773,7 @@ lubricative
 lubricating
 lubricated
 lubrication
+lubrication's
 lubrication
 lubrication's
 lubricator
@@ -78182,6 +78849,7 @@ lucubrations
 lucubrated
 lucubrating
 lucubration
+lucubration's
 lucubration
 lucubration's
 Lucy
@@ -78378,6 +79046,7 @@ Lundquist's
 lune
 lune's
 lunation
+lunation's
 Luneburg
 lung
 lungs
@@ -78539,6 +79208,7 @@ luxuriates
 luxuriated
 luxuriating
 luxuriation
+luxuriation's
 luxuriation
 luxuriations
 luxuriation
@@ -78754,6 +79424,7 @@ macerates
 macerating
 macerated
 maceration
+maceration's
 maceration
 maceration's
 MacGregor
@@ -78781,6 +79452,7 @@ machine-gunned
 machine-readable
 machine
 machination
+machination's
 machine's
 machined
 machinery
@@ -79102,6 +79774,7 @@ magnetizes
 magnetization
 magnetizations
 magnetization
+magnetization's
 demagnetize
 demagnetizability
 demagnetizable
@@ -79111,6 +79784,7 @@ demagnetizes
 demagnetization
 demagnetizations
 demagnetization
+demagnetization's
 magneto
 magnetos
 magneto's
@@ -79143,6 +79817,7 @@ magnifies
 magnifying
 magnified
 magnification
+magnification's
 demagnify
 demagnifier
 demagnifier's
@@ -79151,6 +79826,7 @@ demagnifies
 demagnifying
 demagnified
 demagnification
+demagnification's
 magniloquence
 magniloquence's
 magniloquences
@@ -79940,6 +80616,7 @@ manifesting
 manifests
 manifestly
 manifestation
+manifestation's
 manifested
 manifestation
 manifestation's
@@ -79972,6 +80649,7 @@ manipulativeness
 manipulability
 manipulable
 manipulation
+manipulation's
 manipulated
 manipulates
 manipulating
@@ -80081,6 +80759,7 @@ manse
 manses
 manse's
 mansion
+mansion's
 mansions
 manservant
 manservant's
@@ -80159,6 +80838,7 @@ manumitted
 manumits
 manumitting
 manumission
+manumission's
 manumissions
 manure
 manures
@@ -80408,6 +81088,7 @@ marination
 marination's
 marine
 marination
+marination's
 mariner
 mariner's
 mariners
@@ -80943,6 +81624,7 @@ mastheads
 mastheaded
 mastic
 mastication
+mastication's
 mastication
 mastications
 mastic's
@@ -80963,6 +81645,7 @@ mastoid
 mastoids
 masturbate
 masturbation
+masturbation's
 masturbation
 masturbations
 masturbated
@@ -81094,6 +81777,7 @@ materialization
 materialization's
 materialize
 materialization
+materialization's
 materialized
 materializer
 materializer's
@@ -81185,6 +81869,7 @@ matriculations
 matriculated
 matriculating
 matriculation
+matriculation's
 Matriculation
 matriculation
 matriculation's
@@ -81254,6 +81939,7 @@ maturer
 maturest
 maturing
 maturation
+maturation's
 maturative
 matures
 maturely
@@ -81802,6 +82488,7 @@ mechanist's
 mechanistic
 mechanize
 mechanization
+mechanization's
 mechanized
 mechanization
 mechanizations
@@ -81876,6 +82563,7 @@ medics
 medically
 medic's
 medication
+medication's
 medication
 medications
 medicative
@@ -81920,6 +82608,7 @@ meditation
 meditations
 meditatively
 meditation
+meditation's
 meditativeness
 meditated
 premeditated
@@ -82091,6 +82780,7 @@ Melinda
 meliorate
 meliorating
 melioration
+melioration's
 meliorates
 melioration
 meliorations
@@ -82334,6 +83024,7 @@ menstruating
 menstruates
 menstruated
 menstruation
+menstruation's
 menstruation
 menstruations
 menstruation
@@ -82705,6 +83396,7 @@ metallization
 metallizations
 metallized
 metallization
+metallization's
 metallizes
 metallizing
 metallography
@@ -82874,6 +83566,7 @@ metrically
 metric
 metric's
 metrication
+metrication's
 metrics
 metrication
 metrications
@@ -83372,6 +84065,7 @@ migrating
 migrated
 migrates
 migration
+migration's
 immigrate
 immigration
 immigrations
@@ -83379,6 +84073,7 @@ immigrating
 immigrated
 immigrates
 immigration
+immigration's
 transmigrate
 transmigration
 transmigrations
@@ -83386,6 +84081,7 @@ transmigrating
 transmigrated
 transmigrates
 transmigration
+transmigration's
 migration
 migration's
 immigration
@@ -83447,6 +84143,7 @@ Milford's
 milieu
 milieus
 milieux
+milieux's
 milieu's
 militancy
 militancies
@@ -83912,6 +84609,7 @@ ministering
 ministers
 ministerially
 ministration
+ministration's
 ministration
 ministrations
 ministerial
@@ -84085,6 +84783,7 @@ misapply
 misapplication
 misapplications
 misapplication
+misapplication's
 misappropriate
 misbehaver
 misbehaver's
@@ -84183,8 +84882,10 @@ mishmashes
 mishmash's
 misidentify
 misidentification
+misidentification's
 misinform
 misinformation
+misinformation's
 misjudge
 misjudgement
 misjudgement's
@@ -84362,6 +85063,7 @@ mitigatory
 mitigated
 mitigates
 mitigation
+mitigation's
 mitigating
 mitigated
 unmitigated
@@ -84586,6 +85288,7 @@ immobility's
 immobilities
 mobilize
 mobilization
+mobilization's
 mobilizing
 mobilizes
 mobilization
@@ -84593,6 +85296,7 @@ mobilizations
 mobilized
 demobilize
 demobilization
+demobilization's
 demobilizing
 demobilizes
 demobilization
@@ -84600,6 +85304,7 @@ demobilizations
 demobilized
 remobilize
 remobilization
+remobilization's
 remobilizing
 remobilizes
 remobilization
@@ -84682,6 +85387,7 @@ moderateness
 moderateness's
 moderates
 moderation
+moderation's
 moderation
 moderations
 moderating
@@ -84774,6 +85480,7 @@ modifiability
 modifiable
 modified
 modification
+modification's
 modification
 modifications
 modifies
@@ -84811,16 +85518,19 @@ modularities
 modulate
 modulates
 modulation
+modulation's
 modulated
 modulating
 demodulate
 demodulates
 demodulation
+demodulation's
 demodulated
 demodulating
 remodulate
 remodulates
 remodulation
+remodulation's
 remodulated
 remodulating
 modulated
@@ -84846,6 +85556,7 @@ modulation
 modulations
 module's
 modulation
+modulation's
 modules
 moduli
 modulo
@@ -85007,6 +85718,7 @@ moleskin's
 moleskins
 molest
 molestation
+molestation's
 molestation
 molestations
 molesting
@@ -85035,6 +85747,7 @@ mollify
 mollification
 mollifications
 mollification
+mollification's
 mollifies
 mollifying
 mollified
@@ -85184,6 +85897,7 @@ remonetised
 remonetises
 monetize
 monetization
+monetization's
 monetization
 monetizations
 monetized
@@ -85191,6 +85905,7 @@ monetizes
 monetizing
 demonetize
 demonetization
+demonetization's
 demonetization
 demonetizations
 demonetized
@@ -85198,6 +85913,7 @@ demonetizes
 demonetizing
 remonetize
 remonetization
+remonetization's
 remonetization
 remonetizations
 remonetized
@@ -85727,6 +86443,7 @@ immorality's
 immoralities
 moralize
 moralization
+moralization's
 moralizing
 moralized
 moralizes
@@ -85734,6 +86451,7 @@ moralization
 moralizations
 demoralize
 demoralization
+demoralization's
 demoralizing
 demoralized
 demoralizes
@@ -85952,6 +86670,7 @@ mortifier
 mortifier's
 mortify
 mortification
+mortification's
 mortified
 mortifying
 mortification
@@ -86133,6 +86852,7 @@ motivationally
 motiving
 motiveless
 motivation
+motivation's
 motivation
 motivations
 motivative
@@ -86918,6 +87638,7 @@ multiplicity's
 multiplicities
 multiply
 multiplication
+multiplication's
 multiplier
 multiplier's
 multipliers
@@ -86992,6 +87713,7 @@ mummification's
 mummify
 mummifies
 mummification
+mummification's
 mummification
 mummifications
 mummified
@@ -87353,6 +88075,7 @@ mute
 mutes
 muting
 mutation
+mutation's
 mutation
 mutations
 muted
@@ -87360,6 +88083,7 @@ commute
 commutes
 commuting
 commutation
+commutation's
 commutation
 commutations
 commuted
@@ -87367,6 +88091,7 @@ transmute
 transmutes
 transmuting
 transmutation
+transmutation's
 transmutation
 transmutations
 transmuted
@@ -87387,6 +88112,7 @@ mutilates
 mutilation
 mutilations
 mutilation
+mutilation's
 mutilating
 mutilation
 mutilation's
@@ -87536,6 +88262,7 @@ mystifier's
 mystify
 mystifying
 mystification
+mystification's
 mystifies
 mystification
 mystifications
@@ -87543,6 +88270,7 @@ mystified
 demystify
 demystifying
 demystification
+demystification's
 demystifies
 demystification
 demystifications
@@ -87604,6 +88332,7 @@ n
 national
 nationally
 nation
+nation's
 natively
 native
 nativeness
@@ -87887,6 +88616,7 @@ narrate
 narrated
 narrates
 narration
+narration's
 narratively
 narrating
 narration
@@ -88063,6 +88793,7 @@ nationalizer
 nationalizer's
 nationalizers
 nationalization
+nationalization's
 nationalizing
 denationalize
 denationalization
@@ -88073,6 +88804,7 @@ denationalizer
 denationalizer's
 denationalizers
 denationalization
+denationalization's
 denationalizing
 nationally
 transnationally
@@ -88207,6 +88939,7 @@ navigates
 navigational
 navigationally
 navigation
+navigation's
 navigation
 navigations
 navigated
@@ -88361,6 +89094,7 @@ unnecessarily
 necessitate
 necessitated
 necessitation
+necessitation's
 necessitates
 necessitating
 necessitation
@@ -88496,6 +89230,7 @@ nefariousness
 nefariousnesses
 neg
 negation
+negation's
 negation
 negations
 negatively
@@ -88571,6 +89306,7 @@ negotiation
 negotiations
 negotiated
 negotiation
+negotiation's
 negotiated
 renegotiated
 negotiates
@@ -89526,6 +90262,7 @@ nitration
 nitration's
 nitre
 nitration
+nitration's
 nitric
 nitration
 nitrations
@@ -89751,6 +90488,7 @@ nominated
 nomination
 nominations
 nomination
+nomination's
 nominating
 nominates
 renominate
@@ -89758,6 +90496,7 @@ renominated
 renomination
 renominations
 renomination
+renomination's
 renominating
 renominates
 denominate
@@ -89765,6 +90504,7 @@ denominated
 denomination
 denominations
 denomination
+denomination's
 denominating
 denominates
 nomination
@@ -90609,6 +91349,7 @@ noted
 noting
 nots
 notation
+notation's
 notability
 notability
 notability's
@@ -90648,6 +91389,7 @@ notches
 note's
 note
 notation
+notation's
 noted
 notation
 notations
@@ -90655,6 +91397,7 @@ notes
 noting
 connote
 connotation
+connotation's
 connoted
 connotation
 connotations
@@ -90662,6 +91405,7 @@ connotes
 connoting
 denote
 denotation
+denotation's
 denoted
 denotation
 denotations
@@ -90705,6 +91449,7 @@ notified
 notifies
 notifying
 notification
+notification's
 notifier
 notifier's
 notifiers
@@ -90937,6 +91682,7 @@ nucleations
 nucleated
 nucleating
 nucleation
+nucleation's
 nucleation
 nucleation's
 nuclei
@@ -91007,6 +91753,7 @@ nullifications
 nullifies
 nullified
 nullification
+nullification's
 nullifying
 nullifier
 nullifier's
@@ -91157,6 +91904,7 @@ nut's
 nuts
 nutting
 nutation
+nutation's
 nutted
 nuttiness
 nutty
@@ -91447,6 +92195,7 @@ disobeyer's
 obfuscate
 obfuscating
 obfuscation
+obfuscation's
 obfuscatory
 obfuscates
 obfuscation
@@ -91474,6 +92223,7 @@ objectification
 objectifications
 objectified
 objectification
+objectification's
 objectifies
 objectifying
 objection
@@ -91500,6 +92250,7 @@ objector's
 objurgate
 objurgating
 objurgation
+objurgation's
 objurgation
 objurgations
 objurgates
@@ -91509,6 +92260,7 @@ objurgation's
 oblate
 oblates
 oblation
+oblation's
 oblately
 oblation
 oblations
@@ -91521,6 +92273,7 @@ obligational
 obligationally
 obligatory
 obligation
+obligation's
 obligates
 obligating
 obligation
@@ -91559,6 +92312,7 @@ obliterative
 obliterates
 obliterating
 obliteration
+obliteration's
 obliteration
 obliterations
 obliteratively
@@ -91609,6 +92363,7 @@ obscures
 obscurer
 obscurest
 obscuration
+obscuration's
 obscurely
 obscuring
 obscured
@@ -91644,6 +92399,7 @@ observe
 observability
 observable
 observation
+observation's
 observational
 observationally
 observed
@@ -91667,6 +92423,7 @@ obsessiveness
 obsessions
 obsessive
 obsession
+obsession's
 obsessed
 obsessing
 obsession
@@ -91751,6 +92508,7 @@ obtrude
 obtrusiveness
 obtruded
 obtrusion
+obtrusion's
 obtrusively
 obtrudes
 obtruding
@@ -91778,6 +92536,7 @@ obviate
 obviating
 obviated
 obviation
+obviation's
 obviation
 obviations
 obviates
@@ -91816,6 +92575,7 @@ occluding
 occlusive
 occluded
 occlusion
+occlusion's
 occlusion
 occlusion's
 occlusive
@@ -92185,6 +92945,7 @@ officiates
 officiating
 officiated
 officiation
+officiation's
 officiation
 officiations
 officiation
@@ -92494,6 +93255,7 @@ omit
 omitting
 omissions
 omission
+omission's
 omits
 omitted
 omni
@@ -92785,11 +93547,13 @@ operated
 operating
 operates
 operation
+operation's
 cooperate
 cooperated
 cooperating
 cooperates
 cooperation
+cooperation's
 operatic
 operatics
 operatically
@@ -92884,6 +93648,7 @@ opposable
 oppose
 opposes
 opposition
+opposition's
 opposed
 oppositional
 oppositionally
@@ -92902,6 +93667,7 @@ opposition
 opposition's
 oppress
 oppression
+oppression's
 oppressions
 oppressive
 oppressively
@@ -93023,6 +93789,7 @@ or
 oration
 orations
 oration
+oration's
 or's
 oracle
 oracles
@@ -93177,9 +93944,11 @@ ordinate's
 ordinate
 ordinates
 ordination
+ordination's
 coordinate
 coordinates
 coordination
+coordination's
 ordination
 ordination's
 coordination
@@ -93298,6 +94067,7 @@ organized
 organization
 organizations
 organization
+organization's
 disorganize
 disorganizes
 disorganizing
@@ -93305,6 +94075,7 @@ disorganized
 disorganization
 disorganizations
 disorganization
+disorganization's
 reorganize
 reorganizes
 reorganizing
@@ -93312,6 +94083,7 @@ reorganized
 reorganization
 reorganizations
 reorganization
+reorganization's
 organizer
 organizer's
 reorganizer
@@ -93342,6 +94114,7 @@ oriented
 orients
 orienting
 orientation
+orientation's
 orientation
 orientations
 reorient
@@ -93349,6 +94122,7 @@ reoriented
 reorients
 reorienting
 reorientation
+reorientation's
 reorientation
 reorientations
 disorient
@@ -93356,6 +94130,7 @@ disoriented
 disorients
 disorienting
 disorientation
+disorientation's
 disorientation
 disorientations
 orientable
@@ -93398,6 +94173,7 @@ originations
 origins
 origin's
 origination
+origination's
 originatively
 originative
 original
@@ -93444,6 +94220,7 @@ ornament's
 ornamenting
 ornamentally
 ornamentation
+ornamentation's
 ornamentation
 ornamentations
 ornamented
@@ -93579,6 +94356,7 @@ oscillatory
 oscillated
 oscillating
 oscillation
+oscillation's
 oscillation
 oscillations
 oscillation
@@ -93592,6 +94370,7 @@ oscilloscopes
 osculate
 osculates
 osculation
+osculation's
 osculated
 osculating
 osculation
@@ -93634,6 +94413,7 @@ ossification
 ossifications
 ossifying
 ossification
+ossification's
 ossified
 ossifies
 Osteichthyes
@@ -94124,6 +94904,7 @@ ovulation
 ovulations
 ovule's
 ovulation
+ovulation's
 ovules
 ovum
 ovums
@@ -94229,6 +95010,7 @@ oxygen's
 oxygenation
 oxygenations
 oxygenation
+oxygenation's
 oxygenate
 oxygenate's
 oxygenates
@@ -94329,6 +95111,7 @@ pacifist
 pacifist's
 pacifists
 pacification
+pacification's
 pacification
 pacifications
 pacific
@@ -94503,6 +95286,7 @@ pagination
 paginations
 paginated
 pagination
+pagination's
 paginating
 pagoda
 pagodas
@@ -94764,6 +95548,7 @@ palliating
 palliatively
 palliated
 palliation
+palliation's
 palliative
 palliation
 palliations
@@ -94835,6 +95620,7 @@ impalpably
 palpate
 palpates
 palpation
+palpation's
 palpating
 palpated
 palpation
@@ -94846,6 +95632,7 @@ palpitated
 palpitating
 palpitates
 palpitation
+palpitation's
 palpitation
 palpitations
 palpitation
@@ -94975,6 +95762,7 @@ panellization
 panellizations
 panellizes
 panellization
+panellization's
 panellized
 panellizing
 pang
@@ -95315,6 +96103,7 @@ parametrizability
 parametrizable
 parametrizes
 parametrization
+parametrization's
 parametrized
 parametrizing
 parametrization
@@ -95707,6 +96496,7 @@ participated
 participates
 participative
 participation
+participation's
 participating
 participation
 participations
@@ -95939,6 +96729,7 @@ pasteurizer
 pasteurizer's
 pasteurizers
 pasteurization
+pasteurization's
 pasteurizing
 pasteurization
 pasteurizations
@@ -96559,6 +97350,7 @@ pectorals
 peculate
 peculating
 peculation
+peculation's
 peculation
 peculations
 peculates
@@ -96887,6 +97679,7 @@ penetrations
 penetratively
 penetratingly
 penetration
+penetration's
 penetrating
 penetrativeness
 penetrated
@@ -96980,6 +97773,7 @@ penology's
 Penrith
 pens
 pension
+pension's
 pensiveness
 pensions
 pensive
@@ -97116,6 +97910,7 @@ perambulating
 perambulated
 perambulates
 perambulation
+perambulation's
 perambulation
 perambulations
 perambulation
@@ -97198,6 +97993,7 @@ percolated
 percolates
 percolating
 percolation
+percolation's
 percolation
 percolations
 percolation
@@ -97209,6 +98005,7 @@ percuss
 percussions
 percusses
 percussion
+percussion's
 percussive
 percussively
 percussed
@@ -97247,6 +98044,7 @@ peregrination
 peregrinations
 peregrines
 peregrination
+peregrination's
 peremptoriness
 peremptory
 peremptorily
@@ -97305,6 +98103,7 @@ perfidies
 perfidy's
 perforate
 perforation
+perforation's
 perforation
 perforations
 perforated
@@ -97521,6 +98320,7 @@ impermeableness's
 permeate
 permeated
 permeation
+permeation's
 permeation
 permeations
 permeability
@@ -97545,6 +98345,7 @@ permit
 permissions
 permitting
 permission
+permission's
 permit's
 permits
 permitted
@@ -97553,6 +98354,7 @@ permutation
 permutation's
 permute
 permutation
+permutation's
 permuting
 permuted
 permutes
@@ -97587,6 +98389,7 @@ perpetrated
 perpetration
 perpetrations
 perpetration
+perpetration's
 perpetration
 perpetration's
 perpetrator
@@ -97597,6 +98400,7 @@ perpetually
 perpetuals
 perpetuate
 perpetuation
+perpetuation's
 perpetuation
 perpetuations
 perpetuates
@@ -97710,12 +98514,14 @@ impersonality
 impersonality's
 personalize
 personalization
+personalization's
 personalizing
 personalizes
 personalization
 personalizations
 depersonalize
 depersonalization
+depersonalization's
 depersonalizing
 depersonalizes
 depersonalization
@@ -97731,6 +98537,7 @@ personifier
 personifier's
 personify
 personification
+personification's
 personified
 personifies
 personifying
@@ -97762,6 +98569,7 @@ perspiration's
 perspire
 perspiring
 perspiration
+perspiration's
 perspired
 perspiration
 perspirations
@@ -97776,6 +98584,7 @@ persuades
 persuasions
 persuasively
 persuasion
+persuasion's
 persuasive
 persuasiveness
 persuaded
@@ -97847,6 +98656,7 @@ Peruvian
 Peruvians
 pervade
 pervasion
+pervasion's
 pervasiveness
 pervasive
 pervaded
@@ -97864,6 +98674,7 @@ perverse
 perverseness
 perverseness's
 perversion
+perversion's
 perversions
 perversely
 perversive
@@ -97992,6 +98803,7 @@ petrifactions
 petrifaction's
 petrify
 petrification
+petrification's
 petrified
 petrifies
 petrifying
@@ -98891,6 +99703,7 @@ piglets
 piglet's
 pigment
 pigmentation
+pigmentation's
 pigmentation
 pigmentations
 pigmented
@@ -99466,6 +100279,7 @@ placative
 placatory
 placating
 placation
+placation's
 placation
 placations
 placater
@@ -99683,6 +100497,7 @@ planoconvex
 plant's
 plant
 plantation
+plantation's
 planted
 plants
 planting
@@ -99690,6 +100505,7 @@ plantation
 plantations
 implant
 implantation
+implantation's
 implanted
 implants
 implanting
@@ -99697,6 +100513,7 @@ implantation
 implantations
 transplant
 transplantation
+transplantation's
 transplanted
 transplants
 transplanting
@@ -99797,6 +100614,7 @@ plateaued
 plateauing
 plateaus
 plateaux
+plateaux's
 plateau's
 plateful
 platefuls
@@ -100350,21 +101168,25 @@ pluvials
 ply
 plies
 plication
+plication's
 plying
 plied
 comply
 complies
 complication
+complication's
 complying
 complied
 imply
 implies
 implication
+implication's
 implying
 implied
 reply
 replies
 replication
+replication's
 replying
 replied
 Plymouth
@@ -100625,6 +101447,7 @@ polarized
 polarizes
 polarizing
 polarization
+polarization's
 polarization
 polarizations
 depolarize
@@ -100632,6 +101455,7 @@ depolarized
 depolarizes
 depolarizing
 depolarization
+depolarization's
 depolarization
 depolarizations
 polarograph
@@ -100796,6 +101620,7 @@ pollinated
 pollinates
 pollinating
 pollination
+pollination's
 pollination
 pollination's
 pollinator
@@ -101067,6 +101892,7 @@ pontifications
 pontificates
 pontificating
 pontification
+pontification's
 Ponting
 Ponting's
 pontoon
@@ -101203,6 +102029,7 @@ populations
 populating
 populated
 population
+population's
 depopulate
 depopulates
 depopulation
@@ -101210,6 +102037,7 @@ depopulations
 depopulating
 depopulated
 depopulation
+depopulation's
 overpopulate
 overpopulates
 overpopulation
@@ -101217,6 +102045,7 @@ overpopulations
 overpopulating
 overpopulated
 overpopulation
+overpopulation's
 populated
 repopulated
 unpopulated
@@ -101423,6 +102252,7 @@ portliest
 portmanteau
 portmanteaus
 portmanteaux
+portmanteaux's
 portmanteau's
 Porto
 portrait
@@ -101463,6 +102293,7 @@ positions
 posed
 posing
 position
+position's
 poses
 compose
 compositional
@@ -101474,6 +102305,7 @@ compositions
 composed
 composing
 composition
+composition's
 composes
 depose
 depositional
@@ -101485,6 +102317,7 @@ depositions
 deposed
 deposing
 deposition
+deposition's
 deposes
 dispose
 dispositional
@@ -101496,6 +102329,7 @@ dispositions
 disposed
 disposing
 disposition
+disposition's
 disposes
 posed
 transposed
@@ -101593,24 +102427,28 @@ possess
 possessing
 possesses
 possession
+possession's
 possessions
 possessed
 dispossess
 dispossessing
 dispossesses
 dispossession
+dispossession's
 dispossessions
 dispossessed
 prepossess
 prepossessing
 prepossesses
 prepossession
+prepossession's
 prepossessions
 prepossessed
 repossess
 repossessing
 repossesses
 repossession
+repossession's
 repossessions
 repossessed
 possession
@@ -101811,6 +102649,7 @@ postscript's
 postscripts
 postulate
 postulation
+postulation's
 postulates
 postulated
 postulating
@@ -102358,6 +103197,7 @@ precessed
 precessing
 precesses
 precession
+precession's
 precinct
 precincts
 precinct's
@@ -102380,6 +103220,7 @@ precipitateness
 precipitateness's
 precipitating
 precipitation
+precipitation's
 precipitates
 precipitately
 precipitated
@@ -102400,12 +103241,14 @@ precise
 preciseness
 preciseness's
 precision
+precision's
 precisely
 precisions
 imprecise
 impreciseness
 impreciseness's
 imprecision
+imprecision's
 imprecisely
 imprecisions
 preciseness
@@ -102423,6 +103266,7 @@ precluded
 precluding
 precludes
 preclusion
+preclusion's
 preclusions
 precocious
 precociousness
@@ -102472,6 +103316,7 @@ predicated
 predicates
 predicating
 predication
+predication's
 predication
 predications
 predication
@@ -102544,6 +103389,7 @@ preferential
 preferentially
 prefigure
 prefiguration
+prefiguration's
 prefix
 prefix's
 preflight
@@ -102643,6 +103489,7 @@ preparations
 preparatory
 preparedness
 preparation
+preparation's
 preparative
 preparatively
 prepared
@@ -102661,6 +103508,7 @@ preponderant
 preponderantly
 preponderate
 preponderation
+preponderation's
 preponderated
 preponderating
 preponderately
@@ -102717,6 +103565,7 @@ Prescott's
 prescribe
 prescriptively
 prescription
+prescription's
 prescriptions
 prescriptive
 prescript
@@ -102744,6 +103593,7 @@ presentment
 presentment's
 presentments
 presentation
+presentation's
 presented
 presentation
 presentations
@@ -102775,6 +103625,7 @@ preservatives
 preserve
 preservative
 preservation
+preservation's
 preservation
 preservations
 preserved
@@ -102864,6 +103715,7 @@ pressurizers
 pressurizing
 pressurizes
 pressurization
+pressurization's
 pressurization
 pressurizations
 Prestbury
@@ -102871,6 +103723,7 @@ prestidigitate
 prestidigitation
 prestidigitations
 prestidigitation
+prestidigitation's
 prestidigitation
 prestidigitation's
 prestidigitator
@@ -102894,6 +103747,7 @@ presumable
 presume
 presumed
 presumption
+presumption's
 presumingly
 presumptive
 presumptively
@@ -102913,6 +103767,7 @@ pretence's
 pretend
 pretensions
 pretension
+pretension's
 pretending
 unpretending
 pretentious
@@ -102960,6 +103815,7 @@ prevaricate
 prevaricated
 prevaricating
 prevarication
+prevarication's
 prevarication
 prevarications
 prevaricates
@@ -103312,6 +104168,7 @@ privatizations
 privater
 privatest
 privation
+privation's
 privatively
 privateer
 privateers
@@ -103446,6 +104303,7 @@ processable
 process's
 processed
 procession
+procession's
 processions
 processes
 processing
@@ -103489,6 +104347,7 @@ proconsular
 procrastinate
 procrastinates
 procrastination
+procrastination's
 procrastinated
 procrastinating
 procrastination
@@ -103502,6 +104361,7 @@ procreate
 procreative
 procreated
 procreation
+procreation's
 procreatory
 procreation
 procreations
@@ -103614,6 +104474,7 @@ profanes
 profaned
 profaning
 profanation
+profanation's
 profanation
 profanations
 profanely
@@ -103631,6 +104492,7 @@ professing
 professedly
 professes
 profession
+profession's
 professions
 profession
 profession's
@@ -103721,6 +104583,7 @@ profuseness
 profuseness's
 profusions
 profusion
+profusion's
 profuseness
 profusenesses
 profusion
@@ -103741,6 +104604,7 @@ prognosis's
 prognostic
 prognostics
 prognostication
+prognostication's
 prognostication
 prognostications
 prognosticative
@@ -103796,6 +104660,7 @@ progressively
 progress's
 progressing
 progression
+progression's
 progressive
 progressiveness
 progressed
@@ -103814,6 +104679,7 @@ prohibited
 prohibiting
 prohibitions
 prohibition
+prohibition's
 prohibitively
 prohibitiveness
 prohibitive
@@ -103884,6 +104750,7 @@ proliferative
 proliferated
 proliferating
 proliferation
+proliferation's
 proliferation
 proliferation's
 prolific
@@ -103907,6 +104774,7 @@ prolong
 prolongation
 prolongations
 prolongation
+prolongation's
 prolonged
 prolongs
 prolonging
@@ -104014,6 +104882,7 @@ promptnesses
 promulgate
 promulgated
 promulgation
+promulgation's
 promulgates
 promulgation
 promulgations
@@ -104110,6 +104979,7 @@ propagandistic
 propagate
 propagating
 propagation
+propagation's
 propagative
 propagated
 propagation
@@ -104133,6 +105003,7 @@ propeller
 propeller's
 propellers
 propulsion
+propulsion's
 propellant
 propellant's
 propellants
@@ -104182,6 +105053,7 @@ propionate
 propionate's
 propitiate
 propitiation
+propitiation's
 propitiated
 propitiates
 propitiation
@@ -104236,6 +105108,7 @@ propositionally
 propositions
 proposes
 proposition
+proposition's
 proposition
 propositioned
 proposition's
@@ -104272,6 +105145,7 @@ propylene
 propylene's
 prorate
 proration
+proration's
 prorating
 prorates
 prorated
@@ -104296,6 +105170,7 @@ proscribing
 proscribed
 proscribes
 proscription
+proscription's
 proscriptions
 proscriptive
 proscriber
@@ -104400,6 +105275,7 @@ prostrated
 prostrates
 prostrating
 prostration
+prostration's
 prostration
 prostrations
 prostration
@@ -104475,6 +105351,7 @@ protestation
 protestations
 protest's
 protestation
+protestation's
 protester
 protester's
 protesters
@@ -104530,6 +105407,7 @@ protrusions
 protrusively
 protruded
 protrusion
+protrusion's
 protrusiveness
 protrusile
 protrusion
@@ -104584,6 +105462,7 @@ reproves
 providable
 provide
 provision
+provision's
 provisional
 provisionally
 provisions
@@ -104646,6 +105525,7 @@ provokers
 provoking
 provocative
 provocation
+provocation's
 provocatively
 provocation
 provocations
@@ -104934,6 +105814,7 @@ publicized
 publicizes
 publicizing
 publication
+publication's
 public's
 publicist
 publicist's
@@ -105152,6 +106033,7 @@ pulsations
 pulsated
 pulsates
 pulsation
+pulsation's
 pulsation
 pulsation's
 pulse
@@ -105185,6 +106067,7 @@ pulverize
 pulverized
 pulverizing
 pulverization
+pulverization's
 pulverization
 pulverizations
 pulverizer
@@ -105262,6 +106145,7 @@ unpunctuality's
 punctuate
 punctuating
 punctuation
+punctuation's
 punctuates
 punctuation
 punctuations
@@ -105336,6 +106220,7 @@ pupped
 puppy
 pups
 pupation
+pupation's
 pupping
 pup's
 pupa
@@ -105420,6 +106305,7 @@ purgatory's
 purge
 purges
 purgation
+purgation's
 purger
 purger's
 purgers
@@ -105435,6 +106321,7 @@ purifier
 purifier's
 purifiers
 purification
+purification's
 purifying
 purine
 purine's
@@ -105894,6 +106781,7 @@ quadruply
 quadruplication
 quadruplications
 quadruplication
+quadruplication's
 quadrupole
 quaff
 quaffs
@@ -105944,6 +106832,7 @@ qualifier's
 qualifiers
 qualify
 qualification
+qualification's
 qualification
 qualifications
 qualifying
@@ -105951,6 +106840,7 @@ qualified
 qualifies
 disqualify
 disqualification
+disqualification's
 disqualification
 disqualifications
 disqualifying
@@ -105982,6 +106872,7 @@ quantifier's
 quantifiers
 quantifies
 quantification
+quantification's
 quantification
 quantifications
 quantifying
@@ -106532,6 +107423,7 @@ quoted
 quotation
 quotations
 quotation
+quotation's
 misquote
 misquotes
 misquoting
@@ -106539,6 +107431,7 @@ misquoted
 misquotation
 misquotations
 misquotation
+misquotation's
 quoted
 unquoted
 quoter
@@ -106708,6 +107601,7 @@ radiative
 radiated
 radiates
 radiation
+radiation's
 radiating
 irradiate
 irradiation
@@ -106716,6 +107610,7 @@ irradiative
 irradiated
 irradiates
 irradiation
+irradiation's
 irradiating
 radiately
 radiation
@@ -107051,6 +107946,7 @@ ramifies
 ramifying
 ramified
 ramification
+ramification's
 ramification
 ramifications
 ramjet
@@ -107406,6 +108302,7 @@ rather
 ratify
 ratifying
 ratification
+ratification's
 ratified
 ratifies
 ratifier
@@ -107424,6 +108321,7 @@ ratiocinating
 ratiocinates
 ratiocinated
 ratiocination
+ratiocination's
 ratiocination
 ratiocinations
 ratiocinative
@@ -107628,9 +108526,11 @@ re-allocated
 re-deployed
 re-edit
 re-edition
+re-edition's
 re-editable
 re-educate
 re-education
+re-education's
 re-elect
 re-electable
 re-embody
@@ -107653,10 +108553,12 @@ re-establish
 re-estimate
 re-examine
 re-examination
+re-examination's
 re-export
 re-exportable
 re-form
 re-formation
+re-formation's
 re-fund
 re-radiated
 re-release
@@ -107682,6 +108584,7 @@ ring's
 rings
 rally
 ration
+ration's
 ration
 rations
 rely
@@ -107777,6 +108680,7 @@ readied
 readily
 reafforest
 reafforestation
+reafforestation's
 Reagan
 Reagan's
 Reagile
@@ -107867,6 +108771,7 @@ reapplying
 reapplication
 reapplications
 reapplication
+reapplication's
 reappoint
 reappointing
 reappointment
@@ -107897,6 +108802,7 @@ rearward
 rearwards
 reascend
 reascension
+reascension's
 reascending
 reason
 reasonable
@@ -107991,6 +108897,7 @@ recant
 recantation
 recantations
 recantation
+recantation's
 recanting
 recap
 recapped
@@ -108045,6 +108952,7 @@ receptor's
 receptors
 recertify
 recertification
+recertification's
 recess
 recesses
 recessively
@@ -108053,6 +108961,7 @@ recessive
 recess's
 recessing
 recession
+recession's
 recessiveness
 recessed
 recession
@@ -108089,6 +108998,7 @@ reciprocating
 reciprocation
 reciprocations
 reciprocation
+reciprocation's
 reciprocates
 reciprocated
 reciprocation
@@ -108112,6 +109022,7 @@ reciter
 reciter's
 reciters
 recitation
+recitation's
 recitation
 recitations
 reckless
@@ -108136,6 +109047,7 @@ reclassifications
 reclassified
 reclassifying
 reclassification
+reclassification's
 recline
 reclined
 recliner
@@ -108145,6 +109057,7 @@ reclining
 reclines
 recluse
 reclusion
+reclusion's
 recluses
 recluse's
 reclusive
@@ -108187,6 +109100,7 @@ recolouring
 recombinant
 recombine
 recombination
+recombination's
 recombination
 recombinations
 recommission
@@ -108195,6 +109109,7 @@ recommit
 recommissions
 recommitting
 recommission
+recommission's
 recommitted
 recommittal
 recompense
@@ -108226,6 +109141,7 @@ reconfigure
 reconfigurability
 reconfigurable
 reconfiguration
+reconfiguration's
 reconfiguration
 reconfigurations
 reconfirm
@@ -108233,6 +109149,7 @@ reconfirming
 reconfirmation
 reconfirmations
 reconfirmation
+reconfirmation's
 reconnaissance
 reconnaissance's
 reconnaissances
@@ -108305,6 +109222,7 @@ recreational
 recreationally
 recriminate
 recrimination
+recrimination's
 recriminative
 recriminatory
 recrimination
@@ -108357,6 +109275,7 @@ rectifier
 rectifier's
 rectifiers
 rectification
+rectification's
 rectilinear
 rectilinearly
 rectitude
@@ -108387,6 +109306,7 @@ recuperated
 recuperates
 recuperating
 recuperation
+recuperation's
 recuperation
 recuperation's
 recur
@@ -108400,6 +109320,7 @@ recurs
 recursive
 recursively
 recursion
+recursion's
 recursions
 recursion
 recursion's
@@ -108496,6 +109417,7 @@ redesign
 redesigning
 redetermine
 redetermination
+redetermination's
 Redfern
 Redfingers
 Redford
@@ -108516,6 +109438,7 @@ rediscovering
 redistribute
 redivide
 redivision
+redivision's
 redlining
 Redmond
 Redmond's
@@ -108557,6 +109480,7 @@ reducing
 reduced
 reducible
 reduction
+reduction's
 reduced
 unreduced
 reducibility
@@ -108712,6 +109636,7 @@ refitted
 refitting
 reflate
 reflation
+reflation's
 reflation
 reflationary
 reflect
@@ -108757,6 +109682,7 @@ refold
 refolding
 reforest
 reforestation
+reforestation's
 reforestation
 reforestations
 reforesting
@@ -108821,6 +109747,7 @@ refrigerated
 refrigerates
 refrigerating
 refrigeration
+refrigeration's
 refrigerated
 unrefrigerated
 refrigeration
@@ -108866,6 +109793,7 @@ refuters
 refutes
 refuting
 refutation
+refutation's
 refuted
 reg
 regally
@@ -108921,6 +109849,7 @@ regimen's
 regiment
 regiment's
 regimentation
+regimentation's
 regimenting
 regiments
 regimentation
@@ -108952,6 +109881,7 @@ registering
 registration
 registrations
 registration
+registration's
 preregister
 preregisters
 preregistered
@@ -108959,6 +109889,7 @@ preregistering
 preregistration
 preregistrations
 preregistration
+preregistration's
 registered
 unregistered
 registrable
@@ -108980,6 +109911,7 @@ regrade
 regress
 regressed
 regression
+regression's
 regressions
 regressiveness
 regressing
@@ -109026,6 +109958,7 @@ irregularity's
 regularize
 regularizing
 regularization
+regularization's
 regularizes
 regularization
 regularizations
@@ -109034,6 +109967,7 @@ regulate
 regulates
 regulated
 regulation
+regulation's
 regulation
 regulations
 regulating
@@ -109042,6 +109976,7 @@ deregulate
 deregulates
 deregulated
 deregulation
+deregulation's
 deregulation
 deregulations
 deregulating
@@ -109061,12 +109996,14 @@ regurgitation
 regurgitations
 regurgitates
 regurgitation
+regurgitation's
 regurgitation
 regurgitation's
 rehab
 rehabilitate
 rehabilitating
 rehabilitation
+rehabilitation's
 rehabilitated
 rehabilitates
 rehabilitative
@@ -109122,6 +110059,7 @@ reimbursements
 reimburses
 reimplement
 reimplementation
+reimplementation's
 reimplementing
 reimport
 reimporting
@@ -109160,6 +110098,7 @@ reinterpreting
 reinterpretation
 reinterpretations
 reinterpretation
+reinterpretation's
 reinvent
 reinventing
 reissue
@@ -109192,6 +110131,7 @@ rejuvenation
 rejuvenations
 rejuvenated
 rejuvenation
+rejuvenation's
 rejuvenates
 reknit
 relabel
@@ -109199,6 +110139,7 @@ relabelling
 relabelled
 relate
 relation
+relation's
 related
 relating
 relation
@@ -109208,6 +110149,7 @@ relative
 relates
 correlate
 correlation
+correlation's
 correlated
 correlating
 correlation
@@ -109449,6 +110391,7 @@ remit
 remissions
 remits
 remission
+remission's
 remitted
 remitting
 remittance
@@ -109478,6 +110421,7 @@ remonstratively
 remonstrating
 remonstrates
 remonstration
+remonstration's
 remonstration
 remonstration's
 Remora
@@ -109507,6 +110451,7 @@ remove
 remunerate
 remunerating
 remuneration
+remuneration's
 remunerates
 remuneratively
 remuneration
@@ -109608,6 +110553,7 @@ renovate
 renovating
 renovated
 renovation
+renovation's
 renovates
 renovation
 renovations
@@ -109689,6 +110635,7 @@ repatriation
 repatriations
 repatriates
 repatriation
+repatriation's
 repay
 repayable
 repeat
@@ -109710,6 +110657,7 @@ repêchage
 repel
 repelled
 repulsion
+repulsion's
 repelling
 repulsion
 repulsions
@@ -109764,6 +110712,7 @@ replete
 repleteness
 repleteness's
 repletion
+repletion's
 repletion
 repletion's
 replica
@@ -109804,6 +110753,7 @@ repose's
 reposeful
 repositions
 reposition
+reposition's
 reposition
 repositioning
 repository
@@ -109815,6 +110765,7 @@ reprehend
 reprehended
 reprehends
 reprehension
+reprehension's
 reprehending
 reprehensions
 reprehensibility
@@ -109825,6 +110776,7 @@ reprehension
 reprehension's
 represent
 representation
+representation's
 representation
 representations
 represented
@@ -109832,6 +110784,7 @@ representing
 represents
 misrepresent
 misrepresentation
+misrepresentation's
 misrepresentation
 misrepresentations
 misrepresented
@@ -109855,6 +110808,7 @@ under-represented
 representivity
 repress
 repression
+repression's
 repressions
 repressive
 repressively
@@ -109898,6 +110852,7 @@ reproachfulness
 reproachfulness's
 reprobate
 reprobation
+reprobation's
 reprobated
 reprobating
 reprocess
@@ -109908,6 +110863,7 @@ reproducible
 reproductive
 reproductiveness
 reproduction
+reproduction's
 reproduction
 reproductions
 reproductively
@@ -109931,6 +110887,7 @@ reptilian
 reptilians
 republic
 republication
+republication's
 republication
 republications
 republics
@@ -109944,6 +110901,7 @@ repudiate
 repudiates
 repudiated
 repudiation
+repudiation's
 repudiating
 repudiation
 repudiations
@@ -110074,6 +111032,7 @@ reservist's
 reservists
 reservedness
 reservation
+reservation's
 reservation
 reservations
 reserved
@@ -110120,6 +111079,7 @@ resignation
 resignations
 resignedly
 resignation
+resignation's
 resignation
 resignation's
 resilience
@@ -110250,6 +111210,7 @@ respirator's
 respirators
 respire
 respiration
+respiration's
 respiring
 respiration
 respirations
@@ -110345,6 +111306,7 @@ restorative
 restoratives
 restore
 restoration
+restoration's
 restoration
 restorations
 restorer
@@ -110398,6 +111360,7 @@ resumptions
 resumed
 resuming
 resumption
+resumption's
 resumption
 resumption's
 resupply
@@ -110420,6 +111383,7 @@ resuscitated
 resuscitation
 resuscitations
 resuscitation
+resuscitation's
 resuscitative
 resuscitation
 resuscitation's
@@ -110446,6 +111410,7 @@ retaliative
 retaliates
 retaliating
 retaliation
+retaliation's
 retaliation
 retaliations
 retaliatory
@@ -110505,6 +111470,7 @@ reticule
 reticulation
 reticulations
 reticulation
+reticulation's
 reticule's
 reticules
 reticulum
@@ -110579,6 +111545,7 @@ retrofits
 retroflex
 retroflexed
 retroflexion
+retroflexion's
 retroflexion
 retroflexion's
 retrogradations
@@ -110588,6 +111555,7 @@ retrogrades
 retrograding
 retrogress
 retrogression
+retrogression's
 retrogressed
 retrogressing
 retrogressive
@@ -110645,6 +111613,7 @@ revalue
 revaluation
 revaluations
 revaluation
+revaluation's
 Revd.
 reveal
 revealable
@@ -110667,6 +111636,7 @@ revellers
 revelling's
 revellings
 revulsion
+revulsion's
 revelled
 revulsion
 revulsions
@@ -110695,6 +111665,7 @@ reverberating
 reverberates
 reverberated
 reverberation
+reverberation's
 reverberation
 reverberations
 reverberation
@@ -110781,6 +111752,7 @@ revitaliser's
 revitalisers
 revitalize
 revitalization
+revitalization's
 revitalization
 revitalizations
 revival
@@ -110810,6 +111782,7 @@ revocable
 irrevocable
 revoke
 revocation
+revocation's
 revocation
 revocations
 revoker
@@ -112017,6 +112990,7 @@ romanize
 romanization
 romanizations
 romanization
+romanization's
 romanizes
 romanizing
 romanized
@@ -112357,6 +113331,7 @@ rot-gut
 rot-gut's
 rot
 rotation
+rotation's
 rotting
 rots
 rotation
@@ -112792,6 +113767,7 @@ Ruigtesloot
 Ruimsig
 ruin
 ruination
+ruination's
 ruination
 ruinations
 ruined
@@ -112860,6 +113836,7 @@ ruminants
 ruminate
 ruminates
 rumination
+rumination's
 ruminatively
 ruminated
 ruminating
@@ -113067,6 +114044,7 @@ rustres
 rustre's
 rusty
 rustication
+rustication's
 rustier
 rustiest
 rustiness
@@ -113527,6 +114505,7 @@ salivary
 salivate
 salivates
 salivation
+salivation's
 salivated
 salivating
 Salk
@@ -113628,6 +114607,7 @@ salute
 saluted
 saluting
 salutation
+salutation's
 salutation
 salutations
 salutes
@@ -113660,6 +114640,7 @@ salving
 salvation
 salvations
 salvation
+salvation's
 salve's
 salves
 salvo
@@ -113762,6 +114743,7 @@ sanctifier
 sanctifier's
 sanctify
 sanctification
+sanctification's
 sanctifies
 sanctifying
 sanctification
@@ -113934,6 +114916,7 @@ sanitises
 sanitising
 sanitize
 sanitization
+sanitization's
 sanitizer
 sanitizer's
 sanitizers
@@ -114122,6 +115105,7 @@ satiations
 satiated
 satiates
 satiation
+satiation's
 satiating
 satiation
 satiation's
@@ -114190,6 +115174,7 @@ satraps
 saturate
 saturates
 saturation
+saturation's
 saturation
 saturations
 saturating
@@ -114197,6 +115182,7 @@ saturated
 desaturate
 desaturates
 desaturation
+desaturation's
 desaturation
 desaturations
 desaturating
@@ -114526,6 +115512,7 @@ scanner's
 scanners
 scans
 scansion
+scansion's
 scansions
 scansion
 scansion's
@@ -114595,6 +115582,7 @@ scarification's
 scarifier
 scarify
 scarification
+scarification's
 scarified
 scarifies
 scarifying
@@ -115824,6 +116812,7 @@ seclusions
 secludes
 seclusive
 seclusion
+seclusion's
 seclusion
 seclusion's
 second-best
@@ -115872,6 +116861,7 @@ secretes
 secretion
 secretions
 secretion
+secretion's
 secretion
 secretion's
 sect's
@@ -115978,6 +116968,7 @@ sedated
 sedately
 sedating
 sedation
+sedation's
 sedateness
 sedation
 sedation's
@@ -116007,6 +116998,7 @@ sedimentations
 sediments
 sediment's
 sedimentation
+sedimentation's
 sedimentary
 sedimentation
 sedimentation's
@@ -116029,6 +117021,7 @@ seductively
 seducing
 seductiveness
 seduction
+seduction's
 seduction
 seduction's
 seductive
@@ -116150,6 +117143,7 @@ seething
 Segakwaneng
 segment
 segmentation
+segmentation's
 segmentally
 segmented
 segmenting
@@ -116173,6 +117167,7 @@ segregations
 segregated
 segregates
 segregation
+segregation's
 desegregate
 desegregating
 desegregation
@@ -116180,6 +117175,7 @@ desegregations
 desegregated
 desegregates
 desegregation
+desegregation's
 segregated
 unsegregated
 segregation
@@ -116810,6 +117806,7 @@ sensitize
 sensitized
 sensitizes
 sensitization
+sensitization's
 sensitization
 sensitizations
 sensitizing
@@ -116817,6 +117814,7 @@ desensitize
 desensitized
 desensitizes
 desensitization
+desensitization's
 desensitization
 desensitizations
 desensitizing
@@ -116938,6 +117936,7 @@ separatist
 separatist's
 separatists
 separation
+separation's
 separative
 separating
 separateness
@@ -116966,6 +117965,7 @@ sept
 sept's
 septic
 septation
+septation's
 septa
 septa's
 septagon
@@ -117036,6 +118036,7 @@ sequestration
 sequestrations
 sequesters
 sequestration
+sequestration's
 sequestrate
 sequestrated
 sequestrates
@@ -117166,6 +118167,7 @@ serrate
 serration
 serrations
 serration
+serration's
 serrated
 serration
 serration's
@@ -119154,6 +120156,7 @@ signalisations
 signalises
 signalize
 signalization
+signalization's
 signalized
 signalization
 signalizations
@@ -119201,6 +120204,7 @@ signification's
 signifier
 signify
 signification
+signification's
 signifying
 signification
 significations
@@ -119317,6 +120321,7 @@ silt's
 silting
 silty
 siltation
+siltation's
 silted
 silts
 siltation
@@ -119454,6 +120459,7 @@ simplifiers
 simplifier's
 simplify
 simplification
+simplification's
 simplified
 simplifies
 simplifying
@@ -119461,6 +120467,7 @@ simplification
 simplifications
 oversimplify
 oversimplification
+oversimplification's
 oversimplified
 oversimplifies
 oversimplifying
@@ -119482,6 +120489,7 @@ simulates
 simulation
 simulations
 simulation
+simulation's
 dissimulate
 dissimulating
 dissimulated
@@ -119489,6 +120497,7 @@ dissimulates
 dissimulation
 dissimulations
 dissimulation
+dissimulation's
 simulation
 simulation's
 dissimulation
@@ -119778,6 +120787,7 @@ Sittingbourne
 situate
 situating
 situation
+situation's
 situation
 situations
 situated
@@ -121912,6 +122922,7 @@ solidifies
 solidifying
 solidified
 solidification
+solidification's
 solidity
 solidities
 solidness
@@ -122206,6 +123217,7 @@ sophistic
 sophistication
 sophistications
 sophistication
+sophistication's
 sophisticate
 sophisticatedly
 sophisticating
@@ -122842,6 +123854,7 @@ specific
 specifics
 specifically
 specification
+specification's
 specification
 specifications
 specification
@@ -122935,6 +123948,7 @@ speculates
 speculated
 speculating
 speculation
+speculation's
 speculation
 speculations
 speculation
@@ -124089,6 +125103,7 @@ SSW
 st.
 St
 Station
+Station's
 Staal
 staaldak
 Staalveld
@@ -124129,6 +125144,7 @@ instability's
 instabilities
 stabilize
 stabilization
+stabilization's
 stabilizer
 stabilizer's
 stabilizers
@@ -124139,6 +125155,7 @@ stabilizing
 stabilized
 destabilize
 destabilization
+destabilization's
 destabilizer
 destabilizer's
 destabilizers
@@ -124265,6 +125282,7 @@ stagnantly
 stagnate
 stagnating
 stagnation
+stagnation's
 stagnated
 stagnation
 stagnations
@@ -124622,6 +125640,7 @@ starvation
 starvation's
 starve
 starvation
+starvation's
 starvation
 starvations
 starves
@@ -125425,6 +126444,7 @@ stipulating
 stipulated
 stipulates
 stipulation
+stipulation's
 stipulation
 stipulations
 stipulation
@@ -125960,6 +126980,7 @@ strangleholds
 stranglehold's
 strangulate
 strangulation
+strangulation's
 strangulates
 strangulated
 strangulation
@@ -126007,6 +127028,7 @@ stratification's
 stratify
 stratified
 stratification
+stratification's
 stratification
 stratifications
 stratifying
@@ -126484,6 +127506,7 @@ stultify
 stultifies
 stultifying
 stultification
+stultification's
 stultification
 stultifications
 stultified
@@ -126607,6 +127630,7 @@ stylizations
 stylizing
 stylizes
 stylization
+stylization's
 stylized
 stylus
 styluses
@@ -126727,6 +127751,7 @@ subdirectory
 subdirectories
 subdivide
 subdivision
+subdivision's
 subdivisions
 subdivided
 subdividing
@@ -126793,6 +127818,7 @@ subjugations
 subjugates
 subjugated
 subjugation
+subjugation's
 subjugating
 subjugation
 subjugation's
@@ -126847,6 +127873,7 @@ submerses
 submersible
 submersing
 submersion
+submersion's
 submersed
 submersible
 submersibles
@@ -126863,12 +127890,14 @@ submissiveness's
 submissively
 submit
 submission
+submission's
 submissions
 submitted
 submitting
 submits
 resubmit
 resubmission
+resubmission's
 resubmissions
 resubmitted
 resubmitting
@@ -126888,6 +127917,7 @@ suborders
 subordinate
 subordinates
 subordination
+subordination's
 subordinating
 subordinated
 subordinately
@@ -126896,6 +127926,7 @@ subordinations
 insubordinate
 insubordinates
 insubordination
+insubordination's
 insubordinating
 insubordinated
 insubordinately
@@ -126911,6 +127942,7 @@ suborn
 suborned
 suborns
 subornation
+subornation's
 suborning
 subornation
 subornation's
@@ -127028,6 +128060,7 @@ insubstantially
 substantiate
 substantiates
 substantiation
+substantiation's
 substantiated
 substantiation
 substantiations
@@ -127199,6 +128232,7 @@ successions
 successes
 successfully
 succession
+succession's
 successive
 success's
 successively
@@ -127329,6 +128363,7 @@ suffixed
 suffixing
 suffocate
 suffocation
+suffocation's
 suffocated
 suffocating
 suffocates
@@ -127354,6 +128389,7 @@ suffusions
 suffused
 suffuses
 suffusion
+suffusion's
 suffusion
 suffusion's
 Sufi
@@ -127513,6 +128549,7 @@ sizes
 sizing
 sum's
 summation
+summation's
 summing
 summed
 sumac
@@ -127774,6 +128811,7 @@ superannuations
 superannuates
 superannuated
 superannuation
+superannuation's
 superannuation
 superannuation's
 superb
@@ -127845,6 +128883,7 @@ superimpositions
 superimposes
 superimposing
 superimposition
+superimposition's
 superimposition
 superimposition's
 superintend
@@ -127897,6 +128936,7 @@ superposed
 superposes
 superposing
 superposition
+superposition's
 superposition
 superposition's
 superpower
@@ -127907,6 +128947,7 @@ supersaturated
 supersaturates
 supersaturating
 supersaturation
+supersaturation's
 supersaturation
 supersaturation's
 superscribe
@@ -127915,6 +128956,7 @@ superscribes
 superscribing
 superscriptions
 superscription
+superscription's
 superscript
 superscripting
 superscripts
@@ -127962,6 +129004,7 @@ supervention
 supervise
 supervising
 supervision
+supervision's
 supervised
 supervises
 supervisions
@@ -127998,6 +129041,7 @@ supplement
 supplemented
 supplementing
 supplementation
+supplementation's
 supplementation
 supplementations
 supplemental
@@ -128012,6 +129056,7 @@ supplicate
 supplicates
 supplicating
 supplication
+supplication's
 supplication
 supplications
 supplicated
@@ -128058,12 +129103,14 @@ suppose
 suppositions
 supposing
 supposition
+supposition's
 supposed
 supposes
 presuppose
 presuppositions
 presupposing
 presupposition
+presupposition's
 presupposed
 presupposes
 supposed
@@ -128075,6 +129122,7 @@ suppositories
 suppository's
 suppress
 suppression
+suppression's
 suppressive
 suppressible
 suppressions
@@ -128093,6 +129141,7 @@ suppurate
 suppurated
 suppurates
 suppuration
+suppuration's
 suppuration
 suppurations
 suppurating
@@ -128361,6 +129410,7 @@ suspensions
 suspending
 suspends
 suspension
+suspension's
 suspensive
 suspensively
 suspended
@@ -128928,6 +129978,7 @@ syllabification
 syllabification's
 syllabify
 syllabification
+syllabification's
 syllabifies
 syllabification
 syllabifications
@@ -129099,6 +130150,7 @@ synchronization
 synchronizations
 synchronizing
 synchronization
+synchronization's
 synchronizes
 synchronized
 resynchronize
@@ -129106,6 +130158,7 @@ resynchronization
 resynchronizations
 resynchronizing
 resynchronization
+resynchronization's
 resynchronizes
 resynchronized
 synchronized
@@ -129162,6 +130215,7 @@ syncope
 syncopation
 syncopations
 syncopation
+syncopation's
 syncope's
 syndactyl
 syndactyly
@@ -129169,6 +130223,7 @@ syndic
 syndication
 syndications
 syndication
+syndication's
 syndic's
 syndics
 syndical
@@ -129303,6 +130358,7 @@ systematised
 systematises
 systematize
 systematization
+systematization's
 systematizing
 systematization
 systematizations
@@ -129407,6 +130463,7 @@ tabular
 tabularly
 tabulate
 tabulation
+tabulation's
 tabulated
 tabulates
 tabulating
@@ -130589,6 +131646,7 @@ telecommunicate
 telecommunication
 telecommunications
 telecommunication
+telecommunication's
 telecommunication
 telecommunication's
 telecommute
@@ -130697,6 +131755,7 @@ televangelists
 televise
 televised
 television
+television's
 televisions
 televises
 televising
@@ -130998,6 +132057,7 @@ tensionally
 tensed
 tenses
 tension
+tension's
 tensions
 tense
 tensely
@@ -131102,11 +132162,13 @@ terminally
 terminate
 terminates
 termination
+termination's
 termination
 terminations
 determinate
 determinates
 determination
+determination's
 determination
 determinations
 terminated
@@ -131251,6 +132313,7 @@ tessellate
 tessellates
 tessellating
 tessellation
+tessellation's
 tessellation
 tessellations
 tessellated
@@ -132828,6 +133891,7 @@ titillated
 titillatingly
 titillating
 titillation
+titillation's
 titillation
 titillations
 titillation
@@ -132836,6 +133900,7 @@ titivate
 titivated
 titivates
 titivation
+titivation's
 titivating
 titivation
 titivations
@@ -132872,6 +133937,7 @@ titration
 titration's
 titre
 titration
+titration's
 titres
 titre's
 titter
@@ -133123,6 +134189,7 @@ tolerating
 toleration
 tolerations
 toleration
+toleration's
 toleration
 toleration's
 toll-bridge
@@ -133868,6 +134935,7 @@ tracing
 traction
 tractions
 traction
+traction's
 retrace
 retraced
 retraces
@@ -133875,6 +134943,7 @@ retracing
 retraction
 retractions
 retraction
+retraction's
 traceability
 traceable
 untraceable
@@ -134215,6 +135284,7 @@ transcriber
 transcriber's
 transcribers
 transcription
+transcription's
 transcribed
 transcriptions
 transcript
@@ -134270,6 +135340,7 @@ untransformed
 transgenic
 transgress
 transgression
+transgression's
 transgresses
 transgressive
 transgressed
@@ -134303,6 +135374,7 @@ transit
 transited
 transiting
 transition
+transition's
 transitional
 transitionally
 transitions
@@ -134336,6 +135408,7 @@ translations
 translated
 translating
 translation
+translation's
 translatability
 translates
 translated
@@ -134376,12 +135449,14 @@ transmitted
 transmitting
 transmits
 transmission
+transmission's
 transmissions
 retransmit
 retransmitted
 retransmitting
 retransmits
 retransmission
+retransmission's
 retransmissions
 transmittable
 transmittal
@@ -134401,6 +135476,7 @@ transmogrifications
 transmogrified
 transmogrifies
 transmogrification
+transmogrification's
 transmogrifying
 transmutable
 transnational
@@ -134420,6 +135496,7 @@ transpire
 transpires
 transpiring
 transpiration
+transpiration's
 transpiration
 transpirations
 transpired
@@ -134429,6 +135506,7 @@ transponder
 transponder's
 transport
 transportation
+transportation's
 transportability
 transportable
 transportation
@@ -134440,6 +135518,7 @@ transportation's
 transposable
 transpose
 transposition
+transposition's
 transposed
 untransposed
 transputer
@@ -134813,6 +135892,7 @@ triangulates
 triangulated
 triangulating
 triangulation
+triangulation's
 triangulation
 triangulations
 triangulation
@@ -135049,6 +136129,7 @@ triplication
 triplication's
 triply
 triplication
+triplication's
 tripod
 tripod's
 tripods
@@ -135378,6 +136459,7 @@ truncated
 truncates
 truncating
 truncation
+truncation's
 truncation
 truncations
 truncation
@@ -136464,6 +137546,7 @@ ulcerates
 ulcerating
 ulcerated
 ulceration
+ulceration's
 ulceration
 ulceration's
 ulcerous
@@ -136514,6 +137597,7 @@ Ultrix's
 ululate
 ululated
 ululation
+ululation's
 ululation
 ululations
 ululates
@@ -136830,6 +137914,7 @@ undertow
 undertow's
 undervalue
 undervaluation
+undervaluation's
 underwater
 underwear
 underwear's
@@ -136852,6 +137937,7 @@ undue
 undulant
 undulate
 undulation
+undulation's
 undulated
 undulates
 undulating
@@ -137004,6 +138090,7 @@ unify
 unifying
 unified
 unification
+unification's
 unifies
 unification
 unifications
@@ -137011,6 +138098,7 @@ reunify
 reunifying
 reunified
 reunification
+reunification's
 reunifies
 reunification
 reunifications
@@ -137632,6 +138720,7 @@ urination
 urination's
 urine
 urination
+urination's
 urines
 urination
 urinations
@@ -137752,6 +138841,7 @@ usurper
 usurper's
 usurpers
 usurpation
+usurpation's
 usurpation
 usurpations
 usurps
@@ -137821,6 +138911,7 @@ utilizes
 utilized
 utilizing
 utilization
+utilization's
 underutilize
 underutilization
 underutilizations
@@ -137828,6 +138919,7 @@ underutilizes
 underutilized
 underutilizing
 underutilization
+underutilization's
 Utlwanang
 Utlwaneng
 utmost
@@ -137891,6 +138983,7 @@ vacates
 vacated
 vacating
 vacation
+vacation's
 vacation
 vacations
 vacation
@@ -137905,6 +138998,7 @@ vaccine
 vaccine's
 vaccines
 vaccination
+vaccination's
 vaccination
 vaccinations
 vacillate
@@ -137915,6 +139009,7 @@ vacillation
 vacillations
 vacillating
 vacillation
+vacillation's
 vacillation
 vacillation's
 vacillator
@@ -138053,16 +139148,19 @@ validate
 validates
 validating
 validation
+validation's
 validated
 invalidate
 invalidates
 invalidating
 invalidation
+invalidation's
 invalidated
 revalidate
 revalidates
 revalidating
 revalidation
+revalidation's
 revalidated
 validation
 validation's
@@ -138258,6 +139356,7 @@ vaporizer
 vaporizer's
 vaporizers
 vaporization
+vaporization's
 vaporized
 vaporizes
 vaporizing
@@ -138304,6 +139403,7 @@ variationally
 variation
 variations
 variation
+variation's
 variation
 variation's
 varicoloured
@@ -138317,6 +139417,7 @@ variegates
 variegated
 variegating
 variegation
+variegation's
 variegation
 variegation's
 varietal
@@ -138480,6 +139581,7 @@ vegetations
 vegetated
 vegetating
 vegetation
+vegetation's
 vegetative
 vegetation
 vegetation's
@@ -138579,6 +139681,7 @@ vendor's
 veneer
 veneered
 veneration
+veneration's
 veneration
 venerations
 veneering
@@ -138650,6 +139753,7 @@ ventilate
 ventilates
 ventilating
 ventilation
+ventilation's
 ventilated
 ventilative
 ventilation
@@ -138803,11 +139907,13 @@ verifier's
 verify
 verifies
 verification
+verification's
 verified
 verifying
 reverify
 reverifies
 reverification
+reverification's
 reverified
 reverifying
 verisimilitude
@@ -138887,18 +139993,22 @@ versatility's
 verse's
 verse
 version
+version's
 versions
 verses
 converse
 conversion
+conversion's
 conversions
 converses
 inverse
 inversion
+inversion's
 inversions
 inverses
 reverse
 reversion
+reversion's
 reversions
 reverses
 versed
@@ -138911,6 +140021,7 @@ versification
 versification's
 versify
 versification
+versification's
 versifier
 versifier's
 versifiers
@@ -138969,6 +140080,7 @@ vesiculate
 vesiculating
 vesiculates
 vesiculation
+vesiculation's
 vesper
 vespers
 vessel
@@ -139103,6 +140215,7 @@ vibratory
 vibrates
 vibrating
 vibration
+vibration's
 vibration
 vibration's
 vibrational
@@ -139369,6 +140482,7 @@ vilification
 vilification's
 vilify
 vilification
+vilification's
 vilified
 vilifies
 vilification
@@ -139432,6 +140546,7 @@ vindicated
 vindicates
 vindicating
 vindication
+vindication's
 vindication
 vindication's
 vindicator
@@ -139580,6 +140695,7 @@ vis
 visions
 visible
 vision
+vision's
 visa
 visa's
 visas
@@ -139749,6 +140865,7 @@ vitiating
 vitiated
 vitiates
 vitiation
+vitiation's
 vitiation
 vitiation's
 viticulture
@@ -139761,6 +140878,7 @@ vitrification
 vitrification's
 vitrify
 vitrification
+vitrification's
 vitrification
 vitrifications
 vitrified
@@ -139776,6 +140894,7 @@ vituperated
 vituperates
 vituperating
 vituperation
+vituperation's
 vituperation
 vituperations
 vituperatively
@@ -139804,11 +140923,13 @@ vividness's
 vividly
 vivify
 vivification
+vivification's
 vivified
 vivifies
 vivifying
 revivify
 revivification
+revivification's
 revivified
 revivifies
 revivifying
@@ -139908,6 +141029,7 @@ vociferates
 vociferating
 vociferated
 vociferation
+vociferation's
 vociferation
 vociferations
 vociferation
@@ -140239,6 +141361,7 @@ vulcanizations
 vulcanized
 vulcanizing
 vulcanization
+vulcanization's
 vulcanizes
 Vuleka
 vulgar
