@@ -53,4 +53,4 @@ If you know of any projects that use them, please let me know, and I will list t
 
 This is a serious project, I have been paying out of my own pocket hundreds of EUR per year for web hosting, domains, premium account in Oxford Dictionaries, etc. so that people can enjoy quality work freely.
 
-Open-source is almost all I have left in life.</B>
+I am a disabled person and open-source is almost all I have left in life.</B>
