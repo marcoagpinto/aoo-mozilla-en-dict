@@ -98813,6 +98813,135 @@ V3.3.1
 
 30-MAR-2024
 89484) seculars
+
+
+V3.3.2
+2-APR-2024
+89485) anthemic + anthemics + anthemic's + anthemically
+89486) preponderous + preponderously
+89487) statemental
+
+13-APR-2024
+89488) snuggler + snugglers + snuggler's
+89489) Picards
+89490) tellin'
+89491) ethoxyls
+89492) intergalactically
+89493) intergovernmentally + intergovernmentalist + ists + ist's + 
+              intergovernmentalism + intergovernmentalism's
+89494) phylloxeras + phylloxera's + phylloxerae + phylloxerae's
+89495) printability's
+89496) spammies + spammie's
+89497) spam's
+89498) sphagnums
+89499) spinoseness + spinoseness's
+89500) spirograph's
+89501) spirography + spirography's
+89502) spirogyra's
+89503) spirant's
+89504) splanchnically
+89505) spitchcock's
+89506) spoliator's
+89507) spondaical + spondaically
+89508) sportswomanship's
+89509) spryness's
+89510) update's
+89511) upcountry's
+89512) upliftments + upliftment's
+89513) Beethovenian's
+89514) bioplays + bioplay's
+89515) bionomical + bionomically
+89516) overexciting + overexcited + overexcitements + overexcitement's
+89517) permies + permy's + permie + permie's
+89518) petroleums + petrolea + petrolea's
+89519) ocker's
+
+15-APR-2024
+89520) cuckquean + cuckqueans + cuckquean's
+89521) analysandum's
+89522) analcimes + analcime's
+89523) analeptic's + analeptical + analeptically
+89524) analgesic's + analgesically
+89525) anamorphically
+89526) analphabetics + analphabetic's + analphabetical
+89527) anal-sadism's
+89528) bigamously
+89529) axisymmetrical + axisymmetrically
+89530) Athanasianist + Athanasianists + Athanasianist's
+89531) Athanasianism + Athanasianism's
+89532) ate's
+89533) calumniously + calumniousness + calumniousness's
+89534) camerae's
+89535) camphoryl + camphoryls + camphoryl's
+89536) canorously + canorousness + canorousness's
+
+16-APR-2024
+89537) capsulate
+89538) aburst
+
+24-APR-2024
+89539) fledgelings + fledgeling's
+89540) flocculents + flocculent's + flocculently
+89541) flocculency + flocculency's
+89542) flitches
+89543) floriferously + floriferousness + floriferousness's
+89544) folkloristically + folkloristics + folkloristics's
+89545) foreverness's
+89546) forget-me-not's
+89547) forspeaks + forspeaking + forspoke + forspoken
+89548) Frauen's
+89549) freak-outs + freak-out's
+89550) Fixed: free-handeness -> free-handedness
+89551) Fixed: friendversary -> friendiversary
+89552) nothing-buttery's
+89553) Numa's
+89554) nulliparousness + nulliparousness's
+89555) overfamiliarity's
+89556) overflight's
+89557) overhead's
+89558) overhaulers + overhauler's
+89559) overhairs + overhair's
+89560) overseerships + overseership's
+89561) oversensitiveness's
+89562) oversensitivities + oversensitivity's
+89563) overripeness's
+89564) overscan's
+89565) oversales + oversale's
+89566) oversleeve's
+89567) oviparously + oviparousness + oviparousness's
+89568) oxherd's
+89569) pacifistically
+89570) pachydermatously + pachydermatousness + pachydermatousness's
+89571) packthreads
+
+29-APR-2024
+89572) Godful
+89573) stigmata's
+89574) stipendiaries + stipendiary's
+89575) stockbroking's
+89576) storytellings
+89577) stout-heartedness's
+89578) stracciatellas + stracciatella's
+89579) strabismally
+89580) stramashes + stramashing + stramashed + stramash's
+89581) stramoniums + stramonium's + stramonia + stramonia's
+89582) strand's
+89583) stranguries
+89584) strategicians + strategician's
+89585) strategical + strategically
+89586) strategoi + strategoi's
+89587) strategi + strategi's
+89588) stratocrats + stratocrat's
+89589) streps + strep's
+89590) striae's
+89591) striatally + striata's
+89592) striatums + striatum's
+89593) stridors + stridor's
+89594) strike-breaking's
+89595) strobila's + strobilae's
+89596) strobilations + strobilation's
+89597) strobili's
+89598) striplings
 =======
-British English Dictionary (Forked) 3.3.1
+British English Dictionary (Forked) 3.3.2
 by Marco A.G.Pinto
