@@ -98942,6 +98942,172 @@ V3.3.2
 89596) strobilations + strobilation's
 89597) strobili's
 89598) striplings
+
+V3.3.3
+7-MAY-2024
+89599) corpuses + corpusses
+
+12-MAY-2024
+*** Words suggested by Crissium - START ***
+89600) batt + batts + batt's
+89601) battels
+89602) battement + battements + battement's
+89603) batterie + batteries + batterie's
+89604) battery-operated
+89605) battily
+89606) battiness + battiness's
+89607) battle-scarred
+89608) battlewagon + battlewagons + battlewagon's
+89609) bauera + bauera's
+89610) bavardage + bavardage's
+89611) bavarois + bavaroises + bavarois's
+89612) bavian + bavians + bavian's
+89613) bawdry + bawdries + bawdry's
+89614) bawheid + bawheids + bawheid's
+89615) bawley + bawleys + bawley's
+89616) bawn + bawns + bawn's
+89617) baya + bayas + baya's
+89618) bayadère + bayadères + bayadère's
+89619) baza + bazas + baza's
+89620) bazillionaire + bazillionaires + bazillionaire's
+89621) bazoom + bazooms + bazoom's
+89622) artisanship + artisanships + artisanship's
+89623) freedwoman + freedwoman's
+89624) haply
+89625) harrowingly
+89626) riviera + rivieras + riviera's
+89627) topstitch +s + ing +ed
+89628) tsardom + tsardoms + tsardom's
+89629) uhlan+ uhlans + uhlan's
+89630) Brontë + Brontë's
+89631) Gaskell + Gaskell's
+89632) Turgenev + Turgenev's
+89633) Zola + Zola's
+*** Words suggested by Crissium - END ***
+
+17-MAY-2024
+*** Words suggested by Crissium - START ***
+89634) froghood + froghood's
+89635) froggery + froggeries + froggery's
+89636) froggish
+89637) froggy + froggies + froggy's
+89638) froglet + froglets + froglet's
+89639) frogling + froglings + frogling's
+89640) frogmouth + frogmouths + frogmouth's
+89641) frogskin + frogskins  + frogskin's
+89642) frogstool + frogstools + frogstool's
+89643) frogwoman + frogwoman's
+89644) frostless
+89645) fruitcrow + fruitcrows + fruitcrow's
+89646) fruitily
+89647) frusemide + frusemide's
+89648) parajournalism + parajournalism's
+89649) parajournalist + parajournalists + parajournalist's
+89650) paramorphine + paramorphine's
+89651) parallaxis
+89652) paranormalist + paranormalists + paranormalist's
+89653) paranormality + paranormality's
+89654) paranuclear
+89655) paraphasic
+89656) paraphysical
+89657) pararammelsbergite + pararammelsbergite's
+89658) paraprotein + paraproteins + paraprotein's
+89659) parareligious
+89660) parasailer + parasailers + parasailer's
+89661) parasital
+89662) parasexual
+89663) parasexuality + parasexuality's
+89664) parascience + parasciences + parascience's
+89665) parascientific
+89666) parascientist + parascientists + parascientist's
+89667) pardonless
+89668) punkette + punkettes + punkette's
+89669) punkster + punksters + punkster's
+89670) punkish + punkishly
+89671) punkie + punkies + punkie's
+89672) perceivability + perceivability's
+*** Words suggested by Crissium - END ***
+
+20-MAY-2024
+*** Words suggested by Crissium - START ***
+89673) ochraceous
+89674) ochroite + ochroite's
+89675) ockerish
+89676) ockerdom + ockerdom's
+89677) ockerism + ockerisms + ockerism's
+89678) ocky + ocky's + ockies
+89679) ocicat + ocicat's
+89680) ochratoxin + ochratoxins + ochratoxin's
+89681) padstone + padstones + padstone's
+89682) paddleball + paddleballs + paddleball's
+89683) padlike
+89684) padsaw + padsaws + padsaw's
+89685) paddocky
+89686) pedalboard + pedalboards + pedalboard's
+89687) pediferous
+89688) pediform
+89689) pediculophobia + pediculophobia's
+89690) pedigerous
+89691) pedial
+89692) pedipalpus + pedipalpus's + pedipalpi + pedipalpi's
+89693) pedigreeless
+89694) pedoscope + pedoscopes + pedoscope's
+89695) pediscript + pediscripts + pediscript's
+89696) houselord + houselords + houselord's
+89697) housecleaner + housecleaners + housecleaner's
+89698) humanhood + humanhood's
+89699) humanification + humanification's
+89700) humanics + humanics's
+89701) humanate
+89702) humanish
+89703) humanitary
+89704) humanify +s + ing +ed
+89705) humanistics
+89706) husbandless + husbandlessness + husbandlessness's
+89707) hunkiness + hunkiness's
+89708) hurty + hurtier + hurtiest
+89709) hydraulicity + hydraulicity's + hydraulicities
+89710) hydrochlorofluorocarbon + hydrochlorofluorocarbons +'s
+89711) hyalin + hyalins + hyalin's
+*** Words suggested by Crissium - END ***
+
+
+27-MAY-2024
+89712) shouldst + saith + sayest + runneth + standeth + taketh
+              + knowest + believest
+Archaic, but doesn't cause FPs
+
+29-MAY-2024
+*** Words suggested by Crissium - START ***
+89713) viscometry + viscometry's
+89714) viperine + viperines + viperine's
+89715) virilocal
+89716) virtualist + virtualists + virtualist's
+89717) virtuosoship + virtuosoship's
+89718) villosity + villosity's + villosities
+89719) vigorish + vigorish's + vigorishes
+89720) villainess + villainess's + villainesses
+89721) vilifier + vilifiers + vilifier's
+89722) scaldy + scaldy's + scaldie + scaldies + scaldie's
+89723) scarfie + scarfie's + scarfies
+89724) savourous + savourously
+89725) sayonara
+89726) sawhorse + sawhorses + sawhorse's
+89727) savagism + savagisms + savagism's
+89728) savagess + savagess's + savagesses
+89729) savantism + savantism's
+89730) savagize +s +ing +ed
+89731) savingness + savingness's
+89732) savourily
+89733) savourously
+89734) sanitaryware + sanitarywares + sanitaryware's
+89735) sandshoe + sandshoes + sandshoe's
+89736) sandglass + sandglass's + sandglasses
+89737) sandiver + sandiver's
+89738) sandlot + sandlot's + sandlots
+89739) sanctionable
+89740) pliofilm + pliofilms + pliofilm's
+*** Words suggested by Crissium - END ***
 =======
-British English Dictionary (Forked) 3.3.2
+British English Dictionary (Forked) 3.3.3
 by Marco A.G.Pinto
