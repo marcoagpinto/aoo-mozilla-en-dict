@@ -36,6 +36,10 @@ Since 2021 that the ZA dictionary has been improved/fixed by Marco A.G.Pinto.
 
 2024-05-12 (Marco A.G.Pinto)
            - Started parallel adding of words from GB to ZA.
+
+2024-07-11 (Marco A.G.Pinto)
+           - Improved flag “n” adding 962 words (possessives).
+
 -------
 
 MySpell English (South African) Spellchecker

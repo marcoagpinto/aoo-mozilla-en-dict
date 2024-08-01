@@ -1,4 +1,4 @@
-﻿53837
+﻿53965
 'mongst
 'neath
 'strewth
@@ -8,8 +8,8 @@
 .NET
 3GPP/M
 5fm
-à
 A
+à
 A-levels
 a/o
 AA
@@ -712,8 +712,8 @@ aestivate/N
 aether/M
 aetiology/W1Mw
 AFAIK
-afar
 Afar
+afar
 AFC
 affability/MS
 affable/TY
@@ -998,14 +998,14 @@ Akkadian
 Akron/M
 Al-Haili
 al-Haili
-Al-Jazeera
 al-Jazeera
+Al-Jazeera
 al-Qa'ida/M
 Al-Qa'ida/M
-Al-Qaeda/M
 al-Qaeda/M
-Al-Sharif
+Al-Qaeda/M
 al-Sharif
+Al-Sharif
 al-Zawahiri
 Al-Zawahiri
 al/FAC
@@ -4200,6 +4200,7 @@ Benmore
 Bennett/M
 Bennington/M
 Benny/M
+benomyl/M	Noun: uncountable
 Benoni
 Benoryn
 Benrose
@@ -4211,9 +4212,16 @@ Benton/M
 bentwood/MS
 benumb/SGD
 Benz/M
+benzaldehyde/SM
 Benzedrine/M
 benzene/MS
+benzhexol/M	Noun: uncountable
+benzidine/SM
 benzine/MS
+benzol/SM
+benzophenone/SM
+benzopyrene/SM
+benzylpiperazine/SM
 Beowulf/M
 bequeath/DSG
 bequest/MS
@@ -4316,10 +4324,12 @@ best-selling
 best/DGS
 bester
 Bester/S
+bestest
 bestial/Y
 bestiality/SM
 bestiary/MS
 bestir/GDS
+bestness/M	Noun: uncountable
 bestow/GDS
 bestowal/MS
 bestrew/DSG
@@ -4362,6 +4372,10 @@ Betsy
 Bette/MZ
 better-off
 better/Ld
+betterish
+bettermost
+betterness/SM
+bettership/M	Noun: uncountable
 Betty/SM
 between/PS
 betwixt
@@ -5109,8 +5123,8 @@ bodyweight
 bodywork/SM
 Boegoeberg
 Boeing/M
-Boekenhout
 boekenhout
+Boekenhout
 boep
 Boer/MS
 boerbean
@@ -5149,6 +5163,8 @@ bohemianism/S
 Bohlokong
 Bohr/M
 Boichoko
+boid/SM
+Boids
 Boikanyo
 Boiketlo
 Boikhutso
@@ -6443,6 +6459,7 @@ Butterfield/M
 butterfingered
 butterfingers/M
 butterfly/MS
+Butterkist
 buttermilk/M
 butternut
 butterscotch/M
@@ -7082,6 +7099,7 @@ carnal/Y
 carnality/SM
 Carnarvon
 carnation/ISM
+Carne/M
 Carnegie/M
 carnelian/SM
 carnet/SM
@@ -8066,8 +8084,8 @@ choral
 chorale/MS
 chord/SMDG
 chordal
-Chordata
 chordata
+Chordata
 chordate/SM
 chording/M
 chore/oDMSG
@@ -8660,8 +8678,8 @@ Clyde
 Clydebank/M
 Clydesdale
 Clynton
-Cm
 cm
+Cm
 CMG
 CMOS
 CNAA
@@ -10825,8 +10843,8 @@ crossproduct/S
 crossroad/MS
 Crossroads
 crosstalk/M
-crossways
 Crossways
+crossways
 crosswind/MS
 crosswise
 crossword/SM
@@ -11171,8 +11189,8 @@ cuttlefish/SM
 cutup/SM
 cutworm/MS
 CV
-cw
 Cw
+cw
 Cwaka
 Cwezi
 cwt
@@ -11189,6 +11207,7 @@ cybernetics/M
 cyberpunk/SM
 cyberspace/MS
 cybersquatting
+Cybertruck
 cyborg/S
 cycad/MS
 Cyclades
@@ -11260,8 +11279,8 @@ d'art
 d'Azur
 d'Estaing
 d'etat
-d'être
 d'etre
+d'être
 d'oeuvre
 d's
 D'urbanvale
@@ -12833,8 +12852,8 @@ discontinuous
 discordance/SM
 discordant/Y
 discorporate/D
-discothèque/SM
 discotheque/SM
+discothèque/SM
 discourage/LGDk
 discourager
 discourtesy
@@ -13876,6 +13895,7 @@ duodenum/M
 duologue/M
 duopoly/3M
 dupe/DRSMG
+Dupiaza/M
 dupion/M
 duple
 duplex/DSMG
@@ -18291,8 +18311,8 @@ FSA
 FSF
 ft/C
 FTC
-FTP
 ftp
+FTP
 Fuchs
 fuchsia/MS
 fuck/JSRMDG
@@ -19490,6 +19510,7 @@ godchild/M
 godchildren
 Goddard/M
 goddess/SM
+goddish
 Gödel/M
 godfather/dSM
 godforsaken
@@ -21512,8 +21533,8 @@ Hg
 hgt
 HGV
 hgwy
-Hi
 hi
+Hi
 Hi-Fi/S
 Hialeah
 hiatus/SM
@@ -21821,6 +21842,7 @@ Hoha
 Hoheizen
 Hohenort
 Hohoza
+Hoisin/M
 hoist/DGS
 hoister/M
 Hoita
@@ -22911,8 +22933,8 @@ imbecile/SMW
 imbecility/SM
 Imberi
 imbibe/RGDS
-imbizo
 Imbizo
+imbizo
 imbongi
 Imbongozi
 imbrication/MS
@@ -24541,6 +24563,7 @@ Jakarta
 Jake/S
 Jakob
 jalapeño/S
+Jalfrezi/M
 jalopy/SM
 jalousie/SM
 jam's
@@ -25143,8 +25166,8 @@ Karlienpark
 karma/MS
 karmic
 Karoo
-karos
 Karos
+karos
 Karp/M
 Karpad
 karroid
@@ -25189,8 +25212,8 @@ kayo/GSMD
 Kazakh
 Kazakhstan/M
 kazoo/MS
-kB
 kb
+kB
 kbps
 kc/M
 kcal/M
@@ -25276,6 +25299,7 @@ Kenzintown
 kepi/SM
 Kepler/M
 kept
+Keralan/M
 keratin/SM
 kerb/MS
 kerbside
@@ -27714,8 +27738,8 @@ lorryload/S
 losable
 Losasaneng
 lose/RSG
-Loskop
 loskop
+Loskop
 loss-leader/S
 loss/MpZS
 lossy/T
@@ -28173,8 +28197,8 @@ Mackweza
 Macleantown
 Macleanville
 Maclear
-MacMillan/M
 Macmillan/M
+MacMillan/M
 Macon
 macramé/S
 macro/SM
@@ -28231,8 +28255,8 @@ madmen/M
 madness/S
 Madokodeni
 Madonna/M
-Madras
 madras
+Madras
 Madrid/M
 madrigal/SM
 Madsen/M
@@ -29121,6 +29145,7 @@ massacre/MGSD
 massacrer
 massage/MDSG
 massager/M
+Massaman/M
 Massenet
 masseur/MS
 masseuse/SM
@@ -29659,8 +29684,8 @@ melancholic/S
 melancholy/WMS
 Melanesia
 Melanesian
-mélange
 melange
+mélange
 Melanie
 melanin/SM
 melanoma/SM
@@ -29883,8 +29908,20 @@ mesmerizing
 Mesolithic
 mesomorph/SM
 meson/MS
+mesopause/SM
+mesophile/SM
+mesophilous
+mesophragma/M
+mesoplastra/M	Plural of mesoplastron
+mesoplastron/M
+mesopleural
+mesopodial
 Mesopotamia/M
 Mesopotamian/S
+mesorostral
+mesoscale/SM
+mesoscaphe/SM
+mesoscopically
 mesosphere/SM
 mesozoic
 mesquite/MS
@@ -30218,8 +30255,8 @@ midsummer/SM
 midterm/MS
 midtown's
 midtowns
-Midway
 midway
+Midway
 midweek/SMY
 Midwest
 Midwestern
@@ -30521,6 +30558,7 @@ misconstrue
 miscount
 miscreant/SM
 misdeed
+misdelivered
 misdemeanant/SM
 misdemeanour's
 miser/YlZ7
@@ -31111,8 +31149,8 @@ Moodiehill
 moodiness/S
 moody/PT
 Moog
-mooi
 Mooi
+mooi
 Mooibank
 Mooigezight
 Mooikloof
@@ -31212,8 +31250,8 @@ Moret
 Morewag
 Morgan
 Morganridge
-morgen
 Morgen
+morgen
 Morgenster
 Morgenzon
 morgue/MS
@@ -31524,8 +31562,8 @@ Mqwangqweni
 Mr/M
 MRI
 Mrs
-ms
 Ms
+ms
 MSc
 Msebe
 Mseleni
@@ -31698,18 +31736,40 @@ multiple-choice
 multiple/YMS
 multiplex's
 multiplex/CDRSG
+multiplexity/SM
 multiplexor/SM
+multiplicability/M	Noun: uncountable
+multiplicable
 multiplicand/MS
 multiplication/M
 multiplicative/S
 multiplicity/MS
 multiply/NR7nSDGVv
 multipoint
+multiproblem
+multiproblematic
 multiprocess/G
 multiprocessor/MS
 multiprogram/JDG
+multiprogrammability/M	Noun: uncountable
+multiprogramme
 multiprogramming/M
 multiracial
+multiscience
+multisection/O
+multisecular
+multisegmental
+multisegmented
+multisensual
+multiserial/Y
+multiserver
+multiservice
+multispiral
+multistability/SM
+multistable
+multistandard
+multistart
+multistate
 multisyllabic
 multitasking
 multitude/SM
@@ -31719,9 +31779,12 @@ multivalued
 multivariate
 multiversity/M
 multivitamin/S
+multivolume/D
+multiway
 mum/GZSRMD
 Mumbai
 mumble/RGSJD
+mumblement/SM
 mumbo
 mumbo-jumbo
 Mumford/M
@@ -32064,6 +32127,7 @@ napkin/SM
 Naples/M
 Napoleon/WSM
 nappy/SM
+Nar
 Nara/M
 Narbonne/M
 narcissism/MS
@@ -32231,9 +32295,9 @@ Ndumo
 Ndundulu
 Ndwebu
 Ndwedwe
-nè
-né
 Ne
+né
+nè
 ne'er
 ne'er-do-wells
 Neal/M
@@ -32299,8 +32363,8 @@ Neddicky
 Nederburg
 Nederburghoogte
 Nederlandpark
-nee
 née
+nee
 need/SZD6j2Gp
 needed/U
 needer/M
@@ -33315,12 +33379,12 @@ Norristown/M
 Norscot
 Norse/m
 Nortel/M
-north-East/M
 north-east/M
-north-easterly
+north-East/M
 north-Easterly
-north-Eastern
+north-easterly
 north-eastern
+north-Eastern
 north-Eastward/S
 north-eastward/S
 north-north-east
@@ -33331,8 +33395,8 @@ north-west's
 north-West/M
 north-westerly
 north-Westerly
-north-Western
 north-western
+north-Western
 north-Westward/S
 north-westward/S
 north/MGS
@@ -33417,6 +33481,8 @@ notify/DSGNR7n
 Notintsila
 notion's
 notion/CS
+notionless
+notionlessness/M	Noun: uncountable
 notoriety/S
 notorious/YP
 Notre
@@ -33705,8 +33771,8 @@ Nzombane
 O
 O'Brien/M
 O'Casey
-o'clock
 o'Clock
+o'clock
 O'Connell/M
 O'Connor/M
 O'Dell/M
@@ -34163,8 +34229,8 @@ Oliver/M
 Olivetti/M
 Olivia/M
 Olivier/M
-olivine
 Olivine
+olivine
 Ollie/M
 Olmsted/M
 Olsen/M
@@ -34550,6 +34616,7 @@ ornateness/S
 orneriness's
 Ornihaven
 ornithology/3SMw
+ornithophile/SM
 orographic/M
 orography/MW
 Oromo
@@ -35033,17 +35100,22 @@ packhorse/M
 packing/SM
 packinghouse/S
 packsaddle/SM
+packstaff/SM
+packstaves
 Packwood/M
 pact's/I
 pact/ISF
 pad/JZMDGS
+padayatra/SM
 Paddavlei
 padded/U
+padder/SM
 Paddie/M
 padding/M
 Paddington/M
 paddle/MRSDG
 paddleball/SM
+paddlewheeler/SM
 Paddock
 paddock/SMGD
 paddocky
@@ -35257,8 +35329,8 @@ panellise/nGDS
 panellist/MS
 panellize/nSNDG
 pang/MS
-Panga
 panga
+Panga
 Pangasinan
 pangolin/M
 panic-stricken
@@ -35366,14 +35438,21 @@ paradoxical/P
 Paradyskloof
 Paradysstrand
 paraffin/MS
+paraflight/SM
 paragliding
 paragon/SM
 paragraph/MGSD
 paragrapher/M
 Paraguay/M
 Paraguayan/S
+parahormone/SM
+parahuman/SM
+parahydrogen/SM
+parahypnosis/M	Noun: uncountable
 parajournalism/M	Noun: uncountable
 parajournalist/SM
+parajump/SMR
+parajumping/M	Noun: uncountable
 parakeet/SM
 paralegals
 paralinguistic
@@ -35877,6 +35956,7 @@ pedant/SWM1
 pedantical/Y
 pedanticalness/M	Noun: uncountable
 pedantry/SM
+Peddars
 Peddie
 peddle/SGD
 pederast/MSZ
@@ -35932,6 +36012,7 @@ Pefferville
 peg/DSMG
 pegboard/MS
 peignoir/MS
+pejorate/SGD
 pejorative/Y
 Pekalmy
 peke/MS
@@ -36038,8 +36119,8 @@ pentathlon/MS
 pentatonic
 pentecostal
 penthouse/MS
-pentium
 Pentium
+pentium
 Pentrich
 penultimate/SY
 penumbra/MS
@@ -37320,6 +37401,8 @@ polemics/M
 poler/M
 poleward/S
 police/DmS5ZMG
+policeless
+policemanship/M	Noun: uncountable
 policy-maker/S
 policy-making
 policy/SM
@@ -37330,6 +37413,8 @@ poliomyelitis/M
 Polish
 polish/RGSJD
 polished/U
+polishedness/M	Noun: uncountable
+polishment/SM
 politburo/S
 polite/IWPY
 politeness/IS
@@ -37404,12 +37489,24 @@ polymorphism/S
 polymorphous
 Polynesia/M
 polynomial/YMS
+polynucleate/D
+polyocracy/M
+polyoxymethylene/SM
 polyp/MS
 polypeptide/S
 polyphony/MWS
 polyphosphate/S
 polypropylene/SM
+polyrhythm/SM
+polyrhythmic
+polyrhythmical
+polyrhythmically
+polyribonucleotide/SM
+polyrod/SM
 polysaccharides
+polyscope/SM
+polysexual
+polysexuality/SM
 polystyrene/MS
 polysyllable/SWM
 polytechnic/MS
@@ -38583,8 +38680,8 @@ prove/ESGDB
 proved/IA
 proven/U
 provenance/MS
-Provençal
 Provencal
+Provençal
 Provence/M
 provender/MS
 proverb/MoS
@@ -39556,6 +39653,7 @@ rarity/SM
 Rarotongan
 rascal/MYS
 rash/TRYS
+rashful
 Rashidistadt
 rashness
 Rashoop
@@ -40099,8 +40197,8 @@ regenerate/U
 reggae/MS
 Reggie/M
 regicide/MS
-regime/MS
 régime/MS
+regime/MS
 regimen/SM
 regiment/MNGSnD
 regimental/S
@@ -40713,13 +40811,21 @@ reversibly/I
 revert/GSbD
 reverter/M
 revet/LDG
+reviewish
+reviewless
 revile/LRSGD
+revindication/SM
 revisable
+revisee/SM
 revision/3
+revisional
+revisioning
 revisionism/MS
 revisionist
+revisor/SM
 revitalise/nR
 revitalize/Nn
+revivability/M	Noun: usually uncountable
 revival/M3S
 revivalism/SM
 revivalist
@@ -40728,7 +40834,9 @@ reviver/M
 revivification/M
 revivify/n
 Revlon/M
+revocability/M	Noun: uncountable
 revocable/I
+revocative
 revoke/NnRSDG
 revolt/GDk
 revolution/Q83SyM
@@ -41258,8 +41366,8 @@ Rooiberg
 rooibok
 Rooibokkraal
 Rooiboklaagte
-rooibos
 Rooibos
+rooibos
 Rooidakke
 Rooifontein
 rooigevaar
@@ -42521,13 +42629,16 @@ scrambling/U
 Scranton/M
 scrap/rdZSDRG
 scrapbook/MS
+scrapbooker/SM
 scrape/JS
+scraperboard/M	Noun: uncountable
 scrapheap/MS
 scrapie
 scrappy/T
 scrapyard/MS
 scratch/GRJS2DzZ
 scratched/U
+scratchplate/SM
 scratchy/T
 scrawl/DGSY
 scrawly/T
@@ -42547,8 +42658,10 @@ screenplay/MS
 screenwriter/SM
 screw's
 screw/UDSG
+screwable
 screwdriver/SM
 screwer/M
+screwgate/SM
 screwiness
 screwy/T
 Scriabin/M
@@ -44281,8 +44394,8 @@ sisterly/P
 sisters-in-law
 Sistine
 Siswant
-Siswati
 siSwati
+Siswati
 Sisyphean
 Sisyphus/M
 sit-in/S
@@ -45211,10 +45324,10 @@ souse
 Sout
 south-east
 south-East/M
-south-Easterly
 south-easterly
-south-eastern
+south-Easterly
 south-Eastern
+south-eastern
 south-Eastward/S
 south-eastward/S
 south-south-east
@@ -45755,8 +45868,8 @@ SS
 SSA/SM
 SSC
 SSE
-SSH
 ssh
+SSH
 SSL
 SSS
 SST
@@ -47246,8 +47359,8 @@ Svalbard/M
 svelte/Y
 Sven/M
 Svetlana/M
-Sw
 SW
+Sw
 swab/MSDG
 swaddle/DGS
 swag/GDSM
@@ -49820,8 +49933,8 @@ Tsatsana
 Tsembeyi
 Tsenelong
 Tseoge
-Tsetse
 tsetse
+Tsetse
 Tshabo
 Tshakhuma
 Tshamahansi
@@ -50391,6 +50504,7 @@ uncle/SM
 unclean
 uncleanliness
 unclear
+unclimbable
 uncloak/G
 uncoloured
 uncomely
@@ -50420,6 +50534,8 @@ uncouthness
 uncover/dS
 uncreative
 uncross/G
+uncrowded
+uncrushed
 unction's/I
 unction/M
 unctuous/Y
@@ -50431,6 +50547,7 @@ undaunted/Y
 undeceive
 undemonstrative
 undeniable/Y
+undenied/Y
 undependable
 under
 under-age
@@ -50464,6 +50581,8 @@ underlie
 underline/G
 underling/MS
 underlip
+undermanager/SM
+undermeaning/SM
 undermine/G
 underneath/S
 underpass/M
@@ -51495,10 +51614,10 @@ vicarage/MS
 vicarious/Y
 vicariousness
 Vice's
-vice-chancellor/MS
 vice-Chancellor/MS
-vice-chancellorship/S
+vice-chancellor/MS
 vice-Chancellorship/S
+vice-chancellorship/S
 vice-like
 vice-president/MS
 vice-President/SM
@@ -51506,9 +51625,14 @@ vice-presidential
 vice-Presidential
 vice/CSM
 vicegerent/MS
+viceless
+vicelessness/M	Noun: uncountable
 Vicente/M
 viceregal
 viceroy/MS
+viceroyal
+viceroyalty/SM
+viceroyship/SM
 Vichy/M
 vichyssoise/SM
 vicinity/MS
@@ -51535,7 +51659,9 @@ Vidal/M
 videlicet
 video/MDGS
 videodisc/MS
+videophile/SM
 videophone/MS
+videosurgery/M	Noun: uncountable
 videotape/DGSM
 vie/G7DS
 Viedgesville
@@ -52537,6 +52663,7 @@ Wendy/M
 Wendywood
 Wenger/M
 Wensleydale/M
+Wensum/M
 went/f
 Wentworth/M
 Wepener
@@ -52577,8 +52704,8 @@ Westdene
 Westenburg
 Westergloor
 Westering
-westerly/S
 Westerly/S
+westerly/S
 Western
 western/RQqS
 Westernism/M
@@ -53425,6 +53552,7 @@ write/AGfRS
 writes/c
 writhe/SGD
 writing/MS
+WritingTool/M
 written/aUcAf
 WRNS
 wrong-foot/D
@@ -53532,8 +53660,8 @@ Yankee/S
 Yankeeism
 Yankton/M
 Yao
-Yaoundé/M
 Yaounde/M
+Yaoundé/M
 Yap
 yap/SDG
 Yarborough
