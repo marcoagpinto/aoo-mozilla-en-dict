@@ -99277,6 +99277,147 @@ V3.3.4
 89879) prostanoid + prostanoids + prostanoid's
 89880) protagonism + protagonism's
 *** Words suggested by Crissium - END ***
+
+V3.3.5
+2-JUL-2024
+89881) Carne + Carne's
+89882) Jalfrezi + Jalfrezi's
+89883) Dupiaza + Dupiaza's
+89884) Massaman + Massaman's
+89885) Hoisin + Hoisin's
+89886) Keralan + Keralan's
+
+11-JUL-2024
+89887) misdelivered
+*** Words suggested by Crissium - START ***
+89888) mesoplastron + mesoplastron's + mesoplastra + mesoplastra's
+89889) mesophilous
+89890) mesopleural
+89891) mesophragma + mesophragma's
+89892) mesophile + mesophiles + mesophile's
+89893) mesopause + mesopauses + mesopause's
+89894) mesorostral
+89895) mesoscopically
+89896) mesopodial
+89897) mesoscaphe + mesoscaphes + mesoscaphe's
+89898) mesoscale + mesoscales + mesoscale's
+89899) multiprogramme
+89900) multiprogrammability + multiprogrammability's
+89901) multiproblem
+89902) multiproblematic
+89903) multiplicability + multiplicability's
+89904) multiplicable
+89905) multiplexity + multiplexity's + multiplexities
+89906) multiserver
+89907) multisegmental
+89908) multisecular
+89909) multisensual
+89910) multisegmented
+89911) multiscience
+89912) multispiral
+89913) multistandard
+89914) multistart
+89915) multistate
+89916) multisection + multisectional
+89917) multivolume + multivolumed
+89918) multiway
+89919) mumblement + mumblements + mumblement's
+89920) multistability + multistability's + multistabilities
+89921) multistable
+89922) multiservice
+89923) multiserial + multiserially
+*** Words suggested by Crissium - END ***
+
+18-JUL-2024
+*** Words suggested by Crissium - START ***
+89924) ornithophile + ornithophiles + ornithophile's
+89925) polynucleate + polynucleated
+89926) polyocracy + polyocracy's
+89927) polyoxymethylene + polyoxymethylenes + polyoxymethylene's
+89928) polyrhythm + polyrhythms + polyrhythm's
+             + polyrhythmic + polyrhythmical + polyrhythmically
+89929) polyribonucleotide + polyribonucleotides + polyribonucleotide's
+89930) polyrod + polyrods + polyrod's
+89931) polyscope + polyscopes + polyscope's
+89932) polysexual + polysexuality + polysexuality's + polysexualities
+89933) rashful
+89934) screwgate + screwgates + screwgate's
+89935) scratchplate + scratchplates + scratchplate's
+89936) scrapbooker + scrapbookers + scrapbooker's
+89937) scraperboard + scraperboard's
+89938) screwable
+89939) viceless + vicelessness + vicelessness's
+89940) videophile + videophiles + videophile's
+89941) videosurgery + videosurgery's
+89942) viceroyal
+89943) viceroyalty + viceroyalty's + viceroyalties
+89944) viceroyship + viceroyships + viceroyship's
+*** Words suggested by Crissium - END ***
+
+23-JUL-2024
+89945) Boids + boid + boids + boid's
+
+24-JUL-2024
+*** Words suggested by Crissium - START ***
+89946) goddish
+89947) notionless + notionlessness + notionlessness's
+89948) packstaff + packstaffs + packstaff's + packstaves
+89949) padder + padders + padder's
+89950) padayatra + padayatras + padayatra's
+89951) paddlewheeler + paddlewheelers + paddlewheeler's
+89952) reviewless
+89953) reviewish
+89954) revivability + revivability's
+89955) revisional
+89956) revisioning
+89957) revisor + revisors + revisor's
+89958) revocability + revocability's
+89959) revisee + revisees + revisee's
+89960) revindication + revindications + revindication's
+89961) revocative
+89962) unclimbable
+89963) uncrowded
+89964) undermanager + undermanagers + undermanager's
+89965) undermeaning + undermeanings + undermeaning's
+89966) undenied + undeniedly
+89967) uncrushed
+*** Words suggested by Crissium - END ***
+
+28-JUL-2024
+*** Words suggested by Crissium - START ***
+89968) benzidine + benzidine's + benzidines
+89969) benomyl + benomyl's
+89970) benzaldehyde + benzaldehydes + benzaldehyde's
+89971) benzhexol + benzhexol's
+89972) benzol + benzols + benzol's
+89973) benzophenone + benzophenones + benzophenone's
+89974) benzopyrene + benzopyrenes + benzopyrene's
+89975) benzylpiperazine + benzylpiperazines + benzylpiperazine's
+89976) bestness + bestness's
+89977) bestest
+89978) betterness + betternesses + betterness's
+89979) betterish + bettership + bettership's + bettermost
+89980) paraflight + paraflight's + paraflights
+89981) parahuman + parahumans + parahuman's
+89982) parahydrogen + parahydrogens + parahydrogen's
+89983) parahypnosis + parahypnosis's
+89984) parahormone + parahormones + parahormone's
+89985) parajump + parajumps + parajump's + er +ers +er's
+89986) parajumping + parajumping's
+89987) pejorate +s +ing +ed
+89988) polishment + polishments + polishment's
+89989) polishedness + polishedness's
+89990) policeless
+89991) policemanship + policemanship's
+*** Words suggested by Crissium - END ***
+
+31-JUL-2024
+89992) Wensum + Wensum's
+89993) Peddars
+89994) Nar
+89995) Cybertruck
+89996) Butterkist
+89997) WritingTool + WritingTool's
 =======
-British English Dictionary (Forked) 3.3.4
+British English Dictionary (Forked) 3.3.5
 by Marco A.G.Pinto
