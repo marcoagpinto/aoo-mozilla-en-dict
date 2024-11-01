@@ -99418,6 +99418,108 @@ V3.3.5
 89995) Cybertruck
 89996) Butterkist
 89997) WritingTool + WritingTool's
+
+
+V3.3.6
+4-AUG-2024
+89998) Brookville + Brookville's
+
+13-AUG-2024
+89999) latesome
+90000) latterness + latterness's
+90001) laughless + laughlessness + laughlessness's
+90002) laughsome
+90003) laughworthy
+90004) laughee + laughees + laughee's
+90005) leakproof + leakproofness + leakproofness's
+90006) leasable
+90007) leaflove + leafloves + leaflove's
+90008) leatherjacket + leatherjackets + leatherjacket's
+90009) leprousness + leprousness's
+90010) leprosery + leprosery's + leproseries
+90011) leprophobia + leprophobia's
+90012) leprologist + leprologists + leprologist's
+90013) leperdom + leperdom's
+90014) oxback + oxback's
+90015) oxbird + oxbirds + oxbird's
+90016) oxblood + oxblood's
+90017) oxic + oxidability + oxidability's
+90018) oxidable
+90019) oxless
+90020) ownable + ownables + ownable's
+90021) ownness + ownness's
+90022) ownage + ownage's
+90023) owldom + owldom's
+90024) owler + owlers + owler's
+90025) owlism + owlism's
+90026) ownsome + ownsomes + ownsome's
+90027) oxgate + oxgates + oxgate's
+90028) oxgang + oxgangs + oxgang's
+90029) oxhaverite + oxhaverite's
+90030) oxidizability + oxidizability's + oxidizabilities
+90031) oxidational
+90032) oxidimetry + oxidimetry's
+
+29-AUG-2024
+90033) insoul +s +ing +ed + ment + ment's + ments
+
+9-SEP-2024
+90034) Sarco
+
+4-OCT-2024
+90035) mutex + mutexes + mutex's
+
+5-OCT-2024
+90036) monohaploid
+90037) monoglyceride + monoglycerides + monoglyceride's
+90038) monogynist + monogynists + monogynist's
+90039) monography + monography's + monographies
+90040) monohydroxylated
+90041) monojet + monojets + monojet's
+90042) monoideism + monoideism's
+90043) monoicous
+90044) monomachist + monomachists + monomachist's
+90045) monomachy + monomachy's + monomachies
+90046) overcool +s + ing +ed +er +ers +er's
+90047) overcuriosity + overcuriosity's
+90048) overcup + overcups + overcup's
+90049) overcross + overcross's +s +ing +ed
+90050) vaticinatory
+90051) vastitude + vastitudes + vastitude's
+90052) vegetability + vegetability's
+90053) vauntingly
+90054) vegetary
+90055) vegetivorous
+90056) vegetant
+90057) vegetably
+90058) venerableness + venerablenesses + venerableness's
+90059) vertisol + vertisols + vertisol's + vertisolic
+90060) victrix + victrix's + victrices
+90061) videoscope + videoscopes + videoscope's
+90062) videotelephony + videotelephony's
+90063) videofit + videofits + videofit's
+90064) viewdata + viewdata's
+90065) virtuecrat + virtuecrats + virtuecrat's
+90066) viscoelasticity + viscoelasticity's + viscoelasticities
+
+17-OCT-2024
+90067) stonk +s +ing +ed +'s +er +ers +er's
+
+21-OCT-2024
+90068) necromass + necromasses + necromass's
+90069) neckdown + neckdowns + neckdown's
+90070) necrogenous
+90071) necrolysis + necrolyses
+90072) necessitude + necessitudes + necessitude's
+90073) necrophage + necrophages + necrophage's
+90074) nectarivore + nectarivores + nectarivore's
+90075) nectarious
+90076) necromant + s + 's +al +ic +cally +ist +ists +ist's
+90077) nectophore + nectophores + nectophore's
+90078) pelobatoid + pelobatoids + pelobatoid's
+90079) pelorism + pelorism's
+90080) polystyle + polystyles + polystyle's + ist + ists +ist's
+90081) polystylism + polystylism's
 =======
-British English Dictionary (Forked) 3.3.5
+British English Dictionary (Forked) 3.3.6
 by Marco A.G.Pinto
