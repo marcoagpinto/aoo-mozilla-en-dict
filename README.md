@@ -1,7 +1,7 @@
 aoo-mozilla-en-dict
 ===================
 
-English Dictionaries Project <B>(AOO+Mozilla+others)</B>
+<B>English Dictionaries Project</B>
 
 For many years that people stopped maintaining dictionaries for open-source software.
 
