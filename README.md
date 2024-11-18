@@ -11,13 +11,13 @@ The biggest issue is that most of these dictionaries are obfuscated <B>(codified
 
 In some cases, we will have to start from a long-time gone position, the last known clean text version of the dictionary.
 
-Modifying, updating and maintaining a dictionary is a hard task but an important one for current and future generations.
+Modifying, updating and maintaining a dictionary is a hard important task for current and future generations.
 
 The dictionaries here are the most recent versions available, and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
 I <B>(Marco Pinto)</B> am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net. Dwayne Bailey no longer maintains the en_ZA, and I have done a few fixes in it myself.
 
-I will release monthly updates. AOO admins may disable automatic updates when they are about to release a new version of AOO, so that when you install their package, you won't be prompted to update the dictionaries.
+I will release regular updates. AOO/LO admins may disable automatic updates so that when you install their package, you won't be prompted to update the dictionaries.
 
 Both extensions for AOO and LO are identical, basically the only differences is the wording of <B>“for OpenOffice 4.0+”</B>/<B>“for LibreOffice 4.0+”</B> and the extension sites URLs.
 
