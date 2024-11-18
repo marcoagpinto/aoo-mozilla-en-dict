@@ -19,7 +19,7 @@ I <B>(Marco Pinto)</B> am only improving the en_GB and en_ZA. Kevin Atkinson mai
 
 I will release regular updates. AOO/LO admins may disable automatic updates so that when you install their package, you won't be prompted to update the dictionaries.
 
-Both extensions for AOO and LO are identical, basically the only differences is the wording of <B>“for OpenOffice 4.0+”</B>/<B>“for LibreOffice 4.0+”</B> and the extension sites URLs.
+Both extensions for AOO and LO are identical, the only differences is the wording of <B>“for OpenOffice 4.0+”</B>/<B>“for LibreOffice 4.0+”</B> and the extension sites URLs.
 
 Notice the <B>“en_GB_speller_for_Mozilla+AOO+LO_2013+.txt”</B> above, where I keep a changelog.
 
