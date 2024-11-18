@@ -11,7 +11,7 @@ The biggest issue is that most of these dictionaries are obfuscated <B>(codified
 
 In some cases, we will have to start from a long-time gone position, the last known clean text version of the dictionary.
 
-Modifying, updating and maintaining a dictionary is a hard important task for current and future generations.
+Modifying, updating and maintaining a dictionary is a hard, important task for current and future generations.
 
 The dictionaries here are the most recent versions available, and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
@@ -23,7 +23,8 @@ Both extensions for AOO and LO are identical, basically the only differences is 
 
 Notice the <B>“en_GB_speller_for_Mozilla+AOO+LO_2013+.txt”</B> above, where I keep a changelog.
 
-I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website: https://proofingtoolgui.org
+I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website:
+https://proofingtoolgui.org
 
 
 #### Each GitHub folder has:
