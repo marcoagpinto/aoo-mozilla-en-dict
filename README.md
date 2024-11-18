@@ -13,7 +13,7 @@ In some cases, we will have to start from a long-time gone position, the last kn
 
 Modifying, updating and maintaining a dictionary is a hard, important task for current and future generations.
 
-The dictionaries here are the most recent versions available, and this repository makes it easier for developers to find all in one place and take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
+The dictionaries in this repository are the most recent versions available, making it easier for developers to take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
 I <B>(Marco Pinto)</B> am only improving the en_GB. Kevin Atkinson maintains the en_AU, en_US and en_CA. Please contact Kevin directly for the latter three: https://github.com/en-wl/wordlist, http://wordlist.aspell.net. Dwayne Bailey no longer maintains the en_ZA, and I have done a few fixes in it myself.
 
