@@ -21,14 +21,14 @@ I will release regular updates. AOO/LO admins may disable automatic updates so t
 
 Both extensions for AOO and LO are identical, the only differences is the wording of <B>“for OpenOffice 4.0+”</B>/<B>“for LibreOffice 4.0+”</B> and the extension sites URLs.
 
-Notice the <B>“en_GB_speller_for_Mozilla+AOO+LO_2013+.txt”</B> above, where I keep a changelog.
+Notice the <B>“2025+_Release_notes.txt”</B> above, where I keep a changelog.
 
 I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website:
 https://proofingtoolgui.org
 
 
 #### Each GitHub folder has:
-* .AFF + .DIC + README + WORDLIST.  
+* .AFF + .DIC + README + WORDLIST + ZIPPED_WORDLIST.  
   
   
 #### Licences for the wordlists:
@@ -36,7 +36,7 @@ https://proofingtoolgui.org
 * en_CA <B>(Kevin Atkinson)</B> — BSD/MIT-Like;
 * en_GB <B>(Marco A.G.Pinto)</B> — LGPL;
 * en_US <B>(Kevin Atkinson)</B> — BSD/MIT-Like;
-* en_ZA <B>(Dwayne Bailey)(Marco A.G.Pinto)</B> — LGPL. 
+* en_ZA <B>(Marco A.G.Pinto)</B> — LGPL. 
   
 
 #### Suggesting words:
