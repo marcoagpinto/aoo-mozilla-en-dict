@@ -1,0 +1,5 @@
+﻿MAGP 2025-01-01
+Updated the Dictionaries:
+- British (Marco A.G.Pinto): 343 new words
+- ZA (Marco A.G.Pinto): wordlist entries: 148695
+
