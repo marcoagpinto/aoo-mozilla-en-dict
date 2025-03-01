@@ -7,6 +7,7 @@ aoo-mozilla-en-dict
 
 For specific -ise/-ize variants, some verbs, and words may be missing or incorrectly included.</B>
 
+
 For many years that people stopped maintaining dictionaries for open-source software.
 
 It would be great to continue their work and improve existing dictionaries or create new ones.
