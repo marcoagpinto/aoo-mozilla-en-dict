@@ -3,11 +3,11 @@ aoo-mozilla-en-dict
 
 ![Project Logo](assets/logo_2025+.png)
 
-<B>IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE
-
+<B>IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE<br>
 For specific -ise/-ize variants, some verbs, and words may be missing or incorrectly included.</B>
-
-
+<br>
+<br>
+<br>
 For many years that people stopped maintaining dictionaries for open-source software.
 
 It would be great to continue their work and improve existing dictionaries or create new ones.
