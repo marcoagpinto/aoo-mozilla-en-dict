@@ -1,7 +1,7 @@
 aoo-mozilla-en-dict
 ===================
 
-<B>English Dictionaries Project</B>
+![Project Logo](assets/logo_2025+.png)
 
 For many years that people stopped maintaining dictionaries for open-source software.
 
@@ -50,8 +50,8 @@ First, check the wordlist .txt file inside the folder of the latest en_GB. If th
 If you know of any projects that use them, please let me know, and I will list them on the official PTG page.
 
 #### NOTICE:
-<B>I have been publicly attacked regarding my dictionary, even in front of other developers. They only know how to criticise instead of suggesting words/fixes for the dictionary. There are millions of words, and I can't find them all by myself.
+<B>I have been publicly criticised for my dictionary, even in front of other developers. They only point out flaws instead of suggesting new words or corrections. There are millions of words, and I can't manage them all alone.
 
-This is a serious project, I have been paying out of my own pocket hundreds of EUR per year for web hosting, domains, premium account in Oxford Dictionaries, etc. so that people can enjoy quality work freely.
+This project is very serious. I spend hundreds of EUR every year on web hosting, domains, and a premium Oxford Dictionaries account so that everyone can enjoy quality work for free.
 
 I am a disabled person and open-source is almost all I have left in life.</B>
