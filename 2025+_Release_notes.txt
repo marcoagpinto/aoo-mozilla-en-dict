@@ -1,4 +1,16 @@
-﻿MAGP 2025-01-01
+﻿MAGP 2025-03-01
+New icon for the extension in 128×128 pixels.
+
+Unified the ZA flags with GB (~2800 new words including fixes in some).
+
+Taken from ZA to GB: #PHONEtic transformation rules for use with #PHONEtic.c.
+
+Updated the Dictionaries:
+- GB (ise) (Marco A.G.Pinto): wordlist entries: 274076
+- ZA (ise) (Marco A.G.Pinto): wordlist entries: 213689
+
+
+MAGP 2025-01-01
 Updated the Dictionaries:
 - British (Marco A.G.Pinto): 343 new words
 - ZA (Marco A.G.Pinto): wordlist entries: 148695
