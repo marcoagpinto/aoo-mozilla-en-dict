@@ -8,7 +8,7 @@ For specific -ise/-ize variants, some verbs, and words may be missing or incorre
 <br>
 <br>
 <br>
-For many years that people stopped maintaining dictionaries for open-source software.
+For many years that people stopped actively maintaining dictionaries for open-source software.
 
 It would be great to continue their work and improve existing dictionaries or create new ones.
 
@@ -33,7 +33,7 @@ https://proofingtoolgui.org
 
 
 #### Each GitHub folder has:
-* .AFF + .DIC + README + WORDLIST + ZIPPED_WORDLIST.  
+* .AFF + .DIC + README + WORDLIST + ZIPPED_FOLDER_FILES.  
   
   
 #### Licences for the wordlists:
@@ -46,13 +46,9 @@ https://proofingtoolgui.org
 
 #### Suggesting words:
 
-First, check the wordlist .txt file inside the folder of the latest en_GB. If the words aren't there:
+First, check the wordlist .txt file inside the folder of the latest dictionaries. If the words aren't there:
 * Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words.
-  
 
-#### Projects using GB/Proofing Tool GUI:
-
-If you know of any projects that use them, please let me know, and I will list them on the official PTG page.
 
 #### NOTICE:
 <B>I have been publicly criticised for my dictionary, even in front of other developers. They only point out flaws instead of suggesting new words or corrections. There are millions of words, and I can't manage them all alone.
