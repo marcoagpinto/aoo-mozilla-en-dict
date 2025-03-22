@@ -44,10 +44,10 @@ https://proofingtoolgui.org
 * en_ZA <B>(Marco A.G.Pinto)</B> — LGPL. 
   
 
-#### Suggesting words:
+#### Suggesting words/fixes:
 
 First, check the wordlist .txt file inside the folder of the latest dictionaries. If the words aren't there:
-* Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words.
+* Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words or with words that should be fixed.
 
 
 #### NOTICE:
