@@ -28,7 +28,7 @@ Both extensions for AOO and LO are identical, the only differences is the wordin
 
 Notice the <B>“2025+_Release_notes.txt”</B> above, where I keep a changelog.
 
-I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website:
+I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website:  
 https://proofingtoolgui.org
 
 
@@ -48,6 +48,17 @@ https://proofingtoolgui.org
 
 First, check the wordlist .txt file inside the folder of the latest dictionaries. If the words aren't there:
 * Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words or with the words that should be fixed.
+
+
+#### List of abbreviations used:
+
+AOO: Apache OpenOffice  
+ LO: LibreOffice  
+ GB: Great Britain  
+ ZA: South Africa  
+ US: United States  
+ CA: Canada  
+ AU: Australia 
 
 
 #### NOTICE:
