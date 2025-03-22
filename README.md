@@ -16,7 +16,7 @@ The biggest issue is that most of these dictionaries are obfuscated <B>(codified
 
 In some cases, we will have to start from a long-time position, the last known clean text version of the dictionaries.
 
-Modifying, updating and maintaining a dictionary is a hard, important task for current and future generations.
+Modifying, updating and maintaining a dictionary is a difficult, important task for current and future generations.
 
 The dictionaries in this repository are the most recent versions available, making it easier for developers to take the .AFF and .DIC files to use them in projects with proofing — or spellchecking — functionalities.
 
