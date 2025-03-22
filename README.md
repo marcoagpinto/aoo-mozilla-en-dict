@@ -28,7 +28,7 @@ Both extensions for AOO and LO are identical, the only differences is the wordin
 
 Notice the <B>“2025+_Release_notes.txt”</B> above, where I keep a changelog.
 
-I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI <B>(PTG)</B> website:  
+I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on the Proofing Tool GUI website:  
 https://proofingtoolgui.org
 
 
