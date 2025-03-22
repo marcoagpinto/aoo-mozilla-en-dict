@@ -47,7 +47,7 @@ https://proofingtoolgui.org
 #### Suggesting words/fixes:
 
 First, check the wordlist .txt file inside the folder of the latest dictionaries. If the words aren't there:
-* Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words or with words that should be fixed.
+* Open an issue or e-mail Marco Pinto ( <B>marcoagpinto AT sapo.pt</B> ) with the suggested words or with the words that should be fixed.
 
 
 #### NOTICE:
