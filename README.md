@@ -36,7 +36,7 @@ https://proofingtoolgui.org
 * .AFF + .DIC + README + WORDLIST + ZIPPED_FOLDER_FILES.  
   
   
-#### Licences for the wordlists:
+#### Licences for the dictionaries:
 * en_AU <B>(Kevin Atkinson)</B> — BSD/MIT-Like;
 * en_CA <B>(Kevin Atkinson)</B> — BSD/MIT-Like;
 * en_GB <B>(Marco A.G.Pinto)</B> — LGPL;
