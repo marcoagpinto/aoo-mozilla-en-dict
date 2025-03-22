@@ -32,7 +32,7 @@ I keep notes of the most recent releases for Mozilla, BlueGriffon, AOO and LO on
 https://proofingtoolgui.org
 
 
-#### Each GitHub folder has:
+#### Each dictionary GitHub folder has:
 * .AFF + .DIC + README + WORDLIST + ZIPPED_FOLDER_FILES.  
   
   
