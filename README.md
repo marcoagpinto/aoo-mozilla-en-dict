@@ -3,7 +3,9 @@ aoo-mozilla-en-dict
 
 ![Project Logo](assets/logo_2025+.png)
 
-<B>IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE<br>
+<B>IN NOVEMBER 2025, MARCO PINTO WILL ASSUME RESPONSIBILITY FOR THE AMERICAN, CANADIAN, AND AUSTRALIAN DICTIONARIES.<br><br>
+
+IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE<br>
 For specific -ise/-ize variants, some verbs, and words may be missing or incorrectly included.</B>
 <br>
 <br>
