@@ -64,7 +64,7 @@ AOO: Apache OpenOffice
 
 
 #### NOTICE:
-<B>I have been publicly criticised for my dictionary, even in front of other developers. They only point out flaws instead of suggesting new words or corrections. There are millions of words, and I can't manage them all alone.
+<B>I have been publicly criticised for my GB dictionary, even in front of other developers. They only point out flaws instead of suggesting new words or corrections. There are millions of words, and I can't manage them all alone.
 
 This project is very serious. I spend hundreds of EUR every year on web hosting, domains, and a premium Oxford Dictionaries account so that everyone can enjoy quality work for free.
 
