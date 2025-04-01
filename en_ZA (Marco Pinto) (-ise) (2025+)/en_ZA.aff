@@ -2,7 +2,7 @@
 # Furthermore, suitable as a basis for Commonwealth and European English.
 # Built from scratch for MySpell. Released under LGPL.
 #
-# David Bartlett, Andrew Brown, Marco A.G.Pinto.
+# David Bartlett, Andrew Brown, Dwayne Bailey, Marco A.G.Pinto.
 #
 # In 2025 Marco A.G.Pinto officially forked the ZA dictionary.
 # Since 2021 that ZA has been improved/fixed by Marco A.G.Pinto.
@@ -10,7 +10,7 @@
 #
 # Dictionary Information:
 # English variant: South African
-#         Version: 2025-03-01
+#         Version: 2025-04-01
 #        Encoding: UTF-8-BOM Unix (LF)
 #       -ise/-ize: -ise
 #        Comments: For specific -ise/-ize variants, some verbs, and words may be missing or incorrectly included.
