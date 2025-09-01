@@ -1,4 +1,12 @@
-﻿MAGP 2025-07-01
+﻿MAGP 2025-09-01
+Better -ise/-ize handling.
+
+Updated the Dictionaries:
+- GB (-ise) (Marco A.G.Pinto): wordlist entries: 276069
+- ZA (-ise) (Marco A.G.Pinto): wordlist entries: 216009
+
+
+MAGP 2025-07-01
 Better -ise/-ize handling.
 
 Updated the Dictionaries:
