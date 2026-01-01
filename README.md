@@ -4,7 +4,7 @@ aoo-mozilla-en-dict
 ![Project Logo](assets/logo_2025+.png)
 
 **IN JANUARY 2026, MARCO BEGAN MAINTAINING ALTERNATIVE VERSIONS OF THE U.S., CANADIAN, AND AUSTRALIAN DICTIONARIES.**  
-**THE en_US, en_CA, AND en_AU DICTIONARIES PROVIDED HERE ARE ALTERNATIVES TO THE CORRESPONDING UPSTREAM DICTIONARIES.**  
+**THESE en_US, en_CA, AND en_AU DICTIONARIES ARE ALTERNATIVES TO THE UPSTREAM ONES.**  
 **The U.S., Canadian, and Australian dictionaries MAY differ slightly in coverage for some region-specific terms.**
 
 **IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE.**  
@@ -52,9 +52,9 @@ Regular dictionary updates are released three times per year — on the **first 
 Each release enters a feature freeze approximately one week before publication, allowing time to prepare release notes, update websites, and finalise packaging. Maintaining five dictionaries simultaneously requires careful coordination to ensure accuracy and stability.
 
 **Note:**  
-Since late 2025, the AOO Extensions website has been read-only, so updates and downloads can no longer be provided there. For this reason, only a LibreOffice (LO) extension is now released, which can also be installed and used in Apache OpenOffice (AOO).
+Since late 2025, the AOO Extensions website has been read-only, so only a LibreOffice (LO) extension is now maintained. This extension can also be installed and used in Apache OpenOffice (AOO).
 
-The AOO and LO extensions contain the same wordlist; they previously differed only in naming and update URLs. With the AOO site read-only, the LO extension is now the only maintained version for both LO and AOO. For more details, see [this LibreOffice bug report](https://bugs.documentfoundation.org/show_bug.cgi?id=148250).
+The LO and former AOO extensions are identical in content; they previously differed only in naming and update URLs. For more details, see [this LibreOffice bug report](https://bugs.documentfoundation.org/show_bug.cgi?id=148250).
 
 A changelog for dictionary updates is available in `2025+_Release_notes.txt`.
 
