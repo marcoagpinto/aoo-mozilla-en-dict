@@ -3,7 +3,7 @@ aoo-mozilla-en-dict
 
 ![Project Logo](assets/logo_2025+.png)
 
-**IN JANUARY 2026, MARCO BEGAN MAINTAINING ALTERNATIVE VERSIONS OF THE U.S., CANADIAN, AND AUSTRALIAN DICTIONARIES.**  
+**SINCE JANUARY 2026, MARCO MAINTAINS ALTERNATIVE U.S., CANADIAN, AND AUSTRALIAN DICTIONARIES.**  
 **THESE en_US, en_CA, AND en_AU DICTIONARIES ARE ALTERNATIVES TO THE UPSTREAM ONES.**  
 **The U.S., Canadian, and Australian dictionaries MAY differ slightly in coverage for some region-specific terms.**
 
