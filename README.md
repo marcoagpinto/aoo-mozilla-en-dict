@@ -52,9 +52,9 @@ Regular dictionary updates are released three times per year — on the **first 
 Each release enters a feature freeze approximately one week before publication, allowing time to prepare release notes, update websites, and finalise packaging. Maintaining five dictionaries simultaneously requires careful coordination to ensure accuracy and stability.
 
 **Note:**  
-Since late 2025, the AOO Extensions website became read-only, so I can no longer update my dictionary or provide working downloads there. Because of this, I now release only a LO extension, which you can also install and use in AOO.
+Since late 2025, the AOO Extensions website has been read-only, so updates and downloads can no longer be provided there. For this reason, only a LibreOffice (LO) extension is now released, which can also be installed and used in Apache OpenOffice (AOO).
 
-The wordlist content of the AOO and LO extensions is identical. The main differences were in naming (“for OpenOffice 4.0+” vs “for LibreOffice 4.0+”) and the URLs used for updates. Since the AOO Extensions site became read-only, only the LO extension is maintained and can be used in both LO and AOO. For more details, see [this LibreOffice bug report](https://bugs.documentfoundation.org/show_bug.cgi?id=148250).
+The AOO and LO extensions contain the same wordlist; they previously differed only in naming and update URLs. With the AOO site read-only, the LO extension is now the only maintained version for both LO and AOO. For more details, see [this LibreOffice bug report](https://bugs.documentfoundation.org/show_bug.cgi?id=148250).
 
 A changelog for dictionary updates is available in `2025+_Release_notes.txt`.
 
