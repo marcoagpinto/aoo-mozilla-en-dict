@@ -1,4 +1,25 @@
-﻿MAGP 2025-09-01
+﻿MAGP 2026-01-01
+Marco began maintaining alternative versions of the US, CA, and AU dictionaries.
+
+Merged the GB dictionary into the ZA dictionary.
+
+Aligned all five dictionaries to the GB versioning format for consistency.
+
+Removed numerous Americanisms from the GB dictionary.
+
+The hyph US and GB files now use UTF-8-BOM Unix (LF).
+
+The thesaurus now uses UTF-8-BOM Unix (LF).
+
+Improved image for extension.
+
+Updated all five English dictionaries.
+
+
+=======================================================================
+
+
+MAGP 2025-09-01
 Better -ise/-ize handling.
 
 Updated the Dictionaries:
