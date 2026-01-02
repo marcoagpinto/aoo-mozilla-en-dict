@@ -10,6 +10,8 @@ aoo-mozilla-en-dict
 **IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE.**  
 **For specific -ise/-ize variants, some verbs and words MAY be missing or included differently.**
 
+**Update:** Major fixes and improvements for US, CA, and AU on 1 Feb 2026.
+
 
 **PLEASE READ THE FOLLOWING BEFORE DOWNLOADING**  
 **LIBREOFFICE EXTENSION V2026.01.01+:**  
@@ -93,7 +95,7 @@ User feedback is critical for continually enhancing dictionary accuracy. Report 
 
 Please pay special attention to words ending with “**ise**” and “**ize**”, as conversions sometimes lead to inadvertent omissions. Feedback helps reinstate valid entries as exceptions.
 
-To check words that may have been incorrectly removed in specific “**-ise**” / “**-ize**” variants, consult the full wordlists of both forms in the respective **ise+ize** folder above in this GitHub repository. This ensures you are reviewing the complete set of entries for both variants.
+To check words that may have been incorrectly removed in specific “**-ise**”/“**-ize**” variants, consult the full wordlists of both forms in the respective **ise+ize** folder above in this GitHub repository. This ensures you are reviewing the complete set of entries for both variants.
 
 Significant enhancements to the `.AFF` file have been made, particularly addressing issues with U.S. English verb derivations ending in “**r**” (e.g., “**color**” → “**colored**”, previously incorrectly listed as “**colorred**”). While extensive efforts have been made to correct these, please report any remaining errors.
 
