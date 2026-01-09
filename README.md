@@ -137,16 +137,3 @@ These improvements will:
 - Improve performance for software using these dictionaries.
 
 **Community feedback will be essential** during this transition. Any unexpected issues or missing words should be reported quickly so they can be fixed before the new system becomes the standard.
-
----
-
-#### ⚠ NOTICE:
-<B>I have been publicly criticised for my GB dictionary, even in front of other developers.
-They only point out flaws instead of suggesting new words or corrections.
-
-There are millions of words, and I can't manage them all alone.
-
-This project is very serious.
-I spend hundreds of EUR yearly on web hosting, domains, and a premium Oxford Dictionaries account so that everyone can enjoy quality work for free.
-
-I am a disabled person and open-source is almost all I have left in life.</B>
