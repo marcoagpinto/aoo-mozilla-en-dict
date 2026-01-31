@@ -1,4 +1,12 @@
-﻿MAGP 2026-01-01
+﻿MAGP 2026-02-01
+Flag enhancements, mainly for U.S. words.
+
+Major fixes and improvements to the US, CA, and AU dictionaries.
+
+Added an OED (Oxford English Dictionary) dictionary to the LibreOffice extension.
+
+
+MAGP 2026-01-01
 Marco began maintaining alternative versions of the US, CA, and AU dictionaries.
 
 Merged the GB dictionary into the ZA dictionary.
