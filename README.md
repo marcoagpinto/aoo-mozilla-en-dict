@@ -30,9 +30,10 @@ Maintaining, updating, and enhancing dictionaries is a complex yet vital task, e
 
 This repository contains the latest available versions of dictionaries, facilitating easy use by developers for proofing or spellchecking applications (`.AFF` and `.DIC` file formats).
 
-I, **Marco Pinto**, actively maintain all five primary variants of English dictionaries:
+I, **Marco Pinto**, actively maintain all six primary variants of English dictionaries:
 
 - **British English** (`en_GB`)
+- **British English** (`en_GB`) (Oxford English Dictionary)
 - **South African English** (`en_ZA`)
 - **American English** (`en_US`) (alt) *(it took me one year of careful preparation before the initial U.S. release — it was quite a challenging task.)*
 - **Canadian English** (`en_CA`) (alt)
