@@ -10,7 +10,7 @@ aoo-mozilla-en-dict
 **IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE.**  
 **For specific -ise/-ize variants, some verbs and words MAY be missing or included differently.**
 
-**Update:** Major fixes and improvements for US, CA, and AU on 1 Feb 2026.
+**Update:** Major fixes and improvements for US, CA, and AU on 1 Feb 2026. ✅
 
 
 **PLEASE READ THE FOLLOWING BEFORE DOWNLOADING**  
