@@ -1,4 +1,10 @@
-﻿MAGP 2026-02-01
+﻿MAGP 2026-03-01
+Flag enhancements, mainly for U.S. words.
+
+Major fixes and improvements to the US dictionary.
+
+
+MAGP 2026-02-01
 Flag enhancements, mainly for U.S. words.
 
 Major fixes and improvements to the US, CA, and AU dictionaries.
