@@ -34,7 +34,7 @@ This repository contains the latest available versions of dictionaries, facilita
 I, **Marco Pinto**, actively maintain all six primary variants of English dictionaries:
 
 - **British English** (`en_GB`)
-- **British English** (`en_GB`) (Oxford English Dictionary)
+- **British English** (`en_GB-oxendict`) (Oxford English Dictionary)
 - **South African English** (`en_ZA`)
 - **American English** (`en_US`) (alt) *(it took me one year of careful preparation before the initial U.S. release.)*
 - **Canadian English** (`en_CA`) (alt)
