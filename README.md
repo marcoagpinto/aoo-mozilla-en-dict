@@ -11,7 +11,7 @@ aoo-mozilla-en-dict
 **For specific -ise/-ize variants, some verbs and words MAY be missing or included differently.**
 
 **Update:** Major fixes and improvements for US, CA, and AU on 1 Feb 2026. ✅  
-**Update:** Major fixes and improvements for US on 1 Mar 2026. ✅
+**Update:** Major fixes and improvements for US on 1 Mar 2026. ✅  
 **Update:** Critical update for US on 7 Mar 2026. ✅
 
 
