@@ -109,7 +109,7 @@ Significant enhancements to the `.AFF` file have been made, particularly address
 > **Update (completed ahead of schedule):**  
 > Two key goals planned for 2027 were successfully completed earlier:..
 > - ✅ Merged the GB dictionary into the ZA dictionary  
-> - ✅ Aligned all five dictionaries to the GB versioning format for consistency  
+> - ✅ Aligned all six dictionaries to the GB versioning format for consistency  
 
 These items are therefore already in place prior to the V5 transition timeline.  
 
