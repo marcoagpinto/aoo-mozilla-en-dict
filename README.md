@@ -8,7 +8,6 @@ aoo-mozilla-en-dict
 **The U.S., Canadian, and Australian dictionaries MAY differ slightly in coverage for some region-specific terms.**
 
 **IN MARCH 2025, THE DEFAULT BRITISH AND SOUTH AFRICAN DICTIONARIES BECAME -ISE.**  
-**For specific -ise/-ize variants, some verbs and words MAY be missing or included differently.**
 
 **Update:** Major fixes and improvements for US, CA, and AU on 1 Feb 2026. ✅  
 **Update:** Major fixes and improvements for US on 1 Mar 2026. ✅  
