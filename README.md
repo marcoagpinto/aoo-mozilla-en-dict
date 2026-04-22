@@ -53,7 +53,9 @@ Dwayne Bailey previously maintained the `en_ZA` dictionary but has since ceased 
 
 Regular dictionary updates are released three times per year — on the **first day of January, May, and September**.
 
-Each release enters a feature freeze approximately one week before publication, allowing time to prepare release notes, update websites, and finalise packaging. Maintaining six dictionaries simultaneously requires careful coordination to ensure accuracy and stability.
+Monthly releases are no longer feasible due to the considerable workload associated with maintaining six dictionary variants.
+
+Each release enters a feature freeze approximately one week before publication, allowing time to prepare release notes, update websites, and finalise packaging. This process ensures accuracy and stability across all dictionaries.
 
 **Note:**  
 Since late 2025, the AOO Extensions website has been read-only, so only a LibreOffice (LO) extension is now maintained. This extension can also be installed and used in Apache OpenOffice (AOO).
