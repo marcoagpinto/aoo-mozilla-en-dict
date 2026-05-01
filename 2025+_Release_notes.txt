@@ -1,4 +1,8 @@
-﻿MAGP 2026-03-07
+﻿MAGP 2026-05-01
+Flag enhancements, mainly for U.S. words.
+
+
+MAGP 2026-03-07
 Critical update: An issue in the US dictionary was caused by my tool automatically
 removing prefixes from lemmas in the removal list — a feature that seemed helpful
 but proved problematic.
