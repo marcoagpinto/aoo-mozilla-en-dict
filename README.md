@@ -84,6 +84,8 @@ Each dictionary folder on GitHub includes:
 
 All dictionaries maintained by Marco Pinto are licensed under the [LGPL (Lesser General Public Licence)](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
+The licences for the dictionaries can be found at the bottom of the file: `README_en_GB_ZA_US_CA_AU.txt`.
+
 ---
 
 ## Suggesting Words and Corrections
