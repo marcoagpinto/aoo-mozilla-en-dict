@@ -116,44 +116,5 @@ The goal is to reduce unnecessary spelling warnings while supporting the widest 
 
 ## Plans for 2027 and Beyond
 
-> **Update (completed ahead of schedule):**
-> Two key goals planned for 2027 were successfully completed earlier:..
->
-> * ✅ Merged the GB dictionary into the ZA dictionary
-> * ✅ Aligned all six dictionaries to the GB versioning format for consistency
+See the [project roadmap](ROADMAP.md) for planned dictionary improvements and future development.  
 
-These items are therefore already in place prior to the V5 transition timeline.
-
-Starting in 2027, all dictionaries will move to the **fifth generation (V5)** — a major upgrade designed to make them faster, cleaner, and easier to maintain.
-
-### Key Changes in V5
-
-1. **No more PFX flags**
-
-   * Prefix (**PFX**) flags will be removed from `.DIC` files.
-   * This simplifies file structure, reduces complexity, and speeds up decoding.
-
-2. ~~**One version number for all**~~ ✅ *(completed early)*
-
-   * All dictionary locales will share the same versioning system.
-   * Makes it easier for developers and users to track updates across different English variants.
-
-3. **Smaller, more efficient dictionaries**
-
-   * Merging and reorganising word flags will cut down on duplicates.
-   * This reduces file size and improves consistency.
-
-4. ~~**Merging en_GB into en_ZA**~~ ✅ *(completed early)*
-
-   * The British English (`en_GB`) wordlist will be merged into the South African English (`en_ZA`) dictionary.
-   * This will create a larger and more complete South African dictionary, benefiting both locales.
-
-### Why This Matters
-
-These improvements will:
-
-* Make the dictionaries easier to maintain for years to come.
-* Reduce the chance of errors during updates.
-* Improve performance for software using these dictionaries.
-
-**Community feedback will be essential** during this transition. Any unexpected issues or missing words should be reported quickly so they can be fixed before the new system becomes the standard.
