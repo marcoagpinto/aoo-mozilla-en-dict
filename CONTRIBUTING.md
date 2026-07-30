@@ -21,6 +21,17 @@ Please pay special attention to words ending in **-ise** and **-ize**, as conver
 
 To check words that may have been incorrectly removed from specific **-ise** or **-ize** variants, consult the complete wordlists for both forms in the respective **ise+ize** folder in this GitHub repository. This ensures that the complete set of entries for both variants is reviewed.
 
+The `en_US`, `en_CA`, and `en_AU` dictionaries are generated from `en_GB` using Proofing Tool GUI. The conversion applies hundreds of spelling patterns, transformation rules, locale-specific additions, removals, and exceptions.
+
+Because the generated dictionaries may change substantially during this process, contributors should compare the expanded wordlists using a diff tool to identify exactly which entries were added, removed, or modified between versions.
+
+When reporting a conversion problem, please indicate:
+
+* the source word in `en_GB`;
+* the expected form in `en_US`, `en_CA`, or `en_AU`;
+* the form actually generated;
+* the dictionary versions or wordlists compared.
+
 Significant improvements have been made to the `.AFF` file, particularly to address problems with U.S. English verb forms ending in **r**, such as:
 
 ```text
