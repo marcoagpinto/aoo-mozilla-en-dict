@@ -2,6 +2,8 @@
 
 Contributions, corrections, and feedback are welcome and help keep the dictionaries accurate, comprehensive, and up to date.
 
+---
+
 ## Suggesting Words and Corrections
 
 Please verify the wordlist (`.txt` file) within the latest dictionary release before submitting suggestions.
@@ -33,6 +35,8 @@ colorred
 
 Although extensive efforts have been made to correct these problems, please report any remaining errors.
 
+---
+
 ## Inclusion Rules
 
 Words should normally meet the following criteria before being added:
@@ -58,6 +62,8 @@ Suitable sources include:
 * printed dictionaries and other established reference works.
 
 Wiktionary and Wikipedia may be useful for preliminary research, but they should be used with caution and, whenever possible, supported by a more authoritative source.
+
+---
 
 ## Contributors
 
