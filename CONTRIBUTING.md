@@ -1,6 +1,8 @@
 # Contributing
 
-Contributions, corrections, and feedback are welcome and help keep the dictionaries accurate, comprehensive, and up to date.
+There are millions of English words and word forms, making it impossible for one person to identify and maintain them all. Contributions, corrections, and feedback are therefore always welcome and help keep the dictionaries accurate, comprehensive, and up to date.
+
+The maintainer invests significant personal resources — including time, effort, and money — to ensure that this work remains freely available and of high quality.
 
 ---
 
@@ -27,9 +29,9 @@ Because the generated dictionaries may change substantially during this process,
 
 When reporting a conversion problem, please indicate:
 
-* the source word in `en_GB`;
-* the expected form in `en_US`, `en_CA`, or `en_AU`;
-* the form actually generated;
+* the source word in `en_GB`.
+* the expected form in `en_US`, `en_CA`, or `en_AU`.
+* the form actually generated.
 * the dictionary versions or wordlists compared.
 
 Significant improvements have been made to the `.AFF` file, particularly to address problems with U.S. English verb forms ending in **r**, such as:
@@ -63,13 +65,13 @@ When reporting a word that appears to belong to the wrong regional dictionary, p
 
 Suitable sources include:
 
-* Oxford dictionaries;
-* Collins Dictionary;
-* Cambridge Dictionary;
-* Merriam-Webster;
-* recognised regional dictionaries;
-* reputable corpora;
-* official institutional sources;
+* Oxford dictionaries.
+* Collins Dictionary.
+* Cambridge Dictionary.
+* Merriam-Webster.
+* recognised regional dictionaries.
+* reputable corpora.
+* official institutional sources.
 * printed dictionaries and other established reference works.
 
 Wiktionary and Wikipedia may be useful for preliminary research, but they should be used with caution and, whenever possible, supported by a more authoritative source.
