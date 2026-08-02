@@ -96,7 +96,7 @@ Each dictionary folder on GitHub includes:
 
 Installation instructions and additional project documentation are available on the [Proofing Tool GUI website](https://proofingtoolgui.org).
 
-* [Installation instructions](https://proofingtoolgui.org/en_installing.html) — installation in Mozilla applications, LibreOffice, and Apache OpenOffice. Some screenshots or interface details may be outdated, but the general installation process remains applicable.
+* [Installation instructions](https://proofingtoolgui.org/en_installing.html) — installation in Mozilla applications, LibreOffice, and Apache OpenOffice.
 * [Dictionary notes](https://proofingtoolgui.org/en_GB_README.html) — additional information about the English dictionaries.
 - [Complete British English dictionary changelog](https://proofingtoolgui.org/en_GB_CHANGES.txt) — words, corrections, and other changes introduced over the years in the `en_GB` dictionary.
 * [Project history and involvement](https://proofingtoolgui.org/getting_involved.html) — historical information about the project and its development.
