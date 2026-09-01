@@ -1,4 +1,24 @@
-﻿MAGP 2026-07-01
+﻿# MAGP 2026-09-01
+Cleaned up the log file.
+
+Removed additional Britishisms from the US dictionary.
+
+Corrected the handling of “improvise” and “improvize”;
+“improvize” is not a valid spelling.
+
+Enhanced flags, mainly for US English words.
+
+Added flag “á” for adjectival forms ending in “-like”.
+
+Added flag “é” for irregular plural forms.
+
+Improved the hyphenation dictionaries.
+
+Rewrote and expanded most of the README file.
+
+
+
+# MAGP 2026-07-01
 Major updates to the Canadian and US dictionaries.
 
 Removed Americanisms from the GB dictionary.
@@ -20,7 +40,8 @@ Added possessive forms for most -ness nouns.
 Added numerous derived forms, including plurals and possessives.
 
 
-MAGP 2026-05-01
+
+#MAGP 2026-05-01
 Flag enhancements, mainly for U.S. words.
 
 
@@ -30,13 +51,15 @@ removing prefixes from lemmas in the removal list — a feature that seemed help
 but proved problematic.
 
 
-MAGP 2026-03-01
+
+# MAGP 2026-03-01
 Flag enhancements, mainly for U.S. words.
 
 Major fixes and improvements to the US dictionary.
 
 
-MAGP 2026-02-01
+
+# MAGP 2026-02-01
 Flag enhancements, mainly for U.S. words.
 
 Major fixes and improvements to the US, CA, and AU dictionaries.
@@ -44,7 +67,8 @@ Major fixes and improvements to the US, CA, and AU dictionaries.
 Added an OED (Oxford English Dictionary) dictionary to the LibreOffice extension.
 
 
-MAGP 2026-01-01
+
+# MAGP 2026-01-01
 Marco began maintaining alternative versions of the US, CA, and AU dictionaries.
 
 Merged the GB dictionary into the ZA dictionary.
@@ -65,43 +89,37 @@ Updated all five English dictionaries.
 =======================================================================
 
 
-MAGP 2025-09-01
+# MAGP 2025-09-01
 Better -ise/-ize handling.
 
-Updated the Dictionaries:
-- GB (-ise) (Marco A.G.Pinto): wordlist entries: 276069
-- ZA (-ise) (Marco A.G.Pinto): wordlist entries: 216009
+Updated the GB and ZA dictionaries.
 
 
-MAGP 2025-07-01
+
+# MAGP 2025-07-01
 Better -ise/-ize handling.
 
-Updated the Dictionaries:
-- GB (-ise) (Marco A.G.Pinto): wordlist entries: 275092
-- ZA (-ise) (Marco A.G.Pinto): wordlist entries: 214982
+Updated the GB and ZA dictionaries.
 
 
-MAGP 2025-04-01
+
+# MAGP 2025-04-01
 Better -ise/-ize handling.
 
-Updated the Dictionaries:
-- GB (-ise) (Marco A.G.Pinto): wordlist entries: 274149
-- ZA (-ise) (Marco A.G.Pinto): wordlist entries: 213876
+Updated the GB and ZA dictionaries.
 
 
-MAGP 2025-03-01
+
+# MAGP 2025-03-01
 New icon for the extension in 128×128 pixels.
 
 Unified the ZA flags with GB (~2800 new words including fixes in some).
 
 Taken from ZA to GB: #PHONEtic transformation rules for use with #PHONEtic.c.
 
-Updated the Dictionaries:
-- GB (-ise) (Marco A.G.Pinto): wordlist entries: 274076
-- ZA (-ise) (Marco A.G.Pinto): wordlist entries: 213689 (merged proper names and uncountable nouns from GB)
+Updated the GB and ZA dictionaries.
 
 
-MAGP 2025-01-01
-Updated the Dictionaries:
-- GB (Marco A.G.Pinto): 343 new words
-- ZA (Marco A.G.Pinto): wordlist entries: 148695
+
+# MAGP 2025-01-01
+Updated the GB and ZA dictionaries.
