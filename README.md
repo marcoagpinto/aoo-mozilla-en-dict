@@ -59,6 +59,8 @@ My main goal is to make these English dictionaries freely available, accurate, a
 
 These dictionaries are maintained with the belief that language belongs to humankind as a whole. It is a tool for learning, communication, dignity, and opportunity. For that reason, this project is kept free, regularly updated, and available across English variants, so that anyone can write and use English with confidence.
 
+Transparency is also an important principle of the project. The dictionary source files are publicly available on GitHub, allowing anyone to inspect the .DIC and .AFF files, examine the words and Hunspell rules they contain, and review how the dictionaries evolve over time. Because these files are stored as plain text rather than executable programs, their contents can be examined directly without hidden executable code, trackers, or other embedded software.
+
 I live a simple and modest life, choosing not to monetise this work so that everyone can benefit from it freely. However, if you fork these dictionaries or use them in your own projects, please credit this project somewhere visible. This work is the result of many years of maintenance, correction, expansion, and careful review; it should not be presented as someone else’s work after only adding or removing a small number of words.
 
 ---
