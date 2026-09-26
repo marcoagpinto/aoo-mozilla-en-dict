@@ -65,6 +65,22 @@ I live a simple and modest life, choosing not to monetise this work so that ever
 
 ---
 
+## Transparency, Track Record and Accountability
+
+The credibility of an open-source project should be based on verifiable work rather than personal claims.
+
+My contributions are developed publicly under my real name, with source files, release history, commits, issue discussions, and project documentation available for inspection. This makes it possible for users and other developers to examine not only the current dictionaries, but also how they have evolved over time.
+
+My open-source work extends beyond this repository and includes contributions to projects and communities such as **LanguageTool, Apache OpenOffice, LibreOffice, and Mozilla-related dictionary projects and tools**. Contributions submitted to established open-source projects may also be examined, discussed, tested, and reviewed by other contributors before or after integration.
+
+The **Proofing Tool GUI** and related linguistic resources are also developed openly, allowing their implementation and development history to be inspected independently.
+
+I maintain a long-standing public presence on development platforms such as GitHub and provide links to my professional, academic, research, and project background. This allows anyone interested in the project to independently verify my work, its history, and its relationship with the wider open-source community.
+
+Rather than asking users to rely on personal assurances, this project follows a principle of **verifiable transparency**: the work, its history, its documentation, and its results should speak for themselves.
+
+---
+
 ## Release Cycle
 
 Regular dictionary updates are released three times per year — on the **first day of January, May, and September** — unless there is something urgent to address, in which case a release may be published earlier.
